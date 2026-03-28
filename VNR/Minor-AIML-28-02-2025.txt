@@ -1,0 +1,853 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/syllabus-books/Minor-AIML-28-02-2025.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY HYDERABAD
+B.TECH. MINOR IN ARITFICIAL INTELLIGENCE AND MACHINE LEARNING
+COURSE STRUCTURE AND SYLLABUS
+(Applicable for the batches admitted from the academic year 2022-2023)
+V SEMESTER R22
+Course
+Title of the Course L T P/D CH C
+Code
+22MC1AM301 Foundations of Artificial Intelligence 3 0 0 3 3
+22MC2AM301 Artificial Intelligence Laboratory 0 0 3 3 1.5
+Total 3 0 3 6 4.5
+VI SEMESTER R22
+Course
+Title of the Course L T P/D CH C
+Code
+22MC1AM302 Artificial Intelligence Applications 3 1 0 4 4
+Total 3 1 0 4 4
+VII SEMESTER R22
+Course
+Title of the Course L T P/D CH C
+Code
+22MC1AM401 Principles of Machine Learning
+3 0 0 3 3
+22MC1AM402 Fundamentals of Deep Learning
+22MC2AM401 Principles of Machine Learning Laboratory
+0 0 3 3 1.5
+Fundamentals of Deep Learning
+22MC2AM402
+Laboratory
+Total 3 0 3 6 4.5
+VII SEMESTER R22
+Course
+Title of the Course L T P/D CH C
+Code
+22MC1AM403 Robotics Process Automation
+22MC1AM404 Natural Language Processing
+22MC1AM405 Game Theory
+3 0 0 3 3
+22MC1AM406 Computer Vision and Robotics
+22MC1AM407 Speech and Video Processing
+22MC1AM408 Soft Computing
+22MP1AM401 Mini – Project 0 0 4 4 2
+Total 3 0 4 7 5
+L – Lecture T – Tutorial P – Practical D – Drawing CH – Contact Hours/Week
+C – Credits SE – Sessional Examination CA – Class Assessment ELA – Experiential Learning Assessment
+SEE – Semester End Examination D-D – Day to Day Evaluation LR – Lab Record
+CP – Course Project PE – Practical Examination
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (AIML) V Semester
+(22MC1AM301) FOUNDATIONS OF ARTIFICIAL INTELLIGENCE
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To review important concepts required for Artificial Intelligence
+• To introduce the concept of learning patterns from data and develop a strong
+model using machine learning algorithms
+• To explain theoretical foundation for understanding state of the art Machine
+Learning algorithms like classifications, regressions
+• To understand unsupervised learning technique using partitioning and hierarchical
+clustering methods
+• To gain the knowledge on clustering techniques
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Represent knowledge and facts for solving the real-world problems
+CO-2: Build, and Evaluate the model using different Machine Learning techniques
+CO-3: Design and implement machine learning solutions to classification, regression
+CO-4: Design and implement various unsupervised learning methods to real-world
+applications
+CO-5: Implement clustering techniques on real time data
+COURSE ARTICULATION MATRIX:
+(Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12
+CO-1 3 1 2 2 3 1 2 - 1 - - 1
+CO-2 2 3 2 3 2 1 2 - 2 - - 2
+CO-3 2 2 3 3 3 2 2 - 2 - - 3
+CO-4 2 2 3 3 2 1 2 - 2 1 - 2
+CO5 3 2 3 2 3 2 2 1 3 3 3 3
+UNIT-I:
+Defining Artificial Intelligence, Defining AI techniques, Using Predicate Logic and
+Representing Knowledge as Rules, Representing simple facts in logic, Computable
+functions and predicates, Procedural vs Declarative knowledge, Logic Programming.
+UNIT-II:
+Mathematical Foundations: Matrix Theory and Statistics for Machine Learning. Idea of
+Machines learning from data, Classification of problem – Regression and
+Classification, Supervised and Unsupervised learning.
+UNIT-III:
+Linear Regression: Model representation for single variable, Single variable Cost
+Function, Gradient Decent for Linear Regression, Gradient Decent in practice
+UNIT-IV:
+Logistic Regression: Classification, Hypothesis Representation, Decision Boundary,
+Cost function, Advanced Optimization, Multi-classification (One vs All), Problem of
+Overfitting.
+UNIT-V:
+Clustering: clustering as a machine learning task, different types of clustering
+techniques, partitioning methods, k-medoids, hierarchical clustering. Use-cases
+centered around classification and clustering.
+TEXT BOOKS:
+1. Artificial Intelligence, Cengage Learning, Saroj Kaushik, 1st Edition, 2011
+2. Python Machine Learning by Example, Yuxi (Hayden) Liu, Packet Publishing, 2017
+REFERENCES:
+1. Machine Learning, Saikar Dutt, Subramanian Chandramouli, Amit Kumar Das,
+Pearson India
+2. Practical Workbook Artificial Intelligence and Soft Computing for Beginners,
+Anindita Das Bhattacharjee, Shroff Publisher-X team Publisher
+3. Machine Learning, Tom Mitchell, McGraw-Hill, 2017
+4. Pattern Recognition and Machine Learning, Christopher M. Bishop, Springer, 2011
+5. The Elements of Statistical Learning, T. Hastie, R. Tibshirani, J. Friedman, 2nd Edition,
+2011
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (AIML) V Semester
+(22MC2AM301) ARTIFICIAL INTELLIGENCE LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 3 1.5 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To review important concepts required for Artificial Intelligence
+• To introduce the concept of learning patterns from data and develop a strong
+model using machine learning algorithms
+• To explain theoretical foundation for understanding state of the art Machine
+Learning algorithms like classifications, regressions
+• To understand unsupervised learning technique using partitioning and hierarchical
+clustering methods
+• To explore various statistical methods for machine learning
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Represent knowledge and facts for solving the real-world problems
+CO-2: Build, and evaluate the model using different machine learning techniques
+CO-3: Design and implement machine learning solutions to classification, regression
+CO-4: Design and implement various unsupervised learning methods to real-world
+applications
+CO-5: Apply statistical methods to develop the machine learning models
+COURSE ARTICULATION MATRIX:
+(Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12
+CO-1 3 1 2 2 2 1 2 - 1 - - 1
+CO-2 2 3 3 3 3 1 2 - 2 - - 2
+CO-3 3 2 3 3 2 2 2 - 2 - - 2
+CO-4 3 3 3 3 3 1 2 - 2 1 3 2
+CO-5 3 2 2 3 3 2 2 1 3 3 3 2
+LIST OF EXPERIMENTS:
+WEEK-1 & 2: Basic programs in Python to get familiarize various programming structures
+WEEK - 3: Implementation of logical rules in Python
+WEEK - 4, 5, 6 & 7: Using any data apply the concept of:
+a. Liner regression
+b. Gradient decent
+c. Logistic regression
+WEEK - 8: Perform and plot overfitting in a data set
+WEEK - 9 &10: Implementation of KNN classification algorithm
+WEEK - 11 &12: Implementation of k-means clustering algorithm
+WEEK-13: Explore statistical methods for machine learning
+TEXT BOOKS:
+1. Artificial Intelligence, Cengage Learning, Saroj Kaushik, 1st Edition, 2011
+2. Python Machine Learning by Example, Yuxi (Hayden) Liu, Packet Publishing, 2017
+3. Machine Learning, Saikar Dutt, Subramanian Chandramouli, Amit Kumar Das,
+Pearson India
+REFERENCES:
+1. Practice Workbook: Artificial Intelligence and Soft Computing for Beginners,
+Anindita Das Bhattacharjee, 1st Edition, Shroff/X-Team, 2018
+2. Machine Learning, Tom Mitchell, McGraw-Hill, 2017
+3. Pattern Recognition and Machine Learning, Christopher M. Bishop, Springer, 2011
+4. The Elements of Statistical Learning, T. Hastie, R. Tibshirani, J. Friedman, 2nd Edition,
+2011
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (AIML) VI Semester
+(22MC1AM302) ARTIFICIAL INTELLIGENCE APPLICATIONS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 1 4 30 5 5 60 100
+COURSE OBJECTIVES:
+• To give deep knowledge of AI
+• To learn how AI can be applied in various fields to make the life easy
+• To introduce recent topics in AIML
+• To gain and knowledge about Robotic Process automation, and AI optimized
+hardware
+• To understand the recent developments in Artificial Intelligence
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: correlate the AI and solutions to modern problem
+CO-2: Decide when to use which type of AI technique
+CO-3: Understand and analyse real world problems using AI techniques
+CO-4: Develop solutions using Artificial Intelligence and block chain technologies
+CO-5: Build smart solutions using AI techniques
+COURSE ARTICULATION MATRIX:
+(Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12
+CO-1 1 1 3 2 2 2 2 - 1 - - 1
+CO-2 3 3 3 3 2 1 2 - 2 - - 2
+CO-3 3 2 3 3 2 2 2 - 2 - - 2
+CO-4 3 2 3 3 3 1 3 - 2 - - 2
+CO-5 3 3 3 3 2 2 2 1 3 3 3 2
+UNIT-I:
+Linguistic aspects of natural language processing, A.I. And Quantum Computing,
+Applications of Artificial Intelligence (AI) in business.
+UNIT-II:
+Emotion Recognition using human face and body language, AI based system to
+predict the diseases early,
+UNIT-III:
+Smart Investment analysis, AI in Sales and Customer Support, Robotic Processes
+Automation for supply chain management.
+UNIT-IV:
+AI-Optimized Hardware, Digital Twin i.e. AI Modelling, Information Technology &
+Security using AI.
+UNIT-V:
+Recent Topics in AI/ML: AI/ML in Smart solutions, AI/ML in Social Problems handling,
+Block chain and AI.
+TEXT BOOKS:
+1. AI and Analytics, Accelerating Business Decisions, Sameer Dhanrajani, John Wiley
+2. Artificial Intelligence in Practice: How 50 Successful Companies Used AI and
+Machine Learning to Solve Problems, Bernard Marr, Matt Ward, Wiley
+REFERENCES:
+1. Life 3.0: Being Human in the Age of Artificial Intelligence, Max Tegmark, 2018
+2. Homo Deus: A Brief History of Tomorrow, Yuval Noah Harari, 2017
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (AIML) VII Semester
+(22MC1AM401) PRINCIPLES OF MACHINE LEARNING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Data Structures, Knowledge on Statistical Methods
+COURSE OBJECTIVES:
+• To discuss fundamental concepts of machine learning techniques
+• To discuss machine learning techniques such as decision tree learning, Bayesian
+learning
+• To understand computational learning theory
+• To study the pattern comparison techniques
+• To examine analytical learning, explanation-based learning, and the integration
+of inductive and analytical learning approaches
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the concepts of computational intelligence like machine learning
+CO-2: Get the skill to apply machine learning techniques to address the real time
+problems in different areas
+CO-3: Understand the Neural Networks and its usage in machine learning application.
+CO-4: Analyse and build the models using decision tree and Bayesian learning
+techniques
+CO-5: Understand and apply analytical learning methods, combining inductive and
+analytical learning strategies effectively
+COURSE ARTICULATION MATRIX:
+(Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12
+CO-1
+3 2 1 1 2 1 1 1 2 1 1 2
+CO-2
+2 3 2 2 3 2 1 1 2 2 1 2
+CO-3 3 3 3 2 2 1 2 1 2 3 2 2
+CO-4 3 2 2 2 3 2 1 2 3 3 2 2
+CO-5 3 3 3 3 3 2 2 2 3 3 3 3
+UNIT-I:
+Introduction - Well-posed learning problems, designing a learning system,
+Perspectives and issues in machine learning, Concept learning and the general to
+specific ordering – introduction, a concept learning task, concept learning as search,
+find-S: finding a maximally specific hypothesis, version spaces and the candidate
+elimination algorithm, remarks on version spaces and candidate elimination,
+inductive bias. Decision Tree Learning – Introduction, decision tree representation,
+appropriate problems for decision tree learning, the basic decision tree learning
+algorithm, hypothesis space search in decision tree learning, inductive bias in decision
+tree learning, issues in decision tree learning.
+UNIT-II:
+Artificial Neural Networks-1– Introduction, neural network representation, appropriate
+problems for neural network learning, perceptions, multilayer networks and the back-
+propagation algorithm. Artificial Neural Networks-2- Remarks on the Back-
+Propagation algorithm, an illustrative example: face recognition, advanced topics in
+artificial neural networks. Evaluation Hypotheses – Motivation, estimation hypothesis
+accuracy, basics of sampling theory, a general approach for deriving confidence
+intervals, difference in error of two hypotheses, comparing learning algorithms.
+UNIT-III:
+Bayesian learning – Introduction, Bayes theorem, Bayes theorem and concept
+learning, Maximum Likelihood and least squared error hypotheses, maximum
+likelihood hypotheses for predicting probabilities, minimum description length
+principle, Bayes optimal classifier, Gibs algorithm, Naïve Bayes classifier, an example:
+learning to classify text, Bayesian belief networks, the EM algorithm.
+Computational learning theory – Introduction, probably learning an approximately
+correct hypothesis, sample complexity for finite hypothesis space, sample complexity
+for infinite hypothesis spaces, the mistake bound model of learning. Instance-Based
+Learning- Introduction, k-nearest neighbour algorithm, locally weighted regression,
+radial basis functions, case-based reasoning, remarks on lazy and eager learning.
+UNIT- IV:
+Genetic Algorithms – Motivation, Genetic algorithms, an illustrative example,
+hypothesis space search, genetic programming, models of evolution and learning,
+parallelizing genetic algorithms. Learning Sets of Rules – Introduction, sequential
+covering algorithms, learning rule sets: summary, learning First-Order rules, learning sets
+of First-Order rules: FOIL, Induction as inverted deduction, inverting resolution.
+Reinforcement Learning – Introduction, the learning task, Q–learning, non-
+deterministic, rewards and actions, temporal difference learning, generalizing from
+examples, relationship to dynamic programming.
+UNIT-V:
+Analytical Learning-1- Introduction, learning with perfect domain theories: PROLOG-
+EBG, remarks on explanation-based learning, explanation-based learning of search
+control knowledge. Analytical Learning-2-Using prior knowledge to alter the search
+objective, using prior knowledge to augment search operators. Combining Inductive
+and Analytical Learning – Motivation, inductive-analytical approaches to learning,
+using prior knowledge to initialize the hypothesis.
+TEXT BOOK:
+1. Machine Learning, Tom M. Mitchell, 1st Edition, McGraw-Hill, 2017
+REFERENCE:
+1. Machine Learning: An Algorithmic Perspective, Stephen Marshland, 2nd Edition,
+CRC/Taylor & Francis, 2014
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (AIML) VII Semester
+(22MC1AM402) FUNDAMENTALS OF DEEP LEARNING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand complexity of Deep Learning algorithms and their limitations
+• To be capable of performing experiments in Deep Learning using real-world data
+• To discuss convolution neural network and computer vision concepts
+• To learn fundamental concepts of Deep Learning techniques
+• To examine advanced NLP tasks, including named entity recognition, sentiment
+analysis, and dialogue generation using deep learning models like RNNs and CNNs
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Implement deep learning algorithms, understand neural networks and traverse
+the layers of data
+CO-2: Learn concepts such as convolutional neural networks, recurrent neural
+networks, training deep networks and high-level interfaces
+CO-3: Understand applications of Deep Learning to Computer Vision
+CO-4: Understand and analyse applications of Deep Learning to NLP
+CO-5: Develop expertise in solving advanced NLP problems, such as sentiment
+analysis, entity recognition, and dialogue generation with LSTMs
+UNIT-I:
+Introduction: Feed forward Neural networks, Gradient descent and the back
+propagation algorithm, Unit saturation, the vanishing gradient problem, and ways to
+mitigate it. RelU Heuristics for avoiding bad local minima, Heuristics for faster training,
+Nestors accelerated gradient descent, Regularization, Dropout
+UNIT-II:
+Convolutional Neural Networks: Architectures, convolution/pooling layers, Recurrent
+Neural Networks: LSTM, GRU, Encoder Decoder architectures. Deep Unsupervised
+Learning: Auto encoders, Variational Auto-encoders, Adversarial Generative
+Networks, Auto-encoder and DBM Attention and memory models, Dynamic Memory
+Models.
+UNIT-III:
+Applications of Deep Learning to Computer Vision: Image segmentation, object
+detection, automatic image captioning, Image generation with Generative
+adversarial networks, video to text with LSTM models, Attention Models for computer
+vision tasks
+UNIT-IV:
+Applications of Deep Learning to NLP: Introduction to NLP and Vector Space Model
+of Semantics, Word Vector Representations: Continuous Skip-Gram Model,
+Continuous Bag-of-Words model (CBOW), Glove, Evaluations and Applications in
+word similarity
+UNIT-V:
+Analogy Reasoning: Named Entity Recognition, Opinion Mining using Recurrent
+Neural Networks: Parsing and Sentiment Analysis using Recursive Neural Networks:
+Sentence Classification using Convolutional Neural Networks, Dialogue Generation
+with LSTMs
+TEXT BOOKS:
+1. Deep Learning, Ian Goodfellow, Yoshua Bengio and Aaron Courville, MIT Press
+2. The Elements of Statistical Learning, T. Hastie, R. Tibshirani, and J. Friedman, Springer
+3. Probabilistic Graphical Models, Koller and N. Friedman, MIT Press
+REFERENCES:
+1. Pattern Recognition and Machine Learning, Bishop C. M., Springer, 2006
+2. Artificial Neural Networks, Yegnanarayana B., PHI Learning, 2009
+3. Matrix Computations, Golub G. H., and Van Loan C. F., JHU Press, 2013
+4. Neural Networks: A Classroom Approach, Satish Kumar, Tata McGraw-Hill
+Education, 2004
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (AIML) VII Semester
+(22MC2AM401) PRINCIPLES OF MACHINE LEARNING LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 3 1.5 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To get an overview of the various machine learning techniques
+• To demonstrate machine learning techniques using python
+• To understand how to build the model using machine learning techniques
+• To discuss genetic technique
+• To discuss backpropagation technique
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand complexity of Machine Learning algorithms and their limitations
+CO-2: Understand modern notions in data analysis-oriented computing
+CO-3: Confidently apply common Machine Learning algorithms in practice
+CO-4: Perform experiments in Machine Learning using real-world data
+CO-5: Implement their own approach of dealing with real-world data
+LIST OF EXPERIMENTS:
+1. The probability that it is Friday and that a student is absent is 3 %. Since there
+are 5 school days in a WEEK, the probability that it is Friday is 20 %. What is the
+probability that a student is absent given that today is Friday? Apply Baye’s rule in
+python to get the result. (Ans: 15%)
+2. Extract the data from database using python.
+3. Implement k-nearest neighbours classification using python
+4. Given the following data, which specify classifications for nine combinations of
+VAR1 and VAR2 predict a classification for a case where VAR1=0.906 and
+VAR2=0.606, using the result of k- means clustering with 3 means (i.e., 3 centroids)
+VAR1 VAR2 CLASS
+1.713 1.586 0
+0.180 1.786 1
+0.353 1.240 1
+0.940 1.566 0
+1.486 0.759 1
+1.266 1.106 0
+1.540 0.419 1
+0.459 1.799 1
+0.773 0.186 1
+1. The following training examples map descriptions of individuals onto high,
+medium and low credit-worthiness.
+medium skiing design single twenties no -> highRisk
+high golf trading married forties yes -> lowRisk
+low speedway transport married thirties yes -> medRisk
+medium football banking single thirties yes -> lowRisk
+high flying media married fifties yes -> highRisk
+low football security single twenties no -> medRisk
+medium golf media single thirties yes -> medRisk
+medium golf transport married forties yes -> lowRisk
+high skiing banking single thirties yes -> highRisk
+low golf unemployed married forties yes -> highRisk
+Input attributes are (from left to right) income, recreation, job, status, age-group,
+home-owner. Find the unconditional probability of `golf' and the conditional
+probability of `single' given `medRisk' in the dataset?
+2. Implement linear regression using python.
+3. Implement Naïve Bayes theorem to classify the English text
+4. Implement an algorithm to demonstrate the significance of genetic algorithm
+5. Implement the finite words classification system using Back-propagation
+algorithm
+TEXT BOOK:
+1. Machine Learning, Tom M. Mitchell, 1st Edition, McGraw-Hill, 2017
+REFERENCE:
+1. Machine Learning: An Algorithmic Perspective, Stephen Marshland, 2nd Edition,
+CRC/Taylor & Francis, 2014
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (AIML) VII Semester
+(22MC2AM402) FUNDAMENTALS OF DEEP LEARNING LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 3 1.5 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To build the foundation of Deep Learning
+• To understand how to build the Neural Network
+• To enable students to develop successful machine learning concepts
+• To discuss fundamentals concepts of deep learning techniques in the area of
+Natural language Processing
+• To build the natural language processing applications using deep learning
+concepts
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Learn the fundamental principles of Deep Learning
+CO-2: Identify the Deep Learning algorithms for various types of learning tasks in
+various domains
+CO-3: Implement Deep Learning algorithms and solve real-world problems
+CO-4: Apply Deep Learning methods to natural language processing applications
+CO-5: Train and evaluate sentiment analysis models using RNN layers with LSTM/GRU
+to classify text data effectively
+LIST OF EXPERIMENTS:
+1. Setting up the Spyder IDE Environment and Executing a Python Program
+2. Installing Keras, Tensorflow and Pytorch libraries and making use of them
+3. Applying the Convolution Neural Network on computer vision problems
+4. Image classification on MNIST dataset (CNN model with Fully connected layer)
+5. Applying the Deep Learning Models in the field of Natural Language Processing
+6. Train a sentiment analysis model on IMDB dataset, use RNN layers with LSTM/GRU
+notes
+7. Applying the Autoencoder algorithms for encoding the real-world data
+8. Applying Generative Adversial Networks for image generation and unsupervised
+tasks.
+TEXT BOOKS:
+1. Deep Learning, Ian Goodfellow, Yoshua Bengio and Aaron Courville, MIT Press
+2. The Elements of Statistical Learning, T. Hastie, R. Tibshirani, and J. Friedman, Springer
+3. Probabilistic Graphical Models, Koller and N. Friedman, MIT Press
+REFERENCES:
+1. Pattern Recognition and Machine Learning, Bishop C. M., Springer, 2006
+2. Artificial Neural Networks, Yegnanarayana B., PHI Learning, 2009
+3. Matrix Computations, Golub G. H. and Van Loan C. F., JHU Press, 2013
+4. Neural Networks: A Classroom Approach, Satish Kumar, Tata McGraw-Hill
+Education, 2004
+EXTENSIVE READING:
+1. http://www.deeplearning.net
+2. https://www.deeplearningbook.org/
+3. https://developers.google.com/machine-learning/crash-course/ml-intro
+4. www.cs.toronto.edu/~fritz/absps/imagenet.pdf
+5. http://neuralnetworksanddeeplearning.com
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (AIML) VIII Semester
+(22MC1AM403) ROBOTICS PROCESS AUTOMATION
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To make learners familiar with the concepts of Robotic Process Automation
+• To learn about the topics related to web control room and client
+• To get knowledge on various devices and workload
+• To understand the information related to bots
+• To teach automation commands, error handling, and integrations for building
+robust bots
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Describe RPA, where it can be applied and how it's implemented
+CO-2: Identify and understand Web Control Room and Client Introduction
+CO-3: Understand how to handle various devices and the workload
+CO-4: Understand Bot creators, Web recorders and task editors
+CO-5: Manage workload, device pools, and perform administrative tasks within the
+platform
+UNIT-I:
+Introduction to Robotic Process Automation & Bot Creation Introduction to RPA and
+Use cases – Automation Anywhere Enterprise Platform – Advanced features and
+capabilities – Ways to create Bots
+UNIT-II:
+Web Control Room and Client Introduction - Features Panel - Dashboard (Home, Bots,
+Devices, Audit, Workload, Insights) - Features Panel – Activity (View Tasks in Progress
+and Scheduled Tasks) - Bots (View Bots Uploaded and Credentials)
+UNIT-III:
+Devices (View Development and Runtime Clients and Device Pools) - Workload
+(Queues and SLA Calculator) - Audit Log (View Activities Logged which are
+associated with Web CR)
+Administration (Configure Settings, Users, Roles, License and Migration) -
+UNIT-IV:
+Demo of Exposed API’s – Conclusion – Client introduction and Conclusion.
+Bot Creator Introduction – Recorders – Smart Recorders – Web Recorders – Screen
+Recorders.
+UNIT-V:
+Task Editor – Variables - Command Library – Loop Command – Excel Command –
+Database Command - String Operation Command - XML Command.
+Terminal Emulator Command - PDF Integration Command - FTP Command - PGP
+Command - Object Cloning Command - Error Handling Command - Manage
+Windows Control Command - Workflow Designer - Report Designer.
+TEXT BOOK:
+1. Learning Robotic Process Automation: Create Software Robots and Automate
+Business Processes with the Leading RPA Tool – Uipath, Alok Mani Tripathi, Packt
+Publishing, 2018
+REFERENCE:
+1. Robotic Process Automation a Complete Guide, Gerardus Blokdyk, Kindle Edition,
+5StarCooks, 2020
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (AIML) VIII Semester
+(22MC1AM404) NATURAL LANGUAGE PROCESSING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To explain text normalization techniques and n-gram language model
+• To discuss part of speech methods and naïve bayes classification techniques
+• To understand word sense disambiguation techniques and process of building
+question answering system
+• To introduce the concepts of chatbots, dialogue systems, speech recognition
+systems and text to speech recognition methods
+• To develop chatbots and dialogue systems, including speech recognition and
+synthesis integration
+COURSE OUTCOMES: After the completion of the course, the student should be able
+to
+CO-1: Apply normalization techniques on a document and evaluate a language
+model
+CO-2: Implement parts of speech tagging and classification techniques on the words
+CO-3: Establish relationships among words of a sentence using word net and also build
+the question answering system
+CO-4: Analyze chatbots, dialogue systems, and automatic speech recognition
+systems
+CO-5: Design and develop chatbots, dialogue systems, and integrate automatic
+speech recognition and text-to-speech technologies
+UNIT-I:
+Introduction, Regular Expressions, Text Normalization, Edit Distance: Words, Corpora,
+Text Normalization, Word Normalization, Lemmatization and Stemming, Sentence
+Segmentation, The Minimum Edit Distance Algorithm.
+UNIT-II:
+N-gram Language Models: N-Grams, Evaluating Language Model, Sampling
+sentences from a language model
+Sequence Labeling for Parts of Speech and Named Entities: Part-of-Speech Tagging,
+Named Entities and Named Entity Tagging
+UNIT-III:
+Naive Bayes and Sentiment Classification: Naive Bayes Classifiers, Training the Naive
+Bayes Classifier, Optimizing for Sentiment Analysis, Naive Bayes as a Language Model,
+Evaluation: Precision, Recall, F-measure, Test sets and Cross-validation
+Word Senses and WordNet: Word Senses, Relations between Senses, WordNet: A
+Database of Lexical Relations, Word Sense Disambiguation, WSD Algorithm:
+Contextual Embeddings
+UNIT-IV:
+Question Answering: Information Retrieval, IR-based Factoid Question Answering, IR-
+based QA: Datasets, Entity Linking, Knowledge-based Question Answering, Using
+Language Models to do QA, Classic QA Models
+UNIT-V:
+Chatbots & Dialogue Systems: Properties of Human Conversation, Chatbots, GUS:
+Simple Frame-based Dialogue Systems, The Dialogue-State Architecture, Evaluating
+Dialogue Systems, Dialogue System Design,
+Automatic Speech Recognition and Text-to-Speech: The Automatic Speech
+Recognition Task, Feature Extraction for ASR: Log Mel Spectrum, Speech Recognition
+Architecture
+TEXT BOOKS:
+1. Speech and Language Processing, Dan Jurafsky and James H. Martin, 3rd Edition,
+Pearson Publications
+2. Natural Language Processing with Python, Steven Bird, Ewan Klein, and Edward
+Loper, O’Reilly, 2007
+REFERENCES:
+1. Practical Natural Language Processing: A Comprehensive Guide to Building Real-
+World NLP Systems, Sowmya Vajjala, Bodhisattwa Majumder, Anuj Gupta, Harshit
+Surana
+2. Foundations of Statistical Natural Language Processing, Christopher Manning and
+Hinrich Schütze
+3. Natural Language Processing in Action- Understanding, Analysing, and
+Generating Text with Python, Hobson Lane, Cole Howard, Hannes Max Hapke
+4. The Handbook of Computational Linguistics and Natural Language Processing
+(Blackwell Handbooks in Linguistics), 1st Edition
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (AIML) VIII Semester
+(22MC1AM405) GAME THEORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To explain the concepts related to game theory
+• To learn knowledge and solution concepts related to games
+• To get knowledge on types of game theory and solutions
+• To understand the extensive games with perfect information
+• To explore advanced topics such as Nash Folk theorems, trigger strategies, and
+the structure of subgame perfect equilibria
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the basic concepts of game theory and solutions
+CO-2: Understand different types of equilibrium interpretations
+CO-3: Understand and analyze knowledge and solution concepts
+CO-4: Analyze extensive games with perfect information
+CO-5: Delve into advanced topics like bargaining games, repeated games, and the
+structure of equilibria in discounting criteria
+UNIT-I:
+Introduction- Game Theory, Games and Solutions Game Theory and the Theory of
+Competitive Equilibrium, Rational Behavior, The Steady State and Deductive
+Interpretations, Bounded Rationality Terminology and Notation.
+Nash Equilibrium- Strategic Games, Nash Equilibrium Examples, Existence of a Nash
+Equilibrium, Strictly Competitive Games, Bayesian Games: Strategic Games with
+Imperfect Information.
+UNIT-II:
+Mixed, Correlated, and Evolutionary Equilibrium - Mixed Strategy Nash Equilibrium,
+Interpretations of Mixed Strategy Nash Equilibrium, Correlated Equilibrium, Evolutionary
+Equilibrium, Rationalizability and Iterated Elimination of Dominated Actions -
+Rationalizability Iterated Elimination of Strictly Dominated Actions, Iterated Elimination
+of Weakly Dominated Actions.
+UNIT-III:
+Knowledge and Equilibrium - A Model of Knowledge Common Knowledge, Can
+People Agree to Disagree? Knowledge and Solution Concepts, The Electronic Mail
+Game.
+Extensive Games with Perfect Information - Extensive Games with Perfect Information
+Subgame Perfect Equilibrium, Two Extensions of the Definition of a Game, The
+Interpretation of a Strategy, Two Notable Finite Horizon Games
+UNIT-IV:
+Iterated Elimination of Weakly Dominated Strategies Bargaining Games - Bargaining
+and Game Theory, A Bargaining Game of Alternating Offers Subgame Perfect
+Equilibrium Variations and Extensions.
+Repeated Games - The Basic Idea, Infinitely Repeated Games vs. Finitely Repeated
+Games. Infinitely Repeated Games: Definitions, Strategies as Machines,
+UNIT-V:
+Trigger Strategies: Nash Folk Theorems Punishing for a Limited Length of Time: A Perfect
+Folk Theorem for the Limit of Means Criterion Punishing the Punisher: A Perfect Folk
+Theorem for the Overtaking Criterion Rewarding Players Who Punish: A Perfect Folk
+Theorem for the Discounting Criterion The Structure of Subgame Perfect Equilibria
+Under the Discounting Criterion Finitely Repeated Game
+TEXT BOOKS:
+1. A Course in Game Theory, M. J. Osborne and A. Rubinstein, MIT Press
+2. Game Theory, Roger Myerson, Harvard University Press
+3. Game Theory, D. Fudenberg and J. Tirole, MIT Press
+REFERENCES:
+1. Theory of Games and Economic Behavior, J. von Neumann and O. Morgenstern,
+John Wiley and Sons
+2. Games and Decisions, R. D. Luce and H. Raiffa, John Wiley and Sons
+3. Game Theory, G. Owen, 2nd Edition, Academic Press
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (AIML) VIII Semester
+(22MC1AM406) COMPUTER VISION AND ROBOTICS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the fundamental concepts related to computer vision
+• To get knowledge on boundary tracking techniques
+• To learn Hough transform for lines, circle, and ellipse detections
+• To understand the geometry of multiple views
+• Implement geometric camera models and calibration techniques for real-world
+computer vision applications
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Implement fundamental image processing techniques required for computer
+vision
+CO-2: Implement boundary tracking techniques
+CO-3: Apply chain codes and other region descriptors, Hough Transform for line,
+circle, and ellipse detections
+CO-4: Apply 3D vision techniques and Implement motion related techniques. And
+develop applications using computer vision techniques
+CO-5: To delve into geometric camera models, calibration, and model-based vision
+for practical applications like medical imaging and robot localization
+UNIT-I:
+CAMERAS: Pinhole Cameras
+Radiometry – Measuring Light: Light in Space, Light Surfaces, Important Special Cases.
+Sources, Shadows, And Shading: Qualitative Radiometry, Sources and Their Effects,
+Local Shading Models, Application: Photometric Stereo, Interreflections: Global
+Shading Models.
+Color: The Physics of Color, Human Color Perception, Representing Color, A Model for
+Image Color, Surface Color from Image Color.
+UNIT-II:
+Linear Filters: Linear Filters and Convolution, Shift Invariant Linear Systems, Spatial
+Frequency and Fourier Transforms, Sampling and Aliasing, Filters as Templates.
+Edge Detection: Noise, Estimating Derivatives, Detecting Edges.
+Texture: Representing Texture, Analysis (and Synthesis) Using Oriented Pyramids,
+Application: Synthesis by Sampling Local Models, Shape from Texture.
+UNIT-III:
+The Geometry of Multiple Views: Two Views
+Stereopsis: Reconstruction, Human Stereopsis, Binocular Fusion, Using More Cameras.
+Segmentation by Clustering: What Is Segmentation? Human Vision: Grouping and
+Getstalt,
+Applications: Shot Boundary Detection and Background Subtraction, Image
+Segmentation by Clustering Pixels, Segmentation by Graph-Theoretic Clustering,
+UNIT-IV:
+Segmentation by Fitting a Model: The Hough Transform, Fitting Lines, Fitting Curves,
+Fitting as a Probabilistic Inference Problem, Robustness.
+Segmentation and Fitting Using Probabilistic Methods: Missing Data Problems, Fitting,
+and Segmentation, The EM Algorithm in Practice.
+Tracking With Linear Dynamic Models: Tracking as an Abstract Inference Problem,
+Linear Dynamic Models, Kalman Filtering, Data Association, Applications and
+Examples.
+UNIT-V:
+Geometric Camera Models: Elements of Analytical Euclidean Geometry, Camera
+Parameters and the Perspective Projection, Affine Cameras and Affine Projection
+Equations
+Geometric Camera Calibration: Least-Squares Parameter Estimation, A Linear
+Approach to Camera Calibration, Taking Radial Distortion into Account, Analytical
+Photogrammetry, An Application: Mobile Robot Localization
+Model-Based Vision: Initial Assumptions, Obtaining Hypotheses by Pose Consistency,
+Obtaining
+Hypotheses by pose Clustering, Obtaining Hypotheses Using Invariants, Verification,
+and Application: Registration in Medical Imaging Systems, Curved Surfaces and
+Alignment.
+TEXT BOOK:
+1. Computer Vision – A Modern Approach, David A. Forsyth and Jean Ponce,
+Pearson Education, 2015
+REFERENCES:
+1. Computer and Machine Vision – Theory, Algorithms and Practicalities, E. R. Davies,
+4th Edition, Elsevier (Academic Press), 2013
+2. Digital Image Processing, R. C. Gonzalez and R. E. Woods, Addison Wesley, 2008
+3. Computer Vision: Algorithms and Applications, Richard Szeliski, Springer-Verlag,
+2011
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (AIML) VIII Semester
+(22MC1AM407) SPEECH AND VIDEO PROCESSING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the mechanisms of human speech production system
+• To learn the concepts related to speech analysis and speech recognition
+algorithms
+• To get knowledge on digital video processing
+• To familiarize with object tracking and video sequence concepts
+• To focus on object tracking, video segmentation methods, and compression
+techniques for efficient video processing
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Describe the mechanisms of human speech production systems and methods
+for speech feature extraction
+CO-2: Understand basic algorithms of speech analysis and speech recognition
+CO-3: Explain basic techniques in digital video processing, including imaging
+characteristics and sensors
+CO-4: Apply motion estimation and object tracking algorithms on video sequence
+CO-5: Develop skills in object tracking, video segmentation, and interframe
+compression for real-time video applications
+UNIT-I:
+Speech processing concepts: The speech production mechanism, Discrete time
+speech signals, Pole-Zero modeling of speech, relevant properties of the fast Fourier
+transform for speech recognition, convolution, linear and nonlinear filter banks,
+spectral estimation of speech using DFT. Linear Prediction analysis of speech.
+UNIT-II:
+Speech recognition: Real and Complex Cepstrum, application of cepstral analysis to
+speech signal, feature extraction for speech, static and dynamic feature for speech
+recognition, robustness issues, discrimination in the feature space, feature selection,
+MFCC, LPCC, Distance measures, vector quantization models. Gaussian Mixture
+model, HMM.
+UNIT-III:
+Basics of Video Processing: Video formation, perception and representation: Principle
+of color video, video cameras, video display, pinhole model, CAHV model, Camera
+motion, Shape model, motion model, Scene model, two-dimensional motion models.
+Three-Dimensional Rigid Motion, Approximation of projective mapping.
+UNIT-IV:
+Motion Estimation Techniques: Optical flow, motion representation, motion estimation
+criteria, optimization methods, pixel-based motion estimation.
+Block matching algorithm, gradient Based, Intensity matching, feature matching,
+frequency domain motion estimation, Depth from motion.
+Motion analysis applications: Video Summarization, video surveillance.
+UNIT-V:
+Object Tracking and Segmentation: 2D and 3D video tracking, blob tracking, kernel
+based counter tracking, feature matching, filtering Mosaicing, video segmentation,
+mean shift based, active shape model, video short boundary detection. Interframe
+compression, Motion compensation.
+TEXT BOOKS:
+1. Fundamentals of Speech Recognition, L. Rabiner and B. Juang, Prentice Hall
+2. Digital Video Processing, A. Murat Tekalp, Prentice Hall
+3. Discrete-Time Speech Signal Processing: Principles and Practice, Thomas F.
+Quatieri, Coth
+REFERENCES:
+1. Video Processing and Communications, Yao Wang, J. Osternann and Qin Zhang,
+Pearson Education
+2. Speech and Audio Signal Processing, B. Gold and N. Morgan, Wiley
+3. Digital Image Sequence Processing, Compression, and Analysis, Todd R. Reed,
+CRC Press
+4. Handbook of Image and Video Processing, Al Bovik, 2nd Edition, Academic Press
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (AIML) VIII Semester
+(22MC1AM408) SOFT COMPUTING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To familiarize with soft computing concepts
+• To introduce and use the idea of fuzzy logic and use of heuristics based on human
+experience
+• To familiarize the Neuro-Fuzzy modeling using Classification and Clustering
+techniques
+• To learn the concepts of Genetic algorithm and its applications and acquire the
+knowledge of Rough Sets
+• To study rough sets, rule induction, and the integration of soft computing methods
+for improved problem-solving
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Identify the difference between Conventional Artificial Intelligence to
+Computational Intelligence
+CO-2: Understand fuzzy logic and reasoning to handle and solve engineering
+problems
+CO-3: Apply the Classification and clustering techniques on various applications, and
+understand the advanced neural networks and its applications
+CO-4: Perform various operations of genetic algorithms, Rough Sets, and
+comprehend various techniques to build model for various applications
+CO-5: Explore rough sets, rule induction, and their integration with other soft
+computing techniques
+UNIT-I:
+Introduction to Soft Computing: Evolutionary Computing, "Soft" computing versus
+"Hard" computing, Soft Computing Methods,
+UNIT-II:
+Recent Trends in Soft Computing, Characteristics of Soft computing, Applications of
+Soft Computing Techniques.
+UNIT-III:
+Fuzzy Systems: Fuzzy Sets, Fuzzy Relations, Fuzzy Logic, Fuzzy Rule-Based Systems. Fuzzy
+Decision Making, Particle Swarm Optimization
+UNIT-IV:
+Genetic Algorithms: Basic Concepts, Basic Operators for Genetic Algorithms,
+Crossover and Mutation Properties, Genetic Algorithm Cycle, Fitness Function,
+Applications of Genetic Algorithm.
+UNIT-V:
+Rough Sets, Rough Sets, Rule Induction, and Discernibility Matrix, Integration of Soft
+Computing Techniques.
+TEXT BOOKS:
+1. Soft Computing – Advances and Applications, B. K. Tripathy and J. Anuradha,
+Cengage Learning, 2015
+2. Principles of Soft Computing, 2nd Edition, S. N. Sivanandam & S. N. Deepa, Wiley
+India, 2008
+REFERENCES:
+1. Genetic Algorithms-In Search, Optimization and Machine Learning, David E.
+Goldberg, Pearson Education
+2. Neuro-Fuzzy and Soft Computing, J. S. R. Jang, C.T. Sun and E. Mizutani, Pearson
+Education, 2004
+3. Fuzzy Sets & Fuzzy Logic, G. J. Klir & B. Yuan, PHI, 1995
+4. An Introduction to Genetic Algorithm, Melanie Mitchell, PHI, 1998
+5. Fuzzy Logic with Engineering Applications, Timothy J. Ross, McGraw- Hill
+International Edition, 1995

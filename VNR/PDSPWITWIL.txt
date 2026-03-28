@@ -1,0 +1,486 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/PDSPWITWIL.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+VNR Vignana Jyothi Institute of Engineering and Technology
+IV Year B.Tech EEE – I Sem L T/P/D C
+3 0 3
+(5EC17) PRINCIPLES OF DIGITAL SIGNAL PROCESSING
+Course Prerequisites: Network Analysis, Advanced Calculus, Linear and Digital IC
+applications
+Course Objectives
+• To understand characteristics of discrete time signals and systems
+• To analyze and process signals using various transform techniques
+• To understand various factors involved in design of digital filters
+• To understand the features of TMS24XX processors.
+Course Outcomes
+After completion of this course the student is able to
+• Analyze and process signals in the discrete domain
+• Design filters to suit specific requirements for specific applications
+• Perform statistical analysis and inferences on various types of signals
+• Design and control the electrical drive using different 24xx processors.
+UNIT-I
+INTRODUCTION
+Classification of continuous time Signals & Systems. Linear shift invariant systems, stability
+and causality, Sampling of Continuous signals- Introduction to digital signal processing-
+Sampling process-Sampling theorem.
+Classification of discrete time signals and sequences
+UNIT – II
+FOURIER ANALYSIS
+Introduction toDiscrete Fourier series, Discrete Fourier Transform: Properties of Discrete
+Fourier Transform, linear convolution and circular convolution of sequences using DFT,
+Computation of DFT, Relation between DFT and Z-Transform.
+Fast Fourier transform: Radix -2 decimation in time and decimation in frequency FFT
+algorithms, Inverse FFT.
+UNIT – III
+Z- TRANSFORM
+Introduction to Z-transform, Properties of Z- Transform, Inverse Z- Transform, Application of
+Z- Transforms for Linear constant coefficient difference equations, Realization of Digital
+filters, system function – stability criterion.
+158
+UNIT – IV
+IIR FILTERS
+Analog filter approximations-Design of Butterworth Chebyshev filters, Design of IIR digital
+filter from analog filter using- impulse invariant and bilinear transformation techniques,
+design examples, realization of IIR filters-direct, canonic, cascade, and parallel forms.
+UNIT – V
+FIR FILTERS
+Characteristics of FIR Digital Filters, Frequency response, Design of FIR filters using –
+Rectangular, Hamming, Bartlett- windows , frequency sampling technique, comparison of
+FIR and IIR filters, realization of IIR filters-direct, cascade forms. Architecture and features
+of TMS 320F 2407, Applications of DSP.
+TEXT BOOKS:
+1. Digital signal processing: principles, algorithms and applications-John G.Proakis,
+D.G.Manolakis, 3rd edition, PHI-2007.
+2. Discrete time signal processing-A.V.Oppenheim and R.W.Schaffer,PHI,2009.
+3. TMS 320F 24xx Manuals
+REFERENCES:
+1. Digital signal processing-Fundamentals and applications-LiTan, Elsevier,2008.
+2. Fundamentals of digital signal processing using MATLAB-Robert J.Schilling,
+Sandra L.Harris, Thomson, 2007.
+3. Digital signal processing-S.Salivahanan, A.Vallavaraj, C.Gnanapriya, TMH, 2009.
+4. Discrete systems and digital signal processing with MATLAB-Taan S.ElAli,CRC
+Press,2009.
+5. P Venkata Ramani, M.Bhaskar, “Digital Signal Processor; Architecture,
+Programming & Application”, TataMcGrawHill-2001
+159
+
+
+Department of Electrical and Electronics Engineering
+Principles of Digital Signal Processing Theory
+Application/ Scenario taken: Sensorless Control of PMSM with Flux Weakening Operation
+for Washing Machine Application
+Introduction: This scenario focuses on a highly-integrated and digitized servo control
+system for permanent magnet synchronous machine (PMSM) used in washing machine,
+which is based on digital signal processor (DSP). The field oriented control (FOC) algorithm
+and sinusoidal pulse width modulation technique are implemented in the system.
+Selection of Motor: As it is demanded to have good qualities of reliability, stabilization,
+exact orientation and speediness in radar-driven system, it is the PMSM servo system that
+can satisfy its requirements. PMSM motors have strengths of maintenance free, high
+controllability, robustness against environment, high efficiency, and high-power-factor
+operation. With the precision control, its potential advantages can be fully realized to
+accomplish the rigorous demand of speed control of washing machine. In order to meet the
+demanding requirements, the field oriented control (FOC) algorithm and sinusoidal pulse
+width modulation technique (SPWM) technique are adopted.
+Application of DSP (Unit-V): The DSP used here for real-time signal sampling,
+processing, transformation and computation. The control system makes full use of real-time
+calculation capability of DSP.It is the DSP that makes the complicated real-time calculation
+of various transformations and SPWM algorithm possible. It employs the information of
+rotor angle and stator currents to perform all the computations.
+Generation of Gate Signals to the Inverter (Unit-I): In Sine triangle PWM, sinusoidal
+signals and triangular signals are generated and compared the signals to implement PWM
+technique. Here sine signals are called as reference signals and triangle signals are called
+carrier signals. Reference signal is generated In Real time application DSP Processor
+generates the signals i.e.reference signal is generated by using parameters based on given
+V/F reference i.e. amplitude and frequency and carrier wave is generated with proper
+switching frequency. We use semiconductor devices as switches in inverter. Output
+waveform of inverter will be deviated from sinusoidal shape due to presence of harmonics.
+Harmonic Analysis and the use of FFT, DFT, Z-Transform and Filters (Unit-II, III, IV
+and V): The order of different harmonics can be found using Fast Fourier transform analysis.
+A FFT spectrum analyser computes the Discrete Fourier Transform (DFT), a mathematical
+process that transforms the input signal waveform into the components of its frequency
+spectrum. This analysis enables to make output more sinusoidal by eliminating dominant
+harmonics. Appropriate filter has to be designed to eliminate dominant harmonics from the
+information obtained from FFT spectrum. Digital filters will be preferred over analog filters
+due to customization and accuracy. Designing of digital filters (IIR and FIR filters) can be
+done in discrete domain using the Z-transform based on required specification.
+Convolution (Unit-II): Parameters of reference wave phasor corresponding to referenced
+speed such as amplitude, phase and frequency can be computed using Fourier transforms with
+linear and circular convolution.
+Dr. N. Krishna Kumari
+Dr. Rashmi Kapoor
+Course Name: Principle of Digital Signal Processing Year /Sem: IV/Isem
+Course Code: 5EC17 Course coordinator: Dr. Rashmi Kapoor
+Lecture No. Content of Wit & WIL SCENERIO Mapping Teaching Plan
+Syllabus Lecture Delivery Learning Course
+Dates Methodologies Resourses/Reference Outcomes
+1. PDSP -Scenario Sensor less control of PMSM for 20/8/2020 DM8 CO1, CO2,
+explanation washing machine CO3,CO4
+The scenario chosen to map the PDSP syllabus is sensor less control of Permanent magnet synchronous motor with flux weakening control for washing
+machine application. To operate washing machine in various modes, the motor need to be operated in various modes and at various speeds. To control
+the modes of operation of motor an inverter is used. An inverter can be controlled by pulse width modulation technique. For which a sinusoidal signal is
+compared with a constant signal to generate the PWM pulses for inverter. Various types of continuous and discrete time signals are covered in first unit.
+For proper operation of motor the output of the inverter should be free from any harmonic components. So Fourier transform and Z transform can be
+used for frequency domain analysis of the inverter output, that are covered in second and third unit of the syllabus.
+If any noise signal is detected filters can be used to suppress these noise components. These filters are covered in forth and fifth unit of the syllabus.
+UNIT-1 INTRODUCTION
+Lecture No. Content of Wit & WIL SCENERIO Mapping Teaching Plan
+Syllabus
+Lecture Dates Delivery Learning Course
+Methodologies Resourses/Reference Outcomes
+2 Characteristics 20/8/2020 DM1,DM4 T1,T5 CO1,CO3
+of Signals
+(Energy , Power
+and its
+characteristics)
+3. Representation Fig.1 21/8/2020 DM1 T1,T5 CO1,CO3
+of Signals
+4. Representation 27/8/2020 DM1,DM4,DM8 T1,T5 CO1,CO3
+of Signals
+5. Operations on 28/8/2020 DM1 T1,T5 CO1,CO3
+Signals
+6. Operations on 29/8/2020 DM1,DM8,DM4 T1,T5 CO1,CO3
+Signals
+7. Characteristics 3/9/2020 DM1,DM4 T1,T5 CO1,CO3
+Fig.2
+of systems and
+its verification
+8. Classification of 4/9/2020 DM1,DM4,DM8 T1,T5 CO1,CO3
+discrete time
+systems
+9. Introduction to 5/9/2020 DM1,DM4,DM8 T1,T5 CO1,CO3
+convolution
+Linear
+convolution
+10. Sampling and 10/9/2020 DM1,DM4,DM8 T1,T5 CO1,CO3
+aliasing
+11 Sampling 11/9/2020 DM1,DM4,DM8 T1,T5 CO1,CO3
+theorem
+Brief Description: knowledge of various discrete time signals will help us to understand how the PWM can be implemented on a digital signal processor
+using a triangular discrete time signal and discrete time unit step signals or a sine and triangular signal if SPWM implementation is required. As motor
+input as well as inverter gate signal both should be continuous time signals the processors output need to be converted to analog signal. For proper
+reconstruction of the signal sampling frequency should be chosen very carefully that understanding will be given by sampling theorem. Figure 2 is the
+real time set up of a Digital signal processor generating PWM pulses.
+Course Name: Principle of Digital Signal Processing Year /Sem: IV/Isem
+Course Code: 5EC17 Course coordinator: Dr. Rashmi Kapoor
+Lecture No. Content of Wit & WIL SCENERIO Mapping Teaching Plan
+Syllabus Lecture Delivery Learning Course
+Dates Methodologies Resourses/Reference Outcomes
+1. PDSP -Scenario Sensor less control of PMSM for 20/8/2020 DM8 CO1, CO2,
+explanation washing machine CO3,CO4
+The scenario chosen to map the PDSP syllabus is sensor less control of Permanent magnet synchronous motor with flux weakening control for washing
+machine application. To operate washing machine in various modes, the motor need to be operated in various modes and at various speeds. To control
+the modes of operation of motor an inverter is used. An inverter can be controlled by pulse width modulation technique. For which a sinusoidal signal is
+compared with a constant signal to generate the PWM pulses for inverter. Various types of continuous and discrete time signals are covered in first unit.
+For proper operation of motor the output of the inverter should be free from any harmonic components. So Fourier transform and Z transform can be
+used for frequency domain analysis of the inverter output, that are covered in second and third unit of the syllabus.
+If any noise signal is detected filters can be used to suppress these noise components. These filters are covered in forth and fifth unit of the syllabus.
+UNIT-1 INTRODUCTION
+Lecture No. Content of Wit & WIL SCENERIO Mapping Teaching Plan
+Syllabus
+Lecture Dates Delivery Learning Course
+Methodologies Resourses/Reference Outcomes
+2 Characteristics 20/8/2020 DM1,DM4 T1,T5 CO1,CO3
+of Signals
+(Energy , Power
+and its
+characteristics)
+3. Representation Fig.1 21/8/2020 DM1 T1,T5 CO1,CO3
+of Signals
+4. Representation 27/8/2020 DM1,DM4,DM8 T1,T5 CO1,CO3
+of Signals
+5. Operations on 28/8/2020 DM1 T1,T5 CO1,CO3
+Signals
+6. Operations on 29/8/2020 DM1,DM8,DM4 T1,T5 CO1,CO3
+Signals
+7. Characteristics 3/9/2020 DM1,DM4 T1,T5 CO1,CO3
+Fig.2
+of systems and
+its verification
+8. Classification of 4/9/2020 DM1,DM4,DM8 T1,T5 CO1,CO3
+discrete time
+systems
+9. Introduction to 5/9/2020 DM1,DM4,DM8 T1,T5 CO1,CO3
+convolution
+Linear
+convolution
+10. Sampling and 10/9/2020 DM1,DM4,DM8 T1,T5 CO1,CO3
+aliasing
+11 Sampling 11/9/2020 DM1,DM4,DM8 T1,T5 CO1,CO3
+theorem
+Brief Description: knowledge of various discrete time signals will help us to understand how the PWM can be implemented on a digital signal processor
+using a triangular discrete time signal and discrete time unit step signals or a sine and triangular signal if SPWM implementation is required. As motor
+input as well as inverter gate signal both should be continuous time signals the processors output need to be converted to analog signal. For proper
+reconstruction of the signal sampling frequency should be chosen very carefully that understanding will be given by sampling theorem. Figure 2 is the
+real time set up of a Digital signal processor generating PWM pulses.
+Course Name: Principle of Digital Signal Processing Year /Sem: IV/Isem
+Course Code: 5EC17 Course coordinators: Dr.N.Krishna Kumari
+Dr. Rashmi Kapoor
+Lecture No. Content of Wit & WIL SCENERIO Mapping Teaching Plan
+Syllabus Lecture Delivery Learning Resourses Course
+Dates Methodologies /Reference Outcomes
+1. PDSP -Scenario Sensor less control of PMSM for 19-09-2020 DM8 CO1, CO2,
+explanation washing machine CO3,CO4
+The scenario chosen to map the PDSP syllabus is sensor less control of Permanent magnet synchronous motor with flux weakening control for washing
+machine application. To operate washing machine in various modes, the motor needs to be operated in various modes and at various speeds. To control
+the modes of operation of motor an inverter is used. An inverter can be controlled by pulse width modulation technique. For which a sinusoidal signal is
+compared with a constant signal to generate the PWM pulses for inverter. Various types of continuous and discrete time signals are covered in first unit.
+For proper operation of motor, the output of the inverter should be free from any harmonic components. So, Fourier transform and Z transform can be
+used for frequency domain analysis of the inverter output, that are covered in second and third unit of the syllabus.
+If any noise signal is detected filters can be used to suppress these noise components. These filters are covered in fourth and fifth unit of the syllabus.
+UNIT-2 Fourier Analysis
+Lecture No. Content of Wit & WIL SCENERIO Mapping Teaching Plan
+Syllabus
+Lecture Dates Delivery Learning Course
+Methodologies Resourses/Reference Outcomes
+1.
+CO1,CO 3
+Introduction to 19-09-2020
+Discrete Fourier
+series
+2 DM1,DM4 T1,T5
+Discrete Fourier CO1,CO 3
+Transform 24-09-2020
+3. Properties of DM1 T1,T5
+CO1,CO 3
+Discrete Fourier Fig.1 25-09-2020
+Transform
+4. DM1,DM4,DM8 T1,T5
+CO1,CO 3
+linear convolution
+26-09-2020
+with problems
+5. DM1 T1,T5
+CO1,CO 3
+circular
+01-10-2020
+convolution with
+problems
+Fig.2
+6. DM1,DM8,DM4 T1,T5
+CO1,CO 3
+Computation of
+03-10-2020
+DFT
+7. DM1,DM4 T1,T5
+CO1,CO 3
+Relation between
+08-10-2020
+DFT and Z-
+Transform
+8. DM1,DM4,DM8 T1,T5
+CO1,CO 3
+DFT based
+09-10-2020
+problems
+9. DM1,DM4,DM8 T1,T5
+CO1,CO 3
+Introduction to
+15-10-2020
+Fast Fourier
+Transform
+10. Radix -2 DM1,DM4,DM8 T1,T5
+CO1,CO 3
+decimation in
+16-10-2020
+time and
+decimation in
+frequency FFT
+algorithms
+11 DM1,DM4,DM8 T1,T5
+CO1,CO 3
+DIFFT based
+17-10-2020
+Problems
+Convolution and correlation of signals are very important in communication. Convolution is a mathematical way of combining two signals to form a third signal.
+Correlation, which is similar to convolution, compares two signals to determine the degree of similarity between them. The determination of linear convolution of
+two signals by various methods, determination of periodic convolution of signals using various methods, cross correlation and autocorrelation of signals, power
+spectral density and energy spectral density are covered in Chapter 2.
+Discrete-time Fourier transform (DTFT) is a method of representing a discrete-time signal in frequency domain. It is popular for digital signal processing because
+using this the complicated convolution operation of two sequences in time domain can be converted into a much simpler operation of multiplication in frequency
+domain. The DTFT, its properties and its use in the analysis of signals are explained in Chapter 2. The Fourier series representation of a periodic discrete-time
+sequence is called discrete Fourier series (DFS). The discrete Fourier transform (DFT) is a sampled version of DTFT.
+The discrete Fourier series and its properties, the DFT and its properties, performing linear and circular convolutions using DFT, inverse discrete Fourier transform
+(IDFT) are also discussed in Chapter 2.
+Fast Fourier Transform (FFT), a method developed by Cooley and Turkey is an algorithm for computing the DFT efficiently. The efficiency is achieved by
+adopting a divide and conquer approach which is based on decomposition of an N-point DFT into successively smaller DFTs and then combining them to give
+total transform. The computation of DFT by decimation-in-time (DIT) FFT algorithm and decimation-in-frequency (DIF) FFT algorithm, and computation of
+IDFT also by DIT FFT algorithm and DIF FFT algorithm and computation of DFT when N is a complex number by DIT FFT algorithm and DIF FFT algorithm
+are discussed in Chapter 2.
+Convolution and correlation of signals are very important in communication. Convolution is a mathematical way of combining two signals to form a third signal.
+Correlation, which is similar to convolution, compares two signals to determine the degree of similarity between them. The determination of linear convolution of
+two signals by various methods, determination of periodic convolution of signals using various methods, cross correlation and autocorrelation of signals, power
+spectral density and energy spectral density are covered in Chapter 2.
+Here convolution of Sinusoidal signal with PWM technique is convoluted with a triangular signal. The processed signal after this is given as a gate pulses to an
+Inverter. Which the required voltages are generated and are given to the motor. Figure 2 is the real time set up of a Digital signal processor generating PWM
+pulses.
+Computation of these signals are performed using Discrete Fourier Transform (DFT) and Fast Fourier Transform (FFT) Techniques
+Course Name: Principle of Digital Signal Processing Year /Sem: IV/Isem
+Course Code: 5EC17 Course coordinators: Dr.N.Krishna Kumari
+Dr. Rashmi Kapoor
+Lecture No. Content of Wit & WIL SCENERIO Mapping Teaching Plan
+Syllabus Lecture Delivery Learning Course
+Dates Methodologies Resourses/Reference Outcomes
+1. PDSP -Scenario Sensor less control of PMSM for 9/12/2020 DM8 CO1, CO2,
+explanation washing machine CO3,CO4
+The scenario chosen to map the PDSP syllabus is sensor less control of Permanent magnet synchronous motor with flux weakening control for washing
+machine application. To operate washing machine in various modes, the motor needs to be operated in various modes and at various speeds. To control
+the modes of operation of motor an inverter is used. An inverter can be controlled by pulse width modulation technique. For which a sinusoidal signal is
+compared with a constant signal to generate the PWM pulses for inverter. Various types of continuous and discrete time signals are covered in first unit.
+For proper operation of motor, the output of the inverter should be free from any harmonic components. So, Fourier transform and Z transform can be
+used for frequency domain analysis of the inverter output, that are covered in second and third unit of the syllabus.
+If any noise signal is detected filters can be used to suppress these noise components. These filters are covered in fourth and fifth unit of the syllabus.
+UNIT-3 Z-Transform
+Lecture No. Content of Wit & WIL SCENERIO Mapping Teaching Plan
+Syllabus
+Lecture Dates Delivery Learning Course
+Methodologies Resourses/Reference Outcomes
+1. Introduction to Z- 9/12/2020 DM1,DM4 T1,T5 CO1,CO3
+transform
+2. Properties of Z- 10/12/2020 DM1 T1,T5
+CO1,CO 3
+Transform
+3. Inverse Z- 11/12/2020 DM1,DM4,DM8 T1,T5
+Fig.1 CO1,CO 3
+Transform
+4. Application of 12/12/2020 DM1 T1,T5
+Z- Transforms
+CO1,CO 3
+for Linear
+constant
+coefficient
+difference
+equations
+5. Different types 16/12/2020 DM1,DM8,DM4 T1,T5
+CO2,CO 3
+of realization
+of Digital
+Fig.2
+filters
+6. Cascaded 17/12/2020 DM1,DM4 T1,T5
+CO2,CO 3,CO4
+realization of
+Digital filters
+with
+problems
+7. Parallel 18/12/2020 DM1,DM4,DM8 T1,T5
+CO2,CO 3,CO4
+realization of
+Digital filters
+with problems
+8. Direct 19/12/2020 DM1,DM4,DM8 T1,T5
+CO2,CO 3,CO4
+realization of
+Digital filters
+with problems
+9. Canonic 29/12/2020 DM1,DM4,DM8 T1,T5
+CO2,CO 3,CO4
+realization of
+Digital filters
+with problems
+10. 30/12/2020 DM1,DM4,DM8 T1,T5
+CO1,CO 3
+Inverse Z-
+Transform
+Z-transform is a very powerful mathematical technique for analysis of discrete-time systems. Unilateral and bilateral Z-transform, inverse Z-transform, ROC and its properties,
+properties and theorems of Z-transform and solution of difference equations using Z-transform are introduced in Chapter 3. Realization of a discrete-time system means
+obtaining a network corresponding to the difference equation or transfer function of the system. Various methods of realization of discrete-time systems are described in
+Chapter 3. Also, Realization of Digital Infinite Impulse Response (IIR) and Finite Impulse Response Filter (FIR) are dealt in detail.
+UNIT-IV IIR Filters
+Lecture No. Content of Wit & WIL SCENERIO Mapping Teaching Plan
+Syllabus
+Lecture Dates Delivery Learning Course
+Methodologies Resourses Outcomes
+/Reference
+1 Introduction to 31/12/2020 DM1,DM4 T1,T5 CO2
+designing of
+Analog Filter
+2. Designing of 6/1/2021 DM1 T1,T5 CO2
+Butterworth filter
+for FFT with Fig.1
+problems
+3. Designing of 7/1/2021 DM1,DM4,DM8 T1,T5 CO2
+Chebyshev filter
+For FFT with
+problems
+4. Design of IIR 8/1/2021 DM1 T1,T5 CO2
+digital filter
+impulse invariant
+techniques with
+problems
+5. Design of IIR 9/1/2021 DM1,DM8,DM4 T1,T5 CO2
+digital filter
+bilinear
+transformation
+techniques with
+problems
+6. Realization of 20/1/2021 DM1,DM4 T1,T5 CO2
+IIR filters with
+Direct realization
+7. Realization of 21/1/2021 DM1,DM4,DM8 T1,T5 CO2
+IIR filters with
+Canonic
+realization
+8. Realization of 22/1/2021 DM1,DM4,DM8 T1,T5 CO2
+IIR filters with
+Cascade and
+parallel
+realization
+9. Realization of 23/1/2021 DM1,DM4,DM8 T1,T5 CO2
+IIR filters to
+impulse invariant
+techniques with
+problems
+10 Realization of 27/2/2021 DM1,DM4,DM8 T1,T5 CO2
+IIR filters to
+bilinear
+transformation
+techniques with
+problems
+Brief Description: During the complete process signal passes through various stages and different devices, that adds noise to the signal. These noise
+component that are different frequency components can be removed by using filters, before using the signal as control parameter. Present chapter deals
+with designing and realization of infinite impulse response digital filters. Since analog filters are already known , conversion of analog filter to digital
+filters by using different techniques has been discussed. The suppression of noise from the signal improves the overall performance of the system.
+UNIT-V FIR Filters
+Lecture No. Content of Wit & WIL SCENERIO Mapping Teaching Plan
+Syllabus
+Lecture Dates Delivery Learning Course
+Methodologies Resourses Outcomes
+/Reference
+1 Characteristics of 28/1/2021 DM1,DM4 T1,T5 CO2
+FIR filters,
+frequency
+response
+2. Fourier series 29/1/2021 DM1 T1,T5 CO2
+method for Fig.1
+design of FIR
+filter
+3. Window 30/1/2021 DM1,DM4,DM8 T1,T5 CO2
+techniques for
+design of FIR
+filters
+4. Problems on 3/2/2021 DM1 T1,T5 CO2
+Window
+techniques.
+5. Frequency 4/2/2021 DM1,DM8,DM4 T1,T5 CO2
+sampling
+technique for
+filter design
+6. Realization of 5/2/2021 DM1,DM4 T1,T5 CO2
+FIR filters
+problems
+7. Realization of 10/2/2021 DM1,DM4,DM8 T1,T5 CO2
+IIR filters with
+Canonic
+realization
+8. Realization of 11/2/2021 DM1,DM4,DM8 T1,T5 CO2
+IIR filters with
+Cascade and
+parallel
+realization
+Brief Description: During the complete process signal passes through various stages and different devices, that adds noise to the signal. These noise
+component that are different frequency components can be removed by using filters, before using the signal as control parameter. Present chapter deals
+with designing and realization of finite impulse response digital filters. Since analog filters are already known, conversion of analog filter to digital
+filters by using different techniques has been discussed. The suppression of noise from the signal improves the overall performance of the system.

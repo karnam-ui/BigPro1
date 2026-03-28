@@ -1,0 +1,226 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/cseDS-CYS/Guest_lecture.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI INSTITUTE OF
+ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for B.Tech. CE,EEE,ME,ECE,CSE,EIE,IT,AME, M.Tech. STRE, PE, AMS, SWE Programmes pproved by AICTE, New
+Delhi, Affiliated to JNTUH, NIRF (2023) Rank band:101 -150 in Engineering Category College with Potential for Excellence by UGC,JNTUH-
+Recognized Research Centres:CE,EEE,ME,ECE,CSE
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Consolidated Guest Lectures
+Number of Guest Lectures
+S. No Years
+organized
+1 2023-2024 05
+2 2022-2023 17
+3 2021-2022 06
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI INSTITUTE OF
+ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for B.Tech. CE,EEE,ME,ECE,CSE,EIE,IT,AME, M.Tech. STRE, PE, AMS, SWE Programmes pproved by AICTE, New
+Delhi, Affiliated to JNTUH, NIRF (2023) Rank band:101 -150 in Engineering Category College with Potential for Excellence by UGC,JNTUH-
+Recognized Research Centres:CE,EEE,ME,ECE,CSE
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Guest Lectures 2022-23
+Number of
+Name of the Capacity Development Year of students Name of the agencies/consultants involved with
+S.No. and Skill Enhancement programme implementation enrolled contact details, if any Impact Statement
+A Guest Lecture on “Beginners Guide 1. Provides essential knowledge for
+newcomers to data science.
+to
+2. Introduces key concepts and
+Data Science” Organised by Dept of Mr.Samardh Moka Data Engineer
+techniques.
+CSE-CYS,DS and AI&DS.(1 st B.Tech ANZ Bank Limited Coordinator:Mr.V.Suryanarayana 3. Prepares attendees for further study
+1 CSE DataScience-A) 27-08-2022 60 Reddy in data analytics.
+1. Highlights integration of AI/ML in
+Geo spatial applications.
+Guest Lecture“Scope of AIML,and Mr.Yogesh
+2. Explores software development
+Data Science and software Karyakarte. Master in
+advancements in this field.
+development in the Geo Spatial Geo Informatics, 3. Demonstrates career opportunities
+2 Industry” 21-10-2022 168 Pune University Coordinator: MrsE.Lalitha in Geo spatial data science.
+1. Emphasizes the need for a strong
+professional profile.
+2. Guides students on how to stand
+out to recruiters and academic
+Guest on the Importance of a profile
+institutions.
+for 3. Enhances employability and
+3 placements and higher education 29-10-2022 77 Mr.Mark Bendrum(Speaker) academic admission prospects.
+1. Increases awareness of Cyber
+security threats.
+2. Outlines career paths in Cyber
+Guest lecture on “Cyber Security Mr.Sri Ram working
+security.
+Awareness as Freelance Consultant coordinator:Mr.V .Surya 3. Encourages adoption of secure
+4 and Career Path” 22-11-2022 130 Narayana Reddy practices in digital environments.
+1. Inspires entrepreneurial thinking.
+5 Guest lecture on Career vision 23-12-2022 120 Mr.Vamsi Gottipati, Technology executive and strategy 2. Discusses leadership qualities for
+session , Reflection on Startup consulting expert experienced in building start ups startup success.
+3. Prepares attendees for leadership
+mindset and leadership career coordinator:IEEE
+roles in innovative environments.
+1. Provides practical tips for creating
+compelling profiles.
+A Seminar on "Profile
+2. Teaches how to make effective
+video resumes.
+Building,Video Resume
+3. Offers strategies for excelling in
+6 Preparation and GD Tips 07-12-2022 62 .Dr.K.V.M.Achutha Ramaiah,Soft skills trainer,T&P group discussions.
+1. Discusses advancements in
+robotics and AI.
+Guest Lecture INTELLIGENT
+2. Shows practical applications of
+edge AI cameras.
+ROBOTS TO EDGE AI Mr. Nishanth Koganti, CEO & Designated Partner 3. Provides lessons from real-world
+7 CAMERAS:LESSONS 19-1-2023 120 ExaWizards India LLP IN aSSOCIATION withAIML implementations.
+1. Highlights the importance of mental
+health.
+Guest Lecture Life style
+2. Offers strategies for managing
+stress and lifestyle.
+management under “Peace of Dr.Gajendranath Dept of Electrical Engineeing, IIT 3. Promotes a balanced approach to
+8 Mind or Pieces of Mind” 28-01-2023 276 Hyderabad Cordinator:Mrs.N.Sunanda personal and professional life.
+1. Reviews current trends in data
+A Guest Lecture on “DATA SCIENCE science.
+JOURNEY IN 2023 “organized by
+2. Explores future directions and
+Mr.Samardh Moka
+innovations.
+department of CSE-DS,CYS and Data Engineer 3. Guides aspiring data scientists on
+9 AI&DS 08-02-2023 350 ANZ Bank Limited Coordinator:V.Suryanarayana Reddy career development.
+1. Provides insights into cyber security
+practices at a major airport.
+2. Discusses analytical techniques
+GLA session on Airport Cyber Security used to safeguard operations.
+Analytics - Dubai Mrs. Gopal Thammareddy, Director Global Deals and 3. Highlights the importance of
+10 Airport Case Study 18-03-2023 55 Sales Enablement .Coordinator:Dr.V.Prashanthi cybersecurity in critical infrastructure.
+1. Explains fundamental concepts of
+cloud computing. 2. Demonstrates
+Mr. KrishnaChaitanya Yanamandra cybersecurity benefits for businesses and IT. 3.
+A Guest Lecture on “Cloud operation lead 2nd year cys students Highlights the impact on modern IT
+11 Computing” 18-04-2023 120 Coordinator:Mr.R.Krantikumar infrastructure.
+1. Overview of the gaming industry's
+landscape.
+2. Discusses career opportunities in
+GL on Carrer on Game development Mr.Deepak Gurijala,CEO & Founder of Street Lamp game development.
+12 Industry 21-04- 2023, 33 Games Pvt Ltd Coordinator:Mrs.Krishnapriya 3. Explores creative and technical
+aspects of game design.
+1. Examines Indian ethical principles.
+2. Discusses various methods of
+Guest Lecture(Are Indian Ethics knowledge acquisition.
+dependable,Three approaches of Mr. Uday Uddavolu Sr. Manager,Microsoft 3. Offers a cultural perspective on
+13 gaining knowledge 29-04-2023 80 Coordinator:Mrs.N.Sunanda ethics and education.
+1. Explains the concept of time
+complexity in algorithms.
+2. Helps understand the efficiency of
+different algorithms.
+A Guest lecture on TIME speaker:Mr.SATTAR.G Assistant professor VNRVJIET 3. Provides tools for optimizing code
+14 COMPLEXITIES 18-05-23 70 Coordinator:V.SuryaNarayanaReddy performance.
+1. Raises awareness of cybersecurity
+issues.
+2. Provides best practices for personal
+and organizational security.
+Guest lecture on Cyber security speaker:Suresh Reddy Allam,Sr.Director Qualcomm, 3. Encourages proactive security
+15 Awareness 20-05-23 100 Coordinator :S.Krishnapriya measures.
+1. Discusses the behavior of various
+algorithms.
+2. Helps understand algorithmic
+efficiency and complexity.
+A Guest lecture on Dynamics of 3. Provides insights into selecting
+16 Algorithms 25-05-23 200 Mr.Abdulbari Coordinator :Mrs.N.sunanda appropriate algorithms.
+1. Highlights career prospects in AI.
+2. Discusses skills required for growth
+in AI fields.
+A Guest lecture on Professional 3. Encourages professional
+17 Growth Oppurtunities in AI 26-05-23 200 Mr.Sukumar Madishetty coordinator:Mrs P.Devika development and continuous learning.
+Guest Lectures 2021-22
+Year of STUDENTS
+S.No. NAME OF THE EVENT implementation ATTENDED GUEST SPECIFICATION IMPACT OF THE LECTURE
+Student learned about HARD SKILLS: Mathematics
+& Statistics
+Guest Lecture on MEZZANINE SOFT SKILLS: Communication skills , critical ,
+1 Technologies 26-02-2022 114 Mr. KLM Reddy thinking , creativity and storytelling.
+Speaker has given orientation on why Security is
+important in all aspects of life and which helps us to
+protect our data in
+2 Guest Lecture on Cyber Security 10-03-2022 60 Mr. M. Praveen Kumar Tangella the computer.
+The session helped the participants identify their
+Guest Lecture on Be an Instrument of strengths and talents and understand how they use
+3 Change 24-03-2022 60 Mr. K Durga Prasad, IPS Retired them to contribute to their communities.
+In this lecture, the speaker explained the following
+concepts.
+1. Incident response and the various stages in IR.
+2. private network architecture and its working.
+Mr. D. HemanthKumar,Senior Security
+3. Demonstrated the ways to identify the malicious
+file in the network.
+Guest Lecture on Security Incident Incident Response Engineer, Autodesk
+4. The concept of EDR and the limitations of AV
+Response -Practical India Pvt Ltd. Coordinator :Dr. compared to EDR.
+4 Approach 18-06-2022 180 V .Prashanthi 5. Demonstrated the working EDR.
+This session has givien introduction about Data
+Science and how security playing an important role
+in our daily life.
+● Collection of data is very very important.
+● Authorization and also authentication are also
+By RAJESHYAKKALI Assistant Vice-
+important for the data which is collected and
+Guest Lecture on Digital Automation president, Tech Mahindra , stored.
+5 Everywhere 23-06-2022 360 mericas.Coordinator:Dr.V.Prashanthi ● Every day life Apps are playing important role.
+The session provided Importance of forensics.
+2. Difference between Digital and computer
+forensics
+GL Interactive session on CYBER Mr.N. Sandeep Chaitanya, 3. Concepts of steganography by taking Monalisa
+6 FORENSICS 30-06-2022 50 Coordinator:Mr.R.KranthiKumar Photo.
+EXPERT VISITS 2023-24
+NAMEOF THE EXPERT NO. OF PROGRAM
+SNO DATE
+VISIT’s PARTICIPANTS COORDINATERS
+Guest lecture on Mrs. Dr. N. Sunanda
+3rd year DS,
+1 Opportunities in Data 20-03-2024 &
+AI&DS 150
+science (DQ LTI Mindtree) Mr. P. Veeranjaneyulu
+Unveiling the Mysteries of 2nd year and 3rd Dr.Prashanthi
+2 cloud security and career 23-03-2024 year allied branches &
+growth 300 G.Mounika
+Guest lecture on Social Dr. Prassanna Babu
+150 III AI&DS and
+3 Engineering crimes and 02-05-2024 &
+DS
+Digital Intelligence Manmath Nath Das
+Ms. G. Ashalatha,
+Bridging Academia and
+4 19-06-24 all 3rd years 150 &
+Industry
+Manmath Nath Das
+5 Dynamics of Algorithms 11-09-24 300 students Dr.Y. Bhanusree
+Fig1
+Fig:2 Fig:3
+Fig:1,2 & 3Guest lecture on Opportunities in Data science (DQ LTI Mindtree)
+Fig:4
+Fig:5
+Fig 4, Fig 5: Unveiling the Mysteries of cloud security and career growth
+Fig:6
+Fig:7
+Fig:6 & Fig:7 -Guest lecture on Social Engineering crimes and Digital Intelligence
+Fig:8
+Fig:9
+Fig:8,Fig:9 & Fig:10: Bridging Academia and Industry
+Fig:10
+Fig:11
+Fig:12
+Fig:13
+Fig:11, Fig12 & Fig:13 Dynamics of Algorithms

@@ -1,0 +1,50 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/cseAIMLIOT/Infrastructure/InfrastructureCSE-AIML.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for B.Tech. CE,EEE,ME,ECE,CSE,EIE,IT,AME, M.Tech. STRE, PE, AMS, SWE Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF (2022) 113th Rank in Engineering Category
+College with Potential for Excellence by UGC,JNTUH-Recognized Research Centres:CE,EEE,ME,ECE,CSE
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Department of CSE –AIML &IoT
+Details of Laboratories
+Programme :CSE-ARTFICIAL INTELLGIENCE AND MACHINE LEARNING
+S.N Room Name of the No. of System Processor RAM HDD Name of the
+o No Lab Units Name(Make/Model) Software
+require Usage
+d
+1 B007 Data 36 HP PRO TOWER 280 G9 I7 8GB 1TB MS Office,
+Engineering RCTO PC1 LATEX,
+Laboratory Codeblocks,
+Python,Hadoop
+,Pig, Hive,
+Sqoop
+2 B008 Machine 36 HP PRO TOWER 280 G9 I7 8GB 1TB Codeblocks,
+Learning RCTO PC1 Python
+Laboratory
+3 C007 Software 36 HP PRO DESK G7 I7 8GB 1TB My SQL, HTML,
+Engineering MICROTOWER PC, DELL MS Office,
+Laboratory VOSTRO 3888 DESKTOP Linux(Lex,YACC
+),
+Codeblocks,Sta
+r UML
+4 C008 Natural 36 HP PRO DESK G7 I7 8GB 1TB My SQL, HTML,
+Language MICROTOWER PC, DELL MS Office,
+Processing VOSTRO 3888 DESKTOP Python
+Laboratory
+5 B116 Object 36 LENOVO S510 DESKTOP I5 8GB 1TB JDK, R and
+Oriented Power BI
+Programmin
+g through
+Java
+Laboratory
+6 D421 Python 36 HP COMPAQ 6200 PRO I5 8GB 500 MS Office,
+Programmin MT PC GB LATEX, Python
+g Laboratory

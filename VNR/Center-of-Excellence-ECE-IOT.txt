@@ -1,0 +1,186 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/ecedept/Center-of-Excellence-ECE-IOT.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for B.Tech. CE, EEE, ME, ECE, CSE, EIE, IT Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF 135th Rank in Engineering Category
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnr vjiet.ac.in, Website: www.vnrvjiet.ac.in
+DEPARTMENT OF ELECTRONICS AND COMMUNICATION ENGINEERING
+Centre for 5G-IoT
+The Center for 5G-IoT is dedicated to advancing research and innovation in the realm of
+Internet of Things (IoT). Leveraging cutting-edge communication technologies such as 5G and
+Artificial Intelligence (AI), it aims to spearhead breakthroughs in IoT development.
+The 5G-IoT Lab focuses on stimulating and facilitating research and innovation in the Internet
+of Things (IoT). The IoT is generating more and more data that researchers can use. Through a
+continuous data flow, streaming data, it is possible to train certain machine-learning models
+optimally and continuously. The 5G becomes a latest communication technique to take up
+several use cases like Agriculture, Medical, Smart city, Smart house etc.
+5G I-IoT is the convergence of the Internet, intelligence, and electronic devices, all routed
+through the 5G network. This paradigm connects IoT devices and sensors to a cloud processing
+center, where the sensory data is gathered and analyzed using AI. This analysis is then funnelled
+to end-users who are requesting the information in industries such as transportation, agriculture,
+and healthcare. With these data-insights, users will be able to make informed decisions relevant
+to their field of work.
+Using intelligent algorithms like reinforcement learning allows the network to independently
+optimize itself and provide insights into the data being gathered. This allows the network to
+detect abnormalities. For instance, it can understand that a larger number of cars on the road
+implies worsening traffic conditions or a visibly distressed crop may imply animal interference.
+Activities Planned
+The 5G-IoT Lab offers facilities, expertise and a relevant network for researchers, companies,
+start-ups and students to develop and test 5G, IoT and edge applications based on the latest
+(wireless) technology, container technology and a streaming platform. Researchers will have a
+facility to use machine learning techniques in implementing technologies and also application.
+Primary research is centred to the following.
+➢ IoT Systems and Applications: Developing smart devices, sensor networks, and IoT
+platforms.
+➢ 5G and beyond Communication Models: Exploring next-gen communication protocols,
+cybersecurity, and data privacy in IoT networks.
+➢ Deep Learning Algorithms: Advancing AI and machine learning models, focusing on
+neural networks, predictive analytics, and data processing.
+Areas of Research Focussed
+Internet of things: To provide research platform for the automation of different use-
+cases like agriculture, biomedical, smart city, smart houses, retail, transportation
+services, railways, and defence.
+5G Cellular Networks: 5G and beyond Communication Models: Exploring next-gen
+communication protocols, improve spectral efficiency and Energy efficiency. Providing
+data security, and data privacy in IoT networks.
+UAV & Drones: This project focuses on solving various issues related to networking
+in UAV’s including data transfer at higher rates, low power instrumentation and
+operating for different use cases.
+➢ Surveillance and data network: Application of low power processing like traffic
+control, intruder detection etc.
+➢ Agriculture and disaster Management: Higher end image capturing
+(hyperspectral) for agriculture, disaster management and hide outs.
+VANETs: This project focuses on solving various research issues pertaining to
+VANETs e.g. vehicular communication, V2G operations etc.
+Signal processing and visualisation: Research area focus on Signal processing and
+visualisation of data related to IoT, 5G cellular network and VANET. It will cover the
+following areas.
+Digital signal processing: Wireless communication and cognitive radio with the
+application of artificial intelligence.
+Image processing: Image processing, video coding techniques, video processing,
+Computer vision with application in robotics, Generative AI, wireless communication.
+Speech processing: Speech Signal Processing and Recognition (with emphasis on
+Indian Languages), Speaker and Language Identification, Translators.
+Brain Computer Interface: The research focus is on studying, analyzing and
+developing new algorithms to classify EEG brain signals.
+Computing platforms: This research will focus on the development of low power
+miniaturised devices for ubiquitous computing. FPGA ASIC development.
+Facilities available
+Focus Area: Internet of Things
+Available Equipment
+Research Equipment Purpose
+➢ Design new protocols and technologies, as well as
+evaluate changes to existing ones.
+➢ Test and demonstrate designs in realistic scenarios.
+➢ Optimize protocol and application performance.
+NETSIM
+➢ Study the effect of real devices and transmit live traffic
+using NetSim Emulator. Emulator combines the real and
+virtual worlds to create scenarios that cannot be
+achieved in a lab environment.
+➢ High Computational Power: GPUs provide immense
+parallel processing capabilities, essential for handling
+complex computations and large datasets common in
+research.
+➢ Efficiency in Deep Learning and AI: GPUs are
+particularly well-suited for training deep learning
+Embedded GPU
+models due to their ability to perform multiple
+calculations simultaneously, significantly speeding up
+the learning process.
+➢ Big Data Processing: In research involving big data,
+GPUs can process and analyze vast amounts of data
+much faster than traditional CPUs, making them
+invaluable for data-intensive tasks.
+➢ Rapid Prototyping and Design Testing: PCB
+prototyping machines allow for quick fabrication of
+printed circuit boards directly from digital designs.
+PCB Prototyping machine
+➢ Precision and Customization: These machines offer
+high precision in creating PCBs, essential for accurately
+realizing complex circuit designs.
+➢ Cost-Effectiveness for Small Batches.
+➢ NVIDIA® Jetson Nano™ Developer Kit is a small,
+powerful computer that lets you run multiple neural
+AI Boards
+networks in parallel for applications like image
+classification, object detection, segmentation, and
+speech processing.
+Focus Area: 5G and Cellular Networks
+Available equipment
+Research Equipment Purpose
+Spectrum Analyser Used for RF and audio signal analysis.
+Interference identification and signal integrity checks.
+Its purpose is to analyze, measure, and characterize microwave
+Microwave Field Analyser
+fields in various applications. Here are some of its primary
+purposes
+Function Generator Various waveform generator. Used for testing and trouble
+shooting.
+SDR Kit RTL-SDR dongle and Hack RF one for SDR related
+development work.
+Focus Area: Signal Processing and Visualisation
+Available Equipment
+Research Equipment Purpose
+MP 45 DAQ box, ➢ It is a physiological Data Acquisition system used to
+physiological sounds micro
+collect data like EEG, EOG. The collected data is used for
+phone
+further data analysis and disease diagnosis.
+➢ The TMS320C6713 DSP Starter Kit (DSK) developed
+jointly with Spectrum Digital is a low-cost development
+platform designed to speed the development of high
+TMS320C6713
+precision applications based on TI´s TMS320C6000
+floating point DSP generation. The kit uses USB
+communications for true plug-and-play functionality.
+➢ Analyze data
+➢ Develop algorithms
+MATLAB
+➢ Create models and applications
+Drone
+➢ For real time data acquisition
+Focus areas: Computation Platform
+Available Equipment
+Research Equipment Purpose
+➢ To design and verify the functionality of Full custom ICs
+➢ Practice various aspects of digital design, verification,
+synthesis, place and route, and other crucial steps in the
+chip design process.
+Synopsys front-end and
+➢ In the front-end design, RTL (Register Transfer Level)
+back-end university bundle
+design, verification, and synthesis can be done.
+➢ The back-end design involves tasks related to physical
+design, such as place and route, timing analysis, and
+physical verification can be done.
+FPGA kits:
+➢ Spartan 3E
+➢ Anvyl, Spartan 605 All these FPGA kits are required for Digital Logic Prototyping,
+➢ Zync board 7000 Hardware Acceleration, Embedded Systems Development, Rapid
+➢ XUP V5 Prototyping for ASICs, Testing and Verification, IoT (Internet of
+➢ Atlys Spartan6
+Things) Development and to develop High-Performance
+➢ Zync video and
+Computing and signal processing applications.
+image kit
+➢ Aitex-7
+➢ Zed board
+Ongoing research
+I. Implementation of OFDM using GNU using Radio with
+HackRF one and RTL SDR
+II. Design and implementation of GNSS receiver in Zynq SoC
+III. Design and Development of Knowledge based expert system
+to assist farmers for maintenance of Agricultural field using
+aerial data acquisition
+IV. Design and Development of Night Vision Imaging LIDAR
+and Laser-3D Imaging System for Homeland security and
+other Surveillance applications in Defense

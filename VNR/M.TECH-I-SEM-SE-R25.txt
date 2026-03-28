@@ -1,0 +1,1197 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/syllabus-books/Mtech-R25/M.TECH-I-SEM-SE-R25.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. I YEAR COURSE STRUCTURE AND SYLLABUS
+(SOFTWARE ENGINEERING)
+I SEMESTER R25
+Course
+Course Type Name of the Course L T P Credits
+Code
+Professional Software Quality Assurance
+25PC1SE01 3 0 0 3
+Core-I and Testing
+Professional Advanced Data Structures and
+25PC1CP02 3 0 0 3
+Core-II Algorithms
+Professional
+25PC1CP03 Machine Learning 3 0 0 3
+Core-III
+25PE1CP02 Natural Language Processing
+25PE1CP04 Artificial Intelligence
+Professional
+25PE1SE01 Software Metrics 3 0 0 3
+Elective-I
+25PE1SE02 DevOps
+Software Architecture and
+25PE1SE03
+Design Patterns
+25PE1CP06 Computer Vision
+Software Reliability and Quality
+25PE1CP07
+Management
+Professional 25PE1CP09 Robotic Process Automation 3 0 0 3
+Elective-II
+Formal Methods in Software
+25PE1SE04
+Engineering
+25PC1CP05 Deep Learning
+Professional Software Testing, Case Tools
+25PC2SE01 0 0 2 1
+Core Lab-I and DevOps Laboratory
+Professional Advanced Data Structures and
+25PC2CP01 0 0 2 1
+Core Lab-II Algorithms Laboratory
+Communication English for Academic and
+25SD5EN01 0 0 2 1
+Skills Research Writing
+Project 25PW4SE01 Technical Seminar 0 0 4 2
+Mandatory 25MN6HS01 Research Methodology and IPR 2 0 0 0
+Total 17 0 10 20
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. I YEAR COURSE STRUCTURE AND SYLLABUS
+(SOFTWARE ENGINEERING)
+II SEMESTER R25
+Course
+Course Type Name of the Course L T P Credits
+Code
+Professional Software Requirements and
+25PC1SE02 3 0 0 3
+Core-IV Estimation
+Professional Cryptography and Network
+25PC1CP04 3 0 0 3
+Core-V Security
+Professional
+25PC1SE03 Big Data Analytics 3 0 0 3
+Core-VI
+25PE1SE05 Software Reengineering
+25PC1CP01 Data Science
+Professional
+25PE1CP10 Generative AI 3 0 0 3
+Elective-III
+25PE1CP11 Internet of Things
+25PE1CP13 Agile Methodologies
+25PE1CP15 Cloud Computing
+25PE1CP16 Digital Forensics
+Professional 25PE1CP19 Augmented and Virtual Reality 3 0 0 3
+Elective-IV
+Advanced Software Engineering
+25PE1SE06
+Principles and Practices
+25PE1SE07 Object Oriented Modeling
+Professional Cryptography and Network
+25PC2CP03 0 0 2 1
+Core Lab-III Security Laboratory
+Professional
+25PC2SE02 Big Data Analytics Laboratory 0 0 2 1
+Core Lab-IV
+Industry
+25SD5SE01 Industry Engagement 0 0 2 1
+Engagement
+Project 25PW4SE02 Mini-Project 0 0 4 2
+Mandatory 25MN6HS02 Ancient Wisdom 2 0 0 0
+Total 17 0 10 20
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. II YEAR COURSE STRUCTURE AND SYLLABUS
+(SOFTWARE ENGINEERING)
+III SEMESTER R25
+Course Course
+Name of the Course L T P Credits
+Type Code
+25PE1CP21 Quantum Computing
+25PE1CP22 Block Chain Technology
+Professional
+25PE1CP23 Prompt Engineering 3 0 0 3
+Elective-V
+25PE1CP24 Software Defined Networks
+25PE1SE08 Software Conceptual Design
+25OE1CN01 Business Analytics
+25OE1AM01 Industrial Safety
+Open
+25OE1AM02 Operations Research 3 0 0 3
+Elective
+25OE1AM03 Entrepreneurship and Startups
+25OE1PS01 Waste to Energy
+Project 25PW4SE03 Project Part - I 0 0 16 8
+Total 6 0 16 14
+IV SEMESTER R25
+Course Course
+Name of the Course L T P Credits
+Type Code
+Project 25PW4SE04 Project Part - II 0 0 28 14
+Total 0 0 28 14
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC1SE01) SOFTWARE QUALITY ASSURANCE AND TESTING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Basic knowledge on Software Engineering
+COURSE OBJECTIVES:
+• To define quality and understand various quality standards
+• To recognize metrics, measurements and methodology for assessing software
+quality
+• To understand steps involved in testing process and test factors
+• To analyze taxonomy of testing tools and automated testing tools
+• To remember steps involved in testing process and testing specialized systems
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Analyze the importance of Software Quality Assurance process and Standards
+CO-2: Demonstrate Quality Metrics and its methodology
+CO-3: Illustrate test documentation policies and compare different testing techniques
+CO-4: Analyze taxonomy of testing tools and automated testing tools
+CO-5: Outline testing process of specialized systems
+UNIT-I:
+Software Quality Assurance Framework and Standards SQA Framework: What is
+Quality? Software Quality Assurance, Components of Software Quality Assurance
+Software Quality Assurance Plan: Steps to develop and implement a Software Quality
+Assurance Plan – Quality Standards: ISO9000 and Companion ISO Standards, CMM,
+CMMI, PCMM, 6Sigma.
+UNIT-II:
+Software Quality Assurance Metrics and Measurement Software Quality Metrics:
+Product Quality metrics, In-Process Quality Metrics, Metrics for Software Maintenance,
+Software Quality metrics methodology: Establish quality requirements, Identify
+Software quality metrics, implement the Software quality metrics, analyze Software
+metrics results, and validate the Software quality metrics-Software quality indicators.
+UNIT-III:
+Software Testing Strategy and Environment: Establishing testing policy, structured
+approach to testing, test factors, Economics of System Development Life Cycle (SDLC)
+Testing Software Testing Methodology.
+Defects hard to find, verification and validation, functional and structural testing, work
+bench concept, eight considerations in developing testing methodologies, testing
+tactics checklist.
+UNIT-IV:
+Software Testing Techniques: Black-Box, Boundary value, Bottom-up, Branch
+coverage, Cause-Effect graphing, CRUD, Database, Exception, Gray-Box,
+Histograms, Inspections, JADs, Pare to Analysis, Prototyping, Random Testing, Risk
+based Testing, Regression Testing, Structured Walk through, Thread Testing,
+Performance Testing, White-Box Testing.
+UNIT-V:
+Software Testing Tools: Taxonomy of testing tools. Methodology to evaluate
+automated testing tools, Load Runner, QTP, Silk test, Java Testing Tools, Eleven Step
+Testing Process, Testing Client/Server Web applications. Testing off the Shelf
+Components, Testing a Data Warehouse.
+TEXT BOOKS:
+1. Software Testing and Continuous Quality Improvement, William E.Lewis,
+Gunasekaran Vcerapillai, 2nd Edition, Auerbach Publications
+2. Effective Methods for Software Testing, William E. Perry, 2nd Edition, Wiley India, 2006
+3. Metrics and Models for Software Quality Engineering, Stephen Kan, Pearson
+Education
+REFERENCES:
+1. Software Testing Tools, K. V. K. K. Prasad, Dreamtech,2008
+2. Testing and Quality Assurance for Component based Software, Gao Tsao and Wu,
+Artech House Publishers
+3. Software Testing Techniques, Bories Beizer, 2nd Edition, Dreamtech
+4. Managing the Testing Process, Rex Black, Wiley
+5. Handbook of Software Quality Assurance, G. Gordon Schulmeyer, James
+McManus, 2nd Edition, International Thomson Computer Press
+ONLINE RESOURCES:
+1. https://onlinecourses.nptel.ac.in/noc20_cs19/preview
+2. https://www.udemy.com/course/software-quality-assurance/
+3. https://www.youtube.com/watch?v=ogMKSPgfy9I&list=PLm_MSClsnwm_1f516fZM
+lM 0zjbn4w1PG9
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC1CP02) ADVANCED DATA STRUCTURES AND ALGORITHMS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Basic knowledge on Data Structures and Algorithm Design
+and Analysis
+COURSE OBJECTIVES:
+• To introduce the advanced methods of designing and analyzing algorithms
+• To choose appropriate algorithms and use it for a specific problem
+• To familiarize basic paradigms and data structures used to solve advanced
+algorithmic problems
+• To understand different classes of problems concerning their computation
+difficulties
+• To impart principles of good program design, particularly the effective use of data
+abstraction.
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand different advanced data structures and classes of problems
+concerning their computation difficulties.
+CO-2: Analyze the complexity/performance of different algorithms and data
+structures operations.
+CO-3: Categorize the different problems in various classes according to their
+complexity
+CO-4: Identify appropriate data structure and algorithms design technique and use it
+for a specific problem solving
+CO-5: Apply advanced problem-solving skills in various domains
+UNIT-I:
+Abstract Data Type: Priority Queue, Min/Max Heap, Binomial Heaps, Fibonacci heaps.
+Hashing: Implementation of Dictionaries, Review of Hashing, Hash Function, Collision
+Resolution Techniques in Hashing, Separate Chaining, Open Addressing, Linear
+Probing, Quadratic Probing, Double Hashing, Rehashing, Extendible Hashing.
+Counting and radix sorting techniques.
+Trees: AVL Trees, Red Black Trees, B-Trees, Tries.
+UNIT-II:
+Text Processing: Sting Operations, Brute-Force Pattern Matching, the Boyer-Moore
+Algorithm, the Knuth-Morris -Pratt Algorithm, the Longest Common Subsequence
+Problem (LCS), Applying Dynamic Programming to the LCS Problem. Introduction to
+Convex Hull, finding the convex hull and Graham scan approach.
+UNIT-III:
+Graph: Definitions and Elementary Algorithms: Shortest Path in Graphs: BFS, Dijkasra's,
+Bellman-Ford, Floyd-Warshall algorithm, DFS, topological sorting amortized analysis.
+Modulo Representation of Integers/Polynomials: Chinese Remainder Theorem,
+Conversion between base-representation and modulo-representation. Polynomial
+addition and multiplication.
+UNIT-IV:
+Flow-Networks: Maxflow-min cut theorem, Ford-Fulkerson Method to compute
+maximum flow, Edmond-Karp maximum-flow algorithm.
+Matrix Computations: Stassen’s algorithm and introduction to divide and conquer
+paradigm, inverse of a triangular matrix, LUP-decomposition.
+UNIT-V:
+Linear Programming: Geometry of the feasibility region and Simplex algorithm.
+NP Hard and NP-Complete problems: P, NP, NP-complete and NP-hard. Cook’s
+theorem. Recent Trends in problem solving paradigms using recent searching and
+sorting techniques by applying recently proposed data structures.
+TEXTBOOKS:
+1. Data Structures and Algorithm Analysis in C++, Mark Allen Weiss, 2nd Edition,
+Pearson, 2004
+2. Introduction to Algorithms, Cormen, Leiserson, Rivest, Stein
+3. Fundamentals of Computer Algorithms, E. Horrowitz, S. Sahni, S. Rajasekaran, 2nd
+Edition, University Press, 2007
+REFERENCES:
+1. Algorithm Design – Foundations, Analysis, and Internet Algorithms, M. T. Goodrich,
+R. Tomassia, John Wiley & Sons, 2002
+2. The Design and Analysis of Computer Algorithms, Aho, Hopcroft, Ullman
+3. Algorithm Design, Kleinberg and Tardos
+4. Design Analysis and Algorithms, Hari Mohan Pandy, University Science Press, 2009
+ONLINE RESOURCE:
+1. http://cs161.stanford.edu
+2. https://www.ics.uci.edu/~eppstein/161/960312.html
+3. https://www.cmi.ac.in/~madhavan/teaching.html
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC1CP03) MACHINE LEARNING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Basic knowledge on Linear Algebra, Probability, Statistics and
+Linear Algebra.
+COURSE OBJECTIVES:
+• To learn the concept of how to learn patterns and concepts from data without
+being explicitly programmed
+• To design and analyses various machine learning algorithms and techniques
+• To explore supervised and unsupervised learning paradigms of machine learning
+• To learn recommendation technique and various feature selection strategies
+• To evaluate the performance of different machine learning models
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the basic concepts of machine learning and their usage
+CO-2: Classify and Compare pros and cons of various supervised machine learning
+models
+CO-3: Analyze various unsupervised machine learning approaches and paradigms
+mathematically
+CO-4: Evaluate machine learning algorithms and elaborate feature selection
+methods
+CO-5: Explore various learning techniques and their different applications
+UNIT-I:
+Introduction: Basic definitions, Issues in Machine Learning, types of learning, hypothesis
+space and inductive bias, evaluation, cross-validation, Overfitting and under fitting,
+Linear Regression: Introduction, Linear Models for Regression.
+UNIT-II:
+Supervised Learning (Regression/Classification): Introduction, Nearest-Neighbors,
+Decision Trees, Bayes Rule & Naive Bayes, Logistic Regression Support Vector
+Machines, Perceptron, multilayer networks, and the back propagation algorithm,
+Beyond Binary Classification.
+UNIT-III:
+Unsupervised Learning (Clustering): Introduction, K-mean clustering, K-medoids
+clustering, Hierarchical clustering, Agglomerative clustering, Divisive clustering,
+Classification and Regression Trees (CART), Dimensionality Reduction, SVD (Singular
+Value Decomposition), Linear Discriminant Analysis, PCA and kernel PCA.
+UNIT-IV:
+Evaluating Machine Learning algorithms and Feature Selection: Forward and
+backward feature selection approaches (Sequential Forward Selection (SFS),
+Sequential Backward Selection (SBS)), Univariate, multivariate feature selection
+approach, Ensemble Methods: Boosting, Bagging, Random Forests, Adaboost.
+UNIT-V:
+Other types of learning and Applications: Other Topics in Machine Learning- Semi-
+Supervised Learning, Active Learning, Reinforcement Learning, few shot learning,
+Collaborative filtering-based Recommendation Systems, Applying Machine Learning
+to Sentiment Analysis
+TEXTBOOKS:
+1. Machine Learning: A Probabilistic Perspective, Kevin Murphy, MIT Press, 2012
+2. Machine Learning, Tom Mitchell, First Edition, McGraw-Hill, 1997
+3. Pattern Recognition and Machine Learning, Christopher Bishop, Springer, 2007
+REFERENCES:
+1. Machine Learning: An Algorithmic Perspective, Stephen Marshland, Taylor &
+Francis
+2. Introduction to Machine Learning, Ethem Alpaydin, Second Edition, MIT Press, 2010
+3. The Elements of Statistical Learning, Trevor Hastie, Robert Tibshirani, Jerome
+Friedman
+ONLINE RESOURCES:
+1. Supervised Machine Learning: Regression and Classification | Coursera
+2. Free Online Course: Applied Machine Learning in Python from Coursera | Class
+Central
+3. Free Online Course: Machine Learning with Python from Coursera | Class Central
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1CP02) NATURAL LANGUAGE PROCESSING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: students should have knowledge on Data Structures, Finite
+Automata and Probability Theory
+COURSE OBJECTIVES:
+• To understand the algorithms available for the processing of linguistic information
+of natural languages
+• To conceive basic knowledge on various syntactic and semantics of NLP tasks
+• To familiarize various NLP software libraries and data sets publicly available
+• To apply the NLP techniques for language modelling
+• To grasp the theoretical underpinnings of algorithms and techniques used in
+statistical and neural network-based NLP.
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand morphological models and familiarize with issues and challenges
+CO-2: Describe the concepts of syntax and evaluate parsing algorithms
+CO-3: Analyze the semantics and pragmatics of a statement written in a natural
+language
+CO-4: Extract information using predicate argument structure in a corpus
+CO-5: Design and implement different language modeling techniques
+UNIT-I:
+Finding the Structure of Words: Words and their Components, Issues and Challenges,
+Morphological Models. Finding the Structure of Documents: Introduction, Methods,
+Complexity of the Approaches, Performances of the Approaches
+UNIT-II:
+Syntax Analysis: Parsing Natural Language, Tree banks: A Data-Driven Approach to
+Syntax, Representation of Syntactic Structure, Parsing Algorithms, Models for
+Ambiguity Resolution in Parsing, Multilingual Issues.
+UNIT-III:
+Semantic Parsing: Introduction, Semantic Interpretation, System Paradigms, Word
+Sense Systems, Software.
+UNIT-IV:
+Predicate-Argument Structure: Meaning Representation Systems, Software.
+UNIT-V:
+Discourse Processing: Cohesion, Reference Resolution, Discourse Cohesion and
+Structure Language Modeling: Introduction, N-Gram Models, Language Model
+Evaluation, Parameter Estimation, Language Model Adaptation, Types of Language
+Models, Language-Specific Modeling Problems, Multilingual and Cross Lingual
+Language Modeling.
+TEXTBOOKS:
+1. Multilingual natural Language Processing Applications: From Theory to Practice –
+2. Daniel M. Bikel and Imed Zitouni, Pearson Publication
+3. Natural Language Processing and Information Retrieval: Tanvier Siddiqui, U. S.
+Tiwary
+4. Foundations of Statistical Natural Language Processing, Christopher D. Manning
+and Hinrich Schutze, MIT Press, 1999
+REFERENCES:
+1. Speech and Natural Language Processing, Daniel Jurafsky & James H. Martin,
+Pearson Publication
+2. Practical Text Analytics: Interpreting Text and Unstructured Data for Business
+intelligence, Steven Struhl, Kogan Page, 2015
+3. Handbook of Natural Language Processing, Nitin Indurkhya and Fred J. Damerau,
+Second Edition, Chapman and Hall/CRC Press, 2010
+ONLINE RESOURCES:
+1. Applied Natural Language Processing - Course (nptel.ac.in)
+2. Natural Language Processing - Course (nptel.ac.in)
+3. Natural Language Processing | Coursera
+4. Top Nlp Courses - Learn Nlp Online | Coursera
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1SE01) SOFTWARE METRICS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Basic knowledge on Software Engineering
+COURSE OBJECTIVES:
+• To be aware of core metrics for product, quality, process
+• To familiarize with the concepts of software quality and tools for quality metrics
+• To learn more about software liability
+• To understand important concepts of complexity metrics and OO metrics
+• Understand the basics of measurement theory, including measurement scales and
+models, and apply this knowledge to software engineering contexts
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Analyze connections of Software engineering measurements with the
+multidisciplinary history of measurement theory
+CO-2: Demonstrate social and ethical issues associated with human performance
+measurement
+CO-3: Assess the quality of a proposed metric
+CO-4: Understand the commercial and organizational contexts of software metrics
+CO-5: Able to assess various software quality models and their impact on software
+quality
+UNIT-I:
+The History and Evolution of Software Metrics: Evolution of the Software industry and
+evolution of Software measurements – The cost of counting function point metrics –
+The paradox of reversed productivity for high-Level languages- The Varieties of
+functional metrics. – Variations in application size and productivity rates – Future
+Technical Developments in Functional Metrics- Software measures and metrics not
+based on function points.
+UNIT-II:
+Measuring Software Quality: Quality control and international competition – Defining
+quality for measurement and estimation – Five steps to Software quality control-
+Measuring Software defect removal- Measuring Defect removal efficiency –
+Measuring the costs of defect removal – Evaluating defect prevention methods –
+Measuring customer reported defects- Measuring invalid defects.
+UNIT-III:
+Process Metrics: In-Process Metrics for Software Testing - Test Progress S Curve - Testing
+Defect Arrivals Over Time - Product Size Over Time - CPU Utilization - Effort/Outcome
+Model. Complexity Metrics and Models - Lines of Code - Halstead's Software Science
+- Cyclomatic Complexity. - Syntactic Constructs - Structure Metrics.
+UNIT-IV:
+Mechanics of Measurement: Software Assessments – Software Baselines – Software
+Benchmarks- What a Baseline analysis covers – Developing or Acquiring a baseline
+data collection Instrument – Administering the data collection questionnaire
+– Analysis and aggregation of the Baseline data.
+Measurement and Data Assessment: Measuring and Analyzing Customer Satisfaction
+- Surveys - Data Collection - Sampling Methods - Analyzing Satisfaction Data.
+UNIT-V:
+Conducting In- Process Quality Assessments - Preparation - Evaluation - Quantitative
+Data - Qualitative Data- Evaluation Criteria - Overall Assessment.
+Measurements, Metrics and Industry Leadership: Measures and metrics of industry
+leaders – Measures, metrics and innovation – Measurements, metrics and outsource
+litigation – Measurements, metrics and behavioral changes – Commercial Software
+measurement tools.
+TEXT BOOKS:
+1. Applied Software Measurement: Global Analysis of Productivity and Quality,
+Caper Jones, Third Edition, McGraw-Hill, 2008
+2. Metrics and Models in Software Quality Engineering, Stephen H. Kan, Addison
+Wesley, 2011
+3. Software Metrics: A Rigorous and Practical Approach, Norman Fenton, James
+Bieman, CRC Press 2020
+REFERENCES:
+1. Object-Oriented Software Metrics, Mark Lorenz, Jeff Kidd, Prentice Hall, 2000
+2. Software Testing Principles and Practices, Naresh Chauhan, Oxford University Press,
+2010
+3. Computer Vision Metrics, Scott Krig, Springer 2016
+ONLINE RESOURCES:
+1. https://www.youtube.com/watch?v=KqDlDubS-OU
+2. https://cosmolearning.org/video-lectures/software-metrics-and-quality/
+3. https://www.youtube.com/watch?v=xLQL5q1JBTY
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1SE02) DEVOPS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Software Engineering, Software Project Management
+COURSE OBJECTIVES:
+• To understand the skill sets and high-functioning teams involved in Agile, DevOps
+and related methods to reach a continuous delivery capability
+• To implement automated system update and DevOps lifecycle
+• To understand how DevOps complements and extends Agile and Lean
+methodologies
+• To use tools like Docker and Kubernetes to manage and scale containerized
+applications
+• To integrate security practices into every stage of the software development
+lifecycle
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the various components of DevOps environment
+CO-2: Identify Software development models and architectures of DevOps
+CO-3: Use different project management and integration tools
+CO-4: Select an appropriate testing tool and deployment model for project
+CO-5: Learn to use tools such as Ansible and Puppet for automating software
+Configuration
+UNIT-I
+Introduction to DevOps: Introduction, Agile development model, DevOps and ITIL.
+DevOps process and Continuous Delivery, Release management, Scrum, Kanban,
+delivery pipeline, identifying bottlenecks.
+UNIT-II
+Software development models and DevOps: DevOps Lifecycle for Business Agility,
+DevOps, and Continuous Testing. DevOps influence on Architecture: Introducing
+software architecture, the monolithic scenario, Architecture rules of thumb, the
+separation of concerns, Handling database migrations, Micro services and the data
+tier, DevOps, architecture, and resilience.
+UNIT-III
+Introduction to project management: The need for source code control, the history of
+source code management, Roles and code, source code management system and
+migrations, shared authentication, Hosted Git servers, Different Git server
+implementations, Docker intermission, Gerrit, The pull request model, GitLab.
+UNIT-IV
+Integrating the system: Build systems, Jenkins build server, Managing build
+dependencies, Jenkins plugins, and file system layout, The host server, Build slaves,
+Software on the host, Triggers, Job chaining and build pipelines, Build servers and
+infrastructure as code, Building by dependency order, Build phases, Alternative build
+servers, Collating quality measures.
+UNIT-V
+Testing Tools and Deployment: Various types of testing, Automation of testing Pros and
+cons, Selenium - Introduction, Selenium features, JavaScript testing, Testing backend
+integration points, Test-driven development, REPL-driven development. Deployment
+of the system: Deployment systems, Virtualization stacks, code execution at the client,
+Puppet master and agents, Ansible, Deployment tools: Chef, Salt Stack and Docker.
+TEXT BOOKS:
+1. Joakim Verona., Practical DevOps, Packt Publishing, 2016.
+2. Joakim Verona., Practical DevOps, Packt Publishing, 2016.
+3. DevOps - A Software Architech's Perspect, Bass/Weber/Zhu, SEI Series in Software
+Engineering,2016
+REFERENCES:
+1. 1. Deepak Gaikwad, Viral Thakkar. DevOps Tools from Practitioner's
+Viewpoint. Wiley publications.
+2. Len Bass, Ingo Weber, Liming Zhu. DevOps: A Software Architect's Perspective.
+Addison Wesley.
+3. DevOps And Micro services Handbook, Stephen Flemin
+4. Hands-on Azure DevOps , Mitesh Soni, BPB 2020
+5. Deepak Gaikwad, Viral Thakkar. DevOps Tools from Practitioner's Viewpoint. Wiley
+publications.
+ONLINE RESOURCES:
+1. https://www.youtube.com/watch?v=Xrgk023l4lI
+2. https://www.youtube.com/watch?v=hQcFE0RD0cQ
+3. https://www.youtube.com/watch?v=rXwUSCDH59Y
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1SE03) SOFTWARE ARCHITECTURE AND DESIGN PATTERNS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Basic knowledge on Software Engineering
+COURSE OBJECTIVES:
+• To outline the fundamentals of software architecture and quality requirements of
+a software system
+• To define the fundamental principles and guidelines for software architecture
+design, architectural styles, patterns, and frameworks
+• To identify the methods, techniques, and tools for software architecture and
+document different software product lines
+• To relate various design patterns for software architecture system
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Design suitable software architecture for small software systems
+CO-2: Analyze software architectural styles, design patterns, and frameworks
+CO-3: Elaborate software architecture using documentation approaches and
+architectural description languages
+CO-4: Understand behavioral patterns
+CO-5: Demonstrate fundamental patterns and principles of software architectural
+styles and design a case study
+UNIT-I:
+Envisioning Architecture: The Architecture Business Cycle, What is Software
+Architecture, Architectural patterns, reference models, Reference architectures,
+architectural structures and views. Creating an Architecture, Quality Attributes,
+Achieving qualities. Architectural styles and patterns, designing the Architecture,
+Documenting Software architectures, Reconstructing Software Architecture.
+UNIT-II:
+Analyzing Architectures: Architecture Evaluation, Architecture design decision
+making, ATAM, CBAM. Moving from one system to many, Software Product Lines,
+Building systems from off the shelf components, Software architecture in future.
+UNIT-III:
+Patterns: Pattern Description, Organizing catalogs, role in solving design problems.
+Selection and usage.
+Creational and Structural Patterns: Abstract factory, builder, factory method,
+prototype, singleton, adapter, bridge, composite, facade, flyweight Proxy.
+UNIT-IV:
+Behavioral Patterns: Chain of responsibility, command. Interpreter, iterator, mediator,
+memento, observer, state, strategy, template method, visitor.
+UNIT-V:
+Case Studies: A-7E -A case study in utilizing architectural structures, The World Wide
+Web - a case study in interoperability. Air Traffic Control - a case study in designing for
+high availability, Celsius Tech - a case study in product line development.
+TEXT BOOKS:
+1. Software Architecture in Practice, Len Bass, Paul Clements & RickKa, 2nd Edition,
+Pearson Publication, 2003
+2. Design Patterns, Erich Gamma, Pearson Education, 1995
+3. Head First Design Patterns, Eric Freeman & Elisabeth Freeman, O'Reilly, 2007
+4. Design Patterns in Java, Steven John Metsker & William C. Wake
+REFERENCES:
+1. Beyond Software Architecture, Luke I-Iohmann, Addison Wesley, 2003
+2. Software Architecture, David M. Dikel, David Kane and James R. Wilson, Prentice
+Hall PTR, 2001
+3. Pattern Oriented Software Architecture, F. Buschmann, John Wiley & Sons
+ONLINE RESOURCES:
+1. https://in.coursera.org/learn/design-patterns
+2.https://www.youtube.com/watch?v=8UlLgOf20
+Ho&list=PL4JxLacgYgqTgS8qQPC17fM- NWMTr5GW6
+2. 3.https://www.youtube.com/watch?v=tHPkgx9Hw
+Gs&list=PLtp8cVY2Oh5I1aNtBwNY1Yo97GShjpwsT
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1CP06) COMPUTER VISION
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Basic to Intermediate Programming Skills in Python,
+Mathematics Fundamentals in Linear Algebra, Calculus, Probability & Statistics
+COURSE OBJECTIVES:
+• Introduce the fundamental concepts of image formation, representation, and
+processing
+• Provide a hands-on understanding of core image processing techniques for
+filtering, enhancement, and feature extraction
+• Explore classical computer vision techniques for image segmentation, feature
+matching, and basic object recognition
+• Offer a solid foundation in modern Convolutional Neural Networks (CNNs) for
+image classification
+• Familiarity with arrays, lists, and basic algorithm design
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Explain the image formation process and perform basic image operations and
+transformations
+CO-2: Apply image processing techniques for filtering, noise removal, and edge
+detection.
+CO-3: Implement algorithms for feature detection, description and matching
+CO-4: Design and train a basic Convolutional Neural Network (CNN) for an image
+classification task
+CO-5: Develop integrated solutions for practical computer vision problems using a
+combination of techniques
+UNIT-I:
+Introduction To Computer Vision: Overview of applications (e.g., facial recognition,
+autonomous vehicles, medical imaging), Digital Image Fundamentals: Pixels,
+coordinate systems, image representation (binary, grayscale, and color), color
+spaces (RGB, HSV)
+Basic Image Operations: Reading, writing, displaying images. Point operations
+(brightness, contrast adjustment), histogram equalization, Image Transformations:
+Geometric transformations - translation, rotation, and scaling, affine transformation.
+UNIT-II:
+Image filtering and Edge detection:
+Image Filtering: Smoothing: Mean filter, Gaussian filter for blurring and noise reduction.
+Sharpening: Unsharp masking.
+Edges and Gradients: Image derivatives, Sobel and Prewitt operators.
+Advanced Edge Detection: The Canny edge detector.
+Corner Detection: Introduction to the Harris corner detector.
+UNIT-III:
+Image Features:
+Local Features: Introduction to Key points, what are features and why are they
+important? Classical Descriptors: A conceptual overview of SIFT and ORB.
+Image Segmentation:
+Region-based: Thresholding (global, Otsu's method), region growing. Clustering-
+based: K-Means clustering for color-based segmentation. Edge-based: Watershed
+algorithm (conceptually).
+UNIT-IV:
+Introduction to Machine Learning for Vision: From Features to Recognition: What is
+classification? Introduction to Machine Learning: Supervised vs. unsupervised learning.
+Basic concepts of training and testing. Classical Approach: Image features (e.g.,
+histograms) + classic classifiers (e.g., k-Nearest Neighbors, SVM). Neural Networks
+Basics: Perceptron, Multi-Layer Perceptron (MLP) for structured data.
+UNIT-V:
+Deep Learning with Convolutional Neural Networks: Why CNNs? Limitations of MLPs for
+images. CNN Building Blocks: Convolution layers, pooling layers (Max, Average),
+activation functions (ReLU), fully connected layers. Training a CNN: Concept of loss
+function and optimization (gradient descent). The role of data augmentation. Using
+Pre-Trained Models: Introduction to Transfer Learning using models like VGG or ResNet.
+Applying CNNs to a real-world dataset (e.g., CIFAR-10, MNIST).
+TEXT BOOKS:
+1. Szeliski, R. Computer Vision: Algorithms and Applications. 2nd ed., Springer, 2022
+2. Prince, S. J. D. Computer Vision: Models, Learning, and Inference. Cambridge
+University Press, 2012
+3. Sandipan Dey “Image Processing and Computer Vision Master Class with Python:
+Learn advanced image processing techniques, computer vision fundamentals,
+and applications” - 2nd Edition. Pearson 2022
+REFERENCES:
+1. Gonzalez, R. C., & Woods, R. E. Digital Image Processing. 4th ed., Pearson, 2018
+2. Forsyth, D. A., & Ponce, J. Computer Vision: A Modern Approach. 2nd ed., Pearson,
+2011
+3. Chollet, F. Deep Learning with Python. 2nd ed., Manning Publications, 2021
+ONLINE RESOURCES:
+1. OpenCV Tutorials: Official OpenCV tutorials (docs.opencv.org)
+2. Coursera: Introduction to Computer Vision (Georgia Tech)
+3. Kaggle Learn: Micro-courses on Python, Pandas, and Computer Vision
+(kaggle.com/learn)
+4. Libraries:
+5. OpenCV: The fundamental library for computer vision (opencv.org)
+6. Scikit-image: Image processing library for Python (scikit-image.org)
+7. Scikit-learn: For machine learning models (scikit-learn.org)
+8. TensorFlow / Keras or PyTorch: For building and training neural networks
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1CP07) SOFTWARE RELIABILITY AND QUALITY MANAGEMENT
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Basic knowledge of Software Engineering, Probability and
+Statistics
+COURSE OBJECTIVES:
+• To discuss problems of reliability and quality specification and measurement
+• To introduce reliability and quality metrics, and their use in software specification
+and assessment
+• To study quality assurance techniques and standards used in the software industry
+• To show how reliability predictions may be made from statistical test results and
+quality management practices
+• To enable to apply software reliability and quality management practices in real-
+world projects and research
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Explain the principles of software reliability and quality management
+CO-2: Apply statistical and quality assurance techniques in software development
+CO-3: Analyze software reliability growth models and quality metrics
+CO-4: Evaluate software processes using standards like ISO 9001 and CMMI
+CO-5: Design and implement strategies for achieving reliable and high-quality
+software
+UNIT-I:
+Introduction: The Need for Reliable Software, Software Reliability Engineering
+Concepts, Basic definitions, Software practitioners’ problems, software reliability
+engineering approach, software reliability engineering process, defining the product.
+Operational Profiles, learning operations and running concepts.
+UNIT-II:
+Software Reliability Concepts: Defining failure for the product, measures for systems,
+setting failure intensity objectives, strategies, failures, faults and errors, availability,
+predictin g failure intensity.
+UNIT-III:
+Software Reliability Modeling Survey: Exponential Failure Time Models, Weibull and
+Gamma Models, Bayesian Models, Model Relationships, Software Reliability Prediction
+in Early Phases.
+UNIT-IV:
+Software Metrics for Reliability and Quality Assessment: Static and dynamic program
+complexity, Reliability and quality metrics, ISO 9126 / SQuaRE quality model,
+Capability Maturity Model Integration (CMMI).
+UNIT-V:
+Software Quality Assurance and Management: Quality Assurance (QA) activities,
+Verification and Validation (V&V), Reviews, walkthroughs, inspections, Statistical
+Quality Control (SQC), Software Quality Standards (ISO 9001, IEEE standards),Best
+practices of Software Reliability Engineering (SRE).
+TEXT BOOKS:
+1. Handbook of Software Reliability Engineering, Michael R. Lyu, IEEE & McGraw- Hill
+2. Software Reliability Engineering, John D. Musa, 2nd Edition, Tata McGraw-Hill
+3. Software Quality Assurance: From Theory to Implementation, Daniel Galin, and
+Pearson
+REFERENCES:
+1. Practical Reliability Engineering, Patric D. T. O’Connor, 4th Edition, John Wiley &
+Sons, 2003
+2. Fault Tolerance Principles and Practice, Anderson and PA Lee, PHI, 1981
+3. Software Quality Engineering: Testing, Quality Assurance, and Quantifiable
+Improvement, Jeff Tian, Wiley, 2005
+4. Reliability Engineering, E. Balagurusamy, Tata McGraw-Hill, 1994
+ONLINE RESOURCES:
+1. https://users.ece.cmu.edu/~koopman/des_s99/sw_reliability/
+2. https://nptel.ac.in/courses/106105150 (NPTEL - Software Engineering)
+3. https://www.researchgate.net (Research articles on Software Reliability
+Engineering and Quality Management)
+4. https://www.coursera.org/learn/software-processes (Coursera - Software
+Processes and Reliability)
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1CP09) ROBOTIC PROCESS AUTOMATION
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Software Engineering, Programming Language Skills, Web
+Application Development
+COURSE OBJECTIVES:
+• To understand the fundamental concepts, structure, and classifications of robots,
+including laws, history, anatomy, and system architecture
+• To acquire knowledge of various end effectors, robot control methods, and
+feedback devices for effective robotic motion and task execution
+• To learn robot kinematics, transformations, and the application of sensors for
+perception and interaction with the environment
+• To develop skills in robot cell design, safety, mobile robotics, and practical
+applications across industries using software tools
+• To explore advanced micro and nano robotics systems, including their design,
+actuation, communication, and specialized applications
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Explain key RPA concepts and identify processes suitable for automation
+CO-2: Design and implement simple automation workflows using RPA tools
+CO-3: Apply exception handling, data manipulation, and workflow control
+techniques
+CO-4: Deploy, test, and monitor bots in enterprise environments
+CO-5: Evaluate the effectiveness and business impact of RPA solutions
+UNIT-I:
+Introduction - Robot anatomy - Definition, law of robotics, History and Terminology of
+Robotics Accuracy and repeatability of Robotics-Simple Problems Specifications of
+Robot-Speed of Robot Robot joints and Links-Robot classifications - Architecture of
+robotic systems.
+UNIT-II:
+End Effectors and Robot Controls - Mechanical Grippers-Slider crank mechanism,
+Screw type, Rotary actuators, cam type- Magnetic grippers- Vacuum Grippers-Air
+operated Grippers-Gripper force analysis- Gripper design- Simple problems- Robot
+controls- Point to point control, Continuous path control, Intelligent robot- Control
+system for robot joint- Control actions- Feedback devices- Encoder, Resolver, LVDT-
+Motion Interpolations-Adaptive control.
+UNIT-III:
+Robot Transformations and Sensors: Robot kinematics – Types - 2D, 3D Transformation
+Scaling, Rotation, Translation- Homogeneous coordinates, multiple Transformation-
+Simple problems. Sensors in robot – Touch sensors - Tactile sensor – Proximity and range
+sensors – Robotic vision Sensor-Force sensor - Light sensors, Pressure sensors.
+UNIT-IV:
+Robot Cell Design and Applications: Robot work cell design and Control-Sequence
+control, Operator interface, Safety monitoring devices in Robot-Mobile robot working
+principle, actuation using MATLAB, NXT Software Introductions-Robot applications,
+Material handling, Machine loading and unloading, assembly, Inspection, Welding,
+Spray painting and undersea robot.
+UNIT-V:
+Micro/Nano Robotics System: Micro/Nano robotics system Overview-Scaling Effect-
+Top down and bottom-up approach- Actuators of Micro/Nano robotics System-Nano
+robot communication Techniques- Fabrication of micro/Nano Grippers-Wall climbing
+micro robot working principles- Biomimetic robot- Swarm robot- Nano robot in
+targeted drug delivery system
+TEXT BOOKS:
+1. S.R. Deb, Robotics Technology and flexible automation, Tata McGraw-Hill
+Education., 2009
+2. Mikell P Groover & Nicholas G Odrey, Mitchel Weiss, Roger N Nagel, Ashish Dutta,
+Industrial Robotics, Technology programming and Applications, McGraw-Hill, 2012
+3. Richard D. Klafter, Thomas A. Chmielewski, Michael Negin, Robotics Engineering-
+An integrated approach, Prentice Hall, 1989
+REFERENCES:
+1. Carl D. Crane and Joseph Duffy, Kinematic Analysis of Robot manipulators,
+Cambridge University press, 2008
+2. Fu. K. S., Gonzalez. R. C. & Lee C.S.G., “Robotics control, sensing, vision and
+intelligence”, McGraw-Hill Book co, 1987
+3. Craig. J. J. “Introduction to Robotics mechanics and control”, Addison- Wesley,
+1999
+4. Ray Asfahl. C., “Robots and Manufacturing Automation”, John Wiley & Sons Inc.
+ONLINE RESOURCES:
+1. https://academy.uipath.com/
+2. https://www.automationanywhere.com/resources/university
+3. https://learn.microsoft.com/en-us/training/paths/work-automation-flow/
+4. https://www.coursera.org/specializations/roboticprocessautomation
+5. https://nptel.ac.in/courses/106106232
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1SE04) FORMAL METHODS IN SOFTWARE ENGINEERING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Basic knowledge of Software Engineering and Discrete
+Mathematics
+COURSE OBJECTIVES:
+• To develop an appreciation of the strengths of formal methods for engineering
+secure and reliable software systems
+• To build up a solid background for the application of formal methods to various
+tasks of the Software development process using Z
+• To gain a basic level of competence in using formal methods to model software
+systems and verify software system properties
+• To construct formal methods of software engineering through Z
+• Understand the role and benefits of formal methods in software development,
+including their use in critical systems to enhance reliability and security
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the role of formal methods in software engineering and the
+foundations of Z notation
+CO-2: Develop Schemas and Schema Calculus for an application using Z
+CO-3: Apply formal methods to system applications through Z
+CO-4: Evaluate features of Z and build methods in construction of Software systems
+CO-5: Understand the Refinement strategies to explore Formal Semantics and Tools
+UNIT-I:
+Foundations of Z: Understanding formal methods – motivation for formal methods –
+informal requirements to Formal specifications – validating formal specifications –
+Overview of Z specification – basic Elements of Z – sets and types – declarations –
+variables – expressions – operators – Predicates and equations.
+UNIT-II:
+Structures in Z: Tuples and records – relations, tables, databases – pairs and binary
+relations – functions –Sequences – propositional logic in Z – predicate logic in Z – Z and
+Boolean types – set Comprehension – lambda calculus in Z – simple formal
+specifications – modeling systems and Change.
+UNIT-III:
+Z Schemas and Schema Calculus: Z schemas – schema calculus – schema
+conjunction and disjunction – other schema calculus Operators – schema types and
+bindings – generic definitions – free types – formal reasoning Checking specifications
+– precondition calculation– machine-checked proofs.
+UNIT-IV:
+Z Case Studies: Case Study: Text processing system – Case Study: Eight Queens – Case
+Study: Graphical User Interface – Case Study: Safety critical protection system – Case
+Study: Concurrency and Real time systems.
+Z Refinement: Refinement of Z specification – generalizing refinements – refinement
+strategies
+UNIT-V:
+Refinement Strategies: program Derivation and verification – refinement calculus –
+data structures – state schemas – functions and relations – operation schemas –
+schema expressions – refinement case study.
+Formal Semantics and Tools: Operational Semantics – Denotation Semantics –
+Axiomatic Semantics Proof Editors – Proof Analyzer – Symbolic Simulators.
+TEXTBOKS:
+1. The Way of Z: Practical Programming with Formal Methods, Jonathan Jacky,
+Cambridge University Press, 1996.
+2. Z: An introduction to Formal Methods, Antony Diller, 2nd Edition, Wiley, 1994.
+3. Software Engineering: A Practitioner's Approach, Roger Pressman, Bruce Maxim,
+9th Edition, TMH, 2023
+REFERENCES:
+1. Using Z – Specification, Refinement, and Proof, Jim Woodcock and Jim Davies,
+Prentice Hall, 1996
+2. The Z Notation: A Reference Manual, J. M. Spivey, 2nd Edition, Prentice Hall, 1992
+3. Mathematical Logic for Computer Science, M. Ben-Ari, 2nd Edition, Springer, 2003
+4. Logic in Computer Science – Modelling and Reasoning about Systems, M. Huth
+and M. Ryan, 2nd Edition, Cambridge University Press, 2004
+ONLINE RESOURCES:
+1. https://archive.nptel.ac.in/courses/106/101/106101061/
+2. https://nptel.ac.in/courses/106105087
+3. https://www.youtube.com/watch?v=R43-
+fjpJ1jg&list=PLGyeoukah9Nbd1yRDj3ridE7PtcL91-5u
+4. https://www.youtube.com/watch?v=MTGu_dwyS6Q&list=PLXa4UlQsyK0j0xiXQgS
+FMO9a6iVoXcfNC
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC1CP05) DEEP LEARNING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Python and have knowledge on Algorithms and Basic
+Mathematics.
+COURSE OBJECTIVES:
+• To gain a grasp of the fundamental concepts of deep learning and regularization
+in the context of deep learning
+• To examine approaches for optimization and creating high-performing deep
+learning networks while considering hyper parameters
+• To understand complexity of Deep Learning algorithms and their limitations
+• To be capable of performing experiments in Deep Learning using real-world data
+• To gain understanding of recurrent and recursive networks
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Acquire a comprehensive understanding of the fundamental principles
+underlying Deep Learning
+CO-2: Comprehend and implement regularization techniques for neural networks in
+deep learning
+CO-3: Acquire a foundational understanding of Convolutional Neural Networks
+(CNNs), including their basic principles and architecture
+CO-4: Investigate various architectures of Recurrent Neural Networks (RNNs) to
+explore their diverse capabilities and applications
+CO-5: Understand and analyze Applications of Deep Learning to Computer Vision &
+NLP
+UNIT-I:
+Introduction to Deep Learning: Biological neuron, Importance and Applications of
+Deep Learning. Issues of Deep Learning, Supervised Learning Networks, Perceptron
+Networks.
+Deep Feed forward Networks: Historical Trends in Deep Learning Deep Feed forward
+Networks: Example: XOR, Gradient-based learning, Hidden units
+UNIT-II:
+Regularization for Deep Learning: Parameter Norm Penalties, Norm Penalties as
+Constrained Optimization, Regularization under constrained problems, Dataset
+Augmentation, Noise Robustness, Semi-Supervised Learning, Multi-Task Learning, Early
+Stopping, Parameter Tying and Sharing, Sparse Representations, Bagging and
+Ensemble Methods, Dropout
+UNIT-III:
+Convolutional Neural Networks: The Convolution Operation, Motivation, Pooling,
+Convolution and Pooling as an Infinitely Strong Prior, Variants of the Basic Convolution
+Function
+UNIT-IV:
+Sequence Modelling: Recurrent and Recursive Nets: Unfolding Computational
+Graphs, Recurrent Neural Networks-Teacher forcing and networks with output
+recurrence, Computing the gradient in a recurrent neural network, recurrent networks
+as directed graphical models, LSTM, Deep Recurrent Networks, Recursive Neural
+Networks
+UNIT-V:
+Applications of Deep Learning to Computer Vision: Image segmentation, object
+detection, automatic image captioning.
+Applications of Deep Learning to NLP: Introduction to NLP and Vector Space Model
+of Semantics, Word Vector Representations: Continuous Skip-Gram Model,
+Continuous Bag-of-Words model (CBOW).
+TEXT BOOKS:
+1. The Elements of Statistical Learning, T. Hastie, R. Tibshirani, and J. Friedman, Springer
+2. Machine Learning in Data Science using Python, Dr. R. Nageshwar Rao,
+Dreamtech, 2022
+3. Neural Networks and Deep Learning, Charu C. Aggarwal, Springer, 2018
+REFERENCES:
+1. Probabilistic Graphical Models, Koller and N. Friedman, MIT Press
+2. Pattern Recognition and Machine Learning, Bishop C. M., Springer, 2006
+3. Deep learning: A Practitioners Approach, Josh Patterson, Adam Gibson
+4. Deep Learning, Ian Good fellow, Yoshua Bengio and Aaron Courville, MIT Press
+ONLINE RESOURCES:
+1. https://nptel.ac.in/courses/106106184
+2. Why deep learning is becoming so popular? | Deep Learning Tutorial 2
+(Tensorflow2.0, Keras & Python) – YouTube
+3. http://neuralnetworksanddeeplearning.com/
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC2SE01) SOFTWARE TESTING, CASE TOOLS AND DEVOPS LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE PRE-REQUISITES: Basic knowledge on Programming, Algorithms
+COURSE OBJECTIVES:
+• To define the process of test documentation
+• To identify the usage of automated testing tools
+• To understand different software testing tools and their features
+• To implement automated testing tools
+• To apply test cases for a software project using different testing and tracking tools
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Generate various test documents
+CO-2: Understand and analyze different testing tools and their mechanisms
+CO-3: Identify and apply appropriate automated testing tool
+CO-4: Analyze different testing tools like Selenium, Unified Functional Testing and
+Bugzilla for web testing and bug tracking
+CO-5: Apply testing tools techniques on project applications
+LIST OF PROGRAMS / EXPERIMENTS / EXERCISES:
+Take any system (e.g. ATM system) and study its system specifications and report the
+various bugs
+1. Write the test cases for any known application (e.g. Banking application)
+2. Create a test plan document for any application (e.g. Library Management
+System)
+3. Study of any testing tool (e.g. QTP/UFT)
+4. Study of any web testing tool (e.g. Selenium)
+5. Study of any bug tracking tool (e.g. Bugzilla)
+6. Study of any test management tool (e.g. Quality Centre/ALM)
+7. Take a mini project (e.g. University admission, Placement Portal) and execute it.
+During the Life cycle of the mini project create the various testing documents* and
+final test report document.
+8. Write code for a simple backend project. It should have basic CRUD operations
+and APIs (GET, POST, DELETE, and PATCH/UPDATE).
+9. Explore Git and GitHub commands.
+10. Practice Source code management on GitHub. Experiment with the source code
+written in exercise
+11. Explore Docker commands for container management.
+12. Develop a simple containerized application using Docker.
+13. Integrate Kubernetes and Docker
+14. Automate the process of running containerized application developed in exercise
+7 using Kubernetes.
+TEXT BOOKS:
+1. The Art of Software Testing, Glenford Myers et al., 2nd Edition, 2004
+2. Test Automation Using HP Unified Functional Testing - Explore Latest Version of Qtp,
+Garg, M. R. Navneesh
+3. Effective Methods for Software Testing, William E. Perry, 2nd Edition, Wiley India, 2006
+4. Metrics and Models for Software Quality Engineering, Stephen Kan, Pearson
+Education
+REFERENCES:
+1. How to Break Software: A Practical Guide to Testing, James Whittaker, 2002
+2. Effective Methods for Software Testing, William E. Perry, 3rd Edition, 2006
+3. Software Automation Testing Tools for Beginners, Rahul Shedye
+4. A Practitioner’s Guide to Software Test Design, Lee Copeland, 2003
+ONLINE RESOURCES:
+1. https://onlinecourses.nptel.ac.in/noc20_cs19/preview
+2. https://www.udemy.com/courses/development/software-testing/
+3. https://www.udemy.com/course/software-quality-assurance/
+4. https://www.youtube.com/watch?v=ogMKSPgfy9I&list=PLm_MSClsnwm_1f516fZ
+MlM0zjbn4w1PG9
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC2CP01) ADVANCED DATA STRUCTURES AND ALGORITHMS LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE PRE-REQUISITES: Basic knowledge on Algorithm Design and Analysis.
+COURSE OBJECTIVES:
+• To familiarize with advanced methods of designing and analyzing algorithms
+• To choose appropriate algorithms and use it for a specific problem
+• To train basic paradigms and data structures used to solve advanced algorithmic
+problems
+• To understand different classes of problems concerning their computation
+difficulties
+• To improve the efficiency of algorithms to enhance performance in real-world
+applications and to design optimized algorithms
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Analyze the complexity/performance of different classes of problems
+CO-2: Identify appropriate data structure and algorithms design technique and use it
+for a specific problem solving
+CO-3: Design efficient algorithms for solving the problems
+CO-4: Implement the different advanced problem solving algorithms
+CO-5: Apply advanced problem-solving skills in various domains
+LIST OF PROGRAMS:
+1. Write a program to implement Linear Probing and Separate Chaining.
+2. Write a program to implement Min/Max Heap.
+3. Write a program to implement Fibonacci Heap.
+4. Write a program to implement AVL tree, Red-Black tree operations.
+5. Write a program to implement Boyer-Moore and KMP pattern matching algorithm.
+6. Write a program to implement LCS algorithm.
+7. Write a program to implement Topological sorting.
+8. Write a program to compute shortest path by BFS.
+9. Write a program to implement Dijkasra’s Algorithm.
+10. Write a program to implement Bellman-Ford Algorithm
+11. Write a program to implements Ford-Fulkerson algorithm to compute maximum
+flow.
+12. Write a program to implement Stassen’s algorithm.
+13. Write a program to implement LUP-decomposition of a matrix.
+14. Write a program to implement Floyd-Warshall Algorithm.
+15. Write a program to implement Polynomial addition and multiplication.
+16. Write a program to implement Simplex algorithm.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25SD5EN01) ENGLISH FOR ACADEMIC AND RESEARCH WRITING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE PRE-REQUISITES: Undergraduate level English Proficiency
+COURSE OBJECTIVES:
+• To equip with an understanding of the mechanics and conventions of academic
+and research writing, including cohesion and coherence, to produce texts that
+demonstrate precision and clarity
+• To enable to present focused, logical arguments that support a thesis
+• To empower to find, analyze, evaluate, summarize, and synthesize appropriate
+source material for literature review
+• To enable to use appropriate language to analyze and interpret the data, and
+prepare an outline
+• To enable to become adept in the requirements and specifications of standard
+writing to produce academic and research papers
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply knowledge of academic language features and text structure, and
+ensure cohesion and coherence as connected to various text types
+CO-2: Demonstrate the use of writing process strategies through outlining, reviewing,
+composing, and revising
+CO-3: Evaluate sources and use summary, analysis, synthesis, and integration to
+construct a literature review on a topic chosen by the student
+CO-4: Prepare an outline for Research Articles and Thesis
+CO-5: Apply standard documentation style to produce academic and research
+papers that meet the demands of specific genres, purposes, and audiences
+UNIT-I:
+1. Features of Academic Writing: Word Order, Breaking up long Sentences,
+Structuring Paragraphs and sentences, Being concise and removing redundancy,
+Avoiding Ambiguity and Vagueness, Hedging
+2. Planning & Preparation of Research paper, Factors Influencing Effective Writing:
+Mechanics of Writing, Purpose of Writing, Understanding the Target Reader,
+Organization- Cohesion, and Coherence
+UNIT-II:
+1. Academic Writing Forms:
+a) Analyzing arguments; Building an argument
+b) Making a Counter Argument- Managing tone and tenor
+1. Types of Research: Primary and Secondary Research
+2. Review of Literature
+3. Research Design: Statement of the Problem, Writing A Title, Writing an Abstract,
+Keywords & Introduction, Writing Hypotheses, Developing Objectives, Research
+Tools, Writing Reports and Writing Proposal.
+UNIT-III:
+1. Criteria of Good Research- Avoiding Plagiarism
+2. Data Interpretation, Writing to the Point
+3. Preparing an outline for Research Articles & Research Reports
+UNIT-IV:
+1. Reference Skills:
+a) Paraphrasing (Change of parts of speech, word order, synonyms, using the passive
+form)
+b) Summarizing (Steps in summarizing)
+2. Inserting references
+UNIT-V:
+1. Assessment of Technical Reports
+2. Writing Research Article Reviews: Writing Article & Book Review
+TEXT BOOKS:
+1. A Course in Academic Writing, Gupta R., Orient BlackSwan, 2010
+2. Academic Writing: Exploring Processes and Strategies, Leki I., CUP, 1998
+3. Writing Up Research: Experimental Research Report Writing for Students of English,
+Weissberg R., & Buker S. Englewood Cliffs, Prentice Hall, 1990
+REFERENCES:
+1. English Academic Writing for Students and Researchers, Yakhontova T., 2003
+2. Inside Track: Successful Academic Writing Gillett, A., Hammond A., Martala M.
+Essex: Pearson Education 2009
+3. English for Academic Research: Writing Exercises, Wallwork, Springer, 2013
+4. The MLA Handbook for Writers of Research Papers, 7th Edition, Modern Language
+Association
+5. Academic Writing for Graduate Students: A Course for Non-Native Speakers of
+English, Swales J. M. & Feak C. B. AnnArbor: University of Michigan Press, 1994
+ONLINE RESOURCES:
+1. Using Sources Video Lecture
+2. https://www.coursera.org/lecture/advanced-writing/using-sources-video-lecture-
+i719P
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25MN6HS01) RESEARCH METHODOLOGY AND IPR
+TEACHINGSCHEME EVALUATION SCHEME
+L T/P C SE-I SE-II SEE TOTAL
+2 0 0 50 50 - 100
+COURSE OBJECTIVES:
+• To understand the research problem
+• To know the literature studies, plagiarism and ethics
+• To get the knowledge about technical writing
+• To analyze the nature of intellectual property rights and new developments
+• To know the patent rights
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand research problem formulation
+CO-2: Analyze research related information & Follow research ethics
+CO-3: Understand that today’s world is controlled by Computer, Information
+Technology, but tomorrow world will be ruled by ideas, concept, and creativity
+CO-4: Understanding that when IPR would take such important place in growth of
+individuals & nation, it is needless to emphasis the need of information about
+Intellectual Property Right to be promoted among students in general & engineering
+in particular
+CO-5: Understand that IPR protection provides an incentive to inventors for further
+research work and investment in R & D, which leads to creation of new and better
+products, and in turn brings about, economic growth and social benefits
+UNIT-I:
+Meaning of research problem, Sources of research problem, Criteria Characteristics
+of a good research problem, Errors in selecting a research problem, Scope and
+objectives of research problem.
+Approaches of investigation of solutions for research problem, data collection,
+analysis, interpretation, Necessary instrumentations
+UNIT-II:
+Effective literature studies approaches, analysis, Plagiarism, Research ethics
+UNIT-III:
+Effective technical writing, how to write report, Paper Developing a Research
+Proposal, Format of research proposal, a presentation and assessment by a review
+committee
+UNIT-IV:
+Nature of Intellectual Property: Patents, Designs, Trade and Copyright. Process of
+Patenting and Development: technological research, innovation, patenting,
+development. International Scenario: International cooperation on Intellectual
+Property. Procedure for grants of patents, Patenting under PCT.
+UNIT-V:
+Patent Rights: Scope of Patent Rights. Licensing and transfer of technology. Patent
+information and databases. Geographical Indications. New Developments in IPR:
+Administration of Patent System.
+New developments in IPR; IPR of Biological Systems, Computer Software etc.
+Traditional knowledge Case Studies, IPR and IITs
+TEXT BOOKS:
+1. Research Methodology: An Introduction for Science & Engineering Students, Stuart
+Melville and Wayne Goddard
+2. Research Methodology: An Introduction, Wayne Goddard and Stuart Melville
+3. Research Methodology: A Step-by-Step Guide for Beginners, Ranjit Kumar, 2nd
+Edition
+REFERENCES:
+1. Resisting Intellectual Property, Halbert, Taylor & Francis, 2007
+2. Industrial Design, Mayall, McGraw-Hill, 1992
+3. Product Design, Niebel, McGraw-Hill, 1974
+4. Intellectual Property in New Technological Age, Robert P. Merges, Peter S. Menell,
+Mark A. Lemley, 2016
+5. Intellectual Property Rights Under WTO, T. Ramappa, S. Chand, 2008

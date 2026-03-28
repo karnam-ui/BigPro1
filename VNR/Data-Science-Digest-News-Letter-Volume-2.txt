@@ -1,0 +1,766 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/cseDS-CYS/Data-Science-Digest-News-Letter-Volume-2.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for B.Tech. CE,EEE,ME,ECE,CSE,EIE,IT,AME, M.Tech. STRE, PE, AMS, SWE Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF (2023) Rank band:101-150 in Engineering Category
+College with Potential for Excellence by UGC,JNTUH-Recognized Research Centres:CE,EEE,ME,ECE,CSE Vignana
+Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+DATA SCIENCE DIGEST
+November 2023 - December 2024 Newsletter
+“ DIFFERENTIATED BY INPUTS - INTREGRATED BY OUTPUTS “
+WEBSITE LINK :
+DDAATTAA SSCCIIEENNCCEE DDOOMMAAIINN
+VVoolluummee 22
+IIssssuuee 11
+CONTENTS
+CONTENTS
+MESSAGE
+INTRODUCTION 1-5
+6
+FROM HOD
+7-10
+FACULTY
+SPOTLIGHT
+STUDENT
+11-20
+SPOTLIGHT
+CLUBS
+21-35
+EVENTS &
+ARTICLES
+INTERNSHIPS &
+PLACEMENTS 36-38
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for B.Tech. CE,EEE,ME,ECE,CSE,EIE,IT,AME, M.Tech. STRE, PE, AMS, SWE Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF (2023) Rank band:101-150 in Engineering Category
+College with Potential for Excellence by UGC,JNTUH-Recognized Research Centres:CE,EEE,ME,ECE,CSE Vignana Jyothi
+Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+NNEEWWSSLLEETTTTEERR
+FROM THE DOMAIN OF DATA SCIENCE
+Issue 2
+Welcome to
+the Domain of
+CSE-DS.
+We are thrilled to introduce you to the 2nd edition
+of the Data Science domain’s Newsletter. As we
+This domain is established in 2020
+embark on this exciting journey, our aim is to
+under the department of CSE - DS
+provide a platform that not only informs but also
+and CyS managing a B.Tech.
+inspires, connects, and celebrates the world of
+program with the intake of 100+ data science here at VNRVJIET.
+and 100+ respectively . This In today's rapidly evolving world, data is the new
+department is dedicated to explore currency, and the ability to extract insights from it
+the fascinating fields of Data is paramount. The Data Science Domain stands at
+Science, equipping the students the forefront.
+with the knowledge and skills to
+excel in this rapidly evolving Our department is a dynamic hub where curiosity
+domain. indeed meets computation, statistics fuse with
+storytelling, and technology converges with real-
+world impact. In these pages, you'll find a wealth of
+information, from faculty spotlights and student
+achievements .
+Stay curious,
+But this newsletter is not just about us; it's about
+stay you, our vibrant community. We encourage you to
+actively participate, contribute your insights, share
+data-driven!
+your experiences, and also collaborate .
+Dr. T.SUNIL KUMAR
+HEAD OF DEPARTMENT,
+Dept. of CSE - (CyS, DS) and AI&DS
+Dr. N. SUNANDA
+EDITORIAL MEMBER,
+Dept. of CSE - (CyS, DS) and
+AI&DS
+Mr. P. VEERANJANEYULU
+EDITORIAL MEMBER,
+Dept. of CSE - (CyS, DS) and
+AI&DS
+EDITORS
+CHIEF
+EDITORial
+KEERTHI KOLLA
+21071A67A1
+SENIOR EDITORialS
+K. HITESH VARMA M. GANESH BHANU SATISH
+22071A6785 22071A6798 22071A6749
+junior EDITORialS
+R. SHAKRUTHI C. SHIVANI M. PRANAVI T. PRANAV BABU
+23071A6755 23071A6712 23071A6739 23071A67K1
+VISION
+To produce engineers with in-depth technical
+knowledge and ethical values.
+To incorporate ingeniousness and self- driven
+capabilities to the students in the fields of
+mezzanine technologies.
+To nurture the ecosystem of Innovation, Research
+and Development through an integrated teaching-
+learning environment for faculty and students.
+MISSION
+Offers diverse curriculum in line with industry,
+professional and research bodies.
+Provide project-based learning environment for
+developing diverse practical capabilities.
+Offer advanced trainings to enable process skills
+and competencies.
+About the
+Department
+Our Department is established in 2020 with the DS and
+CyS B.Tech. program with the intake of 60 and 60
+respectively and in the year 2021 started with the AI & DS
+B.Tech. program with an intake of 60 and Data Science
+Intake increased to 120. This Department is dedicated to
+explore the fascinating fields of Data Science, AI, and
+Cyber Security issues equipping the students with the
+knowledge and skills to excel in these rapidly evolving
+domains. Now currently accommodating 180 seats in
+Data Science.
+The Department is involved in pioneering research and
+supports research activities both for teachers and
+students. We promote a culture of innovation,
+encouraging students and faculty members to explore
+new ideas, conduct research projects, and publish their
+findings in reputed journals and conferences and explore
+themselves in cutting-edge technologies like Image
+Processing, Augmented Reality, Data Analytics, Cyber
+Forensic, Malware analysis etc. All the activities are
+conducted in association with different clubs like
+VJ DATA QUESTERS, VJ GARUDA VIGILENCE, VJ ARC
+clubs.
+MESSAGE FROM
+HEAD OF DEPARTMENT
+It is an exciting time for our Department as we
+witness tremendous growth in Data Science, Cyber security &
+AI-DS. Our students have excelled in various competitions, and
+our partnerships with industry leaders have paved the way for
+innovative projects and research.
+We are committed to providing a cutting-edge curriculum,
+preparing our students to thrive in these dynamic fields. I thank
+our dedicated faculty and congratulate our students on their
+achievements , Let's continue striving
+for excellence.
+“Be good! Do Good!! Be Unite..!”
+Dr. T. Sunil Kumar
+HEAD OF THE DEPARTMENT
+FACULTY SPOTLIGHT
+The Faculty Spotlight provides a vital opportunity to
+recognize the exceptional contributions of our educators.
+By showcasing their professional journeys, we highlight
+their dedication to excellence and passion for knowledge.
+This celebration honors their commitment and underscores
+the significant impact they have on our academic
+community, fostering a culture of appreciation and
+inspiring future generations of learners.
+ACHIEVEMENTS
+FACULTY
+01
+Dr.M.Raja Sekar , Dr.T.Sunil Kumar & Dr.P.Subhash has being selected
+as a Research supervisor under JNTUH.
+02
+Dr.T. Sunil Kumar, Dr. P. Subhash and Dr. N . Sunanda are
+recognised as research supervisors under Vishveshwarayya
+Technological University, Bangalore.
+Dr.N.Sunanda and Mrs.Rasmita Kumari Mohanty has 03
+received Research Incentives for their research work
+in the department.
+Dr. Talluri Sunil Kumar, Professor & Mr. Manmathnath 04
+Das Published Text books on "Artificial intelligence in
+the Age of Big Data “ by Leilani Katie publications and
+Press, Hyderabad.
+Dr. T. Sunil Kumar and Dr. Y. Sucharitha has organised 05
+one week Professional Development Program on “ Data
+Visualization” from 29th Jan 2024 to 3rd February 2024
+06
+Mr. A. Pramod Kumar and team has organised one week Professional
+Development Program on “ Data Science Mastery” from 5th February
+2024 to 10th February 2024.
+YTLUCAF
+STNEMEVEIHCA
+07
+Dr. T. Sunil Kumar and Dr. Sagar Yeruva published a Textbook on “Machine
+Learning Mastery” by “SK group of research Mastery”.
+Dr. T. Sunil Kumar published a book on “ Advanced Data Science techniques
+with python” published by “ SK Research group of companies”
+08 Mrs. G. Ashalatha has published aText book on “ Deep learning
+for Computer Vision” published by “ Leilani Katie publications
+and Press”.Mrs. E. Lalitha has published a text book on “Machine
+Learning in IoT” by “Leilani Katie publications and Press”.
+09
+Dr.T.Sunil Kumar, Dr.Y.Bhanu Sree, Dr.N.sunanda, Dr.G.Spoorthy and
+Mr.Manmath Nath Das has successfully completed Short term Course
+on "Data Analysis in Criminal Justice" Held During 3rd Spetember
+2024 to 10th November 2024 Organized by Center for Criminal Justice
+Research IIT Kanpur.
+10 The Department of CSE-(CyS,DS) and AI&DS in
+collaboration with Humanities and Science organised an
+International Conference on “ Applied Mathematics and
+Advanced Data Analyutics for Industry 5.0 (ICAMADA-24)”
+11 Under the guidance of Dr. T. Sunil Kumar, HOD and professor of the
+Dept. of CSE--(CyS,DS) & AI-DS conducted an outreach activity at Peda
+Chimtakunta, supporting education and welfare. This initiative
+showcased the faculty’s dedication to social impact.
+12
+Dr. P. Subhash and Mrs. D. Sreevidya has Written NPTEL Certification
+Exam and scored top 2% , in the field of Cyber security.
+OOUUTT--RREEAACCHH PPRROOGGRRAAMMMMEE
+The Department of Computer Science and
+Engineering (Data Science, Cybersecurity) &
+AI-Data Science, through VJ Data Questers,
+organized an outreach program at Peda
+Chimtakuru and Narsapur Old Age Home,
+focused on supporting education, health,
+and well-being. We distributed educational
+books, hygiene kits, and essential
+groceries, aiming to meet the needs of both
+children and the elderly.
+Along with these contributions, we engaged
+the children in interactive learning sessions
+and brought joy to the elderly with activities
+that encouraged connection and storytelling.
+This initiative reflected our commitment to
+social responsibility, fostering a sense of
+community, spreading knowledge, and
+bringing happiness to those who need it
+most.
+STUDENT SPOTLIGHT
+In the world of education, the student is the radiant star in the spotlight.
+Each student represents a unique blend of potential, curiosity, and
+ambition, and their journey through the educational system is a
+dynamic and transformative one. The spotlight on a student is not just
+about academic achievements but also about their personal growth,
+resilience, and creativity. It is a stage where they showcase their talents,
+ideas, and dreams. Students absorb knowledge, challenge conventions,
+and aspire to make a difference in the world. The spotlight on a student
+is a reminder of the endless possibilities that await them, encouraging
+them to shine brightly and contribute meaningfully to society.
+STUDENT ACTIVITIES
+DRAWINGS
+Pranav Babu
+Mudu Ganesh
+23071A67K1 22071A6798
+2ND YEAR ds-c 3rd YEAR ds-b
+Bhanu Satish Tejaswi
+22071A6749 22071A6759
+3rd Year DS-A 3nd year ds-A
+Shakruthi
+23071A6755
+2ND YEAR DS-A
+DHANASREE Bindu Sree
+22071A6770
+23071A6752
+3rd year DS-B
+2nd year ds-a
+Shivani
+23071A6712
+2nd year ds-a
+L.B.SUHASH REDDY
+23075A6705
+3RD year ds-a
+STUDENT ACHIEVEMENTS
+A. Tanvish, bearing the roll number
+23071A6202 from CSE - Cyber Security
+has been awarded for getting the -
+position in Basket ball tournament.
+B. Satwika and K. Charana from DS-
+B have been selected as interns for
+Amazon as Software Developers,
+with a monthly package of ₹40,000.
+Congratulations to both on this
+achievement!
+The title of Most Influential Toastmaster of
+the VNRVJIET Toastmasters Club has been
+awarded to a 3rd-year student from DS-A.
+Congratulations on this recognition!
+A 2nd-year student from AI & DS has been
+selected for the Google Summer of Code
+(GSoC) 2024 program. Congratulations
+on this remarkable achievement!
+Yathin Kumar and Akash Vardhan secured
+2nd place in the VNR-VJIET Convergence
+Hackathon. Congratulations to both on
+their success!
+Congratulations to the NPTEL toppers
+from the Department of CSE, including
+students from Cyber Security (CyS), Data
+Science (DS), and AI & DS. Your hard
+work and dedication have truly paid off!
+Ranvitha (22071A6741), Sanjana
+(22071A6760), and Srilatha
+(22071A6709), 2nd-year students from
+DS-A, have secured internships at
+Amazon with a stipend of ₹35,000 for
+two months, from May 6, 2024, to June
+28, 2024. Congratulations to them on
+this fantastic opportunity!
+We are happy to share that two of our students,
+Parshi Praneesh (2nd Year, Data Science) and
+Rudrabatla Vashishta (2nd Year, AI & DS), won
+at the Code For Good Hackathon conducted by
+JPMorgan Chase & Co. as part of the 2024
+Software Engineer Program.
+Our Data Science Department
+students contributed a total of
+450 kgs of rice for Wayanard
+fund relief.
+Sports ACHIEVEMENTS
+Congratulations to VNR Throw ball
+team on securing 3rd place in the
+National throw ball championship.
+Congratulations to Anshuk Akuri, a
+third-year student in the AIDS
+branch, for achieving the runner-up
+(2nd) position while representing VNR
+VJIET in the chess competition
+organized by VJIM!
+Congratulations to Tanvish from
+the 1st year Cyber Security program
+for winning the basketball
+competition at CVR College of
+Engineering!
+Congratulations to the first-year
+Sports Stars from the Departments of
+CSE (Cybersecurity and Data Science)
+and AI & Data Science!
+Congratulations to P. Chaitanya
+from the 3rd year Data Science-B
+for being part of the winning team
+in the cricket tournament at CVR
+College!
+Congratulations to the team for
+winning 1st place in the GRIET
+Women’s Basketball Tournament!
+Congratulations to G. Anirudh
+from the 1st year Data Science-B
+for winning first place in the
+football match at the VNR VJIET
+Sports Fest!
+It’s not the will to win that
+matters—everyone has that. It’s
+the will to prepare to win that
+matters.
+Paul “Bear” Bryant
+21
+CLUB
+VJ DATA QUESTERS
+VJ Data Questers, the official club of the domain Data Science at
+VNR VJIET. Our mission is to foster a community of data
+enthusiasts and empower them with the knowledge and skills
+needed to navigate the dynamic landscape of data science.
+WHO ARE WE ?
+We are a vibrant group of students, professors, and data
+aficionados who share a common passion for data. Our club
+serves as a hub for all things data-related, where members can
+engage in meaningful discussions, participate in hands-on
+projects, and explore the limitless possibilities of data science.
+WHAT WE DO?
+Educational Workshops, Hackathons and Competitions, Guest
+Lectures, Data-driven Projects and Community Building.
+“ DIFFERENTIATED BY INPUTS-INTREGRATED
+BY OUTPUTS “
+For further details
+Contact : +91 8498089180
+Mail us : vjdataquesters@gmail.com
+22
+Follow us : @vjdataquesters.club
+LOGO DESIGNING
+COMPETITION
+Logo designing competition held from
+14th to 18th November 2022. An event
+of designing logos related to data
+science.
+HIT -THE FIRST CHASE
+On February 11, 2024 the event HIT-The Second Chase
+was conducted, which aims to enhance problem-
+solving, critical thinking, and technical knowledge
+through puzzles, aptitude tests, and technical
+questions.
+23
+GUEST LECTURE BY DATA
+ENGINEER
+A guest lecture by Samardh Moka who is a
+data engineer and an alumni of VNRVJIET
+working in ANZ BANKS,AUSTRALIA as a data
+engineer who shared experience and
+knowledge about data science on 8th Feb
+2023.
+GUEST LECTURE ON DATA
+SCIENCE JOURNEY
+This guest lecture on data science provided
+attendees with new insights into the field and
+its applications. This can help them deepen
+their understanding of data science and gain a
+better appreciation of its importance.
+BLOG-A-THON
+It attracted a significant number of participants,
+showcasing the enthusiasm for technical writing
+among the audience. Participants explored
+various technical subjects and presented them in
+unique and creative ways, enriching the overall
+knowledge base.
+24
+DATA VISUALIZATION
+USING TABLEAU
+One day hands on workshop was conducted on the
+topic "Data Visualization using TABLEAU" by Mr.
+Gullapalli Sathar on 21st March 2024. During the
+program, second-year students learned the
+fundamental Tableau skills needed to create
+powerful dashboards and data visualizations.
+PROFOLIO
+The goal is to promote creativity and innovation
+within the field of web design by recognizing
+and rewarding outstanding portfolio websites
+that showcase exceptional talent and skill. By
+fostering a collaborative and supportive
+community among designers, we aim to
+encourage
+SIH 2024
+The initiative seeks to promote creativity
+and innovation in the field of web design
+by recognizing and rewarding outstanding
+portfolio websites that demonstrate
+exceptional skill and originality. By
+fostering a collaborative and supportive
+community among designers,
+25
+DYNAMICS OF ALGO:
+ABDUL BARI
+A guest lecture by Mr.Abdul Bari on the topic
+“Dynamics of Algorithms” was given on 11th
+September 2024, which is conducted exclusively
+for 3rd year students
+GET SET PY
+It is a Python Bootcamp with hands on workshop
+for 2nd Year Students! The main motto of this
+event is to give students a Idea on Python basics
+with Practical projects done
+26
+TT VV
+єє ¢¢ннηη ιιѕѕттαα
+2k24
+Techno Vista is a premier collaborative event organized by the Data
+Science and Cyber Security Clubs, offering a diverse range of activities
+including a coding contest, cyber hunt, red teaming exercise, case
+study competition, hackathon, project expo, tech elocution, and guest
+lectures. This event aims to foster innovation, enhance technical skills,
+and provide networking opportunities for students, professionals, and
+tech enthusiasts.
+Participants had engaged in competitive and educational activities,
+showcase their projects, and gain insights from industry experts,
+making Techno Vista a unique platform for learning, growth, and
+collaboration in the fields of data science and cybersecurity.
+Which was Conducted on 10th, 11th, 12th of June 2024 at VNRVJIET
+Events Conducted
+Flashmob
+We are thrilled to announce that
+Technovista at VNRVJIET was a resounding
+Guest Lecture
+success! The event featured an
+exhilarating flash mob that energized the
+"VJDataQuesters at VNRVJIET proudly crowd and set a vibrant tone for the day.
+presents a guest lecture on Data Insights,
+With inspiring workshops, insightful talks,
+offering a deep dive into the latest trends
+and enthusiastic participation from
+and tools in data analytics. This session
+students and guests alike, we celebrated
+will equip students with the knowledge
+the spirit of innovation and technology.
+and skills needed to navigate the evolving
+world of data, unlocking new
+opportunities for innovation and growth." 27
+TECH ELOCUTION
+24HR HACKATHON
+It is a unique opportunity for
+individuals passionate about
+"Get ready to push the limits of
+creativity and innovation in our 24-hour technology to demonstrate their
+hackathon! It's a non-stop challenge ability to articulate and present
+where teams will collaborate, code, and technical information effectively
+compete to build groundbreaking in a creative way of their choice.
+solutions in just one day. Whether
+Participants will have the chance
+you're a seasoned developer or a first-
+to deliver speeches on a variety of
+time hacker, this is your chance to test
+tech-related topics, ranging from
+your skills, learn new things, and make
+artificial intelligence and machine
+lasting connections.
+learning to data science and cyber
+security.
+DQ CODE FEST PATENT
+SUMMIT
+The event consists of two rounds, with each
+Calling all innovators, creators, and tech
+team allowed a maximum of two members.
+enthusiasts! Are you ready to showcase
+Round 1, the coding prelims, will take place
+your groundbreaking projects on the
+online on May 30th, 2024, while Round 2 is latest tech trends like Data Science,
+scheduled for June 6th, 2024, as an offline Cyber Security, Machine Learning, and
+contest held at the college. Round 1 will be more whether it's software or
+conducted on the HackerRank platform, hardware.
+requiring teams to have a HackerRank
+account. CASE STUDY
+AND
+PROJECT EXPO DATA VISUALIZATION
+If this is what you want to do then say no
+From the mesmerising world of Artificial
+more and join our amazing event filled
+Intelligence and Machine Learning to crucial
+with exploration and research. Study
+fields like Healthcare Analytics and
+what's going on and infer what's needed,
+Cybersecurity, our event brings you the
+Visualise your inferences in the most
+pinnacle of technology and creativity.
+pleasing manner that can be understood
+Explore a diverse array of projects from all
+by anyone.
+engineering domains,
+28
+ARTICLES
+Article on Data Product:
+Every business interaction generates data, but raw data alone is often scattered and difficult to utilize. A
+data product is a tool that processes and organizes this data to deliver meaningful insights. These
+products help businesses track trends, predict outcomes, and automate decisions, ultimately saving time
+and driving growth. From recommendation engines to predictive analytics, data products come in
+various forms, each designed to solve specific problems. Companies like Netflix, Google, and Spotify
+have successfully leveraged data products to enhance user experiences and decision-making. As AI and
+machine learning evolve, data products are becoming more intelligent and personalized. This article
+explores the definition, types, components, and future of data products in the digital era.
+Data products are built on robust data pipelines, ensuring that information flows seamlessly from
+collection to analysis. They rely on scalable infrastructure, integrating diverse data sources for real-
+time insights. Effective data products prioritize usability, making complex data accessible through
+intuitive dashboards and APIs. As businesses become more data-driven, the role of data products in
+shaping strategies and innovation continues to grow.
+29
+Article on Data Science Tools:
+Dr. T Sunil Kumar
+Professor & HoD, CSE- (CyS, DS) and AI &DS
+1. Apache Spark
+Apache Spark is an open-source data processing and analytics engine that can handle large amounts of data upward of
+several petabytes, according to proponents. Spark's ability to rapidly process data has fuelled significant growth in the
+use of the platform since it was created in 2009, making the Spark project one of the largest open source communities
+among big data technologies.
+2. Julia
+Julia is an open source programming language used for numerical computing as well as machine learning and other
+kinds of data science applications. In a 2012 blog post announcing Julia, its four creators said they set out to design
+one language that addressed all their needs. A big goal was to avoid having to write programs in one language and
+convert them to another for execution.
+3. Jupyter Notebook/Jupyter Lab
+An open source web application, Jupyter Notebook enables interactive collaboration among data scientists, data
+engineers, mathematicians, researchers and other users. It's a computational notebook tool that can be used to create,
+edit and share code as well as explanatory text, images and other information. For example, Jupyter users can add
+software code, computations, comments, data visualizations and rich media representations of computation results to a
+single document, known as a notebook, which can then be shared with and revised by colleagues.
+4. Keras
+Keras is a programming interface that enables data scientists to access and use machine learning platforms more
+easily. It's an open source deep learning API and framework written in Python that runs on top of TensorFlow,
+PyTorch and JAX. Keras initially supported multiple back ends but was tied exclusively to TensorFlow starting with
+its 2.4.0 release in 2020. However, multiplatform support was restored in Keras 3.0, a full rewrite released in late
+2023.
+5. Matlab
+Developed and sold by software vendor MathWorks since 1984, Matlab is a high-level programming language and
+analytics environment for numerical computing, mathematical modeling and data visualization. It's primarily used by
+conventional engineers and scientists to analyze data; design algorithms; and develop embedded systems for wireless
+communications, industrial control, signal processing and other applications. This is often in concert with a
+companion Simulink tool that offers model-based design and simulation capabilities.
+6. Matplotlib
+Matplotlib is an open source Python plotting library that's used to read, import and visualize data in analytics
+applications. Data scientists and other users can create static, animated and interactive data visualizations with
+Matplotlib, using it in Python scripts, the Python and IPython shells, Jupyter Notebook, JupyterLab, web
+application servers, and various GUI toolkits.
+30
+7. NumPy
+Short for Numerical Python, NumPy is an open source Python library that's used widely in scientific
+computing, engineering, and data science and machine learning applications. The library consists of
+multidimensional array objects and routines for processing those arrays to enable various mathematical and
+logic functions. It also supports linear algebra, random number generation and other operations.
+8. Pandas
+Another popular open source Python library, pandas typically is used for data analysis and manipulation.
+Built on top of NumPy, it features two primary data structures: the Series one-dimensional array and the
+DataFrame, a two-dimensional structure for data manipulation with integrated indexing. Both can accept
+data from NumPy ndarrays and other inputs. A DataFrame can also incorporate multiple Series objects.
+9. PyTorch
+An open source framework used to build and train deep learning models based on neural networks, PyTorch
+is touted by its proponents for supporting fast and flexible experimentation as well as a seamless transition
+to production deployment. The Python library was designed to be easier to use than Torch, a precursor
+machine learning framework that's based on the Lua programming language. PyTorch also provides more
+flexibility and speed than Torch, according to its creators.
+10. Scikit-learn
+Scikit-learn is an open source machine learning library for Python that's built on the SciPy and NumPy
+scientific computing libraries as well as Matplotlib for plotting data. It supports both supervised and
+unsupervised machine learning and includes numerous algorithms and models, called estimators in scikit-
+learn parlance. Additionally, it provides functionality for model fitting, selection and evaluation and for
+data preprocessing and transformation.
+11. SciPy
+SciPy is another open source Python library that supports scientific computing uses. Short for Scientific
+Python, it features a set of mathematical algorithms and high-level commands and classes for data
+manipulation and visualization. It includes more than a dozen subpackages that contain algorithms and
+utilities for functions such as data optimization, integration and interpolation as well as algebraic
+equations, differential equations, image processing and statistics.
+12. TensorFlow
+TensorFlow is an open source machine learning platform developed by Google that's particularly popular for
+implementing deep learning neural networks. The platform takes inputs in the form of tensors that are akin
+to NumPy multidimensional arrays and then uses a graph structure to flow the data through a list of
+computational operations specified by developers. It also offers an eager execution programming
+environment that runs operations individually without graphs, which provides more flexibility for research
+and debugging machine learning models.
+31
+Article on Google’s Gemini for Data Science:
+Google Gemini, powered by the PaLM 2 model, has enhanced reasoning, coding, and multilingual
+capabilities, making it a powerful AI tool. Unlike ChatGPT, Gemini requires carefully structured
+prompts for optimal results. This article explores how to utilize Gemini to develop an end-to-end Fake
+News Detection project. From project planning to model deployment, we demonstrate step-by-step
+implementation using Gemini-generated prompts and code. We also compare Gemini’s effectiveness in
+data preprocessing, exploratory analysis, feature engineering, and model selection. Furthermore, we fine-
+tune the model with hyperparameter optimization and deploy it as a Streamlit web app. By the end, you'll
+have a clear roadmap for leveraging Gemini in data science workflows.
+We evaluate Gemini’s ability to generate synthetic training data and enhance model robustness.
+Additionally, we assess its strengths and limitations in handling complex linguistic patterns within fake
+news detection. The project includes real-world dataset selection, emphasizing Gemini’s role in
+automating tedious data preprocessing tasks. We also integrate explainability techniques to interpret
+model predictions, ensuring transparency and trust. Finally, we discuss best practices for optimizing
+Gemini-powered workflows in AI-driven applications.
+32
+Article on Ensemble Models for Data Science:
+Introduction to Ensemble Models :
+Ensemble models are advanced machine learning techniques that integrate multiple base models to
+enhance predictive accuracy and robustness. By leveraging the strengths of different algorithms,
+ensemble learning mitigates bias, reduces variance, and minimizes the risk of overfitting. This
+approach leads to more reliable and generalizable predictions.
+Types of Ensemble Learning :
+Bagging (Bootstrap Aggregating): This method trains multiple models on different subsets of
+data sampled with replacement. The final output is obtained by averaging (for regression) or
+majority voting (for classification), improving model stability and accuracy. A prominent
+example is Random Forest.
+Boosting: Boosting techniques, such as AdaBoost and Gradient Boosting, train models
+sequentially, assigning higher weights to misclassified instances. Each successive model corrects
+errors from the previous one, leading to improved performance.
+Stacking: In this approach, predictions from multiple base models are combined and passed to a
+meta-model, which learns how to optimally aggregate their outputs for superior predictions.
+Cascading: A sequential pipeline where the output of one model is refined and used as input for
+the next. This is particularly useful in applications like object detection, where initial models
+eliminate irrelevant data before specialized models conduct fine-grained classification.
+Key Advantages of Ensemble Models
+✔
+Higher Accuracy: Reduces errors by aggregating multiple models.
+✔
+Reduced Overfitting: Balances bias and variance to improve model generalization.
+✔
+Enhanced Generalization: Performs effectively on unseen data.
+✔
+Optimized Computational Efficiency: Cascading models prioritize relevant predictions,
+reducing unnecessary computation.
+Applications of Ensemble Learning :
+Ensemble methods are widely utilized across various domains, including:
+Fraud Detection – Enhancing the identification of fraudulent transactions.
+Recommendation Systems – Improving personalization in e-commerce and streaming platforms.
+Medical Diagnostics – Increasing the reliability of disease prediction models.
+Financial Forecasting – Refining stock market and risk assessment models.
+Computer Vision – Strengthening image classification, object detection, and facial recognition.
+33
+PLACEMENTS
+The campus placement process for data science students typically involves a series of rigorous
+assessments, including technical interviews, coding challenges. Companies look for candidates who can
+not only crunch numbers but also communicate their findings effectively to drive business decisions.
+Witnessing students secure placements is truly a heartwarming and exhilarating experience. It is a
+testament to their hard work, dedication, and the transformative power of education And 17 students of
+our domain’s first batch ( 2021-2025) have already secured their placements.
+34
+NPTEL From
+HIGHEST
+DATA SCIENCE PERFORMERS IN
+THEIR RESPECTIVE
+COURSES
+STUDENTS FROM THE CSE-DS PROGRAM HAVE CONSISTENTLY EXCELLED IN
+DIVERSE DOMAINS, ACHIEVING TOP PERCENTAGES THROUGH INNOVATIVE
+PROJECTS AND RESEARCH. IN DATA SCIENCE, THEY DEVELOPED PREDICTIVE
+MODELS WITH HIGH ACCURACY USING ADVANCED ML ALGORITHMS.
+THEY IMPLEMENTED SECURE FRAMEWORKS TO MITIGATE POTENTIAL THREATS. THEIR SUCCESS STEMS FROM
+HANDS-ON LEARNING, TEAMWORK, AND APPLYING THEORETICAL KNOWLEDGE TO REAL-WORLD CHALLENGES.
+THE FOLLWING ARE THE STUDENTS IN TOP PERFORMERS IN THE RESPECTIVE DOMAINS:
+Name of the course Student Name
+Adepu Yashaswini
+Data Analytics with Python Gudikandula Avinash
+Naraparaju Tejaswini
+Adepu Yashaswini
+Battula Sri Harsitha
+Bhanu Prasad Bellam
+Cloud Computing Chidara Sai Pranay
+Gudikandula Avinash
+Kolisetty Kamal Kumar
+Vedasri Gunti
+Data Science for Engineers Kothapally Shiva Kumar
+Python for Data Science Laxmipathi Balaji Mittapalli
+Design and Analysis of
+Goppu Narayana Nishanth
+Algorithms
+Problem Solving Through C Thati Haripriya
+35
+INTERNSHIPS
+We are delighted to share the remarkable achievements of our talented students at VNR
+Vignana Jyothi Institute of Engineering and Technology specially the ones belonging to our
+Department as they embark on their journey towards a bright future through our upcoming
+campus placements. Our institution has always prioritized academic excellence, skill
+development, and holistic education, and the results are evident in the tremendous
+opportunities our students are about to achieve. 46% of the Data Science students from
+the 2021-2025 batch at VNRVJIET secured internships.
+Students of Data science domain belonging to CSE-(CyS,DS) and AI&DS Department have
+successfully secured internships at prestigious tech companies and hubs such as JPMC, Oracle,
+NSL hub, JNTUH hub,bilvantis and Star Sports.
+These internships provide students with invaluable
+industry exposure and hands-on experience with
+cutting-edge technologies.
+DATA SCIENCE
+students have a
+track record of securing internships that reflect
+their dedication, academic excellence, and ambition.
+These experiences not only prepare them for
+successful careers but also contribute to the
+college's reputation for producing well-rounded and
+accomplished graduates.
+36
+SUGGESTIONS &
+FEEDBACK
+newsletteratdatascience@gmail.com
+DROP YOUR
+SUGGESTIONS/FEEDBACK
+Scan the QR
+Send your suggestions &
+Feedback through the
+form
+We invite you to stay connected with us
+through our upcoming editions, events,
+and club initiatives. Your feedback is
+invaluable, and we look forward to
+hearing your thoughts and suggestions.
+We also encourage you to send articles
+or blogs written by you to the above
+mentioned email.
+We extend our heartfelt gratitude for choosing to
+embark on a journey of knowledge with Data Science
+Digest. This newsletter is a work of passion and
+dedication, made possible by the collaborative efforts
+of our editorial team. We strive to bring you thought-
+provoking content that not only informs but also
+sparks new ideas and perspectives.
+Professional Student Chapters
+Follow us on
+@vnrvjiet.hyd @vnrvjiethyd @VNR VJIET @VNRVJIET

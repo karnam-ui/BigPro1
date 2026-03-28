@@ -1,0 +1,1034 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/A19/EIE2.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY HYDERABAD
+B.TECH. II YEAR
+(ELECTRONICS AND INSTRUMENTATION ENGINEERING)
+III SEMESTER A19
+Contact
+Course Code Title of the Course L T P/D Hours/ Credits
+Week
+A19BS1MT08 Complex Analysis and Special Functions 3 0 0 3 3
+A19PC1EI01 Electronics Circuits – I 3 1 0 4 4
+A19PC1EI02 Sensors and Signal Conditioning 3 0 0 3 3
+A19PC1EI03 Electronic Measurements 3 0 0 3 3
+A19PC1EC04 Signals and Systems 3 0 0 3 3
+A19PC2EI01 Electronics Circuits – I Laboratory 0 0 3 3 1.5
+A19PC2EI02 Sensors and Measurements Laboratory 0 0 3 3 1.5
+A19PC2EC02 Basic Simulation Laboratory 0 0 2 2 1
+Total 15 1 8 24 20
+A19MN6HS03 Gender Sensitization 0 0 2 2 0
+IV SEMESTER A19
+Contact
+Course Code Title of the Course L T P/D Hours/ Credits
+Week
+A19HS1MG02 Engineering Economics and Accountancy 3 0 0 3 3
+A19PC1EI04 Electronic Circuits – II 3 1 0 4 4
+A19PC1EI05 Linear IC Applications 3 0 0 3 3
+A19PC1EE05 Control Systems 3 0 0 3 3
+A19PC1EC03 Digital System Design 3 0 0 3 3
+A19PC2EI03 Electronics Circuits – II Laboratory 0 0 3 3 1.5
+A19PC2EI04 IC Application Laboratory 0 0 3 3 1.5
+A19PC2IT02 Python Programming Laboratory 0 0 2 2 1
+Total 15 1 8 24 20
+L – Lecture T – Tutorial P – Practical D – Drawing
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. III Semester L T/P/D C
+3 0 3
+(A19BS1MT08) COMPLEX ANALYSIS AND SPECIAL FUNCTIONS
+(Common to ECE & EIE)
+COURRSE PRE-REQUISITES: Integral and Differential Calculus
+COURSE OBJECTIVES:
+• To learn analytic function and their properties
+• To learn concept of complex integration
+• To learn classifications of Singular points and residues
+• To learn the notion of Conformal mapping
+• To learn the ways of finding the solutions of Bessel and Legendre equations
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply Cauchy-Riemann equations to study analyticity of functions
+CO-2: Evaluate contour integrals using Cauchy's integral theorems
+CO-3: Evaluate contour integrals using residue theorem
+CO-4: Analyze the image of the given curve under the given transformation
+CO-5: Solve ordinary differential equations using the notion of Bessel’s equations
+UNIT – I:
+Functions of Complex Variables: Functions of a complex variable, Continuity,
+Differentiability, Analyticity, Singular point, Cauchy-Riemann equations in Cartesian
+and polar coordinates, Harmonic and conjugate harmonic functions, Milne –
+Thompson method. Analyticity of Exponential, trigonometric, hyperbolic functions and
+their properties.
+UNIT – II:
+Integration of Complex Function, Power Series: Line integral, evaluation along a path
+and by indefinite integration. Cauchy’s integral theorem, Cauchy’s integral formula.
+Expansion of Taylor’s series and Laurent series (without proofs).
+UNIT – III:
+Residues and Real Integrals: Classifications of singular points: Isolated singular point,
+removable, pole of order m, essential singularity. Residues – Evaluation of residue by
+formulae, Residue theorem, Evaluation of real integrals (applications).
+UNIT – IV:
+Conformal Mapping: Definition of Conformal mapping, transformation of e z , log(z),
+z2 , Sin z, cos z, z + a/z. Basic transformations-Translation, rotation, inversion. Bilinear
+transformation - fixed point, cross ratio, properties, invariance of circles, determination
+of bilinear transformation mapping three given points to three assigned points.
+UNIT – V:
+Special Functions - Bessel Function: Bessel functions, Recurrence relations, properties.
+Generating function and Orthogonal properties.
+UNIT – VI:
+Special Functions - Legendre Function: Legendre polynomials, Properties, Rodrigue’s
+formula, Recurrence relations Generating function, and Orthogonal properties.
+TEXT BOOKS:
+1. Higher Engineering Mathematics, B. S. Grewal, 36th Edition, Khanna Publishers, 2010
+2. Higher Engineering Mathematics, B. V. Ramana, 11th Reprint, Tata McGraw Hil,
+New Delhi, 2010
+3. Complex Variables & Its Applications, Churchill and Brown, International Edition,
+McGraw Hill, 1996
+REFERENCES:
+1. Advanced Engineering Mathematics, Erwin Kreyszig, 9th Edition, John Wiley
+2. Advanced Engineering Mathematics, Peter ‘O’ Neil, Cengage Learning
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. III Semester L T/P/D C
+3 1 4
+(A19PC1EI01) ELECTRONIC CIRCUITS-I
+COURSE PRE-REQUISITES: Engineering Physics
+COURSE OBJECTIVES:
+• To learn principle of operation, construction and characteristics of various
+electronic devices
+• To study the applications of various electronic devices
+• To understand the concepts of amplifiers and oscillators
+• To provide the concepts involved in developing of electronic circuits
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the operation and characteristics of various electronic devices
+CO-2: Understand the need of biasing and stabilization
+CO-3: Develop few applications using electronic devices
+CO-4: Design & analyze amplifiers and oscillators
+UNIT – I:
+P-N Junction Diode and Applications: Review of P-N Junction as a Diode, Diode
+Equation, Volt-Ampere Characteristics, Temperature dependence of V-I
+characteristics, Ideal and Practical Diode Equivalent Circuits, Transition and Diffusion
+Capacitances. Breakdown Mechanisms in Semi-Conductor Diodes, Zener Diode
+Characteristics.
+Half wave Rectifier, Full wave rectifier, Bridge Rectifier, Harmonic components in a
+Rectifier Circuit, Capacitor filters, π- section filters, Zener diode as Voltage Regulator.
+UNIT – II:
+Bipolar Junction Transistor, Biasing and Stabilization: The Bipolar Junction
+Transistor(BJT), Transistor Current Components, Transistor Construction, BJT Operation,
+Common Base, Common Emitter and Common Collector Configurations, Limits of
+operation, BJT as an Amplifier, BJT Specifications.
+The DC and AC Load lines, Quiescent operating point, Need for Biasing, Analysis of
+Fixed Bias, Collector Feedback Bias, Emitter Feedback Bias, Collector-Emitter
+Feedback Bias, Voltage Divider Bias, Bias Stability, Stabilization Factors, Stabilization
+against variations in VBE, β and ICO, Thermal Runaway, Thermal Stability.
+UNIT – III:
+Field Effect Transistor, Biasing: Construction and operation of Junction Field Effect
+Transistor (JFET), Volt-Ampere characteristics- Drain and Transfer Characteristics, FET as
+Voltage Variable Resistor, FET Biasing, Construction and operation of MOSFET, MOSFET
+characteristics in Enhancement and Depletion modes.
+UNIT – IV:
+Small Signal Low Frequency Amplifiers: BJT Amplifiers: Small signal low frequency
+transistor amplifier circuits: h-parameter representation and analysis of single stage CE,
+CC, CB amplifiers - Computation of voltage gain, current gain, Input impedance and
+Output impedance; Comparison of CB, CE and CC amplifiers.
+UNIT – V:
+Frequency Response of BJT Amplifiers: Analysis at low and high frequencies, Effect of
+coupling and bypass capacitors, Hybrid-π Common Emitter transistor model, CE short
+circuit gain, CE current gain with resistive load, Single-stage CE transistor amplifier
+response.
+UNIT – VI:
+Feedback Amplifiers and Oscillators: Concept of feedback, Types of feedback,
+general characteristics of negative feedback amplifiers, voltage series, voltage shunt,
+current series and current shunt feedback configurations and their analysis(BJT
+version), Illustrative problems.
+Classification of oscillators, Conditions for oscillations, RC phase shift oscillator,
+Generalized analysis of LC oscillators – Hartley and Colpitts oscillators, Piezoelectric
+crystal oscillator, Stability of oscillators.
+TEXT BOOKS:
+1. Electronic Devices and Circuits, J. Millman, Halkias and Satyabratha Jit, 2nd Edition,
+Tata McGraw-Hill, 2007
+2. Electronic Devices and Circuits, R. L. Boylestad and Louis Nashelsky, 11th Edition,
+Pearson/Prentice Hall, 2006
+REFERENCES:
+1. Integrated Electronics, J. Millman, Christos. C. Halkias, and Satyabratha Jit, 2nd
+Edition, Tata McGraw-Hill, 2008
+2. Electronic Devices and Circuits, T. F. Bogart Jr., J. S. Beasley and G. Rico, 6th Edition,
+Pearson Education, 2004
+3. Electronic Devices and Circuits, David A. Bell, 5th Edition, Oxford University Press,
+2008
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. III Semester L T/P/D C
+3 0 3
+(A19PC1EI02) SENSORS AND SIGNAL CONDITIONING
+COURSE PRE-REQUISITES: Physics, Mathematics
+COURSE OBJECTIVES:
+• To provide basic knowledge in transduction principles, sensors and transducer
+technology and measurement systems
+• To provide better familiarity with the Theoretical and Practical concepts of
+Transducers
+• To provide familiarity with different sensors and their application in real life
+• To provide the knowledge of various measurement methods of physical
+parameters like velocity, acceleration, torque, pressure, flow, temperature etc.,
+and their relevance to Industry
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Identify suitable sensors and transducers for real world applications such as
+level, temperature, vibration, light etc.,
+CO-2: Translate theoretical concepts into working models
+CO-3: Design the experimental applications to engineering modules and practices
+CO-4: Design engineering solution to the Industry/Society needs and develop
+products
+UNIT – I:
+Introduction to Measurement Systems: General concepts and terminology,
+measurement systems, sensor classifications: Analog Input and Output, Digital Input
+and Output, General input-output configuration, methods of correction.
+UNIT – II:
+Passive Sensors – I:
+Resistive Sensors: Potentiometers, Strain Gauges, Resistive Temperature Detectors
+(RTDs): Three wire and Four wire, Thermistors, Light-dependent Resistors (LDRs), Resistive
+Hygrometers.
+UNIT – III:
+Passive Sensors – II:
+Capacitive Sensors: Variable capacitor and Differential capacitor, Capacitive Touch
+sensors.
+Inductive Sensors: Reluctance variation sensors, Eddy current sensors, Linear Variable
+Differential Transformers (LVDTs), Magneto elastic sensors, Electromagnetic Sensor
+based on Faraday‘s law of Electromagnetic induction-search coil magnetometers.
+Introduction to proximity sensors.
+UNIT – IV:
+Self-generating Sensors:
+Thermoelectric Sensors: Thermocouples-Thermo electric effects, Common
+thermocouples, Practical thermocouple laws, Cold junction compensation in
+thermocouple circuits. Thermowell.
+Piezoelectric Sensors: Piezoelectric effect, piezoelectric materials, applications.
+Pyroelectric Sensors: Pyroelectric effect, pyroelectric materials, Radiation laws: Plank,
+Wein and Stefan-Boltzmann, Applications.
+Photovoltaic Sensors: Photovoltaic effect, materials and applications. Hall Effect
+Sensors
+UNIT – V:
+Digital Sensors: Position Encoders, Incremental position encoders, absolute position
+encoders, Variable frequency sensors-Quartz digital thermometers, vibrating cylinder
+sensors, SAW sensors.
+Introduction to Smart Sensors: Introduction to MEMS Sensors.
+UNIT – VI:
+Signal Conditioning: Voltage dividers, Wheatstone bridge, Instrumentation amplifier,
+Programmable gain amplifier, linearization of resistive bridge sensor, Electrostatic
+shield, Noise elimination using filters, Introduction to Synchros and Resolvers.
+TEXT BOOKS:
+1. Sensors and Signal Conditioning, Ramon Pallas-Areny, John G. Webster, 2nd Edition
+2. Sensors and Transducers, D. Patranabis, TMH, 2003
+REFERENCES:
+1. Sensor Technology Hand Book, Jon Wilson, Newne 2004
+2. Instrument Transducers, An Introduction to their Performance and Design, Herman
+K. P. Neubrat, Oxford University Press
+3. Measurement System: Applications and Design, E. O. Doeblin, McGraw-Hill
+Publications
+4. Electronic Instrumentation, H. S. Kalsi
+5. Microsensors, MEMS and Smart Devices, Julian Garder, Vijay K. Varadan, John
+Wiley & Sons Ltd., 2006
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. III Semester L T/P/D C
+3 0 3
+(A19PC1EI03) ELECTRONIC MEASUREMENTS
+COURSE OBJECTIVES:
+• To understand different measurement methods and errors associated with them
+• To know the different standards and calibration methodologies adopted in the
+measurement systems
+• To know different AC and DC bridges for the measurement of R, L and C
+• To know different types of Oscilloscopes and Analyzers (Analog and Digital)
+• To acquire clear concepts about the DC and AC voltage and current
+measurements
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the different methods of measurement
+CO-2: Calibrate different instruments
+CO-3: Find the unknown values of R, L and C through bridges circuits
+CO-4: To display the waveforms in an oscilloscope and analyze any complex
+waveforms through analog and digital techniques
+UNIT – I:
+Introduction to Measuring System: Static Characteristics, Error in measurement, Type
+of static errors, Dynamic characteristics, Statistical analysis, Probability of errors,
+Limiting errors, Standards - International standards, Primary standards, Secondary
+standards, Working standards.
+UNIT – II:
+Bridge Circuit and Measurements: Bridge Measurement – Wheatstone bridge, Kelvin
+bridge, AC bridges - Conditions for bridge balance, Maxwell’s bridge, Anderson
+bridge, Hays bridge, Schering bridge, Wien bridge, Wagner ground connection, Q-
+meter, Vector impedance meter.
+UNIT – III:
+Voltage, Current and Power Measurements: DC Ammeters and DC Voltmeters, AC
+voltmeter using rectifier, True RMS responding voltmeters, Electronic multimeters,
+Digital Voltmeters - General characteristics, Ramp type DVM, Integrating type DVM,
+Successive approximation type DVM, Calibration of voltmeter and ammeter,
+Wattmeter for power measurement, Watt-hour meter (Energy Meter), Power factor
+meters.
+UNIT – IV:
+Frequency and Time Measurements: Digital Frequency Meter: Principle of operation,
+Basic circuit of digital frequency meter, frequency measurement, High frequency
+measurements, Digital measurement of Time-Time base selector, Period
+measurement, Ratio and multiple ratio measurements, Electronic Counter - Totalizing,
+Frequency mode, Ratio mode, Period mode, Time interval mode.
+UNIT – V:
+Analyzers: Basic Wave Analyzer - Frequency selective wave analyzer and Heterodyne
+wave analyzer, Harmonic distortion analyzer - Tuned circuit and heterodyne,
+Spectrum analyzer, Logic analyzers.
+UNIT – VI:
+Oscilloscope and Some Display Devices: Oscilloscopes: Basic CRO circuits, Lissajous
+patterns, Multi input oscilloscopes - Dual trace and Dual beam, Sampling
+oscilloscopes, Storage oscilloscope - Analog and Digital.
+Display Devices: Segmental Display - 7 segment, 14 segment and Dot Matrix, LED and
+LCD.
+TEXT BOOKS:
+1. Electronic Instrumentation and Measurements Techniques, Helfrick and W.D.
+Cooper, PHI Publications
+2. Network Analysis, A. Sudhakar, Shyammohan Palli, McGraw-Hill Company
+3. Electronic Instrumentation, H. S. Kalsi, Tata McGraw-Hill, 2004
+REFERENCES:
+1. Electrical and Electronic Measurements, Shawney, Khanna Pub
+2. Electronic Measurements and Instrumentation, Bernard Oliver, John Cage
+3. Principles of Measurement Systems, John P. Bentley, 3rd Edition, Addison Wesley
+Longman, 2000
+4. Electronic Instrumentation and Measurements: David A. Bell, 2nd Edition, PHI, 2003
+5. Electronic Instruments and Instrumentation Technology, M. M. S. Anand, Prentice-
+Hall of India
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. III Semester L T/P/D C
+3 0 3
+(A19PC1EC04) SIGNALS AND SYSTEMS
+(Common to ECE & EIE)
+COURSE PRE-REQUISITES: Calculus for Engineers (19BS1MT01), Linear Algebra and
+Advanced Calculus (19BS1MT04)
+COURSE OBJECTIVES:
+• To understand various fundamental characteristics of signals and systems
+• To study the importance of transform domain
+• To analyze and design various systems
+• To study the effects of sampling
+• To understand Laplace and Z-transforms their properties for analysis of signals and
+systems
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Classify the signals and implement various operations on signals
+CO-2: Analyze the spectral characteristics of signals and systems
+CO-3: Understand the conditions for physical realizability of a system
+CO-4: Identify the significance of sampling types and applications of correlation
+functions
+CO-5: Discover the significance of LT, ZT and their relation
+UNIT – I:
+Representation of Signals: Continuous time and Discrete Time signals, Classification of
+Signals – Periodic and aperiodic, even and odd, energy and power signals,
+deterministic and random signals, causal and non-causal signals, complex
+exponential and sinusoidal signals. Concepts of standard signals. Various operations
+on Signals.
+UNIT – II:
+Signal Analysis: Analogy between vectors and signals, orthogonal signal space, Signal
+approximation using orthogonal functions, Closed or complete set of orthogonal
+functions.
+Fourier Series Representation of Periodic Signals: Dirichlet conditions, Representation
+of Continuous time periodic signals using Trigonometric and Exponential Fourier series,
+Complex Fourier spectrum, Gibb‘s Phenomenon.
+UNIT – III:
+Fourier Transform: Fourier transform from Fourier series, Fourier transform of standard
+signals and periodic signals, properties of Fourier transform with proof, Inverse Fourier
+Transform.
+Laplace Transform: Concept of Region Of Convergence (ROC) for Laplace transform,
+Properties of ROC, Inverse Laplace Transform, Relation between Laplace Transform
+and Fourier transform of a signal. Introduction to Hilbert Transform and its properties.
+UNIT – IV:
+Signal Transmission through Linear Systems: Classification of Continuous time and
+discrete time Systems, impulse response, Response of a linear system, Transfer function
+and Filter characteristics of an LTI system, Distortion less transmission through a system,
+Signal bandwidth, system bandwidth, Ideal LPF, HPF and BPF characteristics, Causality
+and Paley -Wiener criterion for physical realization.
+UNIT – V:
+Convolution and Correlation of Signals: Concept of convolution in time domain and
+frequency domain, Graphical representation of convolution, Properties of
+Convolution, Concepts of correlation, properties of correlation. Relation between
+convolution and correlation, Detection of periodic signals in the presence of noise by
+correlation.
+Sampling Theorem: Representation of continuous time signals by its samples -
+Sampling theorem – Reconstruction of a Signal from its samples, aliasing – discrete
+time processing of continuous time signals, sampling of band pass signals.
+UNIT – VI:
+Z –Transform: Basic principles of z-transform, region of convergence, properties of
+ROC, Properties of z-transform with proofs, Poles and Zeros. Inverse z-transform – Power
+series method, Residue Theorem method, Convolution Method and Partial fraction
+expansion method.
+TEXT BOOKS:
+1. Signals, Systems and Communications, B. P. Lathi, BS Publications, 2009
+2. Signals and Systems, Alan V. Oppenheim, Alan S. Willsky and S. Hamid Nawab, 2nd
+Edition, PHI ,1997
+REFERENCES:
+1. Signals and Systems, A. Anand Kumar, 2nd Edition, PHI, 2012
+2. Signals and Systems, Simon Haykin and Barry Van Veen, 2nd Edition, John Wiley,
+1998
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. III Semester L T/P/D C
+0 3 1.5
+(A19PC2EI01) ELECTRONIC CIRCUITS-I LABORATORY
+COURSE OBJECTIVES:
+• To identify various active and passive components
+• To understand the functionality of various measuring instruments
+• To know the characteristics of various active devices
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the specifications of various devices and measuring equipment
+CO-2: Analyze the characteristics of various semiconductor devices
+CO-3: Appreciate the effect of feedback on the systems’ performance
+PART A: (Only for viva-voce examination)
+ELECTRONIC WORKSHOP PRACTICE (in 2 lab sessions):
+1. Identification, specification, testing of R,L,C components (color codes),
+Potentiometers (SPDT, DPDT and DIP), Coils, Gang Condensers, Relays, Bread
+Board, PCB.
+2. Identification, specification, testing of active devices : Diodes, BJT, Low power JFET,
+MOSFET, Power Transistors, LED, LCD, SCR, UJT.
+3. Study and operation of:
+a) Multimeters (Analog and Digital)
+b) Function Generator
+c) Regulated Power Supplies
+d) CRO
+PART B:
+1. V-I characteristics of PN junction diode under forward and reverse bias.
+2. V-I characteristics of Zener diode and voltage regulator using Zener Diode.
+3. Full-wave Rectifier without filter and with π filter: Computation of Ripple factor and
+Regulation efficiency
+4. Transistor as a switch
+5. Input and Output characteristics of CE transistor configuration and computation
+of h- parameters.
+6. Input and Output characteristics of CB transistor configuration and computation
+of h- parameters.
+7. Input and Output characteristics of CC transistor configuration and computation
+of h- parameters.
+8. Characteristics of FET under CS configuration.
+9. Frequency response of CE Amplifier.
+10. Frequency response of CS Amplifier.
+11. Frequency response of Voltage shunt feedback amplifier.
+12. Colpitt’s Oscillator using transistors.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. III Semester L T/P/D C
+0 3 1.5
+(A19PC2EI02) SENSORS AND MEASUREMENTS LABORATORY
+COURSE OBJECTIVES:
+• To make student acquire hands on experience in active and passive
+sensors/transducers
+• To make students understand different signal conditioners
+• To make students design basic measuring devices like bridges
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Appreciate the use of sensors
+CO-2: Identify the sensors required for any specific application
+CO-3: Design and develop a simple measuring device employing appropriate sensors
+LIST OF EXPERIMENTS:
+1. Measurement of Load using Strain Gauge bridge and obtain the strain gauge
+characteristics.
+2. Measurement of Temperature using Thermistor and RTD and obtain the
+temperature Vs Resistance Characteristics
+3. Measurement of Temperature using Thermocouple and obtain the temperature
+Vs Voltage Characteristics.
+4. Measurement of Displacement using LVDT and obtain the displacement Vs
+Voltage Characteristics of LVDT.
+5. Measurement of Liquid level using capacitive transducer.
+6. Measurement of Resistance using Wheatstone bridge.
+7. Measurement of Low Resistances using Kelvin Bridge.
+8. Measurement of Capacitance using Schering Bridge.
+9. Measurement of Inductance using Maxwell‘s Bridge.
+10. Measurement of L, C and R using Q-Meter.
+11. Obtain the Characteristics of Opto-Electric Transducers - Photo Transistor and
+Photo Diode.
+12. Obtain the Characteristics of LDR.
+13. Pressure measurement using Bourdon Tube and obtain the characteristics.
+14. Measurement of temperature using optical Pyrometers.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. III Semester L T/P/D C
+0 2 1
+(A19PC2EC02) BASIC SIMULATION LABORATORY
+COURSE PRE-REQUISITES: Calculus for Engineers (A19BS1MT01), Linear Algebra and
+Advanced Calculus (A19BS1MT04)
+COURSE OBJECTIVES:
+• To understand the simulation of generation of Various (Continuous/Discrete)
+signals
+• To study various arithmetic operations on signals and various transforms applied for
+signals
+• To understand the characteristics of LTI system and to find its response for various
+excitations
+• To study about the mathematical tools for signal estimation in the presence of
+noise
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Synthesize the given waveform using standard test signals and sequences and
+to find the symmetry of the signal
+CO-2: Classify the given system based on its characteristics
+CO-3: Analyze the effect of various transformations applied on independent and
+dependent variables of signals
+CO-4: Determine the spectral and temporal characteristics of random processes
+LIST OF EXPERIMENTS:
+The experiments are to be software simulated using suitable software.
+1. Basic Operations on Matrices
+2. Generation of various signals and sequences (Periodic and Aperiodic), such as
+unit Impulse, step, Square, Saw tooth, Triangular, Sinusoidal, Ramp, Sinc and
+random signals.
+3. Operations on signals and sequences such as Addition, Multiplication, Scaling,
+Shifting, Folding. Computation of Energy and Average Power.
+4. Finding the Even and Odd parts of Signal / Sequence and Real and imaginary
+parts of Signal.
+5. Convolution between (i) Signals (ii) Sequences.
+6. Auto Correlation and Cross Correlation of (i) Signals (ii) Sequences.
+7. Computation of Unit sample, Unit step and sinusoidal responses of the given LTI
+system and Verifying its Physical realizability and stability properties.
+8. Verification of Linearity and Time Invariance Properties of a given
+Continuous/Discrete System.
+9. Verification of Gibb’s Phenomenon.
+10. Finding the Fourier Transform of a given signal and plotting its magnitude and
+phase spectrum.
+11. Verification of Sampling Theorem.
+12. Verifying the applications of Correlation:
+i. Estimating the period of a periodic signal masked by noise
+ii. Removal of Noise from the combination of signal and noise
+13. Generation of Gaussian noise (Real and Complex), Computation of its mean, M.S.
+Value and its Skew, Kurtosis and PSD, Probability Distribution Function.
+14. Checking a Random Process for Stationary in Wide sense.
+Experiments over and above the curriculum:
+1. Verification of the properties of FS and FT.
+2. Verification of Wiener-Khinchine relation.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. III Semester L T/P/D C
+0 2 0
+(A19MN6HS03) GENDER SENSITIZATION
+COURSE DESCRIPTION:
+This course offers an introduction to Gender Studies, an interdisciplinary field that asks
+critical questions about the meanings of sex and gender in society. The primary goal
+of this course is to familiarize students with key issues, questions and debates in Gender
+Studies, both historical and contemporary. It draws on multiple disciplines – such as
+literature, history, economics, psychology, sociology, philosophy, political science,
+anthropology and media studies – to examine cultural assumptions about sex,
+gender, and sexuality. This course integrates analysis of current events through student
+presentations, aiming to increase awareness of contemporary and historical
+experiences of women, and of the multiple ways that sex and gender interact with
+race, class, caste, nationality and other social identities. This course also seeks to build
+an understanding and initiate and strengthen programmes combating gender-based
+violence and discrimination. The course also features a number of exercises and
+reflective activities designed to examine the concepts of gender, gender-based
+violence, sexuality, and rights. It will further explore the impact of gender-based
+violence on education, health and development
+ACTIVITIES:
+Classes will consist of a combination of activities: dialogue-based lectures, discussions,
+collaborative learning activities, group work and in-class assignments
+COURSE OBJECTIVES:
+• To sensitize students on issues of gender in contemporary India
+• To provide a critical perspective on the socialization of men and women
+• To expose the students to debates on the politics and economics of work
+• To enable students to reflect critically on gender violence
+• To expose students to more egalitarian interactions between men and women
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand important issues related to gender in contemporary India
+CO-2: Attain a finer grasp of how gender discrimination works in our society and how
+to counter it
+CO-3: Acquire insight into the gendered division of labour and its relation to politics
+and economics
+CO-4: Respond to put an end to gender violence
+CO-5: Equipped to work with the other gender treating them as equals
+MODULE 1: Introduction to Gender
+Definition of Gender
+Basic Gender Concepts and Terminology
+Exploring Attitudes towards Gender
+Social Construction of Gender
+MODULE 2: Gender Roles and Relations
+Types of Gender Roles
+Gender Roles and Relationships Matrix
+Gender-based Division and Valuation of Labour
+MODULE 3: Gender Development Issues
+Identifying Gender Issues
+Gender Sensitive Language
+Gender, Governance and Sustainable Development
+Gender and Human Rights
+Gender and Mainstreaming
+MODULE 4: Gender-based Violence
+The concept of violence
+Types of Gender-based violence
+The relationship between gender, development and violence
+Gender-based violence from a human rights perspective
+MODULE 5: Gender and Culture
+Gender and Film
+Gender and Electronic Media
+Gender and Advertisement
+Gender and Popular Literature
+MODULE 6: Gender and Studies
+Knowledge: Through the Lens of Gender Point of View, Gender and the Structure of
+Knowledge
+Whose History: Questions for Historians and Others, Reclaiming a Past, Writing Other
+Histories
+TEXT BOOK:
+1. Towards a World of Equals: A Bilingual Textbook on Gender, A. Suneetha, Uma
+Bhrugubanda, Duggirala Vasanta, Rama Melkote, Vasudha Nagaraj, Asma
+Rasheed, Gogu Shyamala, Deepa Sreenivas and Susie Tharu, Telugu Akademi,
+Telangana Government, 2015
+REFERENCES:
+1. More than One Million Women are Missing, Sen, Amartya, New York Review of
+Books 37.20 (20 December 1990), Print ‘We Were Making History’ Life Stories of
+Women in the Telangana People’s Struggle, New Delhi: Kali for Women, 1989
+2. By the Numbers: Where Indian Women Work, Women’s Studies Journal (14
+November 2012), Tripti Lahiri, Available online at: http: // blogs.wsj.com/ India real
+time/2012/11/14/by-the-numbers-where-India-women-work/&gt
+3. I Fought For My Life ...and Won, Abdulali Sohaila, Available online at:
+http://www.thealternative.in/lifestyle/i-fought-for-my-lifeand-won-sohaila-abdulal
+4. The Violence of Development: The Politics of Identity, Gender and Social
+Inequalities in India, K. Kapadia, London: Zed Books, 2002
+5. Just Development: Beyond Adjustment with a Human Face, T. Banuri and M.
+Mahmood, Karachi: Oxford University Press, 1997
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. IV Semester L T/P/D C
+3 0 3
+(A19HS1MG02) ENGINEERING ECONOMICS AND ACCOUNTANCY
+(Common to EEE, EIE, CSE and IT)
+COURSE OBJECTIVES:
+• To explain the basic nature of pure economics and to analyse certain concepts
+of both Micro & Macro Economics and to know the role of managerial economics
+in solving problems of business enterprises
+• To understand different forms of organizing private-sector and public-sector
+business enterprises and problems which have been encountered by public
+enterprises in India
+• To describe each stage of product life cycle with the help of different costs and
+their role in maintaining optimum cost of production and overall profitability by
+considering different market competitions
+• To analyse the process involved in preparation of project proposals, to estimate
+capital required to commerce and carryon business projects, to know the various
+sources of mobilizing required amount of capital and to evaluate investment
+opportunities
+• To apply the basic accounting concepts & conventions and to analyse financial
+position of business enterprise
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Perform decision making function effectively in an uncertain framework by
+applying the concepts of economics, manage demand efficiently and plan future
+course of action
+CO-2: Select suitable form of business organization which meets the requirements of
+business
+CO-3: Fix the right price which can best meet the pre-determined objectives of the
+business under different market conditions
+CO-4: Identify the best source of mobilising capital, select most profitable investment
+opportunity, carry out & evaluate benefit/cost, life cycle and Break-even analysis on
+one or more economic alternatives
+CO-5: Analyze overall position of the business enterprise, therefore, take appropriate
+measures to improve the situation.
+UNIT – I:
+Introduction to Economics & Managerial Economics: Introduction to Economics:
+Definition, nature, scope and types of Economics. Concepts of Macro-Economics:
+Gross Domestic Product (GDP), Gross National Product (GNP), National Income (NI) &
+Rate of Inflation.
+Managerial Economics: Definition, nature, scope & significance.
+Elements of Managerial Economics: Demand Analysis, Law of Demand, Elasticity of
+Demand and Demand Forecasting.
+UNIT – II:
+Forms of organizing Private and Public-Sector Business Enterprises:
+Private Sector Business Enterprises:
+(i) Sole Proprietorship - Definition, features, merits, limitations & suitability.
+(ii) Partnership - Definition, Partnership Act, features, types, merits, limitations, suitability.
+(iii) Joint-Stock Company - Definition, Companies Act, features, types, merits,
+limitations, suitability.
+Public Sector Business Enterprises: Definition, features, objectives, merits, problems.
+UNIT – III:
+Market Structures, Product Life-Cycle (PLC), Pricing and Financial Accounting: Market
+Structures: Definition & common features of market and classifications of markets.
+Evaluation of market structures-Perfect Competition, Monopoly, Monopolistic
+Competition and Oligopoly.
+Product Life-Cycle and Pricing: Definition, various stages of PLC, and Life-Cycle Costs;
+objectives and methods of pricing.
+Introduction to Financial Accounting: Definition, basic principles and double-entry
+book- keeping, practice of accounting process-Journal, ledger, trial balance and
+final accounts (simple problems)
+UNIT – IV:
+Financial Analysis through Ratios: Meaning, computation of ratios
+(i) Liquidity Ratios: Current Ratio and Quick Ratio,
+(ii) Solvency Ratios: Interest Coverage Ratio and Debt- Equity Ratio,
+(iii) Activity Ratios: Stock/Inventory Turnover Ratio and Debt Turnover Ratio,
+(iv) Profitability Ratios: Gross Profit Ratio, Net Profit Ratio & Earning Per Share(EPS) Ratio.
+UNIT – V:
+Management Accounting: Definition & nature of Management Accounting.
+Capital: Types of capital, factors influencing capital requirements, sources of
+mobilising Fixed and Working Capital.
+UNIT – VI:
+Cost Accounting: Cost Accounting: Definition, Types of costs – Opportunity cost,
+Explicit/Out-of-Pocket cost, Implicit/Imputed cost, Fixed cost, Variable cost, Semi-
+Variable cost, Differential cost, Sunk cost, Total cost, Average cost & Marginal cost.
+Break- Even/Cost-Volume-Profit (CVP) Analysis (Simple Problems).
+TEXT BOOKS:
+1. Managerial Economics and Financial Analysis, Aryasri, 2009,Tata McGraw-Hill
+2. Managerial Economics, Varshney & Maheswari, 2009, Sultan Chand
+3. Principles of Marketing: A South Asian Perspective, Kotler Philip, Gary Armstrong,
+Prafulla Y. Agnihotri and Eshan ul Haque, 2010, 13th Edition, Pearson Education/
+Prentice Hall of India
+REFERENCES:
+1. Indian Economy, Misra S. K. and Puri, Himalaya Publishers
+2. Textbook of Business Economics, Pareek Saroj, Sunrise Publishers
+3. Financial Accounting for Management: An Analytical Perspective, Ambrish Gupta,
+Pearson Education
+4. Managerial Economics, H. Craig Peterson & W. Cris Lewis, Prentice Hall of India
+5. Guide to Proposal Writing, Jane C. Geever & Patricia McNeill, Foundation Centre
+Website:
+https://www.amazon.com/exec/obidos/tg/detail/-
+/0879547030/ref=ase_learnerassoci-20/102-4728473-7056968?v=glance&s=books
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. IV Semester L T/P/D C
+3 1 4
+(A19PC1EI04) ELECTRONIC CIRCUITS – II
+COURSE PRE-REQUISITES: Electronic Devices and Circuits
+COURSE OBJECTIVES:
+• To understand the principle of multi stage amplification
+• To understand the difference between Power amplification and voltage
+amplification
+• To study the principle and working of various electronic devices
+• To understand the principle and applications of SCR
+• To understand the various processes required for industrial applications
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Design and implement cascade stage of amplifiers and their coupling
+mechanisms
+CO-2: Appreciate the design considerations of various large signal amplifiers
+CO-3: Apply the knowledge of various electronic devices
+CO-4: Apply the knowledge of deferent industrial processes to real time industry
+applications
+UNIT – I:
+Linear and Non-Linear Wave Shaping: High pass, Low pass RC circuits and their
+response for sinusoidal, step, pulse, square inputs. RC network as differentiator and
+integrator. Attenuators.
+Diode clippers, clipping at two independent levels, Transfer characteristics of clippers,
+clamping operation, clamping circuits, Clamping circuit theorem.
+UNIT – II:
+Multistage Amplifiers: Introduction, Methods of inter-stage coupling, BJT: n-stage RC
+coupled amplifier, Equivalent circuits, Miller’s Theorem, Amplifier analysis, Darlington
+Pair.
+UNIT – III:
+Power Amplifiers: Classification of power amplifiers, Series-fed and Transformer
+coupled Class A audio power amplifier, Efficiency of Class A amplifier , Class B
+amplifier, Transformer-coupled Class B push-pull amplifier, Complementary-symmetry
+Class B push-pull amplifier, Efficiency of Class B amplifier, Distortion in power amplifiers,
+Heat sinks.
+UNIT – IV:
+Special Purpose Electronic Devices: Principle of Operation and Characteristics of
+Tunnel Diode (with the help of Energy Band Diagram), Varactor Diode and Schottky
+barrier diode. Principle of Operation and Characteristics of UJT, UJT Relaxation
+Oscillator. Principle of Operation of SCR, Schockley diode DIAC and TRIAC. Principle
+of Operation of Semiconductor Photo Diode, PIN Diode, Photo Transistor, LED and
+LCD.
+UNIT – V:
+SCR, Thyristor and its Applications: Triggering of Thyristors, Commutation Techniques of
+Thyristors—Classes A, B, C, D, E and F, Ratings of SCR. Static circuit breaker, Protection
+of SCR, Inverters—Classification, Single Phase inverters, Converters – single phase Half
+wave and Full wave.
+UNIT – VI:
+Industrial Applications: Industrial timers -Classification, types, Electronic Timers –
+Classification, RC and Digital timers, Time base Generators. Electric Welding –
+Classification, types and methods of Resistance and ARC wielding, Electronic DC
+Motor Control. High Frequency heating – principle, merits, applications, High
+frequency Source for Induction heating. Dielectric Heating – principle, material
+properties, Electrodes and their Coupling to RF generator, Thermal losses and
+Applications. Ultrasonic – Generation and Applications.
+TEXT BOOKS:
+1. Pulse, Digital and Switching Waveforms, J. Millman and H. Taub, McGraw-Hill, 1991
+2. Integrated Electronics, Jacob Millman and Christos C. Halkias, Tata McGraw-Hill
+Education, 2008
+3. Industrial and Power Electronics, G. K. Mithal and Maneesha Gupta, 19th Edition,
+Khanna Publishers, 2003
+REFERENCES:
+1. Electronic Circuit Analysis, S. Salivahanan, N. Suresh Kumar, 2nd Edition, Tata
+McGraw-Hill Education, 2012
+2. Thyristors and Applications, M. Rammurthy, East-West Press, 1977
+3. Integrated Circuits and Semiconductor Devices, Deboo and Burroughs, ISE
+4. Micro Electronic Circuits–Sedra and Smith, 5th Edition, Oxford University Press, 2009
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. IV Semester L T/P/D C
+3 0 3
+(A19PC1EI05) LINEAR IC APPLICATIONS
+COURSE OBJECTIVES:
+• To study about electrical properties of analog ICs like Op-Amps, IC 555 timer, PLL
+• To analyze and know the design concepts of various applications of ICs
+• To describe the analog to digital and digital to analog techniques
+• To study the design concepts of analog circuits using ICs and its applications
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Analyze the characteristics of Op-Amps & ICs
+CO-2: Design linear and non-linear applications of Op-Amps
+CO-3: Design applications using linear ICs
+CO-4: Design A/D and D/A Converters using ICs
+UNIT – I:
+Integrated Circuits: Differential Amplifier- DC and AC analysis of Dual input Balanced
+output Configuration, Properties of other differential amplifier configuration (Dual
+Input Unbalanced Output, Single Ended Input – Balanced/ Unbalanced Output), DC
+Coupling and Cascade Differential Amplifier Stages, Level translator.
+UNIT – II:
+Characteristics of Op-Amps & Integrated Circuits: Types, Classification, Package Types
+and Temperature ranges, Power supplies, Op-amp Block Diagram, ideal and practical
+Op-amp Specifications, DC and AC characteristics, 741 op-amp & its features, Op-
+Amp parameters & Measurement, Input & Out put Off set voltages & currents, slew
+rate, CMRR, PSRR, drift, Frequency Compensation techniques.
+UNIT – III:
+Linear and Non-linear Applications of Op-Amps: Inverting and Non-inverting amplifier,
+Integrator and differentiator, Difference amplifier, Instrumentation amplifier, AC
+amplifier, V to I, I to V converters, Buffers. Non- Linear function generation,
+Comparators, Multivibrators, Triangular and Square wave generators, Log and Anti log
+Amplifiers.
+UNIT – IV:
+Active Filters, Analog Multipliers and Modulators: Design & Analysis of Butterworth
+active filters – 1st order, 2nd order LPF, HPF filters. Band pass, Band reject and all pass
+filters. Four Quadrant Multiplier, IC 1496, Sample & Hold circuits.
+UNIT – V:
+Timers & Phase Locked Loops: Introduction to 555 timer, functional diagram,
+Monostable and Astable operations and applications, Schmitt Trigger; PLL -
+introduction, block schematic, principles and description of individual blocks, 565 PLL,
+Applications of PLL – frequency multiplication, frequency translation, AM, FM & FSK
+demodulators. Applications of VCO (566).
+UNIT – VI:
+Digital to Analog and Analog to Digital Converters: Introduction, basic DAC
+techniques, weighted resistor DAC, R-2R ladder DAC, inverted R-2R DAC, and IC 1408
+DAC, Different types of ADCs – parallel Comparator type ADC, counter type ADC,
+successive approximation ADC and dual slope ADC.DAC and ADC Specifications,
+Specifications AD 574 (12 bit ADC).
+TEXT BOOKS:
+1. Linear Integrated Circuits, D. Roy Choudhury, 2nd Edition, New Age International
+(P) Ltd, 2003
+2. Op-Amps & Linear ICs, Ramakanth A. Gayakwad, PHI, 1987
+3. Operational Amplifiers, C. G. Clayton, Butterworth Company Public Ltd. /
+Elsevier, 1971
+REFERENCES:
+1. Operational Amplifiers & Linear Integrated Circuits, Sanjay Sharma, 2nd Edition, S.
+K. Kataria & Sons, 2010
+2. Design with Operational Amplifiers & Analog Integrated Circuits, Sergio Franco,
+McGraw-Hill, 1988
+3. OP AMPS and Linear Integrated Circuits Concepts and Applications, James M.
+Fiore, Cengage Learning India Ltd.
+4. Operational Amplifiers & Linear Integrated Circuits, R. F. Coughlin & Fredrick
+Driscoll, 6th Edition, PHI
+5. Operational Amplifiers & Linear ICs, David A. Bell, 3rd Edition, Oxford Uni. Press
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. IV Semester L T/P/D C
+3 0 3
+(A19PC1EE05) CONTROL SYSTEMS
+(Common to ECE and EIE)
+COURSE OBJECTIVES:
+• To understand the different ways of system representations-Transfer function
+representation, state space representation and to assess the system’s dynamic
+response
+• To assess the system performance using time domain analysis and methods for
+improving it
+• To assess the system performance using frequency domain analysis and
+techniques for improving the performance
+• To design various controllers and compensators to improve system performance
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Analyze the system’s steady state and transient performance
+CO-2: Evaluate the effects of feedback on system performance
+CO-3: Obtain the transfer function/ state space models
+CO-4: Design suitable controller and compensator for the improvement of system
+performance
+UNIT – I:
+Introduction to Control Problem: Open-Loop and Closed-loop systems, benefits of
+Feedback. Mathematical models of physical systems. Transfer function models of
+linear time-invariant systems –RLC Circuits, DC and AC servo motors. Block diagram
+algebra and Signal Flow Graphs.
+UNIT- II:
+Time Response Analysis: Standard test signals. Time response of first and second order
+systems for standard test inputs. Application of initial and final value theorems. Design
+specifications for second-order systems based on the time-response.
+UNIT – III:
+Stability and Root Locus: Concept of Stability, Routh-Hurwitz Criterion, Relative Stability
+analysis. Root-Locus technique. Construction of Root-loci.
+UNIT – IV:
+Frequency-Response Analysis: Relationship between time and frequency response.
+Bode plots- transfer function from bode plot-phase and gain margins- stability analysis.
+Polar and Nyquist plots, Nyquist stability criterion. Relative stability using Nyquist
+criterion – gain and phase margins.
+UNIT – V:
+Introduction to Controller Design: Stability, steady-state accuracy, transient accuracy,
+disturbance rejection, insensitivity and robustness of control systems.
+Root-loci method of feedback controller design- Application of Proportional, Integral
+and Derivative Controllers. Design specifications in frequency- domain. Frequency-
+domain methods of design- Lead and Lag compensators.
+UNIT – VI:
+State Space Analysis: Concepts of state variables. State space model - RLC circuits
+and DC motors. State Transition Matrix and its properties- Transformations: State space
+to Transfer function and vice versa. Eigenvalues and Stability Analysis. Concept of
+controllability and observability.
+TEXT BOOKS:
+1. Control Systems Engineering, I. J. Nagrath and M. Gopal, New Age International,
+2009
+2. Modern Control Engineering, K. Ogata, Prentice Hall, 1991
+REFERENCES:
+1. Modern Control Systems, Richard C. Dorf and Robert H. Bishop
+2. Automatic Control System, B. C. Kuo, Prentice Hall, 1995
+3. Control Systems: Principles and Design, M. Gopal, McGraw Hill Education, 1997
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. IV Semester L T/P/D C
+3 0 3
+(A19PC1EC03) DIGITAL SYSTEM DESIGN
+(Common to ECE, EEE & EIE)
+COURSE PRE-REQUISITES: Linear Algebra and Advanced Calculus (19BS1MT04)
+COURSE OBJECTIVES:
+• To understand and analyze the logic families
+• To understand the different ways of number representation and simplification of
+Boolean functions with reference to digital circuit design
+• To understand the design principles of combinational and sequential circuits
+• To understand the role of state machine in digital system designs
+• To introduce the principles involved in implementing a digital system using PLDs
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Identify suitable logic family for the implementation of digital ICs
+CO-2: Apply the fundamental concepts of digital logic in the design of digital system
+CO-3: Analyze and design combinational and sequential logic building blocks of a
+digital system
+CO-4: Apply state machines in the design of digital systems
+CO-5: Implement digital systems using various programmable logic devices
+UNTI – I:
+Digital Logic Families: TTL NAND gate, Specifications, Noise margin, Propagation
+delay, fan-in, fan-out, Tristate TTL, ECL, CMOS families and their interfacing
+Number Systems and Codes: Number Systems, Representation of unsigned and
+Signed Numbers – Binary Arithmetic, Binary Codes, Code Conversions
+UNIT – II:
+Switching Functions and Logic Simplification: Boolean Algebra postulates and
+theorems, Algebraic Simplification, Digital logic gates, Multilevel NAND/NOR
+realizations, Boolean function representations: Canonical and Standard forms,
+Karnaugh map up to 5 variables, Don‘t care combinations.
+UNIT – III:
+Combinational Circuits: Half Adder, Full Adder, Ripple Carry Adder, Half Subtractor,
+Full Subtractor, Binary Adder/Subtractor, BCD adder, 4-bit Magnitude Comparator,
+Encoder, Priority Encoder, Decoder, Multiplexer, De- Multiplexer, Barrel shifter.
+UNIT – IV:
+Sequential Circuits: Classification of sequential circuits, Latches and Flip Flops, SR, JK,D,
+T and Master-Slave JK Flip Flops, Flip-Flop Conversions, Ripple and Synchronous
+Counters, Shift Registers, Sequence generator and sequence detector, Introduction
+to Finite State Machines(Mealy and Moore).
+UNIT – V:
+Algorithmic State Machine Charts: Introduction to ASM charts, system Design using
+data path and control subsystems, ASM charts for Binary Multiplier and Dice Game
+Controller.
+UNIT – VI:
+Programmable Logic Devices: Logic implementation using Programmable Logic
+Devices (PLDs): Read Only Memory (ROM), Programmable Logic Array (PLA),
+Programmable Array Logic (PAL).
+Basic architectures of CPLD and FPGA, FPGA Programming Technologies: SRAM,
+Antifuse, EPROM
+TEXT BOOKS:
+1. Digital Design, Morris Mano, 3rd Edition, PHI, 2006
+2. Modern Digital Electronics, R. P. Jain, 4th Edition, Tata McGraw Hill, 2009
+3. Digital Fundamentals, Floyd and Jain, 8th Edition, Pearson Education, 2009
+REFERENCES:
+1. Digital Systems, Ronald J. Tocci, Neal S. Widmer, Gregory L. Moss, 10th Edition,
+Pearson Education, 2009
+2. Digital Principles and Applications, Donald P. Leach, Albert Paul Malvino and
+Goutam Saha, 8th Edition, McGraw Hill, 2014
+3. Fundamentals of Logic Design, Charles H. Roth, Larry L. Kinney, 7th Edition,
+Cengage, 2015
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. IV Semester L T/P/D C
+0 3 1.5
+(A19PC2EI03) ELECTRONIC CIRCUITS - II LABORATORY
+COURSE OBJECTIVES:
+• To understand the linear and non-linear wave shaping
+• To explain the operation, design and Analysis of multistage amplifiers using BJT and
+MOS
+• To develop power amplifiers and controlled rectifiers with desirable efficiency
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Design linear and nonlinear wave shapers for desired specifications
+CO-2: Design multistage amplifiers to suit impedance and gain parameters
+requirements
+CO-3: Design power amplifiers and controlled rectifiers for suitable efficiencies
+LIST OF EXPERIMENTS:
+Design and simulation of the following circuits using simulation software and
+implementation through hardware.
+1. Linear wave shaping.
+2. Non Linear wave shaping – Clippers.
+3. Non Linear wave shaping – Clampers
+4. Two stage RC coupled BJT Amplifier
+5. Darlington pair.
+6. Cascode amplifier
+7. Characteristics of UJT and UJT Relaxation Oscillator.
+8. Class A power Amplifier (Transformer less and with transformer load).
+9. Class B Complementary Symmetry Amplifier.
+10. Class C Tuned Amplifier.
+11. MOS Amplifier.
+12. SCR characteristics.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. IV Semester L T/P/D C
+0 3 1.5
+(A19PC2EI04) IC APPLICATION LABORATORY
+COURSE OBJECTIVES:
+• To understand the application of OP-AMP and manipulate the signals
+• To understand to generate controlled oscillations using OP-AMP
+• To understand the procedure to select IC that can chose any required inputs at
+any instances and generate required output voltage
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Design different signal manipulators using OP-AMP
+CO-2: Design oscillators using OP-AMP and other ICs to suit both various modes of
+operations
+CO-3: Design systems using OP-AMP to yield high input impedance and controlled
+oscillations
+LIST OF EXPERIMENTS:
+1. Verification of Logic Gates, Flip flops, Counters and Multiplexers
+2. Adder, Subtractor and Comparator using IC 741 OP-AMP
+3. Integrator and Differentiator using IC 741 OP-AMP
+4. Square Wave Generator and Triangular Wave Generator using OP-AMP
+5. Low pass and High Pass Filtersusing IC 741 OP-AMP
+6. Wien Bridge Oscillators using IC 741 OP-AMP
+7. 4-bit Digital to Analog converter using OP-AMP
+8. Schmitt Trigger circuits using IC 741
+9. Mono-stable Multivibrator using IC 555
+10. AstableMultivibrator using IC 555.
+11. Three terminal voltage regulators-7805, 7809, 7912.
+12. Instrumentation Amplifier
+13. Voltage controlled oscillator
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. IV Semester L T/P/D C
+0 2 1
+(A19PC2IT02) PYTHON PROGRAMMING LABORATORY
+COURSE OBJECTIVES:
+• To install and run the Python interpreter
+• To learn control structures
+• To understand Lists, Dictionaries in python
+• To handle Strings and Files in Python
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Develop the application specific codes using python
+CO-2: Understand Strings, Lists, Tuples and Dictionaries in Python
+CO-3: Verify programs using modular approach, file I/O, Python standard library
+CO-4: Implement Digital Systems using Python
+EXERCISE 1: Basics
+Running instructions in Interactive interpreter and a Python Script
+Write a program to purposefully raise Indentation Error and correct it
+EXERCISE 2: Operations
+Write a program to compute GCD of two numbers by taking input from the user
+Write a program add.py that takes 2 numbers as command line arguments and prints
+its sum.
+EXERCISE 3: Control Flow
+Write a Program for checking whether the given number is even number or not.
+Write a program using for loop that loops over a sequence.
+Python Program to Print the Fibonacci sequence using while loop
+Python program to print all prime numbers in a given interval (use break)
+EXERCISE 4: Lists
+Find mean, median, mode for the given set of numbers in a list.
+Write a program to convert a list and tuple into arrays.
+Write a program to find common values between two arrays.
+EXERCISE 5: Dictionary
+Write a program to count the numbers of characters in the string and store them in a
+dictionary data structure
+Write a program combine_lists into a dictionary.
+EXERCISE 6: Strings
+Write a program to check whether a string starts with specified characters.
+Write a program to check whether a string is palindrome or not
+EXERCISE 7: Strings Continued
+Python program to split and join a string
+Python Program to Sort Words in Alphabetic Order
+EXERCISE 8: Files
+Write a program to print each line of a file in reverse order.
+Write a program to compute the number of characters, words and lines in a file.
+Write a program to count frequency of characters in a given file.
+EXERCISE 9: Functions
+Simple Calculator program by making use of functions
+Find the factorial of a number using recursion
+Write a function dups to find all duplicates in the list.
+Write a function unique to find all the unique elements of a list.
+EXERCISE 10: Functions - Problem Solving
+Write a function cumulative_ product to compute cumulative product of a list of
+numbers.
+Write a function reverse to print the given list in the reverse order.
+Write function to compute GCD, LCM of two numbers
+EXERCISE 11: Multi-D Lists
+Write a program that defines a matrix and prints
+Write a program to perform addition of two square matrices
+Write a program to perform multiplication of two square matrices
+EXERCISE 12: Modules
+Install NumPypackage with pip and explore it.
+EXERCISE 13:
+Write a program to implement Digital Logic Gates – AND, OR, NOT, EX-OR
+Write a program to implement Half Adder, Full Adder, and Parallel Adder
+TEXT BOOKS:
+1. Python Programming: A Modern Approach, Vamsi Kurama, Pearson
+2. Learning Python, Mark Lutz, Orielly
+REFERENCES:
+1. Think Python, Allen Downey, Green Tea Press
+2. Core Python Programming, W. Chun, Pearson
+3. Introduction to Python, Kenneth A. Lambert, Cengage

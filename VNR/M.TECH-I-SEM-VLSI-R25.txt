@@ -1,0 +1,1081 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/syllabus-books/Mtech-R25/M.TECH-I-SEM-VLSI-R25.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. I YEAR COURSE STRUCTURE AND SYLLABUS
+(VLSI SYSTEM DESIGN)
+I SEMESTER R25
+Course
+Course Type Name of the Course L T P Credits
+Code
+Professional
+25PC1VS01 RTL Simulation and Synthesis 3 0 0 3
+Core-I
+Professional
+25PC1VS02 Digital IC Design 3 0 0 3
+Core-II
+Professional
+25PC1VS03 Analog IC Design 3 0 0 3
+Core-III
+Advanced Computer
+25PE1ES01
+Architecture
+25PE1VS01 Full Custom IC Design
+Professional Advanced Digital System
+25PE1VS02 3 0 0 3
+Elective-I Design
+Principles of Quantum
+25PE1VS03
+Computing
+Fundamentals of Machine
+25PE1VS04
+Learning and Deep Learning
+25PE1VS05 SoC Design
+Microchip Fabrication
+25PE1VS06
+Techniques
+Communication Buses and
+Professional 25PE1ES06 3 0 0 3
+Interface
+Elective-II
+Advanced Digital Signal
+25PE1ES07
+Processing
+25PE1VS07 Device Modeling
+Professional RTL Simulation and Synthesis
+25PC2VS01 0 0 2 1
+Core Lab-I Laboratory
+Professional
+25PC2VS02 IC Design Laboratory 0 0 2 1
+Core Lab-II
+Communication English for Academic and
+25SD5EN01 0 0 2 1
+Skills Research Writing
+Project 25PW4VS01 Technical Seminar 0 0 4 2
+Mandatory 25MN6HS01 Research Methodology and IPR 2 0 0 0
+Total 17 0 10 20
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. I YEAR COURSE STRUCTURE AND SYLLABUS
+(VLSI SYSTEM DESIGN)
+II SEMESTER R25
+Course
+Course Type Name of the Course L T P Credits
+Code
+Professional
+25PC1VS04 Mixed Signal IC Design 3 0 0 3
+Core-IV
+Professional Functional Verification using
+25PC1VS05 3 0 0 3
+Core-V System Verilog and UVM
+Professional
+25PC1VS06 VLSI Physical Design 3 0 0 3
+Core-VI
+25PE1VS08 VLSI Design for Testability
+Scripting Languages for Design
+25PE1VS09
+Automation
+Professional Advanced Memory Design and
+25PE1VS10 3 0 0 3
+Elective-III Architectures
+Optimization Techniques in VLSI
+25PE1VS11
+design
+25PE1VS12 High Level Synthesis
+25PE1VS13 Low Power VLSI Design
+Nanomaterials and
+25PE1VS14
+Nanotechnology
+Professional 25PE1ES16 Image and Video Processing 3 0 0 3
+Elective-IV
+25PE1VS15 Micro-Electromechanical Systems
+25PE1VS16 Power Management IC Design
+Professional Mixed Signal IC Design
+25PC2VS03 0 0 2 1
+Core Lab-III Laboratory
+Professional Functional Verification using
+25PC2VS04 0 0 2 1
+Core Lab-IV System Verilog and UVM
+Laboratory
+Industry
+25SD5VS01 Industry Engagement 0 0 2 1
+Engagement
+Project 25PW4VS02 Mini-Project 0 0 4 2
+Mandatory 25MN6HS02 Ancient Wisdom 2 0 0 0
+Total 17 0 10 20
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. II YEAR COURSE STRUCTURE AND SYLLABUS
+(VLSI SYSTEM DESIGN)
+III SEMESTER R25
+Course Course
+Name of the Course L T P Credits
+Type Code
+25PE1VS17 VLSI Signal Processing
+25PE1VS18 RF IC Design
+Professional
+25PE1VS19 Hardware Security in VLSI Design 3 0 0 3
+Elective-V
+Semiconductor Packaging and
+25PE1VS20
+Testing
+25PE1VS21 Reliability of Devices and Circuits
+25OE1CN01 Business Analytics
+25OE1AM01 Industrial Safety
+Open
+25OE1AM02 Operations Research 3 0 0 3
+Elective
+25OE1AM03 Entrepreneurship and Startups
+25OE1PS01 Waste to Energy
+Project 25PW4VS03 Project Part - I 0 0 16 8
+Total 6 0 16 14
+IV SEMESTER R25
+Course Course
+Name of the Course L T P Credits
+Type Code
+Project 25PW4VS04 Project Part - II 0 0 28 14
+Total 0 0 28 14
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC1VS01) RTL SIMULATION AND SYNTHESIS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Basic Concepts of Digital Systems
+COURSE OBJECTIVES:
+• To introduce Verilog HDL for the design and functionality verification of a digital
+circuit
+• To understand the design of data path and control circuits for sequential machines
+• Understand the programmable logic devices and post synthesis tasks.
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Develop the Verilog HDL to design a digital circuit
+CO-2: Understand the concept of Synthesis in digital circuits
+CO-3: Understand the synthesis of state machines and datapath controller
+CO-4: Analyze the CPLD and FPGA Architectures.
+CO-5: Analyze the timing issues in post synthesis process
+UNIT – I:
+Introduction to logic design with Verilog HDL: Design flow for HDL-bascd ASICs,
+Importance of HDLs, Lexical Conventions of Verilog HDL Simulation, types of
+simulation, Structural Models of Combinational Logic, Truth Table Models of
+Combinational and Sequential Logic with Verilog, Behavioral Modeling, Propagation
+Delay and Continuous Assignments, Latches and Level-Sensitive Circuits in Verilog,
+Dataflow/RTL Models, Clock Generators.
+UNIT – II:
+Synthesis of Combinational and Sequential logic: Logic synthesis, RTL Synthesis, High-
+Level Synthesis, Synthesis of combinational logic, Synthesis of Priority Structures, ASIC
+Cells and Resource Sharing, Synthesis of Sequential Logic with Latches, Synthesis of
+flip-flops, Synthesis of three-state devices and bus interfaces.
+UNIT – III:
+Synthesis of State Machines: Design Example: Synthesis of a Mealy Type NRZ to
+Manchester Line Code Converter, Registered logic, State encoding, Synthesis of
+Implicit State Machines, Registers and Counters.
+Design and Synthesis of Datapath Controllers: Partitioned sequential machines, Design
+example: Binary counter, Design and synthesis of a RISC stored-program machine:
+processor, controller, Instruction set.
+UNIT – IV:
+Programmable logic devices– Storage devices: Programmable Logic Devices,
+Storage Devices, Programmable Logic Array (PLA), Programmable Array Logic (PAL),
+Programmability of PLDs, Complex PLDs, Xilinx Cool Runner-2 CPLD, FPGA Design flow,
+programming technologies, Xilinx XC4000, Actel ACT1, ACT2 and ACT3 architectures.
+UNIT – V:
+Post synthesis Tasks: Post-synthesis Design Validation, Post synthesis Timing Verification,
+Elimination of ASIC Timing Violations, False Paths, System Tasks for Timing Verification,
+Boundary Scan and ITAG Ports, JTAG Modes of Operation, JTAG Registers
+TEXT BOOKS:
+1. Michael D. Ciletti, Advanced Digital Design with the VERILOG HDL, 2nd Edition,
+Pearson Education, 2010.
+2. A Guide to Digital Design and Synthesis, Samir Palnitkar, Verilog HDL, 2nd Edition,
+2003
+REFERENCES:
+1. Verilog HDL Synthesis A Practical Primer by Bhasker J, 1st edition, 1998
+2. Field Programmable Gate Arrays, Stephen D. Brown, Robert J. Francis, Jonathan
+Rose, Zvonko G. Vranesic, 2nd Edition, Springer, 1992
+3. Field Programmable Gate Arrays, John V. Old Field, Richrad C. Dorf, Wiley, 2008
+4. Designing with FPGAs & CPLDs, Bob Zeidman, CMP Books, 2002
+5. Digital System Design using VHDL, Charles H.Roth, Jr, Lizy Kurain John, Third edition
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC1VS02) DIGITAL IC DESIGN
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Digital Electronic Circuits
+COURSE OBJECTIVES:
+• To learn various design styles for combinational Circuits
+• To understand the issues in CMOS digital design
+• To design different high performance and low area VLSI circuits
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Analyse static and dynamic behaviour of CMOS inverters using key
+performance metrics.
+CO-2: Design combinational logic circuits using static and dynamic CMOS styles.
+CO-3: Implement various sequential logic elements and pipelining techniques.
+CO-4: Apply custom and semi-custom design methodologies for digital ICs.
+CO-5: Evaluate interconnect effects and apply techniques to reduce parasitic
+impact.
+UNIT-I:
+The CMOS Inverter: Introduction, the static CMOS inverter, Evaluating the robustness
+of the CMOS inverter – static behavior, Performance of CMOS inverter – dynamic
+behavior, Power, energy and energy-delay, Technology scaling and its impact on the
+inverter metrics.
+UNIT-II:
+Designing Combinational Logic Gates in CMOS: Introduction, Static CMOS design –
+complementary CMOS, ratioed logic, pass-transistor logic, Dynamic CMOS design –
+basic principles, speed and power dissipation of dynamic logic, Issues in dynamic
+design, cascading dynamic gates, Choosing a logic style, Designing logic for reduced
+supply voltage.
+UNIT-III:
+Designing Sequential Logic Circuits: Introduction – timing metrics for sequential
+circuits, Classification of memory elements, Static latches and registers – bistability
+principle, multiplexer-based latches, master-slave edge-triggered register, Low-
+voltage static latches, static SR flip-flops, Dynamic latches and registers – transmission
+gate edge-triggered registers, C2MOS, TSPCR, Pipelining – latch vs. register-based
+pipelines, NORA-CMOS
+UNIT-IV:
+Implementation Strategies for Digital ICs: Introduction, From custom to semi-custom
+and structured array design approaches, Custom circuit design, Cell-based design
+methodology, Array-based implementation approaches.
+UNIT-V:
+Coping with Interconnect: Introduction, Capacitive parasitics-capacitance and
+Reliability, Performance in CMOS, Resistive parasitics-Resistance and Reliability,
+Electromigration, Performance- RC Delay, Inductive parasitics-Reliability,
+Performance, Advanced interconnect techniques.
+TEXT BOOKS:
+1. Digital Integrated Circuits–A Design Perspective, Jan M. Rabaey, Anantha
+Chandrakasan, Borivoje Nikolic, 2nd Ed., PHI, 2002
+REFERENCES:
+1. CMOS Digital Integrated Circuits Analysis and Design, Sung-Mo Kang, Yusuf
+Leblebici, TMH, 3rd Ed., 2011
+2. Digital Integrated Circuit Design, Ken Martin, Oxford University Press, 2011
+3. Introduction to VLSI Systems: A Logic, Circuit and System Perspective, Ming-BO Lin,
+CRC Press, 2011
+4. CMOS: Circuit Design, Layout and Simulation- Baker, Li and Boyce, PHI.
+5. CMOS Analog IC Design: Fundamentals, Erik Brunn
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC1VS03) ANALOG IC DESIGN
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Knowledge of Analog Electronics
+COURSE OBJECTIVES:
+• To learn the device physics of MOS transistor
+• To study analog CMOS sub circuits and amplifiers
+• To know the design of feedback circuits
+• To discuss the design of CMOS operational amplifiers
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply MOS device characteristics and second-order effects to analog circuit
+analysis
+CO-2: Design single-stage MOS amplifier configurations for specific gain and
+impedance requirements
+CO-3: Analyze the performance of differential amplifiers under common-mode and
+differential-mode operation
+CO-4: Apply current mirror topologies to design biasing circuits in CMOS analog
+design
+CO-5: Compare operational amplifier topologies considering gain, bandwidth, and
+power trade-offs
+UNIT-I:
+MOS Device Physics and Models: Introduction to analog design, MOS device physics
+– General Considerations, MOS I/V Characteristics, Second-Order Effects, MOS Device
+Models.
+UNIT-II:
+Single Stage Amplifiers: General Considerations, Common-Source Stage with resistive-
+load and diode-connected load, Source Follower, Common-Gate Stage.
+UNIT-III:
+Differential Amplifiers: Single-Ended and Differential Operation, Basic Differential Pair,
+Common-Mode Response, Differential Mode with MOS Loads, Gilbert Cell.
+UNIT-IV:
+Passive and Active Current Mirrors: Basic Current Mirrors, Cascode Current Mirrors,
+Active Current Mirrors
+UNIT-V:
+Operational Amplifiers: General Considerations, One-Stage Op Amps, Two-Stage Op
+Amps, Gain Boosting, Comparison.
+TEXT BOOKS:
+1. Design of Analog CMOS Integrated Circuits- Behzad Razavi, TMH Edition.
+2. CMOS Analog Circuit Design - Philip E. Allen and Douglas R. Holberg, Oxford
+University Press, International Second Edition/Indian Edition, 2010.
+3. Analysis and Design of Analog Integrated Circuits- Paul R. Gray, Paul J. Hurst, S.
+Lewis and R. G. Meyer, Wiley India, Fifth Edition, 2010.
+REFERENCES:
+1. Analog Integrated Circuit Design- David A. Johns, Ken Martin, Wiley Student Edn,
+2013
+2. CMOS: Circuit Design, Layout and Simulation- Baker, Li and Boyce, PHI
+3. CMOS Analog IC Design: Fundamentals, Erik Brunn
+4. Introduction to VLSI Systems: A Logic, Circuit and System Perspective, Ming-BO Lin,
+CRC Press, 2011
+5. Principles of CMOS VLSI Design, Neil H. E. Weste and Kamran Eshraghian, 2nd
+Edition, Addition Wesley, 1998
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1ES01) ADVANCED COMPUTER ARCHITECTURE
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the fundamentals of computer design
+• To know the pipelines and parallelism concepts
+• To know the issues in interconnect networks
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Familiarize the instruction set, memory addressing of Computer
+CO-2: Handle the issues in pipelining
+CO-3: Analyze different software approaches in parallelism
+CO-4: Understand the mechanism of multi-processor and thread level parallelism.
+CO-5: Familiarize the practical issues in inter network
+UNIT – I:
+Fundamentals of Computer Design: Fundamentals of Computer design, Changing
+faces of computing and task of computer designer, Technology trends, Cost price
+and their trends, measuring and reporting performance, quantitative principles of
+computer design, Amdahl’s law. Instruction set principles and examples- Introduction,
+classifying instruction set- memory addressing- type and size of operands, operations
+in the instruction set.
+UNIT – II:
+Pipelines: Introduction, basic RISC instruction set, Simple implementation of RISC
+instruction set, Classic five stage pipe line for RISC processor, Basic performance issues
+in pipelining, Pipeline hazards, Reducing pipeline branch penalties.
+Memory Hierarchy Design: Introduction, review of ABC of cache, Cache
+performance, Reducing cache miss penalty, Virtual memory.
+UNIT – III:
+Instruction Level Parallelism the Hardware Approach: Instruction-Level parallelism,
+Dynamic scheduling, Dynamic scheduling using Tomasulo’s approach, Branch
+prediction, high performance instruction delivery- hardware based speculation.
+ILP Software Approach: Basic compiler level techniques, static branch prediction,
+VLIW approach, Exploiting ILP, Parallelism at compile time, Cross cutting issues -
+Hardware verses Software.
+UNIT – IV:
+Multi Processors and Thread Level Parallelism: Multi Processors and Thread level
+Parallelism- Introduction, Characteristics of application domain, Systematic shared
+memory architecture, Distributed shared – memory architecture, Synchronization.
+UNIT – V:
+Inter Connection and Networks: Introduction, Interconnection network media,
+Practical issues in interconnecting networks, Examples of inter connection, Cluster,
+Designing of clusters.
+Intel Architecture: Intel IA- 64 ILP in embedded and mobile markets Fallacies and pit
+falls
+TEXT BOOKS:
+1. Computer Architecture: A Quantitative Approach, John L. Hennessy, David A.
+Patterson, 3rd Edition, Elsevier
+2. Microprocessor Architecture, Programming, and Applications with the
+8085Ramesh S. Gaonkar Pub: Penram International
+3. Modern Processor Design: Fundamentals of Super Scalar Processors, John P. Shen
+and Miikko H. Lipasti, 2002, Beta Edition, McGraw-Hill
+REFERENCES:
+1. Computer Architecture and Parallel Processing, Kai Hwang, Faye A.Brigs., Mc
+Graw Hill
+2. Advanced Computer Architecture - A Design Space Approach, DezsoSima,
+Terence Fountain, Peter Kacsuk, Pearson Education
+3. Computer Organization and Architecture – William Stallings Sixth Edition, Pearson
+4. Structured Computer Organization – Andrew S. Tanenbaum, 4th Edition PHI
+5. Fundamentals of Computer Organization and Design - Sivaraama Dandamudi
+Springer Int. Edition
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1VS01) FULL CUSTOM IC DESIGN
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To discuss the full custom IC Design flow
+• To understand various types of ASIC cell design techniques
+• To understand Physical design phases of ASIC
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand different types of ASICs and the ASIC design flow.
+CO2: Design CMOS logic cells for combinational, sequential, and datapath circuits.
+CO3: Apply techniques to optimize CMOS circuit performance and reduce power
+consumption.
+CO4: Perform floor planning and placement for efficient ASIC layout.
+CO5: Implement global and detailed routing methods for ASIC interconnect design.
+UNIT-I:
+Introduction to ASICs: Types of ASICs: Full-custom ASIC: Standard cell based ASICs,
+Gate array based ASICs, Structured gate array based ASICs, Programmable logic
+devices, Field Programmable gate arrays, ASIC Design flow.
+UNIT -II
+Design of CMOS logic cells: CMOS Logic, Combinational Logic cells: Pushing bubbles,
+Drive strength, Transmission gates, Exclusive OR cells. Sequential logic cells: Latch, Flip
+Flop, Clocked Inverter. Data path logic cells: Data path elements, adders: Ripple carry
+adder, Carry save adder, array multiplier, other data path operators, I/O cell.
+UNIT-III:
+High performance Design techniques: Static Properties of Complementary CMOS
+Gates, Design considerations, Design Techniques for Large Fan-in, Transistor Sizing for
+Performance in Combinational Networks: Logical effort of complex gates, sizing
+combinational logic for minimum delay, Power Consumption in CMOS Logic Gates,
+Power Dissipation of Basic Logic Gates, Design Techniques to Reduce Switching
+Activity.
+UNIT-IV:
+Floor planning & Placement: Floor Planning Goals and Objectives, Terminology and
+Floorplan Representation, Floor planning Tools, Channel definition, I/O and Power
+planning, Clock planning.
+Placement: Placement terms and definitions, placement goals and objectives, Circuit
+Representation, Wire-length Estimation, Types of Placement Problems, Placement
+Algorithms: Constructive Placement, Iterative Improvement.
+UNIT-V:
+Routing: Global routing: Introduction to global routing, Goals and Objectives,
+Measurement of interconnect delay, Global routing methods: Global routing
+between blocks, Global routing inside flexible blocks.
+Detailed routing: Introduction to detailed routing, Channel routing terminology, Goals
+and Objectives, Measurement of channel density, Algorithms: Left edge algorithm,
+Constraints and routing graphs, Area routing algorithm
+TEXT BOOKS:
+1. Application Specific Integrated Circuits, J. S. Smith, Addison Wesley, 1997
+2. Digital Intigrated circuit, A design perspective, JAN M Rabaey, PRENTICE HALL
+ELECTRONICS AND VLSI SERIES CHARLES G. SOOINI, SERIES EDITOR.
+3. Algorithms for VLSI Design Automation, Sabih H. Gerez,Sabih H. John Wiley & Sons
+Ltd.
+REFERENCES:
+1. Handbook of Digital CMOS Technology,Circuits, and Systems, Karim Abbas,
+springer Springer Nature Switzerland AG 2020
+2. Introduction to VLSI System, C. Mead & L. Canway, Addison Wesley Pub, 1980
+3. Introduction to NMOS & VLSI System Design, A. Mukharjee, Prentice Hall, 2015
+4. The Design & Analysis of VLSI Circuits, L. A. Glassey& D. W. Dobbepahl, Addison
+Wesley Pub Co. 1985
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1VS02) ADVANCED DIGITAL SYSTEM DESIGN
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To introduce the fundamental concepts of digital logic design
+• To analyze combinational and sequential circuit design concepts
+• To analyze and design clocked sequential circuits
+• To impart knowledge on designing complex digital systems
+• To understand various verification methods of digital systems.
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the digital concepts of logic circuits.
+CO-2: know the concepts of combinational and sequential circuits.
+CO-3: Analyze clocked sequential circuits and their designs.
+CO-4: Design iterative and control circuits using SM charts
+CO-5: Know various verification approaches of digital systems.
+UNIT – I:
+Review of Logic Design Fundamentals: Combinational logic, Algebraic simplifications,
+Representation of combinational logic: Adders, Sum-of-Products Representation,
+Product-of-Sums Representation, Karnaugh Maps, Hazards in combinational logic,
+Elimination of Static Hazards in Two-Level Circuits, Dynamic Hazard.
+UNIT – II:
+Combinational circuits: Designing with NAND-NOR gates, Multiplexers, Demultiplexers,
+encoder/ Decoder, Sequential Circuits: Flip-Flops and Latches, Registers, Introduction
+to Mealy and Moore Circuits, Sequential Circuit Timing, Propagation Delays: Setup
+and Hold Times, Tristate Logic and Buses, types of tristate buffers, data transfer using
+tristate buffers.
+UNIT – III:
+Analysis and derivation of clocked sequential circuits: A sequential parity checker,
+Analysis by signal tracing and timing charts, state tables and graphs, equivalent states,
+State Reduction and assignment, Analysis of clocked sequential circuits, Design of a
+sequence detector with Mealy and Moore machines, More Complex design
+problems, serial data code conversion.
+UNIT – IV:
+Design of Sequential Circuit: Design procedure for sequential circuits, design example,
+Code converter, Design of Iterative circuits, Design of a comparator
+Digital design with SM Charts: Components of SM Charts, Rules to construct an SM
+Block, Conversion of state graph to an SM Chart, Add and Shift multiplier, SM chart for
+binary multiplier, realization and implementation of binary multiplier.
+UNIT-V:
+Verification of Digital Systems: Importance of Verification, Verification Terminology,
+Functional Verification, Timing Verification, Static Timing Analysis for Circuits with no
+Skew, Static Timing Analysis for Circuits with Clock Skew, Glitches in Sequential Circuits,
+Clock Gating, Control signal gating, Power gating.
+TEXT BOOKS:
+1. Digital Systems Design Using VHDL, Charles H. Roth, Jr., Lizy Kurian John, 2018
+Cengage Learning
+2. Fundamentals of Logic Design, Charles H.ROTH, JR., Larry L. Kinney, 6th edition,
+Cengage Learning,2010
+3. Advanced digital design with the Verilog HDL, Michael Ciletti Second Edition,
+REFERENCES:
+1. Digital Design, Third Edition, M.Morris Mano, Pearson Education/PHI.
+2. Modern Digital Electronics, R. P. Jain, Tata McGraw-Hill, 4th Edition, 2009
+3. Switching and Finite Automata Theory by ZviKohavi, Tata McGraw-Hill.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1VS03) PRINCIPLES OF QUANTUM COMPUTING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To Understand the fundamental concepts of quantum mechanics and qubits,
+• To Explore multi-qubit systems, quantum protocols, measurement techniques, and
+quantum entanglement principles.
+• To Learn key quantum algorithms, quantum circuits, error correction, and practical
+aspects of quantum computation and cryptography.
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the principles of quantum computation qubit
+CO-2: Analyze multi-qubit systems and protocols
+CO-3: Apply quantum measurement and entanglement concepts
+CO-4: Explain quantum parallelism and implement fundamental quantum algorithms.
+CO-5: Design and implement quantum algorithms and circuits
+UNIT – I:
+Review of Quantum Mechanics and Motivation for Quantum Computation Qubit: The
+qubit state - matrix and Bloch sphere representation - computational basis unitary
+evolution
+UNIT – II:
+Multi-qubit states - No-cloning theorem - Superdense coding - Pure states to Bell states
+– Bell inequalities. Protocols with multi-qubits: Swapping - Teleportation - gates: CNOT
+- Toffoli gate - NAND - FANOUT - Walsh Hadamard.
+UNIT – III:
+Measurement: Projective operators - General, Projective and POVM measure,
+Ensemble: Density operators - pure and mixed ensemble - time evolution – post
+measurement density operator. Composite systems: Partial trace - Reduced density
+operator - Schmidt decomposition, Purification bipartite entanglement.
+UNIT – IV:
+Quantum computing: Classical computing using qubits - Quantum parallelism -
+Deutsch's algorithm - Deutsch Josza algorithm.
+UNIT – V:
+Quantum circuits: Basic gates - ABC decomposition - Gray codes - Universal gates -
+Principle of deferred and implicit measurements - Quantum Fourier transform -
+applications: phase estimation, order finding - factoring, discrete logarithm and
+hidden subgroup problems - Role of prime factoring in classical cryptography - search
+algorithms. Quantum error correcting codes, Physical realization of qubits.
+TEXT BOOKS:
+1. M. A. Nielsen and I. L. Chuang, Quantum Computation and Quantum Information,
+Cambridge University Press, 2010, 10th Anniversary Edition
+2. Chris Bernhardt, Quantum Computing for Everyone, The MIT Press, 2019.
+3. Ray LaPierre, Introduction to Quantum Computing, Springer, 2021.
+REFERENCES:
+1. Quantum Theory: Concepts and Methods, Asher Peres, Kluwer Academic
+Publishers, 1993.
+2. Fundamentals of Quantum Computing: Theory and Practice, Venkateswaran
+Kasirajan, Springer, 2021.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1VS04) FUNDAMENTALS OF MACHINE LEARNING AND DEEP LEARNING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To provide a comprehensive understanding of machine learning fundamentals
+and techniques
+• To build competency in neural networks and deep learning architectures
+• To develop the ability to apply machine learning and deep learning approaches
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Explain the fundamental concepts, issues, and evaluation strategies in machine
+learning.
+CO-2: Apply supervised and unsupervised learning algorithms for regression,
+classification, and clustering tasks.
+CO-3: Analyze neural network architectures, training methods, and regularization
+techniques for effective learning.
+CO-4: Design convolutional neural networks using various layers, filters, and popular
+deep learning architectures.
+CO-5: Evaluate sequence modeling approaches such as RNNs, LSTMs, and GRUs for
+temporal and sequential data problems.
+UNIT-I:
+Machine Learning Basics: Basic definitions, Issues in Machine Learning, Types of
+Machine Learning,, cross-validation ,overfitting and underfitting, estimators, bias and
+variance, , Applications of Machine Learning, challenges motivating deep learning.
+Linear Regression: Introduction, Linear Models for Regression.
+UNIT-II:
+Supervised Learning (Regression/Classification): Introduction, Nearest-Neighbours,
+Decision Trees, Bayes Rule& Naive Bayes, Logistic Regression, Support Vector
+Machines
+Unsupervised Learning:
+Clustering: Introduction, K-mean clustering, Hierarchical clustering, Agglomerative
+clustering.
+UNIT-III:
+Neural network: Perceptron, multilayer network, Gradient Descent, backpropagation,
+Vanishing & exploding gradient problem, Empirical Risk Minimization, regularization.
+Training of Neural Networks: Optimization methods, AdaGrad, AdaDelta, RMSProp,
+ADAM, NAG, Saddle point problem in neural networks. Regularization Techniques: L1,
+L2, Early Stopping, Dropout, Batch Normalization, RBF Neural Network, Applications
+UNIT-IV:
+Convolutional Neural Networks (CNNs): CNN Architecture and Operations
+Convolution Operation, Different Kinds of Filters Edge Detection, Down Sampling,
+Pooling, Padding, Fully Connected Layer, Different Activation Functions, Popular CNN
+Architectures. AlexNet, VGGNet, GoogleNet, and ResNet.
+UNIT-V:
+Sequence Modeling: Recurrent and Recursive Nets, Recurrent Neural Networks,
+Recursive Neural Networks, RNN vs CNN, Back propagation through time, Long Short-
+Term Memory, optimization for long-term dependencies. Gated Recurrent Units,
+Bidirectional LSTMs.
+TEXT BOOK:
+1. Deep Learning, Goodfellow Ian, Yoshua Bengio and Aaron Courville, MIT Press,
+2016
+REFERENCES:
+1. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, Géron,
+Aurélien, 2nd Edition, O'Reilly Media, 2019
+2. Pattern Recognition and Machine Learning, Bishop Christopher M., Springer, 2006
+3. Deep Learning with Python, Chollet François, 2nd Edition, Manning Publications,
+2021
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1VS05) SOC DESIGN
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To learn ASIC design concepts and strategies
+• To know the NISC applications and advantages
+• To familiar with simulation and synthesis process
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Illustrate SoC based design
+CO-2: Describe the SOC Constituents
+CO-3: Differentiate simulation models
+CO-4: Apply synthesis optimization techniques
+CO-5: Apply Verification and testing techniques
+UNIT – I:
+Introduction to SOC: Overview of ASIC types, design strategies, CISC, RISC and NISC
+approaches for SOC, Architectural issues and its impact on SoC design
+methodologies, Application Specific Instruction Processor (ASIP) concepts. SOC
+Design Flow
+UNIT – II:
+SOC Constituents: Embedded Processor Subsystem for System on Chip, Embedded
+Memories, Protocol Blocks, Mixed Signal Blocks, RF Control Blocks, Analog Blocks, Third-
+Party IP Cores, System Software,
+UNIT – III:
+SoC simulation methodology
+Simulation: Different simulation modes, behavioral, functional, static timing, gate level,
+switch level, transistor/circuit simulation, design of verification vectors, Reconfigurable
+systems, SoC related modeling of data path design and control logic, Minimization of
+interconnects impact.
+UNIT – IV:
+SOC Synthesis- SOC synthesis flow, Design Rule Constraints (DRC), SOC Design
+Synthesis, High Fanout Nets (HFNs), Low-Power Synthesis, Reports.
+Static Timing Analysis (STA) - SOC Timing Analysis, Timing Definition, Timing Delay
+Calculation Concepts, Timing Analysis, Modelling Process, Voltage, and Temperature
+Variations, Timing and Design Constraints, Challenges of STA During SOC design
+UNIT – V:
+SOC Design Testing and verification
+SOC Design for Testability (DFT): DFT flow in SOC design, DFT Logic Insertion
+Techniques, On-SOC Clock Generation (OSCG) Insertion, Challenges in SOC DFT,
+SOC Design Verification: Verification Plan and Strategies, Verification Plan, Functional
+Verification, Verification Methods, Design for Verification, Verification Tools,
+SOC Packaging: Criteria for Selection of Packages, Package Assembly Flow,
+Packaging Technology
+TEXT BOOKS:
+1. A practical approach to VLSI system on chip (SoC) design, Chakravarthi, Veena S.
+Springer International Publishing, 2020
+2. Digital Integrated Circuit Design: From VLSI Architectures to CMOS Fabrication,
+Hubert Kaeslin, Cambridge University Press, 2008
+3. System on chip-Next generation electronics, B. Al Hashimi, The IET, 2006
+REFERENCES:
+1. System-on- a-chip: Design and test, Rochit Rajsuman, Advantest America R & D
+Center, 2000
+2. Processor Description Languages, P Mishra and N Dutt, Morgan Kaufmann, 2008
+3. Computer System Design: System-on-Chip, Michael J. Flynn and Wayne Luk, Wiley,
+2011
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1VS06) MICROCHIP FABRICATION TECHNIQUES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To provide foundation in MOS and CMOS fabrication process
+• To know different lithography methods and etching process
+• To study various deposition and diffusion mechanisms
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Describe the semiconductor industry landscape and explain the properties of
+semiconductor materials and wafer preparation techniques.
+CO-2: Outline the wafer fabrication process and apply contamination control and
+productivity improvement methods.
+CO-3: Demonstrate understanding of lithography and patterning processes used in
+semiconductor manufacturing.
+CO-4: Explain advanced lithography techniques, doping processes, and thin-film
+deposition methods for device fabrication.
+CO-5: Analyze metallization techniques, device evaluation procedures, packaging
+methods, and the business considerations of wafer fabrication.
+UNIT-I:
+Semiconductor Industry and Materials: The Semiconductor Industry, Properties of
+Semiconductor Materials and Chemicals, Crystal Growth and Silicon Wafer
+Preparation
+UNIT-II:
+Wafer Fabrication and Contamination Control: Overview of Wafer Fabrication,
+Contamination Control, Productivity and Process Yields, Oxidation
+UNIT-III:
+Lithography Processes – Patterning Steps: The Ten-Step Patterning Process — Surface
+Preparation to Exposure, The Ten-Step Patterning Process — Developing to Final
+Inspection
+UNIT-IV:
+Advanced Lithography, Doping, and Deposition: Advanced Photolithography
+Processes, Doping, Layer Deposition
+UNIT-V:
+Metallization, Device Evaluation, Business, and Packaging: Metallization, Process and
+Device Evaluation, The Business of Wafer Fabrication, Introduction to Devices and
+Integrated Circuit Formation, Introduction to Integrated Circuits, Packaging
+TEXT BOOKS:
+1. Van Zant, Peter. Microchip Fabrication: A Practical Guide to Semiconductor
+Processing. 6th ed., McGraw-Hill, 2014.
+REFERENCES:
+1. Ghandhi, Sorab K. VLSI Fabrication Principles: Silicon and Gallium Arsenide. 2nd ed.,
+Wiley, 1994.
+2. Sze, Simon M., and Kwok K. Ng. Physics of Semiconductor Devices. 3rd ed., Wiley-
+Interscience, 2006.
+3. Streetman, Ben G., and Sanjay Banerjee. Solid State Electronic Devices. 7th ed.,
+Pearson, 2014.
+4. Wolf, Stephen, and Richard N. Tauber. Silicon Processing for the VLSI Era. Vol. 1,
+Lattice Press, 1986.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(25PE1ES06) COMMUNICATION BUSES AND INTERFACES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To know how to select the suitable Buses for different applications
+• To know the architecture of CAN and applications
+• To understand the use of PCIe, USB etc.,
+• To know the serial communication protocol
+COURSE OUTCOMES: After completion of the course, the students should be able to
+CO-1: Understand serial communication interfaces
+CO-2: Understand CAN protocol architecture and its applications.
+CO-4: Analyze PCI Express architecture and its evolution.
+CO-4: Understand USB architecture and device drivers.
+CO-5: Analyze SFPDP protocol architecture and applications.
+UNIT–I:
+Serial Communication-Physical interface, Data and Control signals, Features,
+Limitations and Applications of RS-232, RS-485, I²C (Inter-Integrated Circuit), SPI (Serial
+Peripheral Interface)
+UNIT–II:
+CAN – Architecture, Node Structure, Data transmission mechanisms, CAN Layers,
+Frame formats, Error detection and fault confinement, Applications in automotive and
+industrial systems
+UNIT–III:
+PCI Express(PCIe) - PCIe evolution and revisions, Architecture, Configuration space
+and registers, Hardware protocols, Applications
+UNIT–IV:
+USB – Hosts and Devices, Transfer types, Enumeration process, Descriptor types and
+contents, Device drivers
+UNIT–V:
+Data Streaming Serial Communication Protocol - Serial Front Panel Data Port (SFPDP)
+- Architecture and Operation, Transmission Media, Protocol Features, Applications
+TEXT BOOKS:
+1. Serial Port Complete - COM Ports, USB Virtual Com Ports, and Ports for Embedded
+Systems, Jan Axelson, 2nd Edition, Lakeview Research
+2. USB Complete, Jan Axelson, Penram Publications 3. PCI Express Technology, Mike
+Jackson, Ravi Budruk, Mindshare Press
+REFERENCES:
+1. A Comprehensible Guide to Controller Area Network, Wilfried Voss, 2nd Edition,
+Copperhill Media Corporation, 2005
+2. Serial Front Panel Draft Standard VITA 17.1 –200x
+3. Technical references http://www.pcisig.com/www.pcisig.com,
+4. http://www.usb.org/www.usb.org onwww.can-cia.org,
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1ES07) ADVANCED DIGITAL SIGNAL PROCESSING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Knowledge of Digital Filter Design techniques, Digital Signal
+Processing techniques
+COURSE OBJECTIVES:
+• To introduce the principles of Multi-rate digital signal processing and its
+implementation
+• To provide ability to compute the power spectrum of the given discrete signal
+• To understand various sources of errors affecting the performance of a DSP system
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Appreciate the design of multi rate DSP systems
+CO-2: Analyze the non-parametric methods of power spectrum estimation of the
+given signal
+CO-3: Analyze the parametric methods of power spectrum estimation of the given
+signal
+CO-4: Understand the Design of optimum linear filters for signals corrupted with
+additive noise
+CO-5: Understand the concept of adaptive filters
+UNIT-I:
+Review of DFT, FFT, IIR Filters, FIR Filters: Multi-rate Signal Processing: Introduction,
+Decimation by a factor D, Interpolation by a factor I, Sampling rate conversion by a
+rational factor I/D, Multistage Implementation of Sampling Rate Conversion, Filter
+design &Implementation for sampling rate conversion, Applications of Multi-rate
+Signal Processing.
+UNIT-II:
+Non-Parametric Methods of Power Spectral Estimation: Estimation of spectra from
+finite duration observation of signals, Non-parametric Methods: Bartlett, Welch &
+Blackman & Tukey methods, Comparison of all Non-Parametric methods
+UNIT-III:
+Parametric Methods of Power Spectrum Estimation: Autocorrelation & Its Properties,
+Relation between auto correlation & model parameters, AR Models - Yule-Waker &
+Burg Methods, MA & ARMA models for power spectrum estimation.
+UNIT-IV:
+Linear Prediction and Optimum Linear Filters: Forward and Backward Linear Prediction
+– Forward Linear Prediction, Backward Linear Prediction, Optimum reflection
+coefficients for the Lattice Forward and Backward Predictors. Solution of the Normal
+Equations: Levinson Durbin Algorithm, Schur Algorithm. Properties of Linear Prediction
+Filters. FIR Wiener Filter, Orthogonality Principle in Linear Mean -Square Estimation.
+UNIT-V:
+Adaptive Filters: Gradient search Approach, Least Mean Square Algorithm, Recursive
+Least Squares, Kalman Filters Innovations Process, Estimation of the State Using the
+Innovations Process, Kalman Filter as the Unifying Basis for RLS Filters. Applications of
+Adaptive Filters- System Identification or System Modelling, Adaptive Channel
+Equalization, Echo Cancellation in Data Transmission over Telephone Channels,
+Adaptive Noise Cancelling.
+TEXT BOOKS:
+1. Digital Signal Processing: Principles, Algorithms & Applications, J. G. Proakis & D. G.
+Manolokis, 4th Ed., PHI, 2001
+2. Adaptive Filter Theory, S. Haykin Pearson, 2003
+3. DSP–A Practical Approach, Emmanuel C. I. feacher, Barrie. W. Jervis, 2nd Ed.,
+Pearson Education, 2008
+REFERENCES:
+1. Modern Spectral Estimation: Theory & Application, S. M. Kay, 1988, PHI
+2. Multirate Systems and Filter Banks, P. P. Vaidyanathan, Pearson Education, 1993
+3. Digital Signal Processing, S. Salivahanan, A. Vallavaraj, C.Gnanapriya, 2000, TMH
+4. Multirate Systems and Filter Banks, P. P. Vaidyanathan, Pearson Education, 1993
+5. Digital Signal Processing, S. Salivahanan, A. Vallavaraj, C.Gnanapriya, 2000, TMH
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1VS07) DEVICE MODELING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Electronic Devices and Circuits
+COURSE OBJECTIVES:
+• To study the operation of semiconductor devices
+• To understand advanced semiconductor devices and technologies
+• To learn various models of semiconductor devices
+• To understand the BJT, MOSFET and other semiconductor devices from the device
+modeling perspective
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Analyze and describe the characteristics of passive components
+CO-2: Understand the development of Integrated Diodes and Bipolar Transistors
+CO-3: Implement various device models in spice simulation
+CO-4: Understand the modelling of MOS Transistor in VLSI applications
+CO-5: Learn the Modeling of Hetero Junction Devices and fabrication techniques in
+VLSI
+UNIT-I:
+Introduction to Semiconductor Physics: Review of Quantum Mechanics, Boltzman
+transport equation, Continuity equation, Poisson equation.
+Integrated Passive Devices: Types and Structures of resistors and capacitors in
+monolithic technology, Dependence of model parameters on structures
+UNIT-II:
+Integrated Diodes: Junction and Schottky diodes in monolithic technologies – Static
+and Dynamic behavior – Small and large signal models – SPICE models
+Integrated Bipolar Transistor: Types and structures in monolithic technologies – Basic
+model (Eber-Moll) – Gunmel- Poon model dynamic model, Parasitic effects – SPICE
+model–Parameter extraction
+UNIT-III:
+Bipolar Junction Transistors: Structure of a BJT, carrier statistics in base, emitter,
+collector, figures of merit, basic principle of operation, long base transistor, short base
+transistor, analysis of ideal diffusion transistor, Ebers-Moll model
+Bipolar Device Design: Design of the emitter design, Design of the base region, Design
+of the collector design, Modern bipolar transistor structures.
+UNIT-IV:
+Integrated MOS Transistor: NMOS and PMOS transistor, Threshold voltage, Threshold
+voltage equations, MOS device equations, Basic DC equations second order effects,
+MOS models, small signal AC characteristics, MOSFET SPICE model level 1, 2, 3 and 4.
+UNIT-V:
+VLSI Fabrication Techniques: An overview of wafer fabrication, Wafer Processing,
+Oxidation, Patterning, Diffusion, Ion Implantation, Deposition, Silicon gate NMOS
+process, CMOS processes, n-well- p-well- twin tub- Silicon on insulator, CMOS process
+enhancements, Interconnects circuit elements.
+Modeling of Hetero Junction Device: Band gap Engineering, Band gap Offset at
+abrupt Hetero Junction, Modified current continuity equations, Hetero Junction
+bipolar transistors (HBTs), SiGe
+TEXT BOOKS:
+1. Introduction to Semiconductor Materials and Devices, Tyagi M. S., John Wiley
+Student Edition, 2008
+2. Solid State Circuits, Ben G. Streetman, Prentice Hall, 1997
+3. Physics of Semiconductor Devices, Sze S. M., 2nd Edition, McGraw-Hill, New York,
+1981
+REFERENCES:
+1. Introduction to Device Modeling and Circuit Simulation, Tor A. Fijedly, Wiley-Inder
+science, 1997
+2. Introduction to VLSI Systems: A Logic, Circuit and System Perspective, Ming-BO Lin,
+CRC Press, 2011
+3. Introduction to NMOS & VLSI System Design, A. Mukharjee, Prentice Hall, 2015
+4. The Design & Analysis of VLSI Circuits, L. A. Glassey& D. W. Dobbepahl, Addison
+Wesley Pub Co. 1985
+5. Digital Integrated Circuits: A Design Perspective, Jan A. Rabey, Prentice Hall of
+India Pvt Ltd, 2002
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC2VS01) RTL SIMULATION AND SYNTHESIS LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE PRE-REQUISITES: Digital Concepts, Programming Knowledge
+COURSE OBJECTIVES:
+• To provide familiarity with hardware description language Verilog HDL for
+modelling of combinational and sequential circuits
+• To understand the role of a functional simulator in validating the functionality of
+designed circuits
+• To understand the Synthesis of a designed digital circuit
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply CAD tools for the design of digital circuits
+CO-2: Appreciate the process of synthesizing a given digital circuit
+CO-3: Generate the netlist files and analyze the device utilization summary
+CO-4: Implement the specified digital circuits using an FPGA
+CO-5: Develop the VLSI applications using Verilog HDL
+LIST OF EXPERIMENTS:
+Implementation of the following designs on FPGA kits.
+1. Basic Logic Gates
+2. 4-bit Adder/Subtractor
+3. 4x1 Multiplexer and 1x4 Demultiplexer
+4. 2 to 4 Decoder and 4 to 2 encoder
+5. 2-bit Comparator Design (2-bit or 4-bit):
+6. Interfacing a Seven-Segment Display with an FPGA
+7. Clocked Latches and Flip-Flops
+8. Shift registers
+9. 4-bit Synchronous Counter
+10. Sequence Detector using Moore or Mealy FSMs
+11. ALU Supporting Basic Operations (ADD, SUB, AND, OR, NOT)
+12. Traffic Light Controller using FSM
+13. PWM Signal Generation
+14. Real-Time Clock Design and Display using FPGA
+15. Serial Input with UART Receiver (Basic)
+16. Digital Filters (FIR/IIR)
+17. LED Blinking
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC2VS02) IC DESIGN LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To learn the design procedure of digital circuits using EDA tools
+• To understand the design of analog circuit using EDA tools
+• To understand the sizing of transistors for accurate designs
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Design digital circuit using CMOS and other logic styles
+CO-2: Compare various designs with respect to performance metrics
+CO-3: Design Analog Circuits using CMOS Logic
+CO-4: Use EDA tools like Synopsys, Mentor Graphics and other open-source software
+tools like Hspice
+CO-5: Develop the circuits and applications using CMOS technology
+LIST OF EXPERIMENTS:
+Implementation of the following designs using CAD Tools:
+Cycle-1
+1. Measure Voltage Transfer Characteristic (VTC) of CMOS Inverter
+2. Design and Simulate CMOS Logic Gates
+3. Verify the functionalities of dynamic, domino, C2MOS and NPCMOS logics
+4. Design and Simulate CMOS 1-bit Full adder
+5. Design and Simulate clocked latches and flip flop circuits
+6. Design and Simulate SRAM memory cells and verify its functionality
+Cycle-2
+1. MOSFET I-V Characteristics Simulation
+2. Design and simulation of Common source amplifier with resistive load
+3. Design and Simulation of Common-Source Amplifier with Diode-Connected Load
+4. Design and Simulation of Single stage differential amplifier
+5. Design and Simulation of Differential Pair with Resistive Load
+6. Design and Simulation of Differential Pair with with MOS Current Mirror Load
+7. Design and Simulation of Wilson current mirror
+8. Design of single stage Operational amplifier
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25SD5EN01) ENGLISH FOR ACADEMIC AND RESEARCH WRITING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE PRE-REQUISITES: Undergraduate level English Proficiency
+COURSE OBJECTIVES:
+• To equip with an understanding of the mechanics and conventions of academic
+and research writing, including cohesion and coherence, to produce texts that
+demonstrate precision and clarity
+• To enable to present focused, logical arguments that support a thesis
+• To empower to find, analyze, evaluate, summarize, and synthesize appropriate
+source material for literature review
+• To enable to use appropriate language to analyze and interpret the data, and
+prepare an outline
+• To enable to become adept in the requirements and specifications of standard
+writing to produce academic and research papers
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply knowledge of academic language features and text structure, and
+ensure cohesion and coherence as connected to various text types
+CO-2: Demonstrate the use of writing process strategies through outlining, reviewing,
+composing, and revising
+CO-3: Evaluate sources and use summary, analysis, synthesis, and integration to
+construct a literature review on a topic chosen by the student
+CO-4: Prepare an outline for Research Articles and Thesis
+CO-5: Apply standard documentation style to produce academic and research
+papers that meet the demands of specific genres, purposes, and audiences
+UNIT-I:
+1. Features of Academic Writing: Word Order, Breaking up long Sentences,
+Structuring Paragraphs and sentences, Being concise and removing redundancy,
+Avoiding Ambiguity and Vagueness, Hedging
+2. Planning & Preparation of Research paper, Factors Influencing Effective Writing:
+Mechanics of Writing, Purpose of Writing, Understanding the Target Reader,
+Organization- Cohesion, and Coherence
+UNIT-II:
+1. Academic Writing Forms:
+a) Analyzing arguments; Building an argument
+b) Making a Counter Argument- Managing tone and tenor
+1. Types of Research: Primary and Secondary Research
+2. Review of Literature
+3. Research Design: Statement of the Problem, Writing A Title, Writing an Abstract,
+Keywords & Introduction, Writing Hypotheses, Developing Objectives, Research
+Tools, Writing Reports and Writing Proposal.
+UNIT-III:
+1. Criteria of Good Research- Avoiding Plagiarism
+2. Data Interpretation, Writing to the Point
+3. Preparing an outline for Research Articles & Research Reports
+UNIT-IV:
+1. Reference Skills:
+a) Paraphrasing (Change of parts of speech, word order, synonyms, using the passive
+form)
+b) Summarizing (Steps in summarizing)
+2. Inserting references
+UNIT-V:
+1. Assessment of Technical Reports
+2. Writing Research Article Reviews: Writing Article & Book Review
+TEXT BOOKS:
+1. A Course in Academic Writing, Gupta R., Orient BlackSwan, 2010
+2. Academic Writing: Exploring Processes and Strategies, Leki I., CUP, 1998
+3. Writing Up Research: Experimental Research Report Writing for Students of English,
+Weissberg R., & Buker S. Englewood Cliffs, Prentice Hall, 1990
+REFERENCES:
+1. English Academic Writing for Students and Researchers, Yakhontova T., 2003
+2. Inside Track: Successful Academic Writing Gillett, A., Hammond A., Martala M.
+Essex: Pearson Education 2009
+3. English for Academic Research: Writing Exercises, Wallwork, Springer, 2013
+4. The MLA Handbook for Writers of Research Papers, 7th Edition, Modern Language
+Association
+5. Academic Writing for Graduate Students: A Course for Non-Native Speakers of
+English, Swales J. M. & Feak C. B. AnnArbor: University of Michigan Press, 1994
+ONLINE RESOURCES:
+1. Using Sources Video Lecture
+2. https://www.coursera.org/lecture/advanced-writing/using-sources-video-lecture-
+i719P
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25MN6HS01) RESEARCH METHODOLOGY AND IPR
+TEACHINGSCHEME EVALUATION SCHEME
+L T/P C SE-I SE-II SEE TOTAL
+2 0 0 50 50 - 100
+COURSE OBJECTIVES:
+• To understand the research problem
+• To know the literature studies, plagiarism and ethics
+• To get the knowledge about technical writing
+• To analyze the nature of intellectual property rights and new developments
+• To know the patent rights
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand research problem formulation
+CO-2: Analyze research related information & Follow research ethics
+CO-3: Understand that today’s world is controlled by Computer, Information
+Technology, but tomorrow world will be ruled by ideas, concept, and creativity
+CO-4: Understanding that when IPR would take such important place in growth of
+individuals & nation, it is needless to emphasis the need of information about
+Intellectual Property Right to be promoted among students in general & engineering
+in particular
+CO-5: Understand that IPR protection provides an incentive to inventors for further
+research work and investment in R & D, which leads to creation of new and better
+products, and in turn brings about, economic growth and social benefits
+UNIT-I:
+Meaning of research problem, Sources of research problem, Criteria Characteristics
+of a good research problem, Errors in selecting a research problem, Scope and
+objectives of research problem.
+Approaches of investigation of solutions for research problem, data collection,
+analysis, interpretation, Necessary instrumentations
+UNIT-II:
+Effective literature studies approaches, analysis, Plagiarism, Research ethics
+UNIT-III:
+Effective technical writing, how to write report, Paper Developing a Research
+Proposal, Format of research proposal, a presentation and assessment by a review
+committee
+UNIT-IV:
+Nature of Intellectual Property: Patents, Designs, Trade and Copyright. Process of
+Patenting and Development: technological research, innovation, patenting,
+development. International Scenario: International cooperation on Intellectual
+Property. Procedure for grants of patents, Patenting under PCT.
+UNIT-V:
+Patent Rights: Scope of Patent Rights. Licensing and transfer of technology. Patent
+information and databases. Geographical Indications. New Developments in IPR:
+Administration of Patent System.
+New developments in IPR; IPR of Biological Systems, Computer Software etc.
+Traditional knowledge Case Studies, IPR and IITs
+TEXT BOOKS:
+1. Research Methodology: An Introduction for Science & Engineering Students, Stuart
+Melville and Wayne Goddard
+2. Research Methodology: An Introduction, Wayne Goddard and Stuart Melville
+3. Research Methodology: A Step-by-Step Guide for Beginners, Ranjit Kumar, 2nd
+Edition
+REFERENCES:
+1. Resisting Intellectual Property, Halbert, Taylor & Francis, 2007
+2. Industrial Design, Mayall, McGraw-Hill, 1992
+3. Product Design, Niebel, McGraw-Hill, 1974
+4. Intellectual Property in New Technological Age, Robert P. Merges, Peter S. Menell,
+Mark A. Lemley, 2016
+5. Intellectual Property Rights Under WTO, T. Ramappa, S. Chand, 2008

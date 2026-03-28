@@ -1,0 +1,3390 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/mtechsyl/CNIS-R22.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+R22
+M.Tech. (COMPUTER NETWORKS AND
+INFORMATION SECURITY)
+M.Tech. R22 CBCS Curriculum
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for B.Tech. CE, EEE, ME, ECE, CSE, EIE, IT Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF 113 Rank in Engineering Category
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+DEPARTMENT OF
+INFORMATION
+TECHNOLOGY
+VISION OF THE DEPARTMENT
+To impart quality technical education that fosters
+critical thinking, dynamism and innovation to
+transform students into globally competitive IT
+professionals.
+MISSION OF TH E DEPARTMENT
+➢ To provide quality education through innovative
+teaching and learning process that yields
+advancements in state-of-the-art information
+technology.
+➢ To provide a learning environment that promotes
+quality research.
+➢ To inculcate the spirit of ethical values contributing
+to the welfare of the society.
+M.TECH.
+(COMPUTER NETWORKS & INFORMATION
+SECURITY)
+M.TECH. (CNIS)
+PROGRAM EDUCATIONAL OBJECTIVES
+PEO-I: Apply the necessary mathematical tools and fundamental &
+advanced knowledge of computer science & engineering and computer
+networks.
+PEO-II: Develop computer network & security systems understanding the
+importance of social, business, technical, environmental, and human context
+in which the systems would work
+PEO-III: Articulate fundamental concepts, design underpinnings of network
+& security systems, and research findings to train professionals or to educate
+post engineering students.
+PEO-IV: Contribute effectively as a team member/leader, using common
+tools and environment, in computer networks & security projects, research,
+or education.
+PEO-V: Pursue life-long learning and research in computer networks and
+contribute to the growth of that field and society at large.
+M.TECH. (CNIS)
+PROGRAM OUTCOMES
+PO-1: Ability to independently carry out research/investigation and
+development work to solve practical problems.
+PO-2: Ability to write and present a substantial technical report/document.
+PO-3: Able to demonstrate a degree of mastery over the area as per the
+specialization of the program.
+PO-4: Demonstrate advanced knowledge of Wired and Wireless Networks,
+Network Security, Ethical Hacking, Cyber Laws and Network Protocols.
+PO-5: Analyze and Develop solutions for complex problems in computer
+Networks and Information security domain.
+PO-6: Apply advanced knowledge to identify research challenges, and
+contribute individually or in teams to the development of Computer
+Networks and Information security domain
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. I YEAR COURSE STRUCTURE AND SYLLABUS
+(COMPUTER NETWORKS & INFORMATION SECURITY)
+I SEMESTER R22
+Course
+Course Type Name of the Course L T P Credits
+Code
+Professional
+22PC1CN01 Advanced Computer Networks 3 0 0 3
+Core-I
+Professional
+22PC1CN02 Principles of Information Security 3 0 0 3
+Core-II
+Professional
+22PC1CN03 Advanced Programming 3 0 0 3
+Core-III
+22PC1CP05 Internet of Things
+22PE1CN01 Mobile Application Development
+Professional
+22PE1CN02 Data Mining 3 0 0 3
+Elective-I
+22PE1CN03 Data Structures and Algorithms
+22PE1CN04 Internet Technology and Services
+22PE1CN05 Distributed Systems
+22PE1CN06 Data Science
+Professional 22PE1CN07 Operating Systems Security 3 0 0 3
+Elective-II
+22PE1CN08 Artificial Intelligence
+22PE1CP04 Information Retrieval Systems
+Professional Networks and Information Security
+22PC2CN01 0 0 2 1
+Core Lab-I Laboratory
+Professional Advanced Programming
+22PC2CN02 0 0 2 1
+Core Lab-II Laboratory
+Communication Communication Skills for
+22SD5HS01 0 0 2 1
+Skills Academic and Research Writing
+Project 22PW4CN01 Technical Seminar 0 0 4 2
+Mandatory 22MN6HS01 Research Methodology and IPR 2 0 0 0
+Total 17 0 10 20
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. I YEAR COURSE STRUCTURE AND SYLLABUS
+(COMPUTER NETWORKS & INFORMATION SECURITY)
+II SEMESTER R22
+Course Type Course Code Name of the Course L T P Credits
+Professional
+22PC1CN04 Wireless Networks 3 0 0 3
+Core-IV
+Professional
+22PC1CN05 Vulnerability Analysis and Hacking 3 0 0 3
+Core-V
+Professional
+22PC1CN06 Machine Learning and Security 3 0 0 3
+Core-VI
+Computer Forensics and Cyber
+22PE1CN09
+Security
+Information Systems Security and Risk
+22PE1CN09
+Management
+Professional
+22PE1CN10 Mobile Computing 3 0 0 3
+Elective-III
+22PE1CN11 IT Security Metrics
+22PE1CN12 Advanced Network Security
+22PE1CN13 Intrusion Detection
+22PE1CN14 Cloud Security
+Professional 22PE1CN15 Cryptanalysis 3 0 0 3
+Elective-IV
+22PE1CN16 Deep Learning
+Information Systems Control and
+22PE1CN17
+Audit
+Professional Wireless Networks and Ethical
+22PC2CN03 0 0 2 1
+Core Lab-III Hacking Laboratory
+Professional Machine Learning and Security
+22PC2CN04 0 0 2 1
+Core Lab-IV Laboratory
+Industry
+22SD5CN01 Industry Engagement 0 0 2 1
+Engagement
+Project 22PW4CN02 Mini-Project 0 0 4 2
+Mandatory 22MN6HS02 Ancient Wisdom 2 0 0 0
+Total 17 0 10 20
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. II YEAR COURSE STRUCTURE AND SYLLABUS
+(COMPUTER NETWORKS & INFORMATION SECURITY)
+III SEMESTER R22
+Course
+Course Type Name of the Course L T P Credits
+Code
+22PE1CP21 Blockchain Technology
+22PE1SE08 Software Defined Networks
+Professional
+22PE1CN18 Big Data 3 0 0 3
+Elective-V
+22PE1CN19 Network Design
+22PE1CN20 TCP/IP Protocol Suite
+22OE1CN01 Business Analytics
+22OE1AM01 Industrial Safety
+Open
+22OE1AM02 Operations Research 3 0 0 3
+Elective
+22OE1AM03 Entrepreneurship and Start-ups
+22OE1PS01 Waste to Energy
+Project 22PW4CN03 Project Part - I 0 0 16 8
+Total 6 0 16 14
+IV SEMESTER R22
+Course Type Course Code Name of the Course L T P Credits
+Project 22PW4CN04 Project Part - II 0 0 28 14
+Total 0 0 28 14
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PC1CN01) ADVANCED COMPUTER NETWORKS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To explore basic metrics to evaluate the performance of a computer network and
+network management frameworks
+• To various services offered by key layers such as application layer, transport layer
+and network layer
+• To explore link management strategies
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand basic terminology and concepts for a computer network
+CO-2: Explore how packet is transmitted from source system to destination system
+CO-3: Explore different applications that are supported by the computer network
+CO-4: Understand basic concepts involved in computer communication especially in
+wireless and mobile networks
+CO-5: Explore various security technologies for networks
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 3 2 3 2 1
+CO-2 3 2 3 3 3 1
+CO-3 3 2 2 2 3 2
+CO-4 3 2 3 2 3 2
+CO-5 3 2 2 3 3 2
+UNIT – I:
+Computer Networks and the Internet: What Is the Internet? The Network Edge, The
+Network Core, Delay, Loss, and Throughput in Packet-Switched Networks, Protocol
+Layers and Their Service Models, Networks Under Attack
+Application Layer: Principles of Network Applications, Electronic Mail in the Internet,
+DNS—The Internet’s Directory Service
+UNIT – II:
+Transport Layer: Introduction and Transport-Layer Services, Multiplexing and
+Demultiplexing, Connectionless Transport: UDP, Principles of Reliable Data Transfer,
+Connection-Oriented, Principles of Congestion Control and Congestion Control in TCP.
+UNIT – III:
+The Network Layer: Introduction, Virtual Circuit and Datagram Networks, What’s Inside
+a Router? The Internet Protocol (IP): Forwarding and Addressing in the Internet, Routing
+Algorithms, Routing in the Internet, Broadcast and Multicast Routing.
+Links, Access Networks, and LANs: Introduction to the Link Layer, Error-Detection and -
+Correction Techniques, Multiple Access Links and Protocols, Switched Local Area
+Networks, Link Virtualization: A Network as a Link Layer, Data Center Networking.
+UNIT – IV:
+Wireless and Mobile Networks: Introduction, Wireless Links and Network Characteristics,
+WiFi: 802.11 Wireless LANs, Cellular Internet Access, Mobility Management: Principles,
+Mobile IP, Managing Mobility in Cellular Networks, Wireless and Mobility: Impact on
+Higher-Layer Protocols.
+UNIT – V:
+Network Management: What is Network Management? The Infrastructure for Network
+Management, The Internet-Standard Management Framework
+Security in Computer Networks: What is Network Security? Principles of Cryptography,
+Message Integrity and Digital Signatures, Securing Email, Securing TCP Connections-SSL,
+Network Layer Security – IPSec and Virtual Private Networks
+TEXT BOOKS:
+1. Computer Networking: A Top Down Approach, James F. Kurose, Keith W. Ross, 6th
+Edition
+2. Data Communications and Networking, Behrouz A. Forouzan, 4th Edition, Tata
+McGraw Hill
+3. High Speed Networks and Internets – Performance and Quality of Service, William
+Stallings, 2nd Edition, Pearson Education
+REFERENCES:
+1. Computer Networks, Mayank Dave, Cengage
+2. Guide to Networking Essentials, Greg Tomsho, Ed Tittel, David Johnson, 5th Edition,
+Thomson
+3. Computer Networks, Andrew S. Tanenbaum, 4th Edition, Prentice Hall
+4. An Engineering Approach to Computer Networking, S. Keshav, Pearson Education
+5. Computer Communications Networks, Mir, Pearson Education
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PC1CN02) PRINCIPLES OF INFORMATION SECURITY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the computer security concepts
+• To differentiate symmetric / asymmetric cryptographic techniques
+• To analyze various security mechanisms using cryptographic primitives
+• To discriminate of security mechanism at various levels of computer networking and
+to be familiar with security defensive devices e.g., firewalls, intrusion detection etc.
+• To apply algorithms used for secure transactions in real world applications
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Remember the overview of security principles
+CO-2: Understand cryptographic algorithms and network security related issues and
+mitigating mechanisms
+CO-3: Analyze different Authentication algorithms and other security tools
+CO-4: Evaluate security at layers to meet the skills required for industrial need
+CO-5: Identify and investigate vulnerabilities and security threats and mechanisms to
+counter them
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 1 1 3 3 2
+CO-2 3 2 2 3 3 2
+CO-3 3 2 3 3 3 2
+CO-4 3 2 3 3 3 3
+CO-5 3 2 3 3 3 2
+UNIT-I:
+Information Security: Introduction, History of Information security, What is Security,
+Security Goals, Security Attacks (Interruption, Interception, Modification and
+Fabrication), Security Services (Confidentiality, Authentication, Integrity, Non-
+repudiation, access Control and Availability) and Mechanisms, CNSS Security Model,
+Components of Information System, Balancing Information Security and Access,
+Approaches to Information Security Implementation, The Security Systems
+Development Life Cycle.
+UNIT-II:
+Cryptography: Concepts and Techniques, symmetric and asymmetric key
+cryptography, steganography. Symmetric key Ciphers: DES structure, DES Analysis,
+Security of DES, variants of DES, Block cipher modes of operation, AES structure, Analysis
+of AES, Key distribution
+Asymmetric key Ciphers: Principles of public key cryptosystems, RSA algorithm, Analysis
+of RSA, Diffie-Hellman Key exchange
+UNIT-III:
+Message Authentication and Hash Functions: Authentication requirements and
+functions, MAC and Hash Functions, MAC Algorithms: Secure Hash Algorithm, HMAC,
+Digital signatures, X.509, Kerberos
+UNIT-IV:
+Security at layers (Network, Transport, Application): IPsec, Secure Socket Layer (SSL),
+Transport Layer Security (TLS), Secure Electronic Transaction (SET), Pretty Good
+Privacy(PGP), S/MIME
+UNIT-V:
+Intruders, Virus, and Firewalls: Intruders, Intrusion detection, password management,
+Virus and related threats, Countermeasures, Firewall design principles, Types of firewalls
+TEXT BOOKS:
+1. Principles of Information Security, Michael E. Whitman, Herbert J. Mattord, 4th Edition,
+Cengage Learning
+2. Cryptography and Network Security, William Stallings, 4th Edition, Pearson Education
+3. Cryptography and Network Security, Forouzan Mukhopadhyay, 2nd Edition, McGraw
+Hill
+REFERENCES:
+1. Cryptography and Network Security, C. K. Shyamala, N. Harini, T. R. Padmanabhan,
+1stEdition, Wiley India
+2. Network Security and Cryptography, Bernard Menezes, Cengage Learning
+3. Cryptography and Network Security, Atul Kahate, 2nd Edition McGraw Hill
+4. Principles of Computer Security, W. M. Arthur Conklin, Greg White, TMH
+5. Handbook of Security of Networks, Yang Xiao, Frank H Li, Hui Chen, World Scientific,
+2011
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PC1CN03) ADVANCED PROGRAMMING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Knowledge on programming
+COURSE OBJECTIVES:
+• To understand the basic concepts of Python
+• To demonstrate the use of files, object-oriented programming in Python
+• To familiarize with GUI based application development
+• To familiarize with the PHP concepts, files
+• To familiarize with database connectivity
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Comprehend Python Programming Fundamentals
+CO-2: Understand Python files, Exceptions &Object-Oriented Programming concepts
+CO-3: Applying the Tkinter for GUI development
+CO-4: Learn PHP basics, files
+CO-5: Learn PHP Database Connectivity
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 1 1 2 2 3
+CO-2 3 1 1 2 2 3
+CO-3 3 1 1 2 2 3
+CO-4 3 1 1 2 2 3
+CO-5 3 1 2 2 2 3
+UNIT–I:
+Python: Basic features of Python-Interactive execution, comments, types, variables,
+operators, expressions, Statements-assignment, input, print, Control flow-Conditionals,
+Loops, break statement, continue statement, pass statement, Functions, definition, call,
+scope and lifetime of variables, keyword arguments, default parameter values,
+variable length arguments, recursive functions, Functional programming, namespaces
+and modules-import statement, Sequences-Strings ,Lists and Tuples-basic operations
+and functions, iterating over sequences, List comprehensions, Packing and Unpacking
+of Sequences, Sets and Dictionaries operations, regular expressions, Python program
+examples.
+UNIT–II:
+Python Files: Files-operations-opening, reading, writing, closing, file positions, file names
+and paths, functions for accessing and manipulating files and directories on disk, OS
+module, Exceptions: Raising and handling exceptions, try/except statements, finally
+clause, standard exceptions & Modules and Packages.
+Python Object oriented programming- classes, constructors, objects, class variables,
+class methods, static methods, Inheritance-is-a relationship, composition,
+polymorphism, overriding, multiple inheritance, abstract classes, multithreaded
+programming, time and calendar modules, Python program examples.
+UNIT–III:
+GUI Programming With Tkinter: Widgets(Buttons, Canvas, Frame, Label, Menu, Entry,
+Text, Scrollbar, Combo box, List box,Radio Button,event driven programming-events,
+creating GUI based applications in Python.
+UNIT–IV:
+Introduction To PHP: Declaring variables, data types, arrays, strings, operators,
+expressions, control structures, functions, reading data from web form controls like text
+boxes, radio buttons, lists etc., PHP object-oriented programming.
+PHP Files: File operations like opening, closing, reading, writing, appending, deleting
+etc. on text and binary files.
+Listing directories, Handling File Uploads, PHP Regular Expressions, PHP Error Handling,
+Handling sessions and cookies
+UNIT–V:
+Adv. PHP: WAMP Server Installation, connecting to database (MySQL as reference),
+HTML using practical example along with PHP and MySQL, executing simple queries,
+working on with student information system, handling results.
+TEXT BOOKS:
+1. Exploring Python, Timothy A. Budd, McGraw Hill Publications
+2. Python Programming, R. Thareja, Oxford University Press
+3. Programming Python, Mark Lutz, 3rd Edition, SPD, O’Reilly
+REFERENCES:
+1. Introduction to Computer Science using Python, Charles Dierbach, Wiley India
+Edition
+2. Fundamentals of Python, K. A. Lambert, B. L. Juneja, Cengage Learning
+3. PHP: The Complete Reference, Steven Holzner, McGraw Hill Publications
+4. Learning PHP, MySQL, JavaScript, CSS & HTML5, Robin Nixon, O’Relly
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PC1CP05) INTERNET OF THINGS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To introduce the terminology, technology, concept of M2M (machine to machine)
+and its applications
+• To introduce the Python Scripting Language which issued in many IoT devices
+• To introduce the IOT in different domains, System management with NETCONF-
+YANG
+• To introduce the hardware and working principles of various sensors used for IoT
+• To introduce the Raspberry PI platform, design and implementation of web
+application Frame work used in IoT applications
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the physical and logical design of the Internet of Things, IoT & M2M
+CO-2: Analyze various applications of Internet of Things in various domain, NETCONF-
+YANG
+CO-3: Create logical design of IoT systems using Python
+CO4: Understand the hardware and working principles of various sensors used for IoT,
+CO5: Create web application framework design using Raspberry PI platform and RESTful
+web API
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 2 1 2 2 3
+CO-2 3 1 2 2 3 3
+CO-3 1 1 2 2 2 3
+CO-4 2 2 2 2 2 2
+CO-5 1 2 3 3 2 2
+UNIT–I:
+Introduction to Internet of Things –Definition and Characteristics of IoT, Physical Design
+of IoT –IoT Protocols, IoT communication models, IoT Communication APIs, IoT enabled
+Technologies –Wireless Sensor Networks, Cloud Computing, Bigdata analytics,
+Communication protocols, Embedded Systems, IoT Levels and Templates.
+IOT and M2M: Introduction, M2M, Difference between IOT and M2M, SDN and NFV for
+IOT
+UNIT–II:
+Domain Specific IoTs: Home, City, Environment, Energy, Retail, Logistics, Agriculture,
+Industry, health and Lifestyle
+System Management with NETCONF-YANG: Software defined Networking, Network
+Function Virtualization, Need for IOT Systems Management, Simple Network
+Management Protocol, Limitations of SNMP, Network Operator Requirements,
+NETCONF, YANG, IOT Systems management with NETCONF-YANG
+UNIT – III:
+Introduction To Python: Language features of Python, Data types, data structures,
+Control of flow, functions, modules, packaging, file handling, data/time operations,
+classes, Exception handling Python packages -JSON,XML, HTTPLib, URLLib, SMTPLib
+UNIT-IV:
+IoT Physical Devices and Endpoints: Introduction to Raspberry Pi- Installation, Interfaces
+(serial, SPI, I2C), and Programming – Python program with Raspberry PI with focus on
+interfacing external gadgets, controlling output, reading input from pins. IoT Physical
+Servers and Cloud Offerings – Introduction to Cloud Storage models and
+communication APIs Webserver – Web server for IoT, Cloud for IoT, Python web
+application framework designing a RESTful web API
+UNIT-V:
+Controlling Hardware: Connecting LED, Buzzer, Switching High Power devices with
+transistors, Controlling AC Power devices with Relays, Controlling servo motor, speed
+control of DC Motor, Using unipolar and bipolar Stepper motors
+Digital input- Sensing push switch, pull-up and pull-down resistors, Rotary encoder, Using
+keypad, Using RTC Sensors: Light sensor, temperature sensor with thermistor, voltage
+sensor, ADC and ADC, Temperature and Humidity Sensor DHT11, Read Switch, Distance
+Measurement with ultrasound sensor
+TEXT BOOKS:
+1. Internet of Things - A Hands-on Approach, Arshdeep Bahga and Vijay Madisetti,
+Universities Press, 2015
+2. Getting Started with Raspberry Pi, Matt Richardson & Shawn Wallace, O'Reilly (SPD),
+2014
+3. Raspberry Pi Cookbook, Software and Hardware Problems and Solutions, Simon
+Monk, O'Reilly (SPD), 2016
+REFERENCES:
+1. Designing the Internet of Things, Adrian McEwen, Hakim Cassimally, Wiley, 2014
+2. The Internet of Things, Samuel Greengard, MIT Press, Cambridge, 2015
+3. Internet of Things: Principles and Paradigms, Rajkumar Buyya, Amir Vahid Dastjerdi,
+Morgan Kaufman, 2016
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1CN01) MOBILE APPLICATION DEVELOPMENT
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To demonstrate their skills of using Android software development tools
+• To demonstrate their ability to develop software with reasonable complexity on
+mobile platform
+• To demonstrate their ability to deploy software to mobile devices
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Appreciate the Mobility landscape
+CO-2: Understand the fundamentals of Android operating systems
+CO-3: Familiarize with Android apps development aspects
+CO-4: Debug programs running on mobile devices
+CO-5: Design and develop mobile apps, using Android as development platform, with
+key focus on user experience design, native data handling and background tasks and
+notifications.
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 - 2 1 2 2
+CO-2 1 - 2 - 2 2
+CO-3 2 - 2 - 2 3
+CO-4 2 - 2 - 2 3
+CO-5 3 2 2 1 3 3
+UNIT–I:
+Introduction To Android Operating System: Android OS Design and Features – Android
+development framework, SDK features, Installing and running applications, Creating
+AVDs, Types of Android applications, Best practices in Android programming, Android
+tools Android application components – droid Manifest file, Externalizing resources like
+values, themes, layouts, Menus etc, Resources for different devices and languages,
+Runtime Configuration Changes Android Application lifecycle – Activities, Activity
+lifecycle, activity states, monitoring state changes
+UNIT–II:
+Android User Interface Design Essentials: Measurements – Device and pixel density
+independent measuring units Layouts – Linear, Relative, Grid and Table Layouts User
+Interface (UI) Components – Editable and non-editableText Views, Buttons, Radio and
+Toggle Buttons, Checkboxes, Spinners, Dialog, and pickersEvent Handling – Handling
+clicks or changes of various UI components, Drawing and Working with Animation
+UNIT–III:
+Intents and Broadcasts: Intent – Using intents to launch Activities, explicitly starting new
+Activity, Implicit Intents, Passing data to Intents, getting results from Activities, Native
+Actions, using Intent to dial a number or to send SMS Broadcast Receivers – Using Intent
+filters to service implicit Intents, Resolving Intent filters, finding and using Intents received
+within an Activity Notifications –Creating and Displaying notifications, Displaying Toasts
+UNIT–IV:
+Persistent Storage: Shared Preferences – Creating shared preferences, saving and
+retrieving data using Shared Preference Database – Introduction to SQLite database,
+creating and opening database, creating tables, inserting retrieving, and deleting
+data, Registering Content Providers, using content Providers (insert, delete, retrieve and
+update)
+UNIT–V:
+Common Android APIs: Using Android Networking APIs, Using Android Web APIs, Using
+Android Telephony APIs, Deploying Android Application to the World
+TEXTBOOKS:
+1. Professional Android 4 Application Development, Reto Meier, Wiley India, 2012
+2. Android Wireless Application Development, Lauren Darcey and Shane Conder, 2nd
+Edition, Pearson Education, 2011
+3. Mobile Design and Development, Brian Fling, O'Reilly Media
+REFERENCES:
+1. Beginning Android 4 Application Development, Wei-Meng Lee, Wiley India, 2013
+2. Beginning Android, Mark L Murphy, Wiley India Pvt. Ltd.
+3. Pro Android, Sayed Y. Hashimi and Satya Komatineni, Wiley India Pvt. Ltd.
+4. Android Application Development All in One for Dummies, Barry Burd, 1st Edition
+5. Teach Yourself Android Application Development in 24 Hours, 1st Edition, SAMS
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1CN02) DATA MINING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Linear Algebra, Optimization, Probability and Statistics,
+Statistical/Programming language
+COURSE OBJECTIVES:
+• To familiarize to the concepts and techniques for real time applications
+• To apply pre-processing techniques to extract information from raw data
+• To understand the data mining skills for resolving practical problems
+• To implement the algorithms in supervised and unsupervised learning
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Appraise raw input and process to generate relevant data for a range of data
+mining algorithms
+CO-2: Extract and measure interesting patterns from heterogeneous databases
+CO-3: Identify the appropriate data-mining algorithm for resolving the real-time
+applications
+CO-4: Design and implement projects using Data Mining algorithms
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 1 - 2 2 2
+CO-2 1 2 1 - - 2
+CO-3 3 2 1 2 1 3
+CO-4 2 2 2 3 3 1
+UNIT–I:
+Introduction: Fundamentals of data mining- KDD process-Data Mining functionalities-
+Major issues in Data Mining.
+Data Preprocessing: Need for data preprocessing- Data Cleaning-Data Integration and
+Transformation- Data Reduction-Discretization and Concept Hierarchy Generation.
+UNIT–II:
+Data Warehouse and OLAP Technology for Data Mining: Data Warehouse-
+Multidimensional Data Model- Data Warehouse architecture- Data Warehouse
+implementation-From Data Warehousing to Data Mining-Online Analytical Processing
+(OLAP) – OLAP and Multidimensional Data Analysis.
+UNIT–III:
+Association Rule Mining: Efficient and Scalable Frequent Item set Mining Methods –
+Mining Various Kinds of Association Rules – Association Mining to Correlation Analysis –
+Constraint- Based Association Mining.
+UNIT–IV:
+Classification and Prediction: Issues regarding Classification and Prediction-
+Classification by Decision Tree Induction- Bayesian Classification- Classification by Back
+propagation-Support Vector Machines (SVMs)- Other Classification Methods-
+Prediction, Classifier Accuracy.
+UNIT–V:
+Cluster Analysis: Types of Data in Cluster Analysis- Major Clustering methods- Partitioning
+Methods Density-Based methods- Grid-Based methods- Model Based Clustering
+methods.
+TEXT BOOKS:
+1. Data Mining: Concepts and Techniques, Jiawei Han and Micheline Kamber, 2nd
+Edition, Elsevier, 2006
+2. Introduction to Data Mining, Pang-Ning Tan, Michael Steinbach, Vipin Kumar,
+Addison-Wesley, 2005
+REFERENCES:
+1. Data Mining Techniques, Arun K. Pujari, University Press
+2. Mining Introductory and Advanced Topics, Margaret H. Dunham, Pearson
+Education
+3. Lecture Notes on Data Mining, Michael W. Berry, Murray Browne, World Scientific
+Publishing Co.
+4. Data Warehousing in the Real World, Sam Anahory & Dennis Murray, Pearson
+Education Asia
+ONLINE RESOURCES:
+1. https://www.coursera.org/specializations/data-mining
+2. https://www.udemy.com/course
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1CN03) DATA STRUCTURES AND ALGORITHMS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To analyze algorithms and know abstract data types
+• To experiment and Discriminate stack, queue and their applications
+• To illustrate, Evaluate Searching and sorting techniques in real-world scenarios
+• To summarize the knowledge of graphs and trees and their applications
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand various applications of Linear list
+CO-2: Remember fundamental knowledge of data structures in real time scenarios
+CO-3: Apply different sorting techniques in real time scenario
+CO-4: Analyze various algorithms on tree data structures, including finding the minimum
+spanning tree and shortest path
+CO-5: Analyze various algorithms on Graph data structures
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 - - 2 1 1
+CO-2 2 1 2 2 2 3
+CO-3 2 1 3 3 2 3
+CO-4 3 2 3 3 3 3
+CO-5 2 1 3 3 3 3
+UNIT-I:
+Data Structures: Linear and non linear data structures, ADT concept, Linear List ADT,
+Array representation, Linked representation, singly linked lists –insertion, deletion, search
+operations, doubly linked lists-insertion, deletion operations, circular lists.
+UNIT-II:
+Stack and Queue ADTs, array and linked list representations, infix to postfix conversion
+using stack, implementation of recursion, Circular queue-insertion and deletion,
+Dequeue ADT, array and linked list representations, Priority queue ADT, implementation
+using Heaps, Insertion into a Max Heap, Deletion from a Max Heap
+UNIT-III:
+Searching: Linear and binary search methods, Hashing-Hash functions, Collision
+Resolution methods-Open Addressing, Chaining, Hash table. Sorting –Bubble sort,
+Insertion sort, Quick sort, Merge sort, Heap sort, comparison of sorting methods.
+UNIT-IV:
+Trees: Ordinary and Binary trees terminology, Properties of Binary trees, Binary tree ADT
+representations, recursive and non-recursive traversals, Binary search tree ADT,insertion,
+deletion and searching operations, Balanced search trees.
+UNIT-V:
+Graphs: Graphs terminology, Graph ADT, representations, graph traversals/search
+methods dfs and bfs, graph traversals, Applications of Graphs
+TEXT BOOKS:
+1. Fundamental of Data Structure, Horowitz and Sahani, Galgotia Publication
+2. Data Structure, Lipschutz, Schaum Series
+REFERENCES:
+1. Algorithms, Data Structures, and Problem Solving with C++, Illustrated Edition, Mark
+Allen Weiss, Addison-Wesley Publishing Company
+2. How to Solve it by Computer, 2nd Impression, R. G. Dromey, Pearson Education
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1CN04) INTERNET TECHNOLOGIES AND SERVICES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+Solutions using multi-tier architecture. S/he should have good understanding of different
+technologies on client and server-side components as Follows:
+• Client Side: HTML5, CSS3, JavaScript, Ajax, jQuery and JSON
+• Server Side: Servlets, JSP
+• Database: MySQL with Hibernate and Connection Pooling
+• Framework: Struts with validation framework, Internationalization (I18N)
+• SOA: Service Oriented Architecture, Web services fundamentals, Axis framework for
+WS
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Explore Client-side scripting languages such as HTML, Java Script, JQuery
+CO-2: Empower server-side scripting languages such as JSP, Servlets
+CO-3: Enable asynchronous programming experience using AJAX
+CO-4: Understand the importance of XML and how data XML is useful in organizing data
+CO-5: Understand the concept of Service Oriented Architecture (SOA)
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 3 1 1 3 2
+CO-2 1 - - 3 3 2
+CO-3 - - 1 2 2 2
+CO-4 1 3 1 2 2 2
+CO-5 - 1 - 2 3 2
+UNIT–I:
+Client-Side Technologies: Overview of HTML - Common tags, XHTML, capabilities of
+HTML5 Cascading Style sheets, CSS3 enhancements, linking to HTML Pages, Classes in
+CSS. Introduction to JavaScripts, variables, arrays, methods and string manipulation,
+BOM/DOM: (Browser/Document Object Model), accessing elements by ID, Objects in
+JavaScript Dynamic HTML with JavaScript and with CSS, form validation with JavaScript,
+Handling Timer Events, Simplifying scripting with jQuery, JASON for Information
+exchange.
+UNIT–II:
+Introduction to Java Servlets: Introduction to Servlets: Lifecycle of a Servlet, reading
+request and initialization parameters, Writing output to response, MIME types in
+response, Session
+Tracking: Using Cookies and Sessions, Steps involved in Deploying an application
+Database Access with JDBC and Connection Pooling
+UNIT–III:
+Introduction to XML: XML Parsing with DOM and SAX Parsers in Java Ajax -Ajax
+programming with JSP/Servlets, creating XML Http Object for various browsers, sending
+request, processing response data and displaying it. Introduction to Hibernate
+UNIT–IV:
+Introduction to JSP: JSP Application Development: Types of JSP Constructs (Directives,
+Declarations, Expressions, Code Snippets), Generating Dynamic Content, Exception
+Handling, Implicit JSP Objects, Conditional Processing, Sharing Data Between JSP
+pages, Sharing Session and Application Data, using user defined classes with jsp: use
+Bean tag, Accessing a Database from a JSP
+UNIT–V:
+Introduction to Struts Framework: Introduction to MVC architecture, Anatomy of a
+simple struts2 application, struts configuration file, Presentation layer with JSP, JSP bean,
+html and logic tag libraries, Struts Controller class, Using form data in Actions, Page
+Forwarding, validation framework, Internationalization
+Service Oriented Architecture and Web Services: Overview of Service Oriented
+Architecture – SOA concepts, Key Service Characteristics, Technical Benefits of a SOA
+Introduction to Web Services– The definition of web services, basic operational model
+of web services, basic steps of implementing web services.
+TEXT BOOKS:
+1. Web Programming, Building Internet Applications, Chris Bates, 3rd Edition, Wiley
+Dreamtech
+2. Java Server Pages, Hans Bergsten, SPD, O’Reilly
+3. Professional Jakarta Struts - James Goodwill, Richard Hightower, Wrox Publishers
+REFERENCES:
+1. Programming the World Wide Web, R.W. Sebesta, 4th Edition, Pearson
+2. Core Servlets and Java Server Pages, Volume 1: Core Technologies, Marty Hall and
+Larry Brown Pearson
+3. Internet and World Wide Web – How to Program, Dietel and Nieto, PHI/Pearson
+4. Jakarta Struts Cookbook, Bill Siggelkow, SPD O’Reilly
+5. Professional Java Server Programming, S. Allamaraju & others, Apress (Dreamtech)
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1CN05) DISTRIBUTED SYSTEMS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OUTCOMES:
+• To list the principles underlying the functioning of distributed systems
+• To recognize design issues, interfaces for distributed systems
+• To learn name service and clock synchronization mechanisms
+• To explore the concurrency control and authentication in distributed systems
+• To learn cryptography, authentication and key distribution
+COURSE OBJECTIVES: After completion of the course, the student should be able to
+CO-1: Familiarize to the concepts of distributed systems
+CO-2: Learn about Kernel, processes, naming and Protection
+CO-3: Understand the low synchronization mechanisms and transactions
+CO-4: Understand the concurrency control in distributed systems
+CO-5: Learn about authentication and consistency models
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 2 1 1 1 1
+CO-2 2 - 2 1 2 2
+CO-3 2 - 2 2 1 1
+CO-4 3 2 2 1 2 2
+CO-5 3 - 2 2 3 3
+UNIT–I:
+Characterization of Distributed Systems: Design Issues, User Requirement, Network
+Technologies and Protocols, IPC, Client-Server Communication, Group
+Communication, IPC in UNIX. Remote Procedure Calling, Design issues, Implementation,
+Asynchronous RPC
+UNIT–II:
+Distributed OS, Its kernel, Processes and Threads, Naming and Protection,
+Communication and Invocation, Virtual Memory, File Service components, Design
+issues, Interfaces, implementation techniques, SUN network file systems
+UNIT–III:
+SNS – a name service model, its design issues, Synchronizing physical clocks, Logical
+time and logical clocks, Distributed coordination. Replication and its architectural
+model, Consistency andrequest ordering, Conversation between a client and a server,
+Transactions, Nested Transactions.
+UNIT–IV:
+Concurrency control Locks, Optimistic concurrency control, Timestamp ordering,
+Comparison of methods for concurrency control. Distributed Transactions and Nested
+Transactions, Atomic commit protocols. Concurrency control in distributed transactions,
+distributed Deadlocks, Transactions with replicated data,Transaction recovery, Fault
+tolerance, Hierarchical and group masking of faults.
+UNIT–V:
+Cryptography, Authentication and key distribution, Logics of Authentication, Digital
+signatures. Distributed shared memory, Design and Implementation issues, Sequential
+consistency and ivy, Release consistency and Munin, Overview of Distributed Operating
+systems Mach, Chorus.
+TEXT BOOK:
+1. Distributed Systems Concepts and Design, G. Coulouris, J. Dollimore and T. Kindberg,
+3rd Edition, Pearson Education
+REFERENCES:
+1. Advanced Concepts in Operating Systems, M. Singhal, N. G. Shivarathri, Tata
+McGraw Hill Edition
+2. Distributed Systems – Principles and Paradigms, A. S. Tanenbaum and M. V. Steen,
+Pearson Education
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1CN06) DATA SCIENCE
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To build the fundamentals of data science
+• To learn techniques and tools for transformation of data
+• To gain knowledge of statistical data analysis techniques utilized in business decision
+making
+• To develop design skills and understanding purpose and working of machine
+learning algorithms
+• To impart design thinking capability to handle big data problems
+COURSE OBJECTIVES: After completion of the course, the student should be able to
+CO-1: Demonstrate proficiency with statistical analysis of data
+CO-2: Demonstrate skill in data management
+CO-3: Develop the ability to build and assess data-based models
+CO-4: Apply data science concepts and methods to solve problems in real-world
+contexts and will communicate these solutions effectively
+CO-5: Develop relevant programming abilities
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 3 3 1 2 2
+CO-2 3 2 2 2 2 2
+CO-3 2 3 2 2 2 2
+CO-4 3 3 2 2 2 2
+CO-5 2 2 2 2 2 2
+UNIT-I:
+Introduction: Understanding relation between Artificial Intelligence, Machine learning,
+and Data Science; What is Data Science? - Extracting Meaningful Patterns, Building
+Representative Models, Combination of Statistics, Machine Learning, and Computing,
+Learning Algorithms, Associated Fields; Case for Data Science – Volume, Dimensions,
+Complex Questions; Data Science Classification; Data Science Algorithms; Data
+Science Tasks and Examples; Overview of Core algorithms
+Data Science Process: Crisp data mining framework vs Data science process; Prior
+Knowledge – Objective, Subject Area, Data, Causation vs Correlation; Data
+Preparation, Modeling - Training and Testing Datasets, Learning Algorithms, Evaluation
+of the Model; Ensemble Modeling; Application
+UNIT-II:
+Data Exploration: Objectives of data exploration; Datasets – Types of data; Descriptive
+statistics – Univariate Exploration, Multivariate Exploration; Data Visualization - Univariate
+Visualization (Histogram, Quartile, Distribution chart), Multivariate Visualization (Scatter
+plot, Scatter multiple, Scatter matrix, Bubble chart, Density chart); Visualizing High
+dimensional data (Parallel chart, deviation chart, and Andrews curves)
+Exploratory Data Analytics: Descriptive Statistics – Mean Standard Deviation, dispersion,
+Skewness and Kurtosis, statistical-interference-Correlation Statistics – ANOVA.
+UNIT-III:
+Regression Methods: Linear Regression; Multiple Linear Regression; Logistic Regression.
+Classification: Decision trees; Rule Induction; k-NEAREST NEIGHBORS; Naïve Bayesian;
+ANN; SVM; Ensemble learners.
+Clustering: Prototype-based clustering, Density clustering, Hierarchical clustering,
+Model-based clustering; K-MEANS CLUSTERING, Density-Based Spatial Clustering of
+Applications with Noise (DB SCAN)
+Model Evaluation: Confusion matrix, ROC and AUC, Lift curves.
+UNIT-IV:
+Anomaly Detection: Concepts - Causes of outliers, Anomaly detection techniques;
+Distance-Based outlier detection; Density-based outlier detection; Local outlier factor.
+Time Series Forecasting: Taxonomy of time Series forecasting; Time series decomposition
+– Classical decomposition, Implementation, Smoothing based methods, Regression
+based methods, Machine learning methods – Windowing, Neural network
+autoregressive, Performance evaluation – Validation dataset (MAE, RMSE, MAPE,
+MASE), Siding window validation.
+UNIT-V:
+Deep learning: The AI Winter - Conceptual architecture of a perceptron, how it works -
+Regression Models as Neural Networks, Gradient Descent, Need for Backpropagation,
+Classifying More Than 2 Classes: Softmax, Convolutional Neural Networks, Dense Layer,
+Dropout Layer, Recurrent Neural Networks, Autoencoders, Related AI Models -
+Reinforcement Learning (RL) and Generative adversarial network (GAN).
+TEXT BOOK:
+1. Data Science - Concepts and Practice, Vijay Kotu, Bala Deshpande, Data Science,
+2nd Edition, Morgan Kaufmann, 2019
+REFERENCES:
+1. Structural Analysis, Devdas Menon, Narosa Publishers, 2018
+2. Data Science from Scratch - First Principles with Python, Joel Grus, O'Reilly Media,
+2015
+3. Foundations of Data Science, Avrim Blum, John Hopcroft, Ravindran Kannan,
+Cambridge University Press, 2020
+4. Big Data and Analytics, Seema Acharya, Subhashini Chellappan, Wiley Publications,
+2019
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1CN07) OPERATING SYSTEMS SECURITY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To learn and apply basic concepts and methodologies of System Administration
+and Security by building from the ground up a miniature corporate network
+• To ensure that errant programs cause the minimal amount of damage possible
+• To protect the OS from various threats, including malicious software such as worms,
+trojans and other viruses, misconfigurations, and remote intrusions
+• To know some basic security measures to take in system administration
+• To allow non-threatening traffic and prevent malicious or unwanted data traffic for
+protecting the computer from viruses
+COURSE OBJECTIVES: After completion of the course, the student should be able to
+CO-1: Understand computer system architecture and operating system functionalities
+CO-2: Describe protection mechanisms
+CO-3: Apply security measures to protect the OS itself from security breaches
+CO-4: Apply security measures to take in system administration
+CO-5: Analyze various networking technologies in Linux using case studies
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 2 1 1
+CO-2 2 2 1 1 1 1
+CO-3 2 2 1 1 1 1
+CO-4 2 2 1 1 1 1
+CO-5 2 2 1 2 2 2
+UNIT – I:
+Overview of Operating Systems: Introduction, Computer system organization and
+architecture, Operating system structure and operations, Process Management,
+Memory Management, file systems management, Protection and security, Scheduling
+Algorithms, Inter-process Communication (TBI)
+UNIT – II:
+Operating Systems Protection: Protection Goals, Protection Threats, Access Control
+Matrix, Access Control Lists (ACL’s), Capability Lists (C-lists), Protection systems,
+Lampson’s access matrix, mandatory protection systems, Reference monitor, Secure
+operating system definition (TBI)
+UNIT – III:
+Operating System Security: Security Goals, Security Threats, Security Attacks- Trojan
+Horses, Viruses and Worms, Buffer Overflow attacks and Techniques, Formal Aspects of
+Security.(TBI), Encryption- Attacks on Cryptographic Systems, Encryption Techniques,
+Authentication and Password Security, Intrusion detection, malware defenses, UNIX and
+Windows security (TBI)
+UNIT – IV:
+System Administration: Security Basics, Securing the Server Itself, Maintenance and
+Recovery, Monitoring and Audit, Introduction to Linux Systems, Configuration
+Management, Log Auditing and Vulnerability Assessment. (TB2)
+UNIT – V:
+Linux Networking: Networking Technologies: DHCP, DNS, NFS/ISCSI, SMTP, SNMP, LAMP,
+Firewall/IDS/SSH, securing Linux. Case Studies: Security and Protection MULTICSA, UNIX,
+LINUX and Windows, Windows and Linux Coexisting. (TB3)
+TEXT BOOKS:
+1. Operating Systems: A Concept–Based Approach, Dhananjay M. Dhamdhere, 3rd
+Edition, McGraw-Hill, 2015
+2. Windows Server 2003 Security, A Technical Reference, Roberta Bragg, Addisson
+Wesley 4, Linux Administration Handbook, Evi Nemeth, Garth Snyder, Trent R. Hein,
+2nd Edition, Prentice Hall
+REFERENCES:
+1. An Introduction to Operating Systems: Concepts and practice, Promod Chandra, P.
+Bhat, 4th Edition, Prentice Hall of India, 2014
+2. Operating System: Internals and Design Principles, William Stalling, 7th Edition,
+Prentice Hall, 2014
+3. Linux System Administration, Tom Adelstein and Bill Lubanovic, 1st Edition, O’Reilly
+Media Inc.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1CN08) ARTIFICIAL INTELLIGENCE
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OUTCOMES:
+• To learn the different nature of environments and problem solving agents
+• To understand the knowledge and reasoning techniques
+• To learn different learning techniques and natural language processing applications
+• To understand the natural language processing and its applications
+• To learn functions of robotics and AI based programming Tools
+COURSE OBJECTIVES: After completion of the course, the student should be able to
+CO-1: Familiarize to the concepts of Artificial Intelligence
+CO-2: Learn about knowledge representation AI and reasoning
+CO-3: Understand various types of learning
+CO-4: Understand the importance of natural language processing in the real world
+CO-5: Learn about AI based programming tools
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 2 1 1 1 1
+CO-2 2 1 2 1 2 2
+CO-3 3 1 2 2 - -
+CO-4 3 - 2 1 2 2
+CO-5 2 - 2 2 3 3
+UNIT – I:
+Introduction: AI definition, Foundations of AI, History of AI, Agents and environments, The
+nature of the Environment, Problem solving Agents, Problem Formulation, Search
+Strategies
+UNIT – II:
+Knowledge and Reasoning: Knowledge-based Agents, Representation, Reasoning and
+Logic, Prepositional logic, First-order logic, Using First-order logic, Inference in First-order
+logic, forward and Backward Chaining
+UNIT – III:
+Learning: Learning from observations, Forms of Learning, Inductive Learning, Learning
+decision trees, why learning works, Learning in Neural and Belief networks
+UNIT – IV:
+Practical Natural Language Processing: Practical applications, Efficient parsing, Scaling
+up the lexicon, Scaling up the Grammar, Ambiguity, Perception. Image formation,
+Image processing operations for Early vision, Speech recognition and Speech Synthesis
+UNIT – V:
+Robotics: Introduction, Tasks, parts, effectors, Sensors, Architectures, Configuration
+spaces, Navigation and motion planning, Introduction to AI based programming Tools
+TEXT BOOKS:
+1. Artificial Intelligence: A Modern Approach, Stuart Russell, Peter Norvig, 2nd Edition,
+Pearson Education, 2007
+2. Artificial Neural Networks, B. Yagna Narayana, PHI
+REFERENCES:
+1. Artificial Intelligence, E. Rich and K. Knight, 2nd Edition, TMH
+2. Artificial Intelligence and Expert Systems, Patterson, PHI
+3. Expert Systems: Principles and Programming, Giarrantana, 4th Edition, Riley, Thomson
+4. PROLOG Programming for Artificial Intelligence, Ivan Bratka, 3rd Edition, Pearson
+Education
+5. Neural Networks, Simon Haykin, PHI
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1CP04) INFORMATION RETRIEVAL SYSTEMS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To familiarize with Boolean and vector space retrieval models, evaluation and
+interface issues, text index construction and scoring
+• To develop intelligent systems by applying the methods such as Prediction,
+Forecasting, Classification, Clustering and Optimization
+• To build working systems that assist users in finding useful information on the Web
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the relationships between the Repository Systems
+CO-2: Apply knowledge of data structures and indexing methods in information
+retrieval Systems
+CO-3: Implement supervised and unsupervised algorithms on the Information systems
+CO-4: Enhance the Search results applying Search techniques for better visualization to
+reducing the overhead of the user
+CO-5: Explore the multimedia Information Retrieval to acquire the knowledge on audio,
+video and image data
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 2 3 2 2 2
+CO-2 3 2 3 3 1 1
+CO-3 2 3 3 3 2 3
+CO-4 3 3 3 2 1 1
+CO-5 2 2 2 1 1 1
+UNIT – I:
+Introduction: Definition, Objectives, Functional Overview, Relationship to DBMS, Digital
+libraries and Data Warehouses, Information Retrieval System Capabilities – Search,
+Browse, Miscellaneous.
+UNIT – II:
+Cataloging and Indexing: Objectives, Indexing Process, Automatic Indexing,
+Information Extraction Data Structures: Introduction, Stemming Algorithms, Inverted file
+structures, N – gram data structure, PAT data structure, Signature file structure, Hypertext
+data structure.
+UNIT–III:
+Automatic Indexing: Classes of automatic indexing, Statistical Indexing, Natural
+language, Concept indexing, Hypertext linkages. Document and Term Clustering:
+Introduction, Thesaurus generation, Item clustering, Hierarchy of clusters
+Support vector machines and machine learning on documents. Flat clustering.
+Hierarchical clustering. Matrix decompositions and latent semantic indexing.
+UNIT–IV:
+User Search Techniques: Search statements and binding, Similarity measures and
+ranking, Relevance feedback, Selective dissemination of information search, weighted
+searches of Boolean Systems, Searching the Internet and hypertext Information
+Visualization: Introduction to Information Visualization, Cognition and Perception,
+Information Visualization Technologies
+Text Search Algorithms: Introduction, Software text search algorithms, Hardware text
+search systems.
+UNIT–V:
+Multimedia Information Retrieval: Spoken Language Audio Retrieval, Non-Speech
+Audio Retrieval, Graph Retrieval, Imagery Retrieval, Video Retrieval.
+Machine learning in IR, Introduction to Web search basics, Web crawling and indexes,
+Link analysis
+TEXT BOOKS:
+1. Information Storage and Retrieval Systems: Theory and Implementation, Kowalski,
+Gerald, Mark T. Maybury, Springer
+2. Modern Information Retrieval, Ricardo Baeza – Yates, Pearson Education, 2007
+3. An Introduction to Information Retrieval, Cambridge University Press, Christopher D.
+Manning, Prabhakar Raghavan, Hinrich Schütze, Cambridge, England, 2009
+REFERENCES:
+1. Information Retrieval: Algorithms and Heuristics, David A. Grossman and Ophir
+Frieder, 2nd Edition, Springer
+2. Information Retrieval Data Structures and Algorithms, Frakes W. B., Ricardo Baeza
+Yates, Prentice Hall, 1992
+3. Modern Information Retrieval, Baeza-Yates & Ribeiro-Neto, Pearson Education, 2010
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PC2CN01) NETWORKS AND INFORMATION SECURITY LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+A) NETWORKS LABORATORY:
+COURSEOBJECTIVES:
+• To describe about bit stuffing, character stuffing and CRC methods and to
+understand various routing algorithms and wireless LAN concepts
+• To understand various algorithms to identify shortest path and various Network layer
+protocols
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Summarize data link layer framing methods, CRC, Dijkstra‘s algorithm and routing
+algorithms
+CO-2: Demonstrate and simulate Ethernet, token ring, TCP and to configure VLAN and
+STP protocol
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 2 2 2 2 -
+CO-2 3 1 2 3 2 1
+CO-3 3 2 1 2 1 -
+CO-4 3 - - 3 3 -
+CO-5 3 1 2 2 1 -
+WEEK 1:
+1. Implement the data link layer framing methods such as character stuffing and bit
+stuffing Implement on a data set of characters the three CRC polynomials – CRC
+12, CRC 16 and CRCCCIP
+WEEK 2:
+1. Implement Dijkstra‘s algorithm to compute the Shortest path through a graph.
+2. Take an example subnet graph with weights indicating delay between nodes. Now
+obtain Routing table at each node using distance vector routing algorithm.
+WEEK 3:
+1. Demonstrate the operation of Ethernet.
+2. Demonstrate the implementation of a token ring network
+WEEK 4:
+1. Demonstrate the congestion control algorithms implemented by the Transmission
+Control Protocol (TCP).
+2. Demonstrate the configuring a wireless LAN
+WEEK 5:
+1. Configure a DHCP Server to serve contiguous IP addresses to a pool of four IP
+devices with a default gateway and a default DNS address. Integrate the DHCP
+server with a BOOTP demon to automatically serve Windows and Linux OS Binaries
+based on client MAC address.
+WEEK 6:
+1. Configure DNS: Make a caching DNS client, and a DNS Proxy; implement reverse
+DNS and forward DNS, using TCP dump/Wireshark characterize traffic when the DNS
+server is up and when it is down.
+WEEK 7:
+1. Configuring VLAN protocol and analyzing results by sing VTP protocol.
+WEEK 8:
+1. Configuring STP protocol and observing results for loop free topology.
+TEXT BOOKS:
+1. Routing Protocols & Concepts, Rick Graziani, Pearson Education
+2. LAN Switching & Wireless, Wayne Lewis, Pearson Education
+3. Accessing the WAN, Bob Vachon, Pearson Education
+REFERENCES:
+1. Computer Networking: A Top-Down Approach Featuring the Internet, James F.
+Kurose, Keith W. Ross, 5th Edition, Pearson Education,2012
+2. Computer Networks: A Systems approach, Larry L. Peterson & Bruce S. Davie, 5th
+Edition, Elsevier,2012
+3. An Introduction to Network Programming with Java, Jan Graba, Springer, 2010
+4. TCP/IP Protocol Suite, Behrouz A. Forouzan, 4th Edition, Tata McGraw Hill, 2010
+5. Network Fundamentals, Mark Dye, Pearson Education
+B) INFORMATION SECURITY LABORATORY
+COURSEOBJECTIVES:
+• To classify symmetric encryption algorithms and analyze security aspects of
+symmetric and asymmetric algorithms
+• To design and implement various digital signature algorithms
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-3: Examine and implement symmetric and asymmetric algorithms
+CO-4: Implement key generation and digital signature mechanisms
+WEEK 9:
+1. Write a Java program to perform encryption and decryption using the following
+algorithms
+a) Ceasercipher
+b) Vigenerecipher
+c) HillCipher
+WEEK 10:
+1. Implement DES-2 algorithm logic using Java cryptography package.
+2. Implement DES-3algorithm logic using Java cryptography package.
+WEEK 11:
+1. Write a Java program to implement RSA algorithm.
+WEEK 12:
+1. Write a C/JAVA program to implement Diffie-Hellman algorithm for secure key
+exchange.
+WEEK 13:
+1. Consider the end user as one of the parties (Alice) and the JavaScript applications
+the other party (Bob). Calculate the message digest of a text using the SHA-1
+algorithm and MD5 algorithm in JAVA.
+WEEK 14:
+1. Write a Java program to encrypt user’s passwords before they are stored in a
+database table, and to retrieve them whenever they are to be brought back for
+verification.
+2. Write a program in java, which performs a digital signature on a given text using
+Diffie-Hellmann algorithm.
+WEEK 15:
+1. Passive Information Retrieval –IP address, Domain identification of log entries using
+DNS,RIR tools and websites information gathering using WHOIS, ARIN tools.
+2. Banner Grabbing through Netcat tool
+WEEK 16: Lab Internal
+TEXT BOOKS:
+1. Build Your Own Security Lab, Michael Gregg, Wiley India
+2. Cryptography and Network Security, Atul Kahate, TMH
+REFERENCES:
+1. Cyber Security Operations Handbook, J. W. Rittiaghouse and William M. Hancok,
+Elsevier
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PC2CN02) ADVANCED PROGRAMMING LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE PRE-REQUISITES: Knowledge on programming
+COURSE OBJECTIVES:
+• To learn and implement basic concepts in Python
+• To design GUI using Tkinter
+• To obtain the knowledge of various concepts of PHP scripting language
+• To obtain the knowledge of various concepts of files
+• To gain the knowledge of using PHP to access database
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understand and use basic concepts of Python
+CO-2: Develop Graphical User Interface using Tkinter
+CO-3: Explore basic concepts of PHP
+Co-4: Explore concepts of files
+CO-5: Establish database connectivity between frontend and backend using PHP-
+MySQL
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 1 1 2 2 3
+CO-2 3 1 1 2 2 3
+CO-3 3 1 1 2 2 3
+CO-4 3 1 1 2 2 3
+CO-5 3 1 1 2 2 3
+LIST OF PROGRAMS / EXPERIMENTS / EXERCISES:
+Students are advised to do the following programs, but not limited to…
+1. Write a python program for sum of squares of 1st n natural numbers.
+2. Write a python program to print pyramid of numbers.
+3. Write a python program to reverse a given number.
+4. Write a python program for dictionary with keys having multiple in pairs.
+5. Write a python program for linear search.
+6. Write a python program to find largest and smallest element in the given array.
+7. Write a python program for string concatenation and string split.
+8. Write a python program for bubble sort.
+9. Write a python program to convert time form 12hrs to 24hrs format.
+10. Write a python program using functions for simple calculator.
+11. Write a python program to check for leap year.
+12. Write a python program to print for multiplication table 1..10.
+13. Write a program for list with all methods available.
+14. Write a program for tuples with all methods available.
+15. Write a python program using functions to have options of 1) Selection sort 2)
+Binary search.
+16. Write a Python program that reads a list of names and ages, then prints the list
+sorted by age.
+17. Write a Python program that converts a fully parenthesized arithmetic expression
+from infix to postfix.
+18. Write a Python program that reads a postfix expression from standard input,
+evaluates it, and writes the value to standard output.
+19. Write a Python program that takes a command-line argument n and writes the
+number of primes less than or equal to n.
+20. Write a Python program that implements binary search method to search for a
+key in a sorted list.
+21. Write a Python program that counts the occurrences of words in a text file and
+displays the words in decreasing order of their occurrence counts.
+22. Suppose the password rules are as follows:
+i) A password must have at least eight characters.
+ii) A password must consist of only letters and digits.
+iii) A password must contain at least two digits. Write a Python program that
+prompts the user to enter a password (string) and displays whether it is valid or
+invalid password.
+23. Write a Python program to compute n! for large values of n.
+24. Write to check if given number is prime or not using PHP and WAMP Server.
+25. Write a program to check greatest of 3 numbers using PHP and WAMP Server.
+26. Write a program to check if given number is palindrome using PHP and WAMP
+Server.
+27. Write a program for linear search using PHP and WAMP Server.
+28. Write a program to print pyramid of type 1,11,111, using PHP and WAMP Server.
+29. Write a PHP file programs for 1) Read 2)Write 3) Append data from a file.
+30. Write a PHP program for file upload.
+31. Write a PHP programs for 1) Cookies and 2)Sessions.
+32. Write a PHP program for Regular Expressions.
+Students are informed Practice on modules and packages.
+Sample problems covering GUI application and Database applications:
+GUI applications:
+33. Write a Python program that works as a simple calculator. Use a grid to arrange
+buttons for the digits and for the +, -,*, % operations. Add a text field to display the
+result.
+34. Develop a Python GUI application that receives an integer in one text field, and
+computes its factorial Value and fills it in another text field, when the button
+named Compute is clicked.
+35. Write a Python program that creates a user interface to perform integer divisions.
+The user enters two numbers in the text fields, Num1 and Num2. The division of Num1
+and Num2 is displayed in the Result field when the Divide button is clicked. If Num1
+or Num2 were not an integer Num2 is Zero, the program should Display an
+appropriate message in the result field in Redcolor.
+36. Write a Python program that simulates a traffic light. The program lets the user select
+one of three lights: red, yellow, or green. When a radio button is selected, the light
+is turned on, and only one light can be on at a time. No light is on when the program
+starts.
+37. Write a Python GUI application that takes a text file name as input and counts the
+characters, words and lines in the file. Words are separated with white space
+characters and lines are separated with new line character.
+Database Application:
+38. Write a program for executing query in object oriented for student information
+system using PHP and WAMP Server.
+39. Write a program for inserting the data into the table for student information system
+using PHP and WAMP Server.
+40. Write a program to select a particular student with id for student information
+system using PHP and WAMP Server.
+41. Write a program to update the existing record for student information system using
+PHP and WAMP Server.
+42. Write a program to delete the existing record for student information system using
+PHP and WAMP Server.
+TEXT BOOKS :
+1. Programming Python, Mark Lutz, 3rd Edition, SPD, O’Reilly
+2. Learning PHP, MySQL, JavaScript, CSS & HTML5, Robin Nixon, O’Relly
+REFERENCES:
+1. Python Programming, A Modern Approach, Vamshi Kurama, Pearson
+2. PHP: The Complete Reference, Steven Holzner, McGraw Hill Publications
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22SD5HS01) COMMUNICATION SKILLS FOR ACADEMIC AND RESEARCH WRITING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To equip the students with an understanding of the mechanics and conventions of
+academic and research writing including cohesion and coherence to produce
+texts that demonstrate precision and clarity
+• To enable students to present focused, logical arguments that support a thesis
+• To empower the students to find, analyze, evaluate, summarize and synthesize
+appropriate source material for literature review
+• To enable students to use appropriate language to analyze and interpret the data,
+and prepare an outline
+• To enable students to become adept in the requirements and specifications of
+standard writing to produce academic and research papers
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply knowledge of academic language features, and text structure and ensure
+cohesion and coherence as connected to various text types
+CO-2: Demonstrate the use of writing process strategies through outlining, reviewing,
+composing, and revising
+CO-3: Evaluate sources and use summary, analysis, synthesis, and integration to
+construct a literature review on a topic chosen by the student
+CO-4: Prepare an outline for Research Articles and Thesis
+CO-5: Apply standard documentation style to produce academic and research
+papers that meet the demands of specific genres, purposes, and audiences
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 3 2 1 1 1
+CO-2 3 3 3 1 1 1
+CO-3 2 3 2 1 2 2
+CO-4 2 3 2 1 1 1
+CO-5 3 3 3 1 1 1
+UNIT-I:
+a) Factors Influencing Effective Writing: Mechanics of Writing, Purpose of Writing,
+Audience/reader, Organisation- Cohesion, and Coherence
+b) Features of Academic Writing: Introduction, Complexity, Formality, Precision,
+Objectivity, Explicitness, Accuracy and Appropriacy, Relevance, Hedging
+UNIT-II:
+1. Academic Writing Forms:
+a) Analysing arguments; Building an argument
+b) Making a Counter Argument- Managing tone, and tenor
+2. Types of Research: Primary and Secondary Research;
+3. Research Design: Statement of the Problem, Survey of relevant literature, Writing
+Hypotheses, Developing Objectives; Research Tools
+UNIT-III:
+a) Criteria of Good Research- Avoiding Plagiarism
+b) Data Interpretation
+c) Preparing an outline for Research Articles & Research Reports
+UNIT-IV:
+a) Reference Skills -Paraphrasing (Change of parts of speech, word order, synonyms,
+using the passive form), -Summarizing (Steps in summarising)
+b) Documentation Format: APA style
+c) Documentation Format: MLA style
+UNIT-V:
+a) Writing Article Reviews
+b) Report Writing: a) Writing Technical Reports b) Writing Proposals
+TEXT BOOKS:
+1. A Course in Academic Writing, Gupta R., Orient Black Swan, 2010
+2. Academic Writing: Exploring Processes and Strategies, Leki I., CUP, 1998
+3. Writing-up Research: Experimental Research Report Writing for Students of English,
+Weissberg R., & Buker S., Englewood Cliffs, Prentice Hall, 1990
+REFERENCES:
+1. English Academic Writing for Students and Researchers. Yakhontova T., 2003
+2. Inside Track: Successful Academic Writing, Gillett A., Hammond A., Martala M.,
+Pearson Education, 2009
+3. English for Academic Research: Writing Exercises, Wallwork, Springer, 2013
+4. The MLA Handbook for Writers of Research Papers, 7th Edition, Modern Language
+Association
+5. Academic Writing for Graduate Students: A Course for Non-native Speakers of
+English, Swales J. M., & Feak C. B., University of Michigan Press, 1994
+ONLINE RESOURCES:
+1. https://www.coventry.ac.uk/study-at-coventry/student-support/academic-
+support/centre-for-academic-writing/support-for-students/academic-writing-
+resources/
+2. https://www.biz-e-training.com/resources-for-learners/academic-writing-online-
+resources/
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+RESEARCH METHODOLOGY AND IPR
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE-I SE-II SEE TOTAL
+2 0 0 50 50 - 100
+COURSE OBJECTIVES:
+• To understand the research problem
+• To know the literature studies, plagiarism and ethics
+• To get the knowledge about technical writing
+• To analyze the nature of intellectual property rights and new developments
+• To know the patent rights
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand research problem formulation
+CO-2: Analyze research related information & Follow research ethics
+CO-3: Understand that today’s world is controlled by Computer, Information
+Technology, but tomorrow world will be ruled by ideas, concept, and creativity
+CO-4: Understanding that when IPR would take such important place in growth of
+individuals & nation, it is needless to emphasis the need of information about Intellectual
+Property Right to be promoted among students in general & engineering in particular
+CO-5: Understand that IPR protection provides an incentive to inventors for further
+research work and investment in R & D, which leads to creation of new and better
+products, and in turn brings about, economic growth and social benefits
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 3 2 1 2 1
+CO-2 3 3 2 2 2 2
+CO-3 3 3 2 1 2 2
+CO-4 3 3 2 1 2 2
+CO-5 3 3 2 1 2 1
+UNIT – I:
+Meaning of research problem, Sources of research problem, Criteria Characteristics of
+a good research problem, Errors in selecting a research problem, Scope and objectives
+of research problem.
+Approaches of investigation of solutions for research problem, data collection, analysis,
+interpretation, Necessary instrumentations
+UNIT – II:
+Effective literature studies approaches, analysis, Plagiarism, Research ethics
+UNIT – III:
+Effective technical writing, how to write report, Paper Developing a Research Proposal,
+Format of research proposal, a presentation and assessment by a review committee
+UNIT – IV:
+Nature of Intellectual Property: Patents, Designs, Trade and Copyright. Process of
+Patenting and Development: technological research, innovation, patenting,
+development. International Scenario: International cooperation on Intellectual
+Property. Procedure for grants of patents, Patenting under PCT.
+UNIT – V:
+Patent Rights: Scope of Patent Rights. Licensing and transfer of technology. Patent
+information and databases. Geographical Indications. New Developments in IPR:
+Administration of Patent System.
+New developments in IPR; IPR of Biological Systems, Computer Software etc. Traditional
+knowledge Case Studies, IPR and IITs
+TEXT BOOKS:
+1. Research Methodology: An Introduction for Science & Engineering Students, Stuart
+Melville and Wayne Goddard
+2. Research Methodology: An Introduction, Wayne Goddard and Stuart Melville
+3. Research Methodology: A Step by Step Guide for beginners, Ranjit Kumar, 2nd
+Edition
+REFERENCES:
+1. Resisting Intellectual Property, Halbert, Taylor & Francis Ltd., 2007
+2. Industrial Design, Mayall, McGraw Hill, 1992
+3. Product Design, Niebel, McGraw Hill, 1974
+4. Intellectual Property in New Technological Age, Robert P. Merges, Peter S. Menell,
+Mark A. Lemley, 2016
+5. Intellectual Property Rights Under WTO, T. Ramappa, S. Chand, 2008
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PC1CN04) WIRELESS NETWORKS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Basics of computer networks, Protocols of computer networks
+COURSE OBJECTIVES:
+• To understand basic architecture of OSI model and wireless network architecture
+• To know various modes of wireless communications
+• To Implement wireless PAN and LAN networks
+• To differentiate between time-driven and event-driven simulation
+• To introduce the NS2 tool and its implementation in Unix operating system
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: To understand the basic concepts of wireless networks
+CO-2: To identify appropriate communication channels for wireless networks
+CO-3: To design and implement wireless PANs and LANs
+CO-4: To analyze various network simulation tools
+CO-5: To Implement NS2 tool in Unix operating system
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 2 3 2 2 3
+CO-2 3 2 2 2 2 3
+CO-3 2 3 3 2 2 3
+CO-4 3 2 3 3 3 2
+CO-5 2 3 3 2 3 2
+UNIT-I
+Introduction To Wireless Networks and Architecture: Introduction, Wireless networks
+Logical architecture: The OSI Network Model, Network Layer Technologies, Data Link
+Layer Technologies, Physical Layer Technologies, Operating System Considerations,
+Wireless Network Physical Architecture: Wired Network Topologies, Wireless Network
+Topologies, Wireless LAN Devices, Wireless PAN Devices, Wireless MAN Devices.
+UNIT-II:
+Wireless Communication: Introduction, Radio Communication Basics: The RF Spectrum,
+Spread Spectrum Transmission, Wireless Multiplexing and Multiple Access Techniques,
+Digital Modulation Technique, RF Signal Propagation and Reception, Ultra-Wideband
+Radio, MIMO Radio, Infrared Communication Basics: The Ir Spectrum, Infrared
+Propagation and Reception
+UNIT-III:
+Wireless Pan Implementation: Introduction, Wireless PAN Standards: Introduction,
+Bluetooth (IEEE 802.15.1), Wireless USB, ZigBee (IEEE 802.15.4), IrDA
+Implementing Wireless LANs: Evaluating Wireless LAN Requirements, Planning and
+Designing the Wireless LAN, Pilot Testing, Installation and Configuration, Operation and
+Support, Wireless LAN Security: The Hacking Threat, WLAN Security, WEP – Wired
+Equivalent Privacy Encryption.
+UNIT-IV:
+Simulation of Computer Networks: Basics of Computer Network Simulation, Simulation:
+The Formal Definition, Elements of Simulation, Time-Dependent Simulation: Time-Driven
+Simulation, Event-Driven Simulation. Tools for Network Simulation.
+UNIT-V:
+Introduction to Network Simulator2 (NS2): Introduction, Basic Architecture, Installation:
+Installing an All-In-One NS2 Suite on Unix-Based Systems, Installing an All-In-One NS2 Suite
+on Windows-Based Systems, Directories and Convention: Directories, Convention,
+Running NS2 Simulation: NS2 Program Invocation, Main NS2 Simulation Steps, A
+Simulation Example.
+TEXT BOOKS:
+1. Wireless Networking Technology from Principles to Successful Implementation, Steve
+Rackley
+2. Introduction to Network Simulatior NS2, Teerawat Issariyakul, Ekram Hossain
+REFERENCES:
+1. Wireless Networks, Dr. Manmohan Sharma
+2. Simulation Modelling and Analysis, Averill M. Law, 5th Edition
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PC1CN05) VULNERABILITY ANALYSIS AND HACKING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Basic knowledge of programming
+COURSE OBJECTIVES:
+• To quantitatively assess and measure threats to information assets
+• To evaluate the most vulnerable points in information systems
+• To apply security plans designed for protecting data assets against attacks
+• To perform buffer overflow attack in software and SQL injection attack in web
+application
+• To perform penetration tests into secure networks for evaluation purposes
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand and experience the fundamentals in vulnerability analysis ethical
+hacking
+CO-2: Create techniques to minimize risks of attacks
+CO-3: Analyze different techniques and methods applied by hackers
+CO-4: Apply SQL injection and buffer overflow attack methods
+CO-5: Analyze penetration test methods
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 2 2 3 2 3
+CO-2 2 2 2 3 3 3
+CO-3 2 2 2 3 2 3
+CO-4 2 2 3 3 2 3
+CO-5 2 2 2 3 2 2
+UNIT-I:
+Introduction to Ethical Hacking, Ethics, and Legality: Ethical Hacking Terminology,
+Different Types of Hacking Technologies, Different Phases Involved in Ethical Hacking
+and Stages of Ethical Hacking: Passive and Active Reconnaissance, Scanning, Gaining
+Access, Maintaining Access, Covering Tracks, Hacktivism, Types of Hacker Classes, Skills
+Required to Become an Ethical Hacker, Vulnerability Research, Ways to Conduct
+Ethical Hacking, Creating a Security Evaluation Plan ,Types of Ethical Hacks.
+Footprinting and Social Engineering Footprinting, Information Gathering Methodology,
+DNS Enumeration Who is and ARIN Lookups, Trace route, Social Engineering, Common
+Types Of Attacks, Insider Attacks, Identity Theft, Phishing Attacks, Online Scams, URL
+Obfuscation, Social-Engineering Countermeasures
+UNIT-II:
+System Hacking Understanding Password-Cracking Techniques, Password-Cracking
+Countermeasures, Understanding Different Types of Passwords Passive Online Attacks,
+Active Online Attacks, Offline Attacks Non-electronic Attacks, Understanding Key
+loggers and Other Spyware Technologies Understand Escalating Privileges, Executing
+Applications, Buffer Overflows, Understanding Rootkits Planting, Understanding How to
+Hide Files, NTFS File Streaming NTFS Stream Countermeasures, Understanding
+Steganography Technologies, Understanding How to Cover Your Tracks and Erase
+Evidence, Disabling Auditing, Clearing the Event Log
+UNIT-III:
+Trojans, Backdoors, Viruses, and Worms: Trojans and Backdoors, Overt and Covert
+Channels, Types of Trojans, Reverse Connecting Trojans, NetcatTrojan ,Indications of a
+Trojan Attack, Trojan Construction Kit and Trojan Makers , Countermeasure Techniques
+in Preventing Trojans, Difference between a Virus and a Worm, Types of Viruses,
+Understand Antivirus Evasion Techniques, Understand Virus Detection Methods
+Session Hijacking Denial of Service, Session Hijacking, Spoofing vs. Hijacking, Types of
+Session Hijacking, Sequence Prediction, Steps in Performing Session Hijacking,
+Prevention of Session Hijacking
+UNIT-IV:
+Hacking Web Servers, Web Application Vulnerabilities, and Web-Based Password
+Cracking Techniques, Hacking Web Servers, Types of Web Server Vulnerabilities, Attacks
+against Web Servers, Web Server Hardening Methods Web Application Vulnerabilities,
+Objectives of Web Application Hacking, Anatomy of an Attack, Web Application
+Threats, Google Hacking, Web Application Countermeasures. Web-Based P a s s w o r
+d Cracking Techniques, Authentication Types, Password Cracker, Password Attacks:
+Classification Password- Cracking Countermeasures
+SQL Injection and Buffer Overflows: SQL Injection, Steps to Conduct SQL Injection, SQL
+Server Vulnerabilities, SQL Injection Countermeasures Buffer Overflows, Types of Buffer
+Overflows and Methods of Detection, Stack-Based Buffer Overflows, Buffer Overflow
+Mutation Techniques
+UNIT-V:
+Linux Hacking Linux Basics, Compile a Linux Kernel, GCC Compilation Commands, Install
+Linux Kernel Modules, Linux Hardening Methods
+Penetration Testing Methodologies: Security Assessments, Penetration Testing
+Methodologies, Penetration Testing Steps, Pen-Test Legal Framework, Automated
+Penetration Testing Tools, Pen-Test Deliverables.
+TEXT BOOKS:
+1. CEH Official Certified Ethical Hacking Review Guide, Wiley India Edition
+2. Certified Ethical Hacker, Michael Gregg, Pearson Education
+3. Certified Ethical Hacker, Matt Walker, TMH
+REFERENCES:
+1. Computer Security, Concepts, Issues and Implementation, Alfred Basta Wolf Halton,
+Cengage Learning
+2. Hacking Exponsed Web 2.0, Rich Annings, Himanshu Dwivedi, Zane Lackey, Tata
+McGraw Hill Edition
+3. Ethical Hacking & Network Defense, Michael T. Simpson, Cengage Learning
+4. Hacking Exposed Windows, Joel Scambray, Stuart Mcclure, 3rd Edition, Tata McGraw
+Hill Edition
+5. Hacking Exposed Window Server 2003, Joel Scabray Stuart Mcclure, Tata McGraw
+Hill Edition
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PC1CN06) MACHINE LEARNING AND SECURITY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To learn how machine learning has contributed to the success of modern spam
+filters
+• To quickly detect anomalies, including breaches, fraud, and impending system
+failure
+• To conduct malware analysis by extracting useful information from computer
+binaries
+• To uncover attackers within the network by finding patterns inside datasets
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Identify the key elements of machine learning and security
+CO-2: Understand the principles, advantages, limitations, and possible applications of
+machine learning
+CO-3: Apply supervised and unsupervised learning to conduct malware analysis, and
+detect anomalies
+CO-4: Develop the threat attackers pose to machine learning solutions
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 2 3 2 2 3
+CO-2 3 2 2 2 2 3
+CO-3 2 2 3 2 3 3
+CO-4 2 2 3 3 3 3
+UNIT-I:
+Introduction: What Is Machine Learning, What Machine Learning Is Not, Adversaries
+Using Machine Learning, Real-World Uses of Machine Learning in Security, Spam
+Fighting: An Iterative Approach, Limitations of Machine Learning in Security.
+UNIT-II:
+Classical Machine Learning Paradigms-1: Supervised Classification Algorithms: Logistic
+Regression, Decision Trees, Support Vector Machines, Naive Bayes.
+Classical Machine LearningParadigms-2: Unsupervised Classification Algorithms: k-
+means clustering, Hierarchical clustering, Locality-sensitive hashing, k-d trees, DBSCAN,
+Evaluating Clustering Results.
+UNIT-III:
+Anomaly Detection: What is Anomaly Detection, Feature Engineering for Anomaly
+Detection, Anomaly Detection with Data and Algorithms, Challenges of Using Machine
+Learning in Anomaly Detection, Maintainability of Anomaly Detection Systems.
+UNIT-IV:
+Malware Analysis: Understanding Malware, Defining Malware Classification, Malware:
+Behind the Scenes, Feature Generation, Data Collection, Generating Features, Feature
+Selection, From Features to Classification, How to Get Malware Samples and Labels.
+UNIT-V:
+Network Traffic Analysis: Theory of Network Defense, Access Control and
+Authentication, Intrusion Detection, Detecting In-Network Attackers, Data-Centric
+Security, Machine Learning and Network Security, From Captures to Features, Threats in
+the Network, Building a Predictive Model to Classify Network Attacks.
+TEXT BOOKS:
+1. Machine Learning and Security: Protecting Systems with Data and Algorithms, Chio
+C., Freeman D., O'Reilly Media Inc., 2018
+REFERENCES:
+1. Machine Learning, Tom Mitchell, McGraw Hill, 1997
+2. Machine Learning for Computer and Cyber Security: Principle, Algorithms, and
+Practices, Gupta Brij B., Quan Z. Sheng, Eds., CRC Press, 2019
+3. Machine Learning: A Probabilistic Perspective, Murphy Kevin P., MIT Press, 2012
+4. Data Mining and Machine Learning In Cyber Security, Dua Sumeet, Xian Du, CRC
+Press, 2016
+ONLINE RESOURCES:
+1. https://www.udemy.com/course/the-complete-artificial-intelligence-for-cyber-
+security-2021/
+2. https://www.sans.org/cyber-security-courses/applied-data-science-machine-
+learning/
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1CN09) COMPUTER FORENSICS AND CYBER SECURITY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Knowledge on Computer Networks
+COURSE OBJECTIVES:
+• To understand the fundamentals of computer forensics
+• To examine various forensic tools to process the crime and incident scenes
+• To learn how to collect and preserve digital evidence that resides on computer
+storage devices
+• To understand the concepts of mobile and wireless devices
+• To analyse how cyber-crimes take place and how these can be handled by LAW
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply appropriate skills and knowledge in solving computer forensics problems
+CO-2: Analyze various Computer forensic tools and their importance
+CO-3: Understand and apply new methods for collecting and preserving evidence
+CO-4: Understand the concepts of Mobile and Wireless devises
+CO-5: Evaluate the knowledge gained to investigate cybercrimes
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 2 3 3 1 1
+CO-2 2 2 2 2 1 1
+CO-3 2 2 2 2 1 1
+CO-4 2 2 2 2 1 1
+CO-5 2 3 3 2 1 1
+UNIT-I:
+Computer Forensics Fundamentals: What is Computer Forensics? Use of Computer
+Forensics in Law Enforcement, Computer Forensics in Law Enforcement, Computer
+Forensics Assistance to Human Resources/Employment Proceedings, Computer
+Forensics Services, Benefits of professional Forensics Methodology, Steps taken by
+computer Forensics Specialists.
+Types of Computer Forensics Technology: Types of Military Computer Forensics
+Technology, Types of Law Enforcement – Computer Forensic Technology – Types of
+Business Computer Forensics Technology.
+UNIT-II:
+Processing Crime and Incident Scenes: Identifying digital evidence, collecting
+evidence InPrivate-sector incident scenes, processing law enforcement crime scenes,
+preparing for a search, securing a computer incident or crime scene, seizing digital
+evidence at the scene, storing digital evidence, obtaining a digital hash, reviewing a
+case, few Case studies.
+Current Computer Forensic Tools: Evaluating computer forensic tool needs, computer
+forensics software tools, computer forensics hardware tools, validating and testing
+forensics software.
+UNIT-III:
+Evidence Collection and Data Seizure: Why Collection Evidence? Collection Options –
+Obstacles – Types of Evidence – The Rules of Evidence- Volatile Evidence- General
+Procedure – Collection and Archiving – Methods of Collection – Artifacts – Collection
+Steps –Controlling Contamination: The chain of Custody.
+Duplication and Preservation of Digital Evidence: Preserving the Digital Crime Scene –
+Computer Evidence Processing Steps – Legal Aspects of Collecting Preserving
+Computer Forensics Evidence.
+Computer Image Verification and Authentication: Special Needs of Evidential
+Authentication – Practical consideration – Practical Implementation.
+UNIT-IV:
+Introduction to Cyber Crime: Cybercrime Definition and Origins of the World,
+Cybercrime and Information Security, Who are Cybercriminals? Classifications of
+Cybercrimes, Cybercrime and the Indian ITA 2000, Global perspective on Cybercrimes.
+Cyber Offenses: How Criminals Plan Them: Introduction, How Criminals Plan the Attacks,
+Social Engineering, Cyber stalking, Cybercafé and Cybercrimes, Botnets, Attack
+Vector, Cloud Computing.
+UNIT-V:
+Mobile and Wireless Devices: Introduction, Proliferation of Mobile and wireless Devices,
+Trends in Mobility, Credit Card Frauds in Mobile and Wireless Computing Era, Security
+Challenges posed by Mobile Devices, Authentication Service Security, Attacks on
+Mobile/Cell Phones, Mobile Devices: Security Implications for Organization,
+Organizational. Measures for handling Mobile Devises—Related Security Issues,
+Organizational Security Policies and Measures in Mobile Computing Era, Laptops.
+Cyber Crime Investigation: Firewalls and Packet Filters, password Cracking, Key loggers
+and Spyware, Virus and Warms, Trojan and backdoors, Steganography, DOS and DDOS
+attack, SQL injection, Buffer Overflow, Attack on wireless Networks.
+TEXT BOOKS:
+1. Computer Forensics, Computer Crime Investigation, John R. Vacca, Firewall Media,
+New Delhi
+2. Computer Forensics and Investigations, Nelson, Phillips Enfinger Steuart, Cengage
+Learning
+3. Cyber Security Understanding Cyber Crimes, Computer Forensics and Legal
+Perspectives, Nina Godbole and Sunit Belpure, Wiley
+REFERENCES:
+1. Forensic Compiling, A Practitioners Guide, Tony Sammes and Brain Jenkinson,
+Springer International Edition
+2. Computer Evidence Collection & Presentation, Christopher L. T. Brown, Firewall
+Media
+3. Software Forensics Collecting Evidence from the Scene of a Digital Crime, Robert M.
+Slade, TMH, 2005
+4. Computer Security: Principles and Practice, William Stallings and Lawrie Brown,
+Prentice Hall, 2008
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1CN10) INFORMATION SYSTEMS SECURITY AND RISK MANAGEMENT
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To explore the importance of information systems security
+• To address disaster recovery, response for the IT infrastructure
+• To explore various types of threats that will target different IT infrastructure from
+different corners
+• To explore different access control mechanisms in order to protect IT resources from
+unauthorized persons
+• To explore various Global Standards for Security
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand basic concepts of information systems security
+CO-2: Understand the nature of different malicious attacks, threats, and vulnerabilities
+CO-3: Explore different types of access control mechanisms
+CO-4: Analyze risk, response, recovery, and getting awareness over various information
+security laws
+CO-5: Explore various global standards for security
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 1 1 2 1 1
+CO-2 2 2 3 1 2 2
+CO-3 1 3 3 3 3 2
+CO-4 2 3 3 2 3 2
+CO-5 2 2 2 2 2 2
+UNIT-I:
+Information Systems Security: Information Systems Security: Introduction, Risks, Threats,
+and Vulnerabilities, Tenets of Information Systems Security, The Seven Domains of a
+Typical IT Infrastructure, Weakest Link in the Security of an IT Infrastructure, IT Security
+Policy Framework.
+Evolution of the Internet of Things: IoT’s Impact on Human and Business Life, Evolution
+from Bricks and Mortar to E-Commerce, IP Mobility, Mobile Applications, New
+Challenges Created by the IoT.
+UNIT- II:
+Malicious Attacks, Threats, and Vulnerabilities: Malicious Activity on the Rise,Attack
+Tools, Security Breach, Risks, Threats, and Vulnerabilities, Malicious Attack, Malicious
+Software, Common Types of Attacks, Countermeasure.
+The Drivers of the Information Security Business: Defining Risk Management,
+implementing BIA, BCP, and DRP, Assessing Risks, Threats, and Vulnerabilities, Closing
+the Information Security Gap, Keeping Private Data Confidential, Mobile Workers and
+Use of Personally Owned Devices
+UNIT-III:
+Access Controls: Two Types of Access Controls, Authorization Policies, Policies and
+Procedures for Accountability, Formal Models of Access Control, Effects of Breaches in
+Access Control, Centralized and Decentralized Access Control
+Security Operations and Administration: Security Administration, Compliance,
+Professional Ethics, The Infrastructure for an IT Security Policy, Data Classification
+Standards, Configuration Management, The Change Management Process,
+Application Software Security, Software Development and Security
+UNIT-IV:
+Auditing, Testing, and Monitoring:
+Security Auditing and Analysis: Defining Your Audit Plan, Auditing Benchmarks, Audit
+Data Collection Methods, Post-Audit Activities, Security Monitoring, Types of Log
+Information to Capture, How to Verify Security Controls, Monitoring and Testing Security
+Systems
+UNIT–V:
+Risk, Response, and Recovery:
+Risk Management and Information Security: The Risk Management Process, Business
+Continuity Management, Backing Up Data and Applications, Incident Handling,
+Recovery from a Disaster.
+Malicious Code and Activity: The Risk Management Process, Business Continuity, The
+Main Types of Malware, A Brief History of Malicious Code Threats, Threats to Business
+Organizations, Anatomy of an Attack, Attack Prevention Tools and Techniques, Intrusion
+Detection Tools and Techniques
+Information Security Standards: Standards Organizations, NIST, ISO, IEC, WWW, IETF, IEEE,
+ITUTS, ANSI, ETSICSTC, Payment Card Industry Data Security Standard.
+TEXT BOOKS:
+1. Fundamentals of Information Security, David Kim, Michael G. Solomon, 3rd Edition,
+Jones & Bartlett Learning, USA
+2. Information Systems Security: Security Management, Metrics, Frameworks and Best
+Practices, Nina Godbole, 2018
+REFERENCES:
+1. IT Security Metrics: A Practical Framework for Measuring Security Protecting Data,
+Lance Hayden
+2. An Information Governance Model for Information Security Management, Matthew
+Nicho, IGI-Global, 2013
+3. Risk Management Guide for Information Technology Systems, Gary Stoneburner,
+Alice Goguen, Alexis Feringa
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1CN11) MOBILE COMPUTING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: A Course on Computer Networks
+COURSE OBJECTIVES:
+• To understand the wireless and mobile computing concepts
+• To understand GSM telecommunication architecture
+• To analyze various network layer protocols used in mobile computing
+• To analyze various transport layer protocols used in mobile computing
+• To understand security issues in mobile computing
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Remember the basic concepts of mobile computing and architecture
+CO-2: Understand architecture of GSM mobile telecommunication system
+CO-3: Evaluate network layer protocols
+CO-4: Evaluate transport layer protocols
+CO-5: Analyze security issues and security techniques in mobile computing
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 1 3 3 1 1
+CO-2 3 1 2 3 1 1
+CO-3 3 1 3 3 3 2
+CO-4 3 1 3 3 3 2
+CO-5 3 2 - 3 3 3
+UNIT-I:
+Mobile Computing: Novel Applications, Limitations of Mobile Computing
+Mobile Computing Architecture: Programming languages, Functions of Operating
+Systems, Functions of Middleware for mobile Systems, Mobile Computing Architectural
+layers, Protocols, Layers.
+Mobile Devices: Handheld Mobile Smartphones with Multimedia Functionalities,
+Smartcards, Smart Sensors
+UNIT-II:
+Global System for Mobile Communications (GSM): Mobile Services, System
+Architecture, Protocols, Localization & Calling, Handover, Security
+GPRS: GPRS System Architecture, UMTS: UMTS System Architecture
+UNIT-III:
+Mobile Network Layer: Mobile IP: Goals, Assumptions, Entities and Terminology, IP
+Packet Delivery, Agent Discovery, Registration, Tunnelling and Encapsulation,
+Optimizations, Dynamic Host Configuration Protocol (DHCP)
+UNIT-IV:
+Mobile Transport Layer: Traditional TCP, Indirect TCP, Snooping TCP, Mobile TCP, Fast
+Retransmit/Fast Recovery, Transmission/Time-out Freezing, Selective retransmission,
+Transaction oriented TCP, TCP over 2.5G/3G Wireless Networks
+UNIT-V:
+Security Issues in Mobile Computing: Introduction, Information Security, Security
+Techniques and Algorithms, Security Protocols, Security Models, Security Frameworks for
+mobile Environment
+TEXT BOOKS:
+1. Mobile Computing, Raj Kamal, Oxford University Press, 2007
+2. Mobile Computing, Asoke K. Talukdar, Tata McGraw-Hill Education, 2010
+3. Mobile Communications, Jochen Schiller, 2nd Edition, Addison Wisely, Pearson
+Education, 2008
+REFERENCES:
+1. Wireless Communications and Networks, William Stallings, Pearson Education, 2002
+2. 802.11 Wireless Networks, Matthew S. Gast, SPD O’Reilly
+3. Principles of Mobile Computing, Uwe Hansmann, Lothar Merk, Martin S. Nicklons,
+Thomas Stober, Springer, 2003
+4. Fundamentals of Mobile Computing, Pattnaik Prasant Kumar, Mall Rajib, 2nd Edition,
+PHI Learning Pvt. Ltd., 2015
+5. Mobile Computing Principles: Designing and Developing Mobile Applications with
+UML and XML, Reza B’Far, Cambridge University Press, 2005
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1CN12) IT SECURITY METRICS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVE:
+• To understand important factors to be considered while evaluating security
+mechanisms for any network
+• To able to design a secured and robust network
+• To know different types of data needed for analyzing security
+• To reduce the data transfer cost by considering security cost and value
+• To analyse how the security can be improved continuously with change in
+requirements
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Learn security metrics and exploring various resources to be secured
+CO-2: Understand Security Process Management Framework
+CO-3: Explore various data sources for analyzing security
+CO-4: Learn Measurements Security Operations, Security Cost and Value
+CO-5: Learn The Security Improvement Program
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 2 1 3 1 -
+CO-2 2 2 2 3 2 2
+CO-3 3 3 3 2 3 2
+CO-4 2 3 3 2 2 2
+CO-5 1 2 2 - 1 1
+UNIT-I:
+What is a Security Metric? Metric and Measurement, Security Metrics Today, The
+Dissatisfying State of Security Metrics, Reassessing Our Ideas About Security Metrics.
+Designing Effective Security Metrics: Choosing Good Metrics, GQM for Better Security
+Metrics, More Security Uses for GQM, Summary.
+UNIT-II:
+Understanding Data: What Are Data? Data Sources for Security Metrics; We Have
+Metrics and Data -Now what, Summary, Case Study 1. The Security Process
+Management Framework: Managing Security as a Business Process, the SPM
+Framework, Before You Begin SPM, Summary. The Analysing Security Metrics Data: The
+Most Important Step, Analysis Tools and Techniques, Summary.
+UNIT-III:
+Designing the Security Measurement Project: Before the Project Begins, Phase One:
+Build a Project Plan and Assemble the Team, Phase two: Gather the Metrics
+Data, phase Three: Analyze the Metrics Data and Build Conclusions, phase Four: Present
+Results, Phase Five: Reuse the Results, Project Management Tools, Summary.
+UNIT-IV:
+Measurements Security Operations: Sample Metrics for Security Operations, Sample
+Measurement Project for Security Operations, Summary. Measuring Compliance and
+Conformance: The Challenges of Measuring Compliance, Sample Measurement
+Projects for Compliance and Conformance, Summary.
+UNIT-V:
+Measuring Security Cost and Value: Sample Measurement Projects for Compliance and
+Conformance, The Importance of Data to Measuring Cost and Value, Summary.
+Measuring People, Organizations, and Culture: Sample Measurement Projects for
+People, Organizations, and Culture, Summary.
+The Security Improvement Program: Moving from Projects to Programs, Managing
+Security Measurement with a Security, Requirements for a SIP, Measuring the SIP,
+Summary.
+TEXT BOOKS:
+1. IT Security Metrics, Lance Hayden, Tata Mcgraw-Hill
+2. Security Metrics, Caroline Wong, TATA Mcgraw-Hill
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1CN13) ADVANCED NETWORK SECURITY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To explore to advanced topics in network security issues
+• To identify the lattice- based cryptanalysis and elliptic curves and pairings
+• To understand birthday- based algorithms for functions and attacks on stream
+ciphers
+• To apply the cryptographic techniques for secure transactions in real world
+applications
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Identify and investigate vulnerabilities and security threats and the mechanisms
+to counter them
+CO-2: Explore more network security issues like authentication, anonymity, denial of
+service, encryption, forensics etc. in both wired and wireless networks
+CO-3: Evaluate various intrusion detection and intrusion prevention mechanisms
+CO-4: Apply cryptographic services to real-time web applications to defend against
+attacks
+CO-5: Apply various web services techniques in real time scenario
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 2 2 2 2 -
+CO-2 3 1 2 3 2 1
+CO-3 3 2 1 2 1 -
+CO-4 3 - 2 3 3 -
+CO-5 3 1 1 2 2 1
+UNIT-I:
+IEEE 802.11 Wireless Lan Security: Background, Authentication Pre- WEP Authentication,
+Authentication in WEP, Authentication and key agreement in 802.11i, Confidentiality
+and Integrity: Data protection in WEP, Data protection in TKIP and CCMP
+UNIT-II:
+Cell Phone Security: Preliminaries, GSM(2G) Security – Entity authentication and key
+management, Encryption, Security in UMTS(3G)- Security enhancements,
+Authentication and key management, Integrity protection and encryption
+UNIT-III:
+Non-Cryptographic Protocol Vulnerabilities: DoS, DDoS, Session Hijacking and Spoofing,
+Pharming Attacks, Wireless LAN Vulnerabilities
+Software Vulnerabilities: Phishing, Buffer Overflow, Format String Attacks, Cross-Site
+Scripting (XSS), SQL Injection
+UNIT-IV
+Intrusion Prevention and Detection: Introduction, Prevention versus Detection, Types of
+Intrusion Detection systems, DDoS Attack Prevention and Detection, Malware Defense
+UNIT-V:
+Web Services Security: Motivation, Technologies for Web Services, WS-Security, SAML,
+Other Standards
+TEXT BOOKS:
+1. Cryptography, Network Security, and Cyber Laws: Bernard L. Menezes, Ravinder
+Kumar, Cengage Learning
+2. Network Security and Cryptography, Bernard Menezes, Cengage Learning
+REFERENCES:
+1. Cyber Security: Nina Godbole, Sunit Belapure, Wiley India
+2. Network Security Hacks: Andrew Lockhart, O’Reilly, SPD
+3. Cryptography and Network Security: Forouzan Mukhopadhyay, 2nd Edition,
+McGraw Hill
+4. Principles of Computer Security, W. M. Arthur Conklin, Greg White, TMH
+5. Wireless Security-Models, Threats, and Solutions, Randall K. Nichols, Panos C. Lekkas,
+TMH
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1CN14) INTRUSION DETECTION
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To compare alternative tools and approaches for Intrusion detection through
+quantitative analysis to determine the best tool or approach to reduce risk from
+intrusion
+• To identify and describe the parts of all intrusion detection systems and characterize
+new and emerging IDS technologies according to the basic capabilities all intrusion
+detection systems share
+• To address various classes of Network attacks such as Dos, DDoS and Routing attacks
+• To introduce approaches for misuse detection and anomaly detection
+• To introduce SVM techniques for evaluation
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply knowledge of the fundamentals and history of Intrusion Detection
+toavoidcommonpitfallsinthecreationandevaluationofnewIntrusiondetectionsystems
+CO-2: Understand the strategies and classes of attacks
+CO-3-: Evaluate the security of an enterprise and appropriately apply Intrusion
+Detection tools and techniques to improve their security posture
+CO-4: Analyze zero-day detection-Insider Threat issues
+CO-5: implement Fuzzy logic and SVM for increasing accuracy
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 2 2 2 2 3
+CO-2 2 2 2 3 2 2
+CO-3 2 2 3 2 3 2
+CO-4 3 3 2 2 2 2
+CO-5 2 2 2 2 2 3
+UNIT-I:
+Introduction: The state of threats against computers, and networked systems-
+Challenges in computer security Solutions-Vulner ability assessment, firewalls, VPN’s-
+Intrusion Detection and Intrusion Prevention-Network and Host-based IDS, A General IDS
+model and taxonomy, what are signature based and anomaly-based IDS.
+UNIT-II:
+Strategies of the Attacker: Malicious Code Analysis, Classification of Infection Strategies,
+Basic Self Protection Strategies; Strategies of Computer worms, Exploits, Vulnerabilities
+and Buffer over flow attacks.
+UNIT-III:
+Classes of Network Attacks: Probes, Privilege Escalation Attacks, Denial of Service (DoS)
+and Distributed Denial of Service (DDoS) Attacks, Worms Attacks, Routing Attacks
+UNIT-IV:
+Detection Approaches: Mis use Detection Pattern Matching, Rule based Techniques,
+State based Techniques, Techniques based on Data Mining; Anomaly Detection-
+Advanced Statistical Models, Rule based techniques, Biological Models, Learning
+Models; Specification based Detection; Hybrid Detection.
+UNIT-V:
+Theoretical Foundations of Detection: Taxonomy of Anomaly Detection Systems, Fuzzy
+Logic, Bayes Theory, Artificial Neural Networks, Support Vector Machines (SVM),
+Evolutionary Computation, Association Rules, Clustering; Evaluation Criteria- Accuracy,
+Performance, Completeness, Timely Response.
+TEXT BOOKS:
+1. The Art of Computer Virus Research and Defense, Peter Szor, Symantec Press
+2. Network Intrusion Detection and Prevention, Concept and Techniques, Alia.
+Ghorbani, WeiLu Mahbod Tavallaee, Springer, 2010
+3. Crimeware, Understanding New Attacks and Defenses, Markus Jakobsson and
+Zulfikar Ramzan, Symantee Press
+REFERENCES:
+1. Anomaly Detection Principles Algorithms, Kishan G. Mehrotra, Chilukuri K. Mohan,
+HuaMing Huang, Springer, 2017
+2. Intrusion Prevention System – A Complete Guide, Geradus Blokdyk, 5 Star Cokks,
+2019
+3. Implementing Intrusion Detection Systems, Crothers Tim, John Wiley & Sons, 2002
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1CN15) CLOUD SECURITY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OUTCOMES:
+• To learn the basic concepts of cloud computing and security in cloud
+• To learn access control mechanisms in cloud and how only legitimate persons or
+processes is having access to the data
+• To ensure that the cloud meets cloud compliance
+• To identify the need to explore disaster recovery mechanism
+• To identify various Failure Detection and Prediction mechanisms
+COURSE OBJECTIVES: After completion of the course, the student should be able to
+CO-1: Understand the fundamentals of cloud computing and security issues
+CO-2: Explore various access control mechanisms in cloud and addressing OS and
+network security related issues
+CO-3: Preparing to meet security compliance requirements
+CO-4: Exploring various methodologies for disaster recovery and various advanced
+security issues
+CO-5: Understand various Failure Detection and Prediction mechanisms
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 3 1 1 1 2
+CO-2 3 2 3 3 3 1
+CO-3 2 3 3 2 2 2
+CO-4 3 2 2 2 2 2
+CO-5 2 2 2 2 2 2
+UNIT-I:
+Introduction: Cloud Computing Essentials. Cloud Security Baselines. Software as a
+Service (SaaS). Infrastructure as a Service (Iaas). Platform as a Service (Paas). Desktop
+as a Service (DaaS). Software And Data Segregation Security.
+Risk Analysis and Division of Responsibility. Managing Risks in the Cloud. Dividing
+Operational Responsibility and Visibility. Retaining Information Security Accountability.
+Managing User Authentication and Authorization. Negotiating Security Requirements
+with Vendors. Identifying Needed Security Measures. Establishing a Service Level
+Agreement (SLA). Ensuring SLAs Meet Security Requirements.
+UNIT-II:
+Securing the Cloud Infrastructure: Securing the Platform. Restricting Network Access
+through Security Groups. Configuring Platform-Specific User Access Control. Integrating
+Cloud Authentication/Authorization Systems. Compartmentalizing Access To Protect
+Data Confidentiality and Availability. Securing Data in Motion and Data at Rest.
+Identifying Your Security Perimeter. Cloud Access Control and Key Management. Cloud
+Computing Architecture and Security Concepts. Secure Cloud Architecture. Designing
+Resilient Cloud Architectures.
+UNIT-III:
+Operating System and Network Security: Locking Down Cloud Servers. Scanning for and
+Patching Vulnerabilities. Controlling and Verifying Configuration Management.
+Leveraging Provider-Specific Security Options. Defining Security Groups to Control
+Access. Filtering Traffic by Port Number. Benefiting from the Provider's Built-In Security.
+Protecting Archived Data.
+UNIT-IV:
+Meeting Compliance Requirements: Managing Cloud Governance. Retaining
+Responsibility for the Accuracy of the Data. Verifying Integrity in Stored and Transmitted
+Data. Demonstrating Due Care and Due Diligence. Integrity Assurance for Data
+Outsourcing. Secure Computation Outsourcing. Integrity and Verifiable Computation.
+Independent Verification and Validation. Computation Over Encrypted Data. Trusted
+Computing Technology. Assuring Compliance with Government Certification and
+Accreditation Regulations. HIPAA. Sarbanes-Oxley. Data Protection Act. PCI DSS.
+Following Standards for Auditing Information Systems. Negotiating Third-Party Provider
+Audits.
+UNIT-V:
+Preparing for Disaster Recovery: Implementing a Plan to Sustain Availability. Distributing
+Data Across the Cloud to Ensure Availability and Performance. Addressing Data
+Portability and Interoperability for a Change in Cloud Providers. Exploiting the Cloud for
+Disaster Recovery Options. Achieving Cost-Effective Recovery Time Objectives.
+Employing a Strategy of Redundancy to Better Resist DoS. Secure Data Management
+Within and Across Data Centers. Availability, Recovery and Auditing.
+Advanced Failure Detection and Prediction. Advanced Secure Mobile Cloud. Future
+Directions in Cloud Computing Security—Risks and Challenges
+TEXT BOOKS:
+1. Cloud Computing Security Foundations and Challenges, John R. Vacca, CRC Press,
+2020
+2. Practical Cloud Security A Guide for Secure Design and Deployment, Chris Dotson,
+2019, Oreilly Publications
+REFERENCES:
+1. Cloud Security and Privacy: An Enterprise Perspective on Risks and Compliance, Tim
+Mather, Subra Kumaraswamy, Shahed Latif, Oreilly Publications, 2009
+2. Building the Infrastructure for Cloud Security A Solutions View, Raghuram Yeluri,
+Enrique Castro-Leon, A Press Publications, 2014
+3. Cloud Security Attacks, Techniques, Tools, and Challenges, Preeti Mishra, Emmanuel
+S. Pilli, R. C. Joshi, CRC Press, 2021
+4. Cloud Security Concepts, Applications and Perspectives, Brij Gupta, CRC
+Press/Taylor & Francis Group, 2021
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1CN16) CRYPTANALYSIS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: A Course on computer networks, Mathematics
+COURSE OBJECTIVES:
+• To understand the importance of cryptanalysis in our increasingly computer-driven
+world
+• To identify the Lattice- based cryptanalysis and elliptic curves and pairings
+• To design birthday- based algorithms for functions and attacks on stream ciphers
+• To apply the cryptographic techniques for secure transactions in real world
+applications
+COURSE OUTCOMES: After completion of the course, the students should be able to
+CO-1: Identify and investigate vulnerabilities and security threats and the mechanisms
+to counter them
+CO-2: Apply cryptanalysis in system design to protect it from various attacks
+CO-3: Analyze security of cryptographic algorithm against brute force attacks, birthday
+attacks
+CO-4: Explore modern cryptanalysis methods using lattices and elliptic curve pairing
+CO-5: Explore cryptographic application in the context of block wise security
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 1 1 1 1 1
+CO-2 3 1 3 3 3 -
+CO-3 3 - 2 2 2 -
+CO-4 1 - 1 2 2 1
+CO-5 1 1 - - 1 1
+UNIT-I:
+Number Theory: Integers and Rational numbers, Greatest common divisor in Z, Modular
+arithmetic, Modular arithmetic, Univariate polynomials, Rational fractions, Finite fields,
+Vector spaces and Linear maps.
+Linear Algebra: Introduction, Matrix multiplication over F¬2, Dense matrix multiplication,
+Gaussian elimination algorithms, Sparse linear algebra
+Sieve Algorithms: Introduction, Eratosthenes’s sieve, Sieving for smoothcomposites
+UNIT-II:
+Monoalphabetic Ciphers: The Caesar Cipher, Solution of Additive alphabets,
+Multiplicative alphabets and Mixed alphabets, Solution of five-letter grouping.
+Polyalphabetic Substitution: Polyalphabetic ciphers, Recognition of polyalphabetic
+ciphers, Determination of number of alphabets, Solution of additive subalphabets,
+Mixed plain sequences, Matching alphabets, Reduction to monoalphabet, Mixed
+ciphersequences
+UNIT-III:
+Transposition: Columnar transposition, Completely filled rectangles, Incompletely filled
+rectangles, Solution – Probable word method, General case, Identical length
+messages.
+Brute Force Cryptanalysis: Introduction, Dictionary attacks , Brute force and the DES
+Algorithm, Brute force as a security mechanism, Brute force steps in advanced
+cryptanalysis, Brute force and parallel computers.
+UNIT-IV:
+The Birthday Paradox: Introduction, Birthday attacks on modes of operation, Analysis of
+birthday paradox bounds, Finding collisions, Application to discrete logarithms in
+generic groups.
+Birthday-based Algorithms for Functions: Algorithmic aspects, Analysis of random
+functions, Number- theoretic applications, A direct cryptographic application in the
+context of blockwise security, Collisions in hash functions, Hellman’s time memory
+tradeoff
+UNIT-V:
+Lattice-Based Cryptanalysis: Direct attacks using lattice reduction, Coppersmith’s small
+roots attacks.
+Elliptic Curves and Pairings: Introduction to elliptic curves, The Weil pairing, the elliptic
+curve factoring method.
+TEXT BOOKS:
+1. Algorithmic Cryptanalysis, Antoine Joux, Published CRC Press, 2009
+2. Elementary Cryptanalysis Mathematical Approach, Abraham Sinkov, Mathematical
+Association of America, 2009
+REFERENCES:
+1. Algebraic Cryptanalysis, Bard Gregory, Springer, 2009
+2. Cryptanalysis of Number Theoretic Ciphers, Sameul S. Wag Staff, Chapman &
+Hall/CRC
+3. Cryptanalysis: A Study of Cipher and Their Solution, Helen F. Gaines,1989
+4. Applied Cryptanalysis, Mark Stamp, Richard M. Low, Wiley Interscience 2007
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1CN17) DEEP LEARNING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand foundation aspects of deep learning and the canonical workflow for
+solving data problems using deep learning
+• To understand the design aspects of neural networks and build neural networks for
+building learning models
+• To gain knowledge of deep learning techniques used for building prediction models
+• To learn the working of deep learning methods, methodologies and techniques to
+gain
+• To impact design thinking capability to handle big data problems
+COURSE OUTCOMES: After completion of the course, the students should be able to
+CO-1: Demonstrate proficiency in understanding fundamentals of deep learning
+methods and relate them to real-world use cases
+CO-2: Demonstrate skills in designing and building mathematical models
+CO-3: Develop the ability to build and assess neural network based learning models
+CO-4: Apply deep learning concepts and methods to solve problems in real-world
+context and will communicate these solutions effectively
+CO-5: Develop relevant programming abilities
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 2 3 2 2 3
+CO-2 2 2 2 1 2 3
+CO-3 3 2 3 1 3 3
+CO-4 2 2 2 2 2 3
+CO-5 2 2 3 2 2 3
+UNIT–I:
+Fundamentals of Deep Learning: Essential context around artificial intelligence,
+machine learning and deep learning, learning representations from data, The deep in
+deep learning, Understanding how deep learning works, what deep learning has
+achieved so far, Don’t believe the short-term hype, The promise of AI.
+Before Deep Learning: Brief overview of classical machine learning approaches -
+Probabilistic modeling, early neural networks, Kernel methods, Decision trees, random
+forests and gradient boosting machines, back to neural networks, what makes deep
+learning different, The modern machine learning landscape. Why deep learning? Why
+now? – Hardware, Data, Algorithms, A new wave of investment, democratization of
+deep learning
+UNIT–II
+The Mathematical Building Blocks Of Neural Networks : A first look at a neural network;
+Data representations for neural networks – Scalars, Vectors, Matrices, 3D tensors and
+higher-dimensional tensors, Key attributes such as rank, shape and data type,
+Manipulating tensors in Numpy, The notion of data batches, Real-world examples of
+data tensors, Vector data, Timeseries data or sequence data, Image data, Video data;
+The Gears of Neural Networks: tensor operations - Element-wise operations,
+Broadcasting, Tensor dot, Tensor reshaping, Geometric interpretation of tensor
+operations, A geometric interpretation of deep learning; The engine of neural networks:
+gradient-based optimization - What’s a derivative? , Derivative of a tensor operation:
+the gradient, Stochastic gradient descent, Chaining derivatives: the Backpropagation
+algorithm.
+UNIT–III:
+Getting Started with Neural Networks: Anatomy of a neural network - Layers, Models,
+Loss functions and optimizers; Introduction to Keras; Setting up a deep-learning
+workstation; Practical Keras examples - Classifying movie reviews: a binary classification
+example; Classifying newswires: a multiclass classification example, Predicting house
+prices: a regression example.
+Fundamentals of Machine Learning: Four branches of machine learning - Supervised
+learning, Unsupervised learning, Self-supervised learning, Reinforcement learning;
+Evaluating machine-learning models - Training, validation, and test sets,Things to keep
+in mind when choosing evaluation protocol; Data preprocessing, feature engineering,
+and feature learning; Overfitting and underfitting; The universal workflow of machine
+learning.
+UNIT–IV:
+Deep Learning For Computer Vision: Introduction to convnets - The convolution
+operation, The max-pooling operation; Training a convnet from scratch on a small
+dataset - The relevance of deep learning for small-data problems, Downloading the
+data, Building your network, Data preprocessing, Using data augmentation; Using a
+pretrained convnet - Feature extraction, Fast feature extraction without data
+augmentation, Feature extraction with data augmentation, Fine-tuning; Visualizing
+what convnets learn - Visualizing intermediate activations, Visualizing convnet filters,
+Visualizing heatmaps of class activation.
+Deep Learning for Text and Sequences: Working with text data - One-hot encoding of
+words and characters, using word embeddings, from raw text to word embeddings;
+Understanding recurrent neural networks - A recurrent layer in Keras, Understanding the
+LSTM and GRU layers, A recurrent layer in Keras; Advanced use of recurrent neural
+networks - A temperature-forecasting problem, Preparing the data, A common-sense,
+non-machine-learning baseline, A basic machine-learning approach, A first recurrent
+baseline, Using recurrent dropout to fight overfitting, Stacking recurrent layers, Using
+bidirectional RNNs; Sequence processing with convnets - Understanding 1D convolution
+for sequence data, 1D pooling for sequence data, Implementing a 1D convnet,
+Combining CNNs and RNNs to process long sequences.
+UNIT-V:
+Advanced Deep-Learning Best Practices: Going beyond the Sequential model (The
+Keras functional API); Inspecting and monitoring deep-learning models using Keras
+callbacks and Tensor Board; Advanced architecture patterns, Hyper parameter
+optimization; Model ensembling.
+Generative Deep Learning: Text generation with LSTM; Major development in deep-
+learning-driven image modification – Deep Dream and Neural style transfer;
+Generating images with variational autoencoders; Introduction to generative
+adversarial networks; The limitations of deep learning - The risk of anthropomorphizing
+machine-learning models, Local generalization vs. extreme generalization; The future
+of deep learning - Models as programs, Beyond backpropagation and differentiable
+layers, Automated machine learning, Lifelong learning and modular subroutine reuse,
+The long-term vision.
+TEXT BOOKS:
+1. Deep Learning with Python, Francois Chollet, 2nd Edition, Manning Publications Co.,
+2021
+REFERENCES:
+1. Deep Learning: Methods and Applications, Li Deng, Dong Yu, Now, 2014
+2. Deep Learning: Core Concepts, Methods and Applications, M. Gopal, Pearson
+Education, 1st Edition, 2022
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1CN18) INFORMATION SYSTEMS CONTROL AND AUDIT
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: An idea of An information system (IS) audit or information
+technology (IT) audit in entity's Information technology infrastructure to achieve the
+organization's goals or objectives.
+COURSE OBJECTIVES:
+• To understand the foundations of information systems auditing
+• To understand the management, application control framework
+• Tounderstandabouttheevidencecollectionandevidenceevaluationprocess
+• To understand about Information systems audit management
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the concepts of Information systems auditing and IT application in
+auditing
+CO-2: Apply Management control and application control framework
+CO-3: Analyze the evidence collection Evaluating the evidence
+CO-4: Build towards Information system Audit Professionalism
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 1 1 2 2 2
+CO-2 3 2 2 3 3 2
+CO-3 3 2 3 2 3 2
+CO-4 3 2 3 3 2 3
+CO-5 3 2 2 2 3 2
+UNIT-I:
+Introduction: Overview of Information Systems & Auditing: Need for control and audit of
+computers, Effect of Computers on Internal Controls, Effects of Computers on Auditing,
+Foundations of information Systems Auditing, Conducting an Information Systems Audit.
+UNIT-II:
+The Management Control Framework: Introduction, Evaluating the planning Function,
+Organizing Function, Leading Function, Controlling Function, Systems Development
+Management Controls, Approaches to Auditing Systems Development, Normative
+Models of the Systems Development Process, Evaluating the Major phases in the
+Systems Development Process, Programming Management Controls, Data Resource
+Management Controls. Security Management Controls, Operations management
+Controls, Quality assurance Management Controls.
+UNIT-III:
+The Application Control Framework: Boundary Controls, Input Controls, Communication
+Controls, Processing Controls, Database Controls, output Controls.
+UNIT-IV:
+Evidence Collection: Audit Software, Code Review, Test Data, and Code Comparison,
+Concurrent Auditing techniques, Interviews, Questionnaires, and Control Flowcharts.
+Performance Measurement tools.
+UNIT-V:
+Evidence Evaluation & Information Systems Audit Management: Evaluating Asset
+Safeguarding and Data Integrity, Evaluating System Effectiveness, Evaluating System
+Efficiency. Planning function, Organizing function, Staffing function, Leading function,
+Controlling function, Towards Information Systems Audit Professionalism
+TEXT BOOKS:
+1. Information Systems Control and Audit, Ron Weber, Pearson Education, 2002
+REFERENCES:
+1. Systems Audit, M. Revathy Sriram, TMH, New Delhi, 2001
+2. Software Project Management in Practice, Jalote, Pearson Education
+3. Software Project Management, Royce, Pearson Education
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PC2CN03) WIRELESS NETWORKS AND ETHICAL HACKING LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To learn about cryptography, and basics of web application attacks
+• To gain knowledge of the tools, techniques and ethical issues likely to face in the
+domain of ethical hacking
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the basics of network simulation and its tools
+CO-2: Implement the RIP and OSPF protocols
+CO-3: Identify and classify computer and security threats and develop a security model
+to prevent, detect and recover from attacks
+CO-4: Apply key management and distribution in cryptography
+CO-5: Gain the knowledge on MANETS and system hacking
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 2 3 1 2 2
+CO-2 2 1 2 2 2 3
+CO-3 3 2 2 3 3 3
+CO-4 2 2 3 3 3 3
+LIST OF EXPERIMENTS / EXERCISES:
+1. Installation of simulation tools in Linux/Windows environment
+2. Introduction about discrete events simulation and its tools like NetSim, NS2, etc
+3. Study the working of simple TCP and UDP protocols
+4. Study how the Data Rate of Wireless LAN (IEEE 802.11b) Network varies as the
+distance between the Access Point and the wireless nodes is varied
+5. Study the working and routing table formation of Interior routing table formation of
+interior routing protocol ,
+6. i.e. Routing Information Protocol (RIP)
+7. Study the working and routing table formation of Interior routing table formation of
+interior routing protocol ,
+8. i.e. Open Shortest Path First(OSPF)
+9. Analyze the performance of a MANET,(running CSMA/CA(802.11b) in MAC)with
+increasing node density
+10. Analyze the performance of a MANET,(running CSMA/CA(802.11b) in MAC)with
+increasing node mobility
+11. Study the working of BGP and formation of BGP Routing table
+ETHICAL HACKING LAB:
+1. Using Active and Passive Techniques for scanning Networks, Enumeration, sniffing to
+Enumerate Network Hosts.
+2. Conducting Active and Passive Foot printing and Reconnaissance against Target.
+3. Using NMAP Tool for discovery, security auditing and vulnerability checking
+4. Using Armitage to Attack the Network.
+5. Using Metasploit to Attack a Remote System - Scanning Networks, Enumeration,
+Sniffers, Evading IDS, Firewalls, and Honeypots.
+6. Using Malware – Dark Comet for System Hacking, Trojans and Backdoors, Viruses
+and Worms.
+7. Using the SHARK Remote Administration Tool for System Hacking, Trojans and
+Backdoors, Viruses and Worms.
+8. Attacking a System- Using the SYSTEM account – System Hacking, Intrusion Detection
+– Evading IDS, Firewalls, and Honeypots.
+9. Web-Based Hacking Servers and Applications for exploitation with IPv6 – System
+Hacking, Denial of Service, SQL Injection – Hacking Webservers, Hacking Web
+Applications, LaunchingBuffer Overflow – System Hacking, Buffer Overflow.
+10. Cryptography - Breaking Windows Passwords –System Hacking, Using John the
+Ripper to Crack
+TEXT BOOKS:
+1. CEH official Certified Ethical Hacking Review Guide, Wiley India Edition
+2. Certified Ethical Hacker: Michael Gregg, Pearson Education
+3. Certified Ethical Hacker: Matt Walker, TMH
+REFERENCES:
+1. Computer Security, Concepts, Issues and Implementation, Alfred Basta Wolf Halton,
+Cengage Learning
+2. Hacking Exposed Web 2.0, Rich Annings, Himanshu Dwivedi, Zane Lackey, Tata
+Mcgraw Hill Edition
+3. Ethical Hacking & Network Defense, Michael T. Simpson, Cengage Learning
+4. Hacking Exposed Windows, Joel Scambray, Stuart Mcclure, 3rd Edition, Tata McGraw
+Hill Edition
+5. Hacking Exposed Window Server 2003, Joel Scambray, Stuart Mcclure, Tata
+McGraw Hill Edition
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PC2CN04) MACHINE LEARNING AND SECURITY LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE PRE-REQUISITES: This course requires a general understanding of machine
+learning algorithms for security data and an intermediate level of python coding ability
+COURSE OBJECTIVES:
+• To explore how machine learning has aided the success of modern spam filters
+• To analyze malware by extracting useful information from real-world problems
+• To observe network attackers by investigating patterns in datasets using machine
+learning algorithms
+• To identify the threat which attackers pose to machine learning solutions
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the modern notions in machine learning methods and security issues
+CO-2: Apply machine learning algorithms such as clustering, k-means, and Naive Bayes
+to solve real-world problems
+CO-3: Learn how to use machine learning to combat malware, detect spam, and
+combat financial fraud to mitigate security issues
+CO-4: Be capable of confidently applying common Machine Learning algorithms in
+practice and implementing their own
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 2 2 2 2 3
+CO-2 3 2 2 2 3 3
+CO-3 2 2 3 3 2 3
+CO-4 3 3 3 3 3 3
+LIST OF EXPERIMENTS:
+1. Introduction to Python Programming: Learn the different libraries for Machine
+Learning applications –NumPy, Pandas, SciPy, Matplotlib, Scikit Learn.
+2. Write a program to assess password security using machine learning techniques.
+3. Write a program to implement a machine-learning algorithm for detecting malicious
+URLs.
+4. Write a program to implement the Naïve Bayesian algorithm for SMS – Spam
+detection.
+5. Write a program to implement a Decision Tree for Context-Based Malicious Event
+Detection.
+6. Write a program that uses a logistic regression classifier to detect credit card fraud.
+7. Implement the non-parametric Locally Weighted Regression Algorithm in order to fit
+data points. Select the appropriate data set for your experiment and draw graphs.
+8. Implement the EM algorithm to cluster a set of data stored in a .CSV file. Use the
+same data set for clustering using the k-Means algorithm. Compare the results of
+these two algorithms and comment on the quality of clustering.
+9. Write a program to use k-means to implement efficient network anomaly detection.
+10. Write a program for Intrusion Detection System with Machine learning.
+TEXT BOOKS:
+1. Hands-On Machine Learning for Cybersecurity: Safeguard your system, Halder,
+Soma, and Sinan Ozdemir, making your machines intelligent using the Python
+ecosystem, Packt Publishing Ltd, 2018
+REFERENCES:
+1. Machine Learning: An Algorithmic Perspective, Stephen Marshland, Taylor & Francis
+2. Machine Learning and Security: Prototyping Systems With Data and Algorithms, Chio
+C, Freeman. D, O’Reilly Media, 2018
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PW4CN02) MINI-PROJECT
+TEACHING SCHEME
+L T/P C CIE SEE TOTAL
+0 4 2 40 60 100
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the formulated industry / technical / societal problems
+CO-2: Analyze and / or develop models for providing solution to industry / technical / societal
+problems
+CO-3: Interpret and arrive at conclusions from the project carried out
+CO-4: Demonstrate effective communication skills through oral presentation
+CO-5: Engage in effective written communication through project report
+COURSE OUTLINE:
+• A student shall undergo a mini-project during II semester of the M.Tech. programme.
+• A student, under the supervision of a faculty member, shall collect literature on an allotted
+project topic of his / her choice, critically review the literature, carry out the project work,
+submit it to the department in a prescribed report form and shall make an oral presentation
+before the departmental Project Review Committee.
+• Evaluation of the mini-project shall consist of CIE and SEE and shall be done by a Project
+Review Committee (PRC) consisting of the Head of the Department, faculty supervisor and
+a senior faculty member of the specialization / department.
+• CIE shall be carried out for 40 marks on the basis of review presentation as per the calendar
+dates and evaluation format.
+• SEE shall be carried out at the end of semester fpr 60 marks on the basis of oral presentation
+and submission of mini-project report.
+• Prior to the submission of mini-project report to the PRC, its soft copy shall be submitted to
+the PG Coordinator for PLAGIARISM check.
+• The mini-project report shall be accepted for submission to the PRC only upon meeting the
+prescribed similarity index of less than 25%.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22MN6HS02) ANCIENT WISDOM
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE-I SE-II SEE TOTAL
+2 0 0 50 50 - 100
+COURSE OBJECTIVES:
+• To introduce the contribution from Ancient Indian system & tradition to modern
+science & Technology
+• To trace, identify and develop the ancient knowledge systems
+• To introduce the sense of responsibility, duties and participation of individual for
+establishment of fearless society
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Familiarize learners with major sequential development in Indian science,
+engineering and technology
+CO-2: Understand eco-friendly, robust and scientific planning and architecture system
+of ancient India
+CO-3: Trace, identify, practice and develop the significant Indian mathematic and
+astronomical knowledge
+CO-4: Understand the importance of Indian aesthetics in individual realization of the
+truth arises by realizing the harmony within
+UNIT-I:
+Indian Science & Technology: Indian S & T Heritage, sixty-four art forms and
+occupational skills (64 Kalas)
+Ancient Architecture:
+Scientific Achievements though Ancient Architect: Musical Pillars of Vitthal temple,
+Sundial of konark temple, construction of eight shiva temple in straight line from
+Kedarnath to rameshwaram at longitude 79oE 41’54, Veerbhadra temple with 70
+hanging pillars
+UNIT-II:
+Foundation Concept for Science and Technology: The Introduction to Ancient
+Mathematics & Astronomy Introduction to Brief introduction of inception of
+Mathematics & Astronomy from vedic periods. Details of different authors who has
+given mathematical & astronomical sutra (e.g. arytabhatta, bhaskara, brahmagupta,
+varamahira, budhyana, yajanvlkya, panini, pingala, 22 bharat muni, sripati,
+mahaviracharya, madhava, Nilakantha somyaji, jyeshthadeva, bhaskara-II, shridhara
+Number System and Units of Measurement, concept of zero and its importance, Large
+numbers & their representation, Place Value of Numerals, Decimal System,
+Measurements for time, distance and weight, Unique approaches to represent numbers
+(Bhūta Saṃkhya System, Kaṭapayādi System), Pingala and the Binary system,
+Knowledge Pyramid
+Indian Mathematics, Great Mathematicians and their contributions, Arithmetic
+Operations, Geometry (Sulba Sutras, Aryabhatiya-bhasya), value of 𝜋, Trigonometry,
+Algebra, Chandah Sastra of Pingala, Indian Astronomy, celestial coordinate system,
+Elements of the Indian Calendar Aryabhatiya and the Siddhantic Tradition Pancanga
+– The Indian Calendar System
+UNIT-III:
+Humanities & Social Sciences: Health, Wellness & Psychology, Ayurveda Sleep and
+Food, Role of water in wellbeing Yoga way of life Indian approach to Psychology, the
+Triguṇa System Body-Mind-IntellectConsciousness Complex. Governance, Public
+Administration & Management reference to ramayana, Artha Sastra, Kauṭilyan State
+UNIT-IV:
+Aspiration and Purpose of Individual and Human Society: Aims of Human life; at
+individual level and societal level. At societal level; Four purusarthas Dharma, Artha,
+Kama, Moksha.
+Individual Level:
+Program for Ensuring Human Purpose:
+Fundamental Concept of Nitishastra: Satyanishtha Aur Abhiruchi (Ethics, Integrity &
+aptitude). The true nature of self; Shiksha Valli, Bhrigu Valli (concept of Atman-Brahman
+(self, soul).
+The True Constitution of Human: Ananda Valli (Annamaya Kosha, Pranamaya Kosha,
+Manomaya Kosha, Vijnanamaya Kosha, Anandamaya Kosha). The four states of
+consciousness (Waking state, Dreaming state, Deep Sleep State, Turiya the fourth state),
+Consciousness (seven limbs and nineteen mouths), Prajna, Awarness. The Life Force
+Prana (Praana-Apaana-Vyaana-Udaana- Samaana
+Ancient Indian Science (Ayurveda & Yoga)
+Ayurveda for Life, Health and Well-being: Introduction to Ayurveda: understanding
+Human body and Pancha maha bhuta, the communication between body & mind,
+health
+Introduction to Yoga: Definition, Meaning and objectives of Yoga, Relevance of yoga
+in modern age. the six cleansing procedures of Yoga, understanding of Indian
+psychological concept, consciousness, tridosha & triguna.
+UNIT-V:
+Five Important Slokas for Enlightenment
+Gayatri Mantram, Santi Mantram: Asatoma Sadgamaya, Geeta (Yada Yadahi
+Dharmasya, Glanirbhavati Bharata), Amanitwam Adambitwam..,
+Karmanyevadikarastu… Maa phaleshukadachana
+TEXT BOOKS:
+1. Textbook on Indian Knowledge Systems, Prof. B Mahadevan, IIM Bengaluru
+2. Indian Knowledge Systems, Kapur K. and Singh A. K., 2005
+REFERENCES:
+1. Tatvabodh of Sankaracharya, Central Chinmay Mission Trust, Bombay, 1995
+2. Value and Distribution System in India, B. L. Gupta, Gyan Publication House
+3. Ancient Indian Culture and Civilization, Reshmi Ramdhoni, Star Publication, 2018
+4. Ancient Indian Society, Maharaj Swami Chidatmanjee, Anmol Publication
+5. Ancient Indian Classical Music, Lalita Ramkrishna, Shubhi Publications
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22PE1CP21) BLOCK CHAIN TECHNOLOGY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To familiarize the functional/operational aspects of cryptocurrency ecosystem
+• To understand Blockchain Technology architecture and components
+• To smart contracts and Bitcoins
+• To understand Blockchain and other technologies
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand blockchain technology
+CO-2: Understand the concept of distributed transactions and Bitcoin
+CO-3: Remember the concept of Fault Tolerant Mechanisms
+CO-4: Apply various security algorithms
+CO-5: Understand Blockchain and Machine Learning
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 3 2 2 1 1
+CO-2 3 3 2 2 2 2
+CO-3 3 2 2 3 2 2
+CO-4 3 2 3 1 1 2
+CO-5 2 2 1 1 2 1
+UNIT-I:
+Basics of Blockchain: Introduction, Concept of Blockchain, History, Definition of
+Blockchain, Fundamentals of Blockchain, P2P Network, Characteristics of Blockchain,
+Consensus in Trust-Building Exercise, Public, Private, and Hybrid Blockchains, Distributed
+Ledger Technologies, DLT Decentralized Applications and Databases, Architecture of
+Blockchain, Transactions, Chaining Blocks, Value Proposition of Blockchain Technology
+UNIT-II:
+Architecture of Blockchain: Architecture of Blockchain, Transactions, Chaining Blocks,
+Value Proposition of Blockchain Technology, Consensus: Introduction, Consensus
+Approach, Consensus Algorithms, Byzantine Agreement Methods
+UNIT-III:
+Bitcoins: Introduction, Working of Bitcoin, Merkle Trees, Bitcoin Block Structure, Bitcoin
+Address, Bitcoin Transactions, Bitcoin Network, Bitcoin Wallets, Bitcoin Payments, Bitcoin
+Clients, Bitcoin supply.
+UNIT-IV:
+Blockchain Components: Introduction, Ethereum, History, Ethereum Virtual Machine,
+Working of Ethereum, Ethereum Clients, Ethereum Key Pairs, Ethereum Addresses,
+Ethereum Wallets, Ethereum Transactions, Ethereum Languages, Ethereum
+Development Tools
+Smart Contracts: Introduction, Smart Contracts, Absolute and Immutable, Contractual
+Confidentiality, Law Implementation and Settlement, Characteristics, Internet of Things
+UNIT-V:
+Blockchain and Allied Technologies: Blockchain and Cloud Computing, Characteristics
+of Blockchain Cloud, Blockchain and Artificial Intelligence, Blockchain and IoT,
+Blockchain and Machine Learning, Blockchain and Robotic Process Automation.
+TEXT BOOKS:
+1. Blockchain Technology: Concepts and Applications, Kumar Saurabh,
+Ashutosh Saxena, Wiley
+2. Mastering Bitcoin: Unlocking Digital Cryptocurrencies, Andreas Antonopoulos,
+O’Reilly, 2014
+REFERENCES:
+1. Blockchain Technology, Chandramouli Subramanian, Asha A. George, Abhilash K.
+A. and Meena Karthikeyan, Universities Press, 2020
+2. Blockchain Basics: A Non-Technical Introduction in 25 Steps, Daniel Drescher, Apress,
+2017
+3. The Basics of Bitcoins and Blockchains, Antony Lewis, Coral Gables, 2018
+ONLINE RESOURCES:
+1. J. A. Garay et al, The bitcoin backbone protocol - analysis and applications
+EUROCRYPT2015LNCSVOl9057,(VOLII),pp281310.(Alsoavailableateprint.iacr.org/201
+6/1048).(Seriousbeginningofdiscussionsrelatedtoformalmodelsforbitcoinprotocols)
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1SE08) SOFTWARE DEFINED NETWORKS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: This course requires a general understanding of machine
+learning algorithms for security data and an intermediate level of python coding ability
+COURSE OBJECTIVES:
+• To explore how software defined networking has aided the success in virtualization
+• To analyze SDN design and operations in implementing
+• To observe modern Programmatic Interfaces for controlling network
+• To identify WAN utilization techniques and controller designs for scalibility
+• To familiarize with the SDN implementation, deployment and management
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the modern notions in software defined networks and virtualization
+CO-2: Apply SDN design techniques and various operations to solve real-world
+problems
+CO-3: Learn how to use SDN controllers for managing the Interface and network
+programming
+CO-4: Be capable of confidently addressing scalability and design issues
+CO-5: Handle implementation challenges using G-scale Network
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 2 2 2 3 1
+CO-2 2 2 2 2 3 1
+CO-3 2 2 2 2 3 1
+CO-4 2 2 2 2 3 1
+CO-5 2 2 2 2 3 1
+UNIT-I:
+Introduction to Software Defined Networking: Virtualization, Virtual Memory, Virtual
+Memory Operation, Virtual and Physical Memory Mapping, Server Virtualization,
+Network Function virtualization, Software Defined Networking, Network Limitations.
+UNIT-II:
+SDN Implementation: Introduction, SDN Implementation, SDN Design, Separation of the
+Control and Data Planes, Edge-Oriented Networking, SDN Operation, Service Providers
+and SDN, Benefits of SDN.
+UNIT-III:
+SDN Controllers: Network Programmability, The Management Interface, The
+Application-Network Divide Modern Programmatic Interfaces, Virtualization and Data
+Plane I/O, Services Engineered Path, Service Locations and Chaining.
+UNIT-IV:
+SDN and Enterprise Networks: SDN and Optical Transport Networks, Increasing WAN
+Utilization with SDN, SDN Scalability Issues, Controller Designs for Scalability, Potential
+SDN Scalability Issues such as controller placement issue.
+UNIT-V:
+SDN Management: Load Adaptation, Google and SDN, Google’s G-Scale Network,
+Google’s G-Scale Networ k Hardware, Google SDN Deployment, Implementation
+Challenges
+TEXT BOOKS:
+1. Software Defined Networking: Design and Deployment, Patricia A. Morreale, James
+M. Anderson, 1st Edition, CRC Press
+2. SDN: Software Defined Networks, Thomas D. Nadeau, Ken Gray, Orielly Media
+REFERENCES:
+1. Software Defined Networking with Open Flow, Siamak Azodolmolky, Wiley
+2. Software Defined Networks: A Comprehensive Approach, Paul Goransson, Chuck
+Black, Morgan Kaufmann
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22PE1CN19) BIG DATA
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the need of Big Data and understanding of Hadoop Architecture
+and its ecosystems
+• To understand the Hadoop file system storage
+• To process the Big Data using Map Reduce and apache Pig
+• Transfer of Big Data using Sqoop and analyze using Hive
+• To understand HBaseNoSql data bas
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Discuss the challenges and their solutions in Big Data and Understand the
+concept of Hadoop and it’s eco system
+CO-2: Understand storage concept of HDFS and its components
+CO-3: Analyze the processing of big data using Map Reduce Frame work and Apache
+Pig
+CO-4: Understand the importance of Hive tool and Sqoop
+CO-5: Analyze the importance of NoSql database i.eHBase
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 3 2 3 3 3
+CO-2 2 3 1 2 2 2
+CO-3 3 3 2 3 3 3
+CO-4 2 3 1 2 1 2
+CO-5 2 3 2 2 1 1
+UNIT-I:
+Big Data Introduction: Types of Data (Structured, Semi Structured,
+Unstructured),Definition of Big Data, Characteristics of Big Data, Meet Hadoop,
+Comparison with other systems, A brief history of Hadoop and the Hadoop ecosystem.
+UNIT-II:
+HDFS (Hadoop Distributed File System): Significance of HDFS in Hadoop, HDFS
+Architecture, HDFS Concepts: Introduction about Blocks, Data replication, Name Node,
+Secondary Node, Data Node, Basic File System Operations, Data Flow – Anatomy of
+File Read, Anatomy of File Write.
+UNIT-III:
+Map Reduce: Map Reduce Frame work Introduction, Phases in Map Reduce,Map
+Reduce Input and Output Formats, Map Reduce Features, MapReduce Application –
+Hadoop Word Count Implementation.
+UNIT-IV:
+HIVE, Sqoop:
+HIVE: Introduction, architecture, Integration with Hadoop, Hive Tables: Managed
+Tables, External Tables, Hive Query Language (Hive QL), load the data to Hive Tables,
+moving data from HDFS to Hive and vice versa.Sqoop :Sqoop Introduction, Architecture
+of sqoop, Example on Sqoop.
+UNIT-V:
+Apache Pig, HBase:
+Apache Pig: Introduction to Apache Pig, Map Reduce Vs Apache Pig, SQL Vs Apache
+Pig, Pig Datatypes, Modes of Execution in Pig. Example using Apache Pig.
+HBase: Introduction to HBase, HBase Use cases, HBase basics, HBase Architecture.
+TEXT BOOKS:
+1. Hadoop: The Definitive Guide, Tom White, 3rd Edition, O’Reily Media, 2012
+2. Big Data and Analytics, Seema Acharya, Subhasini Chellappan, Wiley, 2016
+REFERENCES:
+1. Big Data, Black Book T. M. , DreamTech Press, 2015
+2. Big Data Glossary, Pete Warden, O’Reilly, 2011
+3. BigData Analytics: Disruptive Technologies for Changing the Game, Arvind Sathi,
+MC Press, 2012
+4. Making Sense of Data, Glen J. Myat, John Wiley & Sons, 2007
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22PE1CN20) NETWORK DESIGN
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To differentiate between packet switching and circuit switching techniques
+• To know various network design methods
+• To implement network design for backbone and convergence
+• To introduce data network management systems and few case studies
+• To introduce writing and implementation of test plan for network design
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the basic concepts of switching technologies
+CO-2: Identify different network designs
+CO-3: Implement network design for backbone and convergence
+CO-4: Write and implement a test plan for network Design
+CO-5: Build and test a network system
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 2 2 2 3 2
+CO-2 3 2 2 3 2 2
+CO-3 1 2 2 1 2 2
+CO-4 3 3 2 3 3 1
+CO-5 2 1 1 3 2 1
+UNIT-I:
+Introduction: Switching technologies, multiplexing, circuit switching, packet switching
+X.25, frame relax, SMDs ATM, B-ISDN, traffic matrix, traffic pattern calculations,
+performance issues of packet networks, delay, availability and reliability
+UNIT-II:
+Network Design for Access: Campus network design, leased line and radio modems,
+DDR & ISDN Access Network design, X.25 remote access network design, Frame-relay
+interfaces & traffic shaping VSAT & WLAN network design. Scaling access networks.
+UNIT-III:
+Network Design for Backbone: Identification & selection of internetworking devices,
+CISCO routers & Nortel switches, EIGRP
+Network Design for Convergence: UDP broadcasts, IP Networks for Voice, Data, Video,
+Fax, Soft & hard design examples for IP Technology networks, network design for digital
+video broadcast
+UNIT-IV:
+Data Network Management Systems: Managing IP, ICMP, TCP, UDP, X.25 reporting
+Ethernet traffic, managing bridges & routers. Microsoft & HP, NMS Tools. Case Studies:
+selected from design, architecture & topology areas of internetworks.
+UNIT-V:
+Testing Network Design: Testing Network Design, Building and Testing a Prototype
+Network System, Writing and Implementing a Test Plan for Your Network Design, Tools
+for Testing a Network Design.
+TEXT BOOKS:
+1. Data Network Design, D. L. Spolin, McGraw Hill, 1993
+REFERENCES:
+1. SNMP, Feit, McGraw Hill, 1995
+2. Network Design & Case Studies, CISCO Systems Inc., CISCO Press, 1993
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22PE1CN21) TCP/IP PROTOCOL SUITE
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To describe how the TCP/IP protocol suite works
+• To describe the functions of static and dynamic IP addresses
+• To describe the major functions of networks with the TCP/IP model
+• To Understand various protocols used in TCP/IP model
+• To understand the management of a network
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Demonstrate the Layered Architecture TCP-IP reference models of Computer
+Networks
+CO-2: Apply all the functions of static and dynamic addresses
+CO-3: Implement various functions of networks with TCP/IP model
+CO-4: Design and formulate new protocols for efficient working of networks
+CO-5: Design or reproduce the existing protocols for efficient management of
+computer networks
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 3 - 2 - -
+CO-2 - 2 1 - 3 -
+CO-3 1 - - 2 - 1
+CO-4 - 3 3 - 1 -
+CO-5 2 2 3 1 - 1
+UNIT-I:
+Introduction: to TCP/IP, The OSI Model and TCP/IP Protocol Suites, Underlying
+Technologies; IP Addressing, Sub netting and Super netting, CIDR, Delivery and Routing
+of IP Packets
+UNIT-II:
+Internet Protocol (IP): ARP and RARP, Internet Control Message Protocol (ICMP), Internet
+Group Management Protocol (IGMP)
+UNIT-III:
+User Datagram Protocol (UDP), Transmission Control Protocol (TCP) ; Routing Protocols
+(RIP, OSPF, HELLO and BGP)
+UNIT-IV:
+Application Layer and Client-Server Model, BOOTP and DHCP; Domain Name System
+(DNS), Telnet and Rlogin
+UNIT-V:
+File Transfer Protocol (FTP), Trivial File Transfer Protocol (SMTP), Simple Network
+Management Protocol (SNMP), Hyper Text Transfer Protocol (HTTP)
+TEXT BOOKS:
+1. Internetworking with TCP/IP, Principles, Protocols and Architectures, Vol. I, Douglas
+E. Comer, 4th Edition, PHI
+2. TCP/IP Protocol Suite, Forouzan BA, TMH, 2000
+REFERENCES:
+1. TCP/IP Unleashed, Pearson Education
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22OE1CN01) BUSINESS ANALYTICS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the role of business analytics within an organization and to analyze
+data using statistical and data mining techniques and understand relationships
+between the underlying business processes of an organization
+• To gain an understanding of how managers use business analytics to formulate and
+solve business problems and to support managerial decision making and to
+become familiar with processes needed to develop, report, and analyze business
+data
+• To use decision-making tools/Operations research techniques and to manage
+business process using analytical and management tools
+• To analyze and solve problems from different industries such as manufacturing,
+service, retail, software, banking and finance, sports, pharmaceutical, aerospace
+etc.
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply knowledge of data analytics
+CO-2: Think critically in making decisions based on data and deep analytics
+CO-3: Use technical skills in predicative and prescriptive modeling to support business
+decision-making
+CO-4: Translate data into clear, actionable insights
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 - 1 - 1 1
+CO-2 3 - 2 - 1 2
+CO-3 2 1 1 - 1 1
+CO-4 1 2 1 - 1 1
+UNIT-I:
+Business Analytics: Overview of Business analytics, Scope of Business analytics, Business
+Analytics Process, Relationship of Business Analytics Process and organization,
+competitive advantages of Business Analytics.
+Statistical Tools: Statistical Notation, Descriptive Statistical methods, Review of
+probability distribution and data modelling, sampling and estimation methods
+overview.
+UNIT-II:
+Trendiness and Regression Analysis: Modelling Relationships and Trends in Data, simple
+Linear Regression. Important Resources, Business Analytics Personnel, Data and models
+for Business analytics, problem solving, Visualizing and Exploring Data Business Analytics
+Technology.
+UNIT-III:
+Organization Structures of Business analytics, Team management, Management Issues,
+Designing Information Policy, Outsourcing, Ensuring Data Quality, Measuring
+contribution of Business analytics, Managing Changes.
+Descriptive Analytics, predictive analytics, predicative Modelling, Predictive analytics
+analysis, Data Mining, Data Mining Methodologies, Prescriptive analytics and its step in
+the business analytics Process, Prescriptive Modelling, nonlinear Optimization.
+UNIT-IV:
+Forecasting Techniques: Qualitative and Judgmental Forecasting, Statistical
+Forecasting Models, Forecasting Models for Stationary Time Series, Forecasting Models
+for Time Series with a Linear Trend, Forecasting Time Series with Seasonality,
+Regression Forecasting with Casual Variables, Selecting Appropriate Forecasting
+Models.
+Monte Carlo Simulation and Risk Analysis: Monte Carle Simulation Using Analytic Solver
+Platform, New-Product Development Model, Newsvendor Model, Overbooking Model,
+Cash Budget Model.
+UNIT-V:
+Decision Analysis: Formulating Decision Problems, Decision Strategies without Outcome
+Probabilities, Decision Trees, The Value of Information, Utility and Decision Making.
+Recent trends in Embedded and collaborative business intelligence, Visual data
+recovery, Data Storytelling and Data journalism.
+TEXT BOOKS:
+1. Business Analytics-Principles, Concepts, and Applications, Marc J. Schniederjans,
+Dara G. Schniederjans, Christopher M. Starkey, Pearson FT Press
+2. Business Analytics, James Evans, Pearson Education
+3. Business Analytics, Purba Halady Rao, PHI, 2013
+REFERENCES:
+1. Business Analytics for Managers: Taking Business Intelligence Beyond Reporting, Gert
+H. N. Laursen, Jesper Thorlund, 2nd Edition, Wiley Publications
+2. Business Analytics: Data Analysis & Decision Making, S. Christian Albright, Wayne L.
+Winston 5th Edition, 2015
+3. Business Intelligence Guidebook: From Data Integration to Analytics, Rick Sherman
+Elsevier, 2014
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22OE1AM01) INDUSTRIAL SAFETY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Elements of Mechanical, Civil, Electrical and Industrial
+Engineering
+COURSE OBJECTIVES:
+• To achieve an understanding of principles, various functions and activities of safety
+management
+• To communicate effectively information on Health safety and environment
+facilitating collaboration with experts across various disciplines so as to create and
+execute safe methodology in complex engineering activities
+• To anticipate, recognize, and evaluate hazardous conditions and practices
+affecting people, property and the environment, develop and evaluate
+appropriate strategies designed to mitigate risk
+• To develop professional and ethical attitude with awareness of current legal issues
+by rendering expertise to wide range of industries
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply risk management principles to anticipate, identify, evaluate and control
+physical, chemical, biological and psychosocial hazards
+CO-2: Communicate effectively on health and safety matters among the employees
+and with society at large
+CO-3: Demonstrate the use of state of the art occupational health and safety practices
+in controlling risks of complex engineering activities and understand their limitations
+CO-4: Interpret and apply legislative / Legal requirements, industry standards, and best
+practices in accident prevention programmes in a variety of workplaces
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 3 2 2 3 1
+CO-2 - - - - 2 3
+CO-3 3 1 2 1 - -
+CO-4 - 2 - 1 - 2
+UNIT-I:
+Safety Management: Evaluation of modern safety concepts – Safety management
+functions – safety organization, safety department – safety committee, safety audit -
+performance measurements and motivation – employee participation in safety and
+productivity.
+UNIT-II:
+Operational Safety: Hot metal Operation – Boiler, pressure vessels – heat treatment shop
+- gas furnace operation-electroplating-hot bending pipes – Safety in welding and
+cutting. Cold-metal Operation- Safety in Machine shop- metal cutting – shot blasting,
+grinding, painting – power press and other machines.
+Safe Handling and Storage: Material Handling, Compressed Gas Cylinders, Corrosive
+Substances, Hydrocarbons, Waste Drums and Containers
+UNIT-III:
+Safety Measures: Layout design and material handling - Use of electricity –
+Management of toxic gases and chemicals – Industrial fires and prevention – Road
+safety– Safety of sewage disposal and cleaning – Control of environmental pollution –
+Managing emergencies in industrial hazards.
+UNIT-IV:
+Accident Prevention: Human side of safety – personal protective equipment – Causes
+and cost of accidents. Accident prevention programmes - Specific hazard control
+strategies - HAZOP – Training and development of employees – First Aid – Fire fighting
+devices – Accident reporting investigation.
+UNIT-V:
+Safety, Health, Welfare & Laws: Safety and health standards – Industrial hygiene –
+occupational diseases prevention - Welfare facilities – History of legislations related to
+safety–pressure vessel act- Indian boiler act- The environmental protection act –
+Electricity act - Explosive act.
+TEXT BOOKS:
+1. Safety Management, John V. Grimaldi and Rollin H. Simonds, All India Travellers
+Bookseller, New Delhi, 1989
+2. Safety Management in Industry, Krishnan N. V., Jaico Publishing House, 1996
+REFERENCES:
+1. Occupational Safety Manual, BHEL
+2. Industrial Safety and The Law, P. M. C. Nair Publisher’s, Trivandrum
+3. Managing Emergencies in Industries, Loss Prevention of India Ltd., Proceedings, 1999
+4. Safety Security and Risk Management, U. K. Singh & J. M. Dewan, A. P. H. Publishing
+Company, New Delhi, 1996
+5. Industrial Safety Management: Hazard Identification and Risk Control, L. M.
+Deshmukh, McGraw-Hill Education (India) Private Limited, 2005
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22OE1AM02) OPERATIONS RESEARCH
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To analyze linear programming models in practical and their practical use
+• To apply the transportation, assignment and sequencing models and their solution
+methodology for solving problems
+• To apply inventory and queuing, inventory models and their solution methodology
+for solving problems
+• To evaluate the simulation models
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Evaluate the problems using linear programming
+CO-2: Analyze assignment, transportation problems
+CO-3: Apply inventory and queuing problems for real time problems
+CO-4: Model the real-world problem and simulate it
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 3 3 2 - -
+CO-2 1 3 3 3 - -
+CO-3 1 3 3 3 - -
+CO-4 1 3 3 3 - -
+UNIT-I:
+Introduction to Operations Research: Definitions of OR, Characteristics of OR, Scope of
+OR, Classification of Optimization Techniques, models in OR, General L.P Formulation,
+Graphical solution, Simplex Techniques.
+Allocation: Linear Programming Problem Formulation- Graphical solution-Simplex
+method-Artificial variables technique-Two phase method, Big-M Method-Duality
+Principle.
+UNIT-II:
+Transportation Problem: Formulation-Optimal solution-unbalanced transportation
+problem-Degeneracy. Assignment problem-Formulation-Optimal solution-Variations of
+Assignment Problem-Travelling Salesman Problem.
+Sequencing: Introduction-Flow Shop sequencing-n jobs through two machines-n jobs
+through three machines-Job shop sequencing-two jobs through m machines.
+UNIT-III:
+Waiting Lines: Introduction-Single channel-Poisson arrivals-exponential service times-
+with infinite population and finite population models-Multichannel-Poisson arrivals-
+exponential service times with infinite population single channel Poisson arrivals.
+UNIT-IV:
+Inventory Models: Deterministic inventory, models - Probabilistic inventory control
+models
+UNIT-V:
+Simulation: Definition-Types of simulation models-phases of simulation-applications of
+simulation Inventory and Queuing problems-Advantages and Disadvantages-Brief
+Introduction of Simulation Languages.
+TEXT BOOKS:
+1. Operations Research, S. D. Sharma, Kedarnath Ramnath, Meerut, New Delhi
+2. Engineering Optimization, S. S. Rao, New Age International Publications, 2014
+3. Introduction to Genetic Algorithms, S. N. Sivanandam, Springer
+REFERENCES:
+1. Operations Research-An Introduction, H. A. Taha, PHI, 2008
+2. Principles of Operations Research, H. M. Wagner, PHI, Delhi, 1982
+3. Introduction to Optimization: Operations Research, J. C. Pant, Jain Brothers, Delhi,
+2008
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22OE1AM03) ENTREPRENEURSHIP AND START-UPS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To motivate the engineers to inculcate the skills thereof in any professional role and
+to consider intrapreneurship or entrepreneurship as career choices for personal and
+societal growth
+• To understand different Theories of Entrepreneurship and their Classification
+• To create Feasibility Reports, Business, Project Plans and resolve Operational
+problems
+• To understand the roles of Family, non-family entrepreneurs and learning about
+Startups’ Opportunities, Corporate Legal and Intellectual Property related issues
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the role of an entrepreneur in the economic development and
+discover societal problems as entrepreneurial opportunities and ideate to develop
+solutions through systematic and creative approaches to innovation and business
+strategy
+CO-2: Learn different Theories of entrepreneurship, the role of Family and Non-Family
+entrepreneurs and problem-solving skills
+CO-3: Create Marketing, Financial Plans and evaluate Structural, Financial and
+Managerial Problems
+CO-4: Apply lean methodology to startup ideas using Business Model Canvas and be
+able to create Business Plans through establishing business incubators. Understand
+Corporate Legal and Intellectual Property related matters
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 1 3 2 - 3
+CO-2 1 - - - - 2
+CO-3 1 - - - - 2
+CO-4 - - - 1 - -
+UNIT-I:
+Entrepreneurship: Definition of Entrepreneur, Entrepreneurial motivation and barriers;
+Internal and external factors; Types of entrepreneurs, Personality and Skill Set of an
+Entrepreneur, Entrepreneurship as a career for engineers, scientists, and technologists.
+UNIT-II:
+Theories of Entrepreneurship: Classification of entrepreneurship. Creativity and
+Innovation: Creative Problems Solving, Creative Thinking, Lateral Thinking, Views of De
+Bono, Khandwala and others, Creative Performance in terms of motivation and skills.
+Family and Non-Family Entrepreneurs: Role of Professionals, Professionalism vs. family
+entrepreneurs, Role of Woman entrepreneur, Sick industries, Reasons for Sickness,
+Remedies for Sickness, Role of BIFR in revival, Bank Syndications.
+UNIT-III:
+Creativity and Entrepreneurial Plan: Idea Generation, Screening and Project
+Identification, Creative Performance, Feasibility Analysis: Economic, Marketing,
+Financial and Technical; Project Planning, Evaluation, Monitoring and Control,
+segmentation, Targeting and positioning of Product, Role of SIDBI in Project
+Management.
+UNIT-IV:
+Operation Problems: Incubation and Take-off, Problems encountered Structural,
+Financial and Managerial Problems, Types of Uncertainty. Institutional support for new
+ventures: Supporting organizations; Incentives and facilities; Financial Institutions and
+Small-scale Industries, Govt. Policies for SSIs.
+UNIT-V:
+Startups’ Opportunity Assessment, Business Models, Entrepreneur talk, Clinical/
+Regulatory, Sector Specific Group Briefing by Advisory Committee, Corporate Legal
+and Intellectual Property, Pitching, Payers and Reimbursement, Pitch practice,
+Investors, Mistakes I Won’t Repeat, Business Development and Exits, Finance, Budgeting,
+Team Building, Opportunities in Telangana State and India – incubators, schemes,
+accelerators.
+TEXT BOOKS:
+1. Understanding Enterprise: Entrepreneurship and Small Business, Bridge S. et al.,
+Palgrave, 2003
+2. Holt- Entrepreneurship: New Venture Creation, Prentice-Hall, 1998
+3. Entrepreneurship Development, Robert D. Hisrich, Michael P. Peters, Tata McGraw
+Hill Edition
+REFERENCES:
+1. New Venture Creation: An Innovator’s Guide to Entrepreneurship, Marc H. Meyer
+and Frederick G. Crane, 2nd Edition, Sage Publications
+2. Technology Ventures: From Idea to Enterprise, Byers, Dorf, Nelson
+3. Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist - Feld,
+Mendelson, Costolo
+4. Breakthrough Entrepreneurship, Burgstone and Murphy
+5. Business Model Generation, Alexander Osterwalder
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22OE1PL01) WASTE TO ENERGY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To create awareness in students of energy conservation
+• To identify the use of different types of Bio waste energy resources
+• To understand different types of bio waste energy conservations
+• To detect different waste conversion into different forms of energy
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Find different types of energy from waste to produce electrical power
+CO-2: Estimate the use of bio waste to produce electrical energy
+CO-3: Understanding different types of bio waste and its energy conversions
+CO-4: Analyze the bio waste utilization and to avoid the environmental pollution
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 2 3 1 2 1
+CO-2 3 3 3 3 2 3
+CO-3 3 2 3 2 2 3
+CO-4 3 3 3 3 2 3
+UNIT-I:
+Introduction to Energy From Waste: Classification of waste as fuel, Agro based, Forest
+residue, Industrial waste, MSW (Municipal solid waste) – Conversion devices –
+Incinerators, Gasifiers, Digestors. Urban waste to energy conversion, Biomass energy
+Programme in India.
+UNIT-II:
+Biomass Pyrolysis: Pyrolysis – Types, slow fast – Manufacture of charcoal – Methods -
+Yields and application – Manufacture of pyrolytic oils and gases, yields and
+applications.
+UNIT-III:
+Biomass Gasification: Gasifiers – Fixed bed system – Downdraft and updraft gasifiers –
+Fluidized bed gasifiers – Design, construction and operation – Gasifier burner
+arrangement for thermal heating – Gasifier engine arrangement and electrical power.
+UNIT-IV:
+Biomass Combustion: Biomass stoves – Improved chullahs, types, some exotic designs,
+Fixed bed combustors, Types, inclined grate combustors, Fluidized bed combustors,
+Design, construction and operation - Operation of all the above biomass combustors.
+UNIT-V:
+Biogas: Properties of biogas (Calorific value and composition) - Biogas plant technology
+and status - Bio energy system - Design and constructional features - Biomass resources
+and their classification - Biomass conversion processes - Thermo chemical conversion -
+Direct combustion - biomass gasification - pyrolysis and liquefaction - biochemical
+conversion - anaerobic digestion.
+Types of biogas Plants – Applications - Alcohol production from biomass - Bio diesel
+production - Urban waste to energy conversion - Biomass energy programme in India.
+TEXT BOOKS:
+1. Biogas Technology-Transfer and Diffusion, M. M. EL-Halwagi, Elsevier Applied
+Science Publisher, 1984
+2. Introduction to Biomass Energy Conversions, Sergio Capareda
+REFERENCES:
+1. Non-Conventional Energy, Desai Ashok V., Wiley Eastern Ltd., 1990
+2. Biogas Technology - A Practical Hand Book, Khandelwal K. C. and Mahdi S. S., Vol.
+I & II, Tata McGraw Hill Publishing Co. Ltd., 1983
+3. Food, Feed and Fuel from Biomass, Challal D. S., IBH Publishing Co. Pvt. Ltd., 1991
+4. Biomass Conversion and Technology, C. Y. WereKo-Brobby and E. B. Hagan, John
+Wiley & Sons, 1996
