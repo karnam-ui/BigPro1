@@ -1,0 +1,1466 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/od21.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute, ISO9001:2015 & QS I-Gouge Diamond R ated Institute, Accredited by NAAC with 'A++' Grade
+NBA Accreditation for B.Tech CE, EEE, ME, ECE, CSE, EIE, IT, AE Programmes
+Approved By AICTE New Delhi, Affliated to JNTUH, Hyderabad.
+Recognized as "College with Potential for Excellence" by UGC
+Volume: 1 Issue: 1
+ELECTROCOMM-IN-VISION
+Department of Electronics and Communication Engineering
+Quarterly News Bulletin
+October - December 2021
+VVViiisssiiiooonnn
+A resource centre of academic excellence for imparting technical
+education with high pattern of discipline through dedicated staff which
+shall set global standards, making National and International students
+technologically superior and ethically strong, who in turn shall improve
+the quality of life.
+MMMiiissssssiiiooonnn
+To provide quality education in the domain of Electronics and
+Communication Engineering through effective learner centric process.
+To provide industry specific best of breed laboratory facilities beyond
+curriculum to promote diverse collaborative research for meeting the
+changing industrial and societal needs.
+Quality Policy
+Impart up-to-date knowledge in the students' chosen fields to make them
+quality engineers.
+Make the students experience the applications on quality equipment and tools.
+Provide quality environment and services to all stakeholders.
+Provide systems, resources and opportunities for continuous improvement.
+Maintain global standards in education, training and services.
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+S.N0. Contents Page No.
+1 Foreword 1-5
+2 Department Profile 6-7
+2 Whizz-Kids 8-11
+3. Awards & Recognitions 11-3
+4. Guest Lectures Delivered 13
+5 Events Organized & Attended 14-21
+6 Online Certifications 22-23
+7 Training, Internships and Placements 24-25
+8 Professional Society Activities 25-26
+9 Ph.D Awarded 26
+10 Research and Development Activities 27-32
+11 Industrial Visits 33-37
+12 Upcoming Events 38
+13 Tech News 38
+14 Articles by Faculty and Students 39-40
+15 Creative Corner 41-43
+16 To solve or not to? 44
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+President
+Vignana Jyothi
+I extend my sincere congratulations to the department of
+Electronics and Communication Engineering of Vallurupalli
+Nageswara Rao Vignana Jyothi Institute of Engineering and
+Technology. This newsletter is going to be another great initiative
+taken up by the Department of Electronics and Communication
+Engineering. It is going to help our students and parents
+understand the activities in the department and the scope available
+in this domain. Hoping this newsletter will inspire students to take
+up the path of Electronics and Communication Engineering and
+this newsletter doesn't just encourage students to portray their
+academic excellence but also helps them promote various
+extracurricular activities thus making them an all-rounder and
+ready to take up any challenge ahead. Wishing the faculty and the
+students in their future endeavors and applauding the teamwork
+which brought about this newsletter.
+Sri Daggubati Suresh Babu
+The capacity to learn is a gift; the ability to learn is a skill;
+1
+the willingness to learn is a choice.
+– Brian Herbert
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+General Secretary
+Vignana Jyothi
+I am delighted to see the new initiative taken up by the
+Department of Electronics Communication Engineering of
+Vallurupalli Nageswara Rao Vignan Jyothi Institute of
+Engineering and Technology to bring awareness to the
+students through this newsletter. This newsletter will help
+many students and provide a lot of information. Anyone
+who wants to take a glimpse of the department and get the
+summarized version of the activities done by the
+department through the period of a few months, would get
+a great exposure reading this newsletter. I look forward to
+seeing the next issues being published further and to the
+creative and upskilled manner the information is provided
+to us. Congratulations to the faculty and the students for
+doing an impressive job on this issue and wishing everyone
+success.
+Er. Jasti Seshagiri Rao
+Learning is a constant process of discovery – a process
+2
+without end.
+– Bruce Lee
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+Principal
+VNRVJIET
+As the principal of the institution, I strongly believe in
+promoting harmony and dedication among students and faculty.
+“Knowledge has a beginning but no end.” This is a quote that has
+stuck with me for quite a long time. This newsletter is a great
+initiative and it provides informative content that helps the
+students find themselves in this field and move towards which
+subdomain they want to work in. It also appreciates students not
+only for their academic pursuits but also for their enthusiasm for
+various other activities. This newsletter is going to help a lot of
+students explore more in the domain and work towards their
+goals. I would like to take this opportunity to appreciate the
+students and faculty associated with this newsletter for sparing
+their extra time and efforts. This would not be possible without
+the coordinated efforts of the students and the faculty and thus, I
+applaud their hard work and dedication to making this
+newsletter a success.
+Dr. Challa Dhanunjaya Naidu
+Don’t put a limit on anything. The more you dream, the
+3
+farther you get.
+– Michael Phelps.
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+Director for Advancement
+& Dean Administration
+VNRVJIET
+I congratulate the entire team for introducing the
+newsletter for the Electronics and Communication
+Department. I hope that this newsletter gives the students a
+fresh perspective and know about the future, the
+advancements and scope in this domain. It tells us about
+the various workshops, conferences and lectures being held
+in and out of the campus that enables students and the
+faculty to go deeper into the field and develop a better
+understanding and exposure and making their journey
+exciting with a thirst to learn more. Furthermore, it gives
+information about the new skills required the upgrade
+oneself and adopt to the advancing technologies in the
+widely growing and competing world. I thank the HoD for
+this wonderful initiative and all the faculty and students for
+collectively putting up efforts to create this beneficial
+product and use its potential to the full extent.
+Dr. Bandaru Chennakesava Rao
+It always seems impossible until its done. 4
+– Nelson Mandela
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+Head of the
+Department
+I deem it, a pleasure to greet the students, parents, faculty and
+stakeholders of the Department of Electronics and Communication
+Engineering [ECE], VNR Vignan Jyothi Institute of Engineering and
+Technology. The Department of ECE released a newsletter powered by
+faculty and student research journal publications, and specifically
+Contribution and Participation at various knowledge-based consortiums
+like conferences and webinars.
+The newsletter is also focused on igniting the student's skillsets to
+explore the core domain strengths and publish their research articles
+with weighted significance. Specifically, the innovative skillsets of the
+department students are showcased in the newsletter.
+The newsletter summarizes glimpses of what it is like to be a part of the
+ECE Department of VNRVJIET. The department focuses on deliberate our
+readers into the inner functioning of the core domain and the significant
+role of Electronics and Communication Engineer, and the opportunities
+in the global market and specifically the recent advancements.
+Hoping that this newsletter ignites our students and readers to figure out
+their role and significance in their chosen domain. This will drive them
+to catch the success and escalate the thought process for their future
+endeavors. Dr. Somineni Rajendra Prasad
+Knowledge is a process, not a product. 5
+– Ruth Nanda Anshen.
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+Department Profile
+The department was founded in 1995 and is affiliated to JNTUH and recognized by
+AICTE-New Delhi. The department offers an Under Graduate (UG) programme in B. Tech. -
+Electronics and Communication Engineering with an intake of 240 and 3-Post Graduate
+(PG) Programmes (M. Tech.-VLSI System Design, M. Tech. -Embedded Systems and
+M.Tech.- Defence Technology) with an intake of 18 each. In addition, the department offers
+Ph.D Program also. UG programme is accredited by National Board of Accreditation (NBA).
+The department is recognized by AICTE and JNTUH as a “Research Centre”.
+The department has 60 well-experienced and qualified teaching faculty (19 Ph.Ds, 37
+pursuing Ph.D and rest are with M.Tech) and 10 experienced non-teaching staff. Faculty are
+experts in various domains like Embedded & IoT, VLSI, Signal Processing and
+Communication, etc.
+The department has 17 well-equipped state-of-the-art academic laboratories in addition
+to the Centre-of Excellence and Research Laboratories like RFID and WSN Lab, Virtual
+Reality Lab and Machine Vision Lab etc. Laboratories are equipped with latest software
+tools like MATLAB, Synopsys, Mentor Graphics, Xilinx ISE and hardware equipments like
+mobile station, RF signal generator, Spectrum analyzer, industry compatible FPGAs and
+PCB printer etc. Department has an exclusive departmental library with around 1000
+Volumes and e-Learning resources like NPTEL. All the class rooms of the department are
+well equipped with ICT tools like LCD Projector and Audio Video Equipment. Digital
+classroom facilities are also available in the department.
+Department conducts various hands-on training programs, and certification courses for
+all the students starting from 1st year in core technologies in addition to coding skills
+training. All the students are encouraged to enroll in courses on emerging technologies
+offered by NPTEL (Swayam), Coursera and other online platforms. Department encourages
+all the students to visit core industries in and around Hyderabad to get exposure to cutting-
+edge technologies being implemented in industries.
+We rise by lifting others. 6
+-Robert Ingersoll
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+All B. Tech. and M.Tech. students are provided with Campus Recruitment Training
+at various phases during their study program. Many of the students are placed in
+topmost companies like Amazon, Synopsys, Qualcomm, AMD, INTEL, Cadence,
+Mentor Graphics, TCS, JP Morgon, Delloite, etc. with the highest package of 44 Lakhs
+for this academic year. Students are encouraged to publish research papers. Many of
+our alumni pursue M.Tech and Ph.D from IITs, NITs and top foreign universities. They
+are working in various reputed positions in multinational companies. Few alumni of
+the department are entrepreneurs.
+All the students of the department are actively involved in the activities of
+professional societies and various cultural and technical clubs of the institute. Our
+Faculty actively carried out research in various domains, which resulted in 36 funding
+projects worth Rs. 4 crores from several funding agencies like DRDO, UGC, AICTE,
+DST, ITRA, etc. and published 14 patents. We also have 325 publications in Web of
+Science, SCI and Scopus journals/conferences during the last three years. Department
+has undersigned 18 Memorandums of Understanding (MoUs) with various industries
+like AMD, Avantel, Ananth Technologies, ICOMM etc. All the faculty members
+participate actively in various professional societies like IEEE, ISTE, & IETE. The
+faculty and students are proactive in attending workshops, and conferences and have
+received various awards and scholarships.
+The department is known for its efficiency and holds a strong reputation. The
+department periodically organizes various workshops, guest lectures and FDP
+programs to upgrade the developments in various fields and to expose the students to
+work in core industries. The Department aims primarily at excellence not only in
+theoretical but also in experimental research through academic projects in various
+fields. All faculty members are lifetime members of various technical chapters like
+ISTE, IEEE and IETE.
+An investment in knowledge pays the best interest. 7
+– Benjamin Franklin
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+Whizz-kids
+Section Wise Class Toppers (A.Y 2020-2021)
+III B. Tech. II Semester
+Class Student Name Roll Number SGPA
+Gudepu Sathwik 18071A0416 9.05
+Noone Akshay Kumar 18071A0439 8.96
+Gundoju Amruth Chandra 18071A0417 8.91
+ECE-A
+Nagula Supritha 18071A0436 8.91
+Purella Shivani 18071A0448 8.91
+Tamarapalli Gnanam
+18071A0454 8.91
+Sindhu
+Narra Ajay Sai Reddy Y 18071A0499 9.41
+Mantrikola Rupa
+ECE-B 18071A0493 9.19
+Sreelekha
+Ponnam Vyshnavi 18071A04A7 9.05
+Akuthota Sindhu Priya 18071A04C4 9.32
+ECE-C Challamalla Sirichandana 18071A04D2 9.28
+Arepalli Vaishnavi 18071A04C5 9.14
+Doddi Chaturya 18071A04K3 9.46
+ECE-D Rasi Pratyusha Bhatta 18071A04P6 9.32
+Bandi Nikitha 18071A04J2 9.23
+Anyone who has never made a mistake has never
+8
+tried anything new.
+-Albert Einstein
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+Section Wise Class Toppers (A.Y 2020-2021)
+II B. Tech. II Semester
+Class Student Name Roll Number SGPA
+Pulagiri Madhuri 19071A0441 9.35
+Siiddhesh Parag Uttarwar 19071A0448 9.35
+ECE-A
+Bojja Saikiran 20075A0402 9.25
+Haralapur Tanuja 19071A0415 9.15
+Ane Yamini 19071A0465 9.55
+ECE-B Vangara Paniteja 19071A04B9 9.50
+Maddika Sai Varsha 19071A0494 9.35
+Thattepally Meenakshi 20075A0419 9.55
+Dukkipati Vijay Sai 19071A04D3 9.48
+ECE-C S Sai Pravallika 19071A04G8 9.48
+Mariserla Bhavana 19071A04E8 9.40
+Penmetsa Tanusree 19071A04G3 9.40
+Sneha Siddavatam 19071A04Q1 9.40
+ECE-D Koneti Raj Kumar 20075A0421 9.25
+Neela Akshitha 19071A04N5 9.05
+Don’t put a limit on anything. The more you dream, the farther you get.
+– Michael Phelps. 9
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+Section Wise Class Toppers (A.Y 2020-2021)
+I B. Tech. I Semester
+Class Student Name Roll Number SGPA
+Arra Hrushitha Reddy 20071A0405 9.34
+ECE-A K Neha 20071A0428 9.29
+Kuruva Gautham Kumar 20071A0436 9.24
+Kothakonda Shoneeth 20071A0480 9.53
+Manchala Ramchand 20071A0487 9.53
+ECE-B
+Dhupati Prudhvi Raju 20071A0470 9.39
+Pasupunoori Sai Teja 20071A0499 9.39
+Kandhi Pravallika Reddy 20071A04E4 9.53
+Vallakati Kranthi Kumar 20071A04H5 9.39
+ECE-C
+Akkineni Satya Srujan 20071A04C1 9.24
+Sana Sreyas 20071A04G7 9.24
+Udipi Vaishnavi 20071A04Q2 9.67
+ECE-D Sammoji Shyamala 20071A04P7 9.62
+Ananya Ummadi 20071A04J5 9.48
+Any fool can know. The point is to understand 10
+-Albert Einstein
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+Section Wise Class Toppers (A.Y 2020-2021)
+I M. Tech. I Semester
+Specialization Student Name Roll Number SGPA
+Bolumalla Surya 20071D5502 8.48
+Valle Bhuvana Kruthi 20071D5512 8.45
+Embedded
+Systems
+Gayam Lalitha Priya 20071D5503 8.33
+Pragnapana Medhinya 20071D5509 8.33
+Y SravyaMounika 20071D5711 8.93
+Kota Murali Mohan 20071D5703 8.93
+VLSI System
+Design
+Gotikala Caral Leo 20071D5701 7.93
+Nandi Bhavana 20071D5707 7.77
+Awards & Recognitions
+Dr. Padma Sai, Professor received Anna University National Award for the "Outstanding
+Academic Teacher Award " from ISTE National/Regional Faculty Awards 2020 during Award
+Distribution Ceremony held at Y.B. Chavan Centre, Mumbai on 5th October 2021.
+Dr. Y. Padmasai receiving Outstanding Academic Teacher Award
+11
+Great minds are always feared by lesser minds.
+-Dan Brown
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+D. KanthiSudha, Assistant Professor has been acknowledged through a certificate for her
+exceptional contribution as a Primary Evaluator in "Toycathon 2021" by AICTE & Ministry of
+Education Innovation cell on 9 th December 2021.
+Dr. Y. Padma Sai, Professor received the IEEE India council
+Outstanding WiE Volunteers award on 10th December 2021.
+Ch. Abhilash (20071A4K1) , participated as a Competitor in the
+74th Senior National Aquatic Championships-2021 conducted
+by Swimming Association from 26th October to 29th October
+2021.
+Anish Y (20071A0404), Tarun V (21075A0406), G. Raghavendra
+(20071A0424) and G Rahul (20071A0425) received gold award for
+their innovation “Home Automation using Smart Glass” in
+Global Young Scientist Challenge (GYSC 2021), IBS Global on 15 th
+December 2021.
+Participating in a global science challenge (GYSC) with
+unique ideas of people from different countries was
+exciting. During the project expo I came to know about
+some of the technologies that I didn't know before and
+implementing these technologies to solve different real
+life problems was interesting.
+-Tarun Vishlavath
+GYSC has given us experience about the various
+scientific methods that can be used to solve real world
+problems. With the help of our faculty, working on our
+projects was challenging and fun. GYSC is a great
+platform to present ones idea to the world.
+-Rahul Guguloth
+Knowledge is power. Information is liberating.
+Education is the premise of progress, in every society, in every family
+12
+-Kofi Annan
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+With me and my team brainstorming for ideas, we realized how deep we have to go looking for answers
+to very simple problems in everyday life. Looking at the competition with one's idea better than others
+and the wide range of problems that require solutions and the scope for improvement gave me a
+motivation to keep learning more and do my very best in my future endeavors.
+-Anish Yalavarthi
+Rahul, Raghavendra, Tarun, and Anish demonstrating their idea in GYSC 2021
+Guest Lecture Delivered
+Dr. Y. Padma Sai, Professor delivered a talk as a Guest Speaker at the inauguration of the IEEE
+student branch at Narayana Engineering College, Gudur on 2oth October 2021.
+Dr. S. Rajendra Prasad, Professor & Head and Dr. R. Sravanth Kumar, Assistant Professor
+acted as session chairs at the International Conference on Trends in Electronics and Health
+Informatics (TEHI 21)", conducted by PSIT Kanpur (IEEE- Uttar Pradesh) from 16th to 17th
+December 2021.
+Dr. S. Rajendra Prasad, Professor & Head, delivered a Lecture in One-Week AICTE-ISTE
+sponsored Induction/Refresher Program on ‘Electronic Circuit Analysis with MATLAB’ on
+29th December 2021 , organized by Geethanjali College of Engineering and Technology,
+Hyderabad.
+Knowledge is of no value unless you put it into practice 13
+-Anton Chekhov
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+Events Organized
+Distinguished Lecture on “Large Area Electronic Skin” by Dr. Ravindher Dahiya,
+Electronic and Nanoscale Engineering School of Engineering University of Glasgow,
+Glasgow, Scotland on 27th November 2021 for III & IV B. Tech. students.
+Guest Lecture on “Applications of Operational Amplifier” by Mr. P.
+Satyanarayana, faculty of ACE GATE Academy on 22nd October 2021 for III & IV B.
+Tech. students.
+Mr. P. Satyanarayana delivering lecture to III and IV B.Tech students
+Guest Lecture on “Insight into IoT”, by Mr. N. Venkatesh, Senior Director, Engineering,
+Silicon Labs, Hyderabad under AICTE-IANE-Distinguished Visiting professor VNRVJIET
+for II & III B.Tech. students on 17th November 2021.
+Guest lecture by Mr. N. Venkatesh
+14
+Knowledge is knowing that we cannot know.
+-Ralph Waldo Emerson
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+Guest Lecture on “Wireless Technologies in IoT” under AICTE-INAE DVP Scheme by
+Mr. N. Venkatesh, Senior Director, Engineering-Silicon Labs, Hyderabad for III B.
+Tech. & IV B. Tech. Students on 19th November 2021.
+Guest lecture by Mr. N. Venkatesh
+Guest Lecture on “Edge Intelligence” by Mr. N. Venkatesh, Senior Director,
+Engineering-Silicon Labs, Hyderabad III B. Tech. & IV B. Tech. Students on 29th
+November 2021.
+Guest lecture by Mr. N. Venkatesh
+Guest Lecture on “Battery Life Enhancement in IoT devices” by Mr. N. Venkatesh,
+Senior Director, Engineering-Silicon Labs, Hyderabad for III B. Tech. & IV B. Tech.
+Students on 30th November 2021.
+Guest lecture by Mr. N. Venkatesh
+15
+Doubt grows with knowledge
+-Johann Wolfgang von Goethe
+Electrocomm-in-visionE VCEo,lVumNReV 1 J|I IEsTsue 1 | October 2021 - December 2021
+Workshop on “PCB Design & Fabrication” by Technotran Electronic Solutions
+from 20th to 23rd December 2021 for II B. Tech. students.
+Students attending workshop on "PCB design"
+Guest Lecture on “Opportunities and Challenges in VLSI Industry" by Mr.
+Lakshmi Narayana Kamarthi, Senior Manager, NXP Semiconductors Pvt. Ltd,
+Bangalore on 22nd December 2021 for I M. Tech. VLSI System Design students.
+Mr. Lakshmi Narayana Kamarth addressing M. Tech VLSI system design and II B. Tech students
+Guest Lecture on “Opportunities and Challenges in Electronics Industry” by Mr.
+Lakshmi Narayana Kamarthi, Senior Manager, NXP Semiconductors Pvt. Ltd,
+Bangalore on 22nd December 2021 for II B.Tech. Students.
+Seasonal School on “Recent Advances in Artificial Intelligence for Signal
+Processing” organized by IEEE SPS SBC from 28th to 31st December 2021.
+16
+The true method of knowledge is experiment.
+-William Blake
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+Participants of seasonal school
+Events Attended
+The faculty of the department participated in various events including Webinars, Guest lectures, Workshops,
+and FDPs on emerging technologies.
+Name of the faculty Event attended
+Webinar on Good Governance “Improving Ease of
+Doing Business, Reducing Compliance Burden”
+Ms. G. Ramya, Assistant Professor
+organized by the Ministry of Education (MoE) and
+AICTE on 1st October 2021.
+Workshop on “Sensors Council” by IEEE in
+Dr. V Priyanka, Assistant Professor Vardhaman College of Engineering on 21st October
+2021.
+It is always in season for old men to learn. 17
+-Aeschylus
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+Name of the faculty Event attended
+Session on "2021 R10 MINI POCO" presented by IEEE
+Hyderabad Section on 2nd & 3rd October 2021.
+Webinar on "Applications of Space Science &
+Technology in Medical arena: Our Initiatives" by Mr.
+Jerry Calvin Jared Scientist/Engineer Technology
+Development & Management Group Vikram Sarabhai
+Space Center Indian Space Research organization on 23rd
+October 2021.
+Talk on “AI at the Core of Microsoft products “by Dr.
+Shobana Balakrishnan, Partner Program Manager at
+Microsoft's core AI group organized by IEEE Hyderabad
+Section Women In Engineering AG on 30th October
+2021.
+Workshop on “Examination Reforms” organized by
+Dr. Y. PadmaSai, Professor
+AICTE from 8th to 10th November 2021.
+Webinar on "Guidance & Introduction to Front-End
+Web Development" by Mr.Praveen Kumar
+Purushotham with the Support Student Branches:
+SVCE-Tirupati and VNRVJIET on 2nd November 2021.
+Workshop on “Region 10 Conference Leadership”
+organized by IEEE MCE Education and Engagement on
+14th November 2021.
+IEEE R10 Women Inspire Women (WIW) Symposium
+organized by IEEE- WIE AG UP Section India on 9th
+November and 10th November 2021.
+IEEE Student Branch Inauguration at IARE on 24th
+November 2021.
+The foundation of every state is the education of its youth. 18
+-Diogenes
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+Name of the faculty Event attended
+One Week National Level FDP On
+“Administrative Capacity Building”
+Ms. A. Lavanya, Assistant Professor organized by Satyabama Institute of
+Science and Technology, Chennai from
+25th to 31st October 2021.
+Workshop on “Performance analysis of RF
+system using SystemVue tools” organized
+by Department of ECE, Vasavi College of
+Ms. K. Deepthi, Assistant Professor
+Engineering in association with Keysight
+Technologies, Hyderabad, 7th - 9th
+October 2021.
+ATAL FDP on "Computing Constructs for
+Modelling Biology" at JNN College of
+Engineering from 4th to 8th October 2021.
+Webinar on "Applications of Space Science
+Ms. Helan Satish, Assistant Professor
+& Technology in Medical arena: Our
+Initiatives" by Mr. Jerry Calvin Jared,
+Scientist/Engineer Technology Development
+& Management Group, Vikram Sarabhai
+Space Center Indian Space Research
+Organization on 23rd October 2021.
+Train Trainer’s program on “Internet of
+Things” at GRIET organized by IEEE Skill
+Mr. D. Ramesh Reddy, Assistant Professor
+connect program from 22nd to 26th
+November 2021.
+IEEE SPS Summer School on “Internet of
+things for Biomedical and Healthcare
+Applications” organized by IEEE
+Dr. Y. Chalapathi Rao, Associate Professor
+VNRVJIET student branch in Association
+with IEEE SPS, IEEE Hyderbad section,
+28th – 31 st December 2021.
+19
+Real knowledge is to know the extent of one’s ignorance.
+-Confucius
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+Name of the faculty Event attended
+Dr. Y. Padma Sai, Professor
+Dr. S. Rajendra Prasad, Professor and Head
+Dr. P. Kishore, Associate Professor
+Dr.L.V. RajaniKumari, Assistant Professor Guest Lecture on “Insight into IoT” under
+Dr. Ch. NagaDeepa, Assistant Professor AICTE-INAE DVP Scheme by Mr.N.
+Dr. V. Priyanka, Assistant Professor Venkatesh, Senior Director, Engineering-
+Mr. K. Sarath Chandra, Assistant Professor Silicon Labs, Hyderabad AICTE-INAE
+Mr. G. Vijaya Kumar, Assistant Professor Distinguished Visiting Professor, VNRVJIET
+Mr. B.B. Shabarinath, Assistant Professor on 17th November 2021.
+Dr. D. Santhosh Kumar, Assistant Professor
+Mr. JVA. Balakrishna, Assistant Professor
+Ms. K. Manasa, Assistant Professor
+Distinguished Lecture on “Large Area
+Dr. S. RajendraPrasad, Professor and Head
+Electronic Skin" by Dr. Ravindher Dahiya,
+Dr. Y. PadmaSai, Professor
+Electronic and Nanoscale Engineering School
+Dr. P. Kishore, Associate Professor
+of Engineering University of Glasgow,
+Dr. V. Priyanka, Assistant Professor
+Glasgow, Scotland on 27th November 2021.
+Webinar on “Modeling Efficient Antenna
+Arrays using COMSOL Multiphysics” by
+Ms. G. Shanthi, Assistant Professor
+COMSOL Multiphysics on 11th November
+2021.
+AICTE-ATAL FDP on "Artificial
+Dr. P. Kishore, Associate Professor Intelligence in VLSI Chip Design" from 6th
+to 10th November 2021.
+Learn continually – there’s always ‘one more thing’ to learn! .
+– Steve Jobs 20
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+Name of the faculty Event attended
+Dr. Y. Padma Sai, Professor
+Dr. Ch. NagaDeepa, Assistant Professor
+Mr. K. Sarath Chandra, Assistant Professor
+Ms. K. Deepthi, Assistant Professor Guest Lecture on “Edge Intelligence” by
+Mr. B.B. Shabarinath, Assistant Professor Mr. N. Venkatesh, Senior Director,
+Dr. Santosh Kumar Choudary, Assistant Professor Engineering-Silicon Labs, Hyderabad
+Ms. K. Swetha Reddy, Assistant Professor AICTE-INAE Distinguished Visiting
+Ms. G. Ramya, Assistant Professor Professor on 29th November 2021.
+Mr. JVA. Balakrishna, Assistant Professor
+Ms. K. Manasa, Assistant Professor
+Ms. Y. Manasa, Assistant Professor
+Mr. R. Ravi Kumar, Assistant Professor
+Dr. S. Rajendra Prasad, Professor and Head
+Dr. Y.Padma Sai, Professor
+Ms. N. Dhana Lakshmi, Associate Professor
+Dr. P. Kishore, Associate Professor
+Ms. K.B. Archana, Sr. Assistant Professor
+Dr. Ch. Naga Deepa, Assistant Professor
+Guest Lecture on “Wireless Technologies
+Ms. G. Shanthi, Assistant Professor
+in IoT” under AICTE-INAE DVP Scheme
+Mr. K. Sarath Chandra, Assistant Professor
+on 19th November 2021.
+Mr. D. Ramesh Reddy, Assistant Professor
+Dr. Santosh Kumar Choudary, Assistant Professor
+Dr. R. Sravanth Kumar, Assistant Professor
+Ms. M. Rama Devi,Assistant Professor
+Mr. JVA. Balakrishna, Assistant Professor
+Ms. K. Manasa, Assistant Professor
+Mr. R. Ravi Kumar, Assistant Professor
+ATAL FDP on "VLSI Design Techniques
+Mr. R. Ravi Kumar, Assistant Professor
+and its Applications in AI/ML" from 15th
+Mr. B B Shabarinath, Assistant Professor
+to 19th November 2021.
+Guest Lecture on “Battery Life
+Dr. Ch. Naga Deepa, Assistant Professor
+Enhancement in IoT devices” under
+Mr. K. Sarath Chandra, Assistant Professor
+AICTE-INAEDVP Scheme for by Mr. N.
+Ms. G. Ramya, Assistant Professor
+Venkatesh, Senior Director, Engineering-
+Ms. K. Manasa, Assistant Professor
+Silicon Labs, Hyderabad AICTE-INAE on
+Mr. R. Ravi Kumar, Assistant Professor
+30th November 2021.
+21
+Knowledge is love and light and vision.
+-Helen Keller
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+Online Certifications
+Dr. Rajendra Prasad S, Professor & Head, has successfully completed and stood as the
+topper of the NPTEL Course “Microelectronics: Devices to Circuits”, July – October
+2021.
+Mr. J.V.A. BalaKrishna, Assistant Professor has successfully completed and one of the
+toppers (in 5%) of the NPTEL Course “ Introduction to Internet of Things”, July –
+October 2021.
+Mr. B B Shabarinath, Assistant Professor
+successfully completed and received a
+passing grade in "PH526x: Using Python
+for Research" a course of study offered by
+HarvardX, an online learning initiative of
+Harvard University on 29th September
+2021.
+Mr. Yashaswi Lakku (19071A04M4) has successfully completed and one of the toppers
+(in 5%) of the NPTEL Course “Essential Mathematics for Machine Learning”, July –
+October 2021.
+If you are not willing to learn, no one can help you.
+22
+If you are determined to learn, no one can stop you. – Zig Ziglar.
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+Month &
+S.No. Name of the faculty Name of the NPTEL Course
+Year
+Ms. Kattekommula Swetha
+1 Python for Data Science October 2021
+& Ms. Ch. Raja Kumari
+2 Mr. B B Shabarinath C Based VLSI Design October 2021
+3 Mr. V A Balakrishna Jakka Introduction to Internet of Things October 2021
+Essential Mathematics for Machine
+4 Mr. Vijaya Kumar Gurrala October 2021
+Learning
+Introduction to Industry 4.0 and
+5 Mr. D. Ramesh Reddy October 2021
+Industrial Internet of Things
+Mr. K. Naresh Introduction to Machine Learning
+6 October 2021
+& Ms. Y. Manasa IITM
+Introduction to Wireless and
+7 Ms. Sangeetha K October 2021
+Cellular Communications
+Microelectronics Devices To
+8 Dr. S. Rajendra Prasad October 2021
+Circuits
+Problem Solving through
+9 Mr. K. Sarath Chandra October 2021
+Programming In C
+Signal Processing for mm Wave
+communication for 5G and beyond
+- online, Introduction to Machine
+10 Ms. Gujjula Ramya October 2021
+Learning
+The world is a book and those who do not travel read only one page.”
+2231
+― St. Augustine
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+Training, Internships & Placements
+Training
+II Year and III Year B. Tech. students were trained in Front End Technologies and Coding Skills
+respectively.
+S.No. Particulars of the event Organizer Beneficiaries
+ECE Faculty - Dr. V. Sagar Reddy,
+GATE Training Programme under III B. Tech.
+1 K Ram mohana Reddy, Dr. S.
+Prerana AICTE in 2021-22. Students
+Rajendra prasad
+Training Program on III B. Tech.
+2 Smart Interviews team
+“Competitive Coding Skills" Students
+II B. Tech.
+3 Front End Technologies Cantilever team
+Students
+Internship
+Samartha Raj N (18071A0451), M Rupa Sreelekha (18071A0493) & M Sai Sharan (19075A0406) of III
+B.Tech students are selected for internship program in Synopsys.
+I have been working in SYNOPSYS for last six months and I must say that I
+have enjoyed my experience working there. I have explored many different
+fields in VLSI domain, everything that I did was new and fun. If you are
+deeply interested in VLSI, SYNOPSYS is a great place to start, SYNOPSYS
+not only deals with VLSI but also focuses on automation so those who are
+also interested in coding can also enjoy working there. Apart from work we
+have a lot of fun, there is good work-life balance. So in short I am very
+happy to be a part of SYNOPSYS.
+-Samartha Raj
+I have been working with SYNOPSYS since six months. Talking
+about the work experience in SYNOPSYS, we get exposure to hands
+on experience to put our VLSI theoretical knowledge .
+-Rupa Mantrikola
+Your most unhappy customers are your greatest source of
+24
+learning. -Bill Gates
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+Working with SYNOPSYS is a great experience. One can
+explore many things and can acquire good knowledge in
+the field of VLSI. A student who is fascinated with VLSI will
+get good exposure and hands-on experience to apply the
+theoretical knowledge. Work culture and work life balance
+is very good at SYNOPSYS. I'm very happy and proud to be
+a part of SYNOPSYS.
+-Sai Sharan Morisetty.
+Placements
+A Sindu Priya (18071A04C4) is selected in Walmart with a package of 23 Lakhs
+Hi Everyone!! I am super excited to join in the Walmart global
+tech India. I'm glad that I am selected in the fortune no. 1
+company. The company portfolio looks so good and it is very
+employee friendly. I got a wonderful opportunity to start my
+career with Walmart.I personally believe that Walmart is a very
+good product based company to start the career. Looking forward
+to achieve more milestones in the future
+-Sindu Priya
+Placement details of B.Tech. 2018- 2022 batch up to December 2021
+No. of Students placed Highest Package (Lakhs) Average Salary (Lakhs)
+229 44.15 6.80
+95.4% of the students got placed with an average salary of 6.8 LPA
+Highest package : 44.15 Lakhs
+Professional Society Activities
+IEEE
+The proposal titled “Recent advances in artificial intelligence for Signal Processing” has been approved
+with US $3000 for virtual event and US $5000 for in-person event.
+Submitted proposal for 2021 IEEE Nano Technology Council Support Grant for Student Branch
+Chapters.
+A candle loses nothing by lighting another candle. 25
+-Father James Keller
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+IEEE VNRVJIET Student Branch received an amount of Rs. 37185 /- towards R10 WIE
+Outstanding SBAG Award-VNR VJIET IEEE WIE Student Branch Affinity Group
+(Hyderabad Section) on 27th November, 2021.
+IEEE Hyderabad Section Student Activity Committee has recognized our institute as
+Exemplary Student Branch on 04th December, 2021.
+Dr. Y. Padma Sai, Professor organized an event named “Accelerator Architectures for Deep
+Neural Networks: Inference and Training” by Prof. Keshab Parhi, UMN Electrical &
+Computer Eng. USA on 08th October, 2021. The event was conducted by IEEE
+HYDERABAD SECTION CASS & IEEE VNRVJIET CASS.
+The Event is jointly Organized by Joint chapter of Circuits and Systems/Electronic Devices
+Societies where IEEE VNR SB and IEEE SRU SB stood as supporting SBs. The talk was
+conducted through WebEx platform. Almost 30 participants had joined the session where
+there were some faculty and some students who are determined towards the field of Deep
+Neural Networks. The session started with the discussion about the Data Explosion
+(Requirement of Data storage and Memory vs Performance Tradeoff). He explained some of
+the research works that are going on in these fields.
+VNRVJIET SB and IEEE SPS, Hyderabad section organised an IEEE membership development
+and Officer Training programme on 04th October, 2021 .
+Ph.D Awarded
+Dr. Ch. Naga Deepa, Assistant Professor was
+awarded Ph.D. by JNTUH for the thesis
+“Exploration of variations in Hand Gesture
+based Telugu Character recognition using
+Machine learning Classifier” Under the
+Guidance of Dr. N. Balaji, Professor, JNTUK & Dr.
+V. Padmaja, Professor on 16.11.2021.
+Dr. Ch. Naga Deepa receiving Ph.D 26
+Alchemists turned into chemists when they stopped keeping
+secrets. -Eric Raymond
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+Research & Development
+Journals/ Conferences/Book Chapters
+Name of the
+S.No. Title of the Paper Conference/Journal
+Faculty
+Classification of ECG beats using International Journal on
+Dr. L. V. Rajani
+optimized decision tree and Signal, Image, and Video
+1 Kumari, Assistant
+adaptive boosted optimized Processing, vol. 16, pp. 695–
+Professor
+decision tree. 703, October 2021.
+The Journal of Defense
+Recasted nonlinear complex
+Mr. Pradeep Modeling and
+diffusion method for removal of
+2 Kumar, Assistant Simulation:Applications,
+Rician noise from breast MRI
+Professor Methodology, Technology, pp.
+images.
+1548-5129, 8th October , 2021.
+Indonesian Journal of
+Detection of Cardiac Arrhythmia
+Dr. Y. Padma Sai, Electrical Engineering and
+3. using Deep CNN and optimized-
+Professor computer science, Vol. 24, No.
+SVM.
+1, pp. 217~225, October 2021.
+Journal of Theoretical and
+Ms. Narra Video Representation Based on
+Applied Information
+4. Dhanalakshmi, Optical Flow for Dynamic
+Technology, Vol.99. No 20,
+Associate Professor Content Analysis.
+October 2021.
+Mr. Radha Krishna 2021 2nd Global Conference for
+Automatic Classification of
+5 Guntur, Associate Advancement in Technology
+Foreign LanguageAccent
+Professor (GCAT) 1-3 October 2021.
+2nd Global Conference for
+Dr. K. Kalyana Artificial Intelligence Based
+Advancement in Technology
+6 Srinivas, Assistant Predictive Threat Hunting in The
+(GCAT), pp.1-6, 1-3 October
+Professor Field of Cyber Security
+2021.
+GCAT 21 Conference conducted
+Dr. K. Kalyana Artificial Intelligence based by Nagarjuna College of
+7 Srinivas, Assistant predictive threat hunting in the Engineering and Technology, in
+Professor field of cyber security association with IEEE
+Bangalore, 3rd October.
+The knowledge of all things is possible 27
+- Alexandre Dumas
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+Name of the
+S.N0. Title of the Paper Conference/Journal
+Faculty
+4th International Conference
+Satellite Based Road Tagger GPS
+Dr. K. Kalyana on Recent Developments in
+Radio- Navigation System with
+8 Srinivas, Assistant Control, Automation & Power
+Integration of Artificial
+Professor Engineering (RDCAPE), 7-8
+Intelligence
+October 2021.
+Mental Health Disorder Analysis 4th International Conference
+Dr. K. Kalyana Using Convolution Neural on Recent Developments in
+9 Srinivas, Assistant Network Based Speech Signal Control, Automation & Power
+Professor Model with Integration of Engineering (RDCAPE),
+Artificial Intelligence pp.544-547, 7-8 October 2021.
+6th International Conference
+on Signal Processing,
+Computing and Control
+Design Of Memristor Based Logic
+Dr. K. Kalyana (ISPCC2K21) conducted by
+Gates for Low Power Wireless
+10 Srinivas, Assistant Jaypee University of
+Sensors in Biomedical
+Professor Information and Technology,
+Applications
+Waknaghat, Himachal Pradesh
+in association with IEEE Delhi
+section, 9th October.
+6th International Conference
+Dr. K. Kalyana on Signal Processing,
+Ear - Based Biometric- System
+11 Srinivas, Assistant Computing and Control
+Using Artificial Intelligence
+Professor (ISPCC), pp.377-382, 7-9
+October 2021.
+6th International Conference
+Dr. K. Kalyana on Signal Processing,
+Skin Pathology Detection Using
+12 Srinivas, Assistant Computing and Control
+Artificial Intelligence
+Professor (ISPCC), pp.373-376, 7-9
+October 2021.
+6th International Conference
+Dr. K. Kalyana Artificial Intelligence Based on Signal Processing,
+13 Srinivas, Assistant Algorithms for Driver Distraction Computing and Control
+Professor Detection: A Review (ISPCC), pp.383-386, 7-9
+October 2021.
+The capacity to learn is a gift; the ability to learn is a skill;
+the willingness to learn is a choice.
+28
+– Brian Herbert.
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+Name of the
+S.No. Title of the Paper Conference/Journal
+Faculty
+6th International Conference on
+Signal Processing, Computing and
+Infection Segmentation of
+Control (ISPCC2K21) conducted by
+Dr. K. Kalyana Leaves Using Deep Learning
+Jaypee University of Information
+14 Srinivas, Assistant Techniques to Enhance Crop
+and Technology, Waknaghat,
+Professor Productivity in Smart
+Himachal Pradesh in association
+Agriculture
+with IEEE Delhi section, 9th
+October.
+4th International Conference on
+Recent Developments in Control,
+Satellite based road tagger
+Dr. K. Kalyana Automation and Power
+GPS radio navigation system
+15 Srinivas, Assistant Engineering (RDCAPE2021)
+with integration of Artificial
+Professor conducted by AMITY university,
+Intelligence
+NCR, in association with IEEE
+Delhi section, 10th October.
+1st International Conference on
+Rice Disease Detection and
+Mr. Anudeep Peddi, Innovations in Signal Processing
+16 Classification Using
+Assistant Professor and Embedded systems (ICISPES-
+Artificial Intelligence
+2021), 22nd – 23rd October 2021.
+43rd Annual International
+Conference of the IEEE
+A Simulation Study on Engineering in Medicine and
+Electrical Activity of Biology Society (EMBC 2021)
+Ms. Helan Satish,
+17 Ventricular Endocardial conducted by The Institute of
+Assistant Professor
+Tissue due to SCN5A L812Q Electrical and Electronic Engineers
+Mutation Engineering in Medicine and
+Biology Society, 1-5 November
+2021.
+8th IEEE Uttar Pradesh Section
+Removal of Noise from ECG
+International Conference on
+Dr. Y. Padma Sai, Signals using Residual
+18 Electrical, Electronics and
+Professor Generative Adversarial
+Computer Engineering (UPCON
+Network
+2021), 11-13 November 2021.
+Knowledge is a process, not a product. 29
+– Ruth Nanda Anshen.
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+Name of the
+S.No. Title of the Paper Conference/Journal
+Faculty
+8 IEEE Uttar Pradesh Section
+International Conference on
+Ms. J.L.V Power Optimization Analysis of
+Electrical,Electronics and
+19 RamanaKumari, Different SRAM Cells Using
+Computer Engineering
+Assistant Professor Transistor Stacking Technique
+(UPCON 2021), 11-13
+November 2021.
+8 IEEE Uttar Pradesh Section
+International Conference on
+Dr. L. V. Rajani Detection of Sleep Apnea from
+Electrical,Electronics and
+20 Kumari, Assistant ECG Signal using Various
+Computer Engineering,
+Professor Machine Learning Algorithms
+(UPCON 2021) 11-13 November
+2021.
+Efficient Design of Artificial 2021 IEEE International
+Mr. Kattekola Naresh, Neural Networksusing Symposium on Smart
+21
+Assistant Professor Approximate Compressors and Electronic Systems (ISES),
+Multipliers. December 2021.
+8th IEEE Uttar Pradesh
+Section International
+Ms. L. V. R. Rajani Conference on
+A hybrid Approach for
+22 Kumari, Assistant Electrical,Electronics and
+Enhancement of the ECG signal
+Professor Computer Engineering,
+(UPCON 2021)11-13 November
+2021.
+4th International
+Energy Efficient Adiabatic Logic Conference on
+Mr. A. Ramesh Kumar,
+23 Against Power Analysis Attacks Microelectronics, Signals
+Associate Professor
+for IOT Applications and Systems, 18-19 November
+2021.
+Mr. Vijaya Kumar Advanced Deep Learning Model for International Journal of
+24 Gurrala, Assistant Sleep Stages Classification Using Design Engineering, Pp-9108–
+Professor Single Channel EEG. 9118, November 2021.
+Education is not the filling of a pail, but the lighting of a fire.
+30
+― W.B. Yeats
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+Name of the
+S.No. Title of the Paper Conference/Journal
+Faculty
+Efficient Design of Artificial 7th IEEE International
+Mr. K. Naresh, Neural Networks using Symposium on Smart
+25
+Assistant Professor Approximate Compressors and Electronic Systems (ISES)
+Multipliers 2021, 21st December.
+IEEE Conference on IoT for
+Design, Analysis & Comparison Rural Health Care (CIRH21),
+Dr. K. Kalyana
+of Novel, High-Speed Multiplier Organised by Vignan's
+26 Srinivas, Assistant
+using Ripple Carry Adder and Foundation for Science,
+Professor
+Compressors Technology and Research,
+Guntur, 17th December 2021.
+International Conference on
+Artificial Intelligence: Theory
+Dr.K. Kalyana Artificial Intelligence based
+and Applications (AITA-2021),
+27 Srinivas, Assistant Smart Traffic Control with Multi
+Organized by Dept. of ECE,
+Professor Agent Intersection System
+NIT- Patna, India, 23rd
+December.
+International Conference on
+Artificial Intelligence: Theory
+Dr.K. Kalyana Applications of Artificial
+and Applications (AITA-2021)
+28 Srinivas, Assistant Intelligence in Robotics for
+Organized by Dept. of ECE,
+Professor Human Habitation on MARS
+NIT- Patna, India, 23rd
+December.
+International Conference on
+Artificial Intelligence: Theory
+Dr.K. Kalyana Role of Artificial Intelligence in
+and Applications (AITA-2021)
+29 Srinivas, Assistant Agriculture and its Applications
+Organized by Dept. of ECE,
+Professor in Farming
+NIT- Patna, India, 23rd
+December.
+International Conference on
+Artificial Intelligence: Theory
+Dr. K. Kalyana Role of Artificial Intelligence in
+and Applications (AITA-2021),
+30 Srinivas, Assistant the diagnosis of Chronic Skin
+Organized by Dept. of ECE,
+Professor Diseases and its necessity.
+NIT- Patna, India, 24th
+December
+The more that you read, the more things you will know. The
+31
+more that you learn, the more places you'll go.
+-Dr. Seuss
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+Name of the
+S.No. Title of the Paper Conference/Journal
+Faculty
+International Conference on
+Role of Artificial Intelligence in Artificial Intelligence: Theory
+Dr. K. Kalyana
+detecting lung cancer using low and Applications (AITA-2021),
+31 Srinivas, Assistant
+radiation dose computed Organized by Dept. of ECE,
+Professor
+tomography NIT- Patna, India, 24th
+December.
+International conference on
+Dr. Santosh Kumar Aritificial Intellengence :
+Detection of Credit card Fraud
+32 Choudary, Assistant Theory & Applications (AITA-
+using Machine Learning
+Professor 2021) on 23rd-24th December
+,2021.
+International Conference on
+Role of Artificial Intelligence - Robots Artificial Intelligence: Theory and
+Dr. K. Kalyana Srinivas,
+33 during Covid-19 pandemic and its Applications (AITA-2021),
+Assistant Professor
+technological limits Organised by Dept. of ECE, NIT-
+Patna, India, 24th December.
+1st International Conference on
+Artificial Intelligence based Sensory Recent Trends in Electrical
+Dr. K. Kalyana
+System and Image Processing Electronics Communication
+34 Srinivas, Assistant
+Strategies to assist Visually Impaired and Instrumentation,Organized
+Professor
+people in Daily- Life Activities by CVR College of Engineering,
+27th December.
+Advances in Image and Data
+Image multiplication with a
+Dr. Ranjan K Processing using VLSI
+35 power-efficient approximate
+Senapati, Professor Design, Volume 1, ISBN: 978-
+multiplier using a 4:2 compressor
+0-7503-3919-3, December 2021.
+Sixth International
+Conference on Smart Trends
+Dr. V. Krishna Sree, Text/Sign Board Reading Aid for
+36 in Computing and
+Associate Professor Visually Challenged people
+Communication System,
+Scopus , December 2021.
+International Journal of
+Estimation of intrapulse
+Ms. Ch. Rajakumari, Microwave and Wireless
+37 modulation parameters of LPI
+Assistant Professor Technologies, pp. 1759-
+radar under noisy conditions.
+0787, December, 2021.
+The beautiful thing about learning is nobody can take it away 32
+from you. -B. B. King
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+IINNDDUUSSTTRRIIAALL VVIISSIITTSS
+17th December
+2021
+HAL AVIONICS
+Insights
+1.Identification of friend aircraft.
+2.Ground Radar provides a precision approach to the understandable range
+and determines the target and also functions well in bad weather conditions.
+3.Air Bone Radar: It's an antenna array used in SU30MKI a heavy-weight
+fighter aircraft. Operating frequency and range of detection air-to-air range
+are explained.
+4.Tactical air navigation system.
+5.VOR/ILS/Markar Receiver.
+6. I KW HF transmitter.
+7.Wave Guide Channel.
+8.Hybrid Micro Electronics Technology for RF application in air defense.
+9.Battery technology used to power the electronic equipment.
+Out of the mountain of despair, a stone of hope. 33
+-Martin Luther King Jr.
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+ANANTH TECHNOLOGIES 22nd December
+2021
+Insights
+Use of relays in missile technologies .
+Design of PCB and its usage.
+Operation of RF signals.
+Molding of components on the PCB.
+How the mechanical parts for the circuit boards are manufactured.
+How the conditions for the electrical components are tested .
+Testing the tensile strength of electrical components through
+accelerometer which is having nearly a range of 300rpm.
+Machinery involved in Temperature testing, Bump testing, Acceleration
+testing etc. for the missile parts.
+Design of multilayered circuits using software.
+The roots of education are bitter, but the fruit is sweet. 34
+-Maxime Lagacé
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+I
+N
+D
+U
+S
+T
+R
+I
+A
+L
+Industrial Visit to Ananth Technologies
+30-12-2021 V
+I
+S
+I
+T
+G
+A
+L
+L
+E
+R
+Y
+Industrial Visit to Hal Avionics 22-12-2021
+Educaion is what remains after one has forgotten
+35
+what one has learned in school.
+-Albert Einstein
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+I
+N
+D
+U
+S
+T
+R
+I
+A
+L
+V
+I
+S
+I
+T
+G
+A
+L
+L
+E
+R
+Y
+Industrial Visit to Hal Avionics 22-12-2021
+The roots of education are bitter, but the fruit is sweet. 36
+– Aristotle
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+I
+N
+D
+U
+S
+T
+R
+I
+A
+L
+V
+I
+S
+I
+T
+G
+A
+L
+L
+E
+R
+Y
+Industrial Visit to Avanth Technologies 30-12-2021
+Education is what remains after one has forgotten what
+37
+one has learned in school.
+– Albert Einstein
+Ele cEtlreocctroomcomm-imn--vinis-ivoinsi o n V o l u Vmoelu 1m | eIs s1 u| eIs 1s u| eO c1 t| oSbeeprt e2m02b1e -r D20e2c e-m Obcetro b20er2 12022
+Upcoming Events
+24th National Conference on e-Governance in Hyderabad, organised by the Department of
+Administrative Reforms &amp; Public Grievances (DARPG) and the Ministry of Electronics
+&amp; Information Technology (MeitY), in association with the State Government of
+Telangana on 8th January 2022.
+Two week FDP on “IoT & Applications (smart systems)” jointly organized by NIT Patna in
+collaboration with VNRVJIET Hyderabad from 14–25 February 2022.
+Two-week program on “Communication Skills, Modes and Knowledge Dissemination of
+National Initiative for Technical Teachers Training” by AICTE in February 2022.
+International Mobile and Embedded Technology Conference-2022, 10th–11th March-2022.
+2022 Mobile and Embedded Technology Conference (MECON), March 2022.
+IEEE International Conference on Communications 16–20 May 2022, Seoul, South Korea
+Hybrid: In-Person and Virtual Conference Intelligent Connectivity for Smart World.
+IEEE WCNEE 2022 6th International Workshop on Wireless Communications and Networking
+in Extreme Environments, 30th May 2022 – 1 st June 2022.
+IEEE INTERCON 2022–XXIX International Conference on Electronics, Electrical Engineering
+and Computing, 11th-13th August 2022.
+The Second International Conference on Emerging Techniques in Computational Intelligence,
+ICETCI 2022 will be held at Mahindra University, Hyderabad on 25th -27th August 2022.
+“Innov-Healthcare 2022: Innovative use of Machine Learning and Deep Learning for
+Healthcare Empowerment” which will be held under the 14th International Conference on
+Computational Collective Intelligence (ICCCI 2022) (Core Ranking: B) on 28th -30th September
+2022 in Hammamet, Tunisia.
+Tech News
+Intel came up with a new cloud edge technology that showcases how education, finance,
+manufacturing, medicine, transportation and defense industries are transformed through
+Intel's silicon, software and services.
+Seven defense companies launched on 15th October 2021 would create new opportunities for
+youth and micro, small and medium enterprises. The country has already placed orders worth
+Rs. 65,000/- crore for these new companies.
+DRDO successfully tested high-speed expendable aerial target Abhyas off Odisha coast on 22nd
+October 2021.
+India successfully launched the surface-to-surface ballistic missile Agni-V with 5000 Km range
+on 27th October 2021.
+Long Range bomb was successfully flight tested by DRDO, Indian Air Force on 29th October
+2021.
+Ideas are knowledge. When we share knowledge in the written
+38
+or verbal form, amazing things can happen.
+-Jim Rohn
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+Articles
+STANDING COIN..!!
+There is a place in Hyderabad where a standing coin
+fulfills our wishes. Did you shock by listening to this?
+But this is true. When you wish for something and
+make a coin stand in the presence of a temple then
+definitely that wish will become true and surprised if
+we make the coin stand without any wish that coin
+won’t stand. Are you excited to know where that place
+was located?
+Among all the important scared cities in Hyderabad is
+one with a captivating history-Peddamma Temple. The
+Peddamma Temple is a popular place to worship the
+Mother Goddess. Also known as the Peddamma Gudi
+Temple or Peddamma Thalli Temple, this temple lies in
+the city of Hyderabad, the capital of Telangana. It lies
+in the famous Jubilee Hills area of Hyderabad.
+As per historical accounts, the Peddamma Temple is over 150 years old, but the temple became famous in the
+year 1993, when its Raja Gopuram, the entrance tower was built.
+Most of the people who stay in Hyderabad or near surroundings greatly adore the goddess and have faith in
+her. There are some incredible stories behind his great temple they are After the demon assassination, the
+goddess is thirsty and came to the well nearby to gulp water; then a sphered found an idol of the goddess. So,
+a house of worship was constructed in that place and now it’s called a Peddamma Talli temple. According to
+another legend, the demon Mahishasura had a boon from Lord Brahma that either man or god can kill him.
+From then, he became cruel; he became unstoppable. So, to end this God Brahma, Vishnu, Shiva, and
+goddess Durga incarnated as being with the blessings of the Trinity, and all other gods Goddess Durga
+demolished the demon Mahishasura in a battle.
+Let me tell you about the glory of Peddamma temple: There is no
+trusted story for the existence of goddess Peddamma, but offered
+prayers and considered as village deity and treated as Mahakali
+who is one of the forms in eleven forms of goddess Durga Devi. One
+of the most prominent acts done by devotees is placing a coin in a
+vertical direction near Dwajastanam they believe that they wish to
+come true. If a devotee makes a wish heartfully by offering a
+prayer, then the goddess compassionates them, so the coins stay
+vertical.
+- Meghana Maganti
+20071A04F0
+The eye sees only what the mind is prepared to comprehend.
+39
+-Robertson Davies
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+Faculty must be good Antennas
+As a Microwave Engineer it gives me immense pleasure to quote about
+the role of an antenna in communication systems. “Antenna serves to a
+communication system the same purpose that eyes serve to a human” -
+Balanis and it is a known quotation to all of us “Sarvendriyanam
+nayanam pradhanam” by Acharya Susrutha. Antenna is a transitional
+structure between free space and a guiding device. It occurred to me
+how apt this definition is from a faculty perspective too.
+Once a student gets admitted into a branch of Engineering, it’s the faculty who teach them the
+courses related to their branch. In the other way round, it can be said that a student views his world of
+Engineering from the inputs given by a faculty. How the faculty makes the courses interesting opens a new
+window of perception in the student minds. Transmit to them interesting things about the course and they
+receive it effectively with less amount of loss. Tune them to your required polarisation and they are
+aligned with your knowledge sharing, grasping the finest details to the maximum extent possible.
+Mould yourself like a reflector antenna giving a huge gain in knowledge and enabling them to
+travel in their life with the values instilled in them. Grace as a Microstrip patch antenna where the size of
+your role in their life is minimized but the effect of your teaching is maximised. Suit yourself to be an
+aperture antenna where you become part of their life without being conspicuous. Line up with your fellow
+faculty in becoming part of a huge array of antennas contributing to the larger amount of gain that is
+imparted to a student during his four years stay in the college.
+Every student entering a college have their own apprehensions in trusting us and holding our hand
+in the first year. In the second year, you find the students in the reactive near field region where we have
+to handhold them till, they are capable enough to let them go. Third year they enter the radiating near
+field region where they are quite excited to explore the free space which of course depends on their
+learning levels. The more knowledgeable they become, the more confidence they have to detach from us
+and learn on their own. Once they enter the final year, they are in the far field region where it’s time for us,
+to allow them in exploring the world on their own. The actual radiation process begins in this region.
+A faculty should have the capability of addressing a large group of students with different ability
+levels, thereby increasing the bandwidth of their antenna. Radiate your proficiency with maximum beam
+efficiency and minimum stray factor, so that students are equipped to travel progressively with their
+energy of knowledge in existence. Faculty role is to be a good transitional structure helping in the
+transition of a student from a process oriented guided inquiry learning phase into a free world, with an
+ability to build their success stories of life.
+D.Kanthi Sudha
+Assistant Professor, ECE
+Every day may not be good…but there’s something good
+40
+in every day.
+-Alice Morse Earle
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+Creative
+Corner
+Aishwarya
+20071A0402
+MEGHANA MAGANTI
+20071A04F0
+SAI VINEELA
+20071A04A8
+“I have never let my schooling interfere with my education.”
+41
+― Mark Twain
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+MY DREAM
+I dream of waking up early
+but my tired mind won’t help me
+I dream of being confident
+but my wavering will won’t let me
+I dream of studying hard
+but my distractions won’t help me
+I dream of making friends
+but my anxious self won’t let me
+I dream of answering a question
+but my fear won’t help me
+I dream of playing a sport
+but alone play wont interest me
+I dream of making up a choice
+but my perplexed mind won’t allow me
+I dream of reaching sky high
+but these egocentric people won’t help me
+I dream to satisfy my parents
+but my silence self won’t help me
+I think to give up my life
+I close my door
+bang my head
+shed some tears
+sob for an hour
+and I dream to become the man of my dreams
+Yet it remains a dream
+Sai Shanmukh
+20071A0467
+“You educate a man; you educate a man. You educate a woman;
+you educate a generation.”
+42
+― Brigham Young
+   హం
+, ...
+మనసు   ల  అ   మమతల పం      చల   అనుబంధం   హం
+, ...
+అనుభూతుల  ల ట   ఖరం  నుం   లు   అమృత ర   హం
+, ...
+ఎ   గుం    గు  లు   ం  మమ ర  మధుర స  తుల ప మళం   హం
+, ...
+హృద    ఆ  య        ం  సుమధుర  వ ం   హం
+, , ...
+శర  ల        ల  కు   ఎద తు   ప మ ం     ప ల రవ    హం
+, ...
+వసంత  స    ల  గం  ఆ   దం  మనసు ఆల ం   నం   హం
+... ...
+అంద న మధుర  వం     హం
+- .
+  వ   
+20071A0474
+   
+ఆ శం ఉన తం  ఉన  ట 
+...
+ శ లం   లం  నవ ం 
+ను      దం     ట
+కల ష అర  లను    స ూ
+    కుతం   ల    చు   
+అం స ూ      నల      స ూ
+అ  వ      కు  ంచ  
+ రు ఘమ  ము   తూ
+ప మం      కు 
+ఎచు     తు   
+పచ ద      ట ుకు 
+...
+  రూప   రు కుంటు   
+-
+    సు    బు
+అ   ం      స 
+“Education is the ability to listen to almost anything
+without losing your temper or your self-confidence.”
+― Robert Frost 43
+Electrocomm-in-vision Volume 1 | Issue 1 | October 2021 - December 2021
+To solve or not to??
+Across Down
+5. A type of circuit where the
+1. The device that measures
+current that flows through all the
+current in a circuit (7)
+devices is the same (13)
+7. A circuit that allows two or more
+2. The unit that measures energy
+paths for the current to flow
+(5)
+through (15)
+8. A type of energy possessed by 3. A device that converts electrical
+the body due to its motion (13) energy to mechanical energy (5)
+9. Elementary particle with a
+4. Unit of Power (4)
+negative charge (8)
+12. Electrical device that 13. An elementary particle
+resists the flow of current in a that is identical to the nucleus
+circuit (8) of the hydrogen atom (6) 5. Imbalance between negative and
+10. Unit of Electric Current (6)
+positive charges (17)
+15. Device that converts
+14. Device used to measure
+chemical energy to electric 11. Material that allows electric
+voltage (9) 6. Smallest unit of matter (4)
+energy current to pass through it (9)
+Answers for the puzzles of the previous issue.
+The learning process continues until the day you die. 44
+-Kirk Douglas
+Editorial Team
+Student Members
+Chief Editor
+Dr. Rajendra Prasad Somineni, Arra Hrushitha Reddy D h u pati Prudhvi Raju
+Sreemayi Kompella Amrootha Panguluri
+Professor & Head
+Veda Moukthika
+Endla Samsritha
+Editors
+Balne Sarath Kumar
+Keerthana G.K
+Annadi Dhanalaxmi
+Helan Satish, Assistant Professor Gouni Raghavendra
+Neela Manasa
+Sangeetha K, Assistant Professor N N S L Asritha
+Erroju Hansika
+Panyala Pragna Gurram Samanidhar
+Suresh Babu P, Assistant Professor
+Pingalakani Sahithi Amruth Chandra
+Our Faculty
+ECE VNRVJIET

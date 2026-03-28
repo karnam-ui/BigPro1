@@ -1,0 +1,196 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/cseDS-CYS/faculty/33.Dr.D.Manju.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+Name: Dr.Manju. D
+Designation: Assistant Professor
+Department: CS and DS
+Mail I’d: manju_d@vnrvjiet.in
+Experience (in years): 18yrs Teaching: 18yrs Research:7 yrs Others(if any, specify):NA
+1. Educational / Technical qualifications:
+S.No Level (UG / PG / Ph.D) Year of Specialization
+passing
+1 UG-MGIT 2002 CS & IT
+2 PG-HCU 2004 Artificial Intelligence
+3 Ph.D 2023 CSE
+2. Teaching and Learning:
+2.1. Teaching Interests: Artificial Intelligence, Image processing, Deep Learning, Machine learning.
+2.2. Novel Teaching & Learning Techniques adopted:
+2.3. Involvement in curriculum updating / Design: updated 2nd ,3rd & 4th curriculum.
+3. Co-curricular and Extra-Curricular Activities
+3.1. Interests and Hobbies: Travelling and Reading books
+3.2. CCA/ECA Organized: Nil
+3.3. CCA/ECA participated:Nil
+3.4. Counseling and Mentoring Activity: Nil
+3.5. Committees involved in:
+Department level: ISTE coordinator, Cyber suds Coordinator, News letter coordinator, Time
+table Coordinator.
+Institute Level:
+4. Conference / Workshop / Seminar / Guest Lectures :
+4.1 Conducted:
+a) Organized a workshop on “Big Data Analytics and Hadoop”from 06th to 07th December 2013.
+b) Organized a workshop on “A 5 Day National Level Hands-On workshop on Machine
+Learning with Web Development” from 06 th July 2020 to 10 th July 2020.
+4.2 Attended:
+a) Participated in one week workshop on “Embedded Systems On IoT”organized by Department of
+ECE from 25.11.2019 to 30.11.2019 at GNITS, Hyderabad.
+b) Participated in One Week National Level Workshop on “Machine and Deep Learning with
+Python” organized by Department of Computer Science and Engineering from 17th to 21st
+December 2018 in association with Bennett University Leadingindia.ai and NVIDIA Labs
+approved by AICTE-New Delhi.
+c) Participated in workshop on Emerging Software Engineering Education, Feb 9, 2018 collocated
+with 11th Innovations in Software Engineering Conference (ISEC 2018) at IIIT Hyderabad,
+India.
+d) Participated in the One Week Faculty Development Program on “Data Science and R
+Programming” organized at University Academic Audit Cell (UAAC) Hyderabad from 11th
+December 2017 to 16th December 2017.
+e) Workshop on “Data Analytics Using R” organized by Department of CSE at Vardhaman
+College of Engineering, Shamshabad, Hyderabad on 27th and 28th October 2017
+f) Participated in the “Summer School on Deep Learning for Computer Vision” from july 11th
+2016 to july 16th 2016 at IIIT Hyderabad.
+5. Academic Contribution and Research & Consultancy:
+5.1. Invited Lectures: Resource person during “ AICTE sponsored Two Week Faculty Development
+Program on Big Data and Machine Learning” organized by the department of CSE , Annamacharya
+Institute of Technology and Science (Autonomous), Rajampet on 23 rd November 2019.
+5.2. Articles / Chapters published in Books:
+5.3. Books published as single author or as editor:
+5.4. Projects Guided :
+a) UG : 20 b) PG : 8
+5.5. Research Interests : Image Processing & video Processing, Deep Learning, Artificial Intelligence.
+5.6. Ph.D students :
+a) Enrolled : 16 b) Submitted : 8 c) Awarded :8
+5.7. Papers published in reviewed journals : 15
+Impact
+National/
+ISBN/ISSN Factor/
+S.No Title of the Paper Journal Name Vol.No. PP International
+No. Citation
+Index
+Comparison Study of ISSN 7.056 International
+Segmentation Techniques for International Journal of 2320-088x
+Brain Tumor Detection. Computer Science and
+1 Mobile Computing,
+November-13
+Brain Tumor Detection Using ISSN 9.49 International
+Multiple Kernel Fuzzy C- International Journal of 2319-4847
+Application or Innovation
+Means on Level set Method.
+2 in Engineering and
+Management,
+Volume 3, Issue 4, April
+2014.
+Frame Prediction- Noise International Journal of ISSN: 5.66 International
+Removal using Denoising Innovative Technology and 2278–3075
+Autoencoders Exploring Engineering
+3 (IJITEE)’, Volume-9 Issue-
+2, December 2019, Page
+No. 5296-5299.
+A Neuro-Fuzzy based International Journal of 3.58 International
+Inconsistency Location research in Advent
+Technology , Volume 7,
+Display to Represent Efficient
+4 Issue
+Recognition in Social
+5-May 2019.
+Networks
+A Model for Human Action IJIACS, ISSN 2.65 International
+Classification Using Sum- 2347-8616.
+Volume 6, Issue 7, July-
+Product Network
+5
+2017.
+Early Action Prediction Using IT in Industry, ISSN International
+Vgg16 Model And Vol. 9, No.1, 2021, 10th 2203-1731
+6
+March 2021
+Bidirectional LSTM
+Early Action Prediction using Turkish ISSN 0.418 International
+3DCNN with LSTM and 2275-
+Bidirectional LSTM
+Journal of Computer and 2281
+Mathematics Education,
+7
+Research Article Vol.12
+No.6 (2021), 5 April
+2021,
+Performance Analysis of Journal of Theoretical and ISSN: 0.915 International
+LSTM Based Deep Learning Applied Information 1992-
+Models for Abnormal Action Technology,
+8 8645,
+Prediction in Surveillance Volume.100.No 1, 15th
+Videos January 2022, page no:209-
+219.
+Analysis of Deep Learning Lecture Notes in Networks 0.60 International
+Models for Early Action and Systems 336,
+9 Prediction Using LSTM https://doi.org/10.1007/978-
+981-16-6723-7_65. page
+no: 879-888
+5.8. Papers presented at National / International Journals :
+Names of the National/
+Conference/ International
+S.No Title of the Paper Period
+Seminars
+PDE on Medical Image Processing. International International March
+conference on 2014
+1
+Engineering,
+Computing and
+Technologies, ICECT
+2014), Hyderabad,
+India.
+Image and Video Clustering Techniques in High Presented a paper in International May 2018
+Dimensional Data Set-A Review. 1st National
+Conference on
+Emerging Trends in
+Data Science and
+2 Intelligent Computing-
+2018 held at JNTUH
+college of Engineering
+SULTANPUR.
+Performance Analysis of Feature Extraction Presented a paper in International December
+Method Based on Genetic Expression For the 3rd International 2018
+Clustering Video Dataset.
+Conference on
+Computational
+Intelligent &
+Informatics (ICCII-
+2018) held during 28-
+3
+29 December,2018,
+Proceedings in
+springer – Advances in
+Intelligent Systems
+and Computing.
+Analysis of Deep Learning Models for Early International International August
+Action Prediction Using LSTM conference on 2021.
+Inventive Computation
+4 and Information
+Technologies (ICICIT-
+2021)
+Comparative Analysis of LSTM based Deep International International April
+Learning Models for Abnormal Action Conference On Recent 2021.
+Prediction in Surveillance Videos
+Challenges In
+Engineering Science
+5
+And
+Technology-icrcest-
+2021,ISBN: 978-93-
+90214-20-4.
+5.9. Sponsored research Projects:
+S.No Title Agency Period Grant amount Ongoing /
+Completed
+5.10 Consultancy Projects:
+S.No Title Agency Period Sanctioned Amount Ongoing /
+Completed
+6. Awards / Honors received:
+ Best Paper Award at 3 rd International conference Inventive Computation and
+Information Technologies (ICICIT-2021) organized by RVS Technical Campus,
+Coimbatore, India on 12-13 August 2021.
+ Best Research Paper Award at International conference on Recent Challenges in
+Engineering Science and Technology(ICRCEST 2K21) organized by Department of
+Electronics &amp; Communication Engineering, Ramachandra College of Engineering
+Eluru, Andhra Pradesh held on 09 th &amp; 10 th April 2021
+7. Motto: By consistently applying diligent effort, you will enhance superior results.

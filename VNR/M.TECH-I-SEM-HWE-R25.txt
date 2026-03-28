@@ -1,0 +1,1157 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/syllabus-books/Mtech-R25/M.TECH-I-SEM-HWE-R25.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. I YEAR COURSE STRUCTURE AND SYLLABUS
+(HIGHWAY ENGINEERING)
+I SEMESTER R25
+Course
+Course Type Name of the Course L T P Credits
+Code
+Professional Pavement Material
+25PC1HW01 3 0 0 3
+Core-I Characterization
+Professional
+25PC1HW02 Traffic Engineering 3 0 0 3
+Core-II
+Professional
+25PC1HW03 Highway Design 3 0 0 3
+Core-III
+25PE1HW01 Urban Transportation Planning
+25PE1HW02 Bridge Engineering
+Professional Intelligent Transportation
+25PE1HW03 3 0 0 3
+Elective-I Systems
+Data Analytics in Transportation
+25PE1HW04
+Engineering
+25PE1GT01 Soil Structure Interaction
+Remote Sensing and GIS
+25PE1HW05 Applications in Highway
+Infrastructure
+25PE1HW06 Sustainable Transportation
+Environmental Impact
+Professional 3 0 0 3
+25PE1HW07 Assessment for Highway
+Elective-II
+Projects
+Public Transport and Mass
+25PE1HW08
+Mobility Systems
+Ground Improvement
+25PC1GT03
+Techniques
+Professional Pavement Engineering
+25PC2HW01 0 0 2 1
+Core Lab-I Laboratory
+Professional Traffic and Mobility Analytics
+25PC2HW02 0 0 2 1
+Core Lab-II Laboratory
+Communication English for Academic and
+25SD5EN01 0 0 2 1
+Skills Research Writing
+Project 25PW4HW01 Technical Seminar 0 0 4 2
+Mandatory 25MN6HS01 Research Methodology and IPR 2 0 0 0
+Total 17 0 10 20
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. I YEAR COURSE STRUCTURE AND SYLLABUS
+(HIGHWAY ENGINEERING)
+II SEMESTER R25
+Course
+Course Type Name of the Course L T P Credits
+Code
+Professional
+25PC1HW04 Pavement Analysis and Design 3 0 0 3
+Core-IV
+Professional Highway Project Formulation and
+25PC1HW05 3 0 0 3
+Core-V Economics
+Professional Road Safety and Traffic
+25PC1HW06 3 0 0 3
+Core-VI Management
+25PE1HW09 Highway Construction Practices
+Computational Techniques in
+25PE1HW10
+Highway Engineering
+Professional Numerical Methods and Applied
+25PE1HW11 3 0 0 3
+Elective-III Statistics
+25PE1HW12 Advanced Highway Materials
+25PE1HW13 Highway Projects
+25PE1HW14 Road Asset Management
+Highway Network Analysis and
+25PE1HW15
+Optimization Techniques
+Pavement Evaluation and
+Professional 25PE1HW16 3 0 0 3
+Rehabilitation
+Elective-IV
+25PE1HW17 Advanced Traffic Analysis
+Airport Infrastructure Planning,
+25PE1HW18
+Design and Maintenance
+Professional Highway Materials and
+25PC2HW03 0 0 2 1
+Core Lab-III Pavement Performance
+Laboratory
+Professional Numerical Analysis and Traffic
+25PC2HW04 0 0 2 1
+Core Lab-IV Simulation Laboratory
+Industry
+25SD5HW01 Industry Engagement 0 0 2 1
+Engagement
+Project 25PW4HW02 Mini-Project 0 0 4 2
+Mandatory 25MN6HS02 Ancient Wisdom 2 0 0 0
+Total 17 0 10 20
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. II YEAR COURSE STRUCTURE AND SYLLABUS
+(HIGHWAY ENGINEERING)
+III SEMESTER R25
+Course Course
+Name of the Course L T P Credits
+Type Code
+25PE1HW19 Rural Road Engineering
+Artificial Intelligence Applications
+25PE1HW20
+in Transportation Engineering
+Professional Advanced Travel Demand
+25PE1HW21 3 0 0 3
+Elective-V Modelling
+Traffic Flow Modelling and
+25PE1HW22
+Simulation
+Big Data Analytics in
+25PE1HW23
+Transportation
+25OE1CN01 Business Analytics
+25OE1AM01 Industrial Safety
+Open
+25OE1AM02 Operations Research 3 0 0 3
+Elective
+25OE1AM03 Entrepreneurship and Startups
+25OE1PS01 Waste to Energy
+Project 25PW4HW03 Project Part – I 0 0 16 8
+Total 6 0 16 14
+IV SEMESTER R25
+Course Course
+Name of the Course L T P Credits
+Type Code
+Project 25PW4HW04 Project Part - II 0 0 28 14
+Total 0 0 28 14
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC1HW01) PAVEMENT MATERIAL CHARACTERIZATION
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the behaviour of subgrade soils and aggregates used in highway
+construction
+• To evaluate various ground improvement techniques for enhancing the
+performance of pavements
+• To analyze the rheological, mechanical, and durability characteristics of
+bituminous binders and mixes to enhance performance
+• To gain knowledge of advanced cementitious materials for achieving durable
+and eco-friendly pavement systems
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Evaluate the engineering properties of pavement materials using advanced
+laboratory and field tests
+CO-2: Apply soil stabilization and ground improvement methods for pavement
+applications
+CO-3: Develop and evaluate bitumen and bituminous mixes using Marshall,
+Superpave, and Balanced Mix Design approaches
+CO-4: Utilize advanced concrete technologies and sustainable materials to enhance
+pavement performance and durability
+UNIT-I:
+Subgrade Soil Characterization and Sustainable Material Investigations:
+Types of soils used in different pavement layers and embankments, their suitability and
+requirements - laboratory and in-situ evaluation methods: SPT, DCPT, CBR, Plate Load
+Test, Resilient Modulus Test
+Microstructural Investigations of Pavement Materials: Techniques for microstructural
+analysis of bituminous, mixes and cement concrete (SEM, XRD, FTIR, etc.) – relation
+between microstructure.
+Circular Economy in Pavement Materials: Reclaimed Asphalt Pavement (RAP) –
+properties, blending methods– recycled coarse aggregates from building demolition
+waste – suitability in pavement layers.
+UNIT -II:
+Introduction to Soil Stabilization: Principles of physical, chemical, and mechanical
+stabilization - Stabilization with admixtures- cement, lime, calcium chloride, Fly ash and
+bitumen. Grouting; Categories of grouting, Art of grouting, Grout materials, Grouting
+techniques and control - Applications of geosynthetics (geotextiles, geogrids,
+geocells) in subgrade and pavement layers – Case studies
+UNIT – III:
+Road Construction Aggregate: Origin, classification, and gradation requirements of
+aggregates (IRC:111-2020, MoRTH) - Aggregate properties and tests: shape, strength,
+toughness, durability, soundness, and alkali-silica reactivity- Gradation analysis: Fuller
+& Thompson’s Equation, 0.45 Power Chart, Superpave aggregate gradation
+requirements - Aggregate blending methods, packing theory, and impact on mix
+performance.
+Unit – IV:
+Bituminous Road Binders & Mixes: Rheological properties: Elastic modulus, viscosity,
+viscoelasticity, creep, fatigue, ageing- Modified binders: polymer-modified, crumb
+rubber, nano-modified, emulsions, and foamed bitumen - Mix design methods:
+Marshall Mix Design (IS 1201–1220, IRC:111), Superpave Mix Design (AASHTO M 323),
+Balanced Mix Design (BMD) - Special mixes: SMA (IRC:SP:79-2019), OGFC (IRC:129-
+2019), RAP & WMA mixtures - Performance-based evaluation: Rutting, fatigue,
+moisture susceptibility, thermal cracking.
+UNIT – V:
+Cement Concrete Mix Characterization: Advanced concretes: Self-compacting
+concrete, Roller Compacted Concrete (RCC), Lightweight Concrete, Fibre-
+reinforced concrete - Mix proportioning: IS 10262:2019, ACI, and IRC guidelines - Role
+of mineral and chemical admixtures- Durability aspects: permeability, shrinkage,
+cracking, freeze-thaw, alkali-silica reaction- Joint sealants, fillers, and pavement
+applications.
+TEXT BOOKS:
+1. Pavement Engineering – Principles and Practice, R. B. Mallick & T. El-Korchi — CRC
+Press, Taylor & Francis 4th Edition, 2022
+2. Bituminous Road Construction in India, Kandhal, Prithvi Singh, Veeraragavan,
+Amirthalingam, Choudhary, Rajan, PHI, Revised Edition, 2023
+3. MS-2: Asphalt Mix Design Methods, Asphalt Institute, 7th Edition, 2014
+REFERENCES:
+1. Standard Practice for Superpave Volumetric Mix Design & Superpave Mix Design
+Specifications, AASHTO R 35 / M 323 Latest Edition, 2021–2022
+2. Specifications for Road and Bridge Works, MoRTH Specifications 5th Revision, 2013
+3. Manual for the Design of Hot Bituminous Mixes, IRC: SP:135–2022
+ONLINE RESOURCES:
+1. https://onlinecourses.nptel.ac.in/noc22_ce93
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC1HW02) TRAFFIC ENGINEERING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To introduce students on the basic concepts of traffic engineering
+• To analyze capacity and level of service of highways
+• To identify the importance and types of parking and traffic safety in day-to-day
+life
+• To design signals at the intersection
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Explain basic characteristics of traffic engineering like speed, flow and density
+CO-2: Analyze and calculate the capacity and level of service of any given highway
+CO-3: Formulate the parking demand and design a parking facility
+CO-4: Design and optimize traffic signal control for efficient and safe operations
+UNIT-I:
+Basic Traffic Stream Characteristics: Speed, flow and density, Relationship between
+Speed, Flow and density; Volume Studies - Objectives, Methods; Speed studies -
+Objectives: Definition of Spot Speed, time mean speed and space mean speed.
+UNIT-II:
+Traffic Measurement Procedures: Measurement at a Point (Volume data collection
+and analysis, PCU, PHF etc), Measurement over a Short Section (Speed data
+collection and analysis), Measurement along a Length of Road (Density and travel
+time measurement and analysis), Moving Observer Method, Traffic forecasting and
+growth studies.
+UNIT-III:
+Parking Studies and Analysis: Types of parking facilities - on street parking and off-
+street Parking facilities; Parking studies and analysis.
+Traffic Safety: Accident studies and analysis; Causes of accidents; Engineering,
+Enforcement and Education measures for the prevention of accidents, Road safety
+audit.
+UNIT-IV:
+Traffic Intersection Control: Principles of Traffic Control and Traffic Signs, Road Markings
+and Channelization, Uncontrolled Intersection: Gap acceptance and capacity
+concepts, Uncontrolled Intersection: Capacity and LOS analysis, Highway Capacity
+and Level of Service: Basic definitions related to capacity; Level of service concept;
+Factors affecting capacity and level of service; Computation of capacity and level
+of service for two lane highways Multilane highways and freeways.
+UNIT-V:
+Traffic Control: Design Principles of Traffic Signal, Evaluation of a Traffic Signal: Delay
+Models, Capacity and LOS Analysis of a Signalized I/S, Coordinated Traffic Signal,
+Vehicle Actuated Signals and Area Traffic Control.
+TEXT BOOKS:
+1. Principles and Practice of Highway Engineering, L. R. Kadiyali and N. B. Lal — 7th
+edition (Reprint 2023), Khanna Publishers
+2. Traffic Engineering and Transportation Planning, L. R. Kadiyali and N. B. Lal — 9th
+Edition (2017), Khanna Publishers
+3. Highway Engineering, S. K. Khanna, C. E. G. Justo and A. Veeraraghavan — 10th
+Edition (Reprint 2024), Nem Chand & Bros.
+REFERENCES:
+1. Transportation Engineering-An introduction, C. Jotin Khisty and B. Kent Lall,
+Prentice- Hall India, 2nd edition, published in 2017.
+2. Design Codes IRC: SP: 41-1994, IRC SP: 31-1992, IRC 43-1994, Indian Roads
+Congress, New Delhi
+3. Highway Capacity Manual Transportation Research Board, 7th Edition, 2022
+4. Indo HCM, 2020, CSIR CRRI, New Delhi
+ONLINE RESOURCES:
+1. https://onlinecourses.nptel.ac.in/noc23_ce29/preview
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC1HW03) HIGHWAY DESIGN
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the fundamental controls and factors influencing geometric design
+of highways
+• To study design methodologies for cross-sectional, horizontal, vertical, and
+intersection elements of highways
+• To integrate geometric design with considerations of functionality, safety, comfort,
+and aesthetics for different road categories
+• To develop skills in the application of IRC guidelines for the design of pedestrian,
+cycling, bus-bay, and parking facilities
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Analyze the role of design controls in highway geometric design
+CO-2: Design cross-section, horizontal, and vertical alignment elements
+CO-3: Evaluate and design intersection facilities using design principles and capacity
+concepts
+CO-4: Apply IRC specifications to design rural, urban, expressway, and hill roads,
+including pedestrian, cycle track, bus bay, and parking facilities
+UNIT-I:
+Highway System: Functional Classification of Highway System, Highway Design
+Controls: Topography, Driver characteristics, Vehicle Characteristics, Traffic, Capacity
+and Level of Service, Design Speed - Objectives of Geometric Design - Cross Section
+Elements: IRC Design specifications, Pavement Surface characteristics: Skid
+Resistance, Road Roughness; Camber.
+UNIT-II:
+Geometric Design of Highway Element: Sight Distances: Objectives, Types, factors
+affecting, Problems on Sight distance, Alignment: Types, Objective and Factors
+affecting alignment,
+Horizontal alignment: Objectives, design Criteria, super-elevation, extra widening and
+Design of transition curves.
+Vertical Alignment: Objectives, design Criteria, Types of gradients, Grade
+Compensation, design of summit and valley curves, combination of vertical and
+horizontal Alignment.
+UNIT-III:
+Intersection Design: Objectives, Types of Intersections, Design Principles for
+Intersections. Design of At-grade Intersections: Objectives, Channelization, Traffic
+Islands and Design standards for intersection. Design of Rotary Intersection:
+Objectives, Advantages and Disadvantages and determining the capacity. Grade
+separated Interchanges: Objectives, Types, warrants and Design standards.
+UNIT-IV:
+Highway Design and Specifications: Design Considerations: Design considerations for
+rural, urban arterials, expressways, and other rural Roads. Urban roads -design speeds,
+volumes, level of service - IRC Specification for Expressway and Rural Roads. Design of
+expressways, IRC standards and guidelines for design - Specifications for hill roads.
+UNIT-V:
+Active Transportation Facilities: Pedestrian Facilities: Objectives of Pedestrian facilities,
+Types of Pedestrian facilities on Urban Roads and IRC Specification - Cycle Tracks:
+Objectives, Types of cycle track, Bus bays: Objectives, types, guidelines and IRC
+Design standards - Parking facilities: Objectives, Types, Guidelines and IRC Design
+standards.
+TEXT BOOKS:
+1. Principles and Practice of Highway Engineering, L. R. Kadiyali and N. B. Lal — 7th
+Edition Reprint 2023, Khanna Publishers
+2. Traffic Engineering and Transportation Planning, L. R. Kadiyali and N. B. Lal — 9th
+Edition, 2017, Khanna Publishers
+3. Highway Engineering, S. K. Khanna, C. E. G. Justo and A. Veeraraghavan — 10th
+Edition, Reprint 2024, Nem Chand & Bros
+REFERENCES:
+1. Transportation Engineering-An introduction, C. Jotin Khisty and B. Kent Lall,
+Prentice- Hall India, d Edition, published in 2017
+2. Design Codes IRC: SP: 41-1994, IRC SP: 31-1992, IRC 43-1994, Indian Roads
+Congress, New Delhi
+3. Highway Capacity Manual (7th Edition 2022), Transportation Research Board
+ONLINE RESOURCES:
+1. https://onlinecourses.nptel.ac.in/noc22_ce94/preview
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1HW01) URBAN TRANSPORTATION PLANNING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To introduce basic concepts and methods of urban transportation planning in
+India.
+• To design, conduct and administer surveys to provide the data required for
+transportation planning.
+• To understand and apply travel demand modeling, mode choice modeling and
+traffic assignment modeling.
+• To identify importance of land-use characteristics in transportation planning.
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Plan and conduct surveys to provide the data required for transportation
+planning.
+CO-2: Recognize zonal demand generation and attraction regression models.
+CO-3: Develop and calibrate trip generation rates for specific types of land use
+developments.
+CO-4: Comprehend the relationship between land-use characteristics and urban
+transportation planning.
+UNIT–I:
+Basic Concepts of Transportation Planning
+Goals and objectives; Hierarchical levels of transportation planning; Forecasting,
+implementation, and constraints; UTP surveys; Inventory of land use; Preparation of
+alternative plans; Evaluation techniques; Plan implementation and monitoring;
+Consideration of sustainability and environmental aspects in urban transport planning.
+UNIT–II:
+Trip Generation and Distribution Analysis
+Trip classification; Trip productions and attractions; Trip generation models using
+regression and category analysis; Trip distribution models including linear
+programming approach; Updated survey methods for accurate travel demand
+estimation.
+UNIT–III:
+Mode Choice Modelling
+Behavioral and probabilistic models; Utility functions; Logit models; Trip-end type and
+trip-interchange type modal split models; Disaggregate models; Binary and
+multinomial logit models; Consideration of public transport and non-motorized
+transport (walking, cycling).
+UNIT–IV:
+Traffic Assignment
+Route choice behavior; Assignment methods including minimum path, all-or-nothing,
+multipath, and capacity-restrained assignment; Introduction to dynamic aspects of
+traffic flow.
+UNIT–V:
+Land-Use and Transport Interaction
+Lowry derivative models; Non-transport solutions for transport problems;
+Characteristics of urban structure; Urban activity systems; Urban movement
+hierarchies; Types of urban structure (centripetal, grid, linear, directional grid); Transit-
+oriented development and compact city planning.
+TEXT BOOKS:
+1. Principles of Urban Transportation System Planning, Hutchinson B. G., McGraw-Hill
+1st edition, 1974
+2. An Introduction to Transportation Planning (The Living Environment), Bruton M. J.,
+UCL Press 3rd edition, Reissue 1990
+3. Transportation Engineering, C. J. Khisty and B. Kent Lall, Prentice Hall of India
+4. Traffic Engineering and Transportation Planning, L. R. Kadiyali and N. B. Lal — 9th
+Edition 2017, Khanna Publishers
+REFERENCES:
+1. Transportation Engineering and Planning, C. S. Papacostas and P. D. Prevedouros,
+Prentice Hall of India, 3rd edition 2002
+2. UTP Lecture Notes, Chari S. R., Regional Engineering College, Warangal
+3. Metropolitan Transportation Planning, Dicky J. W., Script Book Co.
+4. Modelling Transport, Ortuzar J. and Willumsen L. G., Wiley, Chinchestor
+ONLINE RESOURCES:
+1. https://onlinecourses.nptel.ac.in/noc21_ce35/preview
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1HW02) BRIDGE ENGINEERING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Structural Analysis I & II, Reinforced Concrete Design
+COURSE OBJECTIVES:
+To understand the bridge hydrology
+To list the components of bridge substructure, superstructure and types of bearings
+To understand the codal provisions for loading and design standards of bridges
+To design RC and PSC bridges
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Determine flood discharge, waterway, economic span
+CO-2: Select type of super structure, sub structure and the bearings
+CO-3: Calculate the various types of loads acting on the bridges
+CO-4: Design the Slab bridges, Girder bridges and Prestressed Concrete bridges
+UNIT-I:
+Introduction: Components of a bridge, Classification of bridges, Requirements of an
+ideal bridge, Selection of bridge site, Choice of bridge type, Investigation for bridges.
+Bridge Hydrology: Determination of flood discharge, Waterway, Economic span,
+Scour depth, Depth of foundation, Afflux, Clearance, Freeboard
+UNIT-II:
+Bridge Substructure and Super Structure: Bridge Piers, Abutments, Wing walls,
+Approaches, Types of bridge superstructures, Bridge flooring, Choice of superstructure
+type.
+UNIT-III:
+Standards of Loadings for Bridge Design: Types of loading for Road bridges – Dead
+load, Live load, Impact load, Wind loads, Lateral loads, Longitudinal forces,
+Centrifugal forces, Seismic loads, Forces due to water currents, Earth pressure,
+Buoyancy, Temperature stresses Deformation stresses, Erection stresses, Requirements
+of traffic in the design of highway bridges.
+UNIT-IV:
+Reinforced Concrete Bridges: Design of Slab bridge, Design of Girder bridge,
+Courbon’s theory.
+UNIT-V:
+Prestressed Concrete Bridges: Types of prestressing – Pre tensioning, Post tensioning,
+Pretensioned PSC bridges, Post tensioned PSC bridges. Bridge Bearings and Expansion
+Joints: Functions, types and selection of bearings - Bearing materials - Design of
+elastomeric bearings for different conditions - Expansion joints – types of expansion
+joints.
+TEXT BOOKS:
+1. Principles and Practice of Bridge Engineering, S. P. Bindra, Dhanpat Rai, 7th edition,
+Reprint,2005,
+2. Design of Concrete Bridges, M. G. Aswani, V. N. Vazirani, M. M. Ratwani, Khanna,
+2nd edition, Reprint,2017
+3. Essentials of Bridge Engineering, D. J. Victor, Oxford & IBH Publishing Co. 6th edition,
+2019
+REFERENCES:
+1. Design of Bridge Structures, T. R. Jagdeesh and M. A. Jayaram, PHI, 3rd edition 2020
+2. Bridge Engineering, Ponnuswamy S., Tata McGraw-Hill, 3rd edition 2017
+3. Analysis and Design of Substructures, Swami Saran, Oxford & IBH Publishing Co., 2nd
+2018
+ONLINE RESOURCES:
+1. https://nptel.ac.in/courses/105105216
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1HW03) INTELLIGENT TRANSPORTATION SYSTEMS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+To understand ITS architecture and standards
+To apply appropriate ITS technology depending upon site specific conditions
+To design and implement ITS components
+To understand concept and application of Automated Highway Systems
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Differentiate different ITS user Services
+CO-2: Apply ITS for road user safety
+CO-3: Comprehend different ITS simulation techniques
+CO-4: Interpret importance of AHS in ITS
+UNIT-I:
+Introduction To ITS: Human Factors in ITS, System Architecture, Standards, Database –
+Tracking Database – Commercial Vehicle Operations – Intelligent Vehicle Initiative -
+Metropolitan ITS – Rural ITS – ITS for Rail network., Implementation of ITS- ITS programs
+globally- overview of ITS in developed countries and developing countries
+UNIT-II:
+ITS Travel Management: Autonomous Route Guidance System – Infrastructure based
+systems – Telecommunications – Vehicle – Road side communication – Vehicle
+Positioning System – Electronic Toll Collection – Electronic Car Parking
+UNIT-III:
+ITS Designs: Modelling and Simulation Techniques - Peer – to – Peer Program – ITS for
+Road Network – System Design – Mobile Navigation Assistant – Traffic Information
+Center – Public Safety Program.
+UNIT-IV:
+Automated Highway Systems: Evolution of AHS and Current Vehicle Trends - Vehicles
+in Platoons – Aerodynamic Benefits - Integration of Automated Highway Systems –
+System Configurations - Step by Step to an Automated Highway System.
+UNIT-V:
+Spacing and Capacity for Different AHS Concepts: Spacing and Capacity for Different
+AHS Concepts – Communication Technologies for AHS - The Effects of AHS on the
+Environment – Regional Mobility - Impact Assessment of Highway Automation.
+TEXT BOOKS:
+1. ITS Hand Book 2000: Recommendations for World Road Association (PIARC), Kan
+Paul Chen, John Miles ITS Manual – 2nd Edition, 2006
+2. Intelligent Transport Systems – Cases and Policies, Roger R. Stough, Edward Elgar,
+1st Edition, 2001
+3. Intermodal Freight Transport, David Lowe, Elsevier Butterworth-Heinemann 1st
+Edition, 2005
+REFERENCES:
+1. Positioning Systems in Intelligent Transportation Systems, Chris Drane and Chris
+Rizos, Artech House Publishers
+2. Perspectives on Intelligent Transport Systems, Joseph M. Sussman, Springer
+3. Intelligent Transport System, Intelligent Transportation Primer, Washington
+ONLINE RESOURCES:
+1. https://www.civil.iitb.ac.in/tvm/nptel/591_ITS_1/web/web.html
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1HW04) DATA ANALYTICS IN TRANSPORTATION ENGINEERING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand different data presentation techniques
+• To apply appropriate probability distribution laws
+• To test different statistical hypothesis
+• To analyze multivariate transportation data
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Select a suitable method for processing and presentation of transportation
+data
+CO-2: Apply probability distributions to analyze transportation data
+CO-3: Choose appropriate hypothesis testing measures
+CO-4: Analyze multivariate transportation data using curve fitting techniques
+UNIT-I:
+Data Description and Presentation: Type of data, a centre of data, quartiles, five
+number summary, the spread of data, coefficient of variation and standard deviation,
+a measure of dispersion, shape of data, coefficients of skewness and kurtosis,
+descriptive data statistics, presentation of categorical, quantitative and qualitative
+variable, data frequency and histogram, exercises with actual data.
+UNIT-II:
+Probability Laws and Distribution: Basic probability theory, concept and rules, Bayes’
+theorem, type of statistical distribution and characteristic, probabilistic distributions
+Binomial, Poisson, Normal, Lognormal, Weibull, Gamma, Beta, Erlang, Student’s t and
+F distribution, Geometric and Hyper geometric distribution, applications in
+transportation engineering.
+UNIT-III:
+Statistical Inference and Tests of Significance: Hypothesis testing, types of error in
+hypothesis, confidence interval, significance tests for comparing variances and
+means, tests with small and large samples, two-tail and one-tail student’s t-test,
+analysis of variance (ANOVA), non-parametric tests (Chi-square test and
+Kolmogorov–Smirnov test), central limit theorem, practice with transportation data.
+UNIT-IV:
+Regression and Correlation: Simple linear regression, residuals and variances, multiple
+linear regression, two-stage regression, forward, backward and step-wise regression,
+residual analysis, correlation analysis, type of correlations, coefficient of correlation,
+Karl-Pearson’s coefficient, multivariate data analysis, Time series modelling for traffic
+forecasting, factor analysis, applications in transportation engineering.
+UNIT-V:
+Parameter Estimation and Curve Fitting Techniques: Least square, generalized least
+squares, method of moments, maximum likelihood, algebraic and geometric curve
+fit, linear and non-linear curve fitting (polynomial, exponential, logarithmic, power,
+etc.), overfit, and under fit.
+TEXT BOOKS:
+1. Statistical and Econometric Methods for Transportation Data Analysis, Washington,
+S. P., Karlaftis M. G., Mannering F., Anastasopoulos P., CRC Press 3rd Edition, 2020
+2. Statistical Techniques for Transportation Engineering, Molugaram K., Rao G. S.,
+Shah A., Davergave N., Butterworth-Heinemann 3rd Edition, 2017
+3. Multivariate Data Analysis, Joseph F. H., William C. B., Barry J. B., Anderson R. E.,
+Prentice Hall 2rd Edition, 2017
+REFERENCES:
+1. Probability and Statistical Inference, Robert V. H., Elliot T., Zimmerman D., Pearson
+2. Probability Concepts in Engineering Planning and Design, Alfredo H. S. A., Tang, W.
+H., Volume I & II, John Wiley & Sons
+3. Quality Improvement through Statistical Methods, Bovas A., Springer Science &
+Business Media
+ONLINE RESOURCES:
+1. http://courses.washington.edu/cee412/
+2. https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1GT01) SOIL STRUCTURE INTERACTION
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To introduce the concepts and terminology of soil structure interaction
+• To analyze different type of framed structures resting on natural deposits
+• To develop knowledge on behavior of piles and pile groups on soils
+• To create and formulate advance programming to solve interaction problems
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Evaluate soil structure interaction for different types of structure under various
+conditions of loading and subsoil characteristics
+CO-2: Prepare comprehensive design-oriented computer programs for interaction
+problems based on theory of sub grade reaction such as beams, footings, rafts etc.
+CO-3: Analyze different types of frame structure founded on stratified natural deposits
+with Linear and non-linear stress-strain characteristics
+CO-4: Understand action of group of piles considering stress-strain characteristics of
+real soils
+UNIT-I:
+Importance of Soil Structure Interaction: Critical Study of Conventional Methods of
+Foundation design, Nature and Complexities of Soil Structure Interaction.
+UNIT-II:
+Numerical Techniques in SSI: Application of Advanced Techniques of Analysis such as
+FEM and Finite Difference Method
+UNIT-III:
+Simulation Program: Effect of seismic load on structure interaction, Preparation of
+Comprehensive Design Oriented Computer Programs for simple seismic soil structure
+interaction model, Interaction of Beams, Footings, Rafts Etc. based on Sub Grade
+Reaction.
+UNIT-IV:
+Soil Structure Interaction of Framed Structure: Analysis of Different Types of Framed
+Structures Founded on Stratified Natural Deposits with Linear and Non-Linear Stress-
+Strain Characteristics.
+UNIT-V:
+Analysis of Laterally and Axially Loaded Pile Groups: Determination of Pile Capacities
+and Negative Skin Friction, Action of Group of Piles considering Stress-Strain
+Characteristics of Real Soils, Anchor Piles and Determination of Pullout Resistance.
+TEXT BOOKS:
+1. Analytical and Computer Methods in Foundation, Bowels J. E., McGraw-Hill Book
+Co., 1st edition1974
+2. Elastic Analysis of Soil-Foundation Interaction, Selvadurai A. P. S, Elsevier Scientific
+Publishing Company 1st edition1979
+3. Numerical Methods in Geotechnical Engineering, Desai C. S. and Christian J. T.,
+McGraw-Hill Book Co. 1st edition1979
+REFERENCES:
+1. Soil Structure Interaction - The Real Behaviour of Structures, Institution of Structural
+Engineers
+2. Analysis & Design of Substructures, Swami Saran, Oxford & IBH Publishing
+3. Design of Foundation System-Principles & Practices, Kurian N. P., Narosa Publishing
+ONLINE RESOURCES:
+1. https://nptel.ac.in/courses/105105200
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1HW05) REMOTE SENSING AND GIS APPLICATIONS IN HIGHWAY INFRASTRUCTURE
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To describe and define various concepts of Remote Sensing and GIS
+• To analyze data using GIS
+• To appraise the importance of accuracy in GIS
+• To apply GIS knowledge in solving various problems in real world scenario
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Describe different concepts and terms used in Remote Sensing and GIS
+CO-2: Compare and process different data sets
+CO-3: Evaluate the accuracy and decide whether a data set can be used or not
+CO-4: Demonstrate various applications of GIS in highway engineering
+UNIT-I:
+Remote Sensing: Introduction- Principle of remote sensing, components of remote
+sensing, Remote sensing platforms, Radiometric quantities, Electromagnetic radiation
+and its properties, Electromagnetic energy laws, Interaction of EMR with earth
+features, Interaction of EMR with atmospheric features, atmospheric effects on
+remote sensing data, spectral reflectance curves, Spectral properties of soil, water,
+vegetation. Advantages and Disadvantages of Remote Sensing Data
+UNIT-II:
+Satellites and Sensors: Sensors - Remote sensing sensors types, along track scanners,
+across track scanners. Sensor Characteristics – Swath, IFOV, Nadir view, Spatial
+Resolution, Spectral Resolution, Temporal, Resolution, Radiometric resolution,
+Atmospheric, Radiometric, Geometric corrections Satellites – Satellite orbits,
+Geostationary and polar satellites, various satellites and their main applications, IRS
+satellites.
+UNIT-III:
+Remote Sensing Data Interpretation, Processing and Enhancement: Elements of visual
+interpretation, Image enhancement techniques - necessity and importance, contrast
+enhancement techniques, low pass (smoothing) filters and high pass (sharpening)
+filters, linear and non-linear filtering techniques, edge detection, supervised
+classification, unsupervised classification, and Classification accuracy. Introduction to
+GPS and DGPS.
+UNIT-IV:
+Geographical Information System: Introduction, Definition and Terminology, Maps
+and Map Scale, Geo referencing and Projection, Components of GIS, GIS Data Input
+and output, GIS Data Models – Raster, Vector, TIN, Advantages and disadvantages,
+Spatial Data Analysis: Vector Operations and Analysis- Single theme and multi themes,
+Raster data analysis, Interpolation – global and local methods
+UNIT-V:
+Applications of GIS in Transportation Engineering: GIS based road network planning, ,
+Identification of accident hot spots using GIS, Automatic Navigation system using GPS
+and GIS, Shortest path applications in GIS, Intelligent transportation systems.
+TEXT BOOKS:
+1. Remote Sensing and Image Interpretation, Thomas M. Lillesand and Ralph W.
+Kiefer, Wiley 7th Edition, 2015
+2. Introduction to Geographic Information systems, Kang-tsung Chang, McGraw-Hill
+Education 9th Edition, 2018
+3. Remote Sensing and GIS, Basudeb Bhatta, Oxford University Press, 3rd Edition, 2021
+REFERENCES:
+1. Basics of Remote sensing and GIS, Dr. S. Kumar, Laxmi Publications, 1st edition 2005
+2. Remote Sensing and Geographical Information systems, M. Anji Reddy, B. S.
+Publications, 5th edition, 2014
+3. Remote Sensing and Geographical Information systems, Kali Charan Sahu,
+Atlantic Publishers and Distributors, 2024
+ONLINE RESOURCES:
+1. https://transportgeography.org/contents/methods/geographic-information-
+systemstransportation/
+2. https://www.esri.com/library/bestpractices/urban-regional-planning.pdf48
+3. https://www.gis.fhwa.dot.gov/documents/gis_assetmgmt.pdf
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1HW06) SUSTAINABLE TRANSPORTATION
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+To understand the problem of sustainability
+To comprehend various sustainable mode choice facilities
+To plan and design different non-motorized transportation facilities
+To learn the policies of sustainable transportation development
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Identify key elements and challenges of a sustainable transportation system.
+CO-2: Consider sustainability in providing transportation mode choices.
+CO-3: Plan pedestrian and bicycle facilities for sustainable urban mobility.
+CO-4: Suggest policies to enhance the sustainability of transportation systems.
+UNIT–I:
+Problem of Sustainability in Transport: Energy use in the transport sector; Transport and
+climate change; Greenhouse gas emissions, urban air quality, Congestion, and
+sustainability, Sustainable Development Goals.
+UNIT–II:
+Planning for Sustainability: Urban form, Indicator based planning, land use transport
+integration, Compact City, Public Transit, TOD, NMT, First and Last Mile Connectivity.
+UNIT–III:
+Non-Motorized Transportation Planning: Surveys, Demand Estimation and Analysis;
+Cycling Condition Evaluation Techniques; Pedestrian Condition Evaluation
+Techniques; Planning for Pedestrians- Types of pedestrians and Characteristics;
+Pedestrian facilities and planning; Pedestrian standards and improvements;
+Pedestrian facility Design, Planning for Bicyclists- Types of cyclists and Bikeways;
+Integrating cycling into roadway planning; Bicycle network planning; Design of
+Bicycle boulevards/bike paths; Bicycle Parking/storage Facilities; Roadway
+maintenance for cyclists.
+UNIT–IV:
+Sustainable Policies: Continuum of Policies, speed and speed limit policies, national
+policies, sustainable travel demand management; public awareness; pricing
+transportation: total cost of transportation, pricing, and taxation.
+UNIT–V:
+Sustainable Development: Telecommuting, Information and Communication
+Technologies, E-commerce, Sustainable materials, Alternative Cleaner Fuels, vehicle
+technologies, fuel cells, Intelligent Transport Systems, Mobility Management policies,
+Supporting Bicycling, creating pedestrian-friendly facilities, encouraging Public
+Transportation.
+TEXT BOOKS:
+1. An Introduction to Sustainable Transportation: Policy, Planning and
+Implementation, Preston L. Schiller, Eric C. Brunn, and Jeffrey R. Kenworthy,
+Routledge, 2nd edition, 2017
+2. Sustainable Transport: Planning for Walking and Cycling in Urban Environments,
+Rodney Tolley (Editor), CRC Press, 1st edition, 2023
+REFERENCES:
+1. Sustainable Transport: Problems and Solutions, Black W. R., Guilford Press, 2010
+2. Sustainable Transport: Definitions and Responses, In Transportation Research
+Board, Integrating Sustainability into the Transportation Planning Process,
+Conference Proceedings 37, Black W. R., National Research Council, Washington,
+DC, 2000
+3. Transportation Technologies for Sustainability, Mehrdad Ehsani, Fei-Yue Wang and
+Gary L. Brosch (Eds.), Springer-Verlag
+ONLINE RESOURCES:
+1. https://onlinecourses.nptel.ac.in/noc21_ce74/preview
+2. https://www.cutr.usf.edu/workforce/education/sustainable-transportation-
+course/
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1HW07) ENVIRONMENTAL IMPACT ASSESSMENT FOR HIGHWAY PROJECTS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To assess and quantify environmental impacts of highway projects, including air
+pollution, noise, and ecological effects
+• To integrate transport planning with land use to support efficient and sustainable
+highway systems
+• To plan, develop, and manage highways that safeguard environmental quality
+and public well-being
+• To design sustainable, cost-effective, and efficient highway networks meeting
+societal and regulatory requirements
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Explain concepts, objectives, legal framework, and regulatory requirements of
+EIA for highway projects
+CO-2: Collect and analyze environmental data using modern tools such as GIS and
+remote sensing
+CO-3: Evaluate environmental impacts on physical, ecological, and socio-economic
+systems and propose mitigation strategies
+CO-4: Apply EIA methodologies, stakeholder consultation, and sustainability
+assessment for informed decision-making in highway projects
+UNIT–I:
+Introduction to EIA for Highway Projects: Environment and its interaction with human
+activities – Environmental imbalances – Attributes, impacts, indicators and
+measurements – Concept and process of Environmental Impact Assessment (EIA) –
+Environmental Impact Statement (EIS) – Objectives, advantages, and limitations of EIA
+– Legal and regulatory framework for highway projects (MoEFCC, NHAI, IRC, World
+Bank/ADB guidelines).
+UNIT–II:
+Environmental Indicators and Baseline Studies: Indicators for climate, terrestrial, and
+aquatic subsystems – Socio-economic, cultural, and health indicators – Selection of
+appropriate indicators – Baseline data collection for highway projects – Use of remote
+sensing and GIS in environmental baseline studies.
+UNIT–III:
+Environmental Impacts of Highway Projects: Impacts on land use, soil erosion, water
+resources, air quality, noise, ecology, and biodiversity – Impacts on human settlements
+and cultural heritage – Short- and long-term effects – Cumulative impacts – Case
+studies of Indian highway projects.
+UNIT–IV:
+Mitigation and Management Measures: Mitigation of impacts on air, water, noise, and
+ecology – Highway-related environmental management plans (EMP) – Climate
+resilience, greenhouse gas emissions, and carbon footprint of highways – Sustainable
+highway construction practices – Case studies on mitigation.
+UNIT–V:
+Methodologies and Tools for EIA:Overview of EIA methodologies – Ad hoc, checklist,
+matrix, network, overlay methods – Cost-benefit analysis – Public participation and
+stakeholder consultation – Review criteria for EIA reports – Use of modern tools: Life
+Cycle Assessment (LCA), Strategic Environmental Assessment (SEA), GIS-based impact
+modeling.
+TEXT BOOKS:
+1. Environmental Impact Assessment, Canter, L.W., McGraw-Hill, 2nd edition,1977
+2. Environmental Analysis of Transportation Systems, Louis Franklin Cohen and Gary
+Richard Mc Voy, John Wiley, 2nd edition,1982
+3. Environmental Impact Analysis, Jain R. K., Urban L. V., Stracy G. S., Nostrand
+Reinhold Co., 2nd edition,1981
+REFERENCES:
+1. Environmental Fate and Transport Analysis with Compartment Modeling, Keith W.
+Little, CRC Press, Taylor & Francis Group,2012
+2. NCHRP Report 541, Consideration of Environmental Factors in Transportation
+Systems Planning, TRB,2005
+3. NCHRP Synthesis 272, Best Management Practices for Environmental Issues Related
+to Highway and Street Maintenance: A Synthesis of Highway Practice, National
+Research Council, TRB,1999
+ONLINE RESOURCES:
+1. https://onlinecourses.nptel.ac.in/noc22_ar07/preview
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1HW08) PUBLIC TRANSPORT AND MASS MOBILITY SYSTEMS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand and apply basic concepts and methods of Mass transportation
+system and planning in India
+• To learn Transit system, types of transit modes, characteristics of transit system for
+understanding transit system and estimation of transit demand based on origin
+and destination surveys
+• To understand and be able to apply bus route network planning and route system
+• To understand mass transit corridor identification and planning
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Identify various Mass transport system and their characteristics
+CO-2: Asses public transport and development strategies
+CO-3: Planning of mass transit systems
+CO-4: Evaluation of transit performance and its impact on network analysis
+UNIT-I:
+Transit System and Issues: Introduction to Mass Transport – Role of various modes of
+Mass Transport – Problems and their Impact – System Characteristics: Technological
+Characteristics – Resistances, acceleration & velocity Profiles – Operational
+characteristics speed, capacity & payloads – Route capacity – Comfort conditions -
+Performance relationships - Public and Private Operations - Modes for Intercity
+Transport System Performance at National, State, Local and International levels
+UNIT-II:
+Public Transit System: Urban Transport System – Public Transport System Re-genesis and
+Technology – Physical performance of Public Transport System – Public Transport and
+Urban Development Strategies - Characteristics of Rail Transit – Vehicle
+Characteristics, ITS, Para transit systems – Intermediate Public Transport.
+UNIT-III:
+Mass Transit Corridor Identification & Planning: Corridor identification – Network
+Compression Method - Planning of Rapid Transit System - System Selection - Supporting
+and Enclosing Structures - System Evaluation - Track Structures - Power Supply and
+Distribution - Signal System – Aesthetics and Noise Consideration - Cost of Construction
+- Station Arrangements - Platform Capacity - Fare Collection, Transit Marketing.
+UNIT-IV:
+Bus Transit Planning and Scheduling: Route Location, Route Structure, Route Coding
+Techniques, Route Capacity - Planning of Transit Network - Different Types - Service
+Area Coverage - Evaluation - Selection of Optimal Network - Path Building Criteria -
+Route Planning and Scheduling – Bus Transport System – Performance and Evaluation
+– Scheduling – Conceptual patterns of bus service – Network Planning and Analysis –
+Bus Transport System Pricing – Bus Transit System Integration – Analytical Tools and
+Techniques for Operation and Management – Bus Rapid Transit Systems.
+UNIT-V:
+Rail Transit Terminals and Performance Evaluation: Performance Evaluation –
+Efficiency, Capacity, Productivity and Utilisation – Performance Evaluation Techniques
+and Application – System Network Performance – Transit Terminal Planning and Design
+Urban Rail Transit Planning – MRTS – LRTS, Metro Rail – Monorail – Network Design,
+Capacity and Traffic Fore casting
+Impact of Transit: Impact of Transport Development on Environment – Remedial
+measures – Policy Decisions – Recent Trends in Mass Transportation Planning and
+Management.
+TEXT BOOKS:
+1. Urban Mass Transport Planning, Black, McGraw-Hill, 1st edition 1995
+2. Urban Public Transport System and Technology, V. R. Vuchic, Prentice Hall Inc., 1st
+edition 1981
+3. Fundamentals of Transportation Engineering, C. S. Papacostas, Prentice Hall India,
+1st edition 1987
+REFERENCES:
+1. Public Transport Planning Operation and Management, G. E. Gray, C. A. Hoel,
+Prentice Hall
+2. Planning for Public Transport, White P. R., UCL Press Ltd.
+ONLINE RESOURCES:
+1. https://onlinecourses.nptel.ac.in/noc24_ce80/preview
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC1GT03) GROUND IMPROVEMENT TECHNIQUES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To know the needs and objectives of ground improvement techniques
+• To comprehend the principles of various ground improvement methods
+• To compare different methods of ground improvement and understand their
+suitability
+• To apply the relevant method to remedy a difficult soil condition
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply the principles of ground improvement to a given site conditions
+CO-2: Select the choice of right technique to improve different difficult grounds
+CO-3: Estimate safety, stability of economical construction of any structure
+CO-4: Identify the issues affecting design and construction of various methods for soil
+improvement
+UNIT-I:
+Introduction to Ground Modification: Need and objectives of Ground Improvement,
+Classification of Ground Modification Techniques – suitability and feasibility.
+UNIT-II:
+Mechanical Modification: Methods of compaction, Shallow compaction, Deep
+compaction techniques - Vibro-floatation, Blasting, Dynamic consolidation, pre-
+compression and compaction piles, Field compaction control.
+UNIT-III:
+Hydraulic Modification: Hydraulic Modification: Methods of dewatering – open sumps
+and ditches, Well-point system, Electro-osmosis, Vacuum dewatering wells; pre-
+loading without and with sand drains, strip drains and rope drains.
+UNIT-IV:
+Physical and Chemical Modification: Stabilization with admixtures like Cement, Lime,
+Calcium Chloride, fly Ash and Bitumen. Grouting: Categories of grouting, Art of
+grouting, Grout materials, Grouting techniques and control.
+UNIT-V:
+Soil Confinement Systems: Soil reinforcement: Reinforced earth, basic mechanism,
+type of reinforcements, selection of stabilisation/improvement of ground using
+Geotextiles, Goegrid, geomembranes, geocells, geonets, and soil nailing.
+TEXT BOOKS:
+1. Engineering Principles of Ground Modifications, Hausmann M. R., McGraw-Hill,
+1990
+2. Designing with Geosynthetics, Koerner R. M., Xlibris, 2012
+REFERENCES:
+1. Engineering Principles of Ground Modification, Hausmann M. R., McGraw-Hill
+International Edition, 1990
+2. Grouting and Deep Mixing, Yonekura R., Terashi M. and Shibazaki M. (Eds.), A. A.
+Balkema, 1966
+3. Ground Improvement, Moseley M. P., Blackie Academic & Professional, 1993
+4. Earth Reinforcement and Soil Structures, Jones C. J. F. P., Butterworths, 1985
+5. Ground Control and Improvement, Xianthakos, Abreimson and Bruce, John Wiley
+& Sons, 1994
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC2HW01) PAVEMENT ENGINEERING LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To understand and evaluate the properties of aggregates used in pavement
+construction
+• To analyze and design base and sub-base pavement layers
+• To study the grading and properties of bituminous binders
+• To learn the methodology for designing bituminous mixes using the Marshall
+process
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Assess the suitability and quality of aggregates for pavement construction
+CO-2: Design and evaluate base and sub-base layers of pavements
+CO-3: Perform and interpret tests on bitumen to determine grading and properties
+CO-4: Conduct bituminous mix design using the Marshall method and interpret the
+results
+LIST OF EXPERIMENTS:
+Aggregate Tests:
+1. Aggregate Impact Value Test
+2. Los Angeles Abrasion Test
+3. Aggregate Crushing Value Test
+4. Specific Gravity and Water Absorption Test
+5. Soundness Test
+6. Mix Design for Base Layers: Wet Mix Macadam (WMM)
+Bitumen Tests:
+Bitumen Grading Tests:
+7. Penetration Test
+8. Softening Point Test
+9. Flash & Fire Point Test
+10. Absolute and Kinematic Viscosity
+Bituminous Mix Design
+11. Bituminous Concrete Mix Design using Marshall Method
+12. Determination of Optimum Binder Content
+REFERENCES:
+1. Highway materials and pavement testing, Khanna S. K., Justo C. E. G., and A.
+Veeraragavan, Nem Chand and Brothers(Fifth edition, 2014)
+2. Pavement Analysis and Design, Huang Y. H., Pearson Prentice Hall(Second edition,
+2004)
+3. Relevant IS, IRC, ASTM Codes.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC2HW02) TRAFFIC AND MOBILITY ANALYTICS LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To perform traffic surveys and to retrieve different traffic stream parameters
+• To analyze capacity and level of service of highways
+• To design different types of parking facilities and characteristics
+• To assess driver characteristics and pollution parameters due to traffic
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the data collection procedure for traffic volume, speed, headway,
+gap acceptance behaviour and parking surveys
+CO-2: Knowledge of different level of service and capacity estimation
+CO-3: Appreciate the driver characteristics and reaction time
+CO-4: Realize pollutants emitted by vehicles and their standards
+LIST OF EXPERIMENTS:
+1. Classification of Traffic Volume at Mid-Block and Intersections.
+2. Speed Studies analysis.
+3. Headway studies: Time and Space diagrams – Car following method.
+4. Gap acceptance studies.
+5. Travel Time and Delay Studies by Floating Car Method at Mid-Block.
+6. Intersection delay studies at Uncontrolled and Signalized Intersection.
+7. Parking surveys: Parking Inventory and Turnover Studies.
+8. Highway Capacity Estimation.
+9. Traffic Noise Measurement – Noise Contour
+10. Analysis of Vehicular Pollutants from Exhaust Gases – 5 Gas Analyzer (CO2, CO,
+NOx and HC).
+REFERENCES:
+1. Transportation Engineering: An Introduction, Jotin and, B. Kent Lall, Prentice
+Hall(Third edition, 2002)
+2. Introduction to Traffic Engineering: Manual F/Data Collect & Analysis, Currin, CL
+Engineering
+3. Traffic Engineering and Transportation Planning, L. R. Kadiyali, Khanna Publishers
+(Nineth edition, 2018)
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25SD5EN01) ENGLISH FOR ACADEMIC AND RESEARCH WRITING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE PRE-REQUISITES: Undergraduate level English Proficiency
+COURSE OBJECTIVES:
+• To equip with an understanding of the mechanics and conventions of academic
+and research writing, including cohesion and coherence, to produce texts that
+demonstrate precision and clarity
+• To enable to present focused, logical arguments that support a thesis
+• To empower to find, analyze, evaluate, summarize, and synthesize appropriate
+source material for literature review
+• To enable to use appropriate language to analyze and interpret the data, and
+prepare an outline
+• To enable to become adept in the requirements and specifications of standard
+writing to produce academic and research papers
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply knowledge of academic language features and text structure, and
+ensure cohesion and coherence as connected to various text types
+CO-2: Demonstrate the use of writing process strategies through outlining, reviewing,
+composing, and revising
+CO-3: Evaluate sources and use summary, analysis, synthesis, and integration to
+construct a literature review on a topic chosen by the student
+CO-4: Prepare an outline for Research Articles and Thesis
+CO-5: Apply standard documentation style to produce academic and research
+papers that meet the demands of specific genres, purposes, and audiences
+UNIT-I:
+1. Features of Academic Writing: Word Order, Breaking up long Sentences,
+Structuring Paragraphs and sentences, Being concise and removing redundancy,
+Avoiding Ambiguity and Vagueness, Hedging
+2. Planning & Preparation of Research paper, Factors Influencing Effective Writing:
+Mechanics of Writing, Purpose of Writing, Understanding the Target Reader,
+Organization- Cohesion, and Coherence
+UNIT-II:
+1. Academic Writing Forms:
+a) Analyzing arguments; Building an argument
+b) Making a Counter Argument- Managing tone and tenor
+2. Types of Research: Primary and Secondary Research
+3. Review of Literature
+4. Research Design: Statement of the Problem, Writing A Title, Writing an Abstract,
+Keywords & Introduction, Writing Hypotheses, Developing Objectives, Research
+Tools, Writing Reports and Writing Proposal.
+UNIT-III:
+1. Criteria of Good Research- Avoiding Plagiarism
+2. Data Interpretation, Writing to the Point
+3. Preparing an outline for Research Articles & Research Reports
+UNIT-IV:
+1. Reference Skills:
+a) Paraphrasing (Change of parts of speech, word order, synonyms, using the passive
+form)
+b) Summarizing (Steps in summarizing)
+2. Inserting references
+UNIT-V:
+1. Assessment of Technical Reports
+2. Writing Research Article Reviews: Writing Article & Book Review
+TEXT BOOKS:
+1. A Course in Academic Writing, Gupta R., Orient BlackSwan, 2010
+2. Academic Writing: Exploring Processes and Strategies, Leki I., CUP, 1998
+3. Writing Up Research: Experimental Research Report Writing for Students of English,
+Weissberg R., & Buker S. Englewood Cliffs, Prentice Hall, 1990
+REFERENCES:
+1. English Academic Writing for Students and Researchers, Yakhontova T., 2003
+2. Inside Track: Successful Academic Writing Gillett, A., Hammond A., Martala M.
+Essex: Pearson Education 2009
+3. English for Academic Research: Writing Exercises, Wallwork, Springer, 2013
+4. The MLA Handbook for Writers of Research Papers, 7th Edition, Modern Language
+Association
+5. Academic Writing for Graduate Students: A Course for Non-Native Speakers of
+English, Swales J. M. & Feak C. B. AnnArbor: University of Michigan Press, 1994
+ONLINE RESOURCES:
+1. Using Sources Video Lecture
+2. https://www.coursera.org/lecture/advanced-writing/using-sources-video-lecture-
+i719P
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25MN6HS01) RESEARCH METHODOLOGY AND IPR
+TEACHINGSCHEME EVALUATION SCHEME
+L T/P C SE-I SE-II SEE TOTAL
+2 0 0 50 50 - 100
+COURSE OBJECTIVES:
+• To understand the research problem
+• To know the literature studies, plagiarism and ethics
+• To get the knowledge about technical writing
+• To analyze the nature of intellectual property rights and new developments
+• To know the patent rights
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand research problem formulation
+CO-2: Analyze research related information & Follow research ethics
+CO-3: Understand that today’s world is controlled by Computer, Information
+Technology, but tomorrow world will be ruled by ideas, concept, and creativity
+CO-4: Understanding that when IPR would take such important place in growth of
+individuals & nation, it is needless to emphasis the need of information about
+Intellectual Property Right to be promoted among students in general & engineering
+in particular
+CO-5: Understand that IPR protection provides an incentive to inventors for further
+research work and investment in R & D, which leads to creation of new and better
+products, and in turn brings about, economic growth and social benefits
+UNIT-I:
+Meaning of research problem, Sources of research problem, Criteria Characteristics
+of a good research problem, Errors in selecting a research problem, Scope and
+objectives of research problem.
+Approaches of investigation of solutions for research problem, data collection,
+analysis, interpretation, Necessary instrumentations
+UNIT-II:
+Effective literature studies approaches, analysis, Plagiarism, Research ethics
+UNIT-III:
+Effective technical writing, how to write report, Paper Developing a Research
+Proposal, Format of research proposal, a presentation and assessment by a review
+committee
+UNIT-IV:
+Nature of Intellectual Property: Patents, Designs, Trade and Copyright. Process of
+Patenting and Development: technological research, innovation, patenting,
+development. International Scenario: International cooperation on Intellectual
+Property. Procedure for grants of patents, Patenting under PCT.
+UNIT-V:
+Patent Rights: Scope of Patent Rights. Licensing and transfer of technology. Patent
+information and databases. Geographical Indications. New Developments in IPR:
+Administration of Patent System.
+New developments in IPR; IPR of Biological Systems, Computer Software etc.
+Traditional knowledge Case Studies, IPR and IITs
+TEXT BOOKS:
+1. Research Methodology: An Introduction for Science & Engineering Students, Stuart
+Melville and Wayne Goddard
+2. Research Methodology: An Introduction, Wayne Goddard and Stuart Melville
+3. Research Methodology: A Step-by-Step Guide for Beginners, Ranjit Kumar, 2nd
+Edition
+REFERENCES:
+1. Resisting Intellectual Property, Halbert, Taylor & Francis, 2007
+2. Industrial Design, Mayall, McGraw-Hill, 1992
+3. Product Design, Niebel, McGraw-Hill, 1974
+4. Intellectual Property in New Technological Age, Robert P. Merges, Peter S. Menell,
+Mark A. Lemley, 2016
+5. Intellectual Property Rights Under WTO, T. Ramappa, S. Chand, 2008

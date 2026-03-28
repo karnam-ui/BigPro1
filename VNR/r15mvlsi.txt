@@ -1,0 +1,1726 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/mtechsyl/r15mvlsi.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+ACADEMIC REGULATIONS
+COURSE STRUCTURE
+AND
+DETAILED SYLLABUS
+M.Tech.
+VLSI SYSTEM DESIGN
+(Applicable for the batches admitted from 2015 - 2016)
+Electronics and
+Communication Engineering
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute, Accredited by NAAC with ‘A’ Grade
+NBA Accreditation for CE, EEE, ME, ECE, CSE, EIE, IT B.Tech. Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+1
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+HYDERABAD
+An Autonomous Institute
+Academic Regulations - M.Tech. Programme
+(Applicable for the batches admitted from the academic year 2015-2016)
+1. Introduction
+Academic programmes of the institute are governed by rules and regulations as approved by the Academic
+Council of the institute.
+These academic rules and regulations are effective from the academic year 2015-16, for the students
+admitted into two year post graduate programme offered by the college leading to Master of Technology (M.
+Tech.) degree in different specializations offered by the departments of Civil Engineering, Electrical and
+Electronics Engineering, Mechanical Engineering, Electronics and Communication Engineering, Computer
+Science and Engineering, Information Technology and Electronics and Instrumentation Engineering.
+The M.Tech. degree of Jawaharlal Nehru Technological University Hyderabad shall be conferred on students
+who are admitted to the programme after fulfilling all the requirements for the award of the degree.
+1.1 Eligibility for Admissions
+Admission to the above program shall be made subject to the eligibility and qualifications prescribed from
+time to time. Admissions shall be made on the basis of GATE Rank and merit rank obtained at an Entrance
+Test conducted by the TSSCHE or as decided by TSSCHE subject to reservations prescribed by the
+university/ State Government from time to time.
+2. Programmes of study
+The following two year M.Tech. degree programmes of study are offered by the departments at VNR VJIET.
+Department Specializations
+1. Advanced Manufacturing Systems
+ME 2. Automation
+3. CAD/CAM
+1. Highway Engineering
+CE 2. Structural Engineering
+3 Geotechnical Engineering
+1. Power Electronics
+EEE
+2. Power Systems
+1. Software Engineering
+CSE
+2. Computer Science and Engineering
+1. VLSI System Design
+ECE
+2. Embedded Systems
+EIE Electronics and Instrumentation
+IT Computer Networks and Information Security
+ ‘ENGLISH’ language is used as the medium of instruction in all the above programmes.
+2
+3. Attendance requirements
+Each academic year shall be divided into two semesters, each of 90 Instructions days, excluding
+examination, evaluation, declaration of results etc.
+3.1 A student shall be eligible to appear for the semester end examinations in subject if he / she acquire a
+minimum of 75% of attendance in that subject.
+3.2 Shortage of attendance up to 10% in any subject (i.e., attendance of 65% and above and below 75%) in
+a semester may be condoned by the Institute Academic Committee based on the rules prescribed by
+the Academic Council of the Institute from time to time.
+3.3 A student shall get minimum required attendance in at least three (03) theory subjects in the present
+semester to get promoted to the next semester. In order to qualify for the award of the M.Tech. degree, the
+student shall complete all the academic requirements of the subjects, as per the course structure.
+3.4 Shortage of attendance below 65% shall in NO case be condoned.
+3.5 A stipulated fee shall be payable towards condonation of shortage of attendance.
+3.6 In case the student secures less than the required attendance in any subject(s), he shall not be permitted to
+appear for the semester end examination in that subject(s). He shall re-register for the subject when offered
+next.
+4. Evaluation
+i. The performance of a student in each semester shall be evaluated subject–wise with a maximum of 100
+marks for theory and 100 marks for practical subjects. In addition, mini-project and comprehensive
+viva-voce shall be evaluated for 100 marks respectively.
+ii. For theory subjects, the distribution shall be 40 marks for mid-term evaluation and 60 marks
+for the semester end examination.
+ Mid-Term Evaluation (40 M):
+Mid-term evaluation consists of mid-term examination (30 M) and assignment/objective test/ case
+study/course project (10 M).
+ Mid-term examination (30 M):
+ For theory subjects, two mid-term examinations shall be conducted in each semester as per the
+academic calendar. Each mid-term examination shall be evaluated for 30 marks.
+ Pattern of Mid-term examination:
+3 X 10M = 30 M (three internal choice questions one from each UNIT shall be given, the student has to
+answer ONE question from each UNIT)
+ There shall be TWO mid-term examinations for each subject and the average of two mid-term
+examinations shall be considered for calculating final mid-term examination marks in that
+subject.
+ Assignment/objective exam/ case study/course project (10 M):
+ Two assignment/objective exam/ case study/course project shall be given to the students covering the
+syllabus of first mid-term and second mid-term examinations respectively and evaluated for 10 marks
+each.
+ The first assignment/objective exam/ case study/course project shall be submitted before first mid-term
+examination and the second one shall be submitted before second mid-term examination.
+3
+ The average of 2 assignments shall be taken as final assignment marks.
+iii. For practical subjects, there shall be a continuous evaluation during the semester for 40 marks and 60
+marks for semester end examination. Out of the 40 marks, day-to-day work in the laboratory shall be
+evaluated for 10 marks, and 15 marks for practical examination and 15 marks for laboratory record.
+ Semester End Examination (60 M):
+(a) Theory Courses
+Question paper pattern for semester end examination (60 Marks)
+ Paper shall consist of 05 questions of 10 marks each. (05X12M = 60 M)
+ There shall be 01 question from each unit with internal choice.
+(b) Practical Courses
+Each laboratory course shall be evaluated for 60 marks. The semester end examination shall be conducted
+by two examiners, one Internal and other external concerned with the subject of the same / other department
+/ Industry. The evaluation shall be as per the standard format.
+4.1. Evaluation of Mini-Project: There shall be two presentations during the first year, one in each semester. For
+mini-project 1 and mini-project 2, a student under the supervision of a faculty member, shall collect the
+literature on a topic, critically review the literature, carry out the mini-project, submit it to the department in a
+report form and shall make an oral presentation before the departmental Project Review Committee (PRC).
+The Departmental PRC consists of Head of the Department, supervisor and one senior faculty member of the
+department. For each mini-project there shall be only internal evaluation of 100 marks. A student has to
+secure a minimum of 50% to be declared successful.
+4.2. There shall be a comprehensive viva-voce in II year I semester. The comprehensive viva- Voce shall be
+conducted by a committee consisting of Head of the Department and two senior faculty members of the
+department. The comprehensive viva-voce is aimed to assess the students’ understanding in various
+subjects studied during the M.Tech. programme of study. The comprehensive viva-voce shall be evaluated
+for 100 marks by the committee. There are no internal marks for the comprehensive viva-voce. A student
+must secure a minimum of 50% to be declared successful.
+4.3. A student shall be deemed to have secured the minimum academic requirement in a subject if he secures a
+minimum of 40% of marks in the semester end examination and a minimum aggregate of 50% of the total
+marks in the semester end examination and mid-term evaluation taken together.
+4.4. A student shall be given one chance to re-register, after completion of the course work, for each subject,
+provided the internal marks secured by a student are less than 50% and he has failed in the semester end
+examination. In such a case student may re-register for the subject(s) and secure required minimum
+attendance. Attendance in the re-registered subject(s) has to be calculated separately to become eligible to
+write the end examination in the re-registered subject(s). Re-registration for the subjects is allowed only if
+that particular re-registration subjects are the hindrance for the award of Degree. Re-registration is allowed in
+this case provided the student doesn’t have any subject(s) yet to pass other than the re-registration subjects
+where the internal marks are less than 50% with prior permission.
+4.5. Laboratory examination for M.Tech. courses must be conducted with two examiners, one of them being
+laboratory class teacher and second examiner shall be a teacher of same specialization either external or a
+teacher from the same department other than the teacher who conducted laboratory classes for that batch.
+4
+5. Evaluation of Project / Dissertation Work.
+5.1 Registration of Project Work: A student shall be permitted to register for the project work after satisfying
+the attendance requirement of all the subjects (theory and practical subjects).
+5.2 A Project Review Committee (PRC) shall be constituted with at least four members namely HOD, PG
+coordinator of the M.Tech. programme, project supervisor and one senior faculty member of same
+specialization.
+5.3 After getting permission as per 5.1, a student has to submit, in consultation with the project supervisor, the
+title, objective and plan of action of his project work to the Departmental PRC for its approval. Only after
+obtaining the approval of PRC, the student can initiate the project work.
+5.4 If a student wishes to change his supervisor or topic of the project he can do so with the approval of PRC.
+However, the committee shall examine whether the change of topic/supervisor leads to a major change of
+his initial plans of project proposal. If so, the date of registration for the project work shall be the date of
+change of supervisor or topic as the case may be.
+5.5 Internal evaluation of the project shall be on the basis of the seminars (Project reviews) conducted during the
+second year by the PRC. A student shall submit draft report in a spiral bound copy form.
+5.6 The work on the project shall be initiated in the beginning of the second year and the duration of project is for
+two semesters. A student is permitted to submit Project work only after successful completion of theory and
+practical course with the approval of PRC not earlier than 240 days from the date of registration of the project
+work. For the approval of PRC the student shall submit the draft copy of thesis to the Head of the
+Department (Through project supervisor and PG coordinator) and shall make an oral presentation before the
+PRC.
+The student is eligible to submit project work if he has published at least one paper covering 70% of the
+project work and presented his project work in Show and Tell activity.
+5.7 After approval of PRC, every student has to submit three copies of the project dissertation certified by the
+supervisor to the Department.
+5.8 The dissertation shall be adjudicated by one examiner selected by the Chief Superintendent. For this, HOD
+shall submit a panel of 3/ 5 examiners, who are eminent in that field with the help of the concerned guide.
+5.9 If the report of the examiner is not favourable, the student shall revise and resubmit the Dissertation, within
+the time frame as prescribed by PRC. If the report of the examiner is unfavourable again, the dissertation
+shall be summarily rejected.
+5.10 If the report of the examiner is favorable, viva-voce examination shall be conducted by a board consisting of
+the project supervisor, Head of the Department and the external examiner who adjudicated the Thesis. The
+Board shall jointly report students work as:
+A. Excellent
+B. Good
+C. Satisfactory
+D. Unsatisfactory
+Head of the Department shall coordinate and make arrangements for the conduct of viva-voce examination.
+The student has to secure any one of the grades as Excellent, Good or Satisfactory on his dissertation and
+viva-voce. If the report of the viva-voce is unsatisfactory, the student shall retake the viva-voce examination
+after three months, making modifications as suggested. If he fails to get a satisfactory report at the second
+5
+viva-voce examination, he has to re-register for the project work as mentioned in clause 5.1. However, the
+student may select a new guide or new topic or both with the approval of the PRC and submit the project
+dissertation with a minimum of 240 days from the date of re-registration. Of course, this shall not prejudice
+the clause 6.1 below.
+6. Award of Degree and Class
+A student shall be declared eligible for the award of the M.Tech. degree, if he pursues a course of study and
+complete it successfully for not less than two academic years and not more than four academic years.
+6.1 A student, who fails to fulfil all the academic requirements for the award of the degree within four academic
+years from the year of his admission, for any reason whatsoever, shall forfeit his seat in M.Tech. Course.
+6.2 A student shall register and put up minimum academic requirement in all 84 credits and
+earn 84 credits. Marks obtained in all 86 credits shall be considered for the calculation of Cumulative
+Grade Point Average (CGPA).
+6.3 CGPA System:
+Method of awarding absolute grades and grade points in two year M.Tech. degree programme is as follows:
+ Absolute Grading Method is followed, based on the total marks obtained in mid-term evaluation and semester
+end examinations.
+ Grades and Grade points are assigned as given below.
+Grade Points(GP)
+Marks Obtained Grade Description of Grade
+Value Per Credit
+>=90 O Outstanding 10.00
+>=80 and <89.99 A Excellent 9.00
+>=70 and <79.99 B Very Good 8.00
+>=60 and <69.99 C Good 7.00
+>=50 and <59.99 D Pass 6.00
+<50 F Fail
+Not Appeared the Exam(s) N Absent
+The student is eligible for the award of the M.Tech degree with the class as mentioned in the following table.
+CGPA Class
+>= 8.0 First Class with Distinction
+>= 7.0 and <8.0 First Class
+>= 6.0 and < 7.0 Second Class
+ Calculation of Semester Grade Points Average (SGPA):
+ The performance of each student at the end of the each semester shall be indicated in terms of SGPA. The
+SGPA shall be calculated as below:
+(cid:1794)(cid:1815)(cid:1820)𝐚(cid:1812) (cid:1805)𝐚(cid:1818)(cid:1814)(cid:1805)(cid:1804) 𝐰(cid:1805)(cid:1809)(cid:1807)(cid:1808)(cid:1820)(cid:1805)(cid:1804) (cid:1807)(cid:1818)𝐚(cid:1804)(cid:1805) (cid:1816)(cid:1815)(cid:1809)(cid:1814)(cid:1820)(cid:1819) (cid:1809)(cid:1814) 𝐚 (cid:1819)(cid:1805)(cid:1813)(cid:1805)(cid:1819)(cid:1820)(cid:1805)(cid:1818)
+(cid:1793)𝐆𝐏𝐀=
+(cid:1794)(cid:1815)(cid:1820)𝐚(cid:1812) (cid:1803)(cid:1818)(cid:1805)(cid:1804)(cid:1809)(cid:1820)(cid:1819) (cid:1809)(cid:1814) 𝐚 (cid:1819)(cid:1805)(cid:1813)(cid:1805)(cid:1819)(cid:1820)(cid:1805)(cid:1818)
+(cid:1816)
+∑(cid:1809)=𝟏𝐂(cid:1809)∗𝐆(cid:1809)
+(cid:1793)𝐆𝐏𝐀= (cid:1816)
+∑(cid:1809)=𝟏𝐂(cid:1809)
+6
+Where Ci = Number of credits allotted to a particular subject ‘i’
+Gi = Grade point corresponding to the letter grade awarded to the subject ‘i’
+i = 1,2,…..p represent the number of subjects in a particular semester
+Note: SGPA is calculated and awarded for the students who pass all the courses in a semester.
+ Calculation of Cumulative Grade Point Average (CGPA):
+The CGPA of a student for the entire programme shall be calculated as given below:
+ Assessment of the overall performance of a student shall be obtained by calculating Cumulative Grade Point
+Average (CGPA), which is weighted average of the grade points obtained in all subjects during the course of
+study.
+(cid:1794)(cid:1815)(cid:1820)𝐚(cid:1812) (cid:1805)𝐚(cid:1818)(cid:1814)(cid:1805)(cid:1804) 𝐰(cid:1805)(cid:1809)(cid:1807)(cid:1808)(cid:1820)(cid:1805)(cid:1804) (cid:1807)(cid:1818)𝐚(cid:1804)(cid:1805) (cid:1816)(cid:1815)(cid:1809)(cid:1814)(cid:1820)(cid:1819) (cid:1806)(cid:1815)(cid:1818) (cid:1820)(cid:1808)(cid:1805) (cid:1805)(cid:1814)(cid:1820)(cid:1809)(cid:1818)(cid:1805) (cid:1816)(cid:1818)(cid:1815)(cid:1807)(cid:1818)𝐚(cid:1813)(cid:1813)(cid:1805)
+𝐂𝐆𝐏𝐀=
+(cid:1794)(cid:1815)(cid:1820)𝐚(cid:1812) (cid:1803)(cid:1818)(cid:1805)(cid:1804)(cid:1809)(cid:1820)(cid:1819) (cid:1806)(cid:1815)(cid:1818) (cid:1820)(cid:1808)(cid:1805) (cid:1805)(cid:1814)(cid:1820)(cid:1809)(cid:1818)(cid:1805) (cid:1816)(cid:1818)(cid:1815)(cid:1807)(cid:1818)𝐚(cid:1813)(cid:1813)(cid:1805)
+(cid:1813)
+∑(cid:1810)=𝟏𝐂(cid:1810)∗𝐆(cid:1810)
+𝐂𝐆𝐏𝐀= (cid:1813)
+∑(cid:1810)=𝟏𝐂(cid:1810)
+Where Cj = Number of credits allotted to a particular subject ‘j’
+Gj = Grade Point corresponding to the letter grade awarded to that subject ‘j’
+j = 1,2,….m represent the number of subjects of the entire program.
+ Grade lower than D in any subject shall not be considered for CGPA calculation. The CGPA shall be
+awarded only when the student acquires the required number of credits prescribed for the program.
+ Grade Card
+The grade card issued shall contain the following:
+a) The credits for each subject offered in that semester
+b) The letter grade and grade point awarded in each subject
+c) The SGPA/CGPA
+d) Total number of credits earned by the student up to the end of that semester.
+7. Withholding of Results
+If the student has not paid dues to the Institute, or if any case of indiscipline is pending against him, the result
+of the student may be withheld and he shall not be allowed into the next higher semester. The award or issue
+of the provisional certificate and the degree may also be withheld in such cases. This delay shall not
+prejudice clauses Nos.6.0 and 6.1.
+8. Transitory Regulations
+Students who have discontinued or have been detained for want of attendance or any other academic
+requirements, may be considered for readmission as and when they become eligible. They have to take up
+Equivalent subjects, as substitute subjects in place of repeated subjects as decided by the Chairman of the
+7
+BoS of the respective departments. He/She shall be admitted under the regulation of the batch in which
+he/she is readmitted.
+9. Minimum Instruction Days
+The minimum instruction days for each semester shall be 90 instruction days.
+10. General
+10.1 The academic regulations should be read as a whole for purpose of any interpretation.
+10.2 In case of any doubt or ambiguity in the interpretation of the above rules, the decision of the Principal is
+final.
+10.3 The Institute may change or amend the academic regulations and syllabi at any time and the changes and
+amendments made shall be applicable to all the students with effect from the date notified by the Institute.
+10.4 Wherever the words he, him or his occur, they shall also include she, her and hers.
+11. Supplementary Examination
+Supplementary examinations shall be conducted along with regular semester end examinations. (During
+even semester regular examinations, supplementary examinations of odd Semester and during odd semester
+regular examinations, supplementary examinations of even semester shall be conducted).
+8
+Vision and Mission Statement of Institute
+Vision
+To be a World Class University providing value-based education, conducting
+interdisciplinary research in cutting edge technologies leading to sustainable
+socio-economic development of the nation.
+Mission
+• To produce technically competent and socially responsible engineers,
+managers and entrepreneurs, who will be future ready.
+• To involve students and faculty in innovative research projects linked
+with industry, academic and research institutions in India and abroad.
+• To use modern pedagogy for improving the teaching-learning process.
+Vision and Mission Statement of Department
+Vision
+A resource center of academic excellence for imparting technical education with high
+pattern of discipline through dedicated staff which shall set global standards, making
+National and International students technologically superior and ethically strong,
+who in turn shall improve the quality of life.
+Mission
+ To provide quality education in the domain of Electronics and Communication
+Engineering through effective learner centric process
+ To provide industry specific best of breed laboratory facilities beyond
+curriculum to promote diverse collaborative research for meeting the
+changing industrial and societal needs
+9
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.Tech. - VLSI SYSTEM DESIGN
+PROGRAM EDUCATIONAL OBJECTIVES
+ Demonstrate outstanding analytical and technical skills to evaluate analyze and solve real time
+problems in VLSI industry.
+ Apply the acquired knowledge to solve engineering problems to suit multi-disciplinary situation.
+ Undertake research and development projects in the field of VLSI system design.
+ Continue his/her personal development through professional study and self- learning.
+ Demonstrate their professional, ethical and social responsibilities and contribute their part for
+addressing various global issues.
+PROGRAM OUTCOMES
+The Student of VLSI System Design will be able to:
+a. Apply acquired knowledge from undergraduate engineering and other disciplines to identify,
+formulate and present solutions to technical problems related to various areas of VLSI.
+b. Learn advanced technologies and analyze complex problems in the fields of VLSI.
+c. Design and implementation of VLSI architectures using FPGA/CPLD
+d. Addressing specific problems in the field of VLSI system design in the form of mini projects,
+analysis, and interpretation of data and synthesis of information to provide valid conclusions.
+e. Use the techniques, skills, modern Electronic Design Automation(EDA) tools, software and
+Equipment necessary to evaluate and analyze the systems in VLSI design environments.
+f. Understand and commit to professional ethics, social responsibilities and norms of engineering
+practice.
+g. Develop confidence for self-education and imbibe professional values for lifelong learning.
+h. Demonstrate effective oral and written communication skills in accordance with technical standards.
+i. Become knowledgeable about contemporary developments.
+j. Ability to correct the mistakes effectively and learn from them to become good leaders.
+k. Understand the scenario of global business.
+10
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY
+DEPARTMENT OF ELECTRONICS &COMMUNICATION ENGINEERING
+M.TECH. (VLSI SYSTEM DESIGN)
+(R15 Regulation)
+I Year I Semester COURSE STRUCTURE
+Code Group Subject L T/P/D Credits
+VSD01 VLSI Technology and Design 3 1 4
+CMOS Digital Integrated
+VSD02 Core 3 1 4
+Circuit Design
+HDL based Design and
+VSD03 3 1 4
+verification
+VSD11 Digital System Design 3 0
+3 0
+VSD12 Scripting Languages for VLSI
+Elective – I
+Full Custom IC Design and
+VSD13 & 3 0
+Elective-II
+FPGA Architecures
+ESS11
+Advanced Computer
+3 0
+3 + 3
+Architecture
+Basket
+VSD14 Device Modeling 3 0
+VSD15 VLSI signal processing 3 0
+ESS31 Internet of Things 3 0
+Advanced Digital Signal
+VSD31 Open 3 0
+Processing 3
+Elective -I
+Semiconductor memory
+VSD32 3 0
+Design and testing
+VSD51 Lab VLSI Laboratory – I 0 3 2
+VSD61 Mini Project – I 0 0 4
+Total 18 6 27
+11
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY
+DEPARTMENT OF ELECTRONICS &COMMUNICATION ENGINEERING
+M.TECH. (VLSI SYSTEM DESIGN)
+(R15 Regulation)
+I Year II Semester COURSE STRUCTURE
+Code Group Subject L T/P/D Credits
+VSD04 Low Power VLSI Design 3 1 4
+Core CMOS Analog and Mixed
+VSD05 3 1 4
+Signal IC Design
+VSD06 Design for Testability 3 1 4
+ESS21 SOC & NOC Architecture 3 0
+3 0
+VSD21 Speech Signal Processing
+VSD22 Elective – III & Image and Video Processing 3 0
+Elective-IV
+ESS22 Hardware Software Co-Design 3 0
+3 + 3
+Basket
+Algorithms for VLSI Design
+VSD23 3 0
+Automation
+Optimization Techniques in
+VSD24 3 0
+VLSI Design
+ESS41 Cloud Computing 3 0
+Open Elective -
+ESS42 Soft Computing Techniques 3 0 3
+II
+VSD41 Software Defined radio 3 0
+VSD52 Lab VLSI Laboratory – II 0 3 2
+VSD62 Mini Project – II 0 0 4
+Total 18 6 27
+II YEAR I SEMESTER
+Code Subject L T/P Credits
+VSD63 Comprehensive Viva voce 0 0 4
+VSD71 Internship/Dissertation Phase – I 0 0 8
+Total 12
+II Year - II SEMESTER
+Code Subject L T/P Credits
+VSD72 Dissertation Phase – II 0 0 18
+Total 18
+*T/P : Tutorial / Practical
+12
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+I Year – I Sem. M.Tech. (VLSI System Design) L T/P C
+3 1 4
+(VSD01) VLSI TECHNOLOGY AND DESIGN
+Pre-requisites:
+ Basics of VLSI Design and Semiconductor Physics.
+Course Objectives:
+ To comprehend basic electrical properties of MOS transistor technologies.
+ To discuss layouts for combinational circuits with different alternate gate structures.
+ To understand different MOS technologies and their fabrication processes.
+ To learn about IC package functions and operations.
+Course Outcomes:
+After going through this course the student will able to
+ Analyze the relation between various MOS Transistors parameters.
+ Design layouts with different alternate gate structures.
+ Apply the concept of fabrication process in manufacturing ICs.
+ Understand the Bi-CMOS characteristics and package operations.
+UNIT I:
+Review of Microelectronics and Introduction to MOS Technologies: MOS, CMOS, Bi-CMOS Technology. Basic
+Electrical Properties of MOS, CMOS & Bi-CMOS Circuits: I – V relationships, Threshold Voltage V , G , G and
+ds ds T m ds
+ω , Pass Transistor, MOS, CMOS & Bi-CMOS Inverters, Z /Z , MOS Transistor circuit model, Latch-up in CMOS
+o pu pd
+circuits.
+UNIT II:
+Layout Design and Tools: Transistor structures, Wires and vias, Scalable Design rules, Layout Design tools.
+Logic Gates & Layouts: Static Complementary Gates, Switch Logic, Alternative Gate circuits, Low power gates,
+Resistive and Inductive interconnect delays.
+UNIT III:
+Overview of semiconductor industry, Stages of Manufacturing, Process and product trends, Crystal growth, Basic
+wafer fabrication operations, process yields, Semiconductor material preparation, Basic wafer fabrication operations,
+Yield measurement, Contamination sources, Clean room construction, Oxidation and Photolithography, Doping and
+Depositions, Metallization. Ten step patterning process, Photoresists, physical properties of photoresists, Storage and
+control of photoresists, photo masking process, Hard bake, develop inspect, Dry etching Wet etching, resist stripping
+UNIT IV:
+Doping and Depositions: Diffusion process steps, deposition, Drive-in oxidation, Ion implantation-1, Ion implantation-
+2, CVD basics, CVD process steps, Low pressure CVD systems, Plasma enhanced CVD systems, Vapor phase
+epitoxy, molecular beam epitaxy.
+UNIT V:
+Design Rules and Scaling, BI-CMOS ICs: Choice of transistor types, pnp transistors, Resistors, capacitors,
+Packaging: Chip characteristics, package functions, package operations
+Text Books:
+1. Essentials of VLSI circuits and systems – Kamran Eshraghian, Dougles and A. Pucknell, PHIEdition, 2005.
+2. Microchip fabrication- Peter Van Zant,, McGraw Hill, 1997.
+13
+3. ULSI technology - C.Y. Chang and S.M. Sze, McGraw Hill, 2000
+4. Modern VLSI Design –Wayne Wolf, Pearson Education , 3rd Edition, 1997.
+References:
+1. Micro Electronics circuits Analysis and Design 2nd Edition, Muhammad H Rashid, CENAGE Learning2011.
+2. Introduction to VLSI design - Eugene D. Fabricius, McGraw Hill, 1999
+3. The VLSI Hand book - Wani-Kai Chen (editor),CRI/IEEE press, 2000
+4. VLSI Fabrication principles - S.K. Gandhi, John Wiley and Sons, NY, 1994
+.
+14
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+I Year – I Sem. M. Tech (VLSI System Design) L T/P C
+3 1 4
+(VSD02) CMOS DIGITAL INTEGRATED CIRCUIT DESIGN
+Pre-requisites:
+ Knowledge on MOSFETS, digital electronic circuits design, basic VLSI Design
+Course Objectives:
+ To learn various design styles for combinational Circuits.
+ To understand the issues in CMOS digital design.
+ To study different high performance and low area VLSI circuits.
+ To discuss the VSLI memory architectures.
+Course Outcomes:
+After going through this course the student will be able to
+ Create models of digital circuits using various design styles.
+ Design static CMOS circuits at the transistor level.
+ Analyze high performance and low area VLSI circuits.
+ Understand the concepts various memory elements.
+UNIT I:
+Introduction to MOS Device: MOS Transistor-First Glance at the MOS device, MOS Transistor under static
+conditions, threshold voltage, Resistive operation, saturation region, channel length modulation, velocity saturation,
+Hot carrier effect, sub threshold conduction.
+Pseudo NMOS Logic: – Inverter, Inverter threshold voltage, Output high voltage, Output Low voltage, Gain at gate
+threshold voltage, Pseudo NMOS logic gates.
+UNIT II
+Combinational MOS Logic Circuits: MOS logic circuits with NMOS loads, Static CMOS design, CMOS static
+properties, A complementary CMOS design, CMOS inverter, Primitive CMOS logic gates – NOR & NAND gate,
+Complex Logic circuits design – Realizing Boolean expressions using NMOS gates and CMOS gates , AOI and OIA
+gates, CMOS full adder, pass transistor logic, Differential pass transistor logic, CMOS transmission gates, Designing
+with Transmission gates.
+UNIT III:
+Dynamic Logic Circuits: Basic principle, Voltage Bootstrapping, Synchronous dynamic pass transistor circuits,
+Dynamic CMOS transmission gate logic, High performance Dynamic CMOS circuits.
+UNIT IV:
+Sequential MOS Logic Circuits: Behavior of bi-stable elements, SR Latch, Clocked latch and flip flop circuits, CMOS
+D latch and edge triggered flip flop.
+UNIT V:
+Semiconductor Memories: Types, RAM array organization, DRAM – Types, Operation, Leakage currents in DRAM
+cell and refresh operation, SRAM operation Leakage currents in SRAM cells, Flash Memory- NOR flash and NAND
+flash.
+Text Books:
+1. Digital Integrated Circuits – A Design Perspective, Jan M. Rabaey, Anantha Chandrakasan, Borivoje Nikolic, 2nd
+Ed., PHI.
+15
+2. Digital Integrated Circuit Design – Ken Martin, Oxford University Press, 2011.
+3. CMOS Digital Integrated Circuits Analysis and Design – Sung-Mo Kang, Yusuf Leblebici, TMH, 3rd Ed., 2011.
+References:
+1. Introduction to VLSI Systems: A Logic, Circuit and System Perspective – Ming-BO Lin, CRC Press, 2011
+2. Neil H.E Weste and Kamran Eshraghian, "Principles of CMOS VLSI Design" , 2nd Edition, Addition Wesley, 1998
+16
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+I Year – I Sem. M. Tech. (VLSI System Design) L T/P C
+3 1 4
+(VSD03) HDL BASED DESIGN AND VERIFICATION
+Prerequisites:
+ Basic Concepts of Digital Systems and Knowledge on Programming Skills
+Course Objectives:
+ To know digital building blocks, test benches and verify the functionality using Verilog HDL.
+ To Learn timing concepts applicable in digital design
+ To Study the Verification concepts using System Verilog.
+ To Learn principles of verification using System Verilog and design test benches
+Course Outcomes:
+After going through this course the student will be able to
+ Design digital systems using verilog HDL.
+ Analyze pre and post synthesis methodologies.
+ Comprehend System Verilog designs.
+ Analyze randomization and OOP concepts.
+UNIT I:
+Introduction to Verilog, Language Elements:
+Data Types, Expressions: Operands, operators, Gate level modeling: Built in primitive gates, switches, gate delays,
+array of instances, implicit nets, examples using gate level modeling, Data flow modeling: Continuous assignment,
+net declaration assignment, delays , net delays, examples, Behavioral modeling : Procedural constructs, Initial
+Statement, Always statement, conditional statement, case statement, loop statement. examples,
+Structural Modeling : Module, ports, Module instantiation ,Unconnected ports, Different port lengths, examples.
+UNIT II:
+Logic Synthesis:
+Introduction to Synthesis: logical synthesis of basic combinational and sequential circuits, Synthesis Methodologies,
+Pre and post synthesis mismatch, Translation, mapping and optimization.
+UNIT III:
+Introduction to System Verilog: Key features in System Verilog, Advantages of using System Verilog over Verilog
+for Verification, New Data Types in System Verilog 2 state and 4 state, User Defined Data types, Enumerated Data
+types, Structures and Unions ,Wire Concatenation and Replication operators, Procedural Blocks , Tasks and
+Functions, Examples for using tasks and functions ,Loops
+UNIT IV:
+Arrays: Packed and Unpacked Arrays, Array Querying functions, Initializing of arrays, Dynamic Arrays, Built in
+methods and operators for dynamic arrays, Associative Arrays, Built in Methods and operators for Associative arrays,
+Queues, Queue operators and methods , Lots of examples.
+UNIT V:
+Randomization and OOPs: Program block details, Timing regions, Static storage and Automatic Storage, Lab to
+create test bench program for arbiter test, OOP, classes, class object and handles , class property, class methods ,
+examples , Randomization.
+17
+Text Books:
+1. J. Bhasker , “A Verilog Primer” Addison-Weseley Longman Singapore Pte Ltd.1992.
+2. Verilog HDL Synthesis A Practical Primer by Bhasker J, 1st edition
+3. Chris Spear, Gregory J Tumbush - System Verilog for verification - a guide to learning the test bench language
+features - Springer, 2012
+4. Verilog HDL :A Guide to Digital Design and Synthesis by SamirPalnitkar,2ndEdition
+5. Vijayaraghavan, Srikanth, Ramanathan, Meyyappan "A Practical Guide for System Verilog Assertions",
+Springer.
+References:
+1. System Verilog Language Reference Manual
+2. Verification Methodology Manual for System Verilog- Janick Bergeron, Eduard Cerny, Alan Hunter, Andrew
+Nightingale
+3. IEEE Standard for System Verilog Unified Hardware Design, Specification, and Verification Language.
+18
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+I Year – I Sem. M. Tech. (VLSI System Design) L T/P C
+Elective -1 & 2 3 0 3
+(VSD11) DIGITAL SYSTEM DESIGN
+Prerequisites:
+ Basic Concepts of Digital Systems.
+Course Objectives:
+ To learn the simplification of sequential machines
+ To know design of data path circuits and control circuits.
+ To study fault modeling and test pattern generation methods.
+ To discuss the design of state and machine identification experiments.
+Course Outcomes:
+After going through this course the student will be able to
+ Design and develop real time applications using programmable devices.
+ Develop skills in modeling, analyzing faults and test pattern generation.
+ Design state and machine identification circuits.
+ Apply various techniques for designing circuits in electronics and communication systems.
+UNIT I:
+Minimization and Transformation of Sequential Machines: The Finite State Model – Capabilities and limitations of
+FSM – State equivalence and machine minimization – Simplification of incompletely specified machines. Fundamental
+mode model – Flow table – State reduction – Minimal closed covers – Races, Cycles and Hazards.
+UNIT II:
+Digital Design: Digital Design Using ROM’s, PAL’s and PLA’s , BCD Adder, 32 – bit adder, State graphs for control
+circuits, Scoreboard and Controller, shift and add multiplier, Array multiplier, Keypad Scanner, Binary divider.
+UNIT III:
+SM Charts: State machine charts, Derivation of SM Charts, Realization of SM Chart, Implementation of Binary
+Multiplier, dice game controller.
+UNIT IV:
+Fault Modeling , Test Pattern Generation: Logic Fault model – Fault detection & Redundancy, Fault diagnosis of
+combinational circuits by conventional methods – Path sensitization techniques, Boolean Difference method – Kohavi
+algorithm – D-algorithm, Random testing, Transition count testing, Signature analysis.
+UNIT V:
+Fault Diagnosis in Sequential Circuits: Circuit Test Approach, Transition Check approach- State identification and
+Fault detection experiment, Machine identification, Design of fault detection experiment
+Text Books:
+1. Fundamentals of Logic Design – Charles H. Roth, 5th Ed., Cengage Learning.
+2. Digital Systems Testing and Testable Design – Miron Abramovici, Melvin A.Breuer and Arthur D. Friedman-
+John Wiley & Sons Inc.
+3. Logic Design Theory – N. N. Biswas, PHI
+4. Switching and Finite Automata Theory – Z. Kohavi , 2nd Ed., 2001, TMH
+References:
+1. Digital Design – Morris Mano, M.D.Ciletti, 4th Edition, PHI.
+2. Digital Circuits and Logic Design – Samuel C. Lee , PHI
+19
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+I Year – I Sem. M.Tech (VLSI System Design) L T/P C
+Elective-1&2 3 0 3
+(VSD12) SCRIPTING LANGUAGES FOR VLSI
+Pre-requisites:
+ Java script, C programming languages.
+Course Objectives:
+ To explain the characteristics and uses of scripting languages.
+ To describe the various PERL concepts used in VLSI design.
+ To learn the concepts of TCL.
+ To Interpret JavaScript, Python language, Python web system Design
+Course Outcomes:
+After going through this course the student will be able to
+ Interpret typical scripting languages for system applications
+ Create software systems using scripting languages, including Perl and Python.
+ Write server-side scripts using Perl and Python’s CGI facilities.
+ Develop Java scripts, Python web systems
+UNIT I:
+Introduction to Scripts and Scripting: Characteristics and uses of scripting languages, Introduction to PERL,
+Names and values, Variables and assignment, Scalar expressions, Control structures, Built-in functions, Collections of
+Data,Working with arrays, Lists and hashes, Simple input and output, Strings, Patterns and regular expressions,
+Subroutines, Scripts with arguments.
+UNIT II:
+Advanced PERL: Finer points of Looping, Subroutines, Using Pack and Unpack, Working with files, Navigating the
+file system, Type globs, Eval, References, Data structures, Packages, Libraries and modules, Objects, Objects and
+modules in action, Tied variables, Interfacing to the operating systems, Security issues.
+UNIT III:
+TCL: The TCL phenomena, Philosophy, Structure, Syntax, Parser, Variables and data in TCL, Control flow, Data
+structures, Simple input/output, Procedures, Working with Strings, Patterns, Files and Pipes, Example code.
+UNIT IV:
+Advanced TCL: The eval, source, exec and up-level commands, Libraries and packages, Namespaces, Trapping
+errors, Event-driven programs, Making applications 'Internet-aware', 'Nuts-and-bolts' internet programming, Security
+issues, running untrusted code, The C interface.
+UNIT V:
+TK and JavaScript: Visual tool kits, Fundamental concepts of TK, TK by example, Events and bindings, Geometry
+managers, PERL-TK. JavaScript – Object models, Design Philosophy, Versions of JavaScript, The Java Script core
+language, Basic concepts of Pythan.
+Python: Introduction to Python language, python-syntax, statements, functions, Built-in-functions and Methods,
+Modules in python, Exception Handling, Integrated Web Applications in Python - Building Small, Efficient Python Web
+Systems ,Web Application Framework.
+Text Books:
+1. The World of Scripting Languages- David Barron, Wiley Student Edition, 2010.
+20
+2. Practical Programming in Tcl and Tk - Brent Welch, Ken Jones and Jeff Hobbs., Fourth edition.
+3. Java the Complete Reference - Herbert Schildt, 7th Edition, TMH.
+4. Python Web Programming, Steve Holden and David Beazley, New Riders Publications
+References:
+1. TCL/TK: A Developer's Guide- Clif Flynt, 2003, Morgan Kaufmann SerieS.
+2. TCL and the TK Toolkit- John Ousterhout, 2nd Edition, 2009, Kindel Edition.
+3. TCL 8.5 Network Programming book- Wojciech Kocjan and Piotr Beltowski, Packt Publishing.
+4. TCL/TK 8.5 Programming Cookbook- Bert Wheeler
+5. Programming Python, M.Lutz,SPD
+6. Core Python Programming, Chun, Pearson Education.
+7. Guide to Programming with Python, M.Dawson, Cengage Learning
+21
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+I Year – I Sem M. Tech (VLSI System Design) L T/P C
+Elective –1& 2 3 0 3
+(VSD13) FULL CUSTOM IC DESIGN AND FPGA ARCHITECURES
+Pre-requisites:
+ VLSI Design concepts, PLDs.
+Course Objectives:
+ To discuss the full custom IC Design flow.
+ To understand standard cell design techniques.
+ To learn various FPGA architectures based on programming technologies.
+ To know performance analysis based on FPGA architectures.
+Course Outcomes:
+After going through this course the student will be able to
+ Describe Full Custom CMOS VLSI fabrication Process.
+ Analyze standard cell interconnect routing and layout design.
+ Comprehend various FPGA architectures.
+ Analyze logic block and speed performance.
+UNIT I:
+Introduction: Schematic fundamentals, Layout design, Introduction to CMOS VLSI manufacturing processes, Layers
+and connectivity, Process design rules Significance of full custom IC design, layout design flows.
+UNIT II:
+Advanced techniques for specialized building blocks Standard cell libraries, Pad cells and Laser fuse cells, Advanced
+techniques for building blocks, Power grid Clock signals and Interconnect routing, Interconnect layout design
+UNIT III:
+Field Programmable Gate Arrays: Organization of FPGAs, FPGA Programming Technologies, Programmable Logic
+Block Architectures, Programmable Interconnects, Programmable I/O blocks in FPGAs, Dedicated Specialized
+Components of FPGAs, Applications of FPGAs
+UNIT IV:
+Special Purpose Processors: Programming technologies, Commercially available FPGAs, Xilinx’s Vertex and
+Spartan, Actel’s FPGA, Altera’s FLEX 10k.
+UNIT V:
+Logic Block Architectures: Logic block functionality versus area-efficiency, Logic block area and routing model,
+Impact of logic block functionality on FPGA performance, Model for measuring delay.
+Text Books:
+1. CMOS IC Layout Concepts Methodologies and Tools, Dan Clein, Newnes, 2000.
+2. The Art of Analog Layout, 2nd Edition, Ray Alan Hastings, Prentice Hall, 2006
+3. Field Programmable Gate Arrays - John V. Oldfield, Richard C. Dorf, Wiley India.
+4. Field Programmable Gate Arrays - John V. Oldfield, Richard C. Dorf, Wiley India.
+References:
+1. Field Programmable Gate Array Technology - Stephen M. Trimberger, Springer International Edition.
+2. Field Programmable Gate Arrays - John V. Oldfield, Richard C. Dorf, Wiley India.
+3. Michel John Sebastian Smith, Application Specific Integrated Circuits, Addison Wesley Professional, 2008.
+22
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+I Year – I Sem. M.Tech (VLSI System Design) L T/P C
+Elective –1& 2 3 0 3
+(ESS11) ADVANCED COMPUTER ARCHITECTURE
+Pre-requisites:
+ Concepts of Computer architecture and microprocessors
+Course Objectives:
+ Understand the different instruction set formats, RISC and CISC and various design issues for computers
+ Discuss instruction level parallelism using software and hardware approaches.
+ Explain multiprocessors and thread level parallelism.
+ Describe the important concepts for interconnection networks and cluster.
+Course Outcomes:
+After going through this course the student will be able to
+ Compare different types of instruction sets.
+ Know the parallelism concepts used for increasing the efficiency of the computer and how it affects the cost
+of the system.
+ Examine the different types of networks, their interconnection and its components for interconnection.
+ Analyze the different types of storage devices and its internal structure.
+UNIT I:
+Fundamentals of Computer Design: Fundamentals of Computer design, Changing faces of computing and task of
+computer designer, Technology trends, Cost price and their trends, measuring and reporting performance,
+Quantitative principles of computer design, Amdahl’s law. Instruction set principles and examples- Introduction,
+classifying instruction set- memory addressing type and size of operands, Operations in the instruction set.
+UNIT II:
+Pipelines: Introduction, basic RISC instruction set, Simple implementation of RISC instruction set, Classic five stage
+pipe lined RISC processor, Basic performance issues in pipelining, Pipeline hazards, Reducing pipeline branch
+penalties.
+Memory Hierarchy Design: Introduction, review of ABC of cache, Cache performance, Reducing cache miss penalty,
+Virtual memory.
+UNIT III:
+Instruction Level Parallelism (ILP) - The Hardware Approach: Instruction-Level parallelism, Dynamic scheduling,
+Dynamic scheduling using Tomasulo’s approach, Branch prediction, High performance instruction delivery- Hardware
+based speculation.
+ILP Software Approach: Basic compiler level techniques, Static branch prediction, VLIW approach, Exploiting ILP,
+Parallelism at compile time, Cross cutting issues – Hardware verses Software.
+UNIT IV:
+Multi Processors and Thread Level Parallelism: Multi Processors and Thread level Parallelism- Introduction,
+Characteristics of application domain, Systematic shared memory architecture, Distributed shared – Memory
+architecture, Synchronization.
+UNIT V:
+Inter Connection and Networks: Introduction, Interconnection network media, Practical issues in interconnecting
+networks, Examples of inter connection, Cluster, Designing of clusters.
+Intel Architecture: Intel IA-64 ILP in embedded and mobile markets Fallacies and pit falls.
+23
+Text Books:
+1. John L. Hennessy, David A. Patterson – Computer Architecture: A Quantitative Approach, 3rdEdition, an Imprint of
+Elsevier.
+References:
+1. John P. Shen and Miikko H. Lipasti -, Modern Processor Design : Fundamentals of SuperScalar Processors
+2. Computer Architecture and Parallel Processing – Kai Hwang, Faye A.Brigs., MC Graw Hill.
+24
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+I Year – I Sem M. Tech (VLSI System Design) L T/P C
+Elective –1& 2 3 0 3
+(VSD14) DEVICE MODELLING
+Pre-requisites:
+ Preliminary knowledge of solid state devices and microwave measurement techniques.
+ Analysis, complex calculus, statistics, differential equations, Fourier transformation, basics of mechanics and
+electrodynamics.
+Course Objectives:
+ To Introduce students to the physics of semiconductors and the inner working of semiconductor devices
+ To provide students the insight useful for understanding new semiconductor devices and technologies.
+ To learn the physics behind the semiconductor devices and study the various models.
+ To understand the BJT, MOSFET and other semiconductor devices from the device perspective.
+Course Outcomes:
+After going through this course the student will be able to
+ Analyze and describe the characteristics of various diodes.
+ Understand the development of complex device models.
+ Implement various device models in spice simulation.
+ Understand the fabrication techniques involved in VLSI applications
+UNIT I:
+Introduction to Semiconductor Physics: Review of Quantum Mechanics, Boltzman transport equation, Continuity
+equation, Poisson equation.
+Integrated Passive Devices: Types and Structures of resistors and capacitors in monolithic technology, Dependence
+of model parameters on structures
+UNIT II:
+Integrated Diodes: Junction and Schottky diodes in monolithic technologies – Static and Dynamic behavior – Small
+and large signal models – SPICE models
+Integrated Bipolar Transistor: Types and structures in monolithic technologies – Basic model (Eber-Moll) – Gunmel
+- Poon modeldynamic model, Parasitic effects – SPICE model –Parameter extraction
+UNIT III:
+Integrated MOS Transistor: NMOS and PMOS transistor – Threshold voltage – Threshold voltage equations – MOS
+device equations – Basic DC equations second order effects – MOS models – small signal AC characteristics – MOS
+FET SPICE model level 1, 2, 3 and 4
+UNIT IV:
+VLSI Fabrication Techniques: An overview of wafer fabrication, Wafer Processing – Oxidation – Patterning –
+Diffusion – Ion Implantation – Deposition – Silicon gate nMOS process – CMOS processes – n-well- p-well- twin tub-
+Silicon on insulator – CMOS process enhancements – Interconnects circuit elements
+UNIT V:
+Modeling of Hetero Junction Device: Band gap Engineering, Band gap Offset at abrupt Hetero Junction, Modified
+current continuity equations, Hetero Junction bipolar transistors (HBTs), SiGe
+25
+Text Books:
+1. Introduction to Semiconductor Materials and Devices – Tyagi M. S, 2008, John Wiley Student Edition.
+2. Solid State Circuits – Ben G. Streetman, Prentice Hall, 1997
+References:
+1. Physics of Semiconductor Devices – Sze S. M, 2nd Edition, Mcgraw Hill, New York, 1981.
+2. Introduction to Device Modeling and Circuit Simulation – Tor A. Fijedly, Wiley-Interscience, 1997.
+3. Introduction to VLSI Systems: A Logic, Circuit and System Perspective – Ming-BO Lin, CRC Press, 2011
+26
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+I Year – I Sem M. Tech (VLSI System Design) L T/P C
+Elective –1& 2 3 0 3
+(VSD15 ) VLSI SIGNAL PROCESSING
+Pre-requisites:
+ Knowledge on signals and systems, digital signal processing and basic VLSI systems
+Course Objectives:
+ To study various DSP algorithms and retiming concepts.
+ To learn the concepts of folding and unfolding techniques.
+ To understand the concepts of systolic architecture design and fast convolution methods.
+ To describe various power consumption methods in VLSI.
+Course Outcomes:
+After going through this course the student will be able to
+ Design the systems by using the appropriate DSP algorithms.
+ Analyze and design the folding and unfolding techniques in real time application.
+ Design the systems by using systolic architectures and various fast convolution algorithms.
+ Evaluate the performance of various digital signal processors in terms of low power dissipation
+UNIT I:
+Introduction to DSP: Typical DSP algorithms, DSP algorithms benefits, Representation of DSP algorithms
+Pipelining and Parallel Processing: Introduction, Pipelining of FIR Digital filters, Parallel Processing, Pipelining and
+Parallel Processing for Low Power
+Retiming: Introduction – Definitions and Properties – Solving System of Inequalities – Retiming Techniques
+UNIT II
+Folding and Unfolding:
+Folding: Introduction -Folding Transform - Register minimization Techniques – Register minimization in folded
+architectures – folding of multirate systems
+Unfolding: Introduction – An Algorithm for Unfolding – Properties of Unfolding – critical Path, Unfolding and Retiming
+– Applications of Unfolding
+UNIT III
+Systolic Architecture Design: Introduction – Systolic Array Design Methodology – FIR Systolic Arrays – Selection of
+Scheduling Vector – Matrix Multiplication and 2D Systolic Array Design – Systolic Design for Space Representations
+contain Delays
+UNIT IV:
+Fast Convolution: Introduction – Cook-Toom Algorithm – Winogard algorithm – Iterated Convolution – Cyclic
+Convolution – Design of Fast Convolution algorithm by Inspection
+UNIT V:
+Low Power Design: Scaling Vs Power Consumption –Power Analysis, Power Reduction techniques – Power
+Estimation Approaches Programmable DSP: Evaluation of Programmable Digital Signal Processors, DSP Processors
+for Mobile and Wireless Communications, Processors for Multimedia Signal Processing
+Text Books:
+1. VLSI Digital Signal Processing- System Design and Implementation – Keshab K. Parhi, 1998, Wiley Inter
+Science.
+27
+2. VLSI and Modern Signal Processing – Kung S. Y, H. J. While House, T. Kailath, 1985, Prentice Hall.
+References:
+1. Design of Analog – Digital VLSI Circuits for Telecommunications and Signal Processing – Jose E. France, Yannis
+Tsividis, 1994, Prentice Hall.
+2. VLSI Digital Signal Processing – Medisetti V. K, 1995, IEEE Press (NY), USA.
+28
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+I Year – I Sem M. Tech (VLSI System Design) L T/P C
+Open Elective –1 3 0 3
+(ESS31) INTERNET OF THINGS
+Pre-requisites:
+ Programming knowledge in languages like Java, C/C++, Embedded C.
+ Basic understanding on creating and using databases.
+ Basic understanding on Wireless Communication and Networking.
+Course Objectives:
+ Understand about the new paradigm of objects interacting with people,
+ Know about the new paradigm of objects interacting with information systems, and with other objects.
+ Develop innovative applications of combinations of IoT technologies in real-life scenarios.
+Course Outcomes:
+After going through this course the student will be able to
+ Identifying and describing different kinds of Internet-connected product concepts.
+ Analyzing and designing prototypes models of Internet-connected products using various tools.
+ Developing prototypes models of Internet-connected products using various tools
+ Understanding the challenges and applying right techniques for user-interaction with connected-objects.
+UNIT I:
+Introduction: IoT overview, The IoT paradigm, Smart objects, IoT Platforms (like Aurdino, ARM Cortex, Raspberry Pi
+/ Intel Galileo), Bits and atoms, Convergence of Technologies. Introduction to Internet and web networking basics:
+HTTP, Rest, JSON, XML, Interfacing to Cloud, Harnessing mobile computing for IoT
+.
+UNIT II:
+Introduction to Technologies Behind IoT: RFID, NFC, Mobil Data Technologies (GPRS, 3G, 4G), Wifi.
+Powering the IoT using low power wireless technologies like Bluetooth smart technology, Zigbee.
+WSN. RTLS + GPS, Agents and Multi-agent systems.
+UNIT III:
+IoT Architecture: Machine to Machine, Web of Things, IoT protocols (The Layering concepts , IoT Communication
+Pattern, IoT protocol Architecture, The 6LoWPAN - IPv6 over Low power Wireless Personal Area Networks)
+UNIT IV:
+IoT Applications and Issues: Combination scenarios. Breaking assumptions. IoT in retail, IoT in healthcare, IoT in
+manufacturing.
+Prototyping Connected Objects: Open source prototype platforms, Arduino based internet communication.
+Integrating and accessing Internet services, Rasberry PI / Beagle board based Gateways, Data Analysis Techniques.
+UNIT V:
+Case Studies and Guest lectures from Industry (for different verticals like Retail, Healthcare, Home Automation etc)
+Text Books:
+1. 6LoWPAN: The Wireless Embedded Internet, Zach Shelby, Carsten Bormann, Wiley
+2. Internet of Things: Converging Technologies for Smart Environments and Integrated Ecosystems, Dr. Ovidiu
+Vermesan, Dr. Peter Friess, River Publishers
+3. Building the Internet of Things. Sara Cordoba, Wimer Hazenberg, Menno Huisman. BIS Publishers. 2011.
+29
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+I Year – II Sem. M.Tech. (VLSI System Design) L T/P C
+Open Elective -I 3 0 3
+(VSD31) ADVANCED DIGITAL SIGNAL PROCESSING
+Pre-requisites:
+ Knowledge of Digital filter design techniques, Digital Signal Processing techniques
+Course Objectives:
+ To provide in-depth knowledge on methods and techniques in digital filter design, Multi-rate digital
+signal processing, Applications of Multirate Signal Processing
+ To introduce spectrum estimation methods, Power spectrum estimation
+ To enhance the awareness of different nonparametric and parametric methods
+ To enhance the knowledge of sources of errors and its significance
+Course outcomes:
+After going through this course the student will be able to
+ Apply fundamental principles of signal processing to design multi rate DSP systems.
+ Analyze and design optimum filters for better system performance.
+ Understand methodologies and techniques of parametric and non-parametric methods for spectral estimation
+ Analyze various limitations in implementation of DSPs.
+UNIT I:
+Review of DFT, FFT, IIR Filters, FIR Filters
+Multirate Signal Processing: Introduction, Decimation by a factor D, Interpolation by a factor I, Sampling rate
+conversion by a rational factor I/D, Multistage Implementation of Sampling Rate Conversion, Filter design &
+Implementation for sampling rate conversion, Applications of Multirate Signal Processing.
+UNIT II:
+Non-Parametric Methods of Power Spectral Estimation: Estimation of spectra from finite duration observation of
+signals, Non-parametric Methods: Bartlett, Welch & Blackman & Tukey methods, Comparison of all Non-Parametric
+methods
+UNIT III:
+Linear Prediction: Forward and Backward Linear Prediction – Forward Linear Prediction, Backward Linear
+Prediction, Optimum reflection coefficients for the Lattice Forward and Backward Predictors. Solution of the Normal
+Equations: Levinson Durbin Algorithm, Schur Algorithm. Properties of Linear Prediction Filters.
+UNIT IV:
+Parametric Methods of Power Spectrum Estimation: Autocorrelation & Its Properties, Relation between auto
+correlation & model parameters, AR Models - Yule-Waker & Burg Methods, MA & ARMA models for power spectrum
+estimation.
+UNIT V:
+Finite Word Length Effects: Analysis of finite word length effects in Fixed-point DSP systems – Fixed, Floating Point
+Arithmetic – ADC quantization noise & signal quality – Finite word length effect in IIR digital Filters – Finite word-length
+effects
+Text Books:
+1. Digital Signal Processing: Principles, Algorithms & Applications - J.G.Proakis & D.G.Manolokis,4th ed., PHI.
+2. Discrete Time signal processing - Alan V Oppenheim & Ronald W Schaffer, PHI.
+3. DSP – A Pratical Approach – Emmanuel C.Ifeacher, Barrie. W. Jervis, 2 ed., Pearson Education.
+30
+References:
+1. Modern spectral Estimation : Theory & Application – S. M .Kay, 1988, PHI.
+2. Multirate Systems and Filter Banks – P.P.Vaidyanathan – Pearson Education
+3. Digital Signal Processing – S.Salivahanan, A.Vallavaraj, C.Gnanapriya, 2000,TMH
+31
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+I Year – I Sem. M.Tech (VLSI System Design) L T/P C
+Open Elective -I 3 0 3
+(VSD32) SEMICONDUCTOR MEMORY DESIGN AND TESTING
+Pre-requisites:
+ Knowledge on digital electronics, memory organization and design for testability
+Course Objectives:
+ To study different types memory architectures and their applications.
+ To learn Non volatile memory designs.
+ To study fault modeling techniques for memory design.
+ To understand the effects of radiation on semiconductor memories.
+ To learn various high density packages.
+Course Outcomes:
+After going through this course the student will be able to
+ Describe the applications various memory architectures.
+ Analyze the need of non-volatile memories and their applications.
+ Design the fault free memory systems by fault modeling techniques.
+ Analyze and design the memory architectures by considering the radiation affects
+UNIT I:
+Random Access Memory Technologies: SRAM – SRAM Cell structures, MOS SRAM Architecture, MOS SRAM cell
+and peripheral circuit operation, Bipolar SRAM technologies, SOI technology, Advanced SRAM architectures and
+technologies, Application specific SRAMs, DRAM – DRAM technology development, CMOS DRAM, DRAM cell theory
+and advanced cell structures, BICMOS DRAM, soft error failure in DRAM, Advanced DRAM design and architecture,
+Application specific DRAM
+UNIT II:
+Non-Volatile Memories: Masked ROMs, High density ROM, PROM, Bipolar ROM, CMOS PROMS, EPROM, Floating
+gate EPROM cell, One time programmable EPROM, EEPROM, EEPROM technology and architecture, Non-volatile
+SRAM, Flash Memories (EPROM or EEPROM), advanced Flash memory architecture, NOR and NAND Flashes
+UNIT III:
+Memory Fault Modeling Testing and Memory Design for Testability and Fault Tolerance: RAM fault modeling,
+Electrical testing, Pseudo Random testing, Megabit DRAM Testing, non-volatile memory modeling and testing, IDDQ
+fault modeling and testing, Application specific memory testing, RAM fault modeling, BIST techniques for memory
+UNIT IV:
+Semiconductor Memory Reliability and Radiation Effects: General reliability issues RAM failure modes and
+mechanism, Non-volatile memory reliability, reliability modeling and failure rate prediction, Design for Reliability,
+Reliability Test Structures, Reliability Screening and qualification, Radiation effects, Single Event Phenomenon (SEP),
+Radiation Hardening techniques, Radiation Hardening Process and Design Issues, Radiation Hardened Memory
+characteristics, Radiation Hardness Assurance and Testing, Radiation Dosimetry, Water Level Radiation Testing and
+Test structures
+UNIT V:
+Advanced Memory Technologies and High-density Memory Packing Technologies: Ferroelectric RAMs
+(FRAMs), GaAs FRAMs, Analog memories, magneto resistive RAMs (MRAMs), Experimental memory devices,
+32
+Memory Hybrids and MCMs (2D), Memory Stacks and MCMs (3D), Memory MCM testing and reliability issues,
+Memory cards, High Density Memory Packaging Future Directions
+Text Books:
+1. Semiconductor Memories Technology – Ashok K. Sharma, 2002, Wiley.
+2. Advanced Semiconductor Memories – Architecture, Design and Applications - Ashok K. Sharma- 2002, Wiley.
+3. Modern Semiconductor Devices for Integrated Circuits – Chenming C Hu, 1st Ed., Prentice Hall.
+33
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+I Year – I Sem. M.Tech. (VLSI System Design) L T/P C
+0 3 2
+(VSD51) VLSI LABORATORY – I
+Pre-requisites:
+ Digital circuits.
+Course Objectives:
+ To learn Verilog HDL for modeling of combinational and sequential circuits.
+ To know the Verification and functionality of designed circuits using functional simulators.
+ To learn the Synthesis procedure of designed circuits.
+ To learn the Implementation of designed circuits using various FPGA kits.
+Course Outcomes:
+After going through this course the student will be able to
+ Gain knowledge in design of any digital circuits using CAD tools.
+ Simulate combinational and sequential circuits using CAD tools.
+ Synthesize digital circuits using CAD tools.
+ Implement digital design on FPGA.
+Design and implementation of the following digital circuits using Cadence / Mentor Graphics / Synopsys /
+Equivalent CAD tools. The designs will include Gate-level and Hierarchical design using VERILOG and System
+Verilog.
+VLSI Front End Design Programs:
+Programming can be done using Modelsim simulator. Synthesize the designs using Xilinx ISE.
+Implement the all experiments on Xilinx/Altera/Cypress/equivalent based FPGA kits.
+1. Design of combinational circuits using EDA Tools.
+2. Design of sequential circuits using EDA Tools
+3. Design of 4-bit binary, BCD counters using EDA Tools ( synchronous/ asynchronous reset)
+4. Design of a N- bit Register using EDA Tools
+5. Design of Sequence Detector using EDA Tools (Finite State Machine- Mealy and Moore Machines).
+6. Design of 4- Bit Multiplier, Divider using EDA Tools.
+7. Design of ALU using EDA Tools
+8. Implement the digital circuit on FPGA - Case study
+34
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+I Year – I Sem. M.Tech. (VLSI System Design) L T/P C
+0 6 4
+(VSD61) MINI PROJECT - I
+Course Outcomes:
+After going through this course the student will be able to
+ Identify and formulate problem statement
+ Design applications using EDA tools
+ To communicate effectively
+ Implement applications using Xilinx FPGA kits
+ Present technical report
+35
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+I Year – II Sem. M.Tech. (VLSI System Design) L T/P C
+3 1 4
+(VSD04) LOW POWER VLSI DESIGN
+Pre- requisites:
+ Knowledge on basic VLSI Design and Digital electronics circuits
+Course Objectives:
+ To study the concepts on different levels of power estimation and optimization techniques.
+ To learn various Low-Power design approaches.
+ To design the different low power combinational and sequential circuits
+ To understand the design procedure of the low voltage and low power Memories.
+Course Outcomes:
+After going through this course the student will be able to
+ Understand the different power dissipation sources in VLSI circuits.
+ Apply the Low-Power design Approaches in voltage scaling and Switched Capacitance minimization
+ Design and analyze the VLSI circuits using different Low-Power Design Approaches.
+ Analyze the performance of Low-Power and Low Voltage Memories.
+UNIT I:
+Fundamentals: Need for Low Power Circuit Design, Sources of Power Dissipation – Switching Power Dissipation,
+Short Circuit Power Dissipation, Leakage Power Dissipation, Glitching Power Dissipation, Short Channel Effects –
+Drain Induced Barrier Lowering and Punch Through, Surface Scattering, Velocity Saturation, Impact Ionization, Hot
+Electron Effect.
+UNIT II:
+Low-Power Design Approaches:
+Low-Power Design through Voltage Scaling: VTCMOS circuits, MTCMOS circuits, Architectural
+Level Approach –Pipelining and Parallel Processing Approaches.
+Switched Capacitance Minimization Approaches: System Level Measures, Circuit Level Measures, Mask level
+Measures.
+UNIT III:
+Low-Voltage Low-Power Adders: Introduction, Standard Adder Cells, CMOS Adder’s Architectures – Ripple Carry
+Adders, Carry Look- Ahead Adders, Carry Select Adders, Carry Save Adders, Low-Voltage Low-Power Design
+Techniques –Trends of Technology and Power Supply Voltage, Low-Voltage Low-Power Logic Styles.
+UNIT IV:
+Low-Voltage Low-Power Multipliers: Introduction, Overview of Multiplication, Types of Multiplier Architectures,
+Braun Multiplier, Baugh- Wooley Multiplier, Booth Multiplier, Introduction to Wallace Tree Multiplier.
+UNIT V:
+Low-Voltage Low-Power Memories: Basics of ROM, Low-Power ROM Technology, Future Trend and Development
+of ROMs, Basics of SRAM, Memory Cell, Precharge and Equalization Circuit, Low-Power SRAM Technologies, Basics
+of DRAM, Self-Refresh Circuit, Future Trend and Development of DRAM.
+Text Books:
+1. CMOS Digital Integrated Circuits – Analysis and Design – Sung-Mo Kang, Yusuf Leblebici, TMH, 2011.
+2. Low-Voltage, Low-Power VLSI Subsystems – Kiat-Seng Yeo, Kaushik Roy, TMH Professional Engineering.
+36
+References:
+1. Introduction to VLSI Systems: A Logic, Circuit and System Perspective – Ming-BO Lin, CRC Press, 2011
+2. Low Power CMOS Design – Anantha Chandrakasan, IEEE Press/Wiley International, 1998.
+3. Low Power CMOS VLSI Circuit Design – Kaushik Roy, Sharat C. Prasad, John Wiley & Sons, 2000.
+4. Practical Low Power Digital VLSI Design – Gary K. Yeap, Kluwer Academic Press, 2002.
+5. Low Power CMOS VLSI Circuit Design – A. Bellamour, M. I. Elamasri, Kluwer Academic Press, 1995.
+6. Leakage in Nanometer CMOS Technologies – Siva G. Narendran, Anatha Chandrakasan, Springer, 2005.
+37
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+I Year – II Sem M. Tech (VLSI System Design) L T/P C
+3 1 4
+(VSD05) CMOS ANALOG AND MIXED SIGNAL IC DESIGN
+Pre- requisites:
+ Knowledge on Design of various analog circuits.
+ Knowledge on different types of comparators, A/D and D/A converters.
+Course Objectives:
+ To learn the design of CMOS single stage amplifiers.
+ To know the fundamentals and design of CMOS Operational Amplifiers.
+ To learn the design of CMOS comparators.
+ To discuss the design Architectures of data converters.
+Course Outcomes:
+After going through this course the student will be able to
+ Analyze the design of single stage amplifiers and its practical applications.
+ Understand the design issues and challenges involved in op-amp design.
+ Learn and compare different types of data converter architectures.
+ Design of Nyquist Rate A/D Converters and Oversampling Converters.
+UNIT I:
+CMOS Single Stage Amplifiers: Common source amplifier with different loads, source follower, Common gate
+amplifier, Cascode Amplifiers, Differential Amplifiers
+UNIT II:
+CMOS Operational Amplifiers: Design of CMOS Op Amps, Compensation of Op Amps, Design of Two-Stage Op
+Amps, Cascode Op Amps
+Comparators: Basic CMOS comparator design, Characterization of Comparator, Latched comparators, Clocked
+Comparator, Two-Stage, Open-Loop Comparators, Analog multipliers.
+UNIT III:
+Data Converter Fundamentals: DC and dynamic specifications, Quantization noise, Nyquist rate D/A converters-
+Decoder based converters, Binary-Scaled converters, Thermometer-code converters, Hybrid converters
+UNIT IV:
+Nyquist Rate A/D Converters: Successive approximation converters, Flash converter, Two-step A/D converters,
+Interpolating A/D converters, Folding A/D converters, Pipelined A/D converters, Time-interleaved converters.
+UNIT V:
+Oversampling Converters: Noise shaping modulators, Decimating filters and interpolating filters, Higher order
+modulators, Delta sigma modulators with multibit quantizers, Delta sigma D/A
+Text Books:
+1. Design of Analog CMOS Integrated Circuits- Behzad Razavi, TMH Edition, 2002
+2. CMOS Analog Circuit Design - Philip E. Allen and Douglas R. Holberg, Oxford University Press, International
+Second Edition / Indian Edition, 2010.
+3. Analog Integrated Circuit Design- David A. Johns, Ken Martin, Wiley Student Edition, 2013
+38
+References:
+1. CMOS Integrated Analog-to- Digital and Digital-to-Analog converters-Rudy Van De Plassche, Kluwer
+Academic Publishers, 2003
+2. Understanding Delta-Sigma Data converters-Richard Schreier, Wiley Interscience, 2005.
+3. CMOS Mixed-Signal Circuit Design - R. Jacob Baker, Wiley Interscience, 2009.
+39
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+I Year – II Sem. M.Tech. (VLSI System Design) L T/P C
+3 1 4
+(VSD06) DESIGN FOR TESTABILITY
+Pre-requisites:
+ Concepts of VLSI design, digital design concepts.
+Course Objectives:
+ To understand the concepts of digital and analog VLSI Testing,
+ To learn Fault modeling, Test generation and fault simulation algorithms.
+ To study SCOAP testability Measures, AD HOC DFT methods and scan design.
+ To learn various BIST and boundary scan techniques.
+Course Outcomes:
+After going through this course the student will be able to
+ Understand the concepts of testing and fault modeling.
+ Apply the simulation algorithms for design verification and test validation for digital circuits.
+ Learn various testability measures in digital circuits.
+ Analyze boundary scan system configuration.
+UNIT I:
+Introduction to Testing: Testing Philosophy, Role of Testing, Digital and Analog VLSI Testing, VLSI Technology
+Trends affecting Testing, Types of Testing, Fault Modeling: Defects, Errors and Faults, Functional Versus Structural
+Testing, Levels of Fault Models, Single Stuck-at Fault.
+UNIT II:
+Logic and Fault Simulation: Simulation for Design Verification and Test Evaluation, Modeling Circuits for Simulation,
+Algorithms for True-value Simulation, Algorithms for Fault Simulation, ATPG.
+UNIT III:
+Testability Measures: SCOAP Controllability and Observability, High Level Testability Measures, Digital DFT and
+Scan Design: Ad-Hoc DFT Methods, Scan Design, Partial-Scan Design, Variations of Scan.
+UNIT IV:
+Built-In Self-Test: The Economic Case for BIST, Random Logic BIST: Definitions, BIST Process, Pattern Generation,
+Response Compaction, Built-In Logic Block Observers, Test-Per-Clock, Test-Per-Scan BIST Systems, Circular Self
+Test Path System, Memory BIST, Delay Fault BIST.
+UNIT V:
+Boundary Scan Standard: Motivation, System Configuration with Boundary Scan: TAP Controller and Port,
+Boundary Scan Test Instructions, Pin Constraints of the Standard, Boundary Scan Description Language: BDSL
+Description Components, Pin Descriptions.
+Text Books:
+1. Essentials of Electronic Testing for Digital, Memory and Mixed Signal VLSI Circuits - M.L. Bushnell, V. D.
+Agrawal, Kluwer Academic Pulishers.
+2. Digital Systems and Testable Design - M. Abramovici, M.A.Breuer and A.D Friedman, Jaico Publishing House.
+References:
+1. Parag K.Lala “Digital System Design using Programmable Logic Devices” Prentice Hall, NJ ,1994
+2. Digital Circuits Testing and Testability - P.K. Lala, Academic Press.
+40
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+I Year II Sem M. Tech. (VLSI System Design) L T/P C
+Elective -3 & 4 3 0 3
+(ESS21) SOC AND NOC ARCHITECTURE
+Pre-requisites:
+ Digital Electronics/Systems.
+ Electronic components and circuits.
+Course Objectives:
+ To learn System on chip fundamentals, their applications.
+ To gain knowledge on NOC design.
+ To learn the various computation models of SOC and NOCs
+Course Outcomes:
+After going through this course the student will be able to
+ Ability to analyze and Design a system architecture for key performance indicators like Power, Perfomance,
+Area.
+ To learn the basic concepts of NoC design by studying the topologies, router design and MPSoC styles.
+ To learn sample routing algorithms on a NoC with deadlock and livelock avoidance.
+ To understand the role of system-level design and performance metrics in choosing a SoC/NoC design.
+UNIT I:
+Introduction to SoC Design. Multiprocessor SoC and Network on Chip. Low-Power SoC Design.
+UNIT II:
+System Design: Co-Design using System Model, Validation and Verification, Hardware/Software Codesign
+Application Analysis, Synthesis.
+UNIT III:
+Communication System: Separation of Coputation and Communication. Communication-Centric SoC Design,
+Communication Synthesis. Network-Based Design, Network on Chip, Architecture of NoC
+UNIT IV:
+NOC Design: Design of NoC, NoC Topology, Energy Exploration, NoC Protocol Design Low-Power Design for NoC:
+Low-Power Signaling, On-Chip Serialization, Low-Power Clocking, Low-Power Channel Coding, Low-Power Switch,
+Low-Power Network on Chip Protocol.
+UNIT V:
+Example SOC/NOC Designs: Real Chip Implementation, Industrial Implementations, Intel’s Tera-FLOP 80-Core
+NoC, Intel’s Scalable Communication Architecture, Design case studies.
+Text Books:
+1. Hoi-jun yoo, Kangmin Lee, Jun Kyoung kim, “Low power NoC for high performance SoC desing”,CRC press,
+2008.
+2. Vijay K. Madisetti Chonlameth Arpikanondt, “A Platform-Centric Approach to System-on-Chip (SOC) Design”,
+Springer, 2005.
+41
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+I Year – II Sem. M.Tech. (VLSI System Design) L T/P C
+Elective -3 & 4 3 0 3
+(VSD21) SPEECH SIGNAL PROCESSING
+Pre-requisites:
+ Signals and Systems
+ Digital Signal Processing
+
+Course Objectives:
+ To study the mechanisms of speech production, understand time domain and frequency domain
+representation of speech signal.
+ To study various models used for speech processing (analysis, recognition, synthesis)
+ To discuss and provide basic hands-on experiance on implementstion of algorithms, models used in feature
+extraction and in building speech systems.
+Course Outcomes:
+After going through this course the student will be able to
+ Manipulate and visualize speech signals.
+ Analyze speech signals
+ Design algorithms for extracting parameters from the speech signal.
+ Build a simple speech recognition system using state of the art tools.
+UNIT I:
+Introduction to speech processing and Speech production mechanism. Classification of vowels and consonants.
+Sound and its relation with Syllable, Language, Letter and Word
+UNIT II:
+Basics of digital signal processing, Nature of speech signal, Digital Models for the speech signal, Equivalent
+representations of signal and systems.
+UNIT III:
+Time Domain Models for Speech Processing: Feature extraction in time domain - Energy, Zero Crossing, Pitch /
+Fundamental frequency, Usefulness of Pitch and its Countour.
+Frequency Domain Models for Speech Processing: Fourier Transform and its signficance, Speech and its Fourier
+Transform including DFT & FFT, Formants. Feature extraction: Spectogram, Cepstrum, MEL Freq Analysis, Mel-
+Frequency Cepstral coefficient.
+UNIT IV:
+Basics of Speech Recognition: Linear Predictive Coding models for Speech recognition, Vector Quantization,
+Gaussian Mixer Models. Hidden Markov Models, Dynamic Programming, Speech Enhancement, Estimating the
+parameters, Practical issues.
+UNIT V:
+Methods for Speech Synthesis. Approaches for speaker recognition.
+Text Books:
+1. Fundamentals of speech recognition, L.R.Rabiner and B.H Juang, Pearson LPE (1993).
+2. Digital processing of speech signals, . L.R.Rabiner and R.W.Schafer, Pearson LPE (1993).
+42
+References:
+1. Spoken Language Processing: A Guide to Theory, Algorithm and System Development by Xeudong Huang, Alex
+Acero, and Hsiao-Wuen Hon.
+2. Discrete-Time Speech Signal Processing – Principles and Practice, Thomas F Quatieri, Pearson Education,04.
+3. Speech Recognition, Claudio Becchetti and Lucio Prina Ricotti John Wiley
+43
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+I Year – II Sem. M.Tech. (VLSI System Design) L T/P C
+Elective -3 & 4 3 0 3
+(VSD22) IMAGE AND VIDEO PROCESSING
+Pre-requisites:
+ Digital Signal Processing
+Course Objectives:
+ Learn the fundamentals of both image and video processing
+ Describe basic image and video filtering operations
+ Understand fundamentals of image and video compression
+ Know principles and methods of motion/optical flow estimation
+Course Outcomes:
+After going through this course the student will be able to
+ Understand the concepts of image and video processing including image/video representation, image /video
+filtering, image/video compression.
+ Know various basic operations on image/video.
+ Apply different transform techniques on image/video
+ Implement a complete image processing system to achieve a specific task, and analyze and interpret the
+results of this system.
+UNIT I:
+Fundamentals Steps of Image Processing and Image Transforms: Basic steps of image processing system
+sampling and quantization of an image – basic relationship between pixels.
+Image transforms: 2D-Discrete Fourier Transform, Discrete Cosine transform(DCT), Wavelet Transform: Continous
+Wavelet Transforms, Discrete Wavelet Transforms
+UNIT II:
+Image Processing Techniques: Image Enhancement
+Spatial Domain Methods: Histogram Processing, Fundamentals of spatial filtering, Smoothing spatial filters,
+Sharpening spatial filters
+Frequency Domain Methods: Basics of filtering in frequency domain, image smoothing, image sharpening, selective
+filtering.
+Image Segmentation: Segmentation concepts, Point, Line and Edge detection, Thresholding, Region based
+segmentation
+UNIT III:
+Image Compression: Image Compression Fundamentals – Coding Redundancy, Spatial and Temporal
+Redundancy, Compression models: Lossy & Lossless, Huffman coding, Arithmetic coding, LZW coding, Run Length
+coding, Bit plane coding, Transform coding, Predictive coding, wavelet coding, JPEG standards.
+UNIT IV:
+Basic Steps of Video Processing: Analog video, Digital video. Time- varying Image Formation models: Three –
+dimensional motion models, Geometric Image Formation, Photometric Image Formation, Sampling of video signals,
+Filtering operations.
+UNIT V:
+2-D Motion Estimation: Optical flow, General methodologies, Pixel based motion estimation, Block matching
+algorithm, Mesh-based motion estimation , Global motion estimation, Region based motion estimation, Multiresolution
+44
+motion estimation, Waveform based coding, Block based transform coding, Predictive coding. Application of motion
+estimation in video coding.
+Text Books:
+1. Digital Image processing – Gonzaleze and woods,3rd ed., Pearson
+2. Video processing and communication – Yao Wang, Joern Ostermann and Ya-Qin Zhang, I Ed Prentice Hall
+References:
+1. Digital video processing – M. Tekalp, Prentice Hall International
+45
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+I Year – II Sem. M.Tech. (VLSI System Design) L T/P C
+ELECTIVE -3 & 4 3 0 3
+(ESS22) HARDWARE - SOFTWARE CO-DESIGN
+Pre-requisites:
+Concepts of
+ Embedded System Design
+ VLSI Technology and Design
+ RTOS & Embedded C
+Course Objectives:
+ Describe an embedded system design flow from specification to physical realization
+ Explain a system development holistically
+ Identify contemporary development techniques
+ Devise new theories, techniques, and tools in design, implementation and testing
+Course Outcomes:
+After going through this course the student will be able to
+ Gain knowledge of contemporary issues and algorithms used.
+ Understand the use of modern hardware/software tools for building prototypes of embedded systems
+ Know the interfacing components, different verification techniques and tools.
+ Examine different specification languages and integrate embedded hardware, software and operating
+systems to meet the functional requirements of embedded applications.
+UNIT I:
+Co- Design Issues: Co- Design Models, Architectures, Languages, A Generic Co-design Methodology.
+Co- Synthesis Algorithms: Hardware software synthesis algorithms: hardware – software partitioning distributed
+system cosynthesis.
+UNIT II:
+Prototyping and Emulation: Prototyping and emulation techniques, prototyping and emulation environments, future
+developments in emulation and prototyping.
+Target Architectures: Architecture Specialization techniques, System Communication infrastructure, Target
+Architecture and Application System classes, Architecture for control dominated systems (8051-Architectures for High
+performance control), Architecture for Data dominated systems (ADSP21060, TMS320C60),Mixed Systems.
+UNIT III:
+Compilation Techniques and Tools for Embedded Processor Architectures: Modern embedded architectures,
+embedded software development needs, compilation technologies, practical consideration in a compiler development
+environment.
+UNIT IV:
+Design Specification and Verification: Design, co-design, the co-design computational model, concurrency
+coordinating concurrent computations, interfacing components, design verification, implementation verification,
+verification tools, interface verification
+UNIT V:
+Languages for System – Level Specification and Design-I: System – level specification, design representation for
+system level synthesis, system level specification languages
+46
+Languages for System – Level Specification and Design-II: Heterogeneous specifications and multi language co-
+simulation, the cosyma system and lycos system.
+Text Books:
+1. Hardware / Software Co- Design Principles and Practice – Jorgen Staunstrup, Wayne Wolf –2009, Springer.
+2. Hardware / Software Co- Design - Giovanni De Micheli, Mariagiovanna Sami, 2002, Kluwer Academic Publishers.
+Reference:
+1. A Practical Introduction to Hardware/Software Co-design -Patrick R. Schaumont - 2010 – Springer
+47
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+I Year – II Sem. M.Tech. (VLSI System Design) L T/P C
+Elective -3 & 4 3 0 3
+(VSD23) ALGORITHMS FOR VLSI DESIGN AUTOMATION
+Pre-requisites:
+ Logic Design, VLSI Design, data structures and computer programming.
+Course Objectives:
+ To understand the VLSI design methodologies and VLSI design Automation tools.
+ To emphasize the physical design problems and partitioning, floor planning, placement and routing for VLSI
+circuits.
+ To analyze modeling simulation and synthesis of VLSI circuits.
+ To understand physical design automation for FPGA’s and MCM’s.
+Course Outcomes:
+After going through this course the student will able to
+ Apply fundamental knowledge of mathematics for the analysis of CAD problems in VLSI circuits.
+ Learn optimization algorithms and floor-planning, placement and routing problems for VLSI circuits.
+ Understand the concepts of Modeling, simulation , Binary Decision Diagrams, analyze the concepts
+of high level synthesis
+ Familiarize with the critical challenges in the physical design of VLSI circuits using FPGA’S and MCM
+technologies
+UNIT I:
+Preliminaries: Introduction to Design Methodologies, Design Automation tools, Algorithmic Graph Theory,
+Computational complexity, Tractable and Intractable problems.
+UNIT II:
+General Purpose Methods for Combinational Optimization: Backtracking, Branch and Bound, Dynamic
+Programming, Integer Linear Programming, Local Search, Simulated Annealing, Tabu search, Genetic Algorithms.
+UNIT III:
+Layout Compaction, Placement, Floor Planning and Routing: Problems, Concepts and Algorithms.
+Modelling and Simulation: Gate Level Modelling and Simulation, Switch level Modelling and Simulation.
+UNIT IV:
+Logic Synthesis and Verification: Basic issues and Terminology, Binary-Decision diagrams, Two-Level logic
+Synthesis
+High-Level Synthesis: Hardware Models, Internal representation of the input Algorithm, Allocation, Assignment and
+Scheduling, Some Scheduling Algorithms, Some aspects of Assignment problem, High-level Transformations.
+UNIT V:
+Physical Design Automation of FPGAs: FPGA technologies, Physical Design cycle for FPGAs, partitioning and
+Routing for segmented and staggered Models.
+Physical Design Automation of MCMs: MCM technologies, MCM physical design cycle, Partitioning, Placement -
+Chip Array based and Full Custom Approaches, Routing – Maze routing, Multiple stage routing, Topologic routing,
+Integrated Pin – Distribution and routing, Routing and Programmable MCMs.
+Text Books:
+48
+1. Algorithms for VLSI Design Automation, S.H.Gerez, 1999, WILEY Student Edition, John wiley & Sons (Asia) Pvt.
+Ltd.
+2. Algorithms for VLSI Physical Design Automation – Naveed Sherwani, 3rd Ed., 2005, Springer International Edition.
+References:
+1. Computer Aided Logical Design with Emphasis on VLSI – Hill & Peterson, 1993, Wiley.
+2. Modern VLSI Design:Systems on silicon – Wayne Wolf, 2nd ed., 1998, Pearson Education Asia.
+49
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+I Year – II Sem. M.Tech. (VLSI System Design) L T/P C
+Elective -3 & 4 3 0 3
+(VSD24) OPTIMIZATION TECHNIQUES IN VLSI DESIGN
+Pre-requisites:
+ Low power VLSI Design, device modeling and CAD for VLSI
+Course Objectives:
+ To Understand various statistical modeling methodologies.
+ To Analyze different estimation techniques.
+ To Learn concepts of optimization algorithms
+ To Compare performance of systems in terms of power .
+Course Outcomes:
+After going through this course the student will be able to
+ Apply the appropriate design modeling practices for emerging IC technologies.
+ Design the systems by using statistical analysis methods.
+ Design the low power digital systems by applying appropriate partitioning and Floor planning algorithms.
+ Design the real time applications using optimization techniques like Genetic Algorithms
+UNIT I:
+Statistical Modeling: Modeling sources of variations, Monte Carlo techniques, Process variation modeling- Pelgrom's
+model, Principle component based modeling, Quad tree based modeling, Performance modeling-Response surface
+methodology, delay modeling, interconnect delay models.
+UNIT II:
+Statistical Performance, Power and Yield Analysis: Statistical timing analysis, parameter space techniques,
+Bayesian networks Leakage models, High level statistical analysis, Gate level statistical analysis, dynamic power,
+leakage power, temperature and power supply variations, High level yield estimation and gate level yield estimation.
+UNIT III:
+Convex Optimization: Convex sets, convex functions, geometric programming, trade-off and sensitivity analysis,
+Generalized geometric programming, geometric programming applied to digital circuit gate sizing, Floor planning, wire
+sizing, Approximation and fitting- Monomial fitting, Maxmonomial fitting, Posynomial fitting.
+UNIT IV:
+Genetic Algorithm: Introduction, GA Technology-Steady State Algorithm-Fitness Scaling-Inversion GA for VLSI
+Design, Layout and Test automation- partitioning-automatic placement, routing technology, Mapping for FPGA-
+Automatic test generation- Partitioning algorithm Taxonomy-Multi-way Partitioning Hybrid genetic-encoding-local
+improvement-WDFR Comparison of CAS-Standard cell placement-GASP algorithm-unified algorithm.
+UNIT V:
+GA Routing Procedures and Power Estimation: Global routing-FPGA technology mapping-circuit generation-test
+generation in a GA frame work-test generation procedures, Power estimation-application of GA-Standard cell
+placement-GA for ATG-problem encoding- fitness function-GA Vs Conventional algorithm.
+Text Books:
+1. Statistical Analysis and Optimization for VLSI: Timing and Power - Ashish Srivastava, Dennis Sylvester, David
+Blaauw, Springer, 2005.
+50
+2. Genetic Algorithm for VLSI Design, Layout and Test Automation - Pinaki Mazumder, E.Mrudnick, Prentice
+Hall,1998.
+3. Convex Optimization - Stephen Boyd, Lieven Vandenberghe, Cambridge University Press, 2004.
+51
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+I Year – II Sem. M.Tech. (VLSI System Design) L T/P C
+Open Elective -II 3 0 3
+(ESS41) CLOUD COMPUTING
+Course Objectives:
+ Understand cloud computing paradigm, recognize its various forms
+ Get a clear understanding of Cloud Computing fundamentals and its importance to various organizations.
+ Master the concepts of IaaS, PaaS, SaaS, Public and Private clouds.
+ Understand AWS and learn to develop applications in AWS.
+Course Outcomes:
+After going through this course the student will be able to
+ Articulate the main concepts, key technologies, strengths, and limitations of cloud computing
+ Identify the architecture and infrastructure of cloud computing, including SaaS, PaaS, IaaS, public cloud,
+private cloud, hybrid cloud, etc.
+ Explain the core issues of cloud computing such as security, privacy, and interoperability.
+ Identify problems, and explain, analyze, and evaluate various cloud computing solutions
+UNIT I:
+Systems Modelling, Clustering and Virtualization
+Distributed System Models and Enabling Technologies, Computer Clusters for Scalable Parallel Computing, Virtual
+Machines and Virtualization of Clusters and Data centres.
+UNIT II:
+Foundations: Introduction to Cloud Computing, Migrating into a Cloud, Enriching the ‘Integration as a Service’
+Paradigm for the Cloud Era, the Enterprise Cloud Computing Paradigm.
+UNIT III:
+Infrastructure as a Service (IAAS) & Platform and Software as a Service (PAAS / SAAS): Virtual machines
+provisioning and Migration services, On the Management of Virtual machines for Cloud Infrastructures, Enhancing
+Cloud Computing Environments using a cluster as a Service, Secure Distributed Data Storage in Cloud Computing.
+Aneka, Comet Cloud, T-Systems’, Workflow Engine for Clouds, Understanding Scientific Applications for Cloud
+Environments.
+UNIT IV:
+Monitoring, Management and Applications: An Architecture for Federated Cloud Computing, SLA Management in
+Cloud Computing, Performance Prediction for HPC on Clouds, Best Practices in Architecting Cloud Applications in the
+AWS cloud, Building Content Delivery networks using Clouds, Resource Cloud Mashups.
+UNIT V:
+Governance and Case Studies: Organizational Readiness and Change management in the Cloud age, Data
+Security in the Cloud, Legal Issues in Cloud computing, Achieving Production Readiness for Cloud Services.
+Text Books:
+1. Cloud Computing: Principles and Paradigms by Rajkumar Buyya, James Broberg and Andrzej M. Goscinski,
+Wiley, 2011.
+2. Distributed and Cloud Computing , Kai Hwang, Geoffery C.Fox, Jack J.Dongarra, Elsevier, 2012.
+3. Cloud Computing : A Practical Approach, Anthony T.Velte, Toby J.Velte, Robert Elsenpeter, Tata McGraw Hill,
+rp2011
+52
+References:
+1. Cloud Computing: A Practical Approach, Anthony T.Velte, Toby J.Velte, Robert Elsenpeter, Tata McGraw Hill,
+rp2011.
+2. Enterprise Cloud Computing, Gautam Shroff, Cambridge University Press, 2010.
+3. Cloud Computing: Implementation, Management and Security, John W. Rittinghouse, James F.Ransome, CRC
+Press, rp2012.
+4. Cloud Application Architectures: Building Applications and Infrastructure in the Cloud, George Reese, O’Reilly,
+SPD, rp2011.
+5. Cloud Security and Privacy: An Enterprise Perspective on Risks and Compliance, Tim Mather, Subra
+Kumaraswamy, Shahed Latif, O’Reilly, SPD, rp2011
+53
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+I Year – I Sem. M.Tech (VLSI System Design) L T/P C
+Open Elective-2 3 0 3
+(ESS42) SOFT COMPUTING TECHNIQUES
+Pre-requisites:
+Concepts of
+ Statistical methods
+ Optimization techniques
+Course Objectives:
+ To familiarize with soft computing concepts.
+ To introduce the ideas of Neural networks, fuzzy logic and use of heuristics based on human experience.
+ To introduce the concepts of Genetic algorithm and its applications to soft computing using some
+applications.
+Course Outcomes:
+After going through this course the student will be able to
+ Identify and describe soft computing techniques and their roles in building intelligent machines
+ Apply neural networks to pattern classification and regression problems.
+ Analyze the fuzzy logic and reasoning to handle uncertainty and solve engineering problems.
+ Design the combinatorial optimization problems using genetic algorithm
+UNIT I:
+Introduction: Approaches to intelligent control, Architecture for intelligent control, Symbolic reasoning system,Rule-
+based systems, the AI approach, Knowledge representation - Expert systems.
+UNIT II:
+Artificial Neural Networks: Concept of Artificial Neural Networks and its basic mathematical model, McCulloch-Pitts
+neuron model, simple perceptron, Adaline and Madaline, Feed-forward Multilayer Perceptron, Learning and Training
+the neural network, Data Processing: Scaling, Fourier transformation, principal-component analysis and wavelet
+transformations, Hopfield network, Self-organizing network and Recurrent network, Neural Network based controller.
+UNIT III:
+Fuzzy Logic System: Introduction to crisp sets and fuzzy sets, basic fuzzy set operation and approximate reasoning,
+Introduction to fuzzy logic modeling and control, Fuzzification, inferencing and defuzzification, Fuzzy knowledge and
+rule bases, Fuzzy modeling and control schemes for nonlinear systems, Self organizing fuzzy logic control, Fuzzy
+logic control for nonlinear time delay system.
+UNIT IV:
+Genetic Algorithm: Basic concept of Genetic algorithm and detail algorithmic steps, Adjustment of free parameters,
+Solution of typical control problems using genetic algorithm, Concept on some other search techniques like Tabu
+search and Ant-colony search techniques for solving optimization problems.
+UNIT V:
+Applications: GA application to power system optimization problem, Case studies: Identification and control of linear
+and nonlinear dynamic systems using MATLAB-Neural Network toolbox, Stability analysis of Neural-Network
+interconnection systems, Implementation of fuzzy logic controller using MATLAB fuzzy-logic toolbox, Stability analysis
+of fuzzy control systems.
+54
+Text Books:
+1. Introduction to Artificial Neural Systems - Jacek.M.Zurada, Jaico Publishing House,1999.
+2. Neural Networks and Fuzzy Systems - Kosko, B., Prentice-Hall of India Pvt. Ltd., 1994.
+References:
+1. Fuzzy Sets, Uncertainty and Information - Klir G.J. &Folger T.A., Prentice-Hall of India Pvt.Ltd., 1993.
+2. Fuzzy Set Theory and Its Applications - Zimmerman H.J. Kluwer Academic Publishers, 1994.
+3. Introduction to Fuzzy Control - Driankov, Hellendroon, Narosa Publishers.
+4. Artificial Neural Networks - Dr. B. Yagananarayana, 1999, PHI, New Delhi.
+5. Elements of Artificial Neural Networks - KishanMehrotra, Chelkuri K. Mohan,SanjayRanka, Penram International.
+6. Artificial Neural Network –Simon Haykin, 2nd Ed., Pearson Education.
+7. Introduction Neural Networks Using MATLAB 6.0 - S.N. Shivanandam, S. Sumati, S. N.Deepa,1/e, TMH, New
+Delhi.
+55
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+I Year – I Sem. M.Tech (VLSI System Design) L T/P C
+Open Elective-2 3 0 3
+( VSD41) SOFTWARE DEFINED RADIO
+Pre-requisites:
+ Communication fundamentals
+Course Objectives:
+ To understand the SDR and its architecture
+ To understand the system design and signal conversion techniques
+ To understand signal processing techniques
+ To understand the transmitter and receiver architecture and working principle.
+Course Outcomes:
+After going through this course the student will be able to
+ Conceptualize the SDR and implementation details
+ Identify the blocks of SDR for a specific application
+ Recognize the challenges in the implementation of SDR
+ Analyze the transmitter and receiver architectures in SDR
+UNIT I:
+Introduction: Software Defined Radio – A Traditional Hardware Radio Architecture – Signal Processing Hardware
+History – Software Defined Radio Project Complexity.
+A Basic Software Defined Radio Architecture: Introduction – 2G Radio Architectures- Hybrid Radio Architecture-
+Basic Software Defined Radio Block Diagram- System Level Functioning Partitioning-Digital Frequency Conversion
+Partitioning.
+UNIT II:
+RF System Design: Introduction- Noise and Channel Capacity- Link Budget- Receiver Requirements- Multicarrier
+Power Amplifiers- Signal Processing Capacity Tradeoff.
+Analog-to-Digital and Digital-to-Analog Conversion: Introduction – Digital Conversion Fundamentals- Sample
+Rate- Bandpass Sampling- Oversampling- Antialias Filtering – Quantization – ADC Techniques-Successive
+Approximation- Figure of Merit-DACs- DAC Noise Budget- ADC Noise Budget.
+UNIT III:
+Digital Frequency Up- and Down Converters: Introduction- Frequency Converter Fundamentals- Digital NCO-
+Digital Mixers- Digital Filters- Halfband Filters- CIC Filters- Decimation, Interpolation, and Multirate Processing-DUCs -
+Cascading Digital Converters and Digital Frequency Converters.
+Signal Processing Hardware Components: Introduction- SDR Requirements for Processing Power- DSPs- DSP
+Devices- DSP Compilers- Reconfigurable Processors- Adaptive Computing Machine- FPGAs
+UNIT IV:
+Software Architecture and Components: Introduction- Major Software Architecture Choices – Hardware – Specific
+Software Architecture- Software Standards for Software Radio-Software Design Patterns- Component Choices- Real
+Time Operating Systems- High Level Software Languages- Hardware Languages.
+UNIT V:
+Smart Antennas for Software Radio: Introduction- 3G smart Antenna Requirements- Phased Antenna Array Theory-
+Applying Software Radio Principles to Antenna Systems- Smart Antenna Architectures- Optimum Combining/ Adaptive
+Arrays- DOA Arrays- Beam Forming for CDMA- Downlink Beam Forming.
+56
+Text Books:
+1. Paul Burns, Software Defined Radio for 3G, Artech House, 2002.
+2. Tony J Rouphael, RF and DSP for SDR, Elsevier Newnes Press, 2008
+References:
+1. Jouko Vanakka, Digital Synthesizers and Transmitter for Software Radio, Springer, 2005.
+2. P Kenington, RF and Baseband Techniques for Software Defined Radio, Artech House, 2005.
+3. Software Radio: A Modern Approach to Radio Engineering by Jeffrey H. Reed, Prentice Hall PTR; May 2002
+57
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+I Year – II Sem. M. Tech (VLSI System Design) L T/P C
+0 3 2
+(VSD52) VLSI LABORATORY – II
+Pre-requisites:
+ VLSI Design concepts.
+Course Objectives:
+ To study the functionality of digital circuits using SPICE.
+ To learn the schematic design procedure using Design Architect tool.
+ To draw layouts using IC station tool.
+ To learn the design of digital circuits using Synopsys tools.
+Course Outcomes:
+After going through this course the student will be able to
+ Design Digital circuits using CAD tools.
+ Gain knowledge in verification of CMOS schematic designs.
+ Comprehend knowledge in physical design and verification
+ Understand timing, power analysis and other characteristics of CMOS circuits.
+Note: All the following digital circuits are to be designed and implemented using Cadence / Mentor Graphics /
+Synopsys / Equivalent CAD tools.
+The design analysis will include study of circuit optimization with respect to area, performance and/or power, Layouts,
+DRC , LVS, Extraction of parasitic and back annotation, modifications in circuit parameters , DC/transient analysis .
+VLSI Back End Design programs:
+1.Introduction to SPICE simulation and coding of CMOS digital circuits
+2. Schematic design, power estimation, delay estimation using transient and DC analysis.
+of the following:
+ CMOS inverter
+ CMOS NOR/ NAND gates
+ CMOS XOR and MUX gates
+ CMOS half adder and full adder
+ Static, Dynamic logic circuits (register cell)
+ Latch
+ Pass transistor
+ Transmission gate
+3. Layout design and analysis of combinational circuits.
+58
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+I Year – II Sem. M. Tech (VLSI System Design) L T/P C
+0 6 4
+(VSD62) MINI PROJECT - II
+Course Outcomes:
+After going through this course the student will be able to
+ Identify and formulate problem statement
+ Design applications using EDA tools
+ Communicate effectively
+ Implement applications using Xilinx FPGA kits
+ Present technical report
+59
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+II Year – I Sem. M. Tech (VLSI System Design) L T/P C
+0 0 8
+(VSD71) INTERNSHIP/ DISSERTATION PHASE-1
+Course Outcomes:
+After going through this course the student will be able to
+ Identify and formulate real world problems
+ Analyze and design using contemporary technologies
+ To communicate effectively
+ Apply advanced programming techniques for its implementation
+ Present technical report
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+II Year – I Sem. M. Tech (VLSI System Design) L T/P C
+0 0 4
+(VSD63) COMPREHENSIVE VIVA-VOCE
+Course Outcomes:
+After going through this course the student will be able to
+ Comprehend the fundamentals of VLSI systems and its allied fields
+ Analyze and apply VLSI systems concepts in its allied fields
+ Communicate effectively
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+II Year – II Sem. M. Tech (VLSI System Design) L T/P C
+0 0 18
+(VSD72) DISSERTATION PHASE-2
+Course Outcomes:
+After going through this course the student will be able to
+ Identify and formulate real world problems
+ Analyze and design using contemporary technologies
+ To communicate effectively
+ Apply advanced programming techniques for its implementation
+ Present technical report
+60

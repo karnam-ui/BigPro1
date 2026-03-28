@@ -1,0 +1,3157 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/mtechsyl/VLSI-R22.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+R22
+M.Tech. (VLSI SYSTEMS DESIGN)
+M.Tech. R22 CBCS Curriculum
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for B.Tech. CE, EEE, ME, ECE, CSE, EIE, IT Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF 113 Rank in Engineering Category
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+DEPARTMENT OF
+ELECTRONICS AND
+COMMUNICATION
+ENGINEERING
+VISION OF THE DEPARTMENT
+A resource centre of academic excellence for
+imparting technical education with high pattern of
+discipline through dedicated staff which shall set
+global standards, making National and International
+students technologically superior and ethically
+strong, who in turn shall improve the quality of life.
+MISSION OF TH E DEPARTMENT
+➢ To provide quality education in the domain of
+Electronics and Communication Engineering
+through effective learner centric process.
+➢ To provide industry specific best of breed
+laboratory facilities beyond curriculum to promote
+diverse collaborative research for meeting the
+changing industrial and societal needs.
+M.TECH.
+(VLSI SYSTEM DESIGN)
+M.TECH. (VLSI SYSTEM DESIGN)
+PROGRAM EDUCATIONAL OBJECTIVES
+PEO-I: Produce the students to establish the career in industries, R&D
+organizations and Academia in the domain of VLSI Design.
+PEO-II: Train the students to conduct research in the field of VLSI leading
+to innovative solutions of societal importance.
+PEO-III: Collaborate, manage and execute projects in teams using relevant
+technologies and demonstrate professional ethics.
+M.TECH. (VLSI SYSTEM DESIGN)
+PROGRAM OUTCOMES
+PO-1: An ability to independently carry out research /investigation and
+development work to solve practical problems.
+PO-2: An ability to write and present a substantial technical
+report/document.
+PO-3: Students should be able to demonstrate a degree of mastery over
+the area as per the specialization of the program. The mastery should be
+at a level higher than the requirements in the appropriate bachelor
+program.
+PO-4: Use the techniques, skills, modern Electronic Design Automation
+tools to evaluate and analyze the systems in the field of VLSI.
+PO-5: Demonstrate higher level of professional skills to handle
+multidisciplinary problems related to VLSI domain.
+PO-6: Comprehend and design various subsystems by considering the
+latest VLSI technology.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. I YEAR COURSE STRUCTURE AND SYLLABUS
+(VLSI SYSTEM DESIGN)
+I SEMESTER R22
+Course
+Course Type Name of the Course L T P Credits
+Code
+Professional
+22PC1VS01 Simulation and Synthesis with PLDs 3 0 0 3
+Core-I
+Professional
+22PC1VS02 Digital IC Design 3 0 0 3
+Core-II
+Professional
+22PC1VS03 Analog IC Design 3 0 0 3
+Core-III
+Advanced Digital Signal
+22PE1ES01
+Processing
+22PE1VS01 Device Modeling
+Professional
+22PE1VS02 Full Custom IC Design 3 0 0 3
+Elective-I
+22PE1VS03 Advanced Computer Architecture
+22PE1VS04 Parallel Processing
+22PE1VS05 SoC Design
+22PE1VS06 VLSI Process Technology
+Professional 22PE1VS07 Digital System Design with FPGAs 3 0 0 3
+Elective-II
+Embedded Real Time Operating
+22PC1ES03
+System
+22PE1ES17 ARM Microcontrollers
+Professional Simulation and Synthesis with PLDs
+22PC2VS01 0 0 2 1
+Core Lab-I Laboratory
+Professional
+22PC2VS02 IC Design Laboratory 0 0 2 1
+Core Lab-II
+Communication Communication Skills for
+22SD5HS01 0 0 2 1
+Skills Academic and Research Writing
+Project 22PW4VS01 Technical Seminar 0 0 4 2
+Mandatory 22MN6HS01 Research Methodology and IPR 2 0 0 0
+Total 17 0 10 20
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. I YEAR COURSE STRUCTURE AND SYLLABUS
+(VLSI SYSTEM DESIGN)
+II SEMESTER R22
+Course Type Course Code Name of the Course L T P Credits
+Professional
+22PC1VS04 Mixed Signal and RF IC Design 3 0 0 3
+Core-IV
+Professional
+22PC1VS05 VLSI Design for Testability 3 0 0 3
+Core-V
+Professional
+22PC1VS06 Scripting Languages for VLSI 3 0 0 3
+Core-VI
+22PE1VS08 VLSI Physical Design Automation
+22PE1ES07 Hardware and Software Co-Design
+Professional
+22PE1VS09 Memory Technologies 3 0 0 3
+Elective-III
+22PE1ES08 Image and Video Processing
+Optimization Techniques in VLSI
+22PE1VS10
+Design
+22PE1VS11 Low Power VLSI Design
+22PE1VS12 Nanomaterials and Nanotechnology
+Pattern Recognition and Machine
+Professional 22PE1VS13 3 0 0 3
+Learning
+Elective-IV
+22PE1VS14 Communication Buses and Interface
+22PC1CP05 Internet of Things
+Professional
+22PC2VS03 VLSI Design for Testability Laboratory 0 0 2 1
+Core Lab-III
+Professional Mixed signal and Scripting
+22PC2VS04 0 0 2 1
+Core Lab-IV Languages Laboratory
+Industry
+22SD5VS01 Industry Engagement 0 0 2 1
+Engagement
+Project 22PW4VS02 Mini-Project 0 0 4 2
+Mandatory 22MN6HS02 Ancient Wisdom 2 0 0 0
+Total 17 0 10 20
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. II YEAR COURSE STRUCTURE AND SYLLABUS
+(VLSI SYSTEM DESIGN)
+III SEMESTER R22
+Course
+Course Type Name of the Course L T P Credits
+Code
+22PE1VS14 VLSI Signal Processing
+22PE1VS15 RF IC Design
+Professional
+22PE1VS16 Hardware Security 3 0 0 3
+Elective-V
+22PC1ES04 IoT Architectures and System Design
+22PE1VS17 Electronic Systems Packaging
+22OE1CN01 Business Analytics
+22OE1AM01 Entrepreneurship and Start-ups
+Open
+22OE1AM02 Industrial Safety 3 0 0 3
+Elective
+22OE1AM03 Operations Research
+22OE1PS01 Waste to Energy
+Project 22PW4VS03 Project Part - I 0 0 16 8
+Total 6 0 16 14
+IV SEMESTER R22
+Course Type Course Code Name of the Course L T P Credits
+Project 22PW4VS04 Project Part - II 0 0 28 14
+Total 0 0 28 14
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PC1VS01) SIMULATION AND SYNTHESIS WITH PLDs
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Basic concepts of Digital Systems
+COURSE OBJECTIVES:
+• To introduce Verilog HDL for the design and functionality verification of a digital
+circuit
+• To understand the design of data path and control circuits for sequential machines
+• Understand the ASIC design flow and static timing analysis
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Develop the Verilog HDL to design a digital circuit
+CO-2: Design and implementation of digital circuit with FSM
+CO-3: Understand the ASIC design flow and Static Timing Analysis of digital circuit
+CO-4: Analyze the Timing of digital circuit
+CO-5: Verify the functionality of the digital designs using PLDs
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 - 2 3 1 3
+CO-2 2 - - 2 1 3
+CO-3 - 1 - 2 2
+CO-4 - - 2 - - 2
+CO-5 3 - 1 - 2 -
+UNIT–I:
+Verilog HDL: Importance of HDLs, Lexical Conventions of Verilog HDL, Gate level
+modeling: Built in primitive gates, switches, gate delays, Data flow modeling:
+Continuous and implicit continuous assignment, delays, Behavioral modeling:
+Procedural constructs, Control and repetition Statements, delays, function and tasks.
+UNIT–II:
+Digital Design: State graphs for control circuits, shift and add multiplier, Binary divider.
+FSM and SM Charts: Finite state diagram, Implementation of sequence detector using
+FSM, State machine charts, Derivation of SM Charts, Realization of SM Chart,
+Implementation of Binary Multiplier.
+UNIT–III:
+ASIC Design Flow: Simulation, simulation types, Synthesis, synthesis methodologies,
+translation, mapping, optimization, Floor planning, Placement, routing, Clock tree
+synthesis, Physical verification.
+UNIT–IV:
+Static Timing Analysis: Timing paths, Meta-stability, Clock issues, Need and design
+strategies for multi-clock domain designs, setup and hold time Violations, steps to
+remove Setup and hold time violations.
+UNIT–V:
+Digital Design using PLD’s: ROM, PLA, PAL- Registered PAL’s, Configurable PAL’s,
+CPLDs: Features, programming and applications using complex programmable logic
+devices, Altera Max - 7000 series
+FPGAs: Field Programmable gate arrays, Logic blocks, routing architecture, FPGA
+design flow, Spartan 6 FPGA, Virtex FPGA, Artix-7, Zynq-7000, Architectures and their
+speed performance.
+TEXT BOOKS:
+1. A Guide to Digital Design and Synthesis Samir Palnitkar, Verilog HDL, 2nd Edition,
+2003
+2. Digital System Design using VHDL, Charles H. Roth, Jr, Lizy Kurain John, 3rd Edition
+3. Field Programmable Gate Arrays, Stephen D. Brown, Robert J. Francis, Jonathan
+Rose, Zvonko G. Vranesic, 2nd Edition, Springer, 1992
+REFERENCES:
+1. Verilog HDL Synthesis A Practical Primer, Bhasker J., 1st Edition, 1998
+2. Data Sheets for CPLD & FPGA Architectures
+3. Field Programmable Gate Arrays, John V. Old Field, Richrad C. Dorf, Wiley, 2008
+4. Designing with FPGAs & CPLDs, Bob Zeidman, CMP Books, 2002
+5. Digital Integrated Circuits–A Design Perspective, Jan M. Rabaey, Anantha
+Chandrakasan, Borivoje Nikolic, 2nd Edition, PHI, 2002
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PC1VS02) DIGITAL IC DESIGN
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Digital Electronic Circuits
+COURSE OBJECTIVES:
+• To learn various design styles for combinational circuits
+• To understand the issues in CMOS digital design
+• To design different high performance and low area VLSI circuits
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Create models of digital circuits using various design styles
+CO-2: Design static CMOS circuits at the transistor level
+CO-3: Analyze high performance dynamic VLSI circuits
+CO-4: Realize the CMOS sequential circuits
+CO-5: Learn the concepts various memory elements
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 - 2 3 1 3
+CO-2 - - 2 1 1 3
+CO-3 3 - 1 3 2 3
+CO-4 3 - 1 2 2 2
+CO-5 3 - 2 - - 2
+UNIT-I:
+Pseudo NMOS Logic: Inverter, Inverter threshold voltage, Output high voltage, Output
+Low voltage, Gain at gate threshold voltage, Pseudo NMOS logic gates.
+CMOS Inverter: Introduction, The static CMOS Inverter An intuitive Perspective, Static
+and Dynamic behaviors of CMOS Inverter, Power, Energy and Energy-delay,
+Technology scaling and its impact on the Inverter metrics.
+UNIT-II:
+Combinational MOS Logic Circuits: MOS logic circuits with NMOS loads, A
+complementary CMOS design, Primitive CMOS logic gates –NOR & NAND gate,
+Complex Logic circuits design, Realizing Boolean expressions using NMOS gates and
+CMOS gates, AOI and OIA designs, CMOS full adder, pass transistor logic, CMOS
+transmission gates and design.
+UNIT-III:
+Dynamic Logic Circuits: Basic principle of pass transistor- Logic ‘1’ and Logic ‘0’
+transfer characteristics, Charge storage and Charge leakage, Voltage Bootstrapping.
+Synchronous Dynamic Circuit Techniques: Dynamic pass transistor circuits, Dynamic
+CMOS circuit Techniques, Dynamic CMOS transmission gate logic, High performance
+Dynamic CMOS circuits-Domino CMOS Logic, NORA CMOS Logic, Zipper CMOS
+Circuits and True single phase clock logic.
+UNIT-IV:
+Sequential MOS Logic Circuits: Behavior of bi-stable elements, SR Latch, Clocked latch
+and flip flop circuits, CMOS D- latch and edge triggered flip flops.
+UNIT-V:
+Semiconductor Memories: Types, RAM array organization, DRAM Types, Operation,
+Leakage currents in DRAM cell and refresh operation, SRAM operation Leakage
+currents in SRAM cells, Flash Memory- NOR flash and NAND flash.
+TEXT BOOKS:
+1. Digital Integrated Circuits–A Design Perspective, Jan M. Rabaey, Anantha
+Chandrakasan, Borivoje Nikolic, 2nd Edition, PHI, 2002
+2. CMOS Digital Integrated Circuits Analysis and Design, Sung-Mo Kang, Yusuf
+Leblebici, 3rd Edition, TMH, 2011
+3. Digital Integrated Circuit Design, Ken Martin, Oxford University Press, 2011
+REFERENCES:
+1. Introduction to VLSI Systems: A Logic, Circuit and System Perspective, Ming-BO Lin,
+CRC Press, 2011
+2. Principles of CMOS VLSI Design, Neil H. E. Weste and Kamran Eshraghian, 2nd
+Edition, Addition Wesley, 1998
+3. Design of Analog CMOS Integrated Circuits, Behzad Razavi, TMH Edition
+4. CMOS: Circuit Design, Layout and Simulation, Baker, Li and Boyce, PHI
+5. CMOS Analog IC Design: Fundamentals, Erik Brunn
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PC1VS03) ANALOG IC DESIGN
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Knowledge of Analog Electronics
+COURSE OBJECTIVES:
+• To learn the device physics of MOS transistor
+• To study analog CMOS sub circuits and amplifiers
+• To know the design of feedback circuits
+• To discuss the design of CMOS operational amplifiers
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Analyze how the simplified device models can be developed
+CO-2: Able to design CMOS sub circuits
+CO-3: Design various amplifiers like differential, cascode and current amplifiers
+CO-4: Explain specific design issues related to feedback and stability
+CO-5: Understand the concepts of advanced operational amplifiers
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 - - 3 1 2
+CO-2 2 - - 2 1 2
+CO-3 3 - 1 3 2 3
+CO-4 3 - 1 3 2 3
+CO-5 3 - 1 3 2 3
+UNIT-I:
+MOS Devices and Modeling: The MOS Transistor, Passive Components- Capacitor &
+Resistor, Integrated circuit Layout, CMOS Device Modeling - Simple MOS Large-Signal
+Model, Other Model Parameters, Small- Signal Model for the MOS Transistor, Computer
+Simulation Models, Sub-threshold MOS Model.
+UNIT-II:
+Analog CMOS Sub-Circuits: MOS Switch, MOS Diode, MOS Active Resistor, Current
+Sinks and Sources, Current Mirrors- Current mirror with Beta Helper, Degeneration,
+Cascode current Mirror and Wilson Current Mirror, Current and Voltage References,
+Band gap Reference.
+UNIT-III:
+CMOS Amplifiers: Inverters, Differential Amplifiers, Cascode Amplifiers, Current
+Amplifiers, Output Amplifiers, High Gain Amplifiers Architectures.
+UNIT-IV:
+Feedback: Ideal feedback equation, gain sensitivity, feedback configurations,
+practical Configuration and effect of loading, Effect of Feedback on Noise.
+UNIT-V:
+CMOS Operational Amplifiers: Design of CMOS Op Amps, Compensation of Op Amps,
+Design of Two-Stage Op Amps, Power- Supply Rejection Ratio of Two-Stage Op Amps,
+Cascode Op Amps, Measurement Techniques of OP Amp.
+TEXT BOOKS:
+1. CMOS Analog Circuit Design, Philip E. Allen and Douglas R. Holberg, Oxford
+University Press, International 2nd Edition/Indian Edition, 2010
+2. Design of Analog CMOS Integrated Circuits, Behzad Razavi, TMH
+3. Analysis and Design of Analog Integrated Circuits, Paul R. Gray, Paul J. Hurst, S.
+Lewis and R. G. Meyer, Wiley India, 5th Edition, 2010
+REFERENCES:
+1. Analog Integrated Circuit Design, David A. Johns, Ken Martin, Wiley, 2013
+2. CMOS: Circuit Design, Layout and Simulation, Baker Li and Boyce, PHI
+3. CMOS Analog IC Design: Fundamentals, Erik Brunn
+4. Introduction to VLSI Systems: A Logic, Circuit and System Perspective, Ming-BO Lin,
+CRC Press, 2011
+5. Principles of CMOS VLSI Design, Neil H. E. Weste and Kamran Eshraghian, 2nd
+Edition, Addition Wesley, 1998
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1ES01) ADVANCED DIGITAL SIGNAL PROCESSING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Knowledge of Digital Filter Design techniques, Digital Signal
+Processing techniques
+COURSE OBJECTIVES:
+• To introduce the principles of Multi-rate digital signal processing and its
+implementation
+• To provide ability to compute the power spectrum of the given discrete signal
+• To understand various sources of errors affecting the performance of a DSP system
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Appreciate the design of multi rate DSP systems
+CO-2: Explain the non-parametric methods of power spectrum estimation of the given
+signal
+CO-3: Explain the parametric methods of power spectrum estimation of the given
+signal
+CO-4: Design of optimum linear filters for signals corrupted with additive noise
+CO-5: Appreciate the applications of adaptive signal processing
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 - 2 - - 3
+CO-2 3 - 2 - - 2
+CO-3 3 - 2 - - 2
+CO-4 3 - 2 - - 2
+CO-5 3 - 3 - - 2
+UNIT-I:
+Review of DFT, FFT, IIR Filters, FIR Filters: Multi-rate Signal Processing: Introduction,
+Decimation by a factor D, Interpolation by a factor I, Sampling rate conversion by a
+rational factor I/D, Multistage Implementation of Sampling Rate Conversion, Filter
+design &Implementation for sampling rate conversion, Applications of Multi-rate
+Signal Processing.
+UNIT-II:
+Non-Parametric Methods of Power Spectral Estimation: Estimation of spectra from
+finite duration observation of signals, Non-parametric Methods: Bartlett, Welch &
+Blackman & Tukey methods, Comparison of all Non-Parametric methods
+UNIT-III:
+Parametric Methods of Power Spectrum Estimation: Autocorrelation & Its Properties,
+Relation between auto correlation & model parameters, AR Models - Yule-Waker &
+Burg Methods, MA & ARMA models for power spectrum estimation.
+UNIT-IV:
+Linear Prediction and Optimum Linear Filters: Forward and Backward Linear Prediction
+– Forward Linear Prediction, Backward Linear Prediction, Optimum reflection
+coefficients for the Lattice Forward and Backward Predictors. Solution of the Normal
+Equations: Levinson Durbin Algorithm, Schur Algorithm. Properties of Linear Prediction
+Filters. FIR Wiener Filter, Orthogonality Principle in Linear Mean -Square Estimation.
+UNIT-V:
+Adaptive Filters: Gradient search Approach, Least Mean Square Algorithm, Recursive
+Least Squares, Kalman Filters Innovations Process, Estimation of the State Using the
+Innovations Process, Kalman Filter as the Unifying Basis for RLS Filters. Applications of
+Adaptive Filters- System Identification or System Modelling, Adaptive Channel
+Equalization, Echo Cancellation in Data Transmission over Telephone Channels,
+Adaptive Noise Cancelling.
+TEXT BOOKS:
+1. Digital Signal Processing: Principles, Algorithms & Applications, J. G. Proakis & D. G.
+Manolokis, 4th Edition, PHI, 2001
+2. Adaptive Filter Theory, S. Haykin Pearson, 2003
+3. DSP–A Practical Approach, Emmanuel C. I. Feacher, Barrie W. Jervis, 2nd Edition,
+Pearson Education, 2008
+REFERENCES:
+1. Modern Spectral Estimation: Theory & Application, S. M. Kay, 1988, PHI
+2. Multirate Systems and Filter Banks, P. P. Vaidyanathan, Pearson Education, 1993
+3. Digital Signal Processing, S. Salivahanan, A. Vallavaraj, C. Gnanapriya, 2000, TMH
+4. Multirate Systems and Filter Banks, P. P. Vaidyanathan, Pearson Education, 1993
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1VS01) DEVICE MODELING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Electronic Devices and Circuits
+COURSE OBJECTIVES:
+• To study the operation of semiconductor devices
+• To understand advanced semiconductor devices and technologies
+• To learn various models of semiconductor devices
+• To understand the BJT, MOSFET and other semiconductor devices from the device
+modeling perspective
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Analyze and describe the characteristics of various diodes
+CO-2: Understand the development of complex device models
+CO-3: Implement various device models in spice simulation
+CO-4: Understand the fabrication techniques involved in VLSI applications
+CO-5: Learn the Modeling of Hetero Junction Devices
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 2 - 1 2 -
+CO-2 2 2 - 2 - 2
+CO-3 3 - 2 3 - -
+CO-4 - 2 2 2 2 -
+CO-5 - - - 1 - -
+UNIT-I:
+Introduction to Semiconductor Physics: Review of Quantum Mechanics, Boltzman
+transport equation, Continuity equation, Poisson equation.
+Integrated Passive Devices: Types and Structures of resistors and capacitors in
+monolithic technology, Dependence of model parameters on structures
+UNIT-II:
+Integrated Diodes: Junction and Schottky diodes in monolithic technologies – Static
+and Dynamic behavior – Small and large signal models – SPICE models
+Integrated Bipolar Transistor: Types and structures in monolithic technologies – Basic
+model (Eber-Moll) – Gunmel- Poon model dynamic model, Parasitic effects – SPICE
+model–Parameter extraction
+UNIT-III:
+Bipolar Junction Transistors: Structure of a BJT, carrier statistics in base, emitter,
+collector, figures of merit, basic principle of operation, long base transistor, short base
+transistor, analysis of ideal diffusion transistor, Ebers-Moll model
+Bipolar Device Design: Design of the emitter design, Design of the base region, Design
+of the collector design, Modern bipolar transistor structures.
+UNIT-IV:
+Integrated MOS Transistor: NMOS and PMOS transistor, Threshold voltage, Threshold
+voltage equations, MOS device equations, Basic DC equations second order effects,
+MOS models, small signal AC characteristics, MOSFET SPICE model level 1, 2, 3 and 4.
+UNIT-V:
+VLSI Fabrication Techniques: An overview of wafer fabrication, Wafer Processing,
+Oxidation, Patterning, Diffusion, Ion Implantation, Deposition, Silicon gate NMOS
+process, CMOS processes, n-well- p-well- twin tub- Silicon on insulator, CMOS process
+enhancements, Interconnects circuit elements.
+Modeling of Hetero Junction Device: Band gap Engineering, Band gap Offset at
+abrupt Hetero Junction, Modified current continuity equations, Hetero Junction
+bipolar transistors (HBTs), SiGe
+TEXT BOOKS:
+1. Introduction to Semiconductor Materials and Devices, Tyagi M. S., John Wiley, 2008
+2. Solid State Circuits, Ben G. Streetman, Prentice Hall, 1997
+3. Physics of Semiconductor Devices, Sze S. M., 2nd Edition, McGraw Hill, 1981
+REFERENCES:
+1. Introduction to Device Modeling and Circuit Simulation, Tor A. Fijedly, Wiley-
+Inderscience, 1997
+2. Introduction to VLSI Systems: A Logic, Circuit and System Perspective, Ming-BO Lin,
+CRC Press, 2011
+3. Introduction to NMOS & VLSI System Design, A. Mukhe rjee, Prentice Hall, 2015
+4. The Design & Analysis of VLSI Circuits, L. A. Glassey& D. W. Dobbepahl, Addison
+Wesley, 1985
+5. Digital Integrated Circuits: A Design Perspective, Jan A. Rabey, Prentice Hall of
+India, 2002
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1VS02) FULL CUSTOM IC DESIGN
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: VLSI Design concepts, Physical Design concepts
+COURSE OBJECTIVES:
+• To discuss the full custom IC design flow
+• To understand various types of ASIC cell design techniques
+• To understand physical design phases of ASIC
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Describe full custom CMOS VLSI fabrication process
+CO-2: Design of digital circuits using full custom
+CO-3: Analyze ASIC library designs of various types of ASICs
+CO-4: Understand floor planning and placement physical design phases of ASIC
+CO-5: Understand various routing phases of ASIC designs
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 - - 3 - 3
+CO-2 3 - - 3 2 3
+CO-3 1 - 1 2 - 3
+CO-4 1 - - 3 2 3
+CO-5 - 1 - 3 2 3
+UNIT-I:
+Introduction to ASICs: Types of Asics, Design flow, ASIC cell libraries, – Basic MOS
+Transistor, NMOS Fabrication,
+CMOS Logic: CMOS Transistors, CMOS fabrication Process: P-Well Process, N-Well
+process, CMOS design rules: MOS Layers, Stick Diagrams, CMOS Design stick diagrams.
+UNIT -II:
+Design of CMOS Logic Cells: Combinational Logic cells: Pushing bubbles, Drive
+strength, Transmission gates, Exclusive or cells. Sequential logic cells: Latch, Flip Flop,
+Clocked Inverter.
+Datapath Logic Cells: Data path elements, adders, array multiplier, other data path
+operators, I/O cells.
+UNIT-III:
+ASIC Library Design: Transistors as resistors – parasitic capacitance – logical effort:
+Predicting delay, logical area and logical efficiency, logical paths, multistage cells,
+optimum delay, optimum number of stages.
+Library Cell Design: Gate array design with gate isolated gate array example,
+Standard cell design, Data-path cell design.
+UNIT-IV:
+Floor Planning & Placement: Floor Planning Goals and Objectives, Measurement of
+Delay in floor planning, Floor planning Tools, Channel definition, I/O and Power
+planning, Clock planning.
+Placement: Placement terms and definitions, placement goals and objectives,
+Measurement of placement goals and objectives, placement algorithms: Eigenvalue
+Placement example, iterative placement improvement.
+UNIT-V:
+Routing: Global routing, Goals and Objectives, Global routing methods, Global
+routing between blocks, Global routing inside flexible blocks, Timing driven methods,
+Back Annotation.
+Detailed Routing: Goals and Objectives, Measurement of channel density,
+Algorithms: Left edge algorithm, Constraints and routing graphs, Area routing
+algorithm, Multilevel routing, Timing driven detailed routing, final routing steps. special
+routing: Clock routing, power routing.
+TEXT BOOKS:
+1. Application Specific Integrated Circuits, J. S. Smith, Addison Wesley, 1997
+2. Basic VLSI Design: Douglas A. Pucknell, Kamran Eshraghian, Prentice Hall, 1989
+3. Physical Design Essentials, Khsorow Golshan, Springer 2006
+REFERENCES:
+1. Introduction to VLSI System, C. Mead & L. Canway, Addison Wesley, 1980
+2. Introduction to NMOS & VLSI System Design, A. Mukherjee, Prentice Hall, 2015
+3. The Design & Analysis of VLSI Circuits, L. A. Glassey & D. W. Dobbepahl, Addison
+Wesley, 1985
+4. Digital Integrated Circuits: A Design Perspective, Jan A. Rabey, Prentice Hall, 2002
+5. Principles of CMOS VLSI Design: A System Perspective, N. Westle & K. Eshraghian,
+Addison – Wesley,1985
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1VS03) ADVANCED COMPUTER ARCHITECTURE
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the fundamental of computer design
+• To know the pipelines and parallelism concepts
+• To know the issues in interconnect networks
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Familiarize the instruction set, memory addressing of computer
+CO-2: Handle the issues in pipelining
+CO-3: Analyse different software approaches in parallelism
+CO-4: Understand the mechanism of multi-processor and thread level parallelism.
+CO-5: Familiarize the practical issues in inter-network
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 - - - 1 -
+CO-2 2 - 2 - 2 2
+CO-3 1 - 2 - 2 2
+CO-4 1 - 2 - 2 3
+CO-5 2 - 3 - 3 3
+UNIT–I:
+Fundamentals of Computer Design: Fundamentals of Computer design, Changing
+faces of computing and task of computer designer, Technology trends, Cost price
+and their trends, measuring and reporting performance, quantitative principles of
+computer design, Amdahl’s law. Instruction set principles and examples- Introduction,
+classifying instruction set- memory addressing- type and size of operands, operations
+in the instruction set.
+UNIT–II:
+Pipelines: Introduction, basic RISC instruction set, Simple implementation of RISC
+instruction set, Classic five stage pipe line for RISC processor, Basic performance issues
+in pipelining, Pipeline hazards, Reducing pipeline branch penalties.
+Memory Hierarchy Design: Introduction, review of ABC of cache, Cache
+performance, Reducing cache miss penalty, Virtual memory.
+UNIT–III:
+Instruction Level Parallelism the Hardware Approach: Instruction-Level parallelism,
+Dynamic scheduling, Dynamic scheduling using Tomasulo’s approach, Branch
+prediction, high performance instruction delivery- hardware based speculation.
+ILP Software Approach: Basic compiler level techniques, static branch prediction,
+VLIW approach, Exploiting ILP, Parallelism at compile time, Cross cutting issues -
+Hardware verses Software.
+UNIT–IV:
+Multi Processors and Thread Level Parallelism: Multi Processors and Thread level
+Parallelism- Introduction, Characteristics of application domain, Systematic shared
+memory architecture, Distributed shared – memory architecture, Synchronization.
+UNIT–V:
+Inter Connection and Networks: Introduction, Interconnection network media,
+Practical issues in interconnecting networks, Examples of inter connection, Cluster,
+Designing of clusters.
+Intel Architecture: Intel IA- 64 ILP in embedded and mobile markets Fallacies and pit
+falls
+TEXT BOOKS:
+1. Computer Architecture: A Quantitative Approach, John L. Hennessy, David A.
+Patterson, 3rd Edition, Elsevier
+2. Microprocessor Architecture, Programming, and Applications with the 8085,
+Ramesh S. Gaonkar, Penram International
+3. Modern Processor Design: Fundamentals of Super Scalar Processors, John P. Shen
+and Miikko H. Lipasti, 2002, Beta Edition, McGraw Hill
+REFERENCES:
+1. Computer Architecture and Parallel Processing, Kai Hwang, Faye A. Brigs, McGraw
+Hill
+2. Advanced Computer Architecture - A Design Space Approach, Dezso Sima,
+Terence Fountain, Peter Kacsuk, Pearson Education
+3. Computer Organization and Architecture, William Stallings, 6th Edition, Pearson
+4. Structured Computer Organization, Andrew S. Tanenbaum, 4th Edition, PHI
+5. Fundamentals of Computer Organization and Design, Sivaraama Dandamudi
+Springer
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1VS04) PARALLEL PROCESSING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To provide an overview of concepts and issues of parallel architectures, models,
+algorithms and software
+• To provide a foundation and context from which current research in parallel
+computation can be understood
+• To introduce the principles of developing efficient parallel algorithms
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Identify limitations of different architectures of computer
+CO-2: Analyze quantitatively the performance parameters for different computer
+architectures
+CO-3: Understand the parallel algorithms for multiprocessors
+CO-4: Develop the Multithreaded Architecture and processors
+CO-5: Investigate software issues related to different computer architectures
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 - 1 2 1 2
+CO-2 1 - 1 2 2 2
+CO-3 2 - 1 2 1 2
+CO-4 1 - 1 - - 2
+CO-5 2 - 1 1 2 2
+UNIT-I:
+Overview of Parallel Processing and Pipelining, Performance analysis, Scalability
+UNIT-II:
+Principles and implementation of Pipelining, Classification of pipelining processors,
+Advanced pipelining techniques, Software pipelining.
+UNIT-III:
+Parallel algorithms for multiprocessors- Classification and performance of parallel
+algorithms, operating systems for multiprocessors systems, Message passing libraries for
+parallel programming interface, PVM (in distributed memory system), Message
+Passing Interfaces (MPI).
+UNIT-IV:
+Multithreaded Architecture, Multithreaded processors, Latency hiding techniques,
+Principles of multithreading, Issues and solutions.
+UNIT-V:
+Parallel Programming Techniques: Message passing program development,
+Synchronous and asynchronous message passing, Shared Memory Programming,
+Data Parallel Programming, Parallel Software Issues. Operating systems for
+multiprocessors systems, customizing applications on parallel processing platforms.
+TEXT BOOKS:
+1. Computer Architecture and Parallel Processing, Kai Hwang, Faye A. Briggs, MGH
+International Edition, 2009
+2. Advanced Computer Architecture, Kai Hwang, TMH, 2007
+3. Computer Organization and Architecture, Designing for Performance, William
+Stallings, Sixth Edition, Prentice Hall, 2003
+REFERENCES:
+1. Scalable Parallel Computing, Kai Hwang, Zhiwei Xu
+2. High-Performance Computer Architecture, MGH Harold S. Stone, Addison-Wesley,
+1993
+3. Modern Spectral Estimation: Theory & Application, S. M. Kay, 1988, PHI
+4. Multirate Systems and Filter Banks, P. P. Vaidyanathan, Pearson Education, 1993
+5. Digital Signal Processing, S. Salivahanan, A. Vallavaraj, C. Gnanapriya, 2000, TMH
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1VS05) SOC DESIGN
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: VLSI Design
+COURSE OBJECTIVES:
+• To learn ASIC design concepts and strategies
+• To know the NISC applications and advantages
+• To familiar with simulation and synthesis process
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Illustrate SoC based design
+CO-2: Describe the SOC Constituents
+CO-3: Differentiate simulation models
+CO-4: Apply synthesis optimization techniques
+CO-5: Apply Verification and testing techniques
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 - - - - 3
+CO-2 1 1 3 - - -
+CO-3 1 - 2 2 2 -
+CO-4 1 - - 2 3 -
+CO-5 1 - - 2 3 -
+UNIT-I:
+Introduction to SOC: Overview of ASIC types, design strategies, CISC, RISC and NISC
+approaches for SOC, Architectural issues and its impact on SoC design
+methodologies, Application Specific Instruction Processor (ASIP) concepts. SOC
+Design Flow
+UNIT-II:
+SOC Constituents: Embedded Processor Subsystem for System on Chip, Embedded
+Memories, Protocol Blocks, Mixed Signal Blocks, RF Control Blocks, Analog Blocks, Third-
+Party IP Cores, System Software,
+UNIT-III:
+SoC Simulation Methodology
+Simulation: Different simulation modes, behavioral, functional, static timing, gate level,
+switch level, transistor/circuit simulation, design of verification vectors, Reconfigurable
+systems, SoC related modeling of data path design and control logic, Minimization of
+interconnects impact.
+UNIT-IV:
+SOC Synthesis: SOC synthesis flow, Design Rule Constraints (DRC), SOC Design
+Synthesis, High Fanout Nets (HFNs), Low-Power Synthesis, Reports.
+Static Timing Analysis (STA) - SOC Timing Analysis, Timing Definition, Timing Delay
+Calculation Concepts, Timing Analysis, Modelling Process, Voltage, and Temperature
+Variations, Timing and Design Constraints, Challenges of STA During SOC design
+UNIT-V:
+SOC Design Testing and Verification:
+SOC Design for Testability (DFT): DFT flow in SOC design, DFT Logic Insertion
+Techniques, On-SOC Clock Generation (OSCG) Insertion, Challenges in SOC DFT,
+SOC Design Verification: Verification Plan and Strategies, Verification Plan, Functional
+Verification, Verification Methods, Design for Verification, Verification Tools,
+SOC Packaging: Criteria for Selection of Packages, Package Assembly Flow,
+Packaging Technology
+TEXT BOOKS:
+1. A Practical Approach to VLSI System on Chip (SoC) Design, Chakravarthi Veena
+S., Springer, 2020
+2. Digital Integrated Circuit Design: From VLSI Architectures to CMOS Fabrication,
+Hubert Kaeslin, Cambridge University Press, 2008
+3. System on Chip-Next Generation Electronics, B. Al Hashimi, The IET, 2006
+REFERENCES:
+1. System-on- a-Chip: Design and Test, Rochit Rajsuman, Advantest America R & D
+Center, 2000
+2. Processor Description Languages, P. Mishra and N. Dutt, Morgan Kaufmann, 2008
+3. Computer System Design: System-on-Chip, Michael J. Flynn and Wayne Luk, Wiley,
+2011
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1VS06) VLSI PROCESS TECHNOLOGY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To provide foundation in MOS and CMOS fabrication process
+• To know different lithography methods and etching process
+• To study various deposition and diffusion mechanisms
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Appreciate the various techniques involved in the VLSI fabrication process
+CO-2: Understand the different lithography methods and etching process
+CO-3: Appreciate the deposition and diffusion mechanisms
+CO-4: Analyses the fabrication of NMOS, CMOS memory and bipolar devices
+CO-5: Understand the packing issues in fabrication
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 - 1 - 2 3
+CO-2 1 - 2 - 2 3
+CO-3 1 - 2 - 2 2
+CO-4 2 - 3 - 2 3
+CO-5 2 - 3 - 2 3
+UNIT-I:
+Electron grade silicon. Crystal growth. Wafer preparation. Vapor phase and molecular
+beam epitaxy. SOI. Epitaxial evaluation. Oxidation techniques, systems and
+properties. Oxidation defects.
+UNIT-II:
+Optical, electron, X-ray and ion lithography methods. Plasma properties, size, control,
+etch mechanism, etch techniques and equipments.
+UNIT-III:
+Deposition process and methods. Diffusion in solids. Diffusion equation and diffusion
+mechanisms.
+UNIT-IV:
+Ion implantation and metallization. Process simulation of ion implementation, diffusion,
+oxidation, epitaxy, lithography, etching and deposition. NMOS, CMOS, MOS memory
+and bipolar IC technologies. IC fabrication.
+UNIT-V:
+Analytical and assembly techniques. Packaging of VLSI devices.
+Plasma and Rapid Thermal Processing: PECVD, Plasma etching and RIE techniques;
+RTP techniques for annealing, growth and deposition of various films for use in ULSI.
+Process integration for NMOS, CMOS and Bipolar circuits; Advanced MOS technology
+TEXT BOOKS:
+1. VLSI Technology, S. M. Sze, 2nd Edition, McGraw Hill, 1988
+2. Modern VLSI Design, W. Wolf, 3rd Edition, Pearson, 2002
+3. VLSI Fabrication Principles, S. K. Gandhi, John Wiley & Sons, 1983
+REFERENCES:
+1. VLSI Technology, B. G. Streetman, Prentice Hall, 1990
+2. Physics and Technology of Semiconductor Devices, A.S Grove, John Wiley & Sons,
+2008
+3. The Design & Analysis of VLSI Circuits, L. A. Glassey & D. W. Dobbepahl, Addison
+Wesley, 1985
+4. Digital Integrated Circuits: A Design Perspective, Jan A. Rabey, Prentice Hall, 2002
+5. Basic VLSI Design: Systems and Circuits, Douglas A. Pucknell & Kamran Eshraghian,
+Prentice Hall, 1989
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1VS07) DIGITAL SYSTEM DESIGN WITH FPGAs
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Switching Theory and Logic Design
+COURSE OBJECTIVES:
+• To provide extended knowledge of digital logic circuits in the form of state model
+approach
+• To provide an overview of system design approach using programmable logic
+devices
+• To provide and understand of fault models and test methods
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: To exposes the design approaches using FPGAs
+CO-2: To provide in depth understanding of Fault models
+CO-3: To understands test pattern generation techniques for fault detection
+CO-4: To design fault diagnosis in sequential circuits
+CO-5: To provide understanding in the design of flow using case studies
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 - - 2 - -
+CO-2 - - - - 3 -
+CO-3 - - - - - 3
+CO-4 2 - - - - -
+CO-5 - - 3 - - -
+UNIT-I:
+Programmable Logic Devices: The concept of programmable Logic Devices, SPLDs,
+PAL devices: PLA devices, GAL devices, CPLD-Architecture, FPGAs-FPGA technology,
+architecture, virtex CLB and slice, FPGA Programming Technologies, Xilinx XC2000,
+XC3000, XC4000 Architectures, Actel ACT1, ACT2 and ACT3 Architectures.
+UNIT-II:
+Analysis and Derivation of Clocked Sequential Circuits With State Graphs and Tables:
+A sequential parity checker, Analysis by signal tracing and timing charts-state tables
+and graphs-general models for sequential circuits, Design of a sequence detector,
+More Complex design problems, Guidelines for construction of state graphs, serial
+data conversion, Alphanumeric state graph notation. Need and Design strategies for
+multi-clock sequential circuits.
+UNIT-III:
+Sequential Circuit Design: Design procedure for sequential circuits-design example,
+Code converter, Design of Iterative circuits, Design of a comparator, Controller (FSM)
+– Metastability, Synchronization, FSM Issues, Pipelining resources sharing, Sequential
+circuit design using FPGAs, Simulation and testing of Sequential circuits, Overview of
+computer Aided Design.
+UNIT-IV:
+Fault Modeling and Test Pattern Generation: Logic Fault Model, Fault detection &
+redundancy, Fault equivalence and fault location, Fault dominance, Single stuck at
+fault model, multiple Stuck at Fault models, Bridging Fault model. Fault diagnosis of
+combinational circuits by conventional methods, path sensitization techniques,
+Boolean difference method, KOHAVI algorithm, Test algorithms-D algorithm, Random
+testing, transition count testing, signature analysis and test bridging faults.
+UNIT-V:
+Fault Diagnosis in Sequential Circuits: Circuit Test Approach, Transition check
+Approach, State identification and fault detection experiment, Machine
+identification, Design of fault detection experiment
+TEXT BOOKS:
+1. Digital Electronics and Design with VHDL, Volnei A. Pedroni, Elsevier
+2. Fundamentals of Logic Design, Charles H. Roth Jr., 5th Edition, Cengage Learning
+3. Digital Circuits and Logic Design, Samuel C. Lee, PHI, 2008
+REFERENCES:
+1. Logic Design Theory, N. N. Biswas, PHI
+2. Digital System Design using Programmable Logic Devices, Parag K. Lala, B. S.
+Publications
+3. Switching and Finite Automata Theory, Zvi Kohavi & Niraj K. Jha, 3rd Edition,
+Cambridge, 2010
+4. Field Programmable Gate Arrays, John V. Old Field, Richard C. Dorf, Wiley, 2008
+5. Designing with FPGAs & CPLDs, Bob Zeidman, CMP Books, 2002
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PC1ES03) EMBEDDED REAL TIME OPERATING SYSTEMS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the importance of an operating system in embedded system
+• To understand real-time operating system (RTOS) and the types of RTOS
+• To describe real-time systems and how real-time resource management
+algorithms and mechanisms (e.g., scheduling, synchronization) enable satisfaction
+of application timing constraints
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the various services of Operating systems
+CO-2: Explore the concepts of design and development of protocols related to real-
+time system
+CO-3: Understand the concepts of Inter Process Communication and synchronization
+Mechanisms
+CO-4: Design Real time embedded solution for a real-world problem
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 - - 2 3 2
+CO-2 1 - 1 2 2 2
+CO-3 2 - 2 3 - 2
+CO-4 3 - 2 2 1 2
+UNIT–I:
+Linux Operating System: Operating system- functions, Linux Operating System-
+features, architecture- monolithic kernel and micro kernel, File I/O-open, create,
+close, lseek, read, write; Process Control -fork, vfork, exit, wait, waitpid, exec
+UNIT–II:
+Embedded Operating System (EOS): Embedded firmware design approaches, EOS-
+characteristics, applications, porting OS to Embedded Systems, Startup Sequence,
+Device Drivers, Hardware abstraction Layer, Embedded Linux
+UNIT–III:
+Real-Time Embedded Systems & RTOS: Real-time system–definition, classification,
+requirements, Energy awareness in Real time systems, need of RTOS in embedded
+system, RTOS -Architecture, Characteristics, GPOS Vs RTOS, examples- Vx works, Free
+RTOS.
+UNIT–IV:
+Real Time Operating Systems Concepts–I: Tasks and Task states, Task Scheduling
+algorithms - Rate Monotonic, EDF, Round Robin, Round Robin with Interrupts, Priority
+driven–Preemptive and Non preemptive scheduling.
+UNIT–V:
+Real Time Operating Systems Concepts–II: Inter Process Communication mechanisms
+- Semaphores, Message queues, Mailboxes, Pipes, Task Synchronization, Priority
+Inversion - Inheritance and Ceiling, Memory management, Interrupt routines in RTOS
+environment
+TEXT BOOKS:
+1. Embedded Systems - Architecture, Programming and Design, Raj Kamal, 3rd
+Edition, McGraw Hill, 2017
+2. Embedded Systems: Real Time Operating Systems for ARM Cortex-
+Microcontrollers, J. W. Valvano, Volume 3, 2017
+3. Real-Time Systems: Scheduling, Analysis, and Verification, Cheng A. M. K., 1st
+Edition, Wiley, 2002
+REFERENCES:
+1. Real-Time Systems, Krishna C. M., Shin K. G., 1st Edition, McGraw Hill, 2017
+2. Mastering the Free RTOS™ Real Time Kernel a Hands-On Tutorial Guide, Richard
+Barry, 1st Edition, Real Time Engineers Ltd., 2016
+3. Modern Operating Systems, Tanenbaum, 3rd Edition, Pearson, 2009
+4. Embedded and Real-Time Operating Systems, K. C. Wang, Springer, 2017
+5. Real -Time Systems, Jane W. S. Liu, 1st Edition, Pearson Education, 2000
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1ES17) ARM MICROCONTROLLERS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To explore the architecture and instruction set of ARM processor
+• To provide a comprehensive understanding of various programs of ARM
+processors
+• To learn the programming on ARM Cortex M
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Explore the selection criteria of ARM processors by understanding the functional
+level trade off issues
+CO-2: Explore the ARM development towards the functional capabilities
+CO-3: Work with ASM level program using the instruction set
+CO-4: Programming the ARM Cortex M
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 - 1 2 1 -
+CO-2 2 - 2 1 1 -
+CO-3 - - - - - -
+CO-4 - - - - - -
+UNIT-I:
+ARM Embedded Systems: RISC design philosophy, ARM design philosophy, Embedded
+system hardware, Embedded system software.
+ARM Processor Fundamentals: Registers, Current Program Status Register, Pipeline,
+Exceptions Interrupts and Vector Table, Core Extensions, Architecture Revisions, ARM
+Processor Families.
+Architecture of ARM Processors: Introduction to the architecture, Programmer’s
+model- operation modes and states, registers, special registers, floating point registers,
+Behaviour of the application program status register(APSR)-Integer status flags, Q
+status flag, GE bits, Memory system-Memory system features, memory map, stack
+memory, memory protection unit (MPU), Exceptions and Interrupts-what are
+exceptions?, nested vectored interrupt controller(NVIC), vector table, Fault handling,
+System control block (SCB), Debug, Reset and reset sequence.
+UNIT-II:
+Introduction to the Arm Instruction Set: Data processing instructions, branch
+instructions, load-store instructions, software interrupt instructions, program status
+register instructions, loading constants, ARMv5E extensions, Conditional execution.
+Introduction to the Thumb Instruction Set: Thumb Register Usage, ARM-Thumb
+Interworking, Other Branch Instructions, Data Processing Instructions, Single-Register
+Load-Store Instructions, Multiple- Register Load-Store Instructions, Stack Instructions,
+Software Interrupt Instruction.
+UNIT-III:
+Technical Details of ARM Cortex M Processors General information about Cortex-M3
+and cortex M4 processors-Processor type, processor architecture, instruction set, block
+diagram, memory system, interrupt and exception support, Features of the cortex-M3
+and Cortex-M4 Processors-Performance, code density, low power, memory system,
+memory protection unit, interrupt handling, OS support and system level features,
+Cortex-M4 specific features, Ease of use, Debug support, Scalability, Compatibility.
+UNIT-IV:
+Instruction SET of ARM Cortex M Background to the instruction set in ARM Cortex-M
+Processors, Comparison of the instruction set in ARM Cortex-M Processors,
+understanding the assembly language syntax, Use of a suffix in instructions, Unified
+assembly Language (UAL), Instruction set, Cortex-M4- specific instructions, Barrel
+shifter, Accessing special instructions and special registers in Programming.
+UNIT-V:
+Floating Point Operations About Floating Point Data, Cortex-M4 Floating Point Unit
+(FPU)- overview, FP registers overview, CPACR register, Floating point register bank,
+FPSCR, FPU->FPCCR, FPU-> FPCAR, FPU->FPDSCR, FPU->MVFR0, FPU->MVFR1. ARM
+Cortex-M4 and DSP Applications: DSP
+on a microcontroller, Dot Product example, writing optimized DSP code for the
+CortexM4-Biquad filter, Fast Fourier transform, FIR filter.
+TEXT BOOKS:
+1. ARM System Developer’s Guide Designing and Optimizing System Software,
+Andrew N. Sloss, Dominic Symes, Chris Wright, Elsevier, 2004
+2. The Definitive Guide to ARM Cortex-M3 and Cortex-M4 Processors, Joseph Yiu, 3rd
+Edition, Elsevier
+REFERENCES:
+1. Arm System on Chip Architectures, Steve Furber, Edison Wesley, 2000
+2. ARM Architecture Reference Manual, David Seal, Edison Wesley, 2000
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PC2VS01) SIMULATION AND SYNTHESIS WITH PLDs LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE PRE-REQUISITES: Digital Concepts, Programming Knowledge
+COURSE OBJECTIVES:
+• To provide familiarity with hardware description language Verilog HDL for
+modelling of combinational and sequential circuits
+• To understand the role of functional simulator in the validating the functionality of
+designed circuits
+• To understand the Synthesis of a designed digital circuits
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply CAD tools for the design of digital circuits
+CO-2: Appreciate the process of synthesizing a given digital circuits
+CO-3: Implement the specified digital circuits using FPGA
+CO-4: Develop the VLSI applications using Verilog HDL
+CO-5: Generate the netlist files and analyze the device utilization summary
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 - - 3 - -
+CO-2 - - - - - 2
+CO-3 - - 3 - - -
+CO-4 1 - - - 3 -
+CO-5 - 3 - - - -
+Part –I:
+Programming can be done using any complier. Down load the programs on
+FPGA/CPLD boards and performance testing may be done using pattern generator
+(32 channels) and logic analyzer apart from verification by simulation with any of the
+front end tools.
+1. HDL code to realize all the logic gates
+2. Design and Simulation of Full Adder, Serial Binary Adder, Multi Precession Adder,
+Carry Look Ahead Adder.
+3. Design of Combinational circuit using Decoders.
+4. Design of Combinational circuit using encoder (without and with parity).
+5. Design of Combinational circuit using multiplexer.
+6. Design of 4 bit binary to gray converter using MUX or Decoders.
+7. Design of Multiplexer/ Demultiplexer, comparator in all 3 styles.
+8. Modelling of an Edge triggered and Level triggered FFs: D, SR,JK
+9. Design of 4-bit binary, BCD counters (synchronous/ asynchronous reset) or any
+sequence counter
+10. Design of a N- bit Register of Serial- in Serial –out, Serial in parallel out, Parallel in
+Serial out and Parallel in Parallel Out using different FFs
+11. Design of Sequence Detector (Finite State Machine- Mealy and Moore Machines)
+12. Design of 4- Bit Multiplier, Divider
+13. Design of ALU to Perform – ADD, SUB, AND-OR, 1’s and 2’s Compliment,
+14. Implementing the above designs on FPGA kits.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PC2VS02) IC DESIGN LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE PRE-REQUISITES: Concepts of Digital and Analog Circuits
+COURSE OBJECTIVES:
+• To learn the design procedure of digital and analog circuits using EDA tools
+• To understand the design of analog circuit using EDA tools
+• To understand how to calculate width of transistors for accurate designs
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Design digital circuit using CMOS and other logic styles
+CO-2: Compare various designs with respect to performance metrics
+CO-3: Design Analog and Digital Circuit using CMOS
+CO-4: Use EDA tools like Synopsys, Mentor Graphics and other open-source software
+tools like Hspice
+CO-5: Develop the circuits and applications using CMOS technology
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 2 3 3 1 3
+CO-2 3 2 2 3 1 2
+CO-3 3 2 1 3 - 2
+CO-4 2 2 1 3 - 2
+CO-5 3 1 1 3 2 2
+LIST OF EXPERIMENTS:
+Implementation of the following designs using CAD Tools:
+1. Obtain DC and transient characteristics of CMOS logic gates and draw the
+equivalent layouts for each gate and perform DRC, LVS and parasitic extraction
+using CAD tools
+2. Design and verify the functionality of 1-bit full adder using PTL and transmission
+gate logics and compare the performance parameters like power dissipation and
+speed among various optimized full adder cells
+3. Verify the dynamic, domino C2MOS and NPCMOS logic with suitable examples
+4. Design and verify the functionalities of clocked latches and flip flop circuits
+5. Design the circuits of SRAM, DRAM memory cells and verify its functionality
+6. Design of Common source amplifier
+7. Design of Wilson current mirror
+8. Design of Single stage differential amplifier
+9. Design of Operational amplifier
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22SD5HS01) COMMUNICATION SKILLS FOR ACADEMIC AND RESEARCH WRITING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To equip the students with an understanding of the mechanics and conventions
+of academic and research writing including cohesion and coherence to produce
+texts that demonstrate precision and clarity
+• To enable students to present focused, logical arguments that support a thesis
+• To empower the students to find, analyze, evaluate, summarize and synthesize
+appropriate source material for literature review
+• To enable students to use appropriate language to analyze and interpret the
+data, and prepare an outline
+• To enable students to become adept in the requirements and specifications of
+standard writing to produce academic and research papers
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply knowledge of academic language features, and text structure and
+ensure cohesion and coherence as connected to various text types
+CO-2: Demonstrate the use of writing process strategies through outlining, reviewing,
+composing, and revising
+CO-3: Evaluate sources and use summary, analysis, synthesis, and integration to
+construct a literature review on a topic chosen by the student
+CO-4: Prepare an outline for Research Articles and Thesis
+CO-5: Apply standard documentation style to produce academic and research
+papers that meet the demands of specific genres, purposes, and audiences
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 3 1 - - -
+CO-2 3 3 3 - - -
+CO-3 1 3 2 - - -
+CO-4 3 3 2 - - -
+CO-5 3 3 3 - - -
+UNIT-I:
+a) Factors Influencing Effective Writing: Mechanics of Writing, Purpose of Writing,
+Audience/reader, Organisation- Cohesion, and Coherence
+b) Features of Academic Writing: Introduction, Complexity, Formality, Precision,
+Objectivity, Explicitness, Accuracy and Appropriacy, Relevance, Hedging
+UNIT-II:
+1. Academic Writing Forms:
+a) Analysing arguments; Building an argument
+b) Making a Counter Argument- Managing tone, and tenor
+2. Types of Research: Primary and Secondary Research;
+3. Research Design: Statement of the Problem, Survey of relevant literature, Writing
+Hypotheses, Developing Objectives; Research Tools
+UNIT-III:
+a) Criteria of Good Research- Avoiding Plagiarism
+b) Data Interpretation
+c) Preparing an outline for Research Articles & Research Reports
+UNIT-IV:
+a) Reference Skills -Paraphrasing (Change of parts of speech, word order, synonyms,
+using the passive form), -Summarizing (Steps in summarising)
+b) Documentation Format: APA style
+c) Documentation Format: MLA style
+UNIT-V:
+a) Writing Article Reviews
+b) Report Writing: a) Writing Technical Reports b) Writing Proposals
+TEXT BOOKS:
+1. A Course in Academic Writing, Gupta R., Orient Black Swan, 2010
+2. Academic Writing: Exploring Processes and Strategies, Leki I., CUP, 1998
+3. Writing-up Research: Experimental Research Report Writing for Students of English,
+Weissberg R., & Buker S., Englewood Cliffs, Prentice Hall, 1990
+REFERENCES:
+1. English Academic Writing for Students and Researchers. Yakhontova T., 2003
+2. Inside Track: Successful Academic Writing, Gillett A., Hammond A., Martala M.,
+Pearson Education, 2009
+3. English for Academic Research: Writing Exercises, Wallwork, Springer, 2013
+4. The MLA Handbook for Writers of Research Papers, 7th Edition, Modern Language
+Association
+5. Academic Writing for Graduate Students: A Course for Non-native Speakers of
+English, Swales J. M., & Feak C. B., University of Michigan Press, 1994
+ONLINE RESOURCES:
+1. https://www.coventry.ac.uk/study-at-coventry/student-support/academic-
+support/centre-for-academic-writing/support-for-students/academic-writing-
+resources/
+2. https://www.biz-e-training.com/resources-for-learners/academic-writing-online-
+resources/
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22MN6HS01) REASEARCH METHODOLOGY AND IPR
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE-I SE-II SEE TOTAL
+2 0 0 50 50 - 100
+COURSE OBJECTIVES:
+• To understand the research problem
+• To know the literature studies, plagiarism and ethics
+• To get the knowledge about technical writing
+• To analyze the nature of intellectual property rights and new developments
+• To know the patent rights
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand research problem formulation
+CO-2: Analyze research related information & follow research ethics
+CO-3: Understand that today’s world is controlled by Computer, Information
+Technology, but tomorrow world will be ruled by ideas, concept, and creativity
+CO-4: Understanding that when IPR would take such important place in growth of
+individuals & nation, it is needless to emphasis the need of information about
+Intellectual Property Right to be promoted among students in general & engineering
+in particular
+CO-5: Understand that IPR protection provides an incentive to inventors for further
+research work and investment in R & D, which leads to creation of new and better
+products, and in turn brings about, economic growth and social benefits
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 1 2 - 2 2
+CO-2 3 1 2 - 2 2
+CO-3 3 1 2 - 2 2
+CO-4 3 1 - 2 2 2
+CO-5 3 1 2 3 3 2
+UNIT–I:
+Meaning of research problem, Sources of research problem, Criteria Characteristics
+of a good research problem, Errors in selecting a research problem, Scope and
+objectives of research problem.
+Approaches of investigation of solutions for research problem, data collection,
+analysis, interpretation, Necessary instrumentations
+UNIT–II:
+Effective literature studies approaches, analysis, Plagiarism, Research ethics
+UNIT–III:
+Effective technical writing, how to write report, Paper Developing a Research
+Proposal, Format of research proposal, a presentation and assessment by a review
+committee
+UNIT–IV:
+Nature of Intellectual Property: Patents, Designs, Trade and Copyright. Process of
+Patenting and Development: technological research, innovation, patenting,
+development. International Scenario: International cooperation on Intellectual
+Property. Procedure for grants of patents, Patenting under PCT.
+UNIT–V:
+Patent Rights: Scope of Patent Rights. Licensing and transfer of technology. Patent
+information and databases. Geographical Indications. New Developments in IPR:
+Administration of Patent System.
+New developments in IPR; IPR of Biological Systems, Computer Software etc.
+Traditional knowledge Case Studies, IPR and IITs
+TEXT BOOKS:
+1. Research Methodology: An Introduction for Science & Engineering Students, Stuart
+Melville and Wayne Goddard
+2. Research Methodology: An Introduction, Wayne Goddard and Stuart Melville
+3. Research Methodology: A Step by Step Guide for beginners, Ranjit Kumar, 2nd
+Edition
+REFERENCES:
+1. Resisting Intellectual Property, Halbert, Taylor & Francis Ltd., 2007
+2. Industrial Design, Mayall, McGraw Hill, 1992
+3. Product Design, Niebel, McGraw Hill, 1974
+4. Intellectual Property in New Technological Age, Robert P. Merges, Peter S. Menell,
+Mark A. Lemley, 2016
+5. Intellectual Property Rights Under WTO, T. Ramappa, S. Chand, 2008
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PC1VS04) MIXED SIGNAL AND RF IC DESIGN
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Knowledge on design of various Analog Circuits
+COURSE OBJECTIVES:
+• To learn the design of CMOS comparators
+• To understand the design and architectures of data converters
+• To study the various impedance matching techniques in RF circuit design
+• To know the fundamentals of oscillators
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand design issues involved in comparators
+CO-2: Analyse the performance parameters of Nyquist Rate D/A and A/D converters
+CO-3: Design architectures of oversampling converters
+CO-4: Study the various impedance matching techniques in RF circuit design
+CO-5: Learn different frequency generator circuits
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 - 2 3 3 3
+CO-2 2 3 2 2 1 3
+CO-3 1 2 2 3 2 2
+CO-4 1 1 2 2 1 2
+CO-5 2 2 2 2 - 1
+UNIT-I:
+Comparators: Characterization of a Comparator, Two-Stage, Open-Loop
+Comparators, Other Open-Loop Comparators, Improving the Performance of Open-
+Loop Comparators .
+Data Converter Fundamentals: Ideal D/A Converter, Ideal A/D Converter,
+Quantization noise.
+Nyquist Rate D/A Converters: Decoder based Converters, Binary-Scaled converters,
+Thermometer code converters, Hybrid Converters.
+UNIT-II:
+Nyquist Rate A/D Converters: Successive Approximation Converters, Flash Converters,
+Two-Step A/D Converters, Interpolating A/D Converters, Folding A/D Converters,
+Pipelined A/D Converters, Time-Interleaved Converters.
+UNIT-III:
+Oversampling Converters: Oversampling without Noise Shaping, Oversampling
+without Noise Shaping, System Architectures: System Architecture of Delta-Sigma A/D
+Converters, System Architecture of Delta-Sigma D/A Converters, Digital Decimation
+Filters, Higher-Order Modulators.
+UNIT-IV:
+Impedance Matching in Amplifiers: Quality Factor, Series-to-Parallel Conversion, Basic
+Matching Networks, Loss in Matching Networks.
+Low Noise Amplifiers: General Considerations, Problem of Input Matching, LNA
+Topologies: Common-Source Stage with Inductive Load, Common-Source Stage with
+Resistive Feedback, Common-Gate Stage, Cascode CS Stage with Inductive
+Degeneration, Variants of Common-Gate LNA, Noise-Cancelling LNAs, Reactance-
+Cancelling LNAs
+UNIT-V:
+Oscillators: Performance Parameters, Basic Principles, Feedback View of Oscillators,
+One-Port View of Oscillators, Cross-Coupled Oscillator, Three-Point Oscillators Voltage-
+Controlled Oscillators, LC VCOs with Wide Tuning Range, Phase Noise.
+TEXT BOOKS:
+1. Design of Analog CMOS Integrated Circuits, Behzad Razavi, TMH, 2002
+2. CMOS Analog Circuit Design, Philip E. Allen and Douglas R. Holberg, Oxford
+University Press, International 2nd Edition/Indian Edition, 2010
+3. RF Microelectronics, B. Razavi, Prentice Hall, 2012
+REFERENCES:
+1. CMOS Integrated Analog-to-Digital and Digital-to-Analog Converters, Rudy Van
+De Plassche, Kluwer Academic Publishers, 2003
+2. Understanding Delta-Sigma Data converters, Richard Schreier, Wiley Interscience,
+2005
+3. CMOS Mixed-Signal Circuit Design, R. Jacob Baker, Wiley Interscience, 2009
+4. Microstrip Filters for RF/Microwave applications, Jia-sheng Hong, Wiley, 2001
+5. Analog Integrated Circuit Design, David A. Johns, Ken Martin, Wiley, 2013
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PC1VS05) VLSI DESIGN FOR TESTABILITY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Concepts of VLSI and Digital Design
+COURSE OBJECTIVES:
+• To understand various technology trends that effects testing
+• To learn Fault Modeling, fault simulation algorithms and testability measures for VLSI
+circuits
+• To study various scan design techniques for digital systems
+• To recognize the BIST techniques for improving testability
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply the testing concepts to achieve better yield in IC design
+CO-2: Analyze different fault models, simulation algorithms
+CO-3: Understand design for testable measures
+CO-4: Analyze scan-design architectures
+CO-5: Design different built-in-self-test architecture
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 1 3 3 3 3
+CO-2 3 2 2 2 2 3
+CO-3 2 2 2 2 2 2
+CO-4 1 2 2 2 2 2
+CO-5 2 2 1 2 3 3
+UNIT-I:
+Introduction to Testing: Testing Philosophy, Role of Testing, Digital and Analog VLSI
+Testing, VLSI Technology Trends affecting Testing, Types of Testing.
+Fault Modelling: Defects, Errors and Faults, Functional Versus Structural Testing, Levels
+of Fault Models, Single Stuck-at Fault. Test generation – Random test generation, Path
+sensitization techniques, Boolean Difference method.
+UNIT-II:
+Logic and Fault Simulation: Simulation for Design Verification and Test Evaluation,
+Modelling Circuits for Simulation, Algorithms for True-value Simulation- Compiled-
+Code, Event-Driven Simulation, Algorithms for Fault Simulation- Serial, Parallel,
+Deductive, Concurrent fault simulation.
+UNIT-III:
+Testability Measures: SCOAP Controllability and Observability- Combinational SCOAP
+Measures, Combinational Circuit Example, Sequential SCOAP Measures, Sequential
+Circuit Example.
+UNIT-IV:
+Scan Designs: Ad-Hoc approach, structured approach, Scan cell Designs- Muxed-D
+Scan Cell, Clocked-Scan Cell, LSSD Scan Cell, Scan Architectures-Full-Scan Design,
+Partial Scan Design.
+UNIT-V:
+Logic Built-in Self–Test: Introduction, BIST Design Rules, Test pattern generation-
+Exhaustive testing, Pseudo-Random Testing: Maximum-Length LFSR, Weighted LFSR
+Pseudo-Exhaustive Testing: Syndrome Driver Counter, Constant-Weight Counter.
+Output response Analysis-ones count testing, transition count testing.
+Logic BIST Architectures-BIST Architectures for Circuits without Scan Chains: CSBL, BEST,
+BIST Architecture for circuits with scan chains: LOCST. BILBO.
+TEXT BOOKS:
+1. Essentials of Electronic Testing for Digital, Memory and Mixed Signal VLSI Circuits,
+M. L. Bushnell, V. D. Agrawal, Kluwer Academic Publishers, 2012
+2. VLSI Test Principles and Architectures: Design for Testability, Laung-Terng, Cheng-
+Wen Wu, Xiaoqing Wen, Morgan Kaufmann, 2006
+3. Digital Circuits Testing and Testability, P. K. Lala, Academic Press
+REFERENCES:
+1. Digital Systems and Testable Design, M. Abramovici, M. A. Breuer and A.D
+Friedman, Jaico Publishing House
+2. VLSI Technology, S. M. Sze, 2nd Edition, McGraw Hill, 1988
+3. Modern VLSI Design, W. Wolf, 3rd Edition, Pearson, 2002
+4. VLSI Technology, B. G. Streetman, Prentice Hall, 1990
+5. Physics and Technology of semiconductor Devices, A. S. Grove, John Wiley & Sons,
+2008
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PC1VS06) SCRIPTING LANGUAGES FOR VLSI
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Linux Basics, Basics of C
+COURSE OBJECTIVES:
+• To understand the importance of scripting languages in VLSI Design
+• To describe the various PERL concepts used in VLSI design for large data handling
+• To understand utilization of TCL in CAD Tools Interfacing
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Gain fluency in programming with Linux
+CO-2: Create and run scripts using PERL
+CO-3: Understand the fundamentals of TCL scripting
+CO-4: Develop the VLSI scripts for tool automation using TCL
+CO-5: Learn the advanced programming skills of Python programming
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 - 3 3 3 1
+CO-2 2 - 3 3 2 1
+CO-3 2 - 3 3 3 1
+CO-4 2 - 3 3 2 1
+CO-5 2 - 3 3 2 1
+UNIT-I:
+Basics of Linux: Linux Architecture, shells, Files and Directories: file systems, system calls
+for the file I/O Operations, file permissions & ownership, creating, removing, and
+changing directories, GREP, SED, AWK.
+Introduction to Scripting Languages: Characteristics of scripting languages, uses of
+scripting languages.
+UNIT-II:
+PERL: Introduction to PERL, Names and values, Variables and assignment, Scalar
+expressions, Control structures, Built-in functions, Collections of Data, working with
+arrays, Lists and hashes, Simple input and output, Strings, Patterns and regular
+expressions, subroutines, working with files. extraction and analyzation of data in VLSI
+design using PERL.
+UNIT-III:
+TCL: The TCL phenomena, Philosophy, Structure, Syntax, Parser, Variables and data in
+TCL, Control flow, Data structures, Simple input/output, Procedures, Working with
+Strings, Patterns, Files and Pipes
+UNIT-IV:
+Advanced TCL: The eval, source, exec and up-level commands, Libraries and
+packages, Namespaces, Trapping errors, Event-driven programs, Generating TCL
+scripts for VLSI Design automation.
+UNIT-V:
+Python: Introduction to PYTHON language, PYTHON-syntax, statements, functions,
+Built-in functions and Methods, Modules in PYTHON, Exception Handling.
+TEXT BOOKS:
+1. The World of Scripting Languages, David Barron, Wiley Student Edition, 2010
+2. TCL/TK: A Developer's Guide, Clif Flynt, Morgan Kaufmann Series, 2003
+3. Python Web Programming, Steve Holden and David Beazley, New Riders
+Publications
+REFERENCES:
+1. Linux: The Complete Reference, Richard Peterson, 6th Edition, McGraw Hill, 2008
+2. Programming Perl, Tom Christiansen, Brian D. Foy, Larry Wall, Jon Orwant, 4th
+Edition, Shroff Publishers, 2012
+3. Think Perl 6: How to Think Like a Computer, Allen Downey and Laurent Rosenfeld,
+O’Reilly, 2017
+4. Field Programmable Gate Arrays, John V. Old Field, Richrad C. Dorf, Wiley, 2008
+5. Learning Perl, Randal L. Schwartz, 6th Edition, O’ Reilly, 2011
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1VS08) VLSI PHYSICAL DESIGN AUTOMATION
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Basic concepts of Digital Systems
+COURSE OBJECTIVES:
+• To know VLSI physical design automation
+• To learn concepts related to physical design like floor planning, partitioning and
+placement
+• To learn concepts related to physical design like routing and different routing
+techniques and compaction algorithms
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Study automation process for VLSI System design
+CO-2: Understanding of fundamentals for various physical design CAD tools
+CO-3: Develop and enhance the existing algorithms and computational techniques
+for Physical design process of VLSI systems
+CO-4: Study the Process of VLSI and MCM systems
+CO-5: Understanding of various Routing process and algorithms
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 - 3 2 2 2
+CO-2 2 - 2 3 2 2
+CO-3 2 2 2 2 3 2
+CO-4 2 - 2 2 2 2
+CO-5 2 2 2 3 3 3
+UNIT-I:
+Introduction to VLSI Physical Design Automation: Design Representation, VLSI Design
+Styles, and VLSI Physical Design automation, System Packaging Styles.
+UNIT-II:
+Partitioning: Problem formulation, Design Style Specific Partitioning Problems,
+Classification of Partitioning Algorithms, Group Migration Algorithms- Kernighan-Lin
+Algorithm, Extensions of Kernighan-Lin Algorithm, Ratio Cut, Performance Driven
+Partitioning.
+Floor planning, Design Style Specific Floor planning Problems, Classification of Floor
+planning Algorithms - Constraint Based Floor planning, Rectangular Dualization.
+UNIT-III:
+Pin Assignment - Problem Formulation, Design Style Specific Pin Assignment Problems,
+Classification of Pin Assignment Algorithms, General Pin Assignment, Channel Pin
+Assignment.
+Placement: Problem formulation, Design Style Specific Placement Problems,
+Classification of Placement Algorithms, Simulation based placement algorithms-
+Simulated Annealing, Simulated Evolution, Partitioning based placement algorithms-
+Breuer’s Algorithm, Terminal Propagation Algorithm, Performance driven placement.
+UNIT-IV:
+Global Routing: Problem formulation, classification of global routing, Maze routing
+algorithms- Lee’s Algorithm, Line- Probe algorithms, Performance driven routing.
+Detailed Routing: Problem formulation, Routing Considerations, Routing Models,
+Channel Routing Problems, Classification of Routing Algorithms, Single-Layer Routing
+Algorithms- General River Routing Algorithm, Two-Layer Channel Routing Algorithms-
+Classification, Basic Left-Edge Algorithm, Dogleg Router, Net Merge Channel Router,
+Introduction of three layer and Multi-Layer channel routing concepts, Switch box
+routing.
+UNIT-V:
+Clock and Power Routing: Clock Routing, Clocking schemes, design considerations for
+the clock, Problem formulation, Clock routing algorithms- H-tree Based Algorithm, The
+MMM Algorithm, Skew and Delay reduction by Pin Assignment, Multiple clock routing,
+Power and Ground Routing
+Physical Design Automation of MCM’s: Technologies, physical design cycle,
+partitioning, placement, routing.
+TEXT BOOKS:
+1. Algorithms for VLSI Physical Design Automation, Naveed Sherwani, 3rd Edition, 2005
+2. Algorithms for VLSI Design Automation, S. H. Gerez, Wiley Student Edition, John
+Wiley & Sons, 1999
+3. VLSI Physical Design Automation, Sait, Sadiq M., IEEE, 1995
+REFERENCES:
+1. Computer Aided Logical Design with Emphasis on VLSI, Hill & Peterson, Wiley, 1993
+2. Modern VLSI Design: Systems on Silicon, Wayne Wolf, 2nd EdItion, Pearson, 1998
+3. Physical Design Automation of VLSI Systems, Bryan, Lorenzetti, Michael T.
+4. CMOS VLSI Design: A Circuits and Systems Perspective, Weste Neil H. E., Harris,
+David, 2004
+5. Digital VLSI Design, Ajay Kumar Singh, PHI Learning, 2011
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1ES07) HARDWARE AND SOFTWARE CO-DESIGN
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To know the co-design Issues, prototype and emulation techniques
+• To learn architecture specific techniques
+• To know the different tool for design
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Acquire the knowledge on various models of co-design
+CO-2: Explore the interrelationship between Hardware and software in a embedded
+system
+CO-3: Acquire the knowledge of firmware development process and tools during co-
+design
+CO-4: Implement validation methods and adaptability
+CO-5: Understand deferent languages for systems design and their level specifications
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 1 2 2 3 2
+CO-2 2 1 2 2 3 2
+CO-3 2 1 2 2 3 3
+CO-4 2 1 2 2 3 3
+CO-5 2 1 2 2 3 3
+UNIT–I:
+Co-Design Issues: Co- Design Models, Architectures, Languages, A Generic Co-design
+Methodology.
+Co-Synthesis Algorithms: Hardware software synthesis algorithms: hardware – software
+partitioning distributed system co-synthesis.
+UNIT–II:
+Prototyping and Emulation: Prototyping and emulation techniques, prototyping and
+emulation environments, future developments in emulation and prototyping
+architecture specialization techniques, system communication infrastructure.
+Target Architectures: Architecture Specialization techniques, System Communication
+infrastructure, Target Architecture and Application System classes, Architecture for
+control dominated systems (8051- Architectures for High performance control),
+Architecture for Data dominated systems (ADSP21060, TMS320C60), Mixed Systems.
+UNIT–III:
+Compilation Techniques and Tools for Embedded Processor Architectures: Modern
+embedded architectures, embedded software development needs, compilation
+technologies, practical consideration in a compiler development environment.
+UNIT–IV:
+Design Specification and Verification: Design, co-design, the co-design
+computational model, concurrency coordinating concurrent computations,
+interfacing components, design verification, implementation verification, verification
+tools, and interface verification.
+UNIT–V:
+Languages for System – Level Specification and Design-I: System – level specification,
+design representation for system level synthesis, system level specification languages,
+Languages for System – Level Specification and Design-II: Heterogeneous
+specifications and Multilanguage co-simulation, the cosyma system and lycos system.
+TEXT BOOK:
+1. Hardware / Software Co-Design Principles and Practice, Jorgen Staunstrup, Wayne
+Wolf, Springer, 2009
+REFERENCES:
+1. Hardware / Software Co-Design, Giovanni De Micheli, Mariagiovanna Sami,
+Kluwer Academic Publishers, 2002
+2. A Practical Introduction to Hardware/Software Co-design, Patrick R. Schaumont,
+Springer, 2010
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1VS09) MEMORY TECHNOLOGIES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To introduce the concepts of memory and its classification
+• To understand the issues associated with the selection of application specific
+memory unit
+• To introduce the recent advancements in the design of semiconductor memories
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Select architecture and design semiconductor memory circuits and subsystems
+CO-2: Identify various fault models, modes and mechanisms in semiconductor
+memories and their testing procedures
+CO-3: Learn the different types of memories
+CO-4: Understand the reliability issues in memories
+CO-5: Knowhow of the state-of-the-art memory chip design
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 3 3 2 1 2
+CO-2 2 3 3 2 1 2
+CO-3 2 3 2 2 1 3
+CO-4 2 2 2 - 1 2
+CO-5 2 3 2 2 1 2
+UNIT-I:
+Random Access Memory Technologies: Static Random Access Memories (SRAMs),
+SRAM Cell Structures, MOS SRAM Architecture, MOS SRAM Cell and Peripheral Circuit
+operation, Bipolar SRAM technologies, Advanced SRAM Architectures and
+technologies, Application Specific SRAMs.
+UNIT-II:
+Dynamic Random Access Memory: DRAM technology Development, MOS DRAM Cell
+theory and advanced cell structures, Bi-CMOS DRAM, Error Failures in DRAM,
+Advanced DRAM Design and Architecture, Application Specific DRAMs. SRAM and
+DRAM Memory controllers.
+UNIT-III:
+Non-Volatile Memories: Masked ROMs, High Density ROM, PROMs, Bipolar ROM,
+CMOS PROM, EEPROMs, Floating Gate EPROM Cell, One time programmable EPROM,
+EEPROM technology and architecture, Non-volatile SRAM, Flash Memories.
+UNIT-IV:
+Semiconductor Memory Reliability and Radiation Effects: General Reliability Issues,
+RAM Failure modes and mechanism, Non-volatile Memory reliability, reliability
+modeling and failure rate prediction. Design for reliability, Reliability Test structures,
+screening and qualification, Radiation Effects, Single Event Phenomenon (SEP),
+Radiation Hardening Techniques, process and design issues. Radiation Hardened
+Memory Characteristics, Radiation Hardness Assurance and Testing.
+UNIT-V:
+Advanced Memory Technologies and High-density Memory Packing Technologies
+Ferroelectric Random Access Memories
+(FRAMs), Gallium Arsenide (GaAs) FRAMs, Analog Memories, Magneto Resistive
+Random Access Memories (MRAMs), Experimental Memory Devices.
+TEXT BOOKS:
+1. Advanced Semiconductor Memories: Architectures, Designs, and Applications,
+Ashok K. Sharma, Wiley-IEEE Press, 2002
+2. VLSI Memory Chip Design, KiyooItoh, Springer, 2001
+3. Semiconductor Memories: Technology, Testing and Reliability, Ashok K. Sharma,
+Wiley- Blackwell, 2002
+REFERENCES:
+1. Modern Semiconductor Devices for Integrated Circuits, Chenming C. Hu, 1st
+Edition, Pearson, 2009
+2. Design of Analog CMOS Integrated Circuits, Behzad Razavi, TMH
+3. CMOS: Circuit Design, Layout and Simulation, Baker, Li and Boyce, PHI
+4. CMOS Analog IC Design: Fundamentals, Erik Brunn
+5. VLSI Digital Signal Processing Systems, Keshab K. Parhi, Wiley, 2015
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1ES08) IMAGE AND VIDEO PROCESSING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To introduce the fundamental differences between image and video processing
+• To understand various filtering operations essential for image/video processing
+• To introduce the concept of compression with reference to image and video
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the fundamentals of digital image processing
+CO-2: Appreciate the advantages of compression in image /video processing
+CO-3: Understand the concepts of video formation, sampling and representation
+CO-4: Understand the principles of motion estimation in a video
+CO-5: Analyze the principles of multi-dimensional estimation with reference to a video
+signal
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 2 3 - - -
+CO-2 2 2 3 - - -
+CO-3 2 2 3 - - -
+CO-4 2 2 3 2 - -
+CO-5 2 2 3 2 - -
+UNIT-I:
+Fundamentals of Image Processing: Basic steps of Image processing system sampling
+and quantization of an Image – Basic relationship between pixels
+Image Transforms: 2 – D Discrete Fourier Transform, Discrete Cosine Transform (DCT),
+Introduction to wavelet Transform, Continuous wavelet Transform, Discrete wavelet
+Transform, Filter banks
+UNIT-II:
+Image Enhancement:
+Spatial Domain Methods: Histogram Processing, Fundamentals of Spatial Filtering,
+Smoothing Spatial filters, Sharpening Spatial filters
+Frequency Domain Methods: Basics of filtering in frequency domain, image
+smoothing, image sharpening, selective filtering
+UNIT-III:
+Segmentation: Segmentation concepts, Point, Line and Edge Detection, Edge Linking
+using Hough Transform, Thresholding, Region Based segmentation.
+Morphological Image Processing
+Dilation and Erosion, Opening and closing, the hit or miss Transformation, Overview of
+Digital Image Watermarking Methods
+UNIT-IV:
+Image Compression: Image compression fundamentals – Coding Redundancy,
+Spatial and Temporal Redundancy. Compression Models: Lossy and Lossless,
+Huffmann Coding, Arithmetic Coding, LZW Coding, Run Length Coding, Bit Plane
+Coding, Transform Coding, Predictive Coding, Wavelet Coding, Wavelet Based
+Image Compression, JPEG standards.
+Image Restoration: Degradation Models, PSF, Circulant And Block - Circulant Matrices,
+Deconvolution, Restoration Using Inverse Filtering, Wiener Filtering.
+UNIT-V:
+Basic Steps of Video Processing: Analog video, Digital Video, Time varying Image
+Formation Models: 3D Motion Models, Geometric Image Formation, Photometric
+Image Formation, Sampling of Video Signals, Filtering Operations
+2-D Motion Estimation: Optical Flow, General Methodologies, Pixel Based Motion
+Estimation, Block Matching Algorithm, Mesh based Motion Estimation, Global Motion
+Estimation, Region based Motion Estimation, Multi Resolution Motion Estimation.
+Waveform based Coding, Block based Transform Coding, Predictive Coding,
+Application of Motion Estimation in video Coding. Overview of motion compensated
+hybrid coding (MPEG & H-264)
+TEXT BOOKS:
+1. Digital Image Processing, Gonzaleze and Woods, 3rd Edition, Pearson
+2. Video Processing and Communication, Yao Wang, Joern Ostermann and Ya-Qin
+Zhang, 1st Edition, Prentice Hall
+3. Digital Video Processing, M. Tekalp, Prentice Hall International
+REFERENCES:
+1. Digital Signal Processing: Principles, Algorithms & Applications, J. G. Proakis & D. G.
+Manolokis, 4th Edition, PHI, 2001
+2. Adaptive Filter Theory, S. Haykin Pearson, 2003
+3. DSP–A Practical Approach, Emmanuel C. I. Feacher, Barrie W. Jervis, 2nd Edition,
+Pearson Education, 2008
+4. Modern Spectral Estimation: Theory & Application, S. M. Kay, 1988, PHI
+5. H-264 & MPEG-4 Video Compression, Video Coding for Next Generation
+multimedia, I. E. Richardson, John Wiley & Sons, 2009
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1VS10) OPTIMIZATION TECHNIQUES IN VLSI DESIGN
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Low Power VLSI Design, Device Modeling and CAD for VLSI
+COURSE OBJECTIVES:
+• To understand various statistical modeling methodologies
+• To analyze different estimation techniques
+• To learn concepts of optimization algorithms
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply the appropriate design modeling practices for emerging IC technologies
+CO-2: Design the systems by using statistical analysis methods
+CO-3: Design the low power digital systems by applying appropriate partitioning and
+Floor planning algorithms
+CO-4: Design the real time applications using optimization techniques like Genetic
+Algorithms
+CO-5: To compare performance of systems in terms of power
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 2 3 2 2 3
+CO-2 2 - 3 2 2 3
+CO-3 2 - 3 3 2 3
+CO-4 2 - 3 3 2 3
+CO-5 3 2 3 - 2 -
+UNIT-I:
+Statistical Modeling: Modeling sources of variations, Monte Carlo techniques, Process
+variation Modeling- Pelgrom's model, Principle component-based modeling, Quad
+tree based modeling, Performance modeling-Response surface methodology, delay
+modeling, interconnect delay models.
+UNIT-II:
+Statistical Performance, Power and Yield Analysis: Statistical timing analysis,
+parameter space techniques, Bayesian networks Leakage models, High level
+statistical analysis, Gate level statistical analysis, dynamic power, leakage power,
+temperature and power supply variations, High level yield estimation and gate level
+yield estimation.
+UNIT-III:
+Convex Optimization: Convex sets, convex functions, geometric programming, trade-
+off and sensitivity analysis, Generalized geometric programming, geometric
+programming applied to digital circuit gate sizing, Floor planning, wire sizing,
+Approximation and fitting- Monomial fitting, Maxmonomial fitting, Posynomial fitting.
+UNIT-IV:
+Genetic Algorithm: Introduction, GA Technology-Steady State Algorithm-Fitness
+Scaling-Inversion GA for VLSI Design, Layout and Test automation- partitioning-
+automatic placement, routing technology, Mapping for FPGA- Automatic test
+generation- Partitioning algorithm Taxonomy-Multi-way Partitioning Hybrid genetic-
+encoding-local improvement-WDFR Comparison of CAS-Standard cell placement-
+GASP algorithm- unified algorithm.
+UNIT-V:
+GA Routing Procedures: Global routing-FPGA technology mapping-circuit
+generation-test generation in a GA frame work-test generation procedure.
+Power Estimation: Power estimation-application of GA-Standard cell placement-GA
+for ATG-problem encoding- fitness function-GA vs. Conventional algorithm.
+TEXT BOOKS:
+1. Statistical Analysis and Optimization for VLSI: Timing and Power, Ashish Srivastava,
+Dennis Sylvester, David Blaauw, Springer, 2005
+2. Genetic Algorithm for VLSI Design, Layout and Test Automation, Pinaki Mazumder,
+E. Mrudnick, Prentice Hall, 1998
+3. Convex Optimization, Stephen Boyd, Lieven Vandenberghe, Cambridge University
+Press, 2004
+REFERENCES:
+1. VLSI Digital Signal Processing Systems, Keshab K. Parhi, Wiley, 2015
+2. Logic in Computer Science Modeling and Reasoning about Systems, M. Huth and
+M. Ryan, Cambridge University Press, 2004
+3. Essentials of Electronic Testing for Digital, Memory & Mixed, Signal Circuits, Bushnell
+and Agrawal, Kluwer Academic Publishers, 2000
+4. Algorithms for VLSI Design Automation, S. H. Gerez, Wiley Student Edition, John
+Wiley & Sons, 1999
+5. VLSI Physical Design Automation, Sait, Sadiq M., IEEE, 1995
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1VS11) LOW POWER VLSI DESIGN
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Digital IC Design
+COURSE OBJECTIVES:
+• To understand the low power issues in VLSI circuits
+• To design various circuits for optimize power
+• To understand case study of low power design
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Identify the sources of power dissipation in digital IC systems
+CO-2: Understand the impact of power on system performance and reliability
+CO-3: Characterize and model power consumption & understand the basic analysis
+methods
+CO-4: Design various low power and high performance adders and multipliers
+CO-5: Understand leakage sources and reduction techniques in memories
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 2 2 2 2 2
+CO-2 1 - 2 3 - 2
+CO-3 1 2 - - - 2
+CO-4 3 3 2 3 2 3
+CO-5 2 2 2 3 3 3
+UNIT-I:
+Fundamentals: Need for Low Power Circuit Design, Sources of Power Dissipation –
+Switching Power Dissipation, Short Circuit Power Dissipation, Glitching Power
+Dissipation, Static Power Dissipation and sources of leakage power dissipation.
+Low-Power Design through Voltage Scaling: VTCMOS circuits, MTCMOS circuits,
+Architectural Level Approach –Pipelining and Parallel Processing Approaches.
+Low-Power Design Approaches: Switched Capacitance Minimization Approaches-
+System Level Measures, Circuit Level Measures, Mask level Measures.
+UNIT-II:
+Power Estimation-1: Modeling of signals, signal probability calculation, probabilistic
+techniques for signal activity estimation- switching activity in combinational circuits,
+switching activity in sequential circuits. Statistical techniques-Estimating average
+power in combinational Circuits and sequential circuits
+UNIT-III:
+Power Estimation-2: Estimation of Glitching Power, Sensitive analysis, Power Estimation
+using input vector compaction, Power Dissipation in domino CMOS, Circuit Reliability,
+Power estimation at the circuit level, High level power estimation, Estimation of
+maximum power.
+UNIT-IV:
+Low-Voltage Low-Power Adders: Introduction, Standard Adder Cells, CMOS Adder’s
+Architectures – Ripple Carry Adders, Carry Look- Ahead Adders, Carry Select Adders,
+Carry Save Adders, Low-Voltage Low-Power Design Techniques –Trends of Technology
+and Power Supply Voltage, Low-Voltage Low-Power Logic Styles.
+UNIT-V:
+Low-Voltage Low-Power Multipliers: Introduction, Overview of Multiplication, Types of
+Multiplier Architectures, Braun Multiplier, Baugh- Wooley Multiplier, Booth Multiplier.
+Low Power Memory Design: Basics of ROM, Low-Power ROM Technology, Future Trend
+and Development of ROMs, Basics of SRAM, Memory Cell, Precharge and Equalization
+Circuit, Low-Power SRAM Technologies, Basics of DRAM, Self-Refresh Circuit.
+TEXT BOOKS:
+1. CMOS Digital Integrated Circuits-Analysis and Design, Sung-MO Kang and Yusuf
+Leblebici, 3rd Edition, Tata McGraw Hill Edition, 2004
+2. Power CMOS VLSI Circuit Design, Kaushik Roy and Sharat C. Prasad, John Wiley &
+Sons, 2011
+3. Low-Voltage, Low-Power VLSI Subsystems, Kiat-Seng Yeo and Kaushik Roy, Tata
+McGraw-Hill, 2009
+REFERENCES:
+1. Low voltage CMOS VLSI Circuits, Low-Voltage, Low-Power VLSI Subsystems, J. B.
+Kulo and J. H. Lou, Wiley, 1999
+2. Introduction to VLSI Systems: A Logic, Circuit and System Perspective, Ming-BO Lin,
+CRC Press, 2011
+3. Principles of CMOS VLSI Design, Neil H. E. Weste and Kamran Eshraghian, 2nd
+Edition, Addision Wesley, 1998
+4. Design of Analog CMOS Integrated Circuits, Behzad Razavi, TMH
+5. CMOS: Circuit Design, Layout and Simulation, Baker, Li and Boyce, PHI
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1VS12) NANOMATERIALS AND NANOTECHNOLOGY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Quantum Physics
+COURSE OBJECTIVES:
+• To learn the basics of nanotechnology
+• To demonstrate understanding characterization techniques for nano materials
+• To develop the knowledge of various nanotechnology techniques
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the basic physics behind the design and fabrication of nano scale
+systems
+CO-2: Understand and formulate new engineering solutions for device applications
+CO-3: Make inter disciplinary projects applicable to wide areas in the system
+development
+CO-4: Know the fabrication and characterization of devices for electronic
+applications
+CO-5: Distinguish various individual nanotech implementations
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 - 2 1 - 3
+CO-2 1 - 2 1 - 3
+CO-3 2 2 2 2 2 2
+CO-4 2 2 2 2 2 3
+CO-5 2 2 2 2 2 3
+UNIT-I:
+Introduction of nanomaterials and nanotechnologies, Features of nanostructures,
+Applications of nanomaterials and technologies.
+Nano dimensional Materials 0D, 1D, 2D structures – Size Effects – Fraction of Surface
+Atoms – specific Surface Energy and Surface Stress – Effect on the Lattice Parameter
+– Phonon Density of States – the General Methods available for the Synthesis of
+Nanostrutures – precipitative – reactive – hydrothermal/solvo thermal methods –
+suitability of such methods for scaling – potential Uses.
+UNIT-II:
+Fundamentals of nanomaterials, Classification, Zero-dimensional nanomaterials, One-
+dimensional nanomaterials, Two-dimensional nanomaterials, Three dimensional
+nanomaterials. Low-Dimensional Nanomaterials and its Applications, Synthesis,
+Properties, and Applications of Low-Dimensional Carbon-Related Nanomaterials.
+UNIT-III:
+Micro- and Nanolithography Techniques, Emerging Applications
+Introduction to Micro electro mechanical Systems (MEMS), Advantages and
+Challenges of MEMS, Fabrication Technologies, Surface Micromachining, Bulk
+Micromachining, Molding.
+Introduction to Nano Phonics.
+UNIT-IV:
+Introduction, Synthesis of CNTs - Arc-discharge, Laser-ablation, Catalytic growth,
+Growth mechanisms of CNT’s - Multi-walled nanotubes, Single-walled nanotubes
+Optical properties of CNT’s, Electrical transport in perfect nanotubes, Applications as
+case studies. Synthesis and Applications of CNT's.
+UNIT-V:
+Nanotechnology for waste reduction and improved energy efficiency,
+nanotechnology based water treatment strategies. Nanoporous polymers and their
+applications in water purification, Nanotoxicology. Use of nanoparticles for
+environmental remediation and water treatment. Case studies and Regulatory needs.
+Ferroelectric materials, coating, molecular electronics and nanoelectronics,
+biological and environmental, membrane based application, polymer based
+application.
+TEXT BOOKS:
+1. Nanoscale Materials in Chemistry, Kenneth J. Klabunde and Ryan M. Richards, 2nd
+Edition, John Wiley & Sons, 2009
+2. Nanocrystalline Materials, I. Gusev and A. A. Rempel, 1st Indian Edition, Cambridge
+International Science Publishing, Viva Books Pvt. Ltd., 2008
+3. Nanoscience and Nanotechnology, B. S. Murty, P. Shankar, Baldev Raj, B. B. Rath,
+James Murday, Tata McGraw Hill Education, 2012
+REFERENCES:
+1. Springer Handbook of Nanotechnology, Bharat Bhushan, 3rd Edition, Springer, 2010
+2. Carbon Nanotubes: Synthesis, Characterization and Applications, Kamal K. Kar, 1st
+Edition, Research Publishing Services, 2011
+3. Introduction to VLSI Systems: A Logic, Circuit and System Perspective, Ming-BO Lin,
+CRC Press, 2011
+4. Principles of CMOS VLSI Design, Neil H. E. Weste and Kamran Eshraghian, 2nd
+Edition, Addision Wesley, 1998
+5. Design of Analog CMOS Integrated Circuits, Behzad Razavi, TMH
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1VS13) PATTERN RECOGNITION AND MACHINE LEARNING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Statistics and Linear Algebra
+COURSE OBJECTIVES:
+• To understand the mathematical formulation of patterns
+• To study the various linear models
+• To understand the basic classifiers
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Familiarize with the basics of pattern classes and functionality
+CO-2: Construct the various linear models
+CO-3: Use the different kernel methods
+CO-4: Design the Markov and Mixed models
+CO-5: Distinguish different models in machine learning
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 3 3 3 2 1
+CO-2 2 2 2 2 2 2
+CO-3 2 2 2 3 2 1
+CO-4 - 2 2 3 2 2
+CO-5 2 2 2 2 2 2
+UNIT-I:
+Introduction to Pattern Recognition: Mathematical Formulation and Basic Functional
+Equation, Reduction of Dimensionality, Experiments in Pattern Classification,
+Backward Procedure for Both Feature Ordering- and Pattern Classification,
+Suboptimal Sequential Pattern Recognition, Nonparametric Design of Sequential
+Pattern Classifiers, Analysis of Optimal Performance and a Multiclass Generalization
+UNIT-II:
+Linear Models: Linear Basis Function Models -Maximum likelihood and least squares,
+Geometry of least squares , Sequential learning, Regularized least squares, Multiple
+outputs , The Bias-Variance Decomposition, Bayesian Linear Regression -Parameter
+distribution, Predictive, Equivalent, Bayesian Model Comparison, Probabilistic
+Generative Models-Continuous inputs, Maximum likelihood solution, Discrete features,
+Exponential family, Probabilistic Discriminative Models -Fixed basis functions, Logistic
+regression, Iterative reweighted least squares, Multiclass logistic regression, Probit
+regression, Canonical link functions
+UNIT-III:
+Kernel Methods: Constructing Kernels, Radial Basis Function Networks - Nadaraya-
+Watson model, Gaussian Processes -Linear regression revisited, Gaussian processes for
+regression, Learning the hyper parameters, Automatic relevance determination,
+Gaussian processes for classification, Laplace approximation, Connection to neural
+networks, Sparse Kernel Machines- Maximum Margin Classifiers, Overlapping class
+distributions, Relation to logistic regression, Multiclass SVMs, SVMs for regression,
+Computational learning theory, Relevance Vector Machines- RVM for regression,
+Analysis of sparsity, RVM for classification
+UNIT-IV:
+Graphical Models: Bayesian Networks, Example: Polynomial regression, Generative
+models, Discrete variables, Linear-Gaussian models, Conditional Independence-
+Three example graphs, D-separation, Markov Random Fields -Conditional
+independence properties, Factorization properties, Illustration: Image de-noising,
+Relation to directed graphs, Inference in Graphical Models- Inference on a chain,
+Trees, Factor graphs, The sum-product algorithm, The max-sum algorithm, Exact
+inference in general graphs, Loopy belief propagation, Learning the graph structure.
+UNIT-V:
+Mixture Models and EM Algorithm: K-means Clustering-Image segmentation and
+compression, Mixtures of Gaussians-Maximum likelihood, EM for Gaussian mixtures, An
+Alternative View of EM- Gaussian mixtures revisited, Relation to K-means, Mixtures of
+Bernoulli distributions, EM for Bayesian linear regression, The EM Algorithm in General,
+Combining Models- Tree-based Models, Conditional Mixture Models- Mixtures of linear
+regression models, Mixtures of logistic models, Mixtures of experts.
+TEXT BOOKS:
+1. Sequential methods in Pattern Recognition and Machine Learning, K. S. Fu,
+Academic Press, Volume No. 52
+2. Pattern Recognition and Machine Learning, C. Bishop, Springer, 2006
+3. Pattern Classification, Richard O. Duda, Peter E. Hart, David G. Stork, 2nd Edition,
+John Wiley & Sons, 2001
+REFERENCES:
+1. The Elements of Statistical Learning, Trevor Hastie, Robert Tibshirani, Jerome H.
+Friedman, 2nd Edition, Springer, 2009
+2. Digital Signal Processing: Principles, Algorithms & Applications, J. G. Proakis & D. G.
+Manolokis, 4th Edition, PHI, 2001
+3. Adaptive Filter Theory, S. Haykin Pearson, 2003
+4. DSP–A Practical Approach, Emmanuel C. I. Feacher, Barrie. W. Jervis, 2nd Edition,
+Pearson Education, 2008
+5. Modern Spectral Estimation: Theory & Application, S. M. Kay, 1988, PHI
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1ES11) COMMUNICATION BUSES AND INTERFACES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To know how to select the suitable Buses for different applications
+• To know the architecture of CAN and applications
+• To understand the use of PCIe, USB etc.
+• To know the serial communication protocol
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Select a particular serial bus suitable for a particular application
+CO-2: Develop APIs for configuration, reading and writing data onto serial bus
+CO-3: Design and develop peripherals that can be interfaced to desired serial bus
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 - 2 2 - -
+CO-2 2 - - 1 - -
+CO-3 3 - - 1 - 2
+UNIT–I:
+Serial Busses - Physical interface, Data and Control signals, features, limitations and
+applications of RS232, RS485, I2C, SPI
+UNIT–II:
+CAN - Architecture, Data transmission, Layers, Frame formats, applications
+UNIT–III:
+PCIe - Revisions, Configuration space, Hardware protocols, applications
+UNIT–IV:
+USB - Transfer types, enumeration, Descriptor types and contents, Device driver
+UNIT–V:
+Data Streaming Serial Communication Protocol - Serial Front Panel Data Port (SFPDP)
+using fiber optic and copper cable
+TEXT BOOKS:
+1. Serial Port Complete - COM Ports, USB Virtual Com Ports, and Ports for Embedded
+Systems, Jan Axelson, 2nd Edition, Lakeview Research
+2. USB Complete, Jan Axelson, Penram Publications
+3. PCI Express Technology, Mike Jackson, Ravi Budruk, Mindshare Press
+REFERENCES:
+1. A Comprehensible Guide to Controller Area Network, Wilfried Voss, 2nd Edition,
+Copperhill Media Corporation, 2005
+2. Serial Front Panel Draft Standard VITA 17.1 –200x
+3. Technical references onwww.can-cia.org,
+http://www.pcisig.com/www.pcisig.com,
+4. http://www.usb.org/www.usb.org
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PC1CP05) INTERNET OF THINGS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To introduce the terminology, technology, concept of M2M (machine to machine)
+and its applications
+• To introduce the Python scripting language which issued in many IoT devices
+• To introduce the IOT in different domains, system management with NETCONF-
+YANG
+• To introduce the hardware and working principles of various sensors used for IoT
+• To introduce the Raspberry PI platform, design and implementation of web
+application Frame work used in IoT applications
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understanding the physical and logical design of the Internet of Things, IoT &
+M2M
+CO-2: Analyzing various applications of Internet of Things in various domain, NETCONF-
+YANG
+CO-3: Creating logical design of IoT Systems using Python
+CO4: Understanding the hardware and working principles of various sensors used for
+IoT
+CO5: Creating web application framework design using Raspberry PI platform and
+RESTful web API
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 2 1 2 2 3
+CO-2 3 1 2 2 3 3
+CO-3 1 1 2 2 2 3
+CO-4 2 2 2 2 2 2
+CO-5 1 2 3 3 2 2
+UNIT–I:
+Introduction to Internet of Things: Definition and Characteristics of IoT, Physical Design
+of IoT –IoT Protocols, IoT communication models, IoT Communication APIs, IoT enabled
+Technologies –Wireless Sensor Networks, Cloud Computing, Bigdata analytics,
+Communication protocols, Embedded Systems, IoT Levels and Templates.
+IOT and M2M: Introduction, M2M, Difference between IOT and M2M, SDN and NFV for
+IOT
+UNIT–II:
+Domain Specific IoTs: Home, City, Environment, Energy, Retail, Logistics, Agriculture,
+Industry, health and Lifestyle
+System Management with NETCONF-YANG: Software defined Networking, Network
+Function Virtualization, Need for IOT Systems Management, Simple Network
+Management Protocol, Limitations of SNMP, Network Operator Requirements,
+NETCONF, YANG, IOT Systems management with NETCONF-YANG
+UNIT-III:
+Introduction To Python: Language features of Python, Data types, data structures,
+Control of flow, functions, modules, packaging, file handling, data/time operations,
+classes, Exception handling Python packages -JSON,XML, HTTPLib, URLLib, SMTPLib
+UNIT-IV:
+IoT Physical Devices and Endpoints: Introduction to Raspberry Pi- Installation,
+Interfaces (serial, SPI, I2C), and Programming – Python program with Raspberry PI with
+focus on interfacing external gadgets, controlling output, reading input from pins. IoT
+Physical Servers and Cloud Offerings – Introduction to Cloud Storage models and
+communication APIs Webserver – Web server for IoT, Cloud for IoT, Python web
+application framework designing a RESTful web API
+UNIT-V:
+Controlling Hardware: Connecting LED, Buzzer, Switching High Power devices with
+transistors, Controlling AC Power devices with Relays, Controlling servo motor, speed
+control of DC Motor, Using unipolar and bipolar Stepper motors
+Digital input- Sensing push switch, pull-up and pull-down resistors, Rotary encoder,
+Using keypad, Using RTC Sensors: Light sensor, temperature sensor with thermistor,
+voltage sensor, ADC and ADC, Temperature and Humidity Sensor DHT11, Read Switch,
+Distance Measurement with ultrasound sensor
+TEXT BOOKS:
+1. Internet of Things - A Hands-on Approach, Arshdeep Bahga and Vijay Madisetti,
+Universities Press, 2015
+2. Getting Started with Raspberry Pi, Matt Richardson & Shawn Wallace, O'Reilly
+(SPD), 2014
+3. Raspberry Pi Cookbook, Software and Hardware Problems and Solutions, Simon
+Monk, O'Reilly (SPD), 2016
+REFERENCES:
+1. Designing the Internet of Things, Adrian McEwen, Hakim Cassimally, Wiley, 2014
+2. The Internet of Things, Samuel Greengard, MIT Press, Cambridge, 2015
+3. Internet of Things: Principles and Paradigms, Rajkumar Buyya, Amir Vahid Dastjerdi,
+Morgan Kaufman, 2016
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PC2VS03) VLSI DESIGN FOR TESTABILITY LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE PRE-REQUISITES: Verilog HDL, Digital Design
+COURSE OBJECTIVES:
+• To know digital building blocks, test benches and verify the functionality using HDL
+• To Study the verification concepts using System Verilog
+• To learn principles of verification using System Verilog and design test benches
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Verify increasingly complex designs more efficiently and effectively
+CO-2: Interpret flexible and reliable SV verification environment, whose components
+can be re-used across multiple projects
+CO-3: Utilize randomization and OOP concepts of SV to build complex digital systems
+CO-4: Generate the netlist files and analyze the device utilization summary
+CO-5: Implement the complete DFT flow for VLSI designs
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 3 2 2 3 3
+CO-2 2 2 1 3 2 2
+CO-3 3 2 2 1 1 3
+CO-4 2 2 1 2 3 3
+CO-5 2 3 1 2 2 3
+LIST OF EXPERIMENTS:
+Implementation of the following designs using CAD Tools:
+1. For the following Designs, develop System Verilog Code and test bench with
+randomized test vectors then connect the modules using System Verilog interfaces
+that consist of clocking blocks and mod ports. Verify the functionality, analyze the
+coverage report and synthesize the designs
+a) function f (A, B, C, D) =∑ {0,2,3,5,7} using 4X1 Multiplexer.
+b) 4 to 16 decoder.
+c) 3-bit ALU.
+d) 4-bit up/down-counter.
+e) 4-bit Universal shift register.
+f) 4-bit synchronous SISO shift register.
+g) 2-port arbiter.
+h) Sequence Detector
+2. Implement the complete DFT flow (DFT Scan, DFT Insertion, Building Scan Chain
+and ATPG) for the following Designs
+a) 4-bit Linear feedback shift register
+b) 1100 overlapping mealy sequence
+c) 1001 or 0110 non overlapping mealy sequence
+d) ALU with 8 operations (4 Logical / 4 Arithmetic)
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PC2VS04) MIXED SIGNAL AND SCRIPTING LANGUAGES LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE PRE-REQUISITES: Analog and Digital IC Design
+COURSE OBJECTIVES:
+• To understand the design of mixed circuit using EDA tools
+• To understand the accurate design of transistor circuits
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Design mixed IC circuits that can meet the high-speed requirements of digital
+circuitry
+CO-2: Analyze the performance of the mixed IC Circuits using CAD tools
+CO-3: Understand the command required to access Linux Operating System
+CO-4: Develop the TCL scripts which are required to ease the VLSI Design process
+CO-5: Create PERL & PYTHON scripts to help in analyzing the reports in VLSI Design
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 - 3 3 3 2
+CO-2 2 - 3 3 3 2
+CO-3 2 - 3 3 3 2
+CO-4 2 - 3 3 2 2
+CO-5 2 - 3 3 3 2
+LIST OF EXPERIMENTS:
+Cycle-1:
+Implementation of the following designs using CAD Tools:
+1. High speed comparator design-Two stage cross coupled clamped comparator
+2. Design of High Speed Dynamic Latch Comparator
+3. Design of Flash ADC
+4. Design of LNA
+5. Implementation of VCO
+6. Implementation of PFD
+Cycle-2:
+Practice the Linux Commands
+1. Write the commands to create a Directory, change to the created directory, get
+the path of it using pwd, to remove a directory, files from directory, and empty
+directory.
+2. View the contents in a File using less and more commands
+3. Write a command which extract information from a particular word using grep
+command
+4. Read a file and copy the data into another file using “>” operator, Create a file
+using vim and write a script to print “Hello world” using echo, Copy a file in another
+location and find the difference between copy and move.
+5. Write a script to read 10 lines in forward and backward direction using tac and cat
+6. Find the list of files contains the read write execute function for users, admin and
+viewer using “ls” command.
+Cycle-3:
+Write Perl, TCL and PYTHON Scripting programs for the following
+1. Create a PERL script to extract name and mobile number from the given file.
+2. Create a PERL script to print N even number (use For, foreach, while loops).
+3. Create a PERL script to obtain the factorial of a given number using of subroutines.
+4. Write a TCL script to create an array with numbers, Print the second value from the
+array and add the third value of the array with a value of 30 using “expr” and store
+it in the second name of the array and print the updated elements of the array.
+5. Write a TCL Script to find the sum of the arguments using the “args” keyword that
+are passed in a procedure block.
+6. Write a TCL script o take user inputs, print on a file, and find the length of the file
+using exec.
+7. Develop a script to analyze the Reports generated in VLSI Design.
+8. Write a python program by using control flow statements.
+9. Write a python program on different operations.
+10. Develop python scripts using lists, arrays and strings
+11. Write a program to compute the number of characters, words and lines in a file.
+12. Develop python programs on files and functions.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PW4VS02) MINI-PROJECT
+TEACHING SCHEME
+L T/P C CIE SEE TOTAL
+0 4 2 40 60 100
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the formulated industry / technical / societal problems
+CO-2: Analyze and / or develop models for providing solution to industry / technical / societal
+problems
+CO-3: Interpret and arrive at conclusions from the project carried out
+CO-4: Demonstrate effective communication skills through oral presentation
+CO-5: Engage in effective written communication through project report
+COURSE OUTLINE:
+• A student shall undergo a mini-project during II semester of the M.Tech. programme.
+• A student, under the supervision of a faculty member, shall collect literature on an allotted
+project topic of his / her choice, critically review the literature, carry out the project work,
+submit it to the department in a prescribed report form and shall make an oral presentation
+before the departmental Project Review Committee.
+• Evaluation of the mini-project shall consist of CIE and SEE and shall be done by a Project
+Review Committee (PRC) consisting of the Head of the Department, faculty supervisor and
+a senior faculty member of the specialization / department.
+• CIE shall be carried out for 40 marks on the basis of review presentation as per the calendar
+dates and evaluation format.
+• SEE shall be carried out at the end of semester fpr 60 marks on the basis of oral presentation
+and submission of mini-project report.
+• Prior to the submission of mini-project report to the PRC, its soft copy shall be submitted to
+the PG Coordinator for PLAGIARISM check.
+• The mini-project report shall be accepted for submission to the PRC only upon meeting the
+prescribed similarity index of less than 25%.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22MN6HS02) ANCIENT WISDOM
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE-I SE-II SEE TOTAL
+2 0 0 50 50 - 100
+COURSE OBJECTIVES:
+• To introduce the contribution from Ancient Indian system & tradition to modern
+science & Technology
+• To trace, identify and develop the ancient knowledge systems
+• To introduce the sense of responsibility, duties and participation of individual for
+establishment of fearless society
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Familiarize learners with major sequential development in Indian science,
+engineering and technology
+CO-2: Understand eco-friendly, robust and scientific planning and architecture system
+of ancient India
+CO-3: Trace, identify, practice and develop the significant Indian mathematic and
+astronomical knowledge
+CO-4: Understand the importance of Indian aesthetics in individual realization of the
+truth arises by realizing the harmony within
+UNIT-I:
+Indian Science & Technology: Indian S & T Heritage, sixty-four art forms and
+occupational skills (64 Kalas)
+Ancient Architecture:
+Scientific Achievements though Ancient Architect: Musical Pillars of Vitthal temple,
+Sundial of konark temple, construction of eight shiva temple in straight line from
+Kedarnath to rameshwaram at longitude 79oE 41’54, Veerbhadra temple with 70
+hanging pillars
+UNIT-II:
+Foundation Concept for Science and Technology: The Introduction to Ancient
+Mathematics & Astronomy Introduction to Brief introduction of inception of
+Mathematics & Astronomy from vedic periods. Details of different authors who has
+given mathematical & astronomical sutra (e.g. arytabhatta, bhaskara, brahmagupta,
+varamahira, budhyana, yajanvlkya, panini, pingala, 22 bharat muni, sripati,
+mahaviracharya, madhava, Nilakantha somyaji, jyeshthadeva, bhaskara-II, shridhara
+Number System and Units of Measurement, concept of zero and its importance, Large
+numbers & their representation, Place Value of Numerals, Decimal System,
+Measurements for time, distance and weight, Unique approaches to represent
+numbers (Bhūta Saṃkhya System, Kaṭapayādi System), Pingala and the Binary system,
+Knowledge Pyramid
+Indian Mathematics, Great Mathematicians and their contributions, Arithmetic
+Operations, Geometry (Sulba Sutras, Aryabhatiya-bhasya), value of 𝜋, Trigonometry,
+Algebra, Chandah Sastra of Pingala, Indian Astronomy, celestial coordinate system,
+Elements of the Indian Calendar Aryabhatiya and the Siddhantic Tradition Pancanga
+– The Indian Calendar System
+UNIT-III:
+Humanities & Social Sciences: Health, Wellness & Psychology, Ayurveda Sleep and
+Food, Role of water in wellbeing Yoga way of life Indian approach to Psychology, the
+Triguṇa System Body-Mind-IntellectConsciousness Complex. Governance, Public
+Administration & Management reference to ramayana, Artha Sastra, Kauṭilyan State
+UNIT-IV:
+Aspiration and Purpose of Individual and Human Society: Aims of Human life; at
+individual level and societal level. At societal level; Four purusarthas Dharma, Artha,
+Kama, Moksha.
+Individual Level:
+Program for Ensuring Human Purpose:
+Fundamental Concept of Nitishastra: Satyanishtha Aur Abhiruchi (Ethics, Integrity &
+aptitude). The true nature of self; Shiksha Valli, Bhrigu Valli (concept of Atman-
+Brahman (self, soul).
+The True Constitution of Human: Ananda Valli (Annamaya Kosha, Pranamaya Kosha,
+Manomaya Kosha, Vijnanamaya Kosha, Anandamaya Kosha). The four states of
+consciousness (Waking state, Dreaming state, Deep Sleep State, Turiya the fourth
+state), Consciousness (seven limbs and nineteen mouths), Prajna, Awarness. The Life
+Force Prana (Praana-Apaana-Vyaana-Udaana- Samaana
+Ancient Indian Science (Ayurveda & Yoga)
+Ayurveda for Life, Health and Well-being: Introduction to Ayurveda: understanding
+Human body and Pancha maha bhuta, the communication between body & mind,
+health
+Introduction to Yoga: Definition, Meaning and objectives of Yoga, Relevance of yoga
+in modern age. the six cleansing procedures of Yoga, understanding of Indian
+psychological concept, consciousness, tridosha & triguna.
+UNIT-V:
+Five Important Slokas for Enlightenment
+Gayatri Mantram, Santi Mantram: Asatoma Sadgamaya, Geeta (Yada Yadahi
+Dharmasya, Glanirbhavati Bharata), Amanitwam Adambitwam..,
+Karmanyevadikarastu… Maa phaleshukadachana
+TEXT BOOKS:
+1. Textbook on Indian Knowledge Systems, Prof. B Mahadevan, IIM Bengaluru
+2. Indian Knowledge Systems, Kapur K. and Singh A. K., 2005
+REFERENCES:
+1. Tatvabodh of Sankaracharya, Central Chinmay Mission Trust, Bombay, 1995
+2. Value and Distribution System in India, B. L. Gupta, Gyan Publication House
+3. Ancient Indian Culture and Civilization, Reshmi Ramdhoni, Star Publication, 2018
+4. Ancient Indian Society, Maharaj Swami Chidatmanjee, Anmol Publication
+5. Ancient Indian Classical Music, Lalita Ramkrishna, Shubhi Publications
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22PE1VS14) VLSI SIGNAL PROCESSING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Concepts of Signals and Systems, Digital Signal Processing
+and Basic VLSI Systems
+COURSE OBJECTIVES:
+• To study various DSP algorithms and retiming concepts
+• To learn the concepts of folding and unfolding techniques
+• To understand the concepts of systolic architecture design and fast convolution
+methods
+• To describe various power consumption methods in VLSI
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Design the systems by using the appropriate DSP algorithms
+CO-2: Analyze and design the folding techniques in real time application
+CO-3: Understand the parallel architecture design of FIR filters unfolding
+CO-4: Design the systems by using systolic architectures and various fast convolution
+algorithms
+CO-5: Evaluate the performance of various digital signal processors by using fast
+convolution
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 - 2 2 3 3
+CO-2 3 - 3 2 3 3
+CO-3 3 - 3 2 3 3
+CO-4 3 - 3 2 3 3
+CO-5 3 3 3 2 3 3
+UNIT-I:
+Introduction to DSP: Typical DSP algorithms, DSP algorithms benefits, Representation of
+DSP algorithms
+Pipelining and Parallel Processing: Introduction, Pipelining of FIR Digital filters, Parallel
+Processing, Pipelining and Parallel Processing for Low Power
+Retiming: Introduction – Definitions and Properties – Solving System of Inequalities –
+Retiming Techniques
+UNIT-II:
+Folding: Introduction -Folding, Transform – Register minimization Techniques – Register
+minimization in folded architectures – folding of multirate systems
+UNIT-III:
+Unfolding: Introduction – An Algorithm for Unfolding – Properties of Unfolding – critical
+Path, Unfolding and Retiming – Applications of Unfolding
+UNIT-IV:
+Systolic Architecture Design: Introduction – Systolic Array Design Methodology – FIR
+Systolic Arrays – Selection of Scheduling Vector – Matrix Multiplication and 2D Systolic
+Array Design – Systolic Design for Space Representations contain Delays
+UNIT-V:
+Fast Convolution: Introduction – Cook-Toom Algorithm – Winogard algorithm – Iterated
+Convolution – Cyclic Convolution – Design of Fast Convolution algorithm by Inspection
+TEXT BOOKS:
+1. VLSI Digital Signal Processing, System Design and Implementation, Keshab K. Parhi,
+Wiley Inder Science, 1998
+2. VLSI and Modern Signal Processing, Kung S. Y., H. J. While House, T. Kailath, Prentice
+Hall, 1985
+3. Design of Analog – Digital VLSI Circuits for Telecommunications and Signal
+Processing, Jose E. France, Yannis Tsividis, Prentice Hall, 1994
+REFERENCES:
+1. VLSI Digital Signal Processing, Medisetti V. K., IEEE Press, 1995
+2. Adaptive Filter Theory, S. Haykin Pearson, 2003
+3. DSP–A Practical Approach, Emmanuel C. I. Feacher, Barrie W. Jervis, 2nd Edition,
+Pearson Education, 2008
+4. Modern Spectral Estimation: Theory & Application, S. M. Kay, 1988, PHI
+5. Multirate Systems and Filter Banks, P. P. Vaidyanathan, Pearson Education, 1993
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22PE1VS15) RF IC DESIGN
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To learn the concepts of RF frequency analysis and component modelling
+• To give understanding of various types of RF filter circuits
+• To familiarize the concept of RF amplifiers and oscillators
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Analyze the behavior of high frequency components
+CO-2: Calculate the scattering parameters of various RF components and analyze
+the various filter parameters
+CO-3: Implement component modelling and biasing networks
+CO-4: Design the various RF filters, amplifiers, oscillators and mixers
+CO-5: Develop and characterize the various oscillators and mixers at radio frequency
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 3 2 3 2 2
+CO-2 3 - 2 3 2 2
+CO-3 3 - 2 3 2 3
+CO-4 3 - 2 3 3 3
+CO-5 3 - 2 3 3 3
+UNIT-I:
+Introduction: Importance of RF design dimensions and units frequency spectrum RF
+behavior of passive components, high frequency resistors, high frequency capacitors,
+high frequency inductor, chip components and circuit board Considerations chip
+resistors chip capacitors and surface mount inductors.
+UNIT-II:
+RF Filter Design: Scattering parameters: definition, meaning chain, scattering matrix,
+conversion between S- and Z-parameters, signal flow chart modeling, generalization
+basic resonator and filter configurations: low pass, high pass, band pass and band
+stop type filters-filter implementation using unit element and kuroda's identities
+transformations-coupled filters
+UNIT-III:
+Active RF Component Modeling: RF diode models: nonlinear and linear models
+transistor models: large signal and small signal BJT models, large signal and small signal
+FET models-scattering parameters device characterization.
+Matching and Biasing Networks: Impedance Matching using discrete components:
+Two component matching networks, Forbiddenregions, frequency response and
+quality factor, T and PI matching networks-amplifier classes of operation and biasing
+networks: classes of operation and efficiency of amplifiers, biasing networks for BJT,
+biasing networks for FET.
+UNIT-IV:
+RF Transistor Amplifier Design: Characteristics of amplifier-amplifier power relations RF
+sources, transducers power gain, additional power relations-stability consideration:
+stability circles, unconditional stability and stabilization methods-unilateral and
+bilateral design for constant gain noise figure circles- constant VSWR circles.
+UNIT-V:
+RF Oscillators and Mixers: Basic oscillator models: Negative resistance oscillator,
+feedback oscillator design, design steps, quads oscillators- fixed frequency, high
+frequency oscillator- basic characteristics of mixers: concepts, frequency domain
+considerations, single ended mixer design, single and double balanced mixers.
+TEXT BOOKS:
+1. RF Circuit Design - Theory And Applications, Reinhold Ludwig, Pavel Bsetchko,
+Pearson Education, 2000
+2. Radio Frequency and Microwave Communication Circuits- Analysis and Design-
+Devendra Mishra, John Wiley and Sons
+3. Radiofrequency and Microwave, Electronics Mathew M. Rarmaneah, PEI
+REFERENCES:
+1. RF Circuit Design, Christoper BOWIK Cheryl Aijuni and John Butler, Elsevier, 2008
+2. Secrets of RF Circuit Design, Joseph J Carr, TMH, 2000
+3. Design of RF and Microwave Amplifiers, Oscillators, Peter Madison, Artech House,
+2000
+4. The Design of CMOS Radio Frequency Integrated Circuits, Thomas H. Lee, 2nd
+Edition, Cambridge University Press, 2004
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22PE1VS16) HARDWARE SECURITY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To initiate students to hardware attacks (side channel, faults, probing)
+• To give possible counter measures and more secure system designs
+• To the passive and active bus probing
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Design a more secure systems by knowing countermeasures of various
+hardware attacks
+CO-2: Experiment the impressive efficiency of hardware attacks
+CO-3: Monitor computation time or power consumption to reveal secrets
+CO-4: Design a secure systems which lead to privilege escalation and compromise
+CO-5: Know the injecting forged data on communication links
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 2 3 1 2 2
+CO-2 3 - 3 1 2 2
+CO-3 2 - 3 1 2 2
+CO-4 3 - 3 - 2 2
+CO-5 2 2 3 - 2 2
+UNIT-I:
+Introduction to Hardware Security: Overview of the computing system, Layers of
+computing system, Hardware security vs hardware trust, Attacks, Vulnerabilities and
+counter measures, Conflict between security and Test/Debug, Evolution of Hardware
+security, Birds eye view, Common hardware security primitives, Performance reliability
+vs security, Security architecture
+UNIT-II:
+Hardware Trojans: Introduction, SoC design flow, Hardware Trojans, Hardware Trojans
+in FPGA designs, Hardware Trojans taxonomy, Trust benchmarks, Countermeasures
+against Hardware Trojans, Software induced hardware trojan attacks,
+UNIT-III:
+Side-Channel Attacks: Introduction, Background on side-channel attacks, Power
+analysis attacks, Electromagnetic side-channel attacks, Fault injection attacks, Timing
+attacks, Covert channels, Side channel resistant design, Software induced side
+channel attacks.
+UNIT-IV:
+Test Oriented Attacks: Introduction, Scan based attacks, JTAG based attacks, Pre-
+silicon security and trust assessment for SoCs, Post-silicon security and trust assessment
+for SoCs.
+UNIT-V:
+Physical Attacks and Counter Measures: Introduction, Reverse engineering, Probing
+attacks, Invasive fault injection attack, Security issues in IP based SoC design, Security
+issues in FPGA, PCB security challenges and attack modes.
+TEXT BOOKS:
+1. Hardware Security A Hands on Learning Approach, Swarup Bhunia, Mark
+Tehranipoor, Morgan Kaufmann Publisher, Elsevier
+2. Cryptography: Theory and Practice, Douglas R. Stinson, CRC Press
+3. Handbook of Applied Cryptography, Alfread J. Menezes, Paul C. Van Oorschot,
+Vanstone, A. Scott, CRC Press
+REFERENCES:
+1. Power Analysis Attacks: Revealing the Secrets of Smart Cards, Stefan Mangard,
+Elisabeth Oswald, Thomas Popp, Springer-Verlag
+2. Internet of Things A Hands on Approach, Arshdeep Bahga, Vijay Madisetti,
+Universities Press
+3. Internet of Things, Shriram K. Vasudevan, RMD Sundaram, Abhishek S. Nagarajan,
+John Wiley & Sons
+4. Massimo Banzi, Michael Shiloh Make: Getting Started with the Arduino, Shroff
+Publisher/Maker Media
+5. Securing the Internet of Things: A Standardization Perspective, Keoh, Sye Loong,
+Sahoo Subhendu Kumar, and Hannes Tschofenig, Internet of Things Journal, IEEE
+1.3 (2014): 265-275
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22PC1ES04) IOT ARCHITECTURES AND SYSTEM DESIGN
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To Know the definition and basic concepts of IoT
+• Learn the interfacing the IoT and M2M
+• To understand the Architecture of IoT
+COURSE OUTCOMES:
+CO-1: Integrate the sensors and actuator depending on the applications
+CO-2: Interface the IoT and M2M with value chains
+CO-3: Write Python programming for Arduino, Raspberry Pi devices
+CO-4: Design IoT based systems such as Agricultural IoT, Vehicular IoT etc.,
+UNIT-I:
+IoT introduction: Introduction and definition of IoT, Evolution of IoT, IoT growth,
+Application areas of IoT, Characteristics of IoT, IoT stack, Enabling technologies, IoT
+levels, IoT sensing and actuation,
+Sensing types, Actuator types.
+UNIT-II:
+IoT and M2M: M2M to IoT – A Basic Perspective– Introduction, Differences and
+similarities between M2M and IoT, SDN and NFV for IoT.M2M Value Chains, IoT Value
+Chains, An emerging industrial structure for IoT, The international driven global value
+chain and global information monopolies.
+UNIT-III:
+IoT Hands-on: Introduction to Arduino Programming, Integration of Sensors and
+Actuators with Arduino. Introduction to Python programming, Introduction to
+Raspberry Pi, Interfacing Raspberry Pi with basic peripherals, Implementation of IoT
+with Raspberry Pi.
+UNIT-IV:
+IoT Architecture: IoT Architecture components, Comparing IoT architectures, A
+simplified IoT architecture, The core IoT functional stack, IoT data management and
+compute stack
+UNIT-V:
+IoT System design: Challenges associated with IoT, Emerging pillors of IoT, Agricultural
+IoT, Vehicular IoT, Healthcare IoT, Smart cities, Transportation and logistics.
+TEXT BOOKS:
+1. Sudip Misra, Anandarup Mukherjee, Arijit Roy “Introduction to IOT”, Cambridge
+University Press.
+2. David Hanes, Gonzalo salgueiro, Patrick Grossetete, Rob barton, Jerome henry
+“IoT
+3. Fundamentals Networking technologies, protocols, and use cases for IoT”, Cisco
+Press
+REFERENCES:
+1. Cuno pfister, “Getting started with the internet of things”, O Reilly Media, 2011
+2. Francis daCosta, “Rethinking the Internet of Things: A Scalable Approach to
+Connecting Everything”, 1 st Edition, Apress Publications.
+3. “Internet of Things concepts and applications”, Wiley
+4. Arshdeep Bahga,Vijay Madisetti “Internet of Things A Hands on approach”,
+Universities Press
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22PE1VS17) ELECTRONIC SYSTEMS PACKAGING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To know the functions of packaging
+• To learn the issues in IC packaging
+• To understand the performance issues of various packaging techniques
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Learn the procedure and different types packaging techniques
+CO-2: Understand the sinal and power distribution in IC packaging
+CO-3: Analyze the various 3D- Printing and packaging techniques
+CO-4: Develop the 3D-architectures for IC packaging
+CO-5: Describe the clacking strategies in packaging
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 - 2 2 2 2
+CO-2 1 - 3 2 2 2
+CO-3 2 - 3 2 2 2
+CO-4 3 - 2 2 2 2
+CO-5 2 3 3 2 2 2
+UNIT-I:
+Functions of an Electronic Package, Packaging Hierarchy, Driving Forces on
+Packaging Technology. Materials for Microelectronic packaging, Packaging
+materials properties, ceramics, polymers and metals in packaging.
+UNIT-II:
+Electrical Anatomy of systems packaging, signal distribution, power distribution,
+electromagnetic interference.
+UNIT-III:
+3-D Technology and Packaging Techniques: Silicon interposer technology, Through
+Silicon Vias (TSVs). Hybrid packaging technique, Silicon-Less Interconnect technology.
+UNIT-IV:
+3D Integrated Architectures Through Silicon Via: Materials, Properties and Fabrication:
+CNT, GNR, properties of TSVs, fabrication of TSVs, challenges for TSV implementation.
+UNIT-V:
+Modeling and performance analysis of Copper-based, CNT-based, GNR-based TSVs.
+Liners in TSVs Physical Design and Thermal Management Techniques for 3-D ICs Case
+study: clock distribution networks for 3-D ICs, Trends in Packaging
+TEXT BOOKS:
+1. Three-Dimensional Integrated Circuit Design, Vasilis F. Pavlidis, E. G. Friedman,
+Morgan Kaufmann, Elsevier, 2009
+2. Fundamentals of Microsystem Packaging, Rao R. Tummala, McGraw Hill, 2001
+3. Through-Slicon Vias for 3D Integration, John H. Lau, McGraw Hill, 2012
+4. Introduction to Device Modeling and Circuit Simulation, Tor A. Fijedly, Wiley-
+Inderscience, 1997
+REFERENCES:
+1. Introduction to Semiconductor Materials and Devices, Tyagi M. S., John Wiley
+Student Edition, 2008
+2. Solid State Circuits, Ben G. Streetman, Prentice Hall, 1997
+3. Physics of Semiconductor Devices, Sze S. M., 2nd Edition, McGraw Hill, 1981
+4. Introduction to VLSI Systems: A Logic, Circuit and System Perspective, Ming-BO Lin,
+CRC Press, 2011
+5. Introduction to NMOS & VLSI System Design, A. Mukherjee, Prentice Hall, 2015
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22OE1CN01) BUSINESS ANALYTICS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the role of business analytics within an organization and to analyze
+data using statistical and data mining techniques and understand relationships
+between the underlying business processes of an organization
+• To gain an understanding of how managers use business analytics to formulate
+and solve business problems and to support managerial decision making and to
+become familiar with processes needed to develop, report, and analyze business
+data
+• To use decision-making tools/Operations research techniques and to manage
+business process using analytical and management tools
+• To analyze and solve problems from different industries such as manufacturing,
+service, retail, software, banking and finance, sports, pharmaceutical, aerospace
+etc.
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply knowledge of data analytics
+CO-2: Think critically in making decisions based on data and deep analytics
+CO-3: Use technical skills in predicative and prescriptive modeling to support business
+decision-making
+CO-4: Translate data into clear, actionable insights
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 - 1 - 1 1
+CO-2 3 - 2 - 1 2
+CO-3 2 1 1 - 1 1
+CO-4 1 2 1 - 1 1
+UNIT-I:
+Business Analytics: Overview of Business analytics, Scope of Business analytics, Business
+Analytics Process, Relationship of Business Analytics Process and organization,
+competitive advantages of Business Analytics.
+Statistical Tools: Statistical Notation, Descriptive Statistical methods, Review of
+probability distribution and data modelling, sampling and estimation methods
+overview.
+UNIT-II:
+Trendiness and Regression Analysis: Modelling Relationships and Trends in Data,
+simple Linear Regression. Important Resources, Business Analytics Personnel, Data and
+models for Business analytics, problem solving, Visualizing and Exploring Data Business
+Analytics Technology.
+UNIT-III:
+Organization Structures of Business analytics, Team management, Management
+Issues, Designing Information Policy, Outsourcing, Ensuring Data Quality, Measuring
+contribution of Business analytics, Managing Changes.
+Descriptive Analytics, predictive analytics, predicative Modelling, Predictive analytics
+analysis, Data Mining, Data Mining Methodologies, Prescriptive analytics and its step
+in the business analytics Process, Prescriptive Modelling, nonlinear Optimization.
+UNIT-IV:
+Forecasting Techniques: Qualitative and Judgmental Forecasting, Statistical
+Forecasting Models, Forecasting Models for Stationary Time Series, Forecasting Models
+for Time Series with a Linear Trend, Forecasting Time Series with Seasonality,
+Regression Forecasting with Casual Variables, Selecting Appropriate Forecasting
+Models.
+Monte Carlo Simulation and Risk Analysis: Monte Carle Simulation Using Analytic
+Solver Platform, New-Product Development Model, Newsvendor Model, Overbooking
+Model, Cash Budget Model.
+UNIT-V:
+Decision Analysis: Formulating Decision Problems, Decision Strategies without
+Outcome Probabilities, Decision Trees, The Value of Information, Utility and Decision
+Making.
+Recent trends in Embedded and collaborative business intelligence, Visual data
+recovery, Data Storytelling and Data journalism.
+TEXT BOOKS:
+1. Business Analytics-Principles, Concepts, and Applications, Marc J. Schniederjans,
+Dara G. Schniederjans, Christopher M. Starkey, Pearson
+2. Business Analytics, James Evans, Pearson Education
+3. Business Analytics, Purba Halady Rao, PHI, 2013
+REFERENCES:
+1. Business Analytics for Managers: Taking Business Intelligence Beyond Reporting,
+Gert H. N. Laursen, Jesper Thorlund, 2nd Edition, Wiley Publications
+2. Business Analytics: Data Analysis & Decision Making, S. Christian Albright, Wayne L.
+Winston, 5th Edition, 2015
+3. Business Intelligence Guidebook: From Data Integration to Analytics, Rick Sherman
+Elsevier, 2014
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22OE1AM01) INDUSTRIAL SAFETY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Elements of Mechanical, Civil, Electrical and Industrial
+Engineering
+COURSE OBJECTIVES:
+• To achieve an understanding of principles, various functions and activities of safety
+management
+• To communicate effectively information on Health safety and environment
+facilitating collaboration with experts across various disciplines so as to create and
+execute safe methodology in complex engineering activities
+• To anticipate, recognize, and evaluate hazardous conditions and practices
+affecting people, property and the environment, develop and evaluate
+appropriate strategies designed to mitigate risk
+• To develop professional and ethical attitude with awareness of current legal issues
+by rendering expertise to wide range of industries
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply risk management principles to anticipate, identify, evaluate and control
+physical, chemical, biological and psychosocial hazards
+CO-2: Communicate effectively on health and safety matters among the employees
+and with society at large
+CO-3: Demonstrate the use of state of the art occupational health and safety
+practices in controlling risks of complex engineering activities and understand their
+limitations
+CO-4: Interpret and apply legislative / legal requirements, industry standards, and best
+practices in accident prevention programmes in a variety of workplaces
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 3 2 2 3 1
+CO-2 - - - - 2 3
+CO-3 3 1 2 1 - -
+CO-4 - 2 - 1 - 2
+UNIT-I:
+Safety Management: Evaluation of modern safety concepts – Safety management
+functions – safety organization, safety department – safety committee, safety audit -
+performance measurements and motivation – employee participation in safety and
+productivity.
+UNIT-II:
+Operational Safety: Hot metal Operation – Boiler, pressure vessels – heat treatment
+shop - gas furnace operation-electroplating-hot bending pipes – Safety in welding
+and cutting. Cold-metal Operation- Safety in Machine shop- metal cutting – shot
+blasting, grinding, painting – power press and other machines.
+Safe Handling and Storage: Material Handling, Compressed Gas Cylinders, Corrosive
+Substances, Hydrocarbons, Waste Drums and Containers
+UNIT-III:
+Safety Measures: Layout design and material handling - Use of electricity –
+Management of toxic gases and chemicals – Industrial fires and prevention – Road
+safety– Safety of sewage disposal and cleaning – Control of environmental pollution
+– Managing emergencies in industrial hazards.
+UNIT-IV:
+Accident Prevention: Human side of safety – personal protective equipment – Causes
+and cost of accidents. Accident prevention programmes - Specific hazard control
+strategies - HAZOP – Training and development of employees – First Aid – Fire fighting
+devices – Accident reporting investigation.
+UNIT-V:
+Safety, Health, Welfare & Laws: Safety and health standards – Industrial hygiene –
+occupational diseases prevention - Welfare facilities – History of legislations related to
+safety–pressure vessel act- Indian boiler act- The environmental protection act –
+Electricity act - Explosive act.
+TEXT BOOKS:
+1. Safety Management, John V. Grimaldi and Rollin H. Simonds, All India Travellers
+Bookseller, 1989
+2. Safety Management in Industry, Krishnan N. V., Jaico Publishing House, 1996
+REFERENCES:
+1. Occupational Safety Manual, BHEL
+2. Industrial Safety and The Law, P. M. C. Nair Publishers
+3. Managing Emergencies in Industries, Loss Prevention of India Ltd., Proceedings,
+1999
+4. Safety Security and Risk Management, U. K. Singh & J. M. Dewan, A. P. H. Publishing
+Company, 1996
+5. Industrial Safety Management: Hazard Identification and Risk Control, L. M.
+Deshmukh, McGraw Hill, 2005
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22OE1AM02) OPERATIONS RESEARCH
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To analyze linear programming models in practical and their practical use
+• To apply the transportation, assignment and sequencing models and their solution
+methodology for solving problems
+• To apply inventory and queuing, inventory models and their solution methodology
+for solving problems
+• To evaluate the simulation models
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Evaluate the problems using linear programming
+CO-2: Analyze assignment, transportation problems
+CO-3: Apply inventory and queuing problems for real time problems
+CO-4: Model the real-world problem and simulate it
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 3 3 2 - -
+CO-2 1 3 3 3 - -
+CO-3 1 3 3 3 - -
+CO-4 1 3 3 3 - -
+UNIT-I:
+Introduction to Operations Research: Definitions of OR, Characteristics of OR, Scope
+of OR, Classification of Optimization Techniques, models in OR, General L.P
+Formulation, Graphical solution, Simplex Techniques.
+Allocation: Linear Programming Problem Formulation- Graphical solution-Simplex
+method-Artificial variables technique-Two phase method, Big-M Method-Duality
+Principle.
+UNIT-II:
+Transportation Problem: Formulation-Optimal solution-unbalanced transportation
+problem-Degeneracy. Assignment problem-Formulation-Optimal solution-Variations
+of Assignment Problem-Travelling Salesman Problem.
+Sequencing: Introduction-Flow Shop sequencing-n jobs through two machines-n jobs
+through three machines-Job shop sequencing-two jobs through m machines.
+UNIT-III:
+Waiting Lines: Introduction-Single channel-Poisson arrivals-exponential service times-
+with infinite population and finite population models-Multichannel-Poisson arrivals-
+exponential service times with infinite population single channel Poisson arrivals.
+UNIT-IV:
+Inventory Models: Deterministic inventory, models - Probabilistic inventory control
+models
+UNIT-V:
+Simulation: Definition-Types of simulation models-phases of simulation-applications of
+simulation Inventory and Queuing problems-Advantages and Disadvantages-Brief
+Introduction of Simulation Languages.
+TEXT BOOKS:
+1. Operations Research, S. D. Sharma, Kedarnath Ramnath, Meerut
+2. Engineering Optimization, S. S. Rao, New Age International, 2014
+3. Introduction to Genetic Algorithms, S. N. Sivanandam, Springer
+REFERENCES:
+1. Operations Research-An Introduction, H. A. Taha, PHI, 2008
+2. Principles of Operations Research, H. M. Wagner, PHI, 1982
+3. Introduction to Optimization: Operations Research, J. C. Pant, Jain Brothers, 2008
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22OE1AM03) ENTREPRENEURSHIP AND START-UPS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To motivate the engineers to inculcate the skills thereof in any professional role and
+to consider intrapreneurship or entrepreneurship as career choices for personal
+and societal growth
+• To understand different Theories of Entrepreneurship and their Classification
+• To create Feasibility Reports, Business, Project Plans and resolve Operational
+problems
+• To understand the roles of Family, non-family entrepreneurs and learning about
+Startups’ Opportunities, Corporate Legal and Intellectual Property related issues
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the role of an entrepreneur in the economic development and
+discover societal problems as entrepreneurial opportunities and ideate to develop
+solutions through systematic and creative approaches to innovation and business
+strategy
+CO-2: Learn different Theories of entrepreneurship, the role of Family and Non-Family
+entrepreneurs and problem-solving skills
+CO-3: Create Marketing, Financial Plans and evaluate Structural, Financial and
+Managerial Problems
+CO-4: Apply lean methodology to startup ideas using Business Model Canvas and be
+able to create Business Plans through establishing business incubators. Understand
+Corporate Legal and Intellectual Property related matters
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 1 3 2 - 3
+CO-2 1 - - - - 2
+CO-3 1 - - - - 2
+CO-4 - - - 1 - -
+UNIT-I:
+Entrepreneurship: Definition of Entrepreneur, Entrepreneurial motivation and barriers;
+Internal and external factors; Types of entrepreneurs, Personality and Skill Set of an
+Entrepreneur, Entrepreneurship as a career for engineers, scientists, and technologists.
+UNIT-II:
+Theories of Entrepreneurship: Classification of entrepreneurship. Creativity and
+Innovation: Creative Problems Solving, Creative Thinking, Lateral Thinking, Views of De
+Bono, Khandwala and others, Creative Performance in terms of motivation and skills.
+Family and Non-Family Entrepreneurs: Role of Professionals, Professionalism vs. family
+entrepreneurs, Role of Woman entrepreneur, Sick industries, Reasons for Sickness,
+Remedies for Sickness, Role of BIFR in revival, Bank Syndications.
+UNIT-III:
+Creativity and Entrepreneurial Plan: Idea Generation, Screening and Project
+Identification, Creative Performance, Feasibility Analysis: Economic, Marketing,
+Financial and Technical; Project Planning, Evaluation, Monitoring and Control,
+segmentation, Targeting and positioning of Product, Role of SIDBI in Project
+Management.
+UNIT-IV:
+Operation Problems: Incubation and Take-off, Problems encountered Structural,
+Financial and Managerial Problems, Types of Uncertainty. Institutional support for new
+ventures: Supporting organizations; Incentives and facilities; Financial Institutions and
+Small-scale Industries, Govt. Policies for SSIs.
+UNIT-V:
+Startups’ Opportunity Assessment, Business Models, Entrepreneur talk, Clinical/
+Regulatory, Sector Specific Group Briefing by Advisory Committee, Corporate Legal
+and Intellectual Property, Pitching, Payers and Reimbursement, Pitch practice,
+Investors, Mistakes I Won’t Repeat, Business Development and Exits, Finance,
+Budgeting, Team Building, Opportunities in Telangana State and India – incubators,
+schemes, accelerators.
+TEXT BOOKS:
+1. Understanding Enterprise: Entrepreneurship and Small Business, Bridge S. et al.,
+Palgrave, 2003
+2. Holt- Entrepreneurship: New Venture Creation, Prentice Hall, 1998
+3. Entrepreneurship Development, Robert D. Hisrich, Michael P. Peters, Tata McGraw
+Hill
+REFERENCES:
+1. New Venture Creation: An Innovator’s Guide to Entrepreneurship, Marc H. Meyer
+and Frederick G. Crane, 2nd Edition, Sage Publications
+2. Technology Ventures: From Idea to Enterprise, Byers, Dorf, Nelson
+3. Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist - Feld,
+Mendelson, Costolo
+4. Breakthrough Entrepreneurship, Burgstone and Murphy
+5. Business Model Generation, Alexander Osterwalder
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22OE1PL01) WASTE TO ENERGY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To create awareness in students of energy conservation
+• To identify the use of different types of Bio waste energy resources
+• To understand different types of bio waste energy conservations
+• To detect different waste conversion into different forms of energy
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Find different types of energy from waste to produce electrical power
+CO-2: Estimate the use of bio waste to produce electrical energy
+CO-3: Understanding different types of bio waste and its energy conversions
+CO-4: Analyze the bio waste utilization and to avoid the environmental pollution
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 2 3 1 2 1
+CO-2 3 3 3 3 2 3
+CO-3 3 2 3 2 2 3
+CO-4 3 3 3 3 2 3
+UNIT-I:
+Introduction to Energy From Waste: Classification of waste as fuel, Agro based, Forest
+residue, Industrial waste, MSW (Municipal solid waste) – Conversion devices –
+Incinerators, Gasifiers, Digestors. Urban waste to energy conversion, Biomass energy
+Programme in India.
+UNIT-II:
+Biomass Pyrolysis: Pyrolysis – Types, slow fast – Manufacture of charcoal – Methods -
+Yields and application – Manufacture of pyrolytic oils and gases, yields and
+applications.
+UNIT-III:
+Biomass Gasification: Gasifiers – Fixed bed system – Downdraft and updraft gasifiers –
+Fluidized bed gasifiers – Design, construction and operation – Gasifier burner
+arrangement for thermal heating – Gasifier engine arrangement and electrical
+power.
+UNIT-IV:
+Biomass Combustion: Biomass stoves – Improved chullahs, types, some exotic designs,
+Fixed bed combustors, Types, inclined grate combustors, Fluidized bed combustors,
+Design, construction and operation - Operation of all the above biomass combustors.
+UNIT-V:
+Biogas: Properties of biogas (Calorific value and composition) - Biogas plant
+technology and status - Bio energy system - Design and constructional features -
+Biomass resources and their classification - Biomass conversion processes - Thermo
+chemical conversion - Direct combustion - biomass gasification - pyrolysis and
+liquefaction - biochemical conversion - anaerobic digestion.
+Types of biogas Plants – Applications - Alcohol production from biomass - Bio diesel
+production - Urban waste to energy conversion - Biomass energy programme in India.
+TEXT BOOKS:
+1. Biogas Technology-Transfer and Diffusion, M. M. EL-Halwagi, Elsevier Applied
+Science Publisher, 1984
+2. Introduction to Biomass Energy Conversions, Sergio Capareda
+REFERENCES:
+1. Non-Conventional Energy, Desai Ashok V., Wiley Eastern Ltd., 1990
+2. Biogas Technology - A Practical Hand Book, Khandelwal K. C. and Mahdi S. S., Vol.
+I & II, Tata McGraw Hill, 1983
+3. Food, Feed and Fuel from Biomass, Challal D. S., IBH Publishing, 1991
+4. Biomass Conversion and Technology, C. Y. WereKo-Brobby and E. B. Hagan, John
+Wiley & Sons, 1996

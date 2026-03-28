@@ -1,0 +1,371 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/syllabus-books/Minor-CYS-28-02-2025.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY HYDERABAD
+B.TECH. MINOR IN CYBER SECURITY
+COURSE STRUCTURE AND SYLLABUS
+(Applicable for the batches admitted from the academic year 2022-2023)
+V SEMESTER R22
+Course Code Title of the Course L T P/D CH C
+22MC1CY301 Principles of Information Security 3 0 0 3 3
+Principles of Information Security
+22MC2CY301 0 0 3 3 1.5
+Laboratory
+Total 3 0 3 6 4.5
+VI SEMESTER R22
+Course Code Title of the Course L T P/D CH C
+22MC1CY302 Foundations of Cyber Security 3 1 0 4 4
+Total 3 1 0 4 4
+VII SEMESTER R22
+Course Code Title of the Course L T P/D CH C
+22MC1CY401 Ethical Hacking 3 0 0 3 3
+22MC2CY401 Ethical Hacking Laboratory 0 0 3 3 1.5
+Total 3 0 3 6 4.5
+VIII SEMESTER R22
+Course Code Title of the Course L T P/D CH C
+22MC1CY402 Incident Response Management 3 0 0 3 3
+22MP1CY401 Mini – Project 0 0 4 4 2
+Total 3 0 4 7 5
+L – Lecture T – Tutorial P – Practical D – Drawing CH – Contact Hours/Week
+C – Credits SE – Sessional Examination CA – Class Assessment ELA – Experiential Learning Assessment
+SEE – Semester End Examination D-D – Day to Day Evaluation LR – Lab Record
+CP – Course Project PE – Practical Examination
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (CYS) V Semester
+(22MC1CY301) PRINCIPLES OF INFORMATION SECURITY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand computer networks, security attacks, services, and mechanisms
+• To describe various cryptosystems - symmetric key cryptography and public key
+cryptography
+• To apply authentication services, mechanisms, and secure hash algorithms
+• To be familiar with the concepts of email security, IDS, SSL, TLS, viruses, and Firewalls
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Analyse the concepts of computer networks, cryptography, information
+security and its applications
+CO-2: Build a security model to prevent and detect the attacks using various
+mechanisms
+CO-3: Examine the authenticity of the messages, communicate securely and
+investigate non-repudiation
+CO-4: Apply the concepts of SSL, TLS, firewalls and establish trusted systems
+UNIT-I:
+Introduction to Computer Networks, Network hardware, Network software, OSI and
+TCP/IP Reference models, Security attacks, Security Services and Mechanisms.
+UNIT-II:
+Integer Arithmetic, Modular Arithmetic, Traditional Symmetric Key Ciphers, Data
+Encryption Standard (DES), Advanced Encryption Standard (AES).
+UNIT-III:
+Mathematics of Cryptography: Primes, Primality Testing, Factorization, Chinese
+Remainder Theorem, Asymmetric Cryptography: Introduction, RSA Cryptosystem,
+Rabin Cryptosystem, Elliptic Curve Cryptosystem.
+UNIT-IV:
+Message Integrity and Message Authentication: Message Authentication Code
+(MAC), SHA-512 - Digital Signatures.
+UNIT-V:
+Security at the Application Layer: PGP and S/MIME. Security at Transport Layer: SSL
+and TLS. -Principles of IDS, Virus, Firewalls, Virus Counter measures – Firewall Design
+Principles – Trusted Systems.
+TEXT BOOKS:
+1. Computer Networks, Andrew S. Tanenbaum, David. J. Wetherall, 5th Edition,
+Pearson Education/PHI
+2. Cryptography & Network Security, Behrouz A. Forouzan, Special Indian Edition,
+Tata McGraw-Hill
+REFERENCES:
+1. Network Security Essentials (Applications and Standards), William Stallings, Pearson
+Education
+2. Cryptography and Network Security – Principles and Practices, William
+Stallings, 4th Edition, Prentice Hall of India, 2005
+3. Security in Computing, Charles B. Pfleeger, Shari Lawrence Pfleeger, 3rd Edition,
+Pearson Education, 2003
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (CYS) V Semester
+(22MC2CY301) PRINCIPLES OF INFORMATION SECURITY LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 3 1.5 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To apply algorithms used for data encryption and decryption
+• To demonstrate IDS tools
+• To apply algorithms used for message Integrity and authentication of data
+• To understand various protocols for information security to protect against the
+threats in the networks
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Implement various encryption and decryption algorithms
+CO-2: Identify the emerging areas in information security
+CO-3: Interpret good security practices for information security
+CO-4: Demonstrate the process of data protection from various threats
+LIST OF EXPERIMENTS:
+1. Write a program to perform encryption and decryption using the following
+substitution ciphers.
+a. Caeser cipher
+b. Play fair cipher
+c. Hill Cipher
+2. Write a program to implement the DES algorithm.
+3. Write a program to implement RSA algorithm.
+4. Calculate the message digest of a text using the SHA-1 algorithm.
+5. Working with sniffers for monitoring network communication (Wireshark).
+6. Configuring S/MIME for email communication.
+7. Using Snort, perform real time traffic analysis and packet logging.
+TEXT BOOKS:
+1. Cryptography and Network Security, William Stallings, 3rd Edition, Pearson
+Education
+2. Applied Cryptography, Bruce Schneier, John Wiley, 1996
+REFERENCES:
+1. Cryptography and Network Security, Behrouz A. Forouzan, McGraw-Hill, 2008
+2. Security in Computing, Charles B. Pfleeger, Shari Lawrence Pfleeger, 3rd Edition,
+Pearson Education, 2003
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (CYS) VI Semester
+(22MC1CY302) FOUNDATIONS Of CYBER SECURITY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 1 4 30 5 5 60 100
+COURSE OBJECTIVES:
+• To summarize various types of cyber-attacks and cyber-crimes
+• To understand cyber laws and the concepts of digital forensics
+• To discuss safety measures for the protection of mobile and wireless devices
+• To learn the organizational security implications and threats
+• To study the impact of data privacy attacks on various domains
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Identify the need of cyber security and various types of attacks
+CO-2: Understand national and international regulations of cyber security and cyber
+forensics
+CO-3: Interpret the security challenges related to mobile and wireless devices
+CO-4: Analyze the security and privacy implications of an organization
+CO-5: Examine the data privacy concepts and cybercrime in different domains
+UNIT-I:
+Introduction to Cyber Security: Basic Cyber Security Concepts, layers of security,
+Vulnerability, threat, Harmful acts, Internet Governance – Challenges and Constraints,
+Computer Criminals, CIA Triad, Assets and Threat, motive of attackers, active attacks,
+passive attacks, Software attacks, hardware attacks, Cyber Threats-Cyber Warfare,
+Cyber Crime, Cyber terrorism, Cyber Espionage, etc., Comprehensive Cyber Security
+Policy.
+UNIT-II:
+Cyberspace and the Law & Cyber Forensics: Introduction, Cyber Security Regulations,
+Roles of International Law. The INDIAN Cyberspace, National Cyber Security Policy,
+Historical background of Cyber forensics, Digital Forensics Science, The Need for
+Computer Forensics, Cyber Forensics and Digital evidence, Forensics Analysis of Email,
+Digital Forensics Lifecycle, Forensics Investigation, Challenges in Computer Forensics
+UNIT-III:
+Cybercrime: Mobile and Wireless Devices: Introduction, Proliferation of Mobile and
+Wireless Devices, Trends in Mobility, Credit card Frauds in Mobile and Wireless
+Computing Era, Security Challenges Posed by Mobile Devices, Registry Settings for
+Mobile Devices, Authentication service Security, Attacks on Mobile/Cell Phones,
+Organizational security Policies and Measures in Mobile Computing Era, Laptops.
+UNIT-IV:
+Cyber Security: Organizational Implications: Introduction, cost of cybercrimes and IPR
+issues, web threats for organizations, security and privacy implications, social media
+marketing: security risks and perils for organizations, social computing and the
+associated challenges for organizations
+UNIT-V:
+Privacy Issues: Basic Data Privacy Concepts: Fundamental Concepts, Data Privacy
+Attacks, Data linking and profiling, privacy policies and their specifications, privacy
+policy languages, privacy in different domains- medical, financial, etc. Cybercrime:
+Examples and Mini-Cases Examples: Official Website of Maharashtra Government
+Hacked, Indian Banks Lose Millions of Rupees, Parliament Attack, Pune City Police Bust
+Nigerian Racket, e-mail spoofing instances. Mini Cases: The Indian Case of online
+Gambling, An Indian Case of Intellectual Property Crime, Financial Frauds in Cyber
+Domain.
+TEXT BOOKS:
+1. Cyber Security Understanding Cyber Crimes, Nina Godbole and Sunit Belpure,
+Computer Forensics and Legal Perspectives, Wiley
+2. Computer and Cyber Security: Principles, Algorithm, Applications, and
+Perspectives, B. B. Gupta, D. P. Agrawal, Haoxiang Wang, CRC Press, 2018
+REFERENCES:
+1. Cyber Security Essentials, James Graham, Richard Howard and Ryan Otson, CRC
+Press
+2. Introduction to Cyber Security, Chwan-Hwa (John) Wu, J. David Irwin, CRC Press,
+T&F Group
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (CYS) VII Semester
+(22MC1CY401) ETHICAL HACKING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Operating Systems, Computer Networks, Network Security &
+Cryptography
+COURSE OBJECTIVES:
+• To understand the basic concepts of ethical hacking
+• To learn the enumeration and system hacking process
+• To understand the threats of Trojans, backdoors, and sniffers
+• To learn session hijacking and its various techniques, as well as DoS, DDoS, and
+botnet attacks
+• To learn to defend against database attacks and understand social engineering
+techniques
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand ethical hacking and footprinting process
+CO-2: Analyze various enumeration and system hacking methods
+CO-3: Identify, analyze, and counter cybersecurity risks posed by Trojans, backdoors,
+and sniffers
+CO-4: Apply various techniques and methods used in session hijacking, Dos, DDOS
+and Botnets
+CO-5: Detect and mitigate SQL injection vulnerabilities and implement effective
+policies to counter social engineering risks
+UNIT-I:
+Ethical Hacking Basics: Definition of Ethical Hacking, Importance of Ethical Hacking,
+White Hat, Black Hat, and Grey Hat Hackers, The Ethical Hacker’s Process, Active vs.
+Passive Reconnaissance, OSINT (Open-Source Intelligence) Tools, Google Dorking
+and Search Engine Footprinting.
+UNIT-II:
+Scanning and Enumeration: Network Scanning Techniques, Port Scanning (Nmap,
+Netcat), Vulnerability Scanning (Nessus, OpenVAS), Windows Enumeration, Windows
+Security, NetBIOS and LDAP Enumeration, SNMP Enumeration, Linux/UNIX
+Enumeration, NTP Enumeration, SMTP Enumeration.
+UNIT-III:
+System Hacking and Sniffers: Password Cracking Techniques, Privilege Escalation
+(Linux & Windows), Spyware, Keyloggers, and Rootkits. Passive Sniffing, Active Sniffing,
+Address Resolution Protocol, ARP Poisoning and Flooding, Tools for Sniffing, Wireshark,
+Other Sniffing Tools.
+UNIT-IV:
+Session Hijacking and Denial of Service: Transport Layer Hijacking, Predict the
+Sequence Number, Take One of the Parties Offline, Take Control of the Session,
+Application Layer Hijacking, Session Sniffing, Predictable Session Token ID, Man-in-the-
+Middle Attacks, Types of DoS, Bandwidth Attacks, SYN Flood Attacks, Program and
+Application Attacks, Distributed Denial of Service, DDoS Tools.
+UNIT-V:
+Social Engineering and Phishing: Types of Social Engineering, Person-to-Person Social
+Engineering, Computer-Based Social Engineering, Reverse Social Engineering, Policies
+and Procedures. Phishing, Spear Phishing, and Whaling Attacks, Spoofing Attacks
+(Email, Caller ID, SMS).
+Database Attacks Database Hacking, Identifying SQL Servers, SQL Injection
+Vulnerabilities, SQL Injection Hacking Tools.
+TEXT BOOKS:
+1. Certified Ethical Hacker (CEH) Cert guide, Michael Gregg, 3rd Edition, Pearson,
+2019
+2. Hands-On Ethical Hacking and Network Defense, Michael T. Simpson, Kent
+Backman, James E. Corley, 3rd Edition, Cengage Learning, 2017
+REFERENCES:
+1. Ethical Hacking and Countermeasures Attack Phases, EC-Council, Cengage
+Learning.
+2. CEH: Official Certified Ethical Hacker Review Guide, Kimberly Graves, Wiley, 2007
+ONLINE RESOURCES:
+1. Ethical Hacking, SWAYAM-NPTEL
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (CYS) VII Semester
+(22MC2CY401) ETHICAL HACKING LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 3 1.5 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To introduce the methodologies framework tools of ethical hacking to get
+awareness in enhancing the security
+• To get knowledge on various attacks and their detection
+• To apply Investigate web-based hacking methods
+• To perform penetration testing and understanding tools
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand modern tools in Ethical Hacking
+CO-2: Demonstrate the knowledge of Ethical Hacking Techniques
+CO-3: Analyze Ethical Hacking methods in different situations
+CO-4: Evaluate security in various web applications
+LIST OF EXPERIMENTS / PROGRAMS:
+WEEK 1:
+Installation of virtual box and kali Linux.
+WEEK 2:
+Implementation of Finding IP Geo location information, IP Geo location lookup tools.
+Demonstration using IP location .net, dnsstuff.com and zoomeye.org.
+WEEK 3:
+Demonstration Session of Competitive Intelligence websites www.alexa.com,
+thesearchmonitor.com, Study nercraft.com, earth.google.com,shodan.io, censys.io,
+wappalyzer.com, httrack.com and visualping.io.
+WEEK 4:
+Study of packetbuilder2.0-colasoft.com, megaping tool-angryip scanner, mac
+address lookup uic.win/en/mac.
+WEEK 5:
+Demonstration Session of Advanced -IP-scanner.com, NETbios enumeration,
+Enumeration tool: SNMP, LDAP, NTP, and DNS.
+WEEK 6:
+Setup and study Vulnerability tools: Nessus professional, GFI languard, Openvas,
+Retina cs, Qualys free scan, Nitko, Microsoft base line security analizer, Automated
+vulnerable detection system.
+WEEK 7:
+Study of RIG exploit kit, command shell trojan, remote access trojan, backdoor trojans.
+WEEK 8:
+Implement PING Method and DNS Method Sniffing: Wireshark, ARP poisoning, DNS
+poisoning. Hacking wireless networks and Denial of service attacks.
+WEEK 9:
+Setup an environment to demonstrate Social Engineering attacks, Active online
+attack: Hash injection attack, LLMNR/NBT-NS POISONING, Tools to create Rainbow
+tables:RIGEN and WINRTGEN softlookup.com, NTLM authentication processes,
+password
+Staking, Tools to execute the password hacking PW dump file.
+WEEK 10:
+Demonstration Session of Password cracking tool: LOPHTCRACK and OPHCRACK,how
+passwords are stored in windows SAM? system hacking concepts, passview tool usb,
+windows password recovery tools.
+WEEK 11:
+Study of Rootkits: Horse pill and Grayfish, How Rootkit works, SIREFEF and NECURS,
+Detecting Rootkits, Cyber Rnescence-Stegnography.
+WEEK 12:
+Implement SQL injection-Testfire.net, SQL Injection techniques,File Injection Attacks,
+LDAP Injection Attacks, cross-site request forgery Attack (CSRF).
+TEXTBOOKS:
+1. The Basics of Hacking and Penetration Testing, Patrick Engebretson, Elsevier, 2013
+2. Network Security and Ethical Hacking, Rajat Khare, Luniver Press, 2006
+3. Introduction to Computer Networks and Cyber Security, Wu and J. D. Irwin
+REFERENCES:
+1. Network Intrusion Alert: An Ethical Hacking Guide to Intrusion Detection, Ankit
+Fadia, Manu Zacharia, Thomson Course Technology PTR, 2007
+2. Ethical Hacking, Thomas Mathew, OSB Publisher, 2003
+3. Hacking Exposed: Network Security Secrets & Solutions, Stuart McClure, Joel
+Scambray and George Kurtz, McGraw-Hill, 2005
+4. Hands-On Ethical Hacking and Network Defense, Michael Simpson, Kent
+Backman, James Corley, Cengage Learning
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (CYS) VII Semester
+(22MC1CY402) INCIDENT RESPONSE MANAGEMENT
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To gain knowledge on incident response and its regulations
+• To get an insight into the stages of incident response
+• To ensure the security of an organization by analyzing the history of attacks
+• To assess the response through various metrics
+• To explore incident response to the LIVE Scenario
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand how incidents are responded to at a high level
+CO-2: Gain knowledge on breaches and various attacks
+CO-3: Build an Incident response team to improve the security of an organization
+CO-4: Evaluate the incident response through attacks
+CO-5: Apply the Incident response to the threats in cloud and LIVE scenarios
+UNIT-I:
+Introduction: Computer Security Incident, Goals of Incident Response and its
+importance, GDPR and NIS regulations about incident response, The NIST five phases
+of Incident Response, Incident Response Process and Essential Components.
+Stages of Incident Response: Incident definitions and severity criteria, Identification of
+threats and vulnerabilities, IR identification, IR Containment, Investigation, Eradication.
+UNIT-II:
+Evolution and Current Challenges: The history of data breaches, Modern cyber
+security evolution, preventing future breaches, Preparing for attacks, Assessing
+security safeguards, Aiding investigations and legal prosecutions, Bringing the
+organization together during crises, Ensuring the integration of security initiatives.
+UNIT-III:
+Organization of IR Team: Composition of IR team, Building of IR team, Reactive
+Security, Proactive Security, Operational Security, The Significance of three Security
+Pillars, Security operations and continuous monitoring: Captive SOC, Co-managed
+SOC, Fully managed SOC.
+UNIT-IV:
+Metrics for Incident Response: Key incident response metrics, Prevalence metrics,
+Effectiveness metrics, Time-based metrics, Understanding KPIs, Key metrics for a
+phishing attack, Incident response metrics in the cloud.
+UNIT-V:
+Incident Handling: The incident response process, Handling an incident, Handling an
+incident in a phishing scenario.
+IR case studies: Data Breach/Hacking Incident, Live Ongoing Hacking Incident.
+TEXT BOOKS:
+1. Incident Response in the Age of Cloud: Techniques and Best Practices to
+Effectively Respond to Cybersecurity Incidents, Dr. Erdal Ozkaya, Packt Publishing,
+2021
+2. Incident Response & Computer Forensics, Jason T. Luttgens, Matthew Pepe,
+McGraw-Hill Education, 2014
+REFERENCES:
+1. Incident Response, Kenneth R. van Wyk and Richard Forno, O'Reilly Media, 2001
+2. Intelligence-Driven Incident Response: utwitting the Adversary, Scott J. Roberts
+and Rebekah Brown, O′Reilly Media, 2017.
+ONLINE RESOURCES:
+1. Incident Response Lifecycle

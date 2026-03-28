@@ -1,46 +1,152 @@
-SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/cseAIMLIOT/Professional-development-activities/Student-Activities/Student-Internships/IIIBTECH.pdf
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/cseAIMLIOT/IIIBTECH.pdf
 
 ================================================================================
 PDF CONTENT:
 ================================================================================
 
-STUDENT
-SNO ROLL NUMBER NAME SECTION CRITERIA STIPEND Year
-III-B.TECH-
-1 20071A6604 Bhavana A AIML JP-MORGAN 70000 2022
-III-B.TECH-
-2 20071A6611 Thanvitha D AIML JP-MORGAN 70000 2022
-III-B.TECH-
-3 20071A6614 G SaiTeja AIML JP-MORGAN 70000 2022
-III-B.TECH-
-4 20071A6618 Satwik K AIML JP-MORGAN 70000 2022
-M Krishna III-B.TECH-
-5 20071A6630 Priya AIML JP-MORGAN 70000 2022
-M Krishna III-B.TECH-
-6 20071A6630 Priya AIML MICROSOFT 125000 2022
-III-B.TECH-
-7 20071A6647 Haripriya S AIML JP-MORGAN 70000 2022
-Shaik Sana III-B.TECH-
-8 20071A6650 S AIML JP-MORGAN 70000 2022
-III-B.TECH-
-9 20071A6901 G Aishwarya IOT JP-MORGAN 70000 2022
-D III-B.TECH-
-10 20071A6915 Sreeniketh IOT JP-MORGAN 70000 2022
-III-B.TECH- 2022 &
-11 20071A6921 Spandana J IOT FLIPKART 100000 2023
-K III-B.TECH- NMICPS-TIHAN-IIT-
-12 20071A6923 Srichandana IOT HYDERABAD(INTERNSHIP) 5000 2023
-III-B.TECH-
-13 20071A6932 K Rohan IOT EMERTXE(INTERNSHIP) UNPAID 2023
-III-B.TECH-
-14 20071A6932 K Rohan IOT JP-MORGAN 70000 2023
-III-B.TECH-
-15 20071A6939 M Kavya IOT JP-MORGAN 70000 2023
-III-B.TECH- NMICPS-TIHAN-IIT-
-16 20071A6948 K Vasista IOT HYDERABAD(INTERNSHIP) 5000 2023
-III-B.TECH- NMICPS-TIHAN-IIT-
-17 20071A6955 T Sahithi IOT HYDERABAD(INTERNSHIP) 5000 2023
-III-B.TECH-
-18 20071A6956 T sahithi IOT JP-MORGAN 70000 2023
-III-B.TECH-
-19 20071A6959 Y Sathwik IOT JP-MORGAN 70000 2023
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for B.Tech. CE,EEE,ME,ECE,CSE,EIE,IT,AME, M.Tech. STRE, PE, AMS, SWE Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF (2023) Rank band:101-150 in Engineering Category
+College with Potential for Excellence by UGC,JNTUH-Recognized Research Centres:CE,EEE,ME,ECE,CSE
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Department of Computer Science & Engineering (AIML & IoT)
+Completed Internships – III Year Students
+Name of the
+Hall Ticket Nature of the
+S.No Student Name collaborating Duration
+Number activity
+agency
+2022-2023 - AIML
+SDLC Based
+1 Sai Anuhya 21071A6605 EMERTXE Project Building 2 Months
+in IoT
+Airline Customer
+Satisfaction
+Prediction
+(Classification)
+Bommireddipalli E&ICT Academy,
+2 21071A6612 and Video Games 4 Weeks
+Likhitha IIT Kanpur.
+Sales Prediction
+(Regression),
+designed on
+Machine Learning
+IBM SkillsBuild
+Edunet Internship for
+Y Venkata Sai Foundation in Emerging
+3 21071A66K2 6 Weeks
+Bhargav partnership with Technologies in
+AICTE Artificial
+Intelligence (AI)
+IBM SkillsBuild
+Edunet Internship for
+Foundation in Emerging
+4 Y. Sunitha 21071A66K3 6 Weeks
+partnership with Technologies in
+AICTE Artificial
+Intelligence (AI)
+Machine Learning
+Donthireddy Ganesh
+5 21071A6619 ICONMA using AI with 6 Weeks
+Reddy
+Python
+Machine Learning
+Kolli Prasanna
+6 21071A6630 ICONMA using AI with 6 Weeks
+Adarsh
+Python
+Airline Customer
+E&ICT Academy, Satisfaction
+7 Gouri chandana gaje 21071A6685 4 Weeks
+IIT Kanpur Prediction
+(Classification)
+and Video Games
+Sales Prediction
+(Regression),
+designed on
+Machine Learning
+Diginique
+TechLabs in Data Science,
+collaboration Machine Learning
+8 Kondepudi Pragna 21071A6631 6 Weeks
+with iHUB and AI using
+DivyaSampark at Python
+IIT Roorkee.
+Project report on
+ASM CoE (DI) –
+Robotics Process
+HCL
+9 Sai Aditya Reddy T 21071A6660 Automation 2 Months
+Technologies Ltd
+through
+Automation
+Anywhere
+Suryadevara Yagna Web
+10 22075A6607 InternPe 4 Weeks
+Valkini Development
+Web
+11 Ramneti Neha 22075A6605 InternPe 4 Weeks
+Development
+IWS
+Amazon GetCallbackToken
+Development and assigned by
+12 A Pragna Reddy 21071A66D1 2 Months
+Centre India Pvt. SIMBA
+Ltd PROCESSING
+team
+2023-2024 - AIML
+Data science and
+Python skills to
+ACURATION PVT
+13 Varshith Bollam 21071A6610 support our 4 Months
+LTD
+application
+development.
+CISCO AICTE
+14 Jayamangala Srujana 21071A66E5 Virtual Cyber Security
+Internship
+Completion
+15 Jayamangala Srujana 21071A66E5 IBM SkillsBuild Data Science Date: 27 Feb
+2024
+Python
+16 Jayamangala Srujana 21071A66E5 InternPe 4 Weeks
+Programming
+2022-2023 - IoT
+HCP3 SYS &
+General
+Topics Covered:
+Harman
+Epuru Lakshmi Security fixes for
+17 21071A6915 International 2 Months
+Suhrutha Reddy OSS and Kernel,
+(India) Pvt. Ltd
+Yocto build,
+Version control
+tools,
+Automation shell
+scripts.
+Knadukuri Ajay Web
+18 22075A6902 InterPe 4 Weeks
+Reddy Development
+Web
+19 Nayekoti Prasanna 22075A6906 InterPe 4 Weeks
+Development
+Reliance Jio IOT in the Mobile
+Rachita Reddy
+20 21071A6949 lnfocomm Networks 4 Weeks
+Rachamalla
+Limited (4G & SG)
+Reliance Jio IOT in the Mobile
+Lakshmi Varshini
+21 21071A6964 lnfocomm Networks 4 Weeks
+Yemmireddy
+Limited (4G & SG)
+Rising Pharma
+Track and Trace
+22 Bhavana Kakarla 21071A6926 Specialities 2 Months
+(Serialization)
+Private Limited

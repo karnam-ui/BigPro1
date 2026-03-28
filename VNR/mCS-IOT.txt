@@ -1,0 +1,375 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/R19/mCS-IOT.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY HYDERABAD
+B.TECH. MINOR IN INTENET OF THINGS
+TENTATIVE COURSE STRUCTURE AND SYLLABUS
+(Applicable from the academic year 2021-2022)
+V SEMESTER (III YEAR I SEMESTER) R19
+Contact
+Course Code Title of the Course L T P/D Hours/ Credits
+Week
+19MC1IN01 Programming in Python 3 0 0 3 3
+19MC2IN01 Programming in Python Laboratory 0 0 3 3 1.5
+Total 3 0 3 6 4.5
+VI SEMESTER (III YEAR II SEMESTER) R19
+Contact
+Course Code Title of the Course L T P/D Hours/ Credits
+Week
+19MC1IN02 IoT Fundamentals and Architecture 3 0 0 3 3
+19MC1IN03 Smart Technologies 3 0 0 3 3
+Total 6 0 0 6 6
+VII SEMESTER (IV YEAR I SEMESTER) R19
+Contact
+Course Code Title of the Course L T P/D Hours/ Credits
+Week
+19MC1IN04 Programming Languages for IoT 3 0 0 3 3
+19MC2IN02 IoT Automation using Raspberry-PI Laboratory 0 0 3 3 1.5
+Total 3 0 3 6 4.5
+VIII SEMESTER (IV YEAR II SEMESTER) R19
+Contact
+Course Code Title of the Course L T P/D Hours/ Credits
+Week
+19MC1IN05 Fog and Edge Computing for IoT 3 0 0 3 3
+Total 3 0 0 3 3
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (IOT) V Semester L T/P/D C
+3 0 3
+(19MC1IN01) PROGRAMMING IN PYTHON
+COURSE OBJECTIVES:
+• To understand Regular expressions in Python
+• To implement Object Oriented Programming concepts in Python
+• To build Web Services and introduction to Network and Database Programming
+in Python
+• To design and learn to create Web widgets using GUI and work with data
+structures
+COURSE OUTCOMES: After completion of course, the students should be able to
+CO-1: Examine Python syntax and semantics and be fluent in the use of Python flow
+control and functions
+CO-2: Interpret the concepts of Object-Oriented Programming as used in Python
+and demonstrate proficiency in handling exceptions
+CO-3: Develop and Analyze Python Programing using core data structures like
+Regular Expressions
+CO-4: Develop and Analyze GUI based applications and implement exemplary
+applications related to Network Programming, Web Services and Databases in
+Python
+UNIT – I:
+Python Basics, Objects- Python Objects, Standard Types, Other Built-in Types, Internal
+Types, Standard Type Operators, Standard Type Built-in Functions, Categorizing the
+Standard Types, Unsupported Types
+Numbers - Introduction to Numbers, Integers, Floating Point Real Numbers, Complex
+Numbers, Operators, Built-in Functions, Related Modules
+Sequences - Strings, Lists, and Tuples, Mapping and Set Types
+UNIT – II:
+Python OOPS Concepts: Python Inheritance, Python polymorphism, Python
+abstraction, Python Encapsulation, Python Classes and objects, Python methods,
+Classes and Objects, Class Method and Self Argument. The __Init__Method, Class
+Variables and Object Variables, The _Del__Method, Public and Private Data
+Members, Private Methods, Built-in Functions to Check, Get, Set and Delete Class
+Attributes, Garbage Collection (Destroying Objects).
+UNIT – III:
+Exception Handling in Python: Introduction, Handling Exception, Multiple Except
+Blocks and Multiple Exceptions, Finally Block. Modules: Modules and Files,
+Namespaces, Importing Modules, Importing Module Attributes Module Built-in
+Functions, Packages, Other Features of Modules.
+UNIT – IV:
+Regular Expressions: Introduction, Special Symbols and Characters, Res and Python
+Multithreaded Programming: Introduction, Threads and Processes, Python, Threads,
+and the Global Interpreter Lock, Thread Module, Threading Module, Related
+Modules
+UNIT – V:
+GUI Programming: Introduction, Tkinter programming, Tkinter widgets, Frame, Button,
+Label, Entry, Brief Tour of Other GUIs.
+WEB Programming: Introduction, Architecture, CGI environment variable, GET and
+POST methods, Cookies, File upload, Web Surfing with Python, Creating Simple Web
+Clients, Advanced Web Clients, CGI-Helping Servers Process Client Data, Building
+CGI Application
+Advanced CGI, Web (HTTP) Servers
+UNIT – VI:
+Database Programming: Introduction, Python Database Application Programmer’s
+Interface (DB-API), Object Relational Managers (ORMs), Related Modules.
+TEXT BOOKS:
+1. Core Python Programming, Wesley J. Chun, 2nd Edition, Pearson
+2. Data Structures and Algorithm Analysis in C, Mark Allen Weiss, 2nd Edition, Pearson
+Education, 2010
+3. Think Python: How to Think Like a Computer Scientist, Allen B. Downey, 2nd Edition,
+Updated for Python 3, Shroff/O’Reilly Publishers, 2016
+(http://greenteapress.com/wp/thinkpython/)
+REFERENCES:
+1. Data Structures and Algorithms, A. V. Aho, J. E. Hopcroft, and J. D. Ullman,
+Pearson Education, 1st Edition Reprint 2003
+2. Introduction to Computer Science using Python: A Computational Problem-
+Solving Focus, Charles Dierbach, Wiley India Edition, 2013
+3. Practical Programming: An Introduction to Computer Science using Python 3,
+Paul Gries, Jennifer Campbell and Jason Montojo, 2nd Edition, Pragmatic
+Programmers, LLC, 2013
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (IOT) V Semester L T/P/D C
+0 3 1.5
+(19MC2IN01) PROGRAMMING IN PYTHON LABORATORY
+COURSE OBJECTIVES:
+• To understand program design with functions using Python programming
+language
+• To understand a range of Object-Oriented Programming, as well as in-depth
+data and information processing techniques
+• To understand Web Scraping using Python
+• To understand the high-performance programs designed to strengthen the
+practical expertise
+COURSE OUTCOMES: After completion of course, the students should be able to
+CO-1: Develop the python scripts using regular expressions
+CO-2: Explore python especially the object-oriented concepts, and the built-in
+objects of Python
+CO-3: Develop GUI Application using Python tkinter
+CO-4: Create practical and contemporary applications such as Web applications,
+discrete event simulations
+LIST OF PROGRAMS:
+OOPS programs
+1. Python program to calculate student grade
+2. Python example to implement destructor and constructors using __del__() and
+__init__()
+3. Python example to implement Getters and Setters in a class
+4. Python - Implement Abstraction using Abstract class
+5. Python - Implement Interface using class
+6. Python - Create Employee Class with Constructor and Destructor
+7. Example of single inheritance in Python
+8. Python program to illustrate Single Inheritance
+9. Example of multiple inheritance in Python
+10. Example of Multilevel Inheritance in Python
+11. Example of Hierarchical Inheritance in Python
+12. Using Regular Expressions, develop a Python program to
+a) Identify a word with a sequence of one upper case letter followed by lower
+case letters.
+b) Find all the patterns of “1(0+)1” in a given string.
+c) Match a word containing ‘z’ followed by one or more o’s. Prompt the user for
+input.
+13. GUI&DB
+a) Design a GUI based calculator to perform arithmetic operations like addition,
+subtraction, multiplication and division. (Hint: Expression Calculator using tk)
+b) Design a GUI based application to convert temperature from Celsius to
+Fahrenheit.
+c) Write a python program to perform various database operations (create,
+insert, delete, update).
+14. GRAPHICS
+a) Consider turtle object. Write functions to draw triangle, rectangle, polygon,
+circle and sphere. Use object-oriented approach.
+b) Design a Python program using the Turtle graphics library to construct a turtle
+bar chart representing the grades obtained by N students read from a file
+categorizing them into distinction, first class, second class, third class and
+failed.
+TEXT BOOKS:
+1. Core Python Programming, Wesley J. Chun, 2nd Edition, Pearson
+2. Data Structures and Algorithm Analysis in C, Mark Allen Weiss, 2nd Edition, Pearson
+Education, 2010
+3. Think Python: How to Think Like a Computer Scientist, Allen B. Downey, 2nd Edition,
+Updated for Python 3, Shroff/O’Reilly Publishers, 2016
+(http://greenteapress.com/wp/thinkpython/)
+REFERENCES:
+1. Data Structures and Algorithms, A. V. Aho, J. E. Hopcroft, and J. D. Ullman,
+Pearson Education, 1st Edition Reprint 2003
+2. Introduction to Computer Science using Python: A Computational Problem-
+Solving Focus, Charles Dierbach, Wiley India Edition, 2013
+3. Practical Programming: An Introduction to Computer Science using Python 3,
+Paul Gries, Jennifer Campbell and Jason Montojo, 2nd Edition, Pragmatic
+Programmers, LLC, 2013
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (IOT) VI Semester L T/P/D C
+3 0 3
+(19MC1IN02) IOT FUNDAMENTALS AND ARCHITECTURE
+COURSE OBJECTIVES:
+• To introduce terminology, technology and its applications
+• To introduce the Raspberry PI platform, that is widely used in IoT applications
+• To introduce the implementation of web-based services on IoT devices
+COURSE OUTCOMES: After completion of course, the students should be able to
+CO-1: Understand IoT value chain structure (device, data cloud), application areas
+and technologies involved
+CO-2: Understand IoT sensors and technological challenges faced by IoT devices,
+with a focus on wireless, energy, power, and sensing modules
+CO-3: Implement basic IoT applications on embedded platform
+CO-4: Understand building blocks of Internet of Things and characteristics
+UNIT – I:
+Introduction to Internet of Things: Definition and Characteristics of IoT, Sensors,
+Actuators, Physical Design of IoT – IoT Protocols, IoT communication models, IoT
+Communication APIs, IoT enabled Technologies – Wireless Sensor Networks, Cloud
+Computing, Embedded Systems, IoT Levels and Templates, Domain Specific IoTs –
+Home, City, Environment, Energy, Agriculture and Industry.
+UNIT – II:
+IoT and M2M- Software defined networks, network function virtualization, difference
+between SDN and NFV for IoT, Basics of IoT System Management with NETCOZF,
+YANG- NETCONF, YANG, SNMP NETOPEER
+UNIT – III:
+IoT Physical Devices and Endpoints- Introduction to Arduino and Raspberry Pi-
+Installation, Interfaces (serial, SPI, I2C), Programming – Python program with
+Raspberry PI with focus on interfacing external gadgets, controlling output, reading
+input from pins.
+UNIT – IV:
+Controlling Hardware- Connecting LED, Buzzer, Switching High Power devices with
+transistors, Controlling AC Power devices with Relays, Controlling servo motor, speed
+control of DC Motor, unipolar and bipolar Stepper motors.
+UNIT – V:
+Sensors- Light sensor, temperature sensor with thermistor, voltage sensor, ADC and
+DAC, Temperature and Humidity Sensor DHT11, Motion Detection Sensors, Wireless
+Bluetooth Sensors, Level Sensors, USB Sensors, Embedded Sensors, Distance
+Measurement with ultrasound sensor
+UNIT – VI:
+IoT Physical Servers and Cloud Offerings– Introduction to Cloud Storage models and
+communication APIs Webserver – Web server for IoT, Cloud for IoT, Python web
+application framework Designing a RESTful web API
+TEXT BOOKS:
+1. Internet of Things - A Hands-on Approach, Arshdeep Bahga and Vijay Madisetti,
+Universities Press, 2015, ISBN: 9788173719547
+2. Getting Started with Raspberry Pi, Matt Richardson & Shawn Wallace, O'Reilly
+(SPD), 2014, ISBN: 9789350239759
+3. Raspberry Pi Cookbook, Software and Hardware Problems and solutions, Simon
+Monk, O'Reilly (SPD), 2016, ISBN 7989352133895
+REFERENCES:
+1. Learning Internet of Things, Peter Waher, Ovidiu Vermesan, Packt Publishing, 2015
+2. Internet of Things – From Research and Innovation to Market Deployment, Peter
+Friess, River Publishers, 2014
+3. Actuators and Their Interfaces, N. Ida, Sensors, SciTech Publishers, 2014
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (IOT) VI Semester L T/P/D C
+3 0 3
+(19MC1IN03) SMART TECHNOLOGIES
+COURSE OBJECTIVES:
+• To provide a detailed description of the integral aspects of smart technologies
+and their evolution to their current state
+• To discuss the potential use of Internet of things (IoT) in reducing
+counterproductive work behaviours and identifying some of the challenges that
+organizations might face while implementing IoT in its systems
+• To present case studies using easy-to-understand language to explain the
+breadth and scope of application areas
+COURSE OUTCOMES: After completion of course, the student should be able to
+CO-1: Explain importance, scope and applications of Smart Technologies
+CO-2: Implement Drones an IoT based services and block chain technologies
+CO-3: Provide solutions for real world IoT applications like vehicle cyber security
+CO-4: Understand the importance of cyber care and develop IoT-Based Smart
+Farming Solutions
+UNIT – I:
+Smart Technologies: Scope and Applications, Cutting-Edge Digitization Challenges
+in Vehicle Cyber Physical Systems and Cybersecurity, Big Data Analytics as an
+Enabler in Smart Governance for the Future Smart Cities
+UNIT – II:
+Digital Masters: Blueprinting Digital Transformation, UAVs/Drones-Based IoT Services,
+Role of Cyber Security in Drone Technology
+UNIT – III:
+Bitcoins as an Implementation of Blockchain and Its Convergence with Internet of
+Things, Tomorrow’s AI-Enabled Banking, Exploring Connected Cars
+UNIT – IV:
+Vehicular Cybersecurity Through Intrusion Detection and Prevention Architecture,
+Mechanism Protecting Vehicle-to-Vehicle Communication, Advanced Driver
+Assistance Systems
+UNIT – V:
+Cyber Care: Role of Cyber Security in Healthcare Industry, Smart Agriculture: A
+Tango Between Modern IoT-Based Technologies and Traditional Agriculture
+Techniques.
+UNIT – VI:
+Importance of Being ‘NICE’ While Developing IoT-Based Smart Farming Solutions: A
+Case Study About ‘NICE’ Labs.
+TEXT BOOK:
+1. Smart Technologies-Scope and Applications, K. B. Akhilesh, Dietmar P. F. Möller,
+Springer, 2020
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (IOT) VII Semester L T/P/D C
+3 0 3
+(19MC1IN04) PROGRAMMING LANGUAGES FOR IOT
+COURSE OBJECTIVES:
+• To provide training with a solid theoretical foundation, systematic professional
+knowledge and strong practical skills in the Raspberry Pi
+• To focus on higher-level operating systems, advanced networking, user
+interfaces, multimedia and uses more computing intensive IoT applications as
+examples using Raspberry Pi running Linux as the platform of choice.
+• To learn basic programming instructions on Raspberry PI
+• To understand IoT design using Raspberry PI
+COURSE OUTCOMES: After completion of course, the student should be able to
+CO-1: Appreciate the development technology for IoT
+CO-2: Familiar with Basic Concepts of Linux
+CO-3: Design real time IoT Devices and Familiar with basic foundations of Python
+Programming and libraries
+CO-4: Comprehend the basic concepts of Mobile Cloud Computing
+UNIT – I:
+Getting Started with Raspberry Pi: Basic functionality of Raspberry Pi B+ board, setting
+up the board, configuration and use, implications of an operating system on the
+behavior of the Raspberry Pi as an IoT device, booting Raspberry Pi 3, Downloading
+an Operating System, format an SD card and booting the OS, Basics of Linux and its
+use, main features including navigating the file system and managing processes,
+text based user interface through the shell, overview of the graphic user interface for
+Raspian Linux distribution.
+UNIT – II:
+Interfacing Hardware with the Raspberry Pi, Raspberry Pi Remote Access, operates
+the Raspberry Pi in “headless mode”, Bash Command line, operating Raspberry Pi
+without needing a GUI interface.
+UNIT – III:
+Basics of the Python programming language, programming on the Raspberry Pi.
+Python on Raspberry Pi, Python Programming Environment, Python Expressions,
+Strings, Functions and Function arguments, Lists, List Methods, Control Flow.
+UNIT – IV:
+Communication with devices through the pins of the Raspberry Pi, RPi.GPIO library,
+Python Functions, setting up the pins, General purpose IO Pins, Protocol Pins, GPIO
+Access, applying digital voltages, and generating Pulse Width Modulated signals,
+Tkinter Python library, accessing pins through a graphic user interface
+UNIT – V:
+IoT Physical Servers and Cloud Offerings: Introduction to Cloud Storage models and
+communication APIs. Web Server – Web server for IoT, Cloud for IoT, Python web
+application framework. Designing a RESTful web API. Connecting to APIs
+UNIT – VI:
+IoT Design using Raspberry Pi IoT Applications based on Pi, LAMP Web-server, GPIO
+Control over Web Browser, Creating Custom Web Page for LAMP, communicating
+data using on-board module, home automation using Pi, Node-RED, MQTT Protocol,
+Using Node-RED Visual Editor on Rpi
+TEXT BOOKS:
+1. Programming the Raspberry Pi: Getting Started with Python, Simon Monk,
+McGraw Hill Professional, January 2012
+2. Raspberry Pi with Java: Programming the Internet of Things (IoT), 1st Edition,
+Oracle Press
+3. The official raspberry Pi Projects Book,
+https://www.raspberrypi.org/magpiissues/Projects_Book_v1.pdf
+REFERENCES:
+1. Raspberry Pi User Guide, Eben Upton and Gareth Halfacree, 4th Edition, John
+Wiley & Sons, 2016
+2. Learning Python with Raspberry Pi, Alex Bradbury and Ben Everard, John Wiley &
+Sons, 2014
+3. Arduino Cookbook, Michael Margolis, 1st Edition, O'Reilly Media Inc., 2011
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (IOT) VII Semester L T/P/D C
+0 3 1.5
+(19MC2IN02) IOT AUTOMATION WITH RASPBERRY PI LABORATORY
+COURSE OBJECTIVES:
+• To introduce the raspberry PI platform, that is widely used in IoT applications
+• To introduce the implementation of distance sensor on IoT devices
+• To understand installation of OS in Raspberry PI
+• To use raspberry PI for implementing alarmed motion sensor
+COURSE OUTCOMES: After completion of course, the student should be able to
+CO-1: Introduce the concept of M2M (machine to machine) with necessary
+protocols and get awareness in implementation of distance sensor
+CO-2: Program using python scripting language which is used in many IoT devices
+CO-3: Implement alarmed motion sensor using Raspberry PI
+CO-4: Install Operating System in Raspberry PI
+LIST OF EXPERIMENTS:
+USING RASPBERRY PI
+1. Calculate the distance using a distance sensor
+2. Basic LED functionality
+3. Calculate temperature using a temperature sensor
+4. Build an alarmed motion sensor
+5. Make printer wireless
+6. Add a power button to Raspberry pi
+7. Build a network game server
+8. Make music with sony Pi
+9. Interface Pi Camera module with Raspberry Pi
+10. Installing OS on Raspberry Pi
+a) Installation using Pilmager b) Installation using image File
+TEXT BOOKS:
+1. Programming the Raspberry Pi: Getting Started with Python, Simon Monk,
+McGraw Hill Professional, 2012
+2. Raspberry Pi with Java: Programming the Internet of Things (IoT), 1st Edition,
+Oracle Press
+3. The official raspberry Pi Projects Book,
+https://www.raspberrypi.org/magpiissues/Projects_Book_v1.pdf
+REFERENCES:
+1. Raspberry Pi User Guide, Eben Upton and Gareth Halfacree, 4th Edition, John
+Wiley & Sons, 2016
+2. Learning Python with Raspberry Pi, Alex Bradbury and Ben Everard, John Wiley &
+Sons, 2014
+3. Arduino Cookbook, Michael Margolis, 1st Edition, O'Reilly Media Inc., 2011

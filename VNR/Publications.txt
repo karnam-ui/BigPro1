@@ -1,418 +1,3516 @@
-SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/chemistry/Publications.pdf
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/ecedept/Publications.pdf
 
 ================================================================================
 PDF CONTENT:
 ================================================================================
 
-DEPARTMENT OF CHEMISTRY
-PUBLICATIONS
-Year of
-S.No Title of the paper Name of the author/s Name of journal
-publication
-Structural, optical, and dielectric properties of
-S Pratyusha, P Latha, KS Rudramamba, M Journal of molecular
-1 aminated PMMA/GO polymer nanocomposite 2024
-Rami Reddy, Mamatha Nakka structure
-for storage device applications
-Structural, mechanical, optical and dielectric
-S.Pratyusha, Mamatha Nakka, KS Journal of molecular
-2 properties of aminated PMMA-Ag-GO 2024
-Rudramamba, P Latha,M Rami Reddy, structure
-polymer nanocomposite for coatings
-Microwave assisted synthesis of new
-quinolone and coumarin molecular hybrids: Tella Lakshmi Viveka, Gangadhara Angajala
-Journal of molecular
-3 SAR, molecular modelling studies as dual ,Valmiki Aruna, Mamatha Nakka, Yeddala 2024
-structure
-antagonists and its antimicrobial evaluation Aparna
-targeting bacterial and fungal infections
-Desai Bhavyesh, Sudha Soliya, Ramaiah
-The Recent Advances in Iron-Catalyzed
-4 Konakanchi, Eeshwaraiah Begari, Kashamalla Chemistry An Asian Journal 2024
-C(sp3)-HFunctionalization
-Chinna Ashalu, Togati Naveen
-Theoretical investigation on electronic, optical
-and phonon properties of compound Ashok, B, Srinivas, B, Padmavathi, P, Journal of Indian Chemical
-5 2024
-semiconductors suitable for photovoltaic Ramaiah, K, P. Kistaiah Society
-device applications
-Quantification and Quality control of triple-
-drug combination employed for gastric ulcer Yadla Pavani, S. Aravind, Charitha Annam, International Journal of
-6 2024
-using stability - indicating selective RP-HPLC Mannam Subba Rao Applied Pharmaceutics
-technique
-New Benzylidene-Triazole Tethered
-Coumarin Molecular Hybrids: Synthesis, Raja Rameshu Manda, Ratnakaram Venkata
-7 SAR, Molecular Modelling Simulations Nadh, Gangadhara Angajala, Tella Lakshmi Chemistry Select 2024
-Targeting Tubulin alphabeta Dimer and its Viveka, Valmiki Aruna
-Antimicrobial Evaluation
-Ultrasound assisted MK-10 catalyzed new
-benzimidazole bejewelled quinoline molecular
-Pavan Pasupala, Gangadhara Angajala, Journal of Molecular
-8 hybrids: Facile synthesis, SAR, molecular 2024
-Subashini Radhakrishnan, Valmiki Aruna structure
-modelling and biological evaluation as free
-radical scavengers
-Synthesis, structure analysis, Hirshfeld surface
-studies, molecular docking studies against
-9 cyclin-dependent kinases (CDKs) of Narra Sivakrishna Results in Chemistry 2024
-sulfonamide decorated N6 -benzyl
-aminopurines for cancer treatment”
-Radhika Parikirala, Shuchi Tiwari, Gangadhar
-Electrochemical synthesis of graphene oxide Comprehensive Analytical
-10 Thalari, Manohar Basude, Prabhakar Chetti, 2024
-and its analytical applications Chemistry,
-Someshwar Pola
-Unveiling the Potential of Tyre Pyrolysis Oil :
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for B.Tech. CE,EEE,ME,ECE,CSE,EIE,IT,AME, M.Tech. STRE, PE, AMS, SWE Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF (2022) 113 Rank in Engineering Category
+College with Potential for Excellence by UGC,JNTUH-Recognized Research Centres:CE,EEE,ME,ECE,CSE
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Department of Electronics and Communication Engineering
+Department Publications Summary Sheet
+Academic Year 2 0 1 8 - 2 0 1 9 - 2 0 2 0 - 2 0 2 1 - 2022- Total
+Description 2019 2020 2021 2022 2023
+SCI, SCIE, ESCI & WoS 05 12 16 17 24 74
+Indexed Publications
+Scopus Indexed 22 30 25 30 69 176
+Publications
+UGC CARE & Google 19 27 29 41 08 124
+Scholar Indexed
+publications
+Books/Book Chapters 05 08 14 08 04 39
+Total Publications 51 77 84 96 105 413
+Citations 274 289 671 935 950 3119
+Prepared by Verified by Approved by
+Dr. Pradeep Kumar Dr. L. Padma Sree Dr. S. Rajendra Prasad
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-
+NBA Accreditation for B.Tech. CE,EEE,ME,ECE,CSE,EIE,IT,AME, M.Tech. STRE, PE, AMS, SWEProgrammes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF(2022) 113Rank in Engineering Category
+College with Potential for Excellenceby UGC,JNTUH-Recognized Research Centres:CE,EEE,ME,ECE,CSE
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Faculty Publications in the Academic Year 2022-2023
+S. Name of author/s Journal/ Title of the paper Name of the National/ Year of Vol. no., Issue Indexi DOI of
+No. Conference Journal/ Internation Publicatio no., Pg. no., ng paper
+/Book Conference al n ISBN/ISSN
+Chapter Number
+1 Conference 2023 13th
+A. Ramesh Kumar; International
+10.1109/Co
+K. Hemanth FPGA Implementation of Conference on
+978-1-6654- nfluence560
+Lakshmi Phani Systolic FIR Filter Using Cloud Computing, Internatinal 22-Feb-23 Scopus
+6263-1 41.2023.100
+Prasad; B. Sriraj; P. Single-Channel Method Data Science &
+48843
+Raja Rajasri Engineering
+(Confluence)
+2 Book
+Aytha Ramesh Realization of 5G NR Machine Learning, https://doi.o
+Chapter
+Kumar, K. Lal Primary Synchronization Image Processing, 978-981-19- rg/10.1007/
+Internatinal 01-Jan-23 Scopus
+Kishore, and Signal Detector Using Network Security 5868-7 978-981-19-
+Parepalli Sravanthi Systolic FIR Filter and Data Sciences 5868-7_65
+3 Conference 2022 International
+Conference on
+FPGA Implementation of Recent Trends in 10.1109/IC
+Aytha Ramesh
+High Performance Microelectronics, Internationa 978-1-6654- MACC5482
+Kumar; Yadavalli 17-Apr-23 Scopus
+Hybrid Encryption Automation, l 9604-9 4.2022.1009
+Sharmila
+Standard Computing and 3505
+Communications
+Systems (ICMACC)
+4 Design and Journal
+Design and Performance https://doi.o
+Performance
+Analysis of 32 32 rg/
+Analysis of 32 32 Internationa 2079-9292, 12, SCI(Q2
+Memory Array Electronics (MDPI) Feb-23 10.3390/ele
+Memory Array l 834 )
+SRAM for Low-Power ctronics120
+SRAM for Low-
+Applications 40834
+Power Applications
+5 Aruru Sai Kumar1, Conference A Novel RRAM-based 2022 IEEE 19th
+10.1109/IN
+N. Neelima2, B. FPGA architecture with India Council
+Internationa 978-1-6654- Scopus/ DICON561
+Seetharamulu3, Improved Performance International 16-Feb-23
+l 7350-7 WoS 71.2022.100
+Namgiri Suresh4 and and Optimization Conference
+40133
+S. Siva Priyanka5 Parameters (INDICON)
+6 Conference 2022 IEEE 19th
+An Efficient Low-Power 10.1109/IN
+B. Naresh Kumar India Council
+VIP-based VC Router Internationa 978-1-6654- Scopus/ DICON561
+Reddy; Aruru Sai International 16-Feb-23
+Architecture for Mesh- l 7350-7 WoS 71.2022.100
+Kumar Conference
+based NoC 40017
+(INDICON)
+7 Conference 2023 13th
+Aruru Sai Kumar; V. International
+An Efficient AVR 10.1109/Co
+Santhosh Kumar; V. Conference on
+interfaced bluetooth Internationa 978-1-6654- Scopus/ nfluence560
+Hindumathi; G. Cloud Computing, 22-Feb-23
+controlled Robotic Car l 6263-1 WoS 41.2023.100
+Shanthi; E Vijaya Data Science &
+system 48798
+Babu; M. Raju Engineering
+(Confluence)
+8 Conference 2022 International
+Siva Ramakrishna
+Conference on
+Pillutla; Gunnam
+Mongoose OS Recent Trends in 10.1109/IC
+Suryanarayana;
+Prototyped ESP8266 Microelectronics, Internationa 978-1-6654- Scopus/ MACC5482
+Aruru Sai Kumar; 17-Apr-23
+Based Weather Automation, l 9604-9 WoS 4.2022.1009
+Sudha Ellison
+Forecaster Computing and 3640
+Mathe; Bandi
+Communications
+Narasimha Rao
+Systems (ICMACC)
+9 Journal Using advanced
+https://doi.o
+K. Raghava Rao1 · distributed energy
+rg/10.1007/
+B. Naresh Kumar efficient clustering Internationa SCIE(Q
+Soft Computing 05-Mar-23 1432-7643 s00500-
+Reddy2 · Aruru Sai increasing the l 2)
+023-07940-
+Kumar3 network lifetime in
+4
+wireless sensor networks
+10 Conference 2023 13th
+International
+Performance Evaluation 10.1109/Co
+Conference on
+N. Neelima; Y. of Clustering Based Tone Internationa 978-1-6654- nfluence560
+Cloud Computing, 22-Feb-23 Scopus
+Ravikumar Mapping Operators with l 6263-1 41.2023.100
+Data Science &
+State-of-Art Methods 48838
+Engineering
+(Confluence)
+11 Dr. K. Anitha Conference 2022 IEEE
+Sheela, Chevella International 10.1109/iSE
+Indian Sign Language Internationa 979-8-3503-
+Anil Kumar, Jella Symposium on 02-Feb-23 Scopus S54909.202
+Translator l 9922-6
+Sandya, Gaddam Smart Electronic 2.00015
+Ravindra Systems (iSES)
+12 Chevella Anil Conference 2022 International
+Analysis of Emotions 10.1109/IN
+Kumara; Kancharla Conference on
+from Speech using Internationa 13 April 978-1-6654- COFT5565
+Anitha Sheelab; Futuristic Scopus
+Hybrid Deep Learning l 2023 5046-1 1.2022.1009
+Naveen Kumar Technologies
+Network Models 4442
+Vodnalac (INCOFT)
+13 Conference 2022 International
+Conference on
+Ranjan K. Senapati,
+Compression and Recent Trends in 10.1109/IC
+Rohit Badri,
+Denoising of Medical Microelectronics, Internationa 978-1-6654- Scopus/ MACC5482
+Anudeep Kota, 17-Apr-23
+Images Using Automation, l 9604-9 WoS 4.2022.1009
+Nithin Merugu,
+Autoencoders Computing and 3634
+Suraj Sadhul
+Communications
+Systems (ICMACC)
+14 Conference 2022 International
+A DEEP LEARNING Conference on
+Y. Chalapathi Rao, APPROACH LUNG Recent Trends in 10.1109/IC
+P. Lavanya, V. Sagar SEGMENTATION AND Microelectronics, Internationa 978-1-6654- Scopus/ MACC5482
+17-Apr-23
+Reddy, V. Naveen PNEUMONIA Automation, l 9604-9 WoS 4.2022.1009
+Kumar DETECTION FROM X- Computing and 3274
+RAYS Communications
+Systems (ICMACC)
+15 Book 6th International
+Chapter Online Conference https://doi.o
+Hiranmayi Mannem, FPGA Based Smart on Electronics, rg/10.13052
+Internationa 978-8-7700- WoS/S
+Y. Chalapathi Rao, Home Automation Materials 01-Apr-23 /rp-
+l 4009-9 copus
+K. Swetha Reddy Device Controller Engineering & 9788770040
+Nano-Technology, 099
+IEMENTech 2022
+16 Conference 2022 International
+Kishore Pinninti;
+Conference on
+Sunil Goud
+Design of Area Efficient Recent Trends in 10.1109/IC
+Koppula; Abhinav
+Adders using Quantum- Microelectronics, Internationa 978-1-6654- Scopus/ MACC5482
+Krishna Narvaneni; 17-Apr-23
+dot Cellular Automata Automation, l 9604-9 WoS 4.2022.1009
+Sai Rakesh
+(QCA) Computing and 3426
+Gundapuneni;
+Communications
+Shivam Madnoorkar
+Systems (ICMACC)
+17 Conference 2022 4th
+International
+Semantic Knowledge
+Conference on
+Karnam Akhil; A. Base Ontology 10.1109/IC
+Advances in
+Brahmananda Framework for Internationa 978-1-6654- AC3N5667
+Computing, 28-Mar-23 Scopus
+Reddy; Archana K Discovery Stage of the l 7436-8 0.2022.1007
+Communication
+Bhange Design Thinking Using 4380
+Control and
+Web Ontology Language
+Networking
+(ICAC3N)
+18 Journal
+1Lavanya Detection of COVID-19 https://doi.o
+Shinangaram and Using Screen Printed Journal of Machine Internationa 3(1)(2023), rg/10.53759
+05-Jan-23 Scopus
+2Santhosh Kumar Electrode based and Computing l 2788-7669 /7669/jmc2
+Dhatrika Biosensor 02303001
+19 Conference 2022 International
+Santosh Kumar Conference on
+Choudhary; Yesu Recent Trends in 10.1109/IC
+Segmentation of Brain
+Nirmala Lekha Microelectronics, Internationa 978-1-6654- MACC5482
+MRI Images using Deep 17-Apr-23 Scopus
+Chittajallu; Javvaji Automation, l 9604-9 4.2022.1009
+Learning
+Anisha; Sai Teja Computing and 3604
+Meka; Bhuvaneswa Communications
+Systems (ICMACC)
+20 Journal ECG beat classification https://doi.o
+using proposed pattern rg/10.1007/
+L. V. Rajani Kumari Signal, Image and Internationa SCI
+adaptive 11-Mar-23 1863-1711 s11760-
+· Y. Chalapathi Rao Video Processing l (Q2)
+wavelet-based hybrid 023-02501-
+classifiers 6
+21 Journal A novel embedded https://doi.o
+S. M. K. Chaitanya1 system for rg/10.1007/
+Multimedia Tools Internationa SCI(Q1
+· Nagadeepa cyber-physical system 27-Mar-23 1573-7721 s11042-
+and Applications l )
+Choppakatla2 using 023-15172-
+crypto mechanism 9
+22 Dr. V. Mohanraj, * 2 Journal
+Dr. J. Intelligent assistant to
+NITHYASHRI, predict and
+3 control the home
+Dr. V. Priyanka appliances in user Journal of ISSN: 2146- 10.5455/jc
+Internationa Feb 15,
+Brahmaiah, 4 Dr. environment through Complementary 8397 Vol. 14, WoS mr.2023.14.
+l 2023
+A.Shankar, 5 Srithar brain computer Medicine Research No. 2, 2023 02.23
+S, interface using hybrid
+6 deep learning
+Mr. David Samuel model
+Azariya
+23 Conference 2022 International
+V. Priyanka DESIGN OF AREA Conference on
+Brahmaiah; Vijaya AND POWER- Recent Trends in 10.1109/IC
+Kumar Gurrala; Sai OPTIMIZED VLSI Microelectronics, Internationa 978-1-6654- Scopus/ MACC5482
+17-Apr-23
+Teja Tuduru; ARCHITECTURE OF Automation, l 9604-9 WoS 4.2022.1009
+Kakarla Hari ALUDESIGN USING Computing and 3559
+Kishore SIGNED MULTIPLIER Communications
+Systems (ICMACC)
+24 Vijayakumar Gurrala Journal
+,
+Sleep stage based sleep https://doi.o
+Padmasai Vol.19
+disorder detection International Journal Internationa February SCIE(Q rg/10.1504/I
+Yarlagadda No.6/7/8/9/10/
+usingsingle-channel of Nanotechnology l 13, 2023 4) JNT.2022.1
+and 11, 1741-8151
+electroencephalogram 28988
+Padmaraju
+Koppireddi
+25 Conference 2022 International
+CONVOLUTION Conference on
+J L V Ramana MERGING Recent Trends in 10.1109/IC
+Kumari; B Keerthan; TECHNIQUE FOR Microelectronics, Internationa 978-1-6654- MACC5482
+17-Apr-23 Scopus
+T Nikhil; G. Puneeth IMAGE Automation, l 9604-9 4.2022.1009
+Shoury ENCRYPTION Computing and 3653
+APPLICATION Communications
+Systems (ICMACC)
+26 Aruna Kumari Conference
+Kakumani; L. Padma
+2022 International
+Sree; Chittimalla Sai Semantic Segmentation
+Conference on
+Krishna; of Cells in Microscopy 10.1109/M
+Machine Learning, Internationa 978-1-6654-
+Greeshmitha Images via Pretrained 28-Mar-23 Scopus LCSS57186
+Computer Systems l 5493-3
+Uppalapati; Autoencoder and .2022.00025
+and Security
+Gudimetl Santhoshi Attention Unet
+(MLCSS)
+Sri Pavithra,
+Seshadri Harshini
+27 Conference 2022 International
+K. Jyostna; N. Conference on
+A comparitive Survey on
+Satwik; Sarepallli Recent Trends in 10.1109/IC
+Spectrum Sensing
+Shanmukh Anvesh; Microelectronics, Internationa 978-1-6654- MACC5482
+Techniques for the 17-Apr-23 Scopus
+G. Sai Anirudh Automation, l 9604-9 4.2022.1009
+Impletation of Cognitive
+Reddy; M. Bhargav Computing and 3305
+Vehiculur Network
+Raj Communications
+Systems (ICMACC)
+28 D. Ramesh Reddy; Conference
+Design and Development 2022 IEEE
+Miriyala Kavya;
+of a Low Cost Crop International 10.1109/iSE
+Saradhi Dharani; Sri Internationa 979-8-3503-
+Protection System Using Symposium on 02-Feb-23 Scopus S54909.202
+Sahithi Tumpudi; l 9922-6
+Internet of Things and Smart Electronic 2.00134
+Prakash Kodali; N.
+Machine Learning Systems (iSES)
+Sandhya
+29 Conference 2023 5th
+Automatic Detection and
+Pradeep Kumar; K. International https://doi.o
+Localization of Breast
+Sangeetha; A. Sai Conference on Smart rg/10.1109/I
+Cancer from Internationa 978-1-6654-
+Praneeth; M. Sethu Systems and 14-Mar-23 Scopus CSSIT5581
+Mammogram Imaging l 7467-2
+Madhav; T Inventive 4.2023.1006
+Modality using Modified
+Swaroopa; G Rohit Technology 1000
+Faster RCNN
+(ICSSIT)
+30 Conference 2022 International
+Conference on
+Fast Convergent Unified Recent Trends in 10.1109/IC
+Manasa Yatagiri; Richardson Detection Microelectronics, Internationa 978-1-6654- MACC5482
+17-Apr-23 Scopus
+Pitchaiah Telagathoti Technique for Massive Automation, l 9604-9 4.2022.1009
+MIMO Systems Computing and 3655
+Communications
+Systems (ICMACC)
+31 Journal Black gram disease https://doi.o
+Srinivas Talasila1,2 · classification using a rg/10.1007/
+Multimedia Tools Internationa SCI(Q1
+Kirti Rawal1 · novel deep 30-Mar-23 15737721 s11042-
+and Applications l )
+Gaurav Sethi1 convolutional neural 023-15220-
+network 4
+32 Conference 2023 International
+E Vijaya Babu; 10.1109/IC
+Analysis of Low-Delay Conference for
+Srinivas Talasila; N Internationa 978-1-6654- ONAT5713
+in 64-bit Vedic multiplier Advancement in 03-Apr-23 Scopus
+Divya; S Sunny l 7517-4 7.2023.1008
+based MAC unit Technology
+Deva; Ch Vani 0612
+(ICONAT)
+33 Conference An In-Silico Study on 2022 IEEE-EMBS https://doi.o
+Helan Satish1 and Effect of KCNQ1 Conference on rg/10.1109/I
+Internationa 978-1-6654-
+Ramasubba Reddy P535T Mutation in Biomedical Mar-23 Scopus ECBES540
+l 9469-4
+M Cardiac Ventricular Engineering and 88.2022.100
+Cells Sciences (IECBES) 79281
+34 Chokkakula Journal Reconfigurable negative Vol.13, No.4,
+International Journal
+Ganesh1,2, Fazal bit line collapsed supply pp. 10.11591/ij
+of Electrical and Internationa Feb 26, Scopus(
+Noorbasha1,Korlapa write-assist for 9T-ST 3747~3755, ece.v13i4.p
+Computer l 2023 Q3)
+ti Satyanarayana static random access ISSN: 2088- p3747-3755
+Engineering (IJECE)
+Murthy memory cell 8708
+35 Journal https://doi.o
+Computational Study on Volume no:
+HelanSatish· rg/10.1007/
+Effect of KCNQ1 P535T The Journal of Internationa 11-May- 256,
+Ramasubba Reddy SCIE s00232-
+Mutation in a Cardiac Membrane Biology l 23 Pages: 287 -
+Machireddy 023-00287-
+Ventricular Tissue 297,
+9
+36 Sakthivel M a,*, Journal Volume 27,
+Automated detection of https://doi.o
+SivaSubramanian S 2023,
+cardiac arrest in human Measurement: Internationa 13-May- rg/10.1016/j
+b, Priyanka 100792, Scopus
+beings using auto Sensors l 23 .measen.202
+Brahmaiah V c, ISSN 2665-
+encoders 3.100792
+Hosanna Princye P 9174,
+d,
+Prasad GNR e,
+Thangamani M f
+37 Conference Image Enhancement with
+Deep Learning and International https://doi.o
+Aruna Kumari
+Intensity Transformation Conference on Internationa 17-May- 978-981-99- rg/10.1007/
+Kakumani and L Scopus
+of No-Reference Recent Innovations l 23 0600-0 978-981-99-
+Padma Sree
+Grayscale Fluorescence in Computing 0601-7_31
+Microscopy Images
+38 Conference 2023 2nd
+International
+Conference on
+Naga Sritha M; Recognition of Covid-19 10.1109/Vi
+Vision Towards
+Naveen Kumar V; using Capsule Neural Internationa 979-8-3503- TECoN581
+Emerging Trends in 26-Jun-23 Scopus
+Jitesh Nath S; Padma Networks on Chest X- l 4798-2 11.2023.101
+Communication and
+Sai Y; Sai Deva K rays 57085
+Networking
+Technologies
+(ViTECoN)
+39 Journal
+Raja Kumari Radar Signal International
+1847-6996, https://doi.o
+Chilukuri, Hari Recognition Based on Journal of Electrical Internationa 26-01-
+Vol. 14 No. 1 Scopus rg/10.32985
+Kishore Kakarla, K Multilayer Perceptron and Computer l 2023
+(2023) /ijeces.14.1.
+Subba Rao Neural Network Engineering Systems
+4
+40 L. N. B. Srinivas1 · Journal
+A. M. Viswa https://doi.o
+An optimized machine
+Bharathy2 · rg/10.1007/
+learning framework for Multimedia Tools Internationa 08-May-
+Sravanth Kumar SCIE s11042-
+crop disease and Applications l 23 1380-7501,
+Ramakuri3 · 023-15446-
+detection
+Abhisek Sethy4 · 2
+Ravi Kumar5
+41 Conference
+International https://doi.o
+Chevella Anil Development of a Speech
+Conference on Smart Internationa 978-981-99- rg/10.1007/
+Kumar & Kancharla to Indian Sign Language 15-Jun-23 Scopus
+Computing and l 0838-7 978-981-99-
+Anitha Sheela Translator
+Communication 0838-7_30
+42 Abolfazl Journal
+Mehbodniya1* ,
+Julian Webber1 ,
+Appari Geetha Content-Based Image
+Vol. 40, No. 2, https://doi.o
+Devi2 , Rajendra Recovery System with Internationa
+Traitement du Signal 30-Apr-23 April, 2023, SCIE rg/10.18280
+Prasad Somineni3 , the Aid of Median l
+pp. 667-674 /ts.400225
+Mangali Chinna Binary Design Pattern
+Chinnaiah4 , Anju
+Asokan5 , Koka
+Shamshad Bha
+43 Conference 2022 International
+Conference on
+FPGA BASED
+Recent Trends in 10.1109/IC
+Y. Sravya Mounika; HARDWARE
+Microelectronics, Internationa 978-1-6654- MACC5482
+B B Shabarinath; P. ACCELERATOR FOR 17-Apr-23 Scopus
+Automation, l 9604-9 4.2022.1009
+Srinivasa Rao CONVOLUTION
+Computing and 3648
+NEURAL NETWORK
+Communications
+Systems (ICMACC)
+44 Journal http://nebul
+a.wsimg.co
+TRAFFIC m/784b611
+Konikineni Deepthi, MANAGEMENT 74efc892ff0
+Payyavula USING 68b7aace98
+APR- ISSN: 2393-
+Phaneendra, P.Varun INTELLIGENT Internationa Google 6d12?Acces
+IJRECE JUNE 9028, VOL. 11
+Sai, Shaik TRANSPORTATION l Scholar sKeyId=DF
+2023 ISSUE 2
+Mohammed Ismail SYSTEMS B1BA3CE
+Sarfaraz AND VANET FUZZY D7E7997D
+ALGORITHMS 5B1&dispos
+ition=0&all
+oworigin=1
+45 Conference 2023 7th
+L Dharma Teja; https://doi.o
+International
+Middinti Archana VLSI Architecture for rg/10.1109/I
+Conference on Internationa 24-May- 979-8-3503-
+Reddy; Bommakanti Fractional-Order Scopus COEI56765
+Trends in l 23 9728-4
+Pravali; Kolupula Adaptive Filter .2023.10125
+Electronics and
+Prashanth 691
+Informatics (ICOEI)
+46 Conference 2023 7th
+Sohila Kanaparthi; https://doi.o
+International
+Y. Chalapathi Rao; rg/10.1109/I
+APD-based Laser Range- Conference on Internationa 24-May- 979-8-3503-
+Kasyap Battula; Scopus COEI56765
+Gating System Trends in l 23 9728-4
+Sivaditya Kamadi; .2023.10125
+Electronics and
+Ramesh Varma Potti 929
+Informatics (ICOEI)
+47 Conference 2023 2nd
+https://doi.o
+P. Kishore; Rohan International
+Implementation of Braun rg/10.1109/I
+Sirimalla; K. Sai Conference for Internationa 979-8-3503-
+and Baugh-Wooley 19-Apr-23 Scopus NOCON57
+Sushma; R. Saikiran Innovation in l 2092-3
+Multipliers Using QCA 975.2023.10
+Reddy Technology
+101300
+(INOCON)
+48 Journal https://www
+MODIFIED LEACH
+.eurchembul
+ALGORITHM FOR
+Dr. M.C. Raju1 l.com/uploa
+ENERGY
+, Siddavatam Sneha2 European Chemical Internationa 05.06.202 ISSN 2063- ds/paper/4d
+EFFICIENT Scopus
+, Neha Rajula3, Sai Bulletin l 3 5346 185bfb73bb
+CLUSTERING IN
+Pranay Rathna4 3dbbca2c86
+WIRELESS SENSOR
+e5ce8a0d82
+NETWORKS
+.pdf
+49 Journal https://doi.o
+R-Peak Identification in
+L. V. Rajani Kumari, 10.1080/03772 rg/10.1080/
+ECG Signal Using IETE JOURNAL OF Internationa
+Y. Padma Sai & N. 01-Mar 063.2021.1893 SCIE 03772063.2
+pattern Adapted Wavelet RESEARCH l
+Balaji 229 021.189322
+Technique
+9
+50 Conference 4th International
+Conference on
+S.Naga Leela1* Design of Wallace tree Design and https://doi.o
+E3S Web
+, Boppa Manisha1 multiplier circuit using Manufacturing Internationa rg/10.1051/
+05-Jun-23 Conf. Scopus
+, Palle Bharath1 high performance and Aspects for l e3sconf/202
+Volume 391,
+, and Erram Praneeth low power full adder Sustainable Energy 339101025
+2023
+(ICMED-ICMPC
+2023)
+51 Conference Lecture Notes https://link.s
+Third International in Networks pringer.com
+Perumalla, S.R.,
+Digital Skeletonization Conference on Internationa and Systems, /chapter/10.
+Alekhya, B., Raju, 23-Feb-23 Scopus
+for Bio-Medical Images Sustainable Expert l vol 587. 1007/978-
+M.C
+Systems Springer, 981-19-
+Singapore., 7874-
+981-19-7874- 6_21#:~:tex
+6_21 t=587.%20S
+pringer%2C
+%20Singap
+ore.-
+,https%3A//
+doi.org/10.1
+007/978%2
+D981%2D1
+9%2D7874
+%2D6_21,-
+Download%
+20citation
+52 Conference 2023 2nd
+International
+Y. Bhaskara
+Conference on https://doi.o
+Raghava; V. Pranay
+Detection of Tumor in Vision Towards rg/10.1109/
+Srinidhi; K. Internationa 979-8-3503-
+the Liver Using CNN Emerging Trends in 26-Jun-23 Scopus ViTECoN5
+Ramakrishna; l 4798-2
+and Mobile Net Communication and 8111.2023.1
+Sireesha Amaraneni;
+Networking 0156979
+G.V. Subba Reddy
+Technologies
+(ViTECoN)
+53 Conference 2023 2nd
+International
+Anuhya Kesana;
+Conference on https://doi.o
+Jayanthi Nallola;
+Brain Tumor Detection Vision Towards rg/10.1109/
+Rudra Teja Internationa 979-8-3503-
+Using YOLOv5 and Emerging Trends in 26-Jun-23 Scopus ViTECoN5
+Bootapally; Sireesha l 4798-2
+Faster R-CNN Communication and 8111.2023.1
+Amaraneni; G V
+Networking 0157773
+Subba Reddy
+Technologies
+(ViTECoN)
+54 Conference 5th International
+Conference on
+Y.Manasa, Boorle Design of LIFI Based Recent
+Vidyananda Sagar, Under Water Advancements in Internationa 05-05- 978-93-92105- Google
+Mamindla Venu, R. Communication Engineering and l 2023 53-1 Scholar
+Deepika System Technology
+63
+ICRAET-
+55 Journal PerformanceandStability ACTIVE AND https://doi.o
+Volume 2023,
+Chokkakula Ganesh Analysis of Built-In Self- PASSIVE Internationa rg/10.1155/
+30-Jun-23 0882-7516 / WoS
+and Fazal Noorbasha ReadandWrite ELECTRONIC l 2023/33715
+1563-5031
+Assist 10T SRAM Cell COMPONENTS 99
+56 Book B-AAP (Apple
+Pradeep Kumar, Basic Understanding of
+Chapter Academic Press), Internationa 07-07- 978-100-31-9
+Subodh Srivastava, Medical Image Scopus
+Taylor and Francis l 2022 001-1
+Y. Padma Sai Processing
+Group Publisher
+57 Conferencer FPGA Design of Area
+Efficient and Superfast
+Communication, 10.1007/97
+Manne Praveena, N Motion Estimation Using Internationa 978-981-19-
+Software and 28-Oct-22 Scopus 8-981-19-
+Balaji, CD Naidu JAYA Optimization- l 4990-6
+Networks 4990-6_13
+Based Block Matching
+Algorithm
+58 Conference 2022 35th
+International
+Design of 8-bit Dadda Conference on VLSI
+10.1109/VL
+K. Naresh, Y. P. Sai Multiplier using Gate Design and 2022 Internationa 978-1-6654-
+14-Sep-22 Scopus SID2022.20
+and S. Majumdar, Level Approximate 4:2 21st International l 8505-0
+22.00059
+Compressor Conference on
+Embedded Systems
+(VLSID), 2022
+59 Conference 2022 2nd
+International
+Performance Analysis of
+Uma Maheshwar Conference on 10.1109/IC
+RRAM Based Low
+Janniekode, Emerging Frontiers Internationa 24-25 June 978-1-6654- EFEET5182
+Power NVSRAM Cell Scopus
+Rajendra Prasad in Electrical and l 2022 8875-4 1.2022.9848
+Designs for IoT
+Somineni Electronic 170
+Applications
+Technologies
+(ICEFEET)
+60 Conference National
+DESIGN AND
+Conference on
+PERFORMANCE
+Uma Maheshwar Advances in
+ANALYSIS OF 27th
+Janniekode, Electrical, Google
+VARIOUS LEAKAGE National November
+Rajendra Prasad Electronics & Scholar
+REDUCTION , 2022
+Somineni Computer
+TECHNIQUES FOR
+Engineering,
+SRAM CELL
+Warangal
+61 Conefrence Design and Analysis of
+Bindu Varsha
+16nm GNRFET and
+Garidepalli; 2022 IEEE IAS https://doi.o
+CMOS
+Rajendra Prasad Global Conference rg/10.1109/
+Based Low Power 4kb Internationa 978-1-6654-
+Somineni; Anudeep on Emerging 09-Sep-22 Scopus GlobConET
+SRAM Array Using 1- l 4357-9
+Peddi; Uma Technologies 53749.2022.
+Bit
+Maheswar (GlobConET) 9872358
+6T SRAM Cell
+Janniekode
+62 Journal International Journal
+Design and Development
+of Advanced
+Sohila Kanaparthi, Y of a novel Accident
+Research in Basic 2456-5717, pp. Google
+Chalapathi Rao, Detection and Internatinal Jul-22
+Engineering 101-106 Scholar
+Divya Kadam Emergency Reporting
+Sciences and
+System
+Technology
+63 Journal International Journal
+of Advanced
+Dr.Y.Chalapathi
+Smart Application Based Research in
+Rao1, P.Lavanya2, 2454-9762, pp. Google
+Parking System Using Management, Internatinal Jul-22
+B.Koteswara Rao3, 40-46 Scholar
+Internet of Things Architecture,
+Sohila.Kanaparthi
+Technology and
+Engineering
+64 Dr.Y. Chalapathi Journal
+Rao1, Fameena
+Recognition of Intent Journal of 10.47750/p
+Ansari2, K. Abhinav Volume 13 ¦ Scopus
+Using Light Detection Pharmaceutical Internatinal Jul-05 nr.2022.13.
+Reddy3, Pavan Special Issue 3 (Q4)
+and Ranging Negative Results S03.115
+Sidhartha4, Rasi
+Pratyusha5
+65 Journal
+An Improved Routing International Journal Volume 70
+G. Sahitya, N. Protocol for of Engineering Issue 10, 79- Scopus
+Internatinal Dec-22
+Balaji, C. D. Naidu Heterogeneous Wireless Trends and 86, October (Q4)
+Sensor Networks Technology 2022
+66 Conference 2022 13th
+G.Sahitya, C.
+International
+Kaushik, Pilly Sujith
+Leaf Disease Detection Conference on Internationa 978-1-6654-
+Simha, Dhanush 26-Dec-22 Scopus
+Using Raspberry Pi Computing l 5262-5
+Reddy, Shashi
+Communication and
+kumar, Vinay
+Networking
+Technologies
+(ICCCNT)
+67 Dr.B.Naga lakshmi1 Journal
+Block chain-based
+Dr.P.kishore 2, Dr B. 10.14704/n
+Secure Large 20(8): 7858- Scopus
+Ratnakanth 3 NeuroQuantology Internatinal Jul-22 q.2022.20.8.
+Information 7861 (Q3)
+Dr.P.Prasana Murali NQ44810
+Storage on Cloud
+Krishna4 , A. Sneha
+68 K.L.V. Ramana Conference Convolution Merging International th-
+Kumari, B.Keerthan, Technique For Image Conference on 30st 2023
+T.Nikhil, G. Puneeth Encryption Application Micro Electronics, DOI:
+Pg No.401-
+Shoury Automation, Internatinal Scopus 10.1109/IC
+406
+Computing and MACC5482
+Communication 4.2022.1009
+Systems (ICMACC), 3653
+69 J L V Ramana Conference Design And International
+Kumari, Varshitha. Implementation Of Alu Conference on
+Y, Rakhesh M , Using Ring Counters Signal Processing,
+Gopi .Ch Computation, 979-8-3503- DOI:
+Internatinal Mar-23 Scopus
+Electronics, Power 1212-6 10.1109/IC
+and onSCEPT57
+Telecommunication 958.2023.10
+(IConSCEPT) 170295
+70 Conference 2022 International
+Conference on
+Kota Murali Mohan; https://doi.o
+Implementation of N- Recent Trends in
+K. Naresh; CH. rg/10.1109/I
+Point FFT/IFFT Microelectronics, Internationa 978-1-6654-
+Ganesh; V. Sagar 17-Apr-23 Scopus CMACC54
+processor based Radix -2 Automation, l 9604-9
+Reddy; K. Hari 824.2022.10
+using FPGA Computing and
+Kishore 093290
+Communications
+Systems (ICMACC)
+71 B. Nikitha 1,B. Journal
+Srikar2, M. Prasanna
+Journal of Current https://www
+Lakshmi 3, V. Content Based Medical
+Research in Internationa Google .psvpec.in/j
+Sowmya Sree4, Image Retrieval System Aug-22 2581-611X
+Engineering and l Scholar cres/2022_2
+V.Prashanth Using DCNN
+Science /95.pdf
+Kumar5, Dr. Ranjan
+Kumar Senapathi
+72 Conference 2022 13th
+V. Priyanka International
+Brahmaiah1, Aruru Conference on
+An Efficient Pulse
+Sai Kumar2, N. Computing Internationa 978-1-6654-
+Detector with Arduino 26-Dec-22 Scopus
+Neelima3, S. Siva Communication and l 5262-5
+and IR Sensor
+Priyanka4 and Networking
+Talluri Vineel Jessy Technologies
+(ICCCNT)
+73 N. Vishnu Teja, Conference Advancements of
+Kalyana Srinivas Artificial Intelligencein
+Innovations in https://doi.o
+Kandala, Anudeep Microbiological Study by 978-981-19-
+Signal Processing Internationa rg/10.1007/
+Peddi,I. Neelima, Extractionand 14-Sep-22 1669-4, pp Scopus
+and Embedded l 978-981-19-
+Poonam Upadhyay Identification of 209 219
+Systems 1669-4_19
+& N. Sudhakar Different Micro-
+Yadav organism Clusters
+74 R. Hruthik Chandra, Conference
+Anudeep Peddi,
+Innovations in https://doi.o
+Kalyana Srinivas Rice Disease Detection
+Signal Processing Internationa 978-981-19- rg/10.1007/
+Kandala, I. Neelima, andClassification Using 14-Sep-22 Scopus
+and Embedded l 1669-4 978-981-19-
+N. Sudhakar Yadav ArtificialIntelligence
+Systems 1669-4_20
+& Choudary Santosh
+Kumar
+75 Conference Applications of Artificial
+Chinthala Akhil, Intelligence for
+Kalyana Srinivas Autonomous Landing Innovations in https://doi.o
+Kandala, Anudeep and Multicopter Signal Processing Internationa 978-981-19- rg/10.1007/
+14-Sep-22 Scopus
+Peddi, N. Sudhakar Unmanned Aerial and Embedded l 1669-4 978-981-19-
+Yadav, T. Srinivasa Vehicles Design by Systems 1669-4_15
+Rao & I. Neelima Space Exploration
+Machines
+76 Kandala Kalyana Conference
+2022 International
+Srinivas, Paniteja
+Artificial Intelligence Mobile and 10.1109/M
+Vangara, Radha 10-11
+based Forecasting Embedded Internationa 978-1-6654- ECON5387
+Thiparapu, R March Scopus
+Techniques for the Technology l 2020-4 6.2022.9752
+Sravanth Kumar, 2022
+Covid-19 pandemic Conference 240
+Kandala Aditya
+(MECON)
+Bhagavathi
+77 G.Shanthi , Aruru Conference 2022 International
+DOI:
+Sai Kumar , An Efficient FPGA Conference on 978-1-6654-
+10.1109/ICI
+P.Phanidra , Implementation of Intelligent Internationa 06-12- 5653-
+Scopus IET55458.2
+G.Samartha Raj , Cascade Innovations in l 2022 1/22/$31.00
+022.996752
+N.Niharika , Integrator Comb Filter Engineering and Conference ©2022 IEEE
+2
+K.Kalyani. Technology
+78 Vijaya Kumar Conference
+Advances in Signal https://doi.o
+Gurrala, Y. Padma
+Speech Processed Public Processing and Internationa 02-12- 978-981-19- rg/10.1007/
+Sai, Nikhitha Scopus
+Addressing System Communication l 2022 5550-1 978-981-19-
+Karennagari & K.
+Engineering 5550-1_21
+Yashwanth Reddy
+79 Sravanth Kumar R1, Journal
+Rajendra Prasad2,
+Kalyana Srinivas3,
+Obstacle Detecting AI Internationa Scopus
+Kandukuri NeuroQuantology Sep-22 1303-5150
+Glasses for the Blind l (Q4)
+Gnaneshwar 4, Kala
+Sri Sowmya 5,
+Kaluwala Abhilash
+80 Akhila1*, R. Journal Accessing the Virtual
+Sravanth Kumar2, Keyboard Using Cortical
+Internationa Scopus
+G. Ramya3, Recordings for Paralytic NeuroQuantology Aug-22 1303-5150
+l (Q4)
+Anudeep Peddi4, Patients Using Wireless
+Sailesh Sarpatwar EEG Device
+81 1*Dr. Sreenivasulu Journal
+Gogula , 2Dr. M. Modernized Wildlife International Journal
+https://doi.o
+Rajesh Khanna, 3Dr. Surveillance and on Recent and ISSN: 2321-
+Internationa rg/10.17762
+Neelappa, 4Dr. Ajith Behaviour Detection Innovation Trends in Dec-22 8169 Volume: Scopus
+l /ijritcc.v10i
+Sundaram, 5E. using a Novel Machine Computing and 10 Issue: 2s
+2s.5911
+Rajesh Kumar, 6Dr. Learning Algorithm Communication
+Sravanth Kumar R
+82 Conference 2022 4th
+C. Kaushik; J.
+International
+Vibhath; L. Energy Optimization and 10.1109/ICI
+Conference on
+Nagamani; Optimal Routing Internationa 978-1-6654- RCA54612.
+Inventive Research Dec-22 Scopus
+Podduturi Ashish Protocol in Wireless l 9707-7 2022.99855
+in Computing
+Reddy; Posanpally Sensor Networks 49
+Applications
+Bhavik Reddy
+(ICIRCA)
+83 Conference 2022 3rd
+Network Security with
+International
+Network Intrusion 10.1109/IC
+C. Kaushik; T. Ram; Conference on
+Detection System using Internationa 978-1-6654- ESC54411.
+C Ritvik; T. Electronics and Sep-22 Scopus
+Machine Learning l 7971-4 2022.98855
+Lakshman Sustainable
+Deployed in a Cloud 69
+Communication
+Infrastructure
+Systems (ICESC)
+84 Journal
+International Journal November http://dx.doi
+Aruna Kumari Volume 13,
+OF BREAST CANCER of Advanced Internationa - Google .org/10.264
+Kakumani, Dr. L. No. 6, ISSN
+Research in l December Scholar 83/ijarcs.v1
+Padma Sree No. 0976-5697
+FLUORESCENCE Computer Science 2022 3i6.6921
+IMAGES
+85 Journal BRB U-Net: Bottleneck
+Aruna Kumari International Journal Volume 184
+Residual Blocks in U-Net Internationa Google
+Kakumani, Dr. L. of Computer Oct-22 No.33, 0975
+for Light-Weight l Scholar
+Padma Sree Applications 8887
+Semantic Segmentation
+86 Aruna Kumari Conference
+Kakumani, L Padma
+Segmentation of Cell 2022 IEEE 3rd
+Sree, Boggula Varun
+Nuclei in Microscopy Global Conference Internationa Oct 7-9, 978-1-6654-
+Kumar, Surineni Scopus
+Images for Advancement in l 2022 6855-8/22
+Karthik Rao, Mithil
+using Modified ResUNet Technology (GCAT)
+Garrepally,
+Chandrakanth M
+87 Dharma Teja Lanka, Journal
+ANALYZING
+S.Rajendra Prasad,
+PERFORMANCE
+K.Srinivasa Rao, Vol-8 Issue-4,
+METRICS OF Internationa Google
+P.Venkatesh, IJARIIE July,2022 ISSN(O)-
+LOW POWER 15T l Scholar
+B.Sushma, 2395-4396
+SRAM CELL USING
+H.Saritha, B.Sai
+FINFET AND GNRFET
+Nikhith
+88 Journal Design of Low Power
+Dharma Teja 15T SRAM Cell using
+Volume VII
+Lanka1, S. Rajendra 20nm technology Based Internationa SCIE
+ZKG International Nov-22 Issue II, ISSN:
+Prasad2 and K. on l (Q4)
+2366-1313
+Srinivasa Rao3 FinFET, CNTFET and
+GNRFET
+89 Journal International
+Dharma Teja Performance Analysis of
+Advanced Research Vol. 9, Issue
+Lanka1, S Rajendra RHBD 14T and 15T Internationa Google
+Journal in Science, Oct-22 10, ISSN (O)
+Prasad2, K Srinivasa SRAM Cells Using Dual l Scholar
+Engineering and 2393-8021
+Rao3 Rail Voltage Technique
+Technology
+90 Conference RECOGNITION AND
+Naveen Kumar Volume 25
+ANALYSIS OF JOURNAL OF
+Vodnala1, Y. Padma Internationa 16-11- Issue 04, 2022 Scopus
+ASTHMA DISEASE NORTHEASTERN
+Sai2, Prathyusha l 2022 ISSN: 1005- (Q4)
+BASED ON COUGH UNIVERSITY
+Vilasagaram3 3026
+SOUND
+91 Bolumalla Surya1*, Journal
+VOLUME 20 |
+Y. Padma Respiratory Disease 10.14704/N
+NEUROQUANTOL Internationa 01-11- ISSUE 15 | Scopus
+Sai2,Naveen Kumar Classification Based on Q.2022.20.1
+OGY l 2022 PAGE 3772- (Q4)
+Vodnala3, V Sagar Vowel Sounds 5.NQ88379
+3779
+Reddy4
+92 Journal Network throughput https://doi.o
+International Journal Volume 70
+Optimization for Relay rg/10.14445
+Srinivasa Rao Patri1, of Engineering Internationa Issue 9, 148- Scopus
+Based Sep-22 /22315381/I
+L. Nithyanandan2 Trends and l 154, ISSN: (Q4)
+NB-CR-IoT Wireless JETT-
+Technology 2231 5381
+Body Area Network V70I9P215
+93 Book Basic Understanding of Biomedical
+Pradeep Kumar,
+Chapter Medical Imaging Engineering: Internationa 07-07- 978100319
+Subodh Srivastava, Scopus
+Modalitie Techniq ues and l 2022 0011
+Y. Padma Sai
+s Applications
+94 Journal IMPROVED
+COOPERATIVE VOLUME 20 |
+1Manasa Yatagiri,
+COMMUNICATION IN ISSUE 15 | 10.14704/N
+2Kathroj Manasa, NEUROQUANTOL Internationa Scopus
+MULTI-HOP Nov-22 PAGE 1193- Q.2022.20.1
+3Gujjula Ramya,4 P. OGY l (Q4)
+WIRELESS 1200, eISSN 5.NQ88105
+Sravanthi
+NETWORKS WITH 1303-5150
+NETWORK CODING
+95 1B. Alekhya , 2Prof Journal MINIATURE, STATE-
+L Anjaneyulu, OF-THE-ART VOLUME 20 |
+3P.Suresh Babu , METAMATERIAL ISSUE 15 | 10.14704/N
+NEUROQUANTOL Internationa Scopus
+4Raja Kumari ANTENNAS FOR Nov-22 PAGE 1201- Q.2022.20.1
+OGY l (Q4)
+Chilukuri,5 Hari WEARABLE 1209, eISSN 5.NQ88106
+Kishore Kakarla, IOT DEVICES, 1303-5150
+6A. Pravallika MEDICAL
+MONITORING, AND
+5G NETWORKS
+96 Journal An Efficient Real-Time
+https://doi.o
+Embedded Application Volume 128,
+Aruru Sai Kumar1 · rg/10.1007/
+Mapping Wireless Personal Internationa pages 2937 SCI
+B. Naresh Kumar 12-Oct-22 s11277-
+for NoC Based Communications l 2952, 0929- (Q2)
+Reddy2 022-10080-
+Multiprocessor System 6212
+x
+on Chip
+97 Conference 2022 29th IEEE
+Fault-Tolerant Core
+International 10.1109/IC
+B. Naresh Kumar Mapping for NoC based
+Conference on Internationa 978-1-6654- ECS202256
+Reddy; Alex James; architectures with 12-Dec-22 Scopus
+Electronics, Circuits l 8823-5 217.2022.99
+Aruru Sai Kumar improved Performance
+and Systems 70825
+and Energy Efficiency
+(ICECS)
+98 Conference 2022 13th
+Aruru Sai Kumar;
+International
+M. Deekshana; V.
+Characterization for Sub- Conference on 10.1109/IC
+Bharath
+5nm Technology Nodes Computing Internationa 978-1-6654- CCNT5482
+Sreenivasulu; 26-Dec-22 Scopus
+of Junctionless Gate-All- Communication and l 5262-5 7.2022.9984
+Rajendra Prasad
+Around Nanowire FETs Networking 269
+Somineni; D. Kanthi
+Technologies
+Sudha
+(ICCCNT)
+99 Conference 2022 13th
+International
+Aruru Sai Kumar1, Design of High Speed 8- Conference on
+U. Siddhesh2, N. Sai bit Vedic Multiplier Computing Internationa 978-1-6654-
+26-Dec-22 Scopus
+kiran 3 and K. using Communication and l 5262-5
+Bhavitha4 Brent Kung Adders Networking
+Technologies
+(ICCCNT)
+100 Srinivas Talasila a , Journal Black gram Plant Leaf
+Volume 45,
+b , , Kirti Rawal a , Disease (BPLD) dataset https://doi.o
+2022,
+, Gaurav Sethi a , for recognition and Internationa WoS rg/10.1016/j
+Data in Brief Dec-22 108725,
+Sanjay MSS c , classification of diseases l (Q4) .dib.2022.1
+ISSN 2352-
+Surya Prakash using computer-vision 08725
+3409
+Reddy M d algorithms
+101 Conference
+S. Siva Priyanka; N. An Efficient Door 2022 13th Internationa 978-1-6654- 10.1109/IC
+26-Dec-22 Scopus
+Neelima; Aruru Sai Access System International l 5262-5 CCNT5482
+Kumar; K. Raghava Controlled by Conference on 7.2022.9984
+Rao; B. Temperature using Computing 580
+Seetharamulu LabVIEW Communication and
+Networking
+Technologies
+(ICCCNT)
+102 Conference 2022 13th
+International
+Siva Ramakrishna
+An Efficient two Conference on 10.1109/IC
+Pillutla; N. Neelima;
+Dimensional Mapping of Computing Internationa 978-1-6654- CCNT5482
+Aruru Sai Kumar; 26-Dec-22 Scopus
+External Surroundings Communication and l 5262-5 7.2022.9984
+Bandi Narasimha
+for Robotics and Drones Networking 274
+Rao; Namgiri Suresh
+Technologies
+(ICCCNT)
+103 Conference A Technique to Improve
+Junaid Ahmed 2022 International https://doi.o
+the Lifetime of
+Mohammed Abdul; Conference on Edge rg/10.1109/I
+Heterogeneous Wireless Internationa 978-1-6654-
+Santhosh Kumar Computing and 08-Nov-22 Scopus CECAA554
+Sensor Networks by l 8232-5
+Dhatrika; Pradeep Applications 15.2022.993
+Removing Redundant
+Kumar (ICECAA) 6560
+Packets
+104 Conference 4th International
+Conference on
+K. Swetha Reddy1,
+Design and https://doi.o
+Surabhi Seethai1,
+ASIC Implementation of Manufacturing Internationa E-ISSN:2267- rg/10.1051/
+Akanksha1,Meenaks 05-Jun-23 Scopus
+Bit Matrix Multiplier Aspects for l 1242 e3sconf/202
+hi1, V. Sagar
+Sustainable Energy 339101028
+Reddy1
+(ICMED-ICMPC
+2023)
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-
+NBA Accreditation for B.Tech. CE,EEE,ME,ECE,CSE,EIE,IT,AME, M.Tech. STRE, PE, AMS, SWEProgrammes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF(2022) 113Rank in Engineering Category
+College with Potential for Excellenceby UGC,JNTUH-Recognized Research Centres:CE,EEE,ME,ECE,CSE
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Faculty Publications in the Academic Year 2021-2022
+S. Name of author/s Journal/ Title of the paper Name of the Journal/ National/ Year of Vol. no., Issue Indexing DOI of paper
+No. Conference/ Conference Internation Publication no., Pg. no.,
+Book al ISBN/ISSN
+Chapter Number
+1
+Mohebbanaaz, L. V. Cognitive assistant DeepNet https://doi.org/
+Biomedical Signal Volume 71, ISSN: SCI
+Rajani Kumari & Y. Journal model for detection of cardiac International Jul-21 10.1016/j.bspc
+Processing and Control 1746-8094 (Q1)
+Padma Sai arrhythmia .2021.103221
+2 Network throughput
+optimization for grouping
+https://doi.org/10. https://doi.org/
+Srinivasa Rao Patri & L. based Multimedia Tools and SCIE
+Journal International July-2022 1007/s11042-021- 10.1007/s1104
+Nithyanandan Applications (Q1)
+11475-x 2-021-11475-x
+area network for healthcare
+monitoring system
+3
+Classification of ECG beats
+Mohebbanaaz, L. V. vol. 16, pp. 695 https://doi.org/
+using optimized decision tree Signal, Image, and Video
+Rajani Kumari & Y. Journal International Oct-21 703, ISSN 10.1007/s1176
+and adaptive boosted Processing
+Padma Sai 18631711 0-021-02009-x
+optimized decision tree SCIE
+(Q2)
+4 A novel bi-modal extended
+Huber loss
+Pradeep Kumar function based refined mask
+DOI:
+, Abhinav Kumar, RCNN Proc IMechE Part H:
+SCIE 10.1177/0954
+Subodh Srivastava Journal approach for automatic multi- J Engineering in International May -22
+0954-4119 (Q2) 411922109541
+and Yarlagadda Padma instance Medicine
+6
+Sai detection and localization of
+breast
+cancer
+5
+FPGA Implementation of 5G DOI:
+Aytha Ramesh Kumar, Computers, Materials & SCIE
+Journal NR Primary and Secondary 18 May 2022 1546-2226 10.32604/cmc.
+and K. Lal Kishore Continua International (Q2)
+Synchronization 2022.021573
+6
+Radha Krishna Guntur, An Automated Classification 0278-081X, VOL. https://doi.org/
+Circuits, Systems, and SCIE
+Krishnan Ramakrishnan Journal System Based on Regional International 01-01-2022 41, pages.3487 10.1007/s0003
+Signal Processing (Q2)
+& Mittal Vinay Kumar Accent 3507 4-021-01948-7
+7 Uma Maheshwar
+Janniekode, Rajendra
+Prasad Somineni,
+A Symmetric Novel 8T3R
+Osamah Ibrahim Khalaf, SCIE
+Journal Non-Volatile SRAM Cell for Symmetry International Apr-22 2073-8994
+Malakeh Muhyiddeen (Q2)
+Embedded Applications
+Itani, J. Chinna Babu, https://doi.org/
+and Ghaida Muttashar 10.3390/sym1
+Abdulsahib 4040768
+8
+https://doi.org/
+Estimation of intra pulse International Journal of
+Ch. Rajakumari, H. K. SCIE 10.1017/S175
+Journal modulation parameters of LPI Microwave and Wireless International 03-Dec. 2021 1759-0787
+Kakarla, K. Subbarao (Q3) 907872100153
+radar under noisy conditions Technologies
+7
+9
+Efficient partial product
+Naresh Kattekola,
+reduction for
+Amol Jawale, SCIE
+Journal image processing application Circuit World International Aug.-2021 0305-6120
+Pallab Kumar Nath and (Q3) https://doi.org
+using
+Shubhankar Majumdar /10.1108/CW-
+approximate 4:2 compressor
+09-2020-0220
+10
+Accurate and Efficient
+Veeramosu Priyanka
+Differentiation Between https://doi.org/
+Brahmaiah, Yarlagadda SCIE
+Journal Normal and Epileptic Seizure Traitement Du Signal International August 2021 10.18280/ts.38
+Padma Sai, Mahendra N. (Q3)
+of Eyes Using 13 Layer 0427
+Giri Prasad Vol. 38, No. 4,
+Convolution Neural Network
+pp. 1161-1169
+11
+Sunitha Vanamala L. Dynamic Support Range International Journal of ISSN 2156-5570, 10.14569/IJA
+ESCI
+Padma Sree, S. Durga Journal based Rare Pattern Mining Advanced Computer International March-2022 Vol. 13, No. 3, CSA.2022.013
+(Q3)
+Bhavani over Data Streams Science and Applications 2022 0378
+12
+Statistically Empirical
+N. Sailaja Venkata, L. Journal of Information 10.1142/S021
+Integrated Approach for ESCI
+Padma Sree, N. Journal and Knowledge International Jun-22 Vol. 21, Issue 2 964922250027
+Knowledge Refined Text (Q3)
+Mangathayaru management 7
+Classification
+13 The Journal of Defense
+Recasted nonlinear complex Modeling and https://doi.org/
+Pradeep Kumar, Subodh diffusion method for removal Simulation: October 8, WoS 10.1177/1548
+Journal International
+Srivastava Y Padma Sai of Rician Applications, 2021 (Q3) 512921105228
+noise from breast MRI images Methodology, 4
+Technology 1548-5129
+14
+http://doi.org/
+Detection of Cardiac Indonesian Journal of
+Mohebbanaaz, Y. Padma , Vol. 24, No. 1, Scopus 10.11591/ijeec
+Journal Arrhythmia using Deep CNN Electrical Engineering International 01-10-2021
+Sai and L. Rajani kumari pp. 217~225 (Q3) s.v24.i1.pp217
+and optimized-SVM, and computer science
+-225
+15
+Mitigating the Challenges of
+Shankaranand Jha,
+Online Learning and Journal of Engineering Volume No 35, DOI: 10.1692
+Santosh Kumar Scopus
+Journal Conduct of Examinations - Education International Jan-22 Special issue, 0/jeet/2022/v3
+Choudhary and Ritesh (Q3)
+From Faculty Perspective to Transformations eISSN 2394-1707 5is1/22021
+Kumar
+Student Satisfaction
+16
+Automated sleep apnea
+L. V. R. Rajani Kumari, Indonesian Journal of 10.11591/ijeec
+classification based on Scopus
+A. Lohitha, A. Kavya, N. Journal Electrical Engineering International Mar-22 25024752 s.v25.i3.pp145
+statistical and spectral analysis (Q3)
+Tarakeswar and Computer Science 0-1457
+of electrocardiogram signals
+17 http://www.ar
+Passive Neighborhood Pattern pnjournals.org
+K. L. V. Ramana ARPN Journal of
+Sensitive Fault Testing ISSN 1819-6608, Scopus /jeas/research_
+Kumari, M. Asha Rani, Journal Engineering and Applied International May-22
+In Memories Using LCA and VOL. 17, NO. 9, (Q3) papers/rp_202
+N. Balaji Sciences
+LFSR 2/jeas_0522_8
+929.pdf
+18 http://www.ar
+Machine Learning Based pnjournals.org
+ARPN Journal of
+K. Jyostna, B. N. Spectrum Sensing in ISSN 1819-6608, Scopus /jeas/research_
+Journal Engineering and Applied International May-22
+Bhandari Cognitive VOL. 17, NO. 9, (Q3) papers/rp_202
+Sciences
+Vehicular Networks 2/jeas_0522_8
+934.pdf
+19 http://www.ar
+Design Of Low Power pnjournals.org
+ARPN Journal of
+K. Sarath Chandra, K. FINFET SRAM and Analysis VOL. 16, NO. 11, Scopus /jeas/research_
+Journal Engineering and Applied International Jun-21
+Hari Kishore1 of Different Leakage Current 819-6608 (Q3) papers/rp_202
+Sciences
+Reduction Techniques 1/jeas_0621_8
+597.pdf
+20
+G. Vijay Kumar, Y. A novel single channel EEG International Journal of 10.1504/IJBE
+ESCI
+Padma Sai, P. Journal based sleep stage Biomedical Engineering International 01 Jul 2021 1752-6418 T.2021.11611
+(Q4)
+Koppireddi classification using SVM and Technology 2
+21
+Vishnu Vytla, Sravanth
+https://doi.org/
+Kumar Ramakuri, Mathematical Models for
+Journal of Physics: International 1797 (2021) Scopus 10.1088/1742-
+Anudeep Peddi, Kalyan Journal Predicting Covid-19 2021-2022
+Conference Series 012009 (Q4) 6596/1797/1/0
+Srinivas K and N. Pandemic: A Review
+12009
+Nithish Ragav
+22
+NARRA
+Vol.99. No 20 , http://www.ja
+DHANALAKSHMI, Y. Video Representation Based Journal of Theoretical
+31st October ISSN: 1992-8645, Scopus tit.org/volume
+MADHAVEE LATHA, Journal on Optical Flow for Dynamic and Applied Information
+International 2021. E-ISSN: 1817- (Q4) s/ninetynine20
+AVULA Content Analysis Technology
+3195 .php
+DAMODARAM
+23
+Thermal Stability Analysis of
+Chokkkula Ganesh and International Journal of 1793-5350, Vol. WoS https://doi.org/
+Journal Single-Ended 9T-ST Robust International 01-Feb 2022
+K. S. N. Murthy Nanoscience 20, No. 06, (Q4) 10.1142/S021
+SRAM Cell for Near-
+9581X215005
+Threshold Operation
+75
+24
+Foreign Accent Recognition
+Intelligent Sustainable
+Radha Krishna Guntur, Using a
+Book Systems, Lecture Notes 03 January Scopus https://doi.org/
+Ramakrishnan Krishnan, Combination of Native and International
+Chapter in Networks 2022 (Q4) 10.1007/978-
+and Vinay Kumar Mittal Non-native
+and Systems vol 333, Springer, 981-16-6309-
+Speech
+pp. 713-721 3_67
+25
+Video QOE Prediction using
+ISSN: 0976
+P. Archana and Subhash Regularization Based Indian Journal of Natural
+Journal International Aug-21 0997 WoS
+Kulkarni Regression with Sciences
+Vol.12 / Issue 67
+Network QOS Parameters
+26
+Feasibility Analysis of a
+Vol.12, Issue 67,
+D. Kanthi Sudha and P. Microstrip Patch Antenna Indian Journal of Natural
+Journal International 21-Aug ISSN: 0976 WoS
+Chandrasekhar Reddy being used as a Sciences
+0997
+Conformal Antenna
+27
+Kattekola Naresh; Efficient Design of Artificial 2021 IEEE International
+Shubhankar Majumdar; Neural Networks Symposium on Smart 978-1-7281-8753-
+Conference International Dec. 2021 Scopus
+Y. Padma Sai; P. Rohith using Approximate Electronic Systems 2 DOI: 10.1109/
+Sai Compressors and Multipliers (iSES) iSES52644.20
+21.00044
+28
+Anudeep Peddi; Padma 2021 6th International
+Design of Memristor Based
+Sai Y; Saadia Hassan; Conference on Signal
+Logic Gates for Low Power 978-1-6654-2554-
+Sudhanshu Reddy Conference Processing, International Oct-21 Scopus
+Wireless Sensors in 4 DOI: 10.1109/
+Polam; Sravanth Kumar Computing and Control
+Biomedical Applications ISPCC53510.
+R, Kalyana Srinivas K (ISPCC)
+2021.9609455
+29
+Nikhitha Karennagari; K Infection Segmentation of
+2021 6th International
+Yashwanth Reddy; Leaves Using Deep Learning
+Conference on Signal 978-1-6654-2554-
+Vijaya Kumar Gurrala; Conference techniques to enhance crop International 7-9 Oct. 2021 Scopus
+Processing, Computing 4 10.1109/ISPC
+Kalyana Srinivas; productivity in smart
+and Control (ISPCC) C53510.2021.
+Anudeep Peddi agriculture
+9609379
+30
+Removal of Noise from ECG DOI: 10.1109/
+Mohebbanaaz, Y. Padma Signals using Residual 978-1-6654-0962- UPCON52273
+Conference 8th IEEE UPCON 2021 International Nov. 2021 Scopus
+Sai and L. Rajani kumari Generative Adversarial 9 .2021.9667595
+Network
+31 4th International
+Satellite Based Road Tagger Conference on Recent
+P. Koganti, K.S. K, A. P,
+GPS Radio- Navigation Developments in 978-1-6654-1429-
+S. K. R, P.Kishore and Conference International 7-8 Oct. 2021 Scopus
+System with Integration of Control, Automation & 6, pp.536-539 10.1109/RDC
+S.R.Prasad
+Artificial Intelligence Power Engineering APE52977.20
+(RDCAPE) 21.9633626
+32 Dr. Medikonda.
+Christhu. Raju, Mrs. Raja International Conference DOI: 10.1109/
+Imaging using Phase Coded
+Kumari Chilukuri, Dr. on Sustainable 07-09 April ISBN: 978-1- ICSCDS53736
+Conference Complimentary Code International Scopus
+Kakarla Hari Kishore, B. Computing and Data 2022 6654-7883-0 .2022.9761022
+Pairs
+Alekhya, Kaaparapu. Communication Systems
+Satish Babu
+33
+https://kalahari
+Dr. P. Srinivasa Rao, Dr. Development Of a Modular L- ISSN: 0974-5823
+journals.com/r
+Medikonda. Christhu. Band Profiler for Atmospheric International Journal of April-May Vol. 7 (Special
+Journal International Scopus esources/Speci
+Raju, B. Alekhya, Boundary Layer and Mechanical Engineering 2022 Issue 5, April-
+al_Issue_April
+Kaaparapu. Satish Babu Precipitation Studies May 2022)
+_May_81.pdf
+34
+2021 2nd Global
+Radha Krishna Guntur, Automatic Classification of
+Conference for 978-1-6654-1836-
+Ramakrishnan Krishnan, Conference Foreign Language International 1-3 Oct. 2021 Scopus
+Advancement in 2 DOI: 10.1109/
+and Vinay Kumar Mittal Accent
+Technology (GCAT) GCAT52182.2
+021.9587650
+35
+4th International
+S. Parepalli, A. Ramesh Energy Efficient Adiabatic 10.1109/ICMS
+Conference on 18-19 Nov.
+Kumar, S. R. Conference Logic Against Power Analysis 978-166544885-7 Scopus S53060.2021.
+Microelectronics, Signals International 2021
+Vumanthala Attacks for IOT Applications 9673643
+and Systems
+36 Proceedings of the
+Segmentation of Terrain Second International
+Classes from Conference on
+G. Sahitya, C. Kaushik, ISBN: 978-1-
+Conference Satellite Images using Electronics and International 4-6 Aug. 2021 Scopus
+K. Rushi Kiran Kumar 6654-2867-5
+Modified U-Net Sustainable 10.1109/ICES
+Algorithm Communication Systems C51422.2021.
+(ICESC-2021) 9532785
+37 8 IEEE Uttar Pradesh
+K.L.V RamanaKumari
+Power Optimization Analysis Section International DOI: 10.1109/
+M. Asha Rani
+of Different SRAM Cells Conference on Electrical, 11-13 Nov. 978-1-6654-0962- UPCON52273
+N. Balaji Conference International Scopus
+Using Transistor Stacking Electronics and 2021 9 .2021.9667583
+SnehaKotha
+Technique Computer Engineering
+Murali Mohan Kota
+(UPCON 2021)
+38
+6th International
+L. V. R. Rajani Kumari, 10.1109/ICCE
+Machine Learning based Conference on
+P. Shreya, M. Begum, T. Conference International 8-9 July, 2021 978-166543587-1 Scopus S51350.2021.
+Diabetes Detection Communication and
+P. Krishna, M. Prathibha 9489058
+Electronic Systems
+39
+L. V. R. Rajani Kumari, Lecture notes on Data
+10.1007/978-
+M. A. Jaffery, K. S. S. Book Deep Learning based Smart Engineering and 17 January
+International 23674512 Scopus 981-16-6605-
+Nigma, G. Manaswi, P. Chapter Mask for Social Distancing Communication 2022
+6_15
+Tharanginir Technologies
+40
+L. V. R. Rajani Kumari, Dynamic Face Recognition Lecture notes on Data
+10.1007/978-
+S. Saher Fathima, G. Sai Book System using Histogram of Engineering and 17 January
+International 23674512 Scopus 981-16-6605-
+Praneeth, D. Mamatha, Chapter Oriented Gradients and Deep Communication 2022
+6_16
+B. Pranitha Neural Network Technologies
+41
+8 IEEE Uttar Pradesh
+A hybrid Approach for Section International 10.1109/UPC
+L. V. R. Rajani Kumari,
+Conference Enhancement of the ECG Conference on Electrical, International Nov. 2021 Scopus ON52273.202
+A. Lohitha, A. Kavya,
+signal Electronics and 1.9667613
+Computer Engineering
+42 2nd International
+Conference on
+Performance Evaluation of 10.1109/ICES
+L. V. R. Rajani Kumari, Electronics and 978-1-6654-2867-
+Conference Adaptive Filtering Algorithm International Aug-21 Scopus C51422.2021.
+A. J. Sabavat, Y. P. Sai Sustainable 5
+for Denoising the ECG Signal 9532852
+Communication Systems
+(ICESC 2021)
+43
+8 IEEE Uttar Pradesh
+Detection of Sleep Apnea
+L. V. R. Rajani Kumari, Section International 10.1109/UPC
+from ECG Signal using 11-13, Nov.
+A. Lohitha, N. Conference Conference on Electrical, International Scopus ON52273.202
+Various Machine Learning 2021
+Tarakeswar Electronics and 1.9667603
+Algorithms
+Computer Engineering
+44
+S.Vadupu, K.S. Kandala, 6th International
+A. Peddi, N.S. Yadav, Skin Pathology Detection Conference on Signal 978-1-6654-2554-
+Conference International 7-9 Oct. 2021 Scopus
+G.V. Kumar and P.A Using Artificial Intelligence Processing, Computing 4, pp.373-376 10.1109/ISPC
+Hrsha Vardhini and Control (ISPCC) C53510.2021.
+9609516
+45
+B.V.Kumar, K.K. Artificial Intelligence Based 6th International
+Srinivas, P.Anudeep, Algorithms for Driver Conference on Signal 978-1-6654-2554-
+Conference International 7-9 Oct. 2021 Scopus
+N.S. Yadav, G.V.Kumar Distraction Detection: A Processing, Computing 4, pp.383-386 10.1109/ISPC
+and P.A Harsha Vardhini Review and Control (ISPCC) C53510.2021.
+9609349
+46
+R.S.Krishna, 6th International
+Ear - Based Biometric-
+K.K.Srinivas, P. Conference on Signal 978-1-6654-2554-
+Conference System Using Artificial International 7-9 Oct. 2021 Scopus
+Anudeep and Processing, Computing 4, pp.377-382 10.1109/ISPC
+Intelligence
+P.A.H.Vardhini and Control (ISPCC) C53510.2021.
+9609409
+47 4th International
+G.A. Chandra, Mental Health Disorder
+Conference on Recent
+K.K.Srinivas, P Analysis Using Convolution
+Developments in 978-1-6654-1429-
+Anudeep, S. R. Prasad, Conference Neural Network Based Speech International 7-8 Oct. 2021 Scopus
+Control, Automation & 6, pp.544-547 10.1109/RDC
+Y. Padmasai and P. Signal Model with Integration
+Power Engineering APE52977.20
+Kishore of Artificial Intelligence
+(RDCAPE) 21.9633637
+48
+International Conference
+Design and Comparison of
+S. Rayeni, A. Peddi, S.K. on Communication
+Advanced Low Power SRAM 25-27 June 978-1-6654-0430-
+R, K. Srinivas and P. Sai Conference information and International Scopus
+cells using GNRFET 2021 3, pp.1-6 10.1109/ICCI
+Y Computing Technology
+Technology CT50803.202
+(ICCICT)
+1.9510169
+49
+P. Singh, K. K. Srinivas, Artificial Intelligence Based 2022 International
+A., Peddi, B. Early Detection and Timely Mobile and Embedded 10-11, March-
+Conference International 978-166542020-4 Scopus
+Shabarinath, L. Neelima, Diagnosis of Mental Illness- A Technology Conference- 2022 10.119/MECO
+K. A. Bhagavathi Review 2022 N53876.2022.
+9752219
+50 2nd International
+Conference on
+C.Kaushik, Chaitna Sri Automatic Turn Indicating
+Electronics and 978-1-6654-2867-
+Koganti, Vaddi Sowmya Conference System Using Smart Turn International Aug-21 Scopus
+Sustainable 5 DOI: 10.1109/
+Sree Signal Circuit in Motorcycles
+Communication Systems ICESC51422.
+(ICESC 2021) 2021.9532803
+51
+International Conference
+D. Ramesh Reddy, Extraction of Pothole
+on Communication and 978-981-16-3245- Google https://doi.org/
+Addanki Pranava, C. D. Conference Attribute for Road Infra International Aug-21
+Computational 7 Scholar 10.1007/978-
+Naidu, Prakash Kodali Maintenance Using Kinect
+Technologies 981-16-3246-
+4_67
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-
+NBA Accreditation for CE, EEE, ME, ECE, CSE, EIE, IT B.Tech. Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUHin engineering Category
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Faculty Publications in the Academic Year 2020-2021
+S. Name of author/s Journal/ Title of the paper Name of the Journal/ National/ Year of Vol. no., Issue Indexing DOI of paper
+No. Conference/ Conference Internation Publication no., Pg. no.,
+Book al ISBN/ISSN
+Chapter Number
+1
+https://doi.org/
+Accuracy evaluation of a
+Lavanya M, Ranjan K. Computers and Electrical SCIE 10.1016/j.com
+Journal trained NN by energy efficient International Apr-21 ISSN:0045-7906
+Senapati, JVR Ravindra Engineering (Q1) peleceng.2021
+approximate 4:2 compressor
+.107137
+2
+Performance analysis of EBG
+bandstopfilter using U: https://doi.org/
+G. Shanthi, K. Srinivasa Microsystem 27,3743 3750 SCIE
+Journal shaped meander type International 27-Jan-21 10.1007/s0054
+Rao, K. Girija Sravani Technologies (2021) (Q2)
+electrostatically actuated RF 2-020-05157-1
+MEMS switch
+3
+Modified Nonlocal Means
+https://doi.org/
+Sagar Reddy Vumanthala Filtering for Speech Circuits, Systems, and SCIE
+Journal International 01-Jun-21 Jun-20 10.1007/s0003
+Bikshalu Kalagadda Enhancement and Its FPGA Signal Processing (Q2)
+4-021-01750-5
+Prototype
+4
+Investigating inter-subband (DOI:10.1007/s00
+Md Aref Billaha, Biplab https://doi.org/
+photocurrent in CdS/ZnSe Microsystem 542-020-05119- SCIE
+Bhowmick &Santosh Journal International Nov.-2020 10.1007/s0054
+quantum well photodetector Technologies, Springer 7), ISSN no.- (Q2)
+K.Choudhary 2-020-05119-
+for infrared applications 0946-7076
+5
+Sparse MR Image
+M. V. R. Manimala, C. Vol. 116, pages https://doi.org/
+Reconstruction Considering Wireless Personal SCIE
+Dhanunjaya Naidu, M. Journal International Aug-20 491 511, 10.1007/s1127
+Rician Noise Communications (Q2)
+N. Giri Prasad 1572834X 7-020-07725-0
+Models: A CNN Approach
+6
+Detection of Sleep Apnea
+Vijayakumar Gurrala, Vol. 38, No. 2, https://doi.org/
+Based on the Analysis of SCIE
+Padmasai Yarlagadda, Journal Traitement du Signal International April 2021 April 2021, pp. 10.18280/ts.38
+Sleep Stages Data Using (Q3)
+Padmaraju Koppireddi 431-436 0221
+Single Channel EEG
+7 A New Framework for
+Veeramosu Priyanka Recognizing Normal and
+https://doi.org/
+Brahmaiah, Yarlagadda Epileptic Seizure from Eye Vol. 37, No. 3, SCIE
+Journal Traitement du Signal International July 2020 10.18280/ts.37
+Padma Sai, Mahendra N. Movement Signals Using pp. 493-501 (Q3)
+0317
+Giriprasad Genetic Based Convolutional
+Neural Network
+8
+https://doi.org/
+R-Peak Identification in ECG
+L. V. Rajani Kumari, Y. IETE Journal of 10.1080/0377206 SCIE 10.1080/0377
+Journal Signal Using pattern Adapted International 21-Mar
+Padma Sai & N. Balaji Research 3.2021.1893229 (Q3) 2063.2021.189
+Wavelet Technique
+3229
+9
+Pravat Kumar Ray,
+International Journal of https://doi.org/
+Santanu Kumar Dash,B Mitigation of Power Quality ESCI
+Journal Emerging Electric Power International 3-Sept.,2020 1553-779X 10.1515/ijeeps
+.D. Subudhi,S Issues using UPQC (Q3)
+Systems -2020-0040
+Koonlaboon Korkua
+10 Dr. Vijaya Lakshmi
+Thirumala, Venkata
+Satyanarayana Karanam,
+Haze-level prior approach to Turkish Journal of (2021) 29: 994
+Prof. Pratap Reddy SCIE 10.3906/elk-
+Journal enhance Object Visibility Electrical Engineering International Mar-21 1014,
+Lankireddy, Aruna (Q3) 2004-7
+under atmospheric degradation and Computer Sciences 1300-0632
+Kumari Kakumani,
+Rakesh Kumar
+Yacharam
+11
+Dynamic Group Key
+R. Sarawanthi Vijaya, L. International Journal of DOI:10.1504/I
+Journal Management Scheme for Vol. 11, Issue-6, WoS
+Padma Sree, K. Grid and Utility International Sep. 2020 JGUC.2020.10
+Clustered Wireless Sensor pp. 801-814 (Q3)
+Anuradha Computing 029963
+networks
+12 End-to-end improved
+Journal of Defense
+convolutional
+Modeling and
+Pradeep Kumar, Subodh neural network model for https://doi.org/
+Simulation: WoS
+Srivastava, Ritesh Kumar Journal breast International Dec.-2020 1548-5129 10.1177/1548
+Applications, (Q3)
+Mishra, Y. Padma Sai cancer detection using 512920973268
+Methodology,
+mammographic
+Technology
+data
+13
+Estimation of Modulation
+Raja Kumari Chilukuri, 1557-2064, https://doi.org/
+Parameters of LPI Radar WoS
+Hari Kishore Kakarla, K. Journal Sensing and Imaging International 12-Oct-20 Volume 21, Issue 10.1007/s1122
+Using Cyclo stationary (Q3)
+Subbarao 1 0-020-00313-3
+Method
+14
+Kedar Nath Sahu, Challa UWB Transmission through International Journal of https://doi.org/
+ESCI
+Dhanunjaya Naidu, Jaya Journal Human Thorax: Online and Biomedical International Nov., 2020 16(13):70 10.3991/ijoe.v
+(Q3)
+Sankar Kottareddygari An Index of Cardiac Health Engineering (iJOE) 16i13.18593
+15
+D. Ramesh Reddy, A https://doi.org/
+Smart Navigation System with International Journal of Volume 8. No. 9,
+Pranava, Dr. C. D. Scopus 10.30534/ijete
+Journal Pavement Hole Estimation Emerging Trends in International Sep.-2020 ISSN No.2347-
+Naidu, Dr. Prakash (Q3) r/2020/688920
+using Clustering Technique Engineering Research 3983
+Kodali, Dr. Y. Padmasai 20
+16
+Vijaya Kumar
+A Novel Single Channel EEG International Journal of WoS, 10.1504/IJBE
+Gurrala,Padma Sai In Press,1752-
+Journal based Sleep Stage Bio Medical Engineering International Jul-20 Scopus, T.2021.11611
+Yarlagadda, Padmaraju 6426
+Classification using SVM and Technology (Q4) 2
+Koppireddi
+17 Uma Maheshwar Design and Performance
+International Journal of 10.23940/ijpe.
+Janniekodea, Rajendra Analysis of 6T SRAM Cell in vol. 17, no. 2, pp. Scopus
+Journal Performability International 01-Feb, 2021 21.02.p1.1671
+Prasad Sominenib, and Different Technologies and 167-177 (Q4)
+Engineering 77
+C.D. Naiduc Nodes
+18
+A Machine Learning International Journal of Vol. 16, Issue 12, 10.23940/ijpe.
+Kaire Anupama, Scopus
+Journal Approach to Monitor Water Performability International Dec-20 pg. 1845-1852, 20.12.p1.1845
+Y. Chalapathi Rao, (Q4)
+Quality in Aquaculture Engineering 0973-1318 1852
+Vijaya Kumar G
+19 Millimeter Wave MIMO- https://doi.org/
+G. Jagga Raoa, Dr.Y. Turkish Journal of
+OFDMA scheme with MMSE Vol-12, Scopus 10.17762/turc
+Chalapathi Raob, Dr. Journal Computer and International Apr-21
+Based WEMF in 6G wireless No.3,4701-4707 (Q4) omat.v12i3.18
+Anupama Desh Pande Mathematics Education
+Technology 90
+20 Journal of Computational
+D. Kanthi Sudha, P. RF Transceiver Module for 1 4, Nov.- Vol. 17, ISSN- Scopus doi:10.1166/jc
+Journal and Theoretical International
+Chandrasekhar Reddy Pipeline Pilferage Detection 2020 1546-1955 (Q4) tn.2020.9642
+Nanoscience
+21 Optimal Bayesian Estimation https://doi.org/
+Pradeep Kumar, Subodh
+Book Framework for Reduction of 978-981-16-4149- Scopus 10.1007/978-
+Srivastava, Y. Padma ICICPS 2020 International 22-Oct.-2020
+Chapter Speckle Noise from Breast 7 (Q4) 981-16-4149-
+Sai, Santosh Choudhary
+Ultrasound Images 7_22
+22 G. Jagga Rao, Dr.Y. A Study of Future Wireless VOLUME 14, Google https://doi.org/
+Journal of Xidian
+Chalapathi Rao, Dr. Journal Communication: 6G International 2020-2021 ISSUE 11, ISSN Scholar 10.37896/jxu1
+University
+Anupama Desh Pande Technology Era No:1001-2400 (Q4) 4.11/065
+23 Vol.12
+https://doi.org/
+Aytha Ramesh Kumar1, Implementation of 5G NR Turkish Journal of No.8(2021), Google
+10.17762/turc
+Dr.K.Lal Kishore2, Journal Primary and Secondary Computer and International May-2021 3153- Scholar
+omat.v12i8.41
+Amreen Fatima3 Synchronization Mathematics Education 3161,Pg:3153- (Q4)
+59
+3161
+24 K. L. V. Ramana 3-Cell NPSF Testing in Journal of Computational Google
+10.1166/jctn.2
+Kumari, M. Asha Rani, Journal Memories using Hamiltonian and Theoretical International March 2021 Vol. 17, pp. 1 4 Scholar
+021.9651
+N. Balaji and Gray sequences Nanoscience (Q4)
+25 http://solidstat
+Reduction of storage and
+etechnology.u
+Dr. V. Krishnasree, transmission requirements in December- Volume: 63 Issue: Scopus
+Journal Solid State Technology International s/index.php/JS
+Aishwarya Teja IoT - Using Video 2020 6 (Q4)
+ST/article/vie
+Compression
+w/8373
+26 Custom-IP for Gradient C-(VDAT-2020: 24th
+10.1109/VDA
+B B Shabarinath Descent Optimization based International Symposium 23-25, July ISBN:978-1-
+Conference International WoS T50263.2020.
+P. Muralidhar on Hardware/Software Co- on VLSI Design and 2020 7281-9369-4
+9190560
+design Paradigm Test)
+27 Fourth International
+Vijaya Kumar
+Conference on
+Gurrala,Padmasai 05-07 10.1109/ICEC
+A review on analysis of sleep Electronics, ISBN: 978-1-
+Yarlagadda, PadmaRaju Conference International November Scopus A49313.2020.
+EEG signals Communication and 7281-6386-4
+Koppireddi and V Hari 2020 9297564
+Aerospace Technology
+Praneet Sreenivasula
+(ICECA)
+28 C-Third International
+An Inference Engine https://doi.org/
+Sree Dhruti P S S, Dr. L Conference
+Book Integrated with Health 978-981-33-6081- 10.1007/978-
+V Rajani Kumari, Dr. Y. Soft Computing and International 20 April 2021 Scopus
+Chapter Parameters 5 981-33-6081-
+Padma Sai Signal Processing
+for Medical Web Platform 5_33
+(ICSCSP-2020)
+29 Guntur Radha Krishna; A system for Automatic 10.1109/INDI
+978-1-7281-6916-
+Ramakrishnan Krishnan; Conference Regional Accent INDICON-2020 International 12-Dec.-2020 Scopus CON49873.20
+3
+Vinay Kumar Mittal Classification 20.9342577
+30 Guntur Radha Krishna; Foreign Accent Recognition 10.1109/INDI
+978-1-7281-6916-
+Ramakrishnan Krishnan; Conference with South Indian Spoken INDICON-2020 International Feb-21 Scopus CON49873.20
+3
+Vinay Kumar Mittal English 20.9342471
+31 Sixth International
+Radha Krishna Guntur,
+Identification of Indian Symposium on Signal 10.1007/978-
+Ramakrishnan 07 February 978-981-16-0424-
+Conference English by Speakers of Processing and International Scopus 981-16-0425-
+Krishnan& 2021 9
+Multiple Native Languages Intelligent Recognition 6_24
+Vinay Kumar Mittal
+32 Ajay Thammana a, A. https://doi.org/
+Performance analysis of
+Sampath Dakshina Materials Today: 14 August 10.1016/j.mat
+Journal OFDM and FBMC over International 2214-7853 Scopus
+Murthy a, Ch. Usha Proceedings 2020 pr.2020.07.34
+selective channels
+Kumari b, P. Kishore 8
+33 http://sersc.org
+Low Area and Reduced Delay International Journal of Vol. 29, No. 8, /journals/index
+Dr. P. Kishore, K. Ratna
+Journal of Encoded Data Using Advanced Science and International Dec-20 (2020), pp. 6181- Scopus .php/IJAST/art
+Phanitha
+Modified Bwar Technology 6188 icle/view/3489
+5
+34 International Conference
+https://doi.org/
+Mohebba Naaz, Dr. L V Classification of Arrhythmia On
+Book 978-981-33-6081- 10.1007/978-
+Rajani Kumari, .Dr. Y beats using Optimized Machine Learning, International 20-Apr-21 Scopus
+Chapter 5 981-33-6081-
+Padma Sai K-Nearest Neighbor Classifier Internet of Things and
+5_31
+Big Data (ICMIB)-2020
+35 Design and development of 4th International
+Dhammughari Abhilash,
+the secondary energy meter conference on I-SMAC 10.1109/I-
+Dr. L V Rajani Kumari, 978-1-7281-5464-
+Conference for non-intrusive load (IoT in Social, Mobile, International 10-Nov-20 Scopus SMAC49090.
+Vivekananda Reddy 0
+monitoring using a machine Analytics and Cloud) (I- 2020.9243346
+Palle
+learning method SMAC 2020)
+36 https://doi.org/
+J. Roja, V. Naveen Implementation of Wi-Fi
+Materials Today: 10.1016/j.mat
+Kumar, Y. Padma Sai, Conference energy efficient wireless International 24 May 2021 2214-7853 Scopus
+Proceedings pr.2021.04.18
+Sagar Reddy media transmission
+9
+37 Convolutional Neural
+2020 IEEE REGION 10 10.1109/TEN
+B B Shabarinath; P. Network based Traffic-Sign ISBN:978-1-
+Conference CONFERENCE International 22-Dec-20 Scopus CON50793.20
+Muralidhar Classifier Optimized for Edge 7281-8455-5
+(TENCON) 20.9293767
+Inference
+38 Unfolded Hardware International Journal of
+Volume 11, Issue 10.34218/IJA
+V. Sagar Reddy, K. Architecture of Empirical Advanced Research in
+Journal International Nov.- 2020, 11, ISSN Print: Scopus RET.11.11.20
+Bikshalu Mode Decomposition for Engineering and
+0976-6480 20.217
+Speech Enhancement Technology
+39 2020 International
+Effect of Physical Parameters
+Conference on Recent 10.1088/1757
+on the drain characteristics of
+S. Jha, S. K. Choudhary, Conference Advancements in 3-4 December, -
+Double gate MOSFET International 17578981 Scopus
+P. Ritesh Kumar Engineering and 2020 899X/981/3/0
+incorporating Quantum
+Management (ICRAEM 32012
+Mechanical Effects
+2020)
+40 2nd International
+10.1109/INCE
+B. Medaoati, L. V. KNN Based Sleep Apnea Conference for Emerging 21-23, May
+International 978-172817029-9 Scopus T51464.2021.
+Rajani Kumari Conference Detection Using ECG Signals Technology, INCET- 2021
+9456404
+2021
+41 1st IEEE International
+Conference on Advances
+P. Kishore, A. Anitha, Implementation of Digital 10.1109/ICAE
+Conference in Electrical Computing, 19-20 Feb., 978-1-7281-5791-
+Ch. Maheshwari, C. S. Phase Locked Loop Using International Scopus CT49130.2021
+Communications and 2021 7
+Kumar CMOS Technology .9392507
+Sustainable Technologies
+(ICAECT 2021)
+42 A modified Novel Signal 4th International https://doi.or
+A. Anitha, B. Triveni, P.
+Flow Graph and Memory- Conference on Smart 9-10 Oct., 978-981-16-1501- g/10.1007/97
+Kishore, M. Latha International Scopus
+Conference Based Radix-8 FFT Processor Computing and 2020 6 8-981-16-
+Madhavi
+Design Informatics, (SCI-2020) 1502-3_54
+43 5th International
+L. V. R. Kumari, P. Conference on Trends in 10.1109/ICOEI
+Detection of Pneumonia Using
+Bokkolla, S. F. Syeed, S. Conference Electronics and International 3-5 June, 2021 978-166541571-2 Scopus 51242.2021.9
+Deep Learning
+P. Gudala, M. Dasamdla Informatics (ICOEI- 453088
+2021)
+44 5th International
+L. V. R. Kumari, M. A. Conference on Trends in 10.1109/ICOEI
+Jaffery, K. S. S. Nigma, Conference Disease using Extreme Electronics and International 3-5 June, 2021 978-166541571-2 Scopus 51242.2021.9
+G. Manasi, P. Tharangini Gradient Boosting Informatics (ICOEI- 452830
+2021)
+45 https://doi.org/
+A Scrutiny of advanced Doi.org/10.1016/j.
+V.V.S.S.Sirisha, Materias Today: 10.1016/j.mat
+Journal Technologies over precision International Oct-21 matpr.2020.10.49 Scopus
+G.Sahitya Proceedings pr.2020.10.49
+Agriculture 2
+2
+46 https://doi.org/
+Designing of 64 K Bit SRAM 18-19
+Surekha G., Dr. Balaji N, Materials Today: 13:978-81- 10.1016/j.mat
+Journal Using Increased Substrate International September, Scopus
+Dr. Y. Padma Sai Proceedings 930222-9-0 pr.2020.11.11
+Bias 7T SRAM cell 2020
+8
+47 M .Ramdevi, https://doi.org/
+IoT Evaluating Indoor https://doi.org/10.
+G. Ramya, Materials Today: 10.1016/j.mat
+Journal Environmental Quality check International 28-Dec.-2020. 1016/j.matpr.2021 Scopus
+M. Ranjith & Proceedings. pr.2021.03.13
+of Air and Noise .03.137
+S. Sneha 7
+48 Proceedings of
+International Conference
+D. Ramesh Reddy, on Communication and https://doi.org/
+Extraction of pothole attribute
+Addanki Pranava & C. Book Computational Feb 27-28 978-981-16-3246- Google 10.1007/978-
+for road infra maintenance International
+D. Naidu, Prakash Chapter Technologies. 2021 4 Scholar 981-16-3246-
+using Kinect
+Kodali Algorithms for 4_67
+Intelligent Systems.
+Springer, Singapore
+49
+Extraction of Wavelet Recent Developments in
+Vijaya Kumar Gurrala,
+Book Features for the classification Engineering Research, 978-93-90206-87- Google 10.9734/bpi/rd
+Padma Sai Yarlagadda International Aug.-2020
+Chapter of Sleep Stages using Single Book Publisher 2 Scholar er/v2
+,Padma, raju Koppireddi
+Channel EEG International
+50
+https://app.box
+Pradeep Kumar, K
+Semi Blind Channel .com/s/8s6h26
+Sangeetha, Santosh PENSEE International vol. 50, Issue 12, Google
+Journal Estimation with BCJR International Dec-20 7lc2gpinyvu0b
+Kumar Choudhary and Journal pp. 1706-1709 Scholar
+Algorithm in OFDM Systems zy3e5gxk3bv5
+Dr. Y Padma Sai
+0
+51 2021 2nd International
+A Low Power Binary CAM Conference on Smart 18-19 10.1109/ICOS
+Sirekha G., Ba;la Ji N., 978-1-6654-3368- Google
+Conference using 7T SRAM cell with Electronics and International September, EC51865.202
+Dr. Y. Padma Sai 6 Scholar
+increased substrate bias Communication 2020 1.9591858
+(ICOSEC)
+52
+Deep Learning for Biological
+Aruna Kumari, Dr. L. Vol-8, Issue- Google
+Journal Cell Tracking in Microscopy GIS Science Journal International Feb-21 --
+Padma Sree 2,1869-9391 Scholar
+Images: A Recent Survey
+53 Padmasree L, Preethi Review of Computer
+Eluri, Sai Subrahmanya Engineering Studies, https://doi.org/
+Real Time Vision System for Vol. 7, No. 4, pp. Google
+Akhil Badampudi, Journal International Information International Dec-20 10.18280/rces.
+Autonomous Vehicles 87-90 Scholar
+Sreedhar Reddy Engineering Technology 070402
+Mukkamalla Association
+54 Computer Networks, Big
+Eclat_RPGrowth: Finding Data and IoT, Lecture
+https://doi.org/
+Sunitha Vanamala, L Rare Patterns Notes on Data
+Book vol 66, pp:161- Google 10.1007/978-
+Padma Sree, S Durga Using Vertical Mining and Engineering and International Jun-21
+Chapter 176 Scholar 981-16-0965-
+Bhavani Rare Pattern Communications
+7_14
+Tree Technologies,
+Springer, Singapore
+55 Review of Design and http://journalst
+Dharma Teja Lanka, S.
+Analysis of Different Science, Technology and Volume X Issue I Google d.com/gallery/
+Rajendra Prasad, K. Journal International Jan.-2021
+Technologies in Low Power Development JANUARY 2021 Scholar 31-
+Srinivasa Rao
+VLSI Circuits jan2021.pdf
+56 Nandhaiahgari Dinesh
+Kumar, Dr. Rajendra Design and Analysis of International Journal of 10.11591/ijres.
+Vol. 9, No. 2, pp. Google
+Prasad Somineni, CH. Journal Different Full Adder Cells Reconfigurable and International 01-July-2020 v9.i2.pp116-
+116~124 Scholar
+Raja Kumari and Dr. C D Using New Technologies Embedded Systems 124
+Naidu
+57 https://drive.g
+Dr. M. C. Raju, Sai oogle.com/file
+The International journal
+Nakshatra, Janvi Vol-12, Issue-X, /d/1W-Di-
+Advanced Blind Stick using of analytical and
+uppalapati, Bollampally Journal International October 2020. ISSN NO:0886- UGC UpxI6UPWzs
+python experimental modal
+Vivek Shanthi Chandra, 9367, pp:867-875 NMmNpX2Zd
+analysis
+Surya pavan afNRxrxv/vie
+w
+58
+International Journal for
+Dr. Y. Chalapathi Rao, P. NPSF Testing and Diagnosys UGC, 10.48047/IJIE
+Innovative Engineering
+Koteswara Rao, Dr. P. Journal of SRAM using March96-N International 04-Feb-2021 2456-5083 Google MR/V10/I02/0
+and Management
+Kishore Algorithm Scholar 3
+Research
+59 https://doi.org/
+P. Kishore Design of High-Performance Journal of Mechanics of 2454-7190, Vol-
+Google 10.26782/jmc
+K. C. Koteswaramma, Y. Journal Adder using Modified GDI Continua and International Aug-20 15, NO-8,Aug-
+Scholar ms.2020.08.00
+Chalapathi Rao Based Full adder Mathematical Sciences 20,PP-53-62
+006
+60 Dr.Y.Chalapathi Rao,
+Journal of Emerging http://www.jet
+K. Shiva Aditya , G.
+Real Time Vehicle Tracking Technologies and Volume 8, Issue 1 Google ir.org/papers/J
+Harshitha, Journal International 23-Dec.- 2020
+and Alerting System Innovative Research ISSN-2349-5162 Scholar ETIREK0603
+K. Divya &
+(JETIR) 4.pdf
+K. Sohila
+61 Ms. Gayatri Sasi Rekha 6th International
+Machiraju (MTech Object Detection and Tracking Conference on Inventive 10.1109/ICIC
+978-1-7281-8501- Google
+student), Ms. K. Aruna Conference for Community Surveillance Computation International Feb-21 T50816.2021.
+9 Scholar
+Kumari, Mr. Shaikh using Transfer Learning Technologies (ICICT 9358698
+Khadar Sharif 2021, IEEE Conference)
+62 IEEE Hydcon-
+International Conference
+Dhanalakshmi Narra , Content Based Temporal 10.1109/HYD
+on Engineering In 4th 978-1-7281-4994- Google
+Madhavee Latha Conference Segmentation for Video International Nov-20 CON48903.20
+Industrial Revolution 3 Scholar
+Y,Damodaram Avula Analysis 20.9242711
+(Ei4.0)
+9th-12th Sep, 2020
+63 C-International
+A Review on Comparative ,
+Conference on Advances https://doi.org/
+P.Kishore,P. Sravanthi, Analysis of Add-Shift https://doi.org/10.
+Book in Computer Engineering Google 10.1007/978-
+G. Deepthi, A. Multiplier and Array International Aug.-2020 1007/978-981-15-
+Chapter and Communication Scholar 981-15-9293-
+Rashmitha Multiplier Performance 9293-5_41,pp
+Systems (ICACECS- 5_41
+Parameters 453-461-
+2020)
+64 Md Aref Billaha ,
+2020 4th International
+Bhaskar Roy , Sutapa Asymmetric
+Conference on
+Ray , Santosh K. AlGaAs/GaAs/InGaAs Based 10.1109/IEME
+Electronics, Materials 978-1-7281-9287- Google
+Choudhary, Soham Kanti Conference Quantum Well Long International 2-4 Oct.-2020 NTech51367.2
+Engineering & 1 Scholar
+Bishnu, Sanjay Wavelength Infrared 020.9270056
+Nanotechnology
+Chatterjee3 and Aparna Photodetector
+(IEMENTech)
+Biswas
+65 https://www.c
+Cape Comorin An
+apecomorinjou
+Data Analysis Approach on International
+ISSN: 2582-1962, rnal.org.in/Ac
+Mrs P Archana, Video Quality of Experience Multidisciplinary Google
+Journal International Feb-21 Vol: 3, Issue: 1, harya_IJELS_
+Dr.Subhash Kulkarni (QOE) Prediction Using Double-Blind Peer- Scholar
+Page No : 8-14. Archives-
+Enrqoe Machine Learning reviewed Research
+view-
+Journal
+abstract?Id=89
+66 NVL2E Neural Network-
+International Conference Electronic ISBN:
+Based Video Feature https://dx.doi.
+Mrs P Archana, on Smart Data 978-1-6654-3368- Google
+Conference Extraction Enabled Loss International Apr-21 org/10.2139/ss
+Dr.Subhash Kulkarni Intelligence (ICSMDI 6, Page No: 412- Scholar
+Computation to Learn and rn.3853029
+2021), 419,
+Evaluate Video Quality
+67 Smart irrigation System for
+the Reinforcement of 10.1109/ICIC
+V. V. S. S. Sireesha , G. 978-1-7281-8501- Google
+Conference Precision ICICT International Feb-21 T50816.2021.
+Sahitya 9 Scholar
+Agriculture using Prediction 9358524
+Algorithm
+68 https://doi.org/
+K. L. V. Ramana
+Book 978-981-16-1249- Google 10.1007/978-
+Kumari, M. Asha Rani, Testing of NPSF for memory ICSCSP-2020 International Aug.-2020
+Chapter 7 Scholar 981-16-1249-
+N. Balaji
+7_59
+69 https://drive.g
+Optimizing Conformal
+The International journal oogle.com/file
+Antenna Design for Volume XIII,
+D. Kanthi Sudha, P. of analytical and Google /d/1I1B7wtyW
+Journal Cylindrical Structures to International Feb.-2021 Issue II,0886-
+Chandrasekhar Reddy experimental modal Scholar UELVrQVh4
+achieve Omni Directional 9367
+analysis TzVV3Dtd6ie
+Radiation coverage
+Yvpz/view
+70 http://www.ija
+Comparative Analysis of
+resm.com/uplo
+Radiation Performance and International Journal of 2455-6211,
+D. Kanthi Sudha, P. 3-March - Google aded_files/doc
+Journal Bandwidth of Planar, All Research Education International Volume 9, Issue
+Chandrasekhar Reddy 2021 Scholar ument_file/D.
+Conformal Microstrip Patch and Scientific Methods 3, March -2021
+_Kanthi_Sudh
+Antennas
+a_yHCU.pdf
+71 International Journal of
+K. Swetha Reddy, P. ASIC Design and Verification 10.35940/ijite
+Innovative Technology ISSN: 2278-3075, Google
+Soujanya , D. Kanthi Journal of AMBA APB Protocol International Jul-20 e.I7257.07992
+and Exploring Volume-9 Issue-9 Scholar
+Sudha Using UVM 0
+Engineering
+72 Priyanka Kolluri, Classification of Human https://doi.org/
+Pranaya Chilamkuri , Book Postural Transition and 978-981-33-6983- Google 10.1007/978-
+CIS-2020 International 02-Jun-21
+Naga Deepa.Ch., Chapter Activity Recognition Using 2 Scholar 981-33-6984-
+Padmaja.V. Smartphone Sensor Data 9_35
+73 Social Distance Alert System
+T. Nikhil, 10.1109/ICAT
+to Control Virus Spread using 978-1-7281-7734- Google
+NagaDeepa. Ch & Conference IEEE ICATMRI-2020 International 12-Apr-21 MRI51801.20
+UWB RTLS in Corporate 2 Scholar
+Dr. V. Padmaja 20.9398453
+Environments
+74 Fourth International
+Human Activity Classification https://doi.org/
+Conference on Advanced
+Manisha & Book using Machine Learning 978-981-16-3659- Google 10.1007/978-
+Informatics for International 20-Jun-21
+Naga Deepa. Ch Chapter Techniques with Feature 2 Scholar 981-16-3660-
+Computing Research
+Selection 8_35
+(ICAICR-2020)
+75
+Sravanth Kumar doi:10.1088/1
+Mathematical Models for doi:10.1088/1742-
+Ramakuri, Vishnu Vytla, Google 742-
+Conference Predicting COVID-19 IOCER COVID 19 International 08-Oct.-2020 6596/1797/1/0120
+Anudeep Peddi, Kalyana Scholar 6596/1797/1/0
+Pandemic: A REVIEW 09
+Srinivas K 12009
+76
+Implementation of 16bit Fully
 International Journal of
-11 A sustainable Solution for Energy and Manmay Makkad, Shuchi Tiwari, Sandeep Rai 2024
-Green chemistry
-Environmental challenges
-Augmenting teaching-learning process Journal of Engineering
-12 Dr . S.Kanchana, Dr. Jyotsna Cherukuri 2024
-through discussion forum & Padlet Education
-Empowering student success: The critical role
-13 Dr. Jyotsna Cherukuri, Prativa Rani Saha Gradiva Review Journal 2024
-of Bloom’s taxonomy in skill-base education
-New Benzylidene-Triazole Tethered
-Coumarin Molecular Hybrids: Synthesis, Raja Rameshu Manda,Ratnakaram Venkata
-14 SAR, Molecular Modelling Simulations Nadh,* Gangadhara Angajala,Tella Lakshmi Chemistry select 2024
-Targeting Tubulin α/β Dimer and its Viveka*
-Antimicrobial Evaluation
-Microwave assisted synthesis of new
-Tella
-quinolone and coumarin molecular hybrids:
-Lakshmi Viveka a, Gangadhara Angajala a, V Journal of molecular
-15 SAR, molecular modelling studies as dual 2024
-almiki Aruna b, Mamatha Nakka a, Yeddala structure
-antagonists and its antimicrobial evaluation
-Aparna c
-targeting bacterial and fungal infections
-Theoretical investigation on electronic, optical
-Journal of the Indian
-and phonon properties of compound A Bhogi, B Srinivas, P Papolu, R Konakanchi,
-16 Chemical Society 101 (10), 2024
-semiconductors suitable for photovoltaic KJ Prakash, .
-101285
-device applications
-Spectroscopic features of Tb3+ doped D Vijayasri, KS Rudramamba, T Srikanth, N
-Journal of molecular
-17 strontium zinc borate glasses for green laser Mahendra Reddy, Mamatha Nakka, S 2023
-structure
-applications Pratyusha, M Rami Reddy
-ARPN journal of
-An overview dendrimers as conducting
-18 S Pratyusha, P Latha, Mamatha Nakka Engineering and Applied 2023
-nanomaterials in supercapacitors
-Sciences
-Appa Rao Sapala, Govind P. Maurya,
-Expanded triazolophanes: a topological Organic and Biomolecular
-19 Hanuman Singh, Neha Mehta, Tarak 2023
-analysis of vesicular assembly Chemistry (RSC)
-Karmakar and V. Haridas
-Novel Extraneous Peaks in GC Analysis from
-Perla Ganesh, Appa Rao Sapala, N. Jagadeesh, International Journal of
-GC Diluents, Processing Solvents and API
-20 Ch. B. V. Narsimha Raju, B.M.Rao, Chemical and Biological 2023
-Containing Salts: Identification by Mass
-Dharamasoth Rama Devi, K. Basavaiah sciences
-Spectrometry
-Spectroscopic features of Tb3+ doped D Vijayasri, KS Rudramamba, T Srikanth, N
-Journal of molecular
-21 strontium zinc borate glasses for green laser Mahendra Reddy, Mamatha Nakka, S 2023
-structure
-applications Pratyusha, M Rami Reddy
-ARPN journal of
-An overview dendrimers as conducting
-22 S Pratyusha, P Latha, Mamatha Nakka Engineering and Applied 2023
-nanomaterials in supercapacitors
-Sciences
-Incremental sheet forming–a state‐of‐art
-23 KS Rudramamba, M Rami Reddy, M Nakka john Wiley and sons 2023
-review (Book chapter)
-Synthesis and characterization of CD
-24 complexes containing bidentate heterocyclic Muskan Sameera Begum, Madhavi.K, Bedi European Chemical Bulletin 2023
-nitrogenous bases.
-Stability indicating HPLC method for the P.Ramya Sudha1, P. Bharath1, K. Madhavi2,
-25 Advances in Bioresearch 2023
-Simultaneous estimation of Imipenem, and D.Ramachandran1*
-Relebactam and Cilastatin in Imipenem,
-Relebactam and Cilastatin powder for solution
-for infusion Dosage form
-IMPURITY PROFILES & NITRASOAMINE Dr.P.RameshBabu2 .Dr.K.Madhavi3
-26 Journal of Basic Sciences 2023
-IMPURITIES IN MEDICINAL PRODUCTS *Dr.Srinivasarao.Tumati, Dr.D.Rajesh1
-International journal of
-REVIEW ON CHROMATOGRAPHY chromatography
-P.Govindha Chowdary G.Kurmaiah,
-27 TECHNIQUES-ANLYTICAL METHOD techniques- Analytical 2023
-K.Madhavi, G.Manitheja,Srinivasa Rao T
-DEVELOPMENT AND VALIDATIONS. method development and
-validations.
-Insights into synthesis, structural, energetic,
-vibrational, anticancer activity and molecular
-characteristics of 2-((2-aminopyridin-3-yl) K. Ramaiah, K. srishailam, B.V. reddy, G. Journal of Molecular
-28 2023
-methylene)-N- Ramana rao, Structure
-phenylhydrazinecarbothioamide as evaluated
-using spectroscopic and DFT investigations
-One pot multicomponent synthesis of highly
-substituted imidazoles using Research on Chemical
-29 Ramaiah KRamesh ,N, Kumaraswamy, G, . 2023
-tetrabutylammonium peroxy disulfate as a Intermediates
-catalyst
-Synthesis, Characterization, and Biological
-Evaluation of Bis(Aroyl Thiourea) Ramaiah, K, M. Musthaffa, Rasin,, Prashanth Polycyclic Aromatic
-30 2023
-Derivatives: Insights into Their Potential J, Sreekanth A Compounds
-Applications through DFT Analysis
-Computational studies, cytotoxicity, DNA Swathi M, Dasari Shiva Shankar, Sreenu Inorganic Chemistry
-31 2023
-interactions of bioactive novel Daravath, Nirmala Ganji Communications
-2-methoxy 5-trifluoromethyl benzenamine Journal of Molecular
-32 P.V. Anantha Lakshmi a, Shivaraj 2023
-Schiff base metal complexes Structure
-New organic dyes based on D - π - A structural Current Trends in
-M. YanadiRao, G. Ravi Kumar, P. Sumalatha,
-33 sensitizers for Dye-sensitized solar cells Biotechnology and 2023
-Sricharitha Annam, Mannam SubbaRao
-(DSSC’s): DFT and TD-DFT investigation Pharmacy
-New benzylidene festooned thiazolidinone- Raja Rameshu Manda, Ratnakaram Venkata
-Journal of Molecular
-34 coumarin molecular hybrids targeting Human Nadh, Tella Lakshmi Viveka, Gangadhara 2023
-structure
-Breast adenocarcinoma cells: Angajala, Valmiki Aruna
-Design,synthesis, SAR, molecular Modelling
-and biological evaluation as CDK2 inhibitors
-Proteases: An overview on its recent industrial
-Valmiki Aruna, V.Chandrakala, Gangadhara Materials Today:
-36 developments and current scenario in the 2023
-Angajala, E.R.Nagarajan Proceedings
-revolution of biocatalysis
-Pavitra Rajendran, Valmiki Aruna,
-Fluorinated Membrane Materials for Proton
-37 Gangadhara Angajala, Pulikanti Guru Prasad Wiley-Scrivener 2023
-Exchange Membrane Fuel Cells
+Damaraju Venkata Parallel Polar Encoder and ISSN: 2278-3075, 10.35940/ijite
+Innovative Technology Google
+Padma, G. Shanthi, M. Journal Decoder using Partially International July,2020 Volume-9 Issue- e.I7250.07992
+and Exploring Scholar
+Rama Devi Parallel Register Less 9, July 2020 0
+Engineering
+Technique
+77 Energy Efficient Data International
+https://doi.org/
+Transmission in a Three-Hop Conferences on
+Srinivasa Rao Patri & L. Book 978-981-15-9293- Google 10.1007/978-
+Cooperative Cellular NB-IoT Advances in Computer International 23-Jan-21
+Nithyanandan Chapter 5 Scholar 981-15-9293-
+Network Using Double Engineering of
+5_22
+Auction Communication Systems
+78 D. Ramesh Reddy,
+http://www.ijr
+Bakka Plant Growth Prediction and
+eat.org/Papers
+Sandhya,Kasaraneni Analysis using Convolutional Volume 43, Issue
+Journal National- Sambodhi International Jul-20 UGC %202020/Issu
+Yasaswi, Khadse Neural Networks with 2, pp. 41-45
+e43/IJREATV
+Akshay,Eligeti Pavansai, Suitable Activation Function
+8I1003.pdf
+Dr. Prakash Kodali
+79 D. Ramesh Reddy,
+https://doi.org/
+Bikash K, Design and development of an Soft Computing for
+Book 18-20, Dec. 978-981-16-2712- Google 10.1007/978-
+Vivek K P, IoT-Bases Smart Medication Problem Solving- International
+Chapter 2020 5 Scholar 981-16-2712-
+Sadek U. Z & Device. SocPros 2020
+5_7
+Dr. Prakash kodali.
+80 D. Ramesh Reddy;
+Autonomous Vehicle Based International Conference
+Chandravathi Chella; K. 10.1109/ICCI
+on Deep Q-Learning and on Communication, 16-18, June 978-1-6654-0295- Google
+Bala Ravi Teja; Heera Conference International Sc52257.2021.
+YOLOv3 with Data Control and Information 2021 8 Scholar
+Rose Baby; Prakash 9484954
+Augmentation Sciences (ICCISc)
+Kodali
+81
+FPGA Implementation of FIR
+2021 2nd International 10.1109/INCE
+S. Shilparani, K. Swetha Filter Architecture Google
+Conference Conference for Emerging International May-21 Pg. no. 1-5 T51464.2021.
+Reddy, V. Sagar Reddy using MCM Technology with Scholar
+Technology (INCET) 9456384
+Pipelining
+82
+Low Complexity Signal
+Detection Based on
+Manasa Yatagiri Pitchiah Book Proceedings of Dec. 18-19, ISBN: 978-93- Google
+Approximate Matrix Inversion National --
+Telagathoti Chapter NCVSCOMS20 2020 89084-07-8 Scholar
+Methods for Massive MIMO-
+Literature Review
+83 2020 2nd International
+Conference on
+A Detailed Review on 10.1109/ICIM
+Garg Priyanka, Santanu Innovative Mechanisms 978-1-7281-4167- Google
+Conference Intelligent Maximum Power International 23-Apr-20 IA48430.2020
+Kumar Dash for Industry Applications 1 Scholar
+Point Tracking Algorithms .9074861
+(ICIMIA),
+IEEE BANGALORE
+84 https://www.
+mahipublicati
+on.com/book
+6G Challenges in
+Dr. G. Jagga Rao, Book ISBN:978-93- Google details/6g-
+Reconfigurable MIMO- Mahi Publication International January-2021
+Dr. Y. Chalapathi Rao 91556-79-2 Scholar challenges-in-
+OFDM
+reconfigurable
+-mimo-
+ofdm/Mjk0/
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+AAnAutonomous, ISO 9001:2015 & QS I-
+NBA Accreditation for CE, EEE, ME, ECE, CSE, EIE, IT B.Tech. Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH in engineering Category
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Faculty Publications in the Academic Year 2019-2020
+S. Name of author/s Journal/ Title of the paper Name of the Journal/ National/ Year of Vol. no., Issue Indexing DOI of paper
+No. Conference/ Conference Internation Publication no., Pg. no.,
+Book al ISBN/ISSN
+Chapter Number
+1
+A New PV-Open-UPQC
+Santanu Kumar Dash, Configuration for Voltage IEEE Transaction on SCIE
+Journal International 1551-3203
+Pravat Kumar Ray Sensitive Loads utilizing novel Industrial Informatics (Q1)
+Adaptive Controllers
+10.1109/TII.202
+13-Apr-20 0.2986308
+2
+Ranjan K. Senapati, RST Invariant blind image 45, pp. 3331-
+ArbianJ. of science and SCIE
+Subodh Srivastava, Journal watermarking using DTT and International Feb-20 3353,2191428
+engineering-Springer (Q1)
+Prasanth M SVD 1, 2193-567X
+10.1007/s13369
+-020-04387-9
+3
+Design and analysis of a RF Microsystem Technologies
+MEMS shunt switch using U- Micro-and Nanosystems
+G. Shanthi, K. Srinivasa 12-May- SCI
+Journal shaped Information International 26:3783 3791
+Rao, K. Girija Sravani 2020 (Q2)
+meanders for low actuation Storage and Processing https://doi.org/1
+voltage Systems 0.1007/s00542-
+020-04864-z
+4
+Incremental learning for Text Volume
+N V Sailaja,
+Categorization using rough set Data Technologies and No.54, Issue SCIE
+L Padmasree, Journal International July, 2019 https://doi.org/1
+boundary based Optimized Applications 5, ISSN: (Q2)
+N Mangathayaru 0.1108/DTA-
+Support Vector Neural Network 2514-9288
+03-2020-0071
+5 Gowrisree Rudraraju,
+Informatics in
+ShubhaDeepti Palreddy,
+Cough sound analysis and Medicine
+Baswaraj Mamidgi,
+objective correlation with Informatics in Medicine Unlocked 19 Scopus
+Narayana Rao Sripada, Journal International Mar-20
+spirometry and Unlocked (Elsevier) (2020) (Q2)
+Y. Padma Sai, Naveen https://doi.org/1
+clinical diagnosis 100319, ISSN:
+Kumar Vodnala, Sai 0.1016/j.imu.20
+23529148
+Praveen Haranath 20.100319
+6
+Biomedical image retrieval ISSN: 1380-
+G. Sucharitha, Ranjan K. using local directional edge Multimedia Tools and 7501,2.101(S SCIE
+Journal International Nov. 2019
+Senapati binary pattern and Zernike Applications-Springer CIE),2.101(SC (Q2)
+https://doi.org/1
+moments IE)
+0.1007/s11042-
+019-08215-7
+7
+A secure communication International Journal of
+Amir W., Ranjan K. approach in OFDM using Pervasive Computing and Vol. 18 No. 2, WoS
+Journal International Jun-20
+Senapati Optimized interesting region- Communications-emerald pp. 171-194.1 (Q2)
+https://doi.org/1
+based Video Watermarking publisher
+0.1108/IJPCC-
+05-2019-0044
+8
+Real-time speech enhancement
+Sagar Reddy using
+IET Computers & Digital 29th May ISSN 1751- SCIE
+Vumanthala, Bikshalu Journal optimised empirical mode International
+Techniques 2020 8601 (Q3)
+Kalagadda decomposition and
+non-local means estimation 10.1049/iet-
+cdt.2020.0034
+9
+Nonlocal means estimation of Turkish journal of
+Sagar reddy V, Bikshalu SCIE
+Journal intrinsic mode functions for electrical engineering and International 27.01.2020 1300-0632
+K (Q3)
+speech enhancement computer science
+doi:10.3906/elk-
+1901-86
+10
+N V Sailaja, A New Text Categorization International Journal of Vol. 13, No. 2 WoS, DOI:
+L Padmasree ,N Journal Strategy: Prototype Design and Knowledge and Learning International April,2020 Page Nos: Scopus 10.1504/IJKL.2
+Mangathayaru Experimental Analysis (InderScience) 146-167 (Q3) 020.106650,ISS
+N online :1741-
+1017
+11
+Real Time Hand Gesture
+Volume- 9,
+Recognition with A Novel International Journal of
+Ch. Naga Deepa, Dr. N. Issue 03, pg- Scopus
+Journal Distance Measure GPD For IoT Scientific & Technology International March 2020
+Balaji, Dr. V. Padmaja 601-607, ISSN (Q3)
+Based Controlled Assistance Research
+2277-8616
+System
+12
+Convolutional Neural Network
+M. V. R. Manimala, C. for Sparse Reconstruction 26 Vol. 29, No. 7 DOI:
+Journal of Circuits, SCIE
+Dhanunjaya Naidu, M. Journal of MR Images Interposed with International September 2050116 (21 10.1142/S02181
+Systems, and Computers (Q3)
+N. Giri Prasad Gaussian Noise 2019 pages) 26620501169
+13
+Manideepthi, Dr.
+Volume XI, WoS,
+Y.Chalapathi Rao, Generation Of Electricity Using
+Journal Aut Aut Research Journal International May, 2020 Issue V,0005- Scopus
+Vikas, Shiva Sai, Pardha Piezoelectric Tyre
+0601 (Q3)
+Saradhi
+14
+Classification of Cardiac
+International Journal of ISSN 2150-
+Remalli Rohan, Dr D Arrhythmia Diseases from
+Computer Information 7988 Volume Scopus
+Santhosh Kumar, P Journal Obstructive Sleep Apnea International Jun-20
+Systems and Industrial 12 (2020) pp. (Q3)
+Srinivasa Rao Signals using Decision Tree
+Management Applications 248-264
+Classifier
+15
+Volume XI,
+Y. Ritheesh Baradwaj, Smart Glasses for Blind - A
+Issue IV, 406- WoS,
+D. Ramesh Reddy, K. Personal Assistant using
+Journal Aut Aut Research Journal International Apr-20 409, ISSN Scopus
+Nikhil, K. Achyuth Computer Vision, Artificial
+NO: 0005- (Q3)
+Kumar, 5 R. Abhinav Intelligence
+0601
+16
+Sagar Reddy Speech Enhancement using Jour of Adv Research in Vol. 11, 04,
+Scopus
+Vumanthala, Bikshalu Journal Discrete Wavelet Transform and Dynamical & Control International 2019-2020 ISSN 1943-
+(Q3)
+Kalagadda Nonlocal Means Estimation Systems 023X
+17
+L. Dharma Teja, B.
+Brainard Jacob, G. Design of Low Power SRAM E-ISSN:1936- Google
+Gnana Teja Yadav, K. Journal Cell Using Multi Threshold Advanced Science letters International May-20 7317, Vol-26, Scholar
+Sri Harini, N. Nikhila Technique Pg-524 (Q3)
+Vallabhaneni
+18
+D. Krishna Virinchi, V.
+Priyanka Brahmaiah,
+Google
+Dr.Y.Padma Sai, M. Sri MAYDAY, A WOMEN Vol. 26, No. 5,
+Journal Advanced Science Letters International 2019-2020 Scholar
+Hari Govinda, P. Sai SAFETY DEVICE 1936-7317
+(Q3)
+Sudhir Reddy, P. Ronith
 Reddy
-Chemical Composition and Pharmacological V.Chandrakala, Valmiki Aruna, Gangadhara
-38 Wiley-Scrivener 2023
-Activities of Essential Oils Angajala, Pulikanti Guru Prasad Reddy
-Microwave Assisted Synthesis of New
-Quinolone and Coumarin Molecular Hybrids: Tella Lakshmi Viveka, Gangadhara Angajala,
-Journal of Molecular
-39 SAR, Molecular Modelling Studies as Dual Valmiki Aruna, Mamatha Nakka, Yeddala 2023
-structure
-Antagonists and its Antimicrobial Evaluation Aparna
-Targeting Bacterial and Fungal Infections
-Investigation of dielectric properties of P
-C Thirmal, P Nikhil Mohan, G Suresh, T Materials Today:
-40 (VDF-Trfe)-Nafion blended solutions in the 2023
-Lakshmi Viveka, KC James Raju, T Vishwam Proceedings
-microwave frequency region
-New benzylidene festooned thiazolidinone-
-coumarin molecular hybrids targeting Human Raja Rameshu Manda , Ratnakaram Venkata
-Journal of molecular
-41 Breast adenocarcinoma cells: Design, Nadh ∗ , Tella Lakshmi Viveka ∗, Gangadhara 2023
-structure
-synthesis, SAR, molecular Modelling and Angajala
-biological evaluation
-Green synthesis of various metal Oxide Materials Today
-42 nanoparticles for the Environmental P Papolu, A Bhogi Proceedings –Elsvier 2023
-remediation-An overview Journal
-CS Reddy, DSSN Padmavathi Papolu, V
-43 A Novel Approach For The Production Of O2 European Bulletein 2023
-Parvathi, TP Kumari
-Design, Synthesis, Characterization and International Journal of
-Biological Evaluation of Cu(II), Pd(II) Research in Science and
-44 Kotte Shylaja, **Padmavathi Papolu 2023
-Complexes with Novel Schiff Base Ligand Technology 13 (Issue No.
-Derived from 3- Amino Coumarin 4 …
-Absorption spectrum fitting method (ASF),
-A Bhogi, B Srinivas, P Padmavathi, K Optical materials Volume
-45 DASF method and structural studies of Li O– 2022
-2 Venkataramana, KK Ganta, ... 133, November 2022,
-SrO–B O –MnO quaternary glass system
-2 3
-Effect of Mn2+ ions on spectroscopic and Materials Chemistry and
-A Bhogi, B Srinivas, P Papolu, M
-46 electrical properties of lithium strontium Physics, Volume 291, 15 2022
-Shareefuddin, P Kistaiah
-borate glasses November 2022
-Nano Fibrous Materials for Capturing Air Chem Sci Rev Lett 2022, 11
-47 Padmavathi papolu, Dr Ashok Bhogi 2022
-Pollutants in the Ambient Air - A Review (41), 1-5
-HPLC Profiling and Antihyperglycemic
-Evaluation of PHE (Poly Herbal Extract) of P.Manoram, V.Aruna, D.Geetha, Gangadhara Rasayan Journal of
-48 2022
-Selected Indian Medicinal Herbs in Alloxan Angajala Chemistry
-Diabetic
-Identification of Chemical Constituents,
-Chromatographic profiling of PHE (Poly P.Manoram, V.Aruna, D.Geetha, Gangadhara Research Journal of
-49 2022
-Herbal Extract) of selected Indian Medicinal Angajala Pharmacy and Technology
-Herbs and its Antioxidant activity Evaluation
-Molecular Modelling Studies and Larvicidal
-Rasayan Journal of
-50 Potential of PHE (Poly Herbal Extract) of P.Manoram, V.Aruna, Gangadhara Angajala 2022
-Chemistry
-Selected Indian Medicinal Herbs
-Triarylborane-triphenylamine based
-luminophore for the mitochondria targeted live
-51 Narra Sivakrishna Dalton Trans., 2022
-cell imaging and colorimetric detection of
-aqueous fluoride
-Investigation on synthesis, structure and Materials Today:
-52 LS Rao, CD Naidu, S Tiwari 2022
-degradability of starch based bioplastics Proceedings 49, 257-261
-Nanomaterials , Properties and Applications.
-53 An overview Role of Nanotechnology in Dr Padmavathi papolu, Dr Ashok Bhogi Scieng publications 2021
-Science and Technology 978-93- 5578-
-Spectroscopic, quantum chemical
-calculations, antioxidant, anticancer,
-Sreenu Daravath, Aveli Rambabu, Nirmala
-antimicrobial, DNA binding and photo Journal of Molecular
-54 Ganji, Gali Ramesh, P.V. Anantha Lakshmi, 2021
-physical properties of bioactive Cu(II) Structure
-Shivaraj
-complexes obtained from trifluoromethoxy
-aniline Schiffbases
-Detection of Tellurium (IV) in High purity International Journal of
-K.Madhavi,P.Padmavathi, T.Srinivasarao,
-55 metal &Synthetic mixtures using Morpholine Scientific Research & 2020
-K.Saraswathi
-dithiocarbamate& U.V Spectrophotometer Review
-Impact of Air pollution from a coal fired
-Chemical Science Reviews
-56 thermal power station on Brinjal and Tomato P. Padmavathi K. Madhavi 2020
-and Letters
-Crops.
-Impact of Air Pollutio n from a Coal Fired
-Chem Sci Rev Lett 2020,
-57 Thermal Power Station on Brinjal and Tomato Padmavathi papolu,K.Madhavi 2020
-9,(36), 902-908
-Crops
-A comparative study of the efficiency of
-chemical coagulation and electrocoagulation K. Padmaja, Jyotsna Cherukuri, M. Anji Journal of Water Process
-58 2020
-methods in the treatment of pharmaceutical Reddy Engineering
-effluent.
-Detection of Tellurium (IV) in High purity International Journal of
-59 metal &Synthetic mixtures using Morpholine K.Madhavi,Padmavathi papolu, Scientific Research & 2020
-dithiocarbamate& U.V Spectrophotometer Review/ 9 (4)
-Novel Pedagogical methods for Effective
-Journal of applicable
-60 Learning of Chemistry in P. Padmavathi K. Madhavi 2019
-Chemistry
-Engineering Education
-Impact of Ash Pond on the Groundwater
-Padmavathi Papolu, Jyotsna Cherukuri, and M Chemical Science Review
-61 Quality in the vicinity of a Coal-Based 2019
-Anji Reddy and Letters
-Thermal Power Plant
-Impact of ash pond on Drinking water quality Chemical Sciences Reviews
-62 P Padmavathi, J Cherukuri, MA Reddy 2019
-in the vicinity of thermal power plant Letters 8 (31), 125-131
-Learning and Reflection of Technology Based IEEE Tenth International
-Atul M Kulkarni,Gowrisankar P,K.
-63 Collaborative MOOC Design and Its Conference on Technology 2018
-Madhavi,Johny P Joseph
-Evaluation, Validation and Results for Education (T4E)
-Novel Pedagogical methods for Effective
-Journal of Applicable
-64 Learning of Chemistry in Engineering Padmavathi papolu,K.Madhavi 2018
-Chemistry,8 (4): 1603-1610
-Education
-Assessment of Water Quality of Himayatsagar
-65 K.Padmaja, Jyotsna Cherukuri, M.Anji Reddy IOSR-JESTFT 2017
-lake in Hyderabad-A case study
-CHUNDURU SRINIVASA RAO1,*,
-CuFe O nanoparticles medicated Synthesis of SHAKIL S. SAIT2, JYOTSNA
-66 2 4 Asian Journal of Chemistry 2016
-1,4-Disubstituted 1,2,3-Triazoles CHERUKURI1, B. RAMADEVI1 and CH.
-VENKATA RAMANA REDDY
-A Mini Review on the Minimization of
-67 hazardous Compounds in the Pharmaceutical P Padmavathi, J Cherukuri, MA Reddy CSRL 2016
-Waste
-CHUNDURU SRINIVASA RAO1,*, Ch.
-Decarboxylative aromatization of Beta-
-VENKATA RAMANA REDDY1, B. RAMA
-Carbolines by using metal free catalysis and an
-68 DEVI1,JYOTHI VANTIKOMMU1, Asian Journal of Chemistry 2015
-efficient synthesis of beta- carboline
-JYOTNA CHERUKURI2 and SHAKIL S.
-derivatives.
-SAIT
-IOSR Journal of
-Environmental Science,
-Ambient air pollutant levels in the vicinity of
-69 P Padmavathi, J Cherukuri, MA Reddy Toxicology and Food 2015
-Thermal power plant.
-Technology (IOSR-
-JESTFT)
+19
+Vivek Satvik, V26, Num6,
+Implementation of Google
+Aytha.Ramesh Kumar, 129-135pp,E-
+Journal synchronization for 5G NR Advanced Science Letters International May-20 Scholar
+Sushma S, ShaikAmeer ISSN:1936-
+system (Q3)
+N, Sai Kiran N 7317
+20
+D.Spandana, Volume-26
+Facial Emotion Recognition Google
+Dr.M.C.Raju, Issue-5,
+Journal Using Convolutional Neural Advanced Science Letters International May-20 Scholar
+P.Madhurima, M.Manya, ISSN:1936-
+Networks (CNN) (Q3)
+P.Uma 7317
+21
+Scopus
+Konda Nandini, V. Real Time Traffic Signs and International Journal of Volume-9,
+14-April- (Q4)
+Naveen kumar, Y. Journal Obstacle Detection in Self- Innovative Technology International Issue-6, ISSN:
+2020
+Padma Sai Driving Car and Exploring Engineering 2278-3075
+10.35940/ijitee.
+D1936.049620
+22
+Volume-8
+Pallavi Polsani, V. Design & Verification of Serial International Journal of
+Issue-6, March Scopus
+Priyanka B., Y. Padma Journal Peripheral Interface (SPI) Recent Technology and International Mar-20
+2020, ISSN: (Q4)
+Sai Protocol Engineering
+2277-3878
+10.35940/ijrte.F
+7356.038620
+23
+Volume-9
+P. Vineetha, Dr. L. Development of Text to Speech International Journal of
+Issue-6,2154- Scopus
+Padma Sree, M. Rama Journal Conversion System for Low Innovative Technology International April 2020
+2158,2278- (Q4)
+Devi Vision and Blind People and Exploring Engineering
+3075
+10.35940/ijitee.
+D2110.049620
+24
+ISSN: 2277-
+V. Krishna sree, C. International Journal of
+Various Real time Chat bots and 3878, Scopus
+Kaushik, G. Sahitya, Journal Recent Technology and International Nov-19
+their Applications in Human life Volume-8 (Q4)
+Remalli Rohan Engineering
+Issue-4
+10.35940/ijrte.D
+6902.118419
+25
+G. Jagga Rao, Detection for 6g-Noma Based Vol. 29, No.
 International Journal of
-Impact of Air Pollution on Crops in the Engineering Research &
-70 P Padmavathi, J Cherukuri, MA Reddy 2015
-Vicinity of a Power Plant: A Case Study Technology (IJERT) Vol. 2
-Issue 12,
-Spectrophotometric method for the detection International Journal of
-71 of Tin(II) in synthetic mixtures using K.Madhavi,K.Saraswathi Emerging Engineering 2014
-Morpholine Dithiocarbamate Research & Technology
-Estimation of Selenium(IV) in Human Hair,
-Chemical Science Reviews
-72 Nails, Blood samples and Wheat and Jaggery K.Madhavi,K.Saraswathi 2014
-and Letters
-samples using Morpholine Dithiocarbamate
-Sailaja Kumari Battula1, Jyostna Cheukuri*2, International Journal of
-Effective Removal of Fluoride from Ground
-73 Raman. N. V. V. S. S1, Himabindu.V3, Engineering research and 2014
-Water Using Electro Coagulation
-Bhagawan. D Applications
+Dr.Y. Chalapathi Rao, Machine Learning Optimization 3s, pp. 1803- Scopus
+Journal Advanced Science and International March, 2020 http://sersc.org/j
+Dr. Anupama Desh For Successive Adaptive 1812,2005- (Q4)
+Technology ournals/index.ph
+Pande Matching Pursuit Analysis 4238
+p/IJAST/article/
+view/6247
+26
+Ch. Usha Kumari, N.
+Benign and Malignant Tumor ISSN: 2277-
+Madhusudhana Rao, International Journal of
+Classification 3878, Scopus
+M.N.V.S.S Kumar, Journal Recent Technology and International Sep-19
+using Machine Learning Volume-8, (Q4)
+Kishore Pinninti, M Pala Engineering
+Technique Issue-3,
+Prasad Reddy 10.35940/ijrte.C
+6297.098319
+27
+ISSN: 2277-
+K. Sarath Chandra, K. Design of 8T CNTFET SRAM International Journal of
+3878, Scopus
+Hari Kishore, Pushpa Journal for Ultra-Low Power Recent Technology and International Nov-19
+Volume-8 (Q4)
+Giri, E. Santhosh Reddy Microelectronic Applications Engineering
+Issue-4
+10.35940/ijrte.D
+4368.118419
+28
+Data Collection and
+ISSN: 2277-
+Performance Analysis International Journal of
+Sahitya G, V A 3878, Scopus
+Journal of Wireless Communication to Recent Technology and International Nov-19
+Balakrishna Jakka Volume-8 (Q4)
+improve Quality Engineering
+Issue-4
+of Service 10.35940/ijrte.D
+9269.118419
+29
+Volume-8
+A Method to Implement International Journal of
+Issue-12S, Scopus
+K.Jyostna,K Navaneetha Journal Scheduling and Prioritizing of Innovative Technology International Oct-19
+ISSN-2278- (Q4)
+and Exploring Engineering 10.35940/ijitee.
+3075
+L1159.10812S1
+9
+30
+ISSN: 2278-
+Design of High Performance 4- International Journal of
+L. D. Teja, Dr. S. 3075, Scopus
+Journal bit Ternary Multiplier using Innovative Technology International Dec-19
+Rajendra Prasad Volume-9 (Q4)
+CNTFET and Exploring Engineering
+Issue-2
+10.35940/ijitee.
+B7477.129219
+31
+ISSN:2005-
+AGRD: Real Time Hand 4238E-
+NagaDeepa.Ch,Dr. International Journal of
+Gesture Controlled Assistive ISSN:2207- Scopus
+N.Balaji, Dr. V. Journal Advanced Science and International Jul-2019
+System using IoT for Elderly 6360 (Q4)
+Padmaja. Technology (IJAST)
+People. Vol-128-
+Issue-1
+32
+ISSN: 2249
+Sakhamuri Sravanthi, VLSI based Error Correction International Journal of
+8958, Scopus
+Rajendra Prasad Journal Code Using Fault-tolerant Engineering and Advanced International Aug-19
+Volume-8 (Q4)
+Somineni Parallel FFTs Technology (IJEAT)
+Issue-6,
+10.35940/ijeat.F
+8258.088619
+33
+Signal Processing Techniques ISSN: 2278-
+C. Kaushik, G. Sahitya, International Journal of
+for Removal of Various 3075, Scopus
+V. Krishna sree, Remalli Journal Innovative Technology International Oct-19
+Artifacts from Obstructive Sleep Volume-8, (Q4)
+Rohan and Exploring Engineering
+Apnea Signals Issue-12
+10.35940/ijitee.
+L3317.1081219
+34
+International Journal of ISSN: 2278-
+V. Krishna sree, Jeevan
+Smart Wrist Band for Women Innovative Technology 3075, Scopus
+Sai, Sri Siri, Ruchitha, Journal International Jun-20
+Safety and Exploring Engineering Volume-9 (Q4)
+Saishma
+(IJITEE) Issue-8
+10.35940/ijitee.
+H6544.069820
+35
+Vol. 12, Nos.
+A comparative analysis of the 1/2, 2020,
+Shankaranand Jha,
+short-channel effects International Journal of page nos. 112- Scopus
+Santosh Kumar Journal International Apr-20
+of double-gate, tri-gate and nanoparticles 121,ISSN (Q4)
+Choudhary
+gate-all-around MOSFETs NO:2231-
+10.1504/IJNP.2
+3990
+020.106002
+36
+Online ISSN:
+FPGA Implementation of International Journal of
+K.L. V Ramana Kumari, 2278-3075 &
+Active Neighbor Hood Pattern Innovative Technology Scopus
+M. Asha Rani, N. Balaji Journal International Nov.-2019 Print ISSN:
+Sensitive Fault Testing using and Exploring Engineering (Q4)
+& B.Niharika 0975-4350,
+Tiling Method (IJITEE)
+Vol-9, Issue-1 10.35940/ijitee.
+A3924.119119
+37
+International Journal of ISSN: 2278-
+K. Manasa, V. Padmaja, HVAC and Audio Control Google
+Innovative Technology 3075,
+CH. Naga Deepa, V. Journal System using Gesture International Jan-20 Scholar
+and Exploring Engineering Volume-9
+Sagar Reddy, Recognition in Cars (Q4)
+(IJITEE) Issue-3
+10.35940/ijitee.
+C9055.019320
+38
+Design and Implementation of
+International Journal of ISSN: 2278-
+Dual Mode Compressor
+Innovative Technology 3075, Scopus
+Ch.Ganesh,Swapnika Journal Based32 Bitdadda Multiplier International Dec-19
+and Exploring Engineering Volume-9 (Q4)
+using Modified Carry Select
+(IJITEE) Issue-2,
+Adder 10.35940/ijitee.
+B7893.129219
+39
+ISSN: 2278-
 International Journal of
-Innovative Research in
-Conventional to Cutting Edge Technologies in K.Padmaja1, Jyotsna Cherukuri2*, M.Anji Science, Engineering and
-74 2014
-Drinking Water Purification - A Review Reddy3 Technology, Vol. 3, Issue 2,
-February 2014, pp-9375-
-9385.
-Synthesis of 3- [5-Morpholinomethyl
-Journal of Indian Chemical
-75 piperidinomethyl /Pyrrudinemethyl-1,2,4- C. Srinivas Rao, C. Jyotsna, Shakil S. Sait 2014
-Society, 2014.
-oxadiazol-3-yl]-4H-Chromones,
-Spectrophotometric method for the
+Sangeetha Balne, T. FPGA based On-Chip Phase 3075, Scopus
+Journal Innovative Technology International Dec-19
+Gowri, C. Kaushik Measurement System Volume-9 (Q4)
+and Exploring Engineering 10.35940/ijitee.
+Issue-2S3
+B1035.1292S31
+9
+40
+Shaik Khadar
+International Journal of Google
+Sharif,chava Vol-9, Issue -
+Journal Sign Language Recognition Engineering, Research & International May, 2020 Scholar
+srivarshni,G.Hruday,M. 5,2278-0181
+Technology (Q4)
+Chandu
+41
+A study on Rough Indices in
+Lecture Notes on Data
+B. Venkataramana, L. Information Systems with Fuzzy
+Book Engineering and Vol. 31, Page:
+Padma Sree, M. Srinivas or Intuitionistic Fuzzy Decision International 2019-2020 WoS
+Chapter Communications 101-107
+Rao, G. Ganesan Attributes-Two Threshold
+Technologies
+Approach 10.1007/978-3-
+030-24643-3_11
+42
+Book
+Low Power, High Performance Major Applications of DOI:
+B. K. Madhavi, Dr chapter
+CNTFET-Based SRAM Cell Carbon Nanotube Field December, 978179981393 10.4018/978-1-
+Rajendra Prasad International Scopus
+Designs: Design and Analysis Effect Transistors 2020 4 7998-1393-
+Somineni
+of 6T CNTFET SRAM Cells (CNTFET), IGI Global 4.ch006
+43
+D. Ramesh Reddy G. Internet of Things Based 10.1109/I-
+Third International 12-14 Dec. ISBN:978-1-
+Phani Chandra Goud Dr. Conference Pothole Detection System International Scopus SMAC47947.20
+Conference on I-SMAC 2019 7281-4365-1
+C. D. Naidu using Kinect Sensor 19.9032694
+44
+6th Students' Conference ISBN 978-1-
+Mohebbanaaz, Dr. Y. A Review on Arrhythmia
+on Electrical, Electronics 07-May- 7281-4862-5,
+Padma Sai, L.V. Rajani Conference Classification using ECG International Scopus
+and Computer science 2020 ISSN 2688-
+kumari Signals
+(SCEECS-2020) 0288,
+10.1109/SCEEC
+S48394.2020.9
+45
+International Conference
+G. Sahitya, C. Kaushik, IOT Based Domestic Aid Using
+Book on Communications,
+Vasagiri Krishnasree, Computer Vision for Specially International Oct-20 18761100 Scopus
+Chapter Signal Processing and
+and Ch. Yajna Mallesh Abled Persons 10.1007/978-
+VLSI (IC2SV 2019)
+981-33-4058-
+9_9
+46
+Machine learning based copy , Volume 81,
+Dr.D.Sudha
+move forgery detection with TEST Engineering & Nov-Dec- pp. 6401-
+Dr.Y. Chalapathi Rao Journal International Scopus
+forensic psychology ultra-HD Management 2019 6406, 0193-
+G. Jagga Rao,
+images 4120
+47
+An Automated System for
+2019 IEEE 16th India
+G Radha Krishna, R Regional Nativity Identification 978-1-7281-
+Conference Council International International Mar-20 Scopus
+Krishnan, V K Mittal of Indian speakers 2327-1
+Conference (INDICON) 10.1109/INDIC
+from English Speech
+ON47234.2019.
+9028980
+48
+6th International
+Md Aref Billaha, Biplab
+Book Inter-subband Photoresponse Conference on Opto- 978-981-15-
+Bhowmick and Santosh International Jun-20 Scopus
+Chapter Analysis of CdS/ZnSe QWIP Electronics and Applied 9432-8
+Kumar Choudhary https://doi.org/1
+Optics (OPTRONIX-2020)
+0.1007/978-981-
+15-9433-5_40
+49
+Sravanth Kumar R, K
+A survey on Recent Trends in ISSN- 2394-
+Misritha, Anudeep 07-June-
+Journal Brain Computer Interface Journal of critical Reviews International 5125 Vol 7, Scopus
+Peddi, K kalyana 2020
+classification and application Issue 11
+Srinivas, Bharat Gupta
+50
+5th International
+Electromagnetic Analysis of
+Conference on Micro-
+MEMS Based Tunable EBG 978-981-15-
+G. Shanthi, K. Srinivasa Book electronics
+Band stop Filter using RF International 24-Jun-20 3827-8, Scopus
+Rao, K. Girija Sravani Chapter Electromagnetics and
+MEMS Switch for Ku Band pp.163-173 https://doi.org/1
+Telecommunications
+Applications 0.1007/978-981-
+(ICMEET-2019)
+15-3828-5_18
+51
+Detection and Analysis of
+P. Kishore, Ch. U. International Conference
+6-7 Dec.
+Kumari, M. N. V. S. S. Conference on Advances in Materials International 22147853 Scopus
+various Machine Learning 2019
+Kumar, T. Pavani Research (ICAMR-2019)
+Algorithms
+10.1016/j.matpr
+.2020.07.645
+52
+Energy Efficient Data Grenze ID: 01.
+Grenze International
+Srinivasa Rao Patri and Transmission for Narrow Band- GIJET.5.2.508
+Journal Journal of Engineering and International Jul-19 Scopus
+Dr.L.Nithyanandan IOT Devices using Double _1,Pg:171 to
+Technology Grenze ID: 01.
+Auction 176
+GIJET.5.2.508_
+1,Pg:171 to 176
+53
+Nandhaiahgari Dinesh International Journal of
+Design and analysis of different
+Kumar, Rajendra Prasad Reconfigurable and Vol. 9, No. 2,
+Journal full adder cells using New International Jul-20 Scopus
+Somineni, CH. Raja Embedded Systems pp. 116~124
+Technologies
+Kumari (IJRES)
+10.11591/ijres.v
+9.i2.pp116-124
+54
+Kedar Nath Sahu, Challa
+Simulation for Frequency
+Dhanunjaya Naidu, 10.22541/au.15
+Response of Transmission of February 10, Google
+Ravindharan Ethiraj, and Conference Beating Heart Authorea International 8136923.35382
+UWB Signal 2020 Scholar
+Jaya Sankar 423
+in a Beating Heart
+Kottareddygari
+55 AAP (Apple Academic
+Pradeep Kumar, Subodh Book Basic Understanding of Medical 978177463722 Google
+Press), Taylor and Francis International 2019-2020
+Srivastava, Y. Padma Sai Chapter Image Processing 7 Scholar
+Group Publisher
+56
+Mamunooru, C.M.,
+Attada, S., Kodali, S.V., Book Smart meter using Raspberry pi April Google
+Data Intelligence and International -
+Tumma, M.R., Dash, Chapter for Efficient Energy Utilization 27,2020 Scholar
+Cognitive Informatics. https://doi.org/1
+S.K., Padma Sai, Y.
+Algorithms for Intelligent 0.1007/978-981-
+Systems 15-8530-2_12
+57 A Novel Approach for High
+G. Jagga Rao, The International journal Volume 9-
+Secured Image Transmission in
+Dr.Y. Chalapathi Rao, of analytical and Issue 10, pp. Google
+Journal 6G via MIMO-OFDMA process International Oct, 2019 18.0002.IJAEM
+Dr. Anupama Desh experimental modal 1481-1492, Scholar
+in NCHAOS Encryption A.2019.V11I10.
+Pande analysis V 0886-9367
+Algorithm 208301.3792
+58
+K.Anupama, Automation Of Industrial Volume IX,
+Google
+Dr.Y. Chalapathi Rao, Journal Parameters Using IoT with Alochana Chakra Journal International April, 2020 Issue IV,2231-
+Scholar
+G.Vijay Kumar Raspberry Pi 3990
+59
+Non-native Accent Partitioning
+16th Intl. Conference on
+G Radha Krishna, R for Google
+Conference Natural Language International Dec-19 https://aclanthol
+Krishnan, V K Mittal Speakers of Indian Regional Scholar
+Processing ogy.org/2019.ic
+Languages
+on-1.8.pdf
+60 5th International
+Narra Dhanalakshmi, Y. Conference on Signal
+Optical Flow Based Video 6th -7th PP:169-173,
+Madhavee Latha, Avula Processing, Google
+Conference Content Representation Using International December ISBN: 978-93-
+Damodaram, Islavath Communications and Scholar
+Histograms 2019 88808-46-0
+Prabhakar System Design
+(ICSPCOMSD-19)
+61 Volume-12,
+C. Aravind Sai, Dr. P. The International journal Issue-
+Alzhemer's disease detection
+Kishore, C. Sai Eka of analytical and 4,pp.7731-
+Journal using different machine learning International Apr-20 UGC
+Vardhan, G. Subhash; experimental modal 7735,ISSN
+algorithms
+5P. Geethika Sri analysis NO:0886-
+9367
+62
+Sirisha Jadav, Volume IX,
+Chathrapathi Nikhil Issue V,
+Design of Low Power D Flip-
+Kandagatla, Vagdevi May/2020, Google
+Journal Flop Circuit Alochana Chakra Journal International May-20
+Ganta, Kavitha Siddham, ISSN Scholar
+for Phase Detector
+Santosh NO:2231-
+Kumar choudhary 3990
+63
+Various
+Remalli Rohan, D.
+M ethods for Identification of Journal of Scientific Volume 64, Google
+Santhosh Kumar, and Journal International 2019-2020 http://dx.doi.org
+Obstructive Sleep Apnea Using Research Issue 1, 2020 Scholar
+Srinivasa Rao Patri /10.37398/JSR.2
+Electrocardiogram Features
+020.640151
+64 Vol: 4, Issue:
+Video Quality Appraisal Based
+Journal of 3, Year: 2019, Google DOI:10.5281/Ze
+P Archana Journal on ML Modeling in Wireless National Jul-05
+Telecommunication Study Page No: 34 - Scholar nonodo.358348
+Networks
+39. 2
+65
+K Sudha Rani, K Mani https://doi.org/1
+3D Tumor Segmentation using 978-0-429- Google
+Kumari, K Aruna Conference ICCCS 2018 International 22-Oct-19 0.1201/9780429
+surface rendering technique 44427-2 Scholar
+Kumari, T Gana Prakash 444272
+66 Etukala Jaswanth
+Reddy,Padhuri International Conference
+Vavaneeth Reddy, Development and Analysis of on Emerging Trends in 10.1109/ic-
+978-1-7281- Google
+Govindula Maithreyi, M. Conference Pothole detection and Alert Information Technology International May-20 ETITE47903.20
+4142-8 Scholar
+Bharath Chandra Balaji, based on NodeMCU and Engineering (Ic- 20.347
+Santanu Kumar Dash, K. ETITE-2020)
+Aruna Kumari
+67
+Vemula Yakub Reddy,
+Mangipudi Pavan Vol:07, no:
+International Research
+Kumar, Mankala Speech Based Emotion 05, pp:4329- Google
+Journal Journal of Engineering and International May-20
+Sushma, Gurindagunta Detection System Using Mfcc 4332,2395- Scholar
+Technology (IRJET)
+Kiran, Vijaya Kumar 0056
+Gurrala
+68
+Mangipudi Pavan
+Kumar, Vemula Yakub Automated Irrigation System for
+International Research Vol:07, no:
+Reddy, Mankala Agricultural Crop Field Google
+Journal Journal of Engineering and International May-20 05, May 2020,
+Sushma, Gurindagunta Monitoring using GSM Module Scholar
+Technology (IRJET) pp:4333-4337
+Kiran,Vijay Kumar and Wireless Network Sensors
+Gurrala
+69
+M. Sunil, M. Prudhvi, Y. Gain quality detetion using 2231-3990,
+Google
+Stella Kavya, V. Journal image processing and neural Alochana Chakra Journal International Apr-20 Vol. IX, Issue
+Scholar
+Sangameshwar Reddy network no. IV
+70 Volume XII,
+Spectral Efficiency of Non-
+Nikhil Reddy, The International Journal Issue IV, Page
+Orthogonal Multiple Access
+K. Sangeetha, Sreeja of Analytical and No: 1811- Google
+Journal over International April-2020
+Allam, M. Chinmay, C. Experimental Modal 1814, ISSN Scholar
+Orthogonal Frequency Division
+Bhavani, Ravi Verma analysis NO:0886-
+Multiple Access
+9367
+71 International Journal of
+Sravanth kumar, Prem Eye blink Robot control using
+Mobile Devices, Wearable Google 10.4018/IJMD
+Kumar, Rohit Journal Brain Computer Interface for International 2411-7145
+Technology, and Flexible Scholar WTFE.2019070
+tanwar,Bharat Gupta Healthcare applications
+Electronics 103
+72 Volume 12,
 International Journal of
-determination of manganese (II) in soil
-76 K.Madhavi, K.Saraswathi Engineering research and 2013
-samples and plant materials using morpholine
-technology.
-dithiocarbamate,
+Bashakarla Karthik, C Issue 4; pp.
+Network Intrusion Detection Analytical and
+Kaushik, Mahe Jabeen, Journal International Apr-20 1815- UGC
+Using Machine Learning Experimental Modal
+Regalla Prapoorn 1818,0886-
+Analysis
+9367
+73 Volume IX
+Bendalam Alekhya Efficient Implementation of and Issue V
+Google
+Yatagiri Manasa Chidri Journal Human FPGA Video Stream Alochana Chakra Journal International May-20 Page no 949-
+Scholar
+Srihari Kathroj Manasa Detection 953,2231-
+3990
+74
+2nd IEEE International
+Development and Analysis of Conference on Innovative
+Krishna Viswanth K,
+Power Quality by Mechanisms for Industry Google
+Santanu Kumar Dash, Conference International
+using Fuel cell-based Shunt Applications (ICIMIA) - Scholar
+Geshma Kumari R 10.1109/ICIMI
+Active Power Filter 2020, Bangaluru, April.
+978-1-7281- A48430.2020.9
+2020
+23-Apr-20 4167-1 074886
+75
+2nd IEEE International
+Conference on Innovative
+A Detailed Review on
+Santanu Kumar Dash, Mechanisms for Industry April 978-1-7281- Google
+Conference Intelligent Maximum Power International
+Garg Priyanka Applications (ICIMIA) - 27,2020 4167-1 Scholar
+Point Tracking Algorithms 10.1109/ICIMI
+2020, Bangaluru, April.
+A48430.2020.9
+2020
+074861
+76
+Novel Architecture of International Journal of ISSN: 2456-
+S. Shilparani, Dr. V. Google https://www.ije
+Journal Optimized FIR Filter for Fixed Engineering Science and International Jan.-2019 043X, Vol. 6,
+Padmaja and Reconfigurable Application Generic Research Issue 4 Scholar sar.in/index.php
+/ijesar/article/vi
+ew/178
+77
+Design of Low Power and High- Lambert Academic 978-613-9- Google
+Dr P Kishore Book International 2019
+Performance Logic Circuits Publishing 44868-4 Scholar
+--
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+AAnAutonomous, ISO 9001:2015 & QS I-
+NBA Accreditation for CE, EEE, ME, ECE, CSE, EIE, IT B.Tech. Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH in engineering Category
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60,Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Faculty Publications in the Academic Year 2018-2019
+S. No. Name of Journal/ Title of the paper Name of the Journal/ National/ Year of Vol. no., Issue Indexing DOI of paper
+author/s Conference/ Conference Internation Publicatio no., Pg. no.
+Book al n ISBN/ISSN
+Chapter Number
+1
+Hardware efficient block matching
+M. Praveena, 19 Vol. 100, Issue. 2, https://doi.org/
+algorithm based on modified Analog Integrated Circuits and SCIE
+N. Balaji, C. D. Journal International November pp 389 404, 10.1007/s1047
+differential evolution optimization Signal Processing (Q3)
+Naidu 2018 09251030 0-018-1348-5
+for fast motion estimation
+2 Sravanth
+Kumar
+Characterization of Human
+Ramkuri,Dr.
+Behavior state using Machine Vol.17, Issue-6, SCIE
+Mahesh Journal Journal of Web Engineering International 2018-2019
+Learning Approaches for Wireless pp..3715-3735 (Q3)
+Chandra,Dr.
+EEG Monitoring
+Bharath
+Guptha
+3 https://www.re
+searchgate.net/
+publication/33
+R Vijaya
+0192834_Mult
+Saraswathi, L International journal of
+Multistage key management December Scopus i-
+Padma Sree Journal Communication networks and International Vol. 10, No.3,
+scheme for cluster based WS -2018 (Q3) stage_key_ma
+and K. information security
+nagement_sch
+Anuradha
+eme_for_clust
+er_based_WS
+N
+4 An Improved Bi-Level
+S. Nageswara
+Thresholding Based Uncertainty
+Rao, K. Jaya International Journal of Vol. 7, pp. 436- Scopus 10.14419/ijet.
+Journal Evaluation for Speech International 2018-2019
+Sankar, C.D. Engineering & Technology 443, 2227-524X (Q4) v7i2.24.12130
+Enhancement in Non-Stationary
+Naidu
+Noises
+5 M. V. R.
+Convex optimization and greedy
+Manimala , C. vol. 7 (4), pp.
+iterative algorithms for dictionary International Journal of Scopus 10.14419/ijet.
+Dhanunjaya Journal International 2018-2019 4922-4929, 2227-
+learning Engineering & Technology (Q4) v7i4.15768
+Naidu, M. N. 524X
+in the presence of Rician noise
+Giri Prasad
+6
+M. V. R. Dictionary Learning-Based MR
+Soft Computing and Signal https://doi.org/
+Manimala, C. Image
+Book Processing, 978-981-13-3393- Scopus 10.1007/978-
+Dhanunjaya Reconstruction in the Presence International 2018-2019
+Chapter Advances in Intelligent 4_55 (Q4) 981-13-3393-
+Naidu and M. of Speckle Noise: Greedy Versus
+Systems and Computing 4_55
+N. Giri Prasad Convex
+7 V. Priyanka
+Brahmaiah ,Dr. Journal Of Advance Research Vol-10, Issue-
+Performance Analysis of EOG Scopus
+Y. Padma Sai, Journal in Dynamical & Control International 2018-2019 14,2018,
+through Eye Movements (Q4)
+Dr. M .N. Systems ISSN:1943-023X
+Giriprasad
+8 Vijayakumar
+Gurrala,
+Wavelet Domain Extraction of International Journal of ISSN: 2278-3075,
+Padmasai March- Scopus
+Journal Features from single channel Sleep Innovative Technology and International Volume-8 Issue-
+Yarlagadda, 2019 (Q4) D1S00490284
+EEG Exploring Engineering 4S2
+Padmaraju 19/19©BEIES
+Koppireddi P
+9
+L. V. Rajani Performance evaluation of Neural
+e-ISSN: 0975-
+Kumari, Y. Networks and Adaptive Neuro International Journal of Scopus
+Journal International 2018-2019 4024 p-ISSN:
+Padma sai, N. Fuzzy Inference System for Engineering & Technology (Q4) DOI:
+2319-8613
+Balaji Classification of Cardiac 10.14419/ijet.
+Arrhythmia v7i4.22.28707
+10 Ranjan K. A self-adaptive optimisation for 10.1504/IJNB
+International Journal of nano Vol.8 No.3/4, Scopus
+Senapati, G. Journal diabetic retinopathy detection with International 2018-19 M.2019.10493
+and Biomaterials 17528933 (Q4)
+Sucharitha, neural classification 5
+11 G. Jagga Rao, Robust bit error rate optimization International Journal of Volume-8 Issue-
+March- Scopus
+Y. Chalapathi Journal for MASSIVE MIM0 CEM system Innovative Technology and International 4S2, pp.180-184,
+2019 (Q4)
+Rao using channel coding method Exploring Engineering 2278-3075
+12 https://www.re
+searchgate.net/
+K. Sarath Physical Design Implementation of
+Jour of Adv Research in ISSN 1943-023X, Scopus publication/32
+Chandra, K Journal High-Performance CMOS Dynamic International 2018-2019
+Dynamical & Control Systems Vol-10 (Q4) 7646066_Phys
+Hari Kishore Latch Comparator
+ical_Design_I
+mplementation
+_of_High_Perf
+ormance_CM
+OS_Dynamic_
+Latch_Compar
+ator
+13 Nageshwar V, http://sersc.org
+Epilepsy detection in EEG using Vol. 12, No.5,
+Y. Padma Sai International Journal of Scopus /journals/index
+Journal firefly-based feature selection and International 2018-2019 (2019), pp. 314-
+and.K. Subba Control and Automation (Q4) .php/IJCA/arti
+random forest classifier 326
+Rao cle/view/1989
+14 Nageshwar V, Epileptic seizure detection using http://sersc.org
+Vol. 12, No. 5,
+Y.Padma Sai orthogonal local preserving International Journal of Scopus /journals/index
+Journal International 2018-2019 (2019), pp. 299-
+and .K.Subba projection and Control and Automation (Q4) .php/IJCA/arti
+313
+Rao k- cle/view/1988
+15
+Unprecedented changes in
+K. Kalyan
+microwave signals of rain and Journal Of Advance Research
+Srinivas, T. ISSN 1943-023X, Scopus
+Journal cloud attenuation data at MCF- in Dynamical & Control International June-19 https://www.ja
+Venkata Vol-11 (Q4)
+Hassan before the onset of Hudhad Systems rdcs.org/abstra
+Ramana
+cyclone at Visakhapatnam ct.php?id=142
+2#
+16
+Bepari, D., 2018 9th International
+Pradeep Impact of Primary Users Duty Conference on Computing,
+10-12 July 978-1-5386-4430-
+Kumar, Dr. Conference Cycle on Optimum Secondary Communication and International WoS
+2018 0 10.1109/ICCC
+Santosh Kumar Users in Cognitive Radio Systems Networking Technologies
+NT.2018.8493
+Choudhary (ICCCNT)
+839
+17
+Shankaranand
+Impact of Device Parameters on the
+Jha,
+Threshold Voltage of Double-Gate 2018 IEEE Electron Device 25 Nov 978-1-5386-6415-
+Dr. Santosh Conference International WoS
+Tri-Gate and Gate-All- Around Kolkata Conference 2018 5 10.1109/EDK
+Kumar
+MOSFETs CON.2018.87
+Choudhary
+70425
+18 B B
+Shabarinath;
+Kaushik A Comparative Study of Epileptic 2019 International Conference
+15-17 May ISBN:978-1-
+Challagulla; Conference Seizure Detection Framework using on Intelligent Computing and International WoS
+2019 5386-8113-8
+Majety SVM and ELM Control Systems (ICCS) 10.1109/ICCS
+Ramsankar 45141.2019.90
+Visodhan 65458
+19
+A Deep Learning Approach for The 2018 International
+L Padma Sree,
+Book Segmenting Time-Lapse Phase Conference on Computational 978-3-030-41862- https://doi.org/
+K. Aruna International 2018-2019 Scopus
+Chapter Contrast Images of NIH 3T3 Vision and Bio Inspired 5 10.1007/978-
+Kumari
+Fibroblast Cells Computing 3-030-41862-
+5_86
+20 2019 Second International
+Ranjan K. Local Extreme Co-occurrence Edge Conference on Advanced
+25-28 Feb. 978-1-5386-7989-
+Senapati, G. Conference Binary Pattern Computational and International Scopus 10.1109/ICAC
+2019 0
+Sucharitha, for Bio-medical Image Retrieval Communication Paradigms CP.2019.8882
+(ICACCP) 988
+21 Santhosh N
+Spherical Directional Feature
+Randive, International Conference on
+Extraction with Artificial Neural 27-May- 978-1-5386-8492-
+Ranjan K Conference Industrial and Information International Scopus 10.1109/ICIIN
+Networks for Diabetic Retinopathy 2019 4
+Senapati, system FS.2018.8721
+Classification
+Nilesh Bhosle 392
+22 Dr. Y.
+Riverbed modeler simulation-based
+Chalapathi Rao
+performance analysis of routing International Journal of Recent March- Volume-7, Issue-
+Dr. P. Kishore Journal International Scopus https://doi.org/
+protocols in mobile Ad hoc Technology and Engineering 2019 6S , 2277-3878
+Dr. S. Rajendra 10.35940/ijrte.
+networks
+Prasad 2277-3878
+23 Dr. P. Kishore
+Low power and high-speed
+Dr. S. Rajendra International Journal of Volume-8, Issue-
+synchronous carry generate adder
+Prasad Journal Engineering and Advanced International January-19 2S2, pp.192-196, Scopus https://doi.org/
+using modified gate diffusion input
+Dr. Y. Technology 2249-8958 10.35940/ijeat.
+technique
+Chalapathi Rao 2249-8958
+24
+Dr. S. Rajendra
+Prasad
+Performance comparison for ripple International Journal of
+Dr. P. Kishore March- Volume-8 Issue-
+Journal carry adder using various logic Innovative Technology and International Sco pus
+Dr. Y. 2019 4S2, 2278-3075
+design Exploring Engineering https://doi.org/
+Chalapathi Rao
+10.35940/ijite
+e
+25 https://www.re
+Vasagiri searchgate.net/
+Krishnasre, publication/32
+Ghanta Sahitya Image Based Street Light Block Asian Research Publishing ISSN 1819-6608, 6982223_Ima
+Journal International 2018-2019 Scopus
+and Out Monitoring Network Vol-13, No-14 ge_based_stre
+Challagulla et_light_block
+Kaushik _out_monitori
+ng
+26 G. Radha
+International workshop on 10.21437/SLTU.2
+Krishna, R. Prosodic Analysis of Non-Native doi:
+Conference spoken language technologies International August-18 018-15, pp: 71-- Scopus
+krishnan, V K South Indian English speech 10.21437/SLT
+for under-resourced languages 75
+Mittal U.2018-15
+27 CdS/ZnSe-Based multicolor https://doi.org/
+Dr. Santosh
+Book quantum well infrared Advances In Computer 978-981-13-3121- 10.1007/978-
+Kumar International 2018-2019 Scopus
+Chapter photodetector for infrared Communication and Control 3 981-13-3122-
+Choudhary
+application 0_50
+28 Online ISSN:
+K. Sarath Electrical Characteristics of Double International Journal of 2278-3075 &
+Chandra, K Journal Gate FINFET Under Different Innovative Technology and International April-2019 Print ISSN: 0975- Scopus
+Hari Kishore Modes of Operation Exploring Engineering 4350, Vol-8, F60470486S1
+Issue-6S 9\19©BEIESP
+29 K. Shravya, Y.
+International Conference on
+Mandapati, D. February.
+Sustainable Energy and Future
+Keerthi, K. Conference Smart Helmet for Safe Driving International 14 -16, 22671242 Scopus 10.1051/e3sco
+Electric Transportation
+Karika, R. K. 2019. nf/201987010
+(SAFET-2019)
+Senapati 23
+30 V. Sagar
+Reddy, Gujjula Greenhouse Environment International Journal of ISSN: 2278-3075,
+Ramya,V. Journal Monitoring and Automation using Innovative Technology and International May-2019 Volume-8 Issue- Scopus G10940587S2
+Moneesh Intel Galileo gen and IoT Exploring Engineering 7S2. 19/19©BEIES
+Reddy P
+31 M. Devi 2018 International Conference
+Priya1, Ch. Implementation of IoT Based on Recent Innovations in
+27-28 July 978-1-5386-5995- Google
+Nagadeepa, Dr. Conference Ambient Assisted Living Using Electrical, Electronics & International
+2018 3 Scholar
+N. Balaji, Raspberry Pi Communication Engineering
+Dr.V. Padmaja (ICRIEECE) --
+32 Sravanth
+Kumar
+Performance and Analysis of
+Ramakuri,
+Human
+Anudeep First International Conference
+Book Attention Using Single-Channel 10.1007/978-981- Google
+Peddi, K. S. on Artificial Intelligence and International 05-Nov-18
+Chapter Wireless 13-1580-0_34 Scholar
+Nishanth Rao, Cognitive Computing https://doi.org/
+EEG Sensor for Medical
+Bharat Gupta 10.1007/978-
+Application
+& Sanchita 981-13-1580-
+Ghosh 0_34
+33 http://nebula.
+wsimg.com/2d
+2c100e75360c
+G. Surekha, 97cc97b1ef43
+PVT Variations and Process
+Dr. N. Balaji, Vol-7, Issue-2, Google 4afad8?Access
+Journal Corners for a Low Leakage Power IJRACE International 2018-2019
+Dr. Y. Padma ISSN:2348-2281 Scholar KeyId=DFB1
+7T SRAM Cell
+Sai BA3CED7E79
+97D5B1&disp
+osition=0&all
+oworigin=1
+34 B.
+Venkataraman Parameterized Rough-Fuzzy
 International Journal of
-Engineering Research &
-Impact of Air Pollution on Crops in the K.Padmaja1, Jyotsna Cherukuri2*, M.Anji
-77 Technology (IJERT), Vol. 2 2013
-Vicinity of a Power Plant: A Case Study Reddy3
-Issue 12, December –
-2013,pp-3641-3651
-Chemical Science Review
-A Mini Review on Minimization of Hazardous
-78 Letters,2013,1(4), pp-224- 2013
-Compounds in the Pharmaceutical waste
-227
-Spectrophotometric determination of cobalt in Journal of applicable
-79 K.Madhavi, K.Saraswathi 2012
-water and agricultural samples. Chemistry
-Palladium mediated cyclization of 8-allyl-7- Journal of the Indian
-80 hydroxy-2-styrylchromones towards the C. Srinivas Rao, C. Jyotsna, Shakil S. Sait Chemical Society, 2012, 2012
-synthesis of 7, 8-furano-2-styrylchromones Vol 89, pp-1283-1287.
-The International Journal of
-Environmental, Cultural,
-The Study of an Eco-Friendly Electrochemical
-81 Padmavathi.P*, Jyotsna Cherukuri Economic and Social 2009
-Technique for wastewater Treatment.
-Sustainability, 2009,
-Volume 5, Issue2, pp.7-16
-Design and Development of low cost, simple International Journal of
-rapid and safe, modified field kits for the Environmental Research
-82 Jyotsna Cherukuri andY. Anjaneyulu * 2005
-visual detection and determination of arsenic and Public Health, (2005),
-in drinking water samples. 2(2), pp. 322-327.
+a, L. Padma Classification Using Two Google
+Journal Computational Intelligence International 2018-2019 pp. 278-282
+sree, M. Thresholds-Algorithms and Scholar https://ssrn.co
+& IOT
+Srinivasa Rao, Implementations using C m/abstract=33
+G. Ganesan 54735
+35 International Journal of
+G. Jagga Rao, Robust Analysis of Minimizing Scientific Research in Volume 3 Issue 5,
+Google
+Dr. Y. Journal PAPR Reduction by Using Low Computer Science, International June-2018 pp. 1104-1109, DOI :
+Scholar
+Chalapathi Rao Density Symbol Check Engineering and Information 2456-3307 10.32628/CSE
+Technology IT11835264
+36
+Dr. Y. An Efficient Test Data
+International Journal of November- Volume 7, Issue Google
+Chalapathi Rao Journal Compression Scheme Using International
+Research 2018 XI, 2236-6124 Scholar
+Dr. P. Kishore Optimal Selective Huffman Coding
+--
+37
+Artificial Intelligence & Machine
+G. Jagga Rao, Volume 8-Issue 4,
+Learning Based Wireless MIMO- International Journal of Google
+Dr. Y. Journal International May-19 pp. 3740-3755,
+OFDM Communication system in Research Scholar
+Chalapathi Rao 2236-6124
+JAG6G Analysis
+--
+38 G. Radha Workshop on Machine
+Krishna, R. Native Language Identification Learning in Speech and September Google https://sites.go
+Conference International --
+krishnan, V K from South Indian English speech Language Processing -18 Scholar ogle.com/view
+Mittal (MLSLP) Google, Hyderabad /mlslp/home
+39
+International Journal of
+http://ijamtes.
+M. Malavika1, Implementation of Symbol Management, Technology and ISSN:2249-7455, Google
+Journal International 2018-2019 org/gallery/68.
+Dr.P. Kishore Synchronizer using Zynq Soc Engineering Vol-8, Issue-X Scholar
+%20oct%20ij
+mte%20-
+%201082.pdf
+40 FPGA Implementation of VLSI Volume 7, Issue http://ijrpublis
+Architecture for International Journal of XII, her.com/galler
+Mr. P. Kishore Journal Random Early Detection Gateways Research International 2018-2019 December/2018, UGC y/306-
+for 2236-6124 december-
+Congestion Avoidance
+2018.pdf
+41
+http://www.j-
+Design of Low Power and High- Volume V, Issue
+asc.com/galler
+performance NAND Based Flip- Journal of Applied Science XII,
+Mr. P. Kishore Journal International 2018-2019 UGC y/281-
+Flops Using Mod- and Computations December/2018,
+december-
+GDI Technique 1076-5131
+2018.pdf
+42 International Conference on
+Dr. S. Rajendra
+Advances in Signal
+Prasad Performance Comparison for ISSN: 2278-3075,
+Processing, Power, Embedded, 11-12, Jan Google
+Dr. P. Kishore Conference Ripple Carry Adder Using Various International Volume-8 Issue-
+Soft Computing, 2018 Scholar D1S00810284
+Dr. Y. Logic Design 4S2
+Communication and Control 19/19©BEIES
+Chalapathi Rao
+Systems P
+43
+ISSN 2393-
+Ch Prithviraj,
+Smart Adaptive Vehicle Lighting International Journal of 8374,19 Google
+K. Archana Journal International 2018-2019 http://troindia.
+System Applied Engineering Research VOLUME-4, Scholar
+Bhange in/journal/ijces
+ISSUE-8.
+r/vol4iss8part5
+/14-20.pdf
+44
+K.L.V Ramana Online ISSN:
+https://comput
+Kumari, M. FPGA Implementation of NPSF 0975-4172 &
+Global Journal of Computer Google erresearch.org/
+Asha Rani, N. Journal Testing using Block Code International 2018-2019 Print ISSN: 0975-
+Science and Technology Scholar index.php/com
+Balaji & SK. Technique 4350, Vol-18,
+puter/article/vi
+Salauddeen Issue-3
+ew/1709
+45 https://www.re
+searchgate.net/
+publication/33
+2092577_CM
+OS_REALIZ
+ATION_OF_
+Peddapalli CMOS Realization of An AN_AMPLIFI
+International Journal of e ISSN 2348
+Rakesh & K. Amplifier-Free Pipeline-Sar Adc ER-
+Journal Research and Analytical International 2018-2019 1269, Print ISSN UGC
+Sarath chandra Architecture for Low Power FREE_PIPELI
+Reviews 2349-5138, Vol-5
+& K. Swetha Applications NE-
+SAR_ADC_A
+RCHITECTU
+RE_FOR_LO
+W_POWER_
+APPLICATIO
+NS
+46 M. Rama Devi, Voice Acknowledgement based
+International Journal of March-
+G. Ramya, G. Journal Remote Home Computerisation International 2236-6124 UGC
+Research 2019
+Shanthi Framework --
+47
+Vol.5, Issue 8,
+Journal of Emerging
+page no. pp218- http://www.jet
+K. Deepthi Journal Trash Barrel Management System Technologies and Innovative International 2018-2019 UGC
+220, ISSN:2349- ir.org/papers/J
+Research
+5162 ETIR1808672.
+pdf
+48 Kumar R
+Sravanth,
+Anudeep
+Comparison of Attention and
+Peddi, G Sudha 2018 Global Wireless Summit 11-April- 978-1-5386-4288- Google
+Conference Meditation Based Mobile International
+Sagar, Bharat (GWS) 19 7 Scholar
+Applications by Using EEG Signals
+Gupta,
+Chinmay 10.1109/GWS.
+Chakraborty 2018.8686634
+49 Sravanth
+Kumar
+Ramkuri, Dr. Advanced classification
+Book Classification algorithm for EEG Google
+Mahesh techniques for health care International 2018-2019 9781522577973 DOI:
+Chapter based brain computer interface Scholar
+Chandra, Dr. analysis 10.4018/978-
+Bharath 1-5225-7796-
+Guptha 6.ch003
+50 Sravanth
+Kumar
+Performance and Analysis of
+Ramakuri,
+Human
+Anudeep First International Conference 05-
+Attention Using Single-Channel 978-981-13-1580- Google
+Peddi, K. S. Conference on Artificial Intelligence and International November-
+Wireless 0_34 Scholar
+Nishanth Rao, Cognitive Computing 18 https://doi.org/
+Electroencephalogram Sensor for
+Bharat Gupta 10.1007/978-
+Medical Application
+& Sanchita 981-13-1580-
+Ghosh 0_34
+51 V. Sagar
+2nd International Conference
+Reddy, Dr. Surface and Optical 4-6,
+on Nano Science & Google
+Santosh Kumar Conference Characterization of TiO2 Thin International October --
+Engineering Applications - Scholar
+Choudhary, Dr. Films Deposited by RF Sputtering 2018
+2018, JNTUH, India
+Pushpa Giri --

@@ -1,0 +1,244 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/Mathematics-Dept/faculty/Dr-V-Ganesh-Kumar-Maths.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+Name: Ganesh Kumar Vadla
+Designation: Assistant Professor
+Department: Mathematics & Management Science
+Mail I’d: ganeshkumar_v@vnrvjiet.in
+Experience (in years): 14 Teaching: 14 Research: 07
+Others(if any, specify):
+1. Educational / Technical qualifications:
+S.No Level (UG / PG / Ph.D) Year of Specialization
+passing
+1 Ph. D 2023 Numerical Methods
+2 M. Tech. 2010 Industrial Mathematics and
+Scientific Computing
+3 M.Sc. 2007 Applied Mathematics
+4 B.Sc. 2005 MPC
+2. Teaching and Learning:
+2.1. Teaching Interests: Analytical and Applied mathematics
+2.2. Novel Teaching & Learning Techniques adopted: Learning by doing, Think Pair Share, Flipped
+Classroom, Chalk & Talk, PowerPoint Presentation.
+2.3. Involvement in curriculum updating / Design: Discussed and Framed the R22, R19 syllabus.
+3. Co-curricular and Extra-Curricular Activities
+3.1. Interests and Hobbies: Listening to music while reading a book
+3.2. CCA/ECA Organized: Organized Academic Quiz Programs, Student Presentations on Mathematics
+3.3. CCA/ECA participated: Faculty Cricket Tournament
+3.4. Counseling and Mentoring Activity: Yes
+3.5. Committees involved in:
+Department level: FDPs File In-charge, Website coordinator, NAAC member
+Institute Level: Induction Program Committee member, NAAC member
+4. Conference / Workshop / Seminar / Guest Lectures :
+4.1 Conducted:
+i) Organized an Internation Conference ICAMADA-2024
+ii) Organized National Mathematics Day at VNRVJIET in December 2023,2018.
+iii) Organized One-week Online FDP on EMML in 2020.
+4.2 Attended:
+i. Attended a 10-Day FDP on Essential Mathematics for Machine Learning organized by
+Department of Mathematics and Management Sciences, VNRVJIET during 22-31 July
+2024.
+ii. Attended an International Conference ICAMADA-2024 organized by Department of
+Mathematics, VNRVJIET during 24-27 April 2024.
+iii. Attended 7-day STTP on MATLAB organised by Department of Mathematics, CSSR &
+SRRM Degree & PG College, Kamala Puram, YSR, A.P. during 8-14 April 2024
+iv. Attended One-week International FDP on Numerical Computations and dynamical
+systems Department of Mathematics, Anurag University, Hyderabad during 22-26 July
+2024
+v. Attended 5-day FDP during 20-24 May 2024.
+vi. Successfully completed 8-week FDP on Foundation Program in ICT for Education
+conducted by IIT Bombay.
+vii. Participated in the National Level Five Day faculty development program on “Scilab”" in
+Association With IIT-Bombay (Remote Learning Through Spoken Tutorial)
+viii. Attended Python workshop organized by Teaching Learning Centre (ICT) at IIT
+Bombay.
+ix. Participated a one day workshop on R organized by Teaching Learning Centre(ICT) at
+IIT Bombay.
+x. Actively participated in webinar on Modelling and Simulation of Fluid Flows Using
+Partial Differential Equations
+xi. Participated in the webinar on “Single and Two Species Population Models”
+xii. Participated in the National webinar on “Research (Why?,What?,How?)”.
+xiii. Participated in the National Level Webinar on “Modelling and Simulation of Fluid Flows
+Using Partial Differential Equations”.
+xiv. Participated in national webinar on Innovative approach to differential equations.
+xv.
+5. Academic Contribution and Research & Consultancy:
+5.1. Invited Lectures:
+i. Acted as a resource person in the series of webinar on Mathematics for Machine Learning.
+ii. Acted as a resource person in One-week FDP on EMML.
+5.2. Articles/Chapters published in Books:
+5.3. Books published as single author or as editor:
+i. Engineering Mathematics (Volume-1), ISBN: 978-613-9-85779-1, Lambert Academic Publishing, Sept.
+2018.
+5.4. Projects Guided :
+a) UG : Guided Course Based Projects
+b) PG : NA
+5.5. Research Interests : Advanced Numerical Techniques, Data Analysis, Prediction Analysis
+5.6. Ph.D students : NA
+a) Enrolled :
+b) Submitted:
+c) Awarded:
+5.7. Papers published in reviewed journals : 9
+National/
+Journal Name ISBN/ISSN Impact Factor/
+S.No Title of the Paper International
+Vol.No. PP No. Citation Index
+African
+Journal of
+Unsteady radiative flow of a
+Biological
+viscous incompressible fluid
+Sciences
+1 past an accelerated heat transfer 2663-2187 0.146 International
+(South
+isothermal infinite vertical plate
+Africa), vol:
+with chemical reaction
+6(4), pp:
+4332-4344
+Advances in
+A Computational approach of
+non-linear
+singularly perturbed singular 1092-
+2 variational 0.141 International
+boundary value problem using 910X
+inequalities,
+an adaptive spline
+vol: 28(2)
+Case Studies
+The pdepe solver for analysing in Chemical
+the flow of MHD Cu–H2O and E-ISSN:
+3 1.413 International
+nanofluid across an oscillating Environmental 2666-0164
+vertical plate Engineering,
+vol: 10(2024)
+African
+Journal of
+Exponential spline method for Biological
+numerical solution of singularly Sciences
+4 2663-2187 0.146 International
+perturbed two-point singular (South
+boundary value problem Africa), vol:
+6(4), pp:
+5157-5171
+International
+journal of
+An extended finite difference
+applied
+method for singular
+5 mechanics and 2022-0013 International
+perturbation problems on a non-
+engineering,
+uniform mesh
+vol: 27(1), pp:
+203-214
+Computational technique for
+6 J. Math. 1927- 0.49 International
+two parameter singularly
+Comput. Sci. 5307
+perturbed parabolic convection- 10 (2020),
+diffusion problem No. 4, 1251-
+1261
+A variable mesh Finite Journal of 0974-0570 0.13 International
+Difference Scheme for two- Mathematical
+parameters singularly perturbed Control
+boundary value problems Science and
+Applications
+7
+(JMCSA)
+Vol. 6 No. 1
+(January-June,
+2020)
+Numerical
+Heat Transfer
+Optimization of Temperature of and Fluid
+a 3D Duct with the Position of Flow, Lecture 978-981-
+8 0.46 International
+Heat Sources Under Mixed Notes in 13-1903-7
+Convection Mechanical
+Engineering,
+Pages 275-284
+International
+Unsteady Heat and Mass Journal of
+Transfer Flow of Cu-Water Pure and
+9 Nano-Fluid over an Inclined Applied 1314-3395 7.19 International
+Plate with Free Convection and Mathematics,
+Chemical Reactions Vol: 118 No.
+10, 33-46
+5.8. Papers presented at National / International Conferences : 07
+Names of the National/
+Conference/ International
+S.No Title of the Paper Period
+Seminars
+International 25-27
+IPL Players Weakness Analysis using Factor
+1 ICAMADA-2024 April
+and Clusters
+2024
+A variable mesh computational trigonometric ICAMADA-2024 International 25-27
+2 function method for singularly perturbed April
+parabolic convection-diffusion problem 2024
+An exponential spline scheme for singularly International International 28-30
+perturbed time dependent differential conference on October,
+3
+difference equation Computational 2023
+Modelling in Science
+and Engineering &
+32nd Congress of
+APTSMS
+Two parameter fitting method for singularly DST-SERB proposed International 23-25
+perturbed parabolic convection-diffusion International June,
+problems Conference on 2023
+4 Mathematical
+Modelling and
+Emerging Trends in
+Computing-2023
+International Web International 23-24
+An Adaptive Spline method for Singularly Conference on July
+Perturbed Parabolic Differential-Difference Mathematics for 2020
+5
+Equation Materials Science,
+Signals, Images and
+Structured Data
+Optimization of Temperature of a 3D Duct International International 19-21
+with the Position of Heat sources under conference on January,
+6 Mixed convection Numerical Heat 2018
+Transfer and fluid
+flow
+Multi parameter fitting method for singularly Telangana State International Dec,
+7 perturbed parabolic convection-diffusion Science Congress 2018
+problems
+Numerical Solution of Boundary Layer CFFHT-2018 International 2018
+8 Problem Using Second Order Variable Mesh
+Method
+An efficient hybrid numerical method for National conference National 2017
+two parameter boundary layer problem on Recent advances
+9 of mathematical
+techniques in science
+and engineering-2017
+Optimal Arrangement of Heat Sources in a 20th International International 2017
+3D Horizontal Duct Under the Mixed Conference of
+Convection International
+Academy of Physical
+10
+Sciences on Recent
+advances in physical
+sciences and future
+challenges 2017
+5.9. Sponsored research Projects: Nil
+S.No Title Agency Period Grant amount Ongoing /
+Completed
+5.10 Consultancy Projects: Nil
+S.No Title Agency Period Sanctioned Ongoing /
+Amount Completed
+6. Awards / Honors received:
+6.1 Qualified CSIR-UGC NET 2017
+6.2 Qualified and Secured All India 37th Rank in GATE-2008
+6.3 Qualified APSET-2012.
+6.4 Qualified FET-2011
+6.5 Successfully completed self-paced training course on MATLAB onramp.
+6.6 Successfully completed “Linear regression in Business statistic” an online non-credit course
+authorized by Rice University and offered through Coursera.
+4. Motto: “Happiness is the highest level of success”

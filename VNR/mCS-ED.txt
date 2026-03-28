@@ -1,0 +1,239 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/R19/mCS-ED.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY HYDERABAD
+B.TECH. MINOR IN INNOVATION AND ENTREPRENEURSHIP
+TENTATIVE COURSE STRUCTURE AND SYLLABUS
+(Applicable from the academic year 2022-2023)
+V SEMESTER (III YEAR I SEMESTER) R19
+Contact
+Course Code Title of the Course L T P/D Hours/ Credits
+Week
+Customer-centric Innovation through
+19MC1IE01 3 0 0 3 3
+Design Thinking
+19MC2IE01 Design Thinking and Ideation Laboratory 0 0 3 3 1.5
+Total 3 0 3 6 4.5
+VI SEMESTER (III YEAR II SEMESTER) R19
+Contact
+Course Code Title of the Course L T P/D Hours/ Credits
+Week
+19MC1IE02 Foundations of Entrepreneurship 3 1 0 4 4
+Total 3 1 0 4 4
+VII SEMESTER (IV YEAR I SEMESTER) R19
+Contact
+Course Code Title of the Course L T P/D Hours/ Credits
+Week
+19MC1IE03 Business Ideation and Modelling 3 0 0 3 3
+19MC2IE02 B – Plan Development Laboratory 0 0 3 3 1.5
+Total 3 0 3 6 4.5
+VIII SEMESTER (IV YEAR II SEMESTER) R19
+Contact
+Course Code Title of the Course L T P/D Hours/ Credits
+Week
+19ME1IE01 New Product Development
+19ME1IE02 Market Research
+19ME1IE03 Business Intelligence & Business Analytics
+19ME1IE04 Small Business Development
+19ME1IE05 Financial and Legal Aspects of Business
+19ME1IE06 Start-up Management 3 0 0 3 3
+19ME1IE07 Strategy Management
+19ME1IE08 Entrepreneurial Marketing
+19ME1IE09 Technology Entrepreneurship
+19ME1IE10 Social Entrepreneurship
+19ME1IE11 Entrepreneurship in India
+Mini Project leading to Minimum Viable
+19MP1IE01 Production Development, New Venture 0 0 4 4 2
+Development, or Patent Application
+Total 3 0 4 7 5
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (I&E) V Semester L T/P/D C
+3 0 3
+(19MC1IE01) CUSTOMER-CENTRIC INNOVATION THROUGH DEISGN THINKING
+COURSE OBJECTIVES:
+• To understand different design thinking methodologies and apply them to solve
+problems in scalable manner
+• To learn empathetic ways to approach the users’ needs and solutions
+• To conduct innovation as a systematic activity with the goal of problem-solving
+• To practise using suitable tools, templates, and frameworks to visually represent
+and analyse customer pain points and market opportunities
+COURSE OUTCOMES: After completion of course, the students should be able to
+CO-1: Apply Design Thinking methodology to solve problems through innovation
+CO-2: Develop problem identification skills so as to respond to user needs with
+appropriate and creative solutions
+CO-3: Employ user empathisation tools such as surveys and empathy maps as well as
+interpret authentic infographics and data pertaining to users
+CO-4: Analyse the insights as well as solutions through suitable tools, templates, and
+frameworks
+UNIT – I:
+Design Thinking for Innovation: Customer-centric Approach—Motivation and Merits;
+Desirability, Feasibility, Viability, Scalability; Design Thinking for Innovation Use cases:
+Relevant Challenges, Applications to Business Models, Sales, Marketing, and Strategy
+Management
+UNIT – II:
+Design Processes and Tools Overview: Review of Double Diamond Process (British
+Design Council and its popular variants), 5-step Model (Stanford d.school), Jeanne
+Liedtka’s Framework, IDEO Model
+Understanding the Jargon: Users, Stakeholders, User Empathisation, Needs and the
+Types, Value Proposition, Ideation, Prototyping; Creativity and Innovation, Critical
+Thinking, Brainstorming, Reverse Engineering, Six Thinking Hats, Mind-mapping
+UNIT – III:
+Understanding Users, Problems, Needs, and Customers:
+Users, Customers, and Stakeholders: Empathisation, Value Proposition, Stakeholder
+Mapping, User Identification, User Personas
+Problems and Needs: Problem Space, Problem Framing, Problem Validation, Problem
+Definition, Types of Needs
+Systems Thinking approach for problem analysis
+UNIT – IV:
+Research and Insights:
+Research: Assumptions, Empathy Mapping, A-E-I-O-U Empathy Tool, Surveys,
+Interviews, Overcoming Biases
+Insights: Identifying Lead Users, Classifying Needs, Structuring Needs Statements,
+Unique Value Proposition, Value Chain Analysis, How-Might-We Statements, Kano
+Model, Action Priority Matrix, Value-Ease Matrix
+UNIT – V:
+Ideation and Prototyping: Competitive Landscape, Solution Space, Customer Journey
+Map, Service Experience Cycle, Concept Mapping, Concept Development,
+Brainstorming, Systematic Inventive Thinking
+UNIT – VI:
+Solution Analysis: Storytelling, Context Mapping, 3-Box Thinking, Innovation Funnel,
+Voting Methods, Analogies and Benchmarking, Four-Action Framework, Usability
+Testing, A/B Testing, Solution Feedback Capturing Tools
+TEXTBOOKS:
+1. Design Thinking, An AVA Book, AVA Publishing, 2010
+2. History of Modern Design, David Ralzman, 2nd Edition, Laurence King Publishing Ltd.,
+2010
+3. The Design Thinking Toolbox: A Guide to Mastering the Most Popular and Valuable
+Innovation Methods, Michael Lewrick, Patrick Link, Larry Leifer, Wiley Publishing
+REFERENCES:
+1. Design Thinking for Dummies, Wiley
+2. Ten Faces in Innovation, Tom Kelley, Jonathan Littman, Currency Books, 2006
+3. Engineering Design: A Systematic Approach, G. Pahl, W. Beitz, J. Feldhusen, KH
+Grote, 3rd Edition, Springer, 2007
+4. The Field Guide to Human Centered Design, Design Kit
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (I&E) V Semester L T/P/D C
+0 3 1.5
+(19MC2IE02) DESIGN THININKING AND IDEATION LABORATORY
+COURSE OBJECTIVES:
+• To apply design thinking methods to understand and solve real-world problems
+• To identify and classify users and stakeholders to empathise with and define the
+problem space
+• To apply various tools, templates, and frameworks to frame problems, structure
+needs, apply empathy, and develop solutions
+• To apply tools, templates, and frameworks to generate, prototype, and analyse
+solutions
+COURSE OUTCOMES: After completion of course, the students should be able to
+CO-1: Use design thinking for practical problem-solving
+CO-2: Demonstrate skills to develop and exercise empathy using appropriate tools
+CO-3: Use systematic approaches and tools for generation of ideas and prototyping
+CO-4: Use systematic approaches and tools for testing and analysis of solutions
+LIST OF ASSIGNMENTS:
+1. [Define]: frame a problem statement that helps designers to address the issue and
+work towards a feasible solution using tools such as four w’s, five whys etc. A
+sample problem for which you can try the exercise is as follows
+i. Young patients who come for MRI in hospital have to undergo sedation
+because they are scared of the machine
+ii. People with visual impairment have difficulty in participating in email
+conversations.
+iii. People with certain inherent fears, phobias, or addictions
+2. [Empathize]: Create a suitable mind-map, concept-map, or empathy map using
+tools/techniques such as A-E-I-O-U framework, user interview, immersive/
+experiential learning for the following case study:
+i. Parents in India find it difficult to get nutritional, healthy, organic baby food
+because the market for organic baby food is not well-established
+ii. Problems specific to rural or non-urban environments
+iii. People with visual impairments have to dictate the entire content of the
+mail to a third person
+iv. Any routine activity of students on a typical working day, right from starting
+out to the educational institution to reaching their place of residence after
+completion of the day’s activities
+3. [Ideation]: Using tools such as Brainstorming, SIT Methods, SCAMPER model,
+Storyboarding, Mind Map generate ideas for improving the sales of a struggling
+product in the market by identifying rights users, creating personas, and structuring
+needs statements
+4. [Prototyping and Testing]: Using mock-ups, storyboarding, or other visualisation
+method to design a prototype for the following:
+i. Voice based/ gestured based emails for visually challenged
+ii. Innovative face mask suitable for usage in times of pandemic
+iii. Digitalisation of a real-life experience
+5. [Solution Analysis]: Using right frameworks and tools, evaluate an existing solution
+for a problem and devise improvisations assessing analogies and future needs
+6. [Presentation]: Team of 4–5 students choose a problem that can be mapped to at
+least one of the 17 Sustainable Development Goals (SDG) identified by United
+Nations General Assembly (UN-GA) and come up with an innovative idea
+proposing solution to the problem identified. Present your innovative idea
+highlighting the implementation of design thinking principles in arriving at the idea.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (I&E) VI Semester L T/P/D C
+3 1 4
+(19MC1IE02) FOUNDATIONS OF ENTREPRENEURSHIP
+COURSE OBJECTIVES:
+• To gauge the entrepreneurial landscape in Indian and global contexts
+• To understand the underlying need and preparing oneself for entrepreneurship
+• To learn entrepreneurial processes and challenges
+• To manage entrepreneurial ventures through available opportunities
+COURSE OUTCOMES: After completion of course, the students should be able to
+CO-1: Tune their mindset to be entrepreneurial
+CO-2: Identify ventures for launching
+CO-3: Develop an idea on the legal framework
+CO-4: Understand strategic perspectives in entrepreneurship & its management
+UNIT – I:
+Understanding Entrepreneurial Environment and Context
+Entrepreneurial Environment: Definition; Types, Functions, and Roles of
+Entrepreneurship: Evolution and Modern-day context; VUCA World, Global, and Local
+Contexts for Entrepreneurship; Pros and cons, Myths and Realities of Entrepreneurship;
+Need for Entrepreneurship: Indian and Global Economic Context with examples, Role
+of Society and Family, Barriers to Entrepreneurship; Theories of Entrepreneurship:
+Economic, Resource-based, Psychological, Sociological, Opportunity-based, Trait-
+based Theories
+UNIT – II:
+Becoming an Entrepreneur: Skills, Competencies, and Abilities; Ethical, Egoistic, and
+Leadership Traits; Self-motivation for Ideation, Inspiration, and Implementation;
+Societal Understanding, Empathy, and Appreciation for Problem-solving; Risk-taking
+and Decision-making attitudes; Thinking like an Entrepreneur: Employee vs.
+Entrepreneur, Intrapreneurial personality
+UNIT – III:
+Launching Entrepreneurial Ventures: Initiatives by the Government of India to promote
+entrepreneurship; Focus on Technology Entrepreneurship, Social Entrepreneurship,
+and Women Entrepreneurship; Methods to initiate Entrepreneurial Ventures: Founding
+and co-founding ventures, Acquiring established entrepreneurial ventures,
+Franchising
+UNIT – IV:
+Challenges of Entrepreneurship:
+Competitive Landscape: Feasibility Analysis, Industry and Competitor Analysis,
+Competitive Advantage
+Intellectual Property Protection and Rights: Patents, Industrial Design Patents,
+Copyrights, Trademarks and Trade secrets
+First Steps: Challenges of new venture start-ups; Overview of business plan and
+business models; Financing a venture; Critical factors and evaluation processes for
+new venture development
+UNIT – V:
+Entrepreneurial Management:
+Entrepreneurial Management Approaches: Stevenson’s Dimensions, Lean Startup
+Management, Effectuation Theory; Risk Management, Aspects of Financial
+Management
+UNIT – VI:
+Strategic Perspectives in Entrepreneurship:
+Business Ideation: Creativity and Business Ideas, Techniques for generating ideas,
+Entrepreneurial Imagination and Creativity, Opportunity identification, Finding gaps in
+the markets
+Strategy: Strategic Planning, Strategic Actions, Strategic Positioning, Business
+Stabilisation, Building adaptive firms
+TEXTBOOKS:
+1. Entrepreneurship: A South-Asian Perspective, D. F. Kuratko and T. V. Rao, Cengage
+Learning, 2012
+2. Entrepreneurship, Robert D. Hisrich, Michael P. Peters, Dean A. Shepherd, McGraw
+Hill, 2020
+3. Entrepreneurship: Successfully Launching New Ventures, Bruce R. Barringer, R.
+Duane Ireland, 4th Edition, Pearson, 2015
+REFERENCES:
+1. Effectual Entrepreneurship, Stuart Read, Routledge, 2013
+2. Entrepreneurship, Rajeev Roy, 2nd Edition, Oxford Publications, 2012
+3. Fundamentals of Entrepreneurship, Nandan H., PHI, 2013
+4. Entrepreneurship Management, Lilla Hortoványi, the research was supported by
+project TAMOP 4.2.1 /B-09/1/KMR-2010-0005 and the New Széchenyi Plan
+of the Hungarian Government

@@ -1,0 +1,527 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/ecedept/ECEInfra.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+Electronic Devices and Circuits Laboratory
+Background:
+The lab provides the foundation of electronics engineering. This lab aims at providing students the
+knowledge about various electronic devices. Students are made familiar with electronic circuits and their
+intended use in various applications. This Laboratory is primarily aimed to meet the requirements of
+practical work meant for Active Components basic analysis, designing and testing of Amplifier and
+Oscillators.All basic electronic devices and their characteristics, applications can be studied. Using these
+devices, the small electronic circuits can be constructed and can be checked.
+Description:
+Electron devices lab is special and well equipped with the latest signal generators, oscilloscopes, digital
+trainer kits and measuring instruments. Students of various branches design and test their
+analog/digital/mixed signals, digital circuits as part of their curriculum. Guidance is provided to the students
+by a team of expert faculty and lab technicians. The labs are kept open after the college hours to enable the
+students to engage themselves in designing /testing the circuits in their leisure hours. The lab is used to train
+the students to implement the basic analog circuits (as a hardware using electronic components) and make
+experiments to get familiar with the characteristics of electronic components, test the circuit performance
+and the techniques of making hardware circuits.
+Current Equipment:
+The laboratory is well equipped with a whole range of Analog and Digital Storage Oscilloscopes, VHF
+Function Generators, Power supplies of various ranges, Multi-meters, volt meters, ammeters, Decade
+capacitance, inductance and resistance boxes and PCs for electronic system design Frequency counter and
+a variety of Active and Passive Components, etc.
+The lab is having one black board, projector, instructors table and Chairs, 6 fans, 6 lights, 07 windows for
+good Air circulation and good lighting facility. There are 18 set ups for doing experiments and two students
+are allotted for each set up.
+Lab investment: RS. 19,05,216 /-
+Utilization:
+This lab is utilized for conducting the following course(s):
+19PC2EC01-Electronic Devices and Circuits Laboratory
+Location and Hours:
+The electron devices and circuits laboratory is located in room no:A-202
+Open Door Access: 9:00 AM - 6.30 PM
+Scheduled classes take priority
+Contact:
+Dr. N. Neelima
+Assistant Professor,
+neelima_n@vnrvjiet.in
+N. syamala
+Assistant Professor,
+syamala_n@vnrvjiet.in
+R. Raju
+Instructor,
+raju_ece@vnrvjiet.in
+Analog Circuits Laboratory
+Background:
+This Lab familiarizes the students with the fundamentals of analog electronics. This Lab is equipped with a
+wide range of devices, which helps the students to undergo intensive training and provides a deep insight
+into the world of electronics.
+Description:
+The lab is intended to study the operation, principles of multistage amplifiers, power amplifiers, linear and
+non-linear wave shaping circuits, operational Amplifiers and 555 timer. In this lab, students perform
+experiments by designing the analog circuits using simulation tools and implementing the same using
+discrete components, BJTs, MOSFETs and ICs such as Op-Amps, 555 timer. Purpose of this lab is to make
+the students familiarized with designing, developing and testing various analog circuits for different
+applications. The facilities available in this lab is also used to build and test the student projects that involve
+analog circuits.
+Current Equipment:
+This laboratory is fully equipped with major equipments like Linear Trainer kits, Digital Storage Oscilloscope,
+Cathode Ray Oscilloscope and Function Generator as listed below. Voltmeters, Ammeters, Digital
+Multimeter, Dual Regulated DC Power Supply(Fixed& Variable), CRO (20MHz), Digital Storage
+Oscilloscope (50MHz), Function Generator (3MHz), Decade Resistance Box, Decade Capacitance Box
+,Decade Inductance Box, Linear IC Trainer Kit, Probe,IC Tester and Personal Computers.
+Lab investment: Rs. 15,15,104/-
+Utilization:
+This lab is utilized for conducting the following course(s):
+Analog Circuits Lab
+Location and Hours:
+The Analog Circuits Laboratory is located in room no. A-203
+Open Door Access: 9:00 AM - 6.00 PM
+Scheduled classes take priority
+Contact:
+Y. Srirama
+Assistant Professor,
+srirama_y@vnrvjiet.in,
+Helan Satish
+Assistant Professor,
+helan_satish@vnrvjiet.in
+Shaik.M.Subhani
+Skilled Assistant,
+skmsubhaniiti@gmail.com
+Analog and Digital Communications Laboratory
+Background:
+The electronic communication is rapidly expanding and the need for new engineering graduates who are
+prepared to innovate, create, and work with these systems is evident. The communications lab presently
+serves to give the ECE students a laboratory experience in basic electronic communications systems.
+Description:
+The concepts of all type of modulation & demodulation can be studied. The recent communication
+techniques can be demonstrated with available equipment’s. Students conduct experiments in a
+communication lab where they become acquainted with oscilloscopes, functions generators. Measurement
+of common signals such as sinusoids and periodic square waves are conducted in both the time and
+frequency domain. The training and experience that ECE students gain in this laboratory enhance their
+understanding of analog and digital communication systems. This lab has highly advanced digital storage
+oscilloscopes, RF Signal Generator and spectrum analyzer.
+The Curriculum objectives are:
+To understand basic theories of analog and digital communication.
+To design and implement analog/ digital modulator and demodulator.
+To understand the applications of balanced modulator circuit.
+Current Equipment:
+This Lab has latest and costliest equipment such as Spectrum Analyzer (1.5GHz, 18GHz), Analog
+Communication trainer kits such as signal sampling and reconstructing unit, pulse amplitude modulation
+and demodulation unit, Time division and frequency division multiplexing unit, delta / adaptive delta
+modulation and demodulation unit, Frequency modulation and demodulation unit, SSB and DSB-SC
+modulation and demodulation trainer kit.
+Digital Communication trainer kits such as Data Formatting, Data reforming, Binary data generator,
+sampling reconstruction, PPM, PAM, PWM modulation and demodulation, ASK,PSK, FSK, QPSK, DPSK
+PCM Mod & demod, DPCM Mod &demod, Delta and adaptive delta modulation, and equipment’s like
+CRO (20 MHz), Digital Storage CRO (50 MHz), Computers ( Lenovo with Matlab,i5Processor , 4 GB
+RAM, 500 GB Hard Disk), AM-FM Signal Generator (225 MHz), Function Generator(3MHz-10MHz), RF
+Signal Generator(9KHz-3GHz).
+Lab investment :Rs. 44,79,685/-
+Utilization:
+This lab is utilized for conducting the following course(s):
+19PC2EC04-Analog and Digital Communication Laboratory
+Location and Hours:
+The Communication lab is located in room no: A-207.
+Open Door Access: 9:00 AM - 6.30 PM
+Scheduled classes take priority.
+Contact People:
+K. Sangeetha,
+Assistant Professor,
+sangeetha_k@ vnrvjiet.in
+MANASA Y ,
+Assistant Professor
+manasa_y@vnrvjiet.in
+V. Dasaradha Ram Kumar
+Senior Skilled Assistant
+dasaradharamkumar@vnrvjiet.in
+Microprocessors and Microcontrollers Laboratory
+Background:
+This is our fundamental laboratory in E.C.E department. This lab has various types of microprocessors,
+micro controller trainer kits along with interfacing modules to demonstrate the detailed applications of
+microprocessors. The purpose of this laboratory is to train the students to be familiar with the software and
+hardware of microprocessors so that they can gain enough experiences to meet the demand of the
+microprocessor era.
+The facilities in the laboratory enable students to build a firm background in microprocessor hardware as
+well as software. Students learn about assembly language programming,interfacing of programmable chips
+and peripherals such as stepper motors, analog-to-digital and digital-to-analog converters etc. They acquire
+the practical skills sufficient to design and realize basic microprocessor-based systems.
+Description:
+This laboratory is used to provide intensive practical exposure to the students in the field of microprocessor
+architecture and industrial control through them. Different exercises in this lab includes Serial Data
+Communication between PC and 8051 microcontroller trainer kit. The lab also provides the facility to
+interface the microprocessor and microcontroller with different circuits such as A/D converters, stepper
+motors, DC motors, multidigit displays, etc.
+Current Equipment:
+Microprocessor kit (8086), Microcontroller kit (8051, DMA Controller, Interrupt controller, Timer, ADC,
+DAC, Serial Communication, Stepper motor, Keyboard and display control, Oscilloscopes, Function
+generator, power supply, RS 232c cable & connector, Universal programmer, UV EPROM eraser and DSO
+and logic Analyzer.
+This lab is also equipped with one white board, teacher table and Chairs, 5 fans, 15 lights, 6
+windows for good Air circulation and good lighting facility as well as 4 AC’s for cooling purpose.
+36 systems to do the programs and Interfacing kits for doing experiments. Each student has
+individual system to the programs. Students dump the programs and check the results.
+Lab investment: Rs. 34,18,890 /-
+Utilization:
+This lab is utilized for conducting the following course(s):
+19PC2EC07-Microprocessors & Microcontrollers Lab
+19ES2CS01-Programming through C Laboratory
+19ES2IT01-Data Structures Laboratory
+Location and Hours:
+The Microprocessor and Microcontroller laboratory is located in room no:A-207
+Open Door Access: 9:00 AM - 6.30 PM
+Scheduled classes take priority.
+Contact:
+JAKKA BALAKRISHNA
+Assistant Professor
+vabalakrishna_j@vnrvjiet.in
+T. Sujatha
+Skilled Assistant
+tsujatha_ece@vnrvjiet.in
+Digital Signal Processing Laboratory
+Background:
+Digital Signal Processing (DSP) is concerned with the representation of signals as a sequence of numbers
+and the operations carried out on the signals to extract specific information contained in them. The objective
+of the laboratory is to enable the students simulate and experiment with digital signals and systems and apply
+the theory they have studied in DSP courses. Students can implement digital signal processing algorithms
+using different computational platforms and DSP tools. They can critically analyze the behavior of their
+implementation, and observe the specific limitations inherent to the computational platform and tools.
+Description:
+The laboratory combines both hardware and software facilities to understand the principles, design, and
+implementation of different Signal processing algorithms using simulation softwares such asCode Composer
+Studio, MATLAB,C++, Simulink and PacketTracer software as well as Hardware realization using DSP
+processors, Embedded Processors.
+Current Equipment:
+The lab is equipped with a high end computing systems, Matlab latest version with campus wide license
+supporting fifty toolboxes. DSP fixed and floating point processor boards such as TMS320C6713, C6711,
+C5510, C5416, UPS, DSOs, function generators, and Code composer software are available in the lab.
+The lab is having one white board, Projector, teacher table and Chairs, 4 ACs, 8 fans, 16 lights, 6 windows
+for good Air circulation and good lighting facility. There are 72 computers and a total of 14 DSP processor
+kits for doing experiments and each student is allotted a computer system.
+Lab investment: RS. 1,56,26,921/-
+Utilization:
+This lab is utilized for conducting the following course(s):
+• 19PC2EC06 -Digital Signal Processing Laboratory
+• 19ES2IT01-Data Structures Laboratory
+• 19ES2CS01-Programming through C Laboratory
+Location and Hours:
+The DSP laboratory is located in room no: C-208
+Open Door Access: 9:00 AM - 6.30 PM
+Scheduled classes take priority
+Contact:
+Pradeep Kumar,
+Assistant Professor
+pradeepkumar@vnrvjiet.in
+S. Basava Rani
+Senior Skilled Assistant
+basavarani_ece@vnrvjiet.in
+Microwave Communication Laboratory
+Background:
+The mission of this lab is to design , analyze the characterization of RF and Microwave components This
+lab is equipped to carry out basic microwave measurements, such as impedance, power, frequency,
+VSWR, etc., using waveguide technology. In addition to supporting these courses, the lab also provides
+the necessary equipment for the students to perform their projects.
+Description:
+Microwave Laboratory is meant for experiments at the instructional level for undergraduate students. The
+laboratory is adequately equipped with microwave benches at X-band and K-Band , which includes
+Klystron tubes, Gunn diodes, Klystron power supplies, modulators, directional couplers, various power
+energy and VSWR meters. The experiments conducted include S-parameter measurements, radiation and
+terminal properties of horn, slot, array, reflector, strip and patch antennas, characteristics of active devices
+and passive components.
+Current Equipment:
+Klystron Power supply,Gunn Power supply,Solid state VSWR Meter,Frequency meter (Direct and
+Indirect),E-plane Tee,H-plane Tee,E-H plane Tee,H-plane Tee,Waveguides and lab is equipped
+with a good number of experimental Bench setups, power supplies, 15MHz/20MHz oscilloscopes,
+function generator, stabilizer, multi-meters, 0-250µA, 0- 500µA, 0-100 mA Ammeters, and
+computers.
+The lab is having teacher tables and Chairs, 8 fans, 8 lights, windows for good Air circulation and
+good lighting facility. There are 9 bench set ups, 1satellite communication trainer kit, 2
+experiments from ADS Software and three students are allotted for each setup.
+Lab investment: Rs. 18,96,967/-
+Utilization:
+19PC2EC11-Microwave Engineering Lab
+Location and Hours:
+The Microwave Lab is located in room no: C-208
+Open Door Access: 9:00 AM - 6.30 PM
+Contact:
+Ch.Rajakumari
+Assistant Professor
+Rajakumari_ch@vnrvjiet.in
+V.V.N.Malleswari,
+Instructor,
+malleswari_ece@vnrvjiet.in
+VLSI Laboratory
+Background:
+VLSI is an assembly of millions of transistors on a single chip that works flawlessly to realize miracles as
+varied multimedia, mobile communication etc. The VLSI simulation laboratory is established with the aim
+of conducting research in various aspects of the ever growing field of Very Large Scale Integration (VLSI)
+and establishing links between industrial companies. This lab provides basic and advanced facilities for
+coursework related experiments, project works and research facilities in the area of device modeling,
+simulation and various aspects of advanced VLSI design.
+Description:
+The students completing this course are expected to understand the principles, design, and implementation
+of digital circuits using software such as XILINX and Mentor Graphics. The students are able to realize
+the modules using FPGA kits such as SPARTAN 2and SPARTAN 6 boards along with CPLD Kits (Cool
+Runner 2).The lab is equipped with a high end computing systems, XILINX latest version. For
+implementation of circuits Xilinx and For FSM design and verification, Quartus Tools is available.
+Current Equipment:
+The lab is equipped with the following workstations and test equipment:
+The lab is equipped with a high end computing systems, latest version of Mentorgraphics tools (HEP-
+1,HEP-2) and 4 CPLG and FPGA kits.
+The lab is having one white board, Projector, teacher table and Chairs, 3 ACs, 7 fans, 12 lights, 8 windows
+for good Air circulation and good lighting facility. There are 36 computers for doing experiments and each
+student is allotted a computersystem.
+Lab Investment: Rs. 56,62,518/-
+Utilization:
+This lab is utilized for conducting the following courses:
+19PC2EC08-VLSI Design Laboratory
+19PC2EC03-Digital System Design Laboratory
+Location and Hours:
+The VLSI Laboratory is located in room no: A-208
+Open Door Access: 9:00 AM - 6.30 PM
+Scheduled classes take priority.
+Contact:
+Dr. A.Sai Kumar
+Assistant Professor
+saikumar_a@vnrvjiet.in
+K. Balaji
+Senior Skilled Assistant
+kbalaji_ece@vnrvjiet.in
+Python Programming Laboratory
+Background:
+Python Programming Lab(PPL) is a general purpose, high-level programming language; other high- level
+languages you might have heard of C++, PHP, and Java. Virtually all modern programming languages make
+us of an Integrated Development Environment (IDE), which allows the creation, editing, testing, and saving
+of programs and modules. Many modern languages use both processes. They are first compiled into a lower-
+level language, called byte code, and then interpreted by a program called a virtual machine. Python uses
+both processes, but because of theway programmers interact with it.
+Description:
+The laboratory provides software facilities Practical aspects are the key to understanding and conceptual
+visualization Of theoretical aspects covered in the books. Also, this course is designed to review the concepts
+of Data Structure using C, studied in previous semester and implement the various algorithms related to
+different data structures
+Current Equipment:
+The lab is equipped with a highend computing systems installed with IDLE latest version. The lab is having
+one white board, Projector, teacher table and Chairs, 3 ACs, 5 fans, 9 lights, 8 windows for good Air
+circulation and good lighting facility. There are 36 computers are available for executing programs. and
+each student is allotted a computer system.
+Lab investment: RS. 35,22,870/-
+Utilization:
+This lab is utilized for conducting the following course(s):
+• 19PC2IT02-Digital Signal Processing Laboratory
+Location and Hours:
+The PPL laboratory is located in room no: P-102/1
+Open Door Access: 9:00 AM - 6.30 PM
+Scheduled classes take priority
+Contact:
+A. Pravalika,
+Assistant Professor
+pravallika_a@vnrvjiet.in
+A. Sireesha
+Assistant Professor
+sireesha_a@vnrvjiet.in
+T.Jagadeesh
+Skilled Assistant
+tjagadeesh_ece@vnrvjiet.in
+Basic Simulation and IoT Laboratory
+Background:
+Basic Simulation lab is concerned with the representation of signals as a sequence of numbers and the operations
+carried out on the signals to extract specific information contained in them. The objective of the laboratory is to
+enable the students simulate and operate with digital signals and systems and apply the theory they have studied in
+SS and PTSP.
+Description:
+This course is expected to understand the principles, characteristics of the different signals and systems. They are able
+to perform different operations like convolution, correlation etc… on them. Basic Operations on Matrices, Generation
+of various signals and sequences (Periodic and Aperiodic), such as unit Impulse step, Square, Saw tooth, Triangular,
+Sinusoidal, Ramp, Sinc., Operations on signals and sequences such as Addition, Multiplication, Scaling, Shifting,
+Folding, Computation of Energy and Average Power, Finding the Even and Odd parts of Signal / Sequence and Real
+and imaginary parts of Signal, Convolution between Signals and Sequences, Auto Correlation and Cross Correlation
+of Signals and Sequences, Verification of Linearity and Time Invariance Properties of a given Continuous / Discrete
+System, Computation of Unit sample, Unit step and sinusoidal responses of the given LTI system and verifying its
+Physical realiazability and stability properties, Gibbs Phenomenon, Finding the Fourier Transform of a given signal
+and plotting its magnitude and phase spectrum, Waveform Synthesis using Laplace Transform, Locating the Zeros
+and Poles and Plotting the Pole-Zero maps in S plane and Z- Plane for the given transfer function, Generation of
+Gaussian noise (Real and Complex), Computation of its mean, M.S. Value and its Skew, Kurtosis and PSD,
+Probability Distribution Function, Sampling theorem Verification.
+Current Equipment:
+The lab is equipped with 36 Lenovo advanced desktops with MATLAB latest version loaded in it. The lab is having
+one white board, teacher table and required number of chairs.
+Lab Investment: Rs. 27,13,280/-
+Utilization:
+This lab is utilized for conducting the following courses:
+19PC2EC02-Basic Simulation Laboratory
+Location and Hours:
+The Basic Simulation Laboratory is located in room no: P-202
+Open Door Access: 9:00 AM – 6.30 PM
+Schedule
+d classes take priority.
+Contact:
+Dr. D. Ramesh Reddy,
+Assistant Professor,
+rameshreddy_d@vnrvjiet.in
+C. Kaushik
+Assistant Professor,
+kaushik_c@vnrvjiet.in
+sksubhani
+Skilled Assistant
+skmsubhaniiti@gmail.com
+Computer Networks Laboratory
+Framework:
+The lab provides the foundation of basic networking commands and networking. This lab aims at providing
+students with practical approach to network communication protocols, understand network layers,
+structure/format and role of each network layer, the knowledge about various error detection and correction
+mechanisms. Students are made familiar with network protocols and their intended use in various
+applications. The objective of this lab course is to get practical knowledge on working principles of various
+communication protocols. Analyze structure and formats of TCP/IP layer protocols using network tools such
+as Packet tracer and online network simulators. Implementing various network algorithms such as error
+control, routine and security related algorithms.
+Description:
+Computer Networks Laboratory is a modern and well equipped laboratory with advanced development tools
+to meet current industry needs. Students are able to design and implement various network applications such
+as data transmission between client and server, file transfer, real-time multimedia transmission, understand
+the various routing protocols/algorithms and internet working as part of their curriculum. Guidance is
+provided to the students by a team of expert faculty and lab technicians. The labs are kept open after the
+college hours to enable the students to engage themselves in various projects in their leisure hours.
+Equipment:
+The lab is equipped with 33Lenova/ HP advanced desktops with MATLAB latest version loaded in it. The
+lab is having one white board, teacher table and instructor table, required number of chairs. Each student is
+allotted with Separate Desktop.
+Lab investment: Rs. 32,51,028/-
+Utilization:
+This lab is utilized for conducting the following course(s):
+• Computer Networks Laboratory
+• Signal Processing and Communication Applications Laboratory
+Location and Hours:
+The Computer Networks Laboratory is located in room no: A-209
+Open Door Access: 9:00 AM – 6.30 PM
+Scheduled classes take priority.
+Contact:
+Dr. G. Shanthi
+Assistant Professor,
+shanthi_g@vnrvjiet.in
+T. Jagadeesh
+Skilled Assistant
+tjagadeesh_ece@vnrvjiet.in
+Embedded Systems Laboratory
+Background:
+Embedded Systems Laboratory is an advanced course offered within the context of our Post-Graduate course
+in M.Tech – Embedded System... Our vision is to set up Research facilities with lab infrastructure and
+manpower to create exposure and proficiency in Embedded system technology by providing training in all
+domains of embedded system.
+Description:
+The curriculum was designed by experts chosen from researchers, industrialists and academicians, to meet
+the today’s demands of the Industry as well as Research Groups Interfacing switch, buzzer, keypad, LCD,
+elevator, seven segment display, temperature sensor, stepper motor, memory card to the 8051 and ARM
+microcontrollers, creating time delay using timers, serial transmission and reception, interrupt handling and
+generation of PWM signal.
+Current Equipment:
+➢ ARM7 LPC-2148 development boards,
+➢ ARM 9 Kits, Keil Software,
+➢ Lab VIEW Rio Evaluation Kit,
+➢ TIVA Launch Pad,
+➢ MSP 430G2553 Launch Pad,
+➢ TIVAC Series Dev Kit,
+➢ 8051 Microcontroller Dev Board,
+➢ 3D Printer,
+➢ DSP Processor with EVM along with required accessories,
+➢ E Health sensor platform kit,
+➢ XBEE Pro ZBSMT (ZigBee Development Kit),
+➢ IC Trainer kits,
+➢ DC Regulated Power Supply,
+➢ Function Generators,
+➢ Digital Storage Oscilloscope,
+➢ Digital Video Development platform kit,
+➢ PSOC First Touch kit
+Lab Investment: Rs. 41,21,313/-
+Location and Hours:
+The Embedded systems Laboratory is located in room no: P-103
+Open Door Access: 9:00 AM – 6.30 PM
+Scheduled classes take priority.
+Contact:
+B.B.Shabarinath
+Assistant Professor
+Shabarinath_b@vnrvjiet.in
+V. Dasaradha Ram Kumar
+Senior Skilled Assistant
+dasaradharamkumar@vnrvjiet.in
+VLSI Design Laboratory
+Background:
+VLSI is an assembly of millions of transistors on a single chip that works flawlessly to realize miracles
+as varied multimedia, mobile communication etc. The VLSI design laboratory is established with the
+aim of conducting research in various aspects of the ever growing field of Very Large Scale Integration
+(VLSI) and establishing links between industrial companies. This lab provides basic and advanced
+facilities for PG coursework related experiments, M-Tech project works and research facilities in the
+area of device modeling, simulation and various aspects of advanced VLSI design.
+Description:
+The lab also has a very rich wealth of state-of-art systems and tools for design and testing which includes
+Hardware Facilities, EDA tools, and Software’sComplete VLSI Design flow for Analog Mixed Signal IC
+Design and Synopsys Asia Pac University 3900-0 Product Frontend and 3900-1 Backend. While retaining
+the salient features of Microelectronics stream, this program includes new lecture and laboratory based
+courses specially designed to cater to the needs of the industry both in the core program and through
+electives. We are also offering short term courses designed to cater to the needs of industries from time
+to time.
+Current Equipment:
+The lab is equipped with a high end computing systems,
+➢ HP i7 3.2GHz, 1TB HDD, 8GB RAM, keyboard, HPScroll Mouse, 18” LCD Monitor.
+➢ Spartan 3E FPGA Kit, Anvyl, Spartan 605
+➢ Zync board 7000 EPP ZC 702
+➢ XUP V5 FPGA KIT
+➢ Atlys SPARTAN6 FPGA KIT
+➢ ANALOG DISCOVERY KIT,VMOD cam & cable
+➢ ZYNC VIDEO AND IMAGE KIT
+➢ FPGA KIT (AITEX-7 FPGA KIT NEXYS 4DDR)
+➢ ZED BOARD (ZYNC ZED DEVELOPMENT KIT)
+➢ NEXYS 4DDR
+➢ FPGA BOARDS
+Lab Investment: Rs. 44,25,155 /-
+Location and Hours:
+The VLSI Design Laboratory is located in room no: P-109
+Open Door Access: 9:00 AM – 6.30 PM
+Scheduled classes take priority.
+Contact:
+Ch.Ganesh
+Assistant Professor,
+ganesh_ch@vnrvjiet.in
+K. Balaji
+Senior Skilled Assistant
+kbalaji_ece@vnrvjiet.in
+SILACON labLab
+Description:
+RFID & WSN Applications Lab is a research lab is focuses on developing the
+applications in the area of wireless sensors networks and embedded systems. This lab is used to carry out
+project work and supports new experimental research work and UG and PG students’ projects.
+Projects completed
+● Automated Commando Training System
+● Intelligent and Intuitive Signaling System for On-road Driver assistance
+● Weapon Locking & Tracking System (WLTS).
+● Virtual Assistant for Mobile Devices using Voice and Gesture Technologies.
+● Cough and Wheeze analyzer for Respiratory Digital Health Services.
+● Digital Health Advisory System for Chronic Respiratory Diseases.
+● Design and development of prototype for secure weapon shooting information system.
+Location and Hours:
+Open Door Access: 9:00 AM - 6.30 PM
+Contact:
+V Naveen Kumar
+Assistant Professor
+naveenkumar_v@vnrvjiet.in
+sksubhani
+Skilled Assistant
+skmsubhaniiti@gmail.com
+Mobile Vision applications
+Description:
+The Mobile Vision Applications Lab is a research lab focuses on artificial vision
+applied to mobile devices, considering both the case of smartphones and other personal devices equipped
+with camera. Which converge the natural development of our research in Computer Vision and recognition
+of forms with the application of such research to the development of applications on mobile devices like
+smartphones and embedded systems. This lab is used to carry out project work and supports new
+experimental research work and UG and PG students’ projects.
+Projects completed
+● FM Based Switch for Street Light Control
+● Mobile Image Position and Performance Acquisition System
+● Driver safety index using integrated computing system
+● ROI Booster
+Location and Hours:
+Open Door Access: 9:00 AM - 6.30 PM
+Contact:
+M Haritha
+Assistant Professor
+haritha_m@vnrvjiet.in
+V.V.N.Malleswari,
+Instructor,
+malleswari_ece@vnrvjiet.in

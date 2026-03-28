@@ -1,0 +1,1705 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/R22/IBtechECE2042024.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+DEPARTMENT OF
+ELECTRONICS AND
+COMMUNICATION
+ENGINEERING
+1
+VISION OF THE DEPARTMENT
+A resource centre of academic excellence for
+imparting technical education with high pattern of
+discipline through dedicated staff which shall set
+global standards, making National and International
+students technologically superior and ethically
+strong, who in turn shall improve the quality of life.
+MISSION OF TH E DEPARTMENT
+➢ To provide quality education in the domain of
+Electronics and Communication Engineering
+through effective learner centric process.
+➢ To provide industry specific best of breed
+laboratory facilities beyond curriculum to promote
+diverse collaborative research for meeting the
+changing industrial and societal needs.
+2
+B.TECH.
+(ELECTRONICS AND COMMUNICATION
+ENGINEERING)
+3
+B.TECH. (ECE)
+PROGRAM EDUCATI ONAL OBJECTIVES
+PEO-I: Produce Electronics and Communication Engineering Professionals
+with a solid foundation in Mathematics, Science and Technology which is
+essential to solve engineering problems.
+PEO-II: Train students in good engineering practices to comprehend,
+analyze, design, and create novel products for industry specific processes
+and real life problems.
+PEO-III: Prepare students to adopt the learning culture for higher
+qualification, research and successful professional career.
+PEO-IV: Inculcate organizational, managerial and entrepreneurial skills
+essential for professional growth.
+PEO-V: Develop the consciousness among students towards moral values
+and professional ethics for innovative solutions to meet the societal needs.
+4
+B.TECH. (ECE)
+PROGRAM O UTCOMES
+PO-1: Engineering knowledge: Apply the knowledge of mathematics,
+science, engineering fundamentals, and an engineering specialization to
+the solution of complex engineering problems.
+PO-2: Problem analysis: Identify, formulate, review research literature, and
+analyze complexengineering problems reaching substantiated conclusions
+using first principles of mathematics, natural sciences, and engineering
+sciences.
+PO-3: Design/development of solutions: Design solutions for complex
+engineering problems and design system components or processes that
+meet the specified needs with appropriate consideration for the public
+health and safety, and the cultural, societal, and environmental
+considerations.
+PO-4: Conduct investigations of complex problems: Use research-based
+knowledge and research methods including design of experiments,
+analysis and interpretation of data, and synthesis of the information to
+provide valid conclusions.
+PO-5: Modern tool usage: Create, select, and apply appropriate
+techniques, resources, and modern engineering and IT tools including
+5
+prediction and modeling to complex engineering activities with an
+understanding of the limitations.
+PO-6: The engineer and society: Apply reasoning informed by the
+contextual knowledge to assess societal, health, safety, legal and cultural
+issues and the consequent responsibilities relevant to the professional
+engineering practice.
+PO-7: Environment and sustainability: Understand the impact of the
+professional engineering solutions in societal and environmental contexts,
+and demonstrate the knowledge of, and need for sustainable
+development.
+PO-8: Ethics: Apply ethical principles and commit to professional ethics
+and responsibilities and norms of the engineering practice.
+PO-9: Individual and team work: Function effectively as an individual, and
+as a member or leader in diverse teams, and in multidisciplinary settings.
+PO-10: Communication: Communicate effectively on complex
+engineering activities with the engineering community and with society at
+large, such as, being able to comprehend and write effective reports and
+design documentation, make effective presentations, and give and receive
+clear instructions.
+PO-11: Project management and finance: Demonstrate knowledge and
+understanding of the engineering and management principles and apply
+these to one’s own work, as a member and leader in a team, to manage
+projects and in multidisciplinary environments.
+6
+PO-12: Life-long learning: Recognize the need for, and have the
+preparation and ability to engage in independent and life-long learning in
+the broadest context of technological change.
+7
+B.TECH. (ECE)
+PROGRAM SPECI FIC OUTCOMES
+PSO-1: Analyze, Design and Implement efficient systems for Analog and
+Digital domain, Communications, Signal and Image Processing
+Applications
+PSO-2: Incluate problem solving skills to provide innovative solutions for
+the society.
+PSO-3: Identify and Apply Domain specific tools for Design, Analysis and
+Synthesis in the areas of Electronics and Communications
+8
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY HYDERABAD
+B.TECH. I YEAR
+ELECTRONICS AND COMMUNICATION ENGINEERING
+I SEMESTER R22
+Course
+Title of the Course L T P/D CH C
+Code
+22BS1MT101 Matrices and Calculus 3 1 0 4 4
+22BS1PH102 Applied Physics 3 0 0 3 3
+22ES1CS101 Programming for Problem Solving 3 0 0 3 3
+22HS1EN101 English for Skill Enhancement 2 0 0 2 2
+22ES1EE104 Electrical Circuits 2 0 0 2 2
+22ES2ME101 Engineering Workshop 1 0 2 3 2
+22BS2PH102 Applied Physics Laboratory 0 0 2 2 1
+22ES2CS101 Programming for Problem Solving Laboratory 0 0 2 2 1
+English Language and Communication Skills
+22HS2EN101 0 0 2 2 1
+Laboratory
+Elements of Electronics and Communication
+22SD5EC101 0 0 2 2 1
+Engineering
+22MN6HS101 Induction Programme 2 0 0 2 0
+Total 16 1 10 27 20
+II SEMESTER R22
+Course
+Title of the Course L T P/D CH C
+Code
+Ordinary Differential Equations and Vector
+22BS1MT102 2 1 0 3 3
+Calculus
+22BS1CH102 Chemistry for Engineers 3 0 0 3 3
+22ES1EE105 Basic Electrical Engineering 2 0 0 2 2
+22PC1EC101 Electronic Devices and Circuits 3 0 0 3 3
+22ES1CS102 Data Structures 3 0 0 3 3
+22ES3ME102 Engineering Drawing 0 0 4 4 2
+22ES2EE105 Basic Electrical Engineering Laboratory 0 0 2 2 1
+22BS2CH101 Engineering Chemistry Laboratory 0 0 2 2 1
+22PC2EC101 Electronic Devices and Circuits Laboratory 0 0 2 2 1
+22ES2CS102 Data Structures Laboratory 0 0 2 2 1
+22MN6HS102 Environmental Science 2 0 0 2 0
+Total 15 1 12 28 20
+L – Lecture T – Tutorial P – Practical D – Drawing CH – Contact Hours/Week
+C – Credits SE – Sessional Examination CA – Class Assessment ELA – Experiential Learning Assessment
+SEE – Semester End Examination D-D – Day to Day Evaluation LR – Lab Record
+CP – Course Project PE – Practical Examination
+9
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. I Semester
+(22BS1MT101) MATRICES AND CALCULUS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 1 4 30 5 5 60 100
+COURSE PRE-REQUISITES: Matrices, Differentiation, Integration
+COURSE OBJECTIVES:
+• To know the rank of the matrix and its application to consistency of system of linear
+equations
+• To know Eigen values and Eigen vectors
+• To know the nature of Quadratic forms
+• To know maximum and minimum of a given function with several variables
+• To evaluate multiple integrals and their applications
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Compute the rank of a matrix and analyze the solution of a system of linear
+equations
+CO-2: Calculate Eigen values and Eigen vectors
+CO-3: Reduce the quadratic form to its canonical form
+CO-4: Solve problems involving Maxima and Minima
+CO-5: Evaluate multiple integrals and its applications in areas and volumes
+COURSE ARTICULATION MATRIX:
+(Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM SPECIFIC
+PROGRAM OUTCOMES (PO)
+OUTCOMES (PSO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12 PSO-1 PSO-2
+CO-1 3 2 1 - - 1 1 - 2 1 - 2 - -
+CO-2 3 2 2 1 - 1 1 - 2 1 - 2 - -
+CO-3 3 2 2 - - 1 1 - 2 1 - 2 - -
+CO-4 3 2 1 1 - 1 1 - 2 1 - 2 - -
+CO-5 3 2 1 - - 1 1 1 2 1 - 2 - -
+UNIT-I:
+Matrices: Types of real matrices, symmetric, skew symmetric and orthogonal matrices;
+Rank of a matrix by Echelon form and Normal form, Inverse of Non-singular matrices
+by Gauss-Jordan method; System of linear equations; Consistency of Homogeneous
+and Non-Homogeneous equations, LU Decomposition method.
+10
+UNIT-II:
+Eigen Values and Eigen Vectors: Eigen values and eigenvectors and their properties,
+Diagonalization of matrices; Cayley-Hamilton Theorem (without proof), finding inverse
+and power of a matrix by Cayley-Hamilton Theorem
+UNIT-III:
+Complex Matrices and Quadratic Forms: Types of complex matrices; Hermitian; Skew-
+Hermitian, Unitary Matrices and its properties; Quadratic forms and Nature of the
+Quadratic Forms, Reduction of Quadratic form to canonical form using Linear
+Transformation and Orthogonal Transformation.
+UNIT-IV:
+Functions of Several Variables: Definitions of Limits, Continuity. Partial differentiation:
+partial derivatives of first and second order, Euler’s theorem, Total derivative,
+Jacobian, Functional dependence, Taylor’s theorem of two variables (without proof).
+Maxima and Minima of two variables, Lagrange’s method of undetermined
+Multipliers.
+UNIT-V:
+Multiple Integrals with Applications: Evaluation of Double Integrals (Cartesian and
+polar coordinates); change of order of integration (only Cartesian form), Change of
+variables (Cartesian to polar). Evaluation of Triple integrals, Change of variables
+(Cartesian to Spherical and Cylindrical polar coordinates) for triple integrals.
+Applications: Areas (by double integrals) and volumes (by double integrals and triple
+integrals).
+TEXT BOOKS:
+1. Higher Engineering Mathematics, B. V. Ramana, 11th Reprint, Tata McGraw-Hill,
+2010
+2. Advanced Engineering Mathematics, R. K. Jain and S. R. K. Iyengar, Narosa
+Publications
+3. Advanced Engineering Mathematics, Erwin Kreyszig, 9th Edition, John Wiley India
+Pvt. Ltd.
+REFERENCES:
+1. Linear Algebra and its Applications, Gilbert Strang, Cengage Publication
+2. Matrices, A. R. Vasishtha and A. K. Vasishtha, Krishna’s Educational Publishers
+3. Engineering Mathematics, N. P. Bali, 4th Edition, Laxmi Publications
+4. Calculus and Analytic Geometry, G. B. Thomas and R. L. Finney, 9th Edition, Pearson
+Education, 2002
+5. Linear Algebra and its Applications, David C. Lay, Pearson Education India, 2003
+11
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. I Semester
+(22BS1PH102) APPLIED PHYSICS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: 10+2 Physics
+COURSE OBJECTIVES:
+• To apply the principles of lasers for various laser systems and optical fibers
+• To understand the principles of quantum physics and band theory of solids
+• To explain various types of semiconductors and semiconductor devices
+• To study the fundamental concepts related to the dielectric and magnetic
+materials
+• To identify the importance of energy materials and nanomaterials
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Explain various aspects of lasers, optical fiber and their applications in diverse
+fields
+CO-2: Apply quantum mechanics to behavior of a particle and classify solids based
+on band gap
+CO-3: Identify the role of semiconductor devices in science and engineering
+applications
+CO-4: Illustrate applications of dielectric, magnetic materials
+CO-5: Explore the features and applications of energy materials and nanomaterials
+COURSE ARTICULATION MATRIX:
+(Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM SPECIFIC
+PROGRAM OUTCOMES (PO)
+OUTCOMES (PSO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12 PSO-1 PSO-2 PSO-3
+CO-1 3 2 1 1 - 1 1 - 1 1 - 1 - - -
+CO-2 3 2 1 - 1 1 - - 1 1 - 1 - - -
+CO-3 3 2 2 1 - 2 - - 1 1 - 1 - - -
+CO-4 3 2 1 1 - 1 - - 1 1 - 1 - - -
+CO-5 3 2 2 1 1 2 2 - 1 1 - 1 - - -
+UNIT-I:
+Laser and Fiber Optics: Lasers: Laser beam characteristics-Three quantum processes
+(Absorption, Spontaneous emission & Stimulated emission), Lifetime, Metastable state,
+Population inversion, Pumping methods- Lasing action -Block diagram of laser-Einstein
+coefficients and their relations, Ruby laser, He-Ne laser, Applications of laser.
+12
+Fiber Optics: Introduction to optical fiber- Advantages of optical fibers - Total internal
+reflection, Construction of optical fiber - Acceptance angle - Numerical aperture-
+Classification of optical fibers. fiber optic laser - Applications.
+UNIT-II:
+Quantum Physics and Band Theory of Solids:
+Quantum Physics: Introduction to quantum physics-Planck’s law, Wave-particle
+duality, de-Broglie hypothesis, Matter waves, Davisson and Germer experiment –
+Heisenberg uncertainty principle and its applications - Born interpretation of the wave
+function – Time independent Schrodinger wave equation - Particle in one dimensional
+infinite potential well.
+Band Theory Solids: Free electron theory (Drude& Lorentz.)-Electrical Conductivity-
+Verification of Ohm’s law -Bloch’s theorem -Kronig-Penney model (qualitative) – E-k
+diagram, Effective mass of electron -Origin of energy bands- Classification of solids.
+UNIT-III:
+Semiconductors and Devices:
+Semiconductors: Intrinsic Semiconductors-Intrinsic carrier concentration, Extrinsic
+semiconductors (Qualitative), Fermi level and its temperature dependence, Hall
+effect-Hall coefficient, Applications of Hall effect.
+Semiconductor Devices: Direct and indirect band gap semiconductors-Formation
+and characteristics of P-N junction diode, construction, working principle,
+Characteristics and applications of LED, and Solar cell, Construction and working
+principle of Laser diode.
+UNIT-IV:
+Dielectric and Magnetic Materials:
+Dielectric Materials: Basic definitions- Types of polarizations (qualitative) -Frequency
+dependence of polarization, Local field, Clausius-Mossotti relation, Ferroelectric,
+Piezoelectric, and Pyroelectric materials – Applications.
+Magnetic Materials: Basic definitions- Types of Magnetic materials, Antiferro and ferri
+magnetic materials, Weiss-Domain theory of ferromagnetism, Hysteresis - Soft and
+hard magnetic materials, Multiferroics – Applications.
+UNIT-V:
+Energy Materials and Nanotechnology:
+Energy Materials: Introduction to energy materials, Electrolytes for super capacitors -
+Rechargeable ion batteries, Solid fuel cells.
+Nanotechnology: Introduction, Quantum confinement, Surface to volume ratio,
+Physical properties, Bottom-up approach: Sol-gel, Top-down approach: Ball milling -
+Characterization techniques – Average crystallite size using X-ray diffraction pattern,
+Scanning electron microscopy - Applications of nanomaterials.
+TEXT BOOKS:
+1. A Text Book of Engineering Physics, M. N. Avadhanulu, P. G. Kshirsagar & T. V. S.
+Arun Murthy, 11th Edition, S. Chand Publications, 2019
+13
+2. Engineering Physics, B. K. Pandey and S. Chaturvedi, 2nd Edition, Cengage
+Learning, 2022
+3. Engineering Physics, P. K. Palanisamy, Scitech Publications
+REFERENCES:
+1. Essentials of Nanoscience & Nanotechnology, K. Narasimha Reddy, 1st Edition,
+Nano Digest, 2021
+2. Fundamentals of Physics, Halliday, Resnick and Walker, 11th Edition, John Wiley &
+Sons, 2018
+3. Introduction to Solid State Physics, A. C. Kittel, Wiley Eastern, 2019
+4. Nano Materials, A. K. Bhandhopadhya, 1st Edition, New Age International, 2007
+5. Energy Materials A Short Introduction to Functional Materials for Energy Conversion
+and Storage, A. S. Bandarenka, 1st Edition, CRC Press, Taylor & Francis Group
+Energy Materials, 2022
+14
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. I Semester
+(22ES1CS101) PROGRAMMING FOR PROBLEM SOLVING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To relate basics of programming language constructs and problem-solving
+techniques
+• To classify and implement control structures and derived data types
+• To analyze and develop effective modular programming
+• To construct mathematical problems and real time applications using C Language
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Illustrate the flowchart, algorithm, pseudo code for a given problem
+CO-2: Execute programs using various data types and operators
+CO-3: Implement programs using conditional and iterative statements for a given
+problem
+CO-4: Exercise on programs using arrays, pointers, dynamic memory management,
+structures and unions
+CO-5: Develop solution for a given problem using modular approach and perform file
+handling
+COURSE ARTICULATION MATRIX:
+(Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM SPECIFIC
+PROGRAM OUTCOMES (PO)
+OUTCOMES (PSO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12 PSO-1 PSO-2
+CO-1 2 2 3 1 - - - - 2 2 1 - - -
+CO-2 2 2 3 2 1 - - - 2 2 - 2 - -
+CO-3 2 2 3 2 1 1 - - 2 2 - 2 - -
+CO-4 1 2 3 1 1 1 - - 2 2 2 2 - -
+CO-5 1 2 3 1 1 1 - - 2 2 2 2 - -
+UNIT-I:
+Introduction to Programming:
+Compilers, compiling and executing a program.
+Representation of Algorithm, Flowchart/ Pseudocode with examples, Program design
+and structure of C programming.
+Variables, Data types Operators, expressions and precedence, Expression evaluation,
+Storage classes, type conversion.
+I/O: Simple input and output with scanf and printf, formatted I/O, Introduction to stdin,
+stdout and stderr.
+Conditional Branching: Branching with if, if-else, nested if-else, else-if ladder, switch-
+case, goto,
+15
+UNIT-II:
+Loops, Arrays, Strings:
+Loops: Iteration with for, while, do- while loops, break and continue statements.
+Arrays: One and two dimensional arrays, creating, accessing and manipulating
+elements of arrays
+Strings: Introduction to strings, handling strings as array of characters, string functions
+available in C arrays of strings.
+UNIT-III:
+Searching, Sorting, Functions:
+Searching: Basic searching in an array of elements (linear and binary search
+techniques)
+Sorting: Basic algorithms to sort array of elements (Bubble, Insertion and Selection sort
+algorithms), Basic concept of order of complexity through the example programs
+Functions: Designing structured programs, Declaring a function, Signature of a
+function, Parameters and return type of a function, passing parameters to functions,
+call by value. Recursion with examples. Some C standard functions and libraries.
+UNIT-IV:
+Structures and Pointers:
+Structures: Defining structures, initializing structures, unions, Array of structures,
+Pointers: Idea of pointers, Defining pointers, Pointers to Arrays and Structures, Passing
+arrays to functions and structures to functions. Dynamic memory allocation, self-
+referential structures
+UNIT-V:
+Preprocessor Directives and File Handling in C:
+Preprocessor Directives: Symbolic constants, macro expansion and file inclusion.
+User Defined Data Types: enum, typedef
+Files: Text and Binary files, file input/output operations, Error Handling in Files, random
+access of files, command line arguments.
+TEXT BOOKS:
+1. The C Programming Language , Brian W. Kernighan and Dennis M. Ritchie, Prentice
+Hall of India
+2. C Programming and Data Structures, B. A. Forouzan and R. F. Gilberg, 3rd Edition,
+Cengage Learning
+3. C: The Complete Reference, Herbert Schildt, 4th Edition, McGraw-Hill
+REFERENCES:
+1. Problem Solving and Program Design in C, Jeri R. Hanly and Elliot B. Koffman, 7th
+Edition, Pearson
+2. Computer Fundamentals and C, E. Balagurusamy, 2nd Edition, McGraw-Hill
+3. Let us C, Yashavant Kanetkar, 18th Edition, BPB
+4. How to Solve it by Computer, R. G. Dromey, 16th Impression, Pearson
+5. Programming in C, Stephen G. Kochan, 4th Edition, Pearson Education
+ONLINE RESOURCES:
+1. https://nptel.ac.in/courses/106105171
+2. https://ugcmoocs.inflibnet.ac.in/index.php/courses/view_ug/307
+16
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. I Semester
+(22HS1EN101) ENGLISH FOR SKILL ENHANCEMENT
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+2 0 2 30 5 5 60 100
+COURSE OBJECTIVES:
+• To enhance vocabulary through word formation processes
+• To read and comprehend different kinds of texts (tone, tenor, sound, sense,
+diction, etc. - sub-skills)
+• To write clear, concise, and correct sentences and paragraphs to produce
+appropriate technical prose
+• To improve coherence and cohesion in writing and speaking
+• To recognize and practice the use of rhetorical elements necessary for the
+successful practice of scientific and technical communication
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Use vocabulary contextually and effectively
+CO-2: Employ reading skills to comprehend different kinds of texts. (tone, tenor, sound,
+sense, diction, etc.
+CO-3: Apply principles of critical thinking and problem-solving for clarity, conciseness
+and accuracy of expression in academic and professional communication
+CO-4: Demonstrate improved competence in Standard Written English, including
+grammar, sentence and paragraph structure and coherence, and use this
+knowledge to accurately communicate technical information
+CO-5: Employ appropriate rhetorical patterns of discourse in scientific and technical
+communication
+COURSE ARTICULATION MATRIX:
+(Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM SPECIFIC
+PROGRAM OUTCOMES (PO)
+OUTCOMES (PSO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12 PSO-1 PSO-2
+CO-1 1 1 1 1 - 2 1 1 2 3 2 2 - -
+CO-2 2 2 2 2 2 2 2 1 3 3 2 2 - -
+CO-3 2 2 2 2 1 3 2 1 3 3 2 2 - -
+CO-4 1 1 1 1 1 2 2 1 2 3 2 2 - -
+CO-5 1 1 1 1 - 2 1 1 2 2 1 1 - -
+UNIT-I:
+1. Reading: On the Conduct of Life by William Hazlitt
+2. Grammar: Conjunctions and Prepositions
+3. Vocabulary: Word Formation (Affixation, Compounding, Conversion, Blending,
+Borrowing)
+4. Writing: Punctuation, Clauses and Sentences Transitional Devices- Paragraph
+Writing- Process
+17
+UNIT-II:
+1. Reading: How I Became a Public Speaker by G.B. Shaw
+2. Grammar: Articles, Noun-Pronoun Agreement, Concord
+3. Vocabulary: Word Formation- (Prefixes, Suffixes, Root Words)
+4. Writing Skills: Principles of Good Writing-Coherence, Cohesion Essay Writing -
+Descriptive, Argumentative, Expository
+UNIT-III:
+1. Reading: Muhammad Yunus
+2. Grammar: Misplaced Modifiers
+3. Vocabulary: Synonyms and Antonyms
+4. Writing Skills: Letter Writing- Formal Letters - Letter of Complaint, Letter of Requisition,
+Email Writing; Email Etiquette
+UNIT-IV:
+1. Reading: Politics and the English Language by George Orwell
+2. Grammar: Cliches, Redundancies
+3. Vocabulary: Common Abbreviations
+4. Writing Skills: Summary Writing; Job Application; Resume
+UNIT-V:
+Organizational Patterns for writing
+1. Patterns of Writing: Comparison and Contrast Pattern
+2. Patterns of Writing: Cause and Effect Pattern
+3. Patterns of Writing: Classification Pattern
+4. Patterns of Writing: Problem-Solution Pattern
+TEXT BOOKS:
+1. Language and Life: A Skills Approach, Orient Black Swan
+2. Technical Communication Rebecca E. Burnett, 6th Edition, Cengage Learning
+REFERENCES:
+1. Communication Skills, Pushplata and Kumar, Sanjay, OU Press, 2015
+2. Remedial English Grammar, Wood F. T., Macmillan, 2007
+3. Study Writing, Hamp, Liz., Lyons and Heasly, Ben, C U Press, 2006
+4. Practical English Usage, Swan, Michael, OU Press, 1995
+5. Longman Dictionary of Common Errors, Turton N. D. and Heaton J. B., 1991
+18
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. I Semester
+(22ES1EE104) ELECTRICAL CIRCUITS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+2 0 2 30 5 5 60 100
+COURSE PRE-REQUISITES: Basic Mathematics
+COURSE OBJECTIVES:
+• To understand the basic concepts of circuit analysis
+• To analyze single phase AC circuits and response
+• To apply network theorems for circuit analysis
+• To understand basic concepts of magnetic circuits
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply basic concepts for analyzing electrical circuits
+CO-2: Analyze AC circuits along with resonance phenomenon
+CO-3: Understand the network theorems applied for different applications
+CO-4: Analyze the magnetic circuit with electrical circuit analogy
+COURSE ARTICULATION MATRIX:
+(Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM SPECIFIC
+PROGRAM OUTCOMES (PO)
+OUTCOMES (PSO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12 PSO-1 PSO-2 PSO-3
+CO-1 3 3 3 3 3 3 3 1 2 1 1 2 - - -
+CO-2 3 3 3 3 3 3 3 3 3 3 2 3 - - -
+CO-3 3 2 2 2 3 3 3 2 1 3 3 2 - - -
+CO-4 3 3 3 2 1 1 1 1 1 1 1 1 - - -
+UNIT-I:
+Introduction to Electrical Circuits: Circuits:Circuit Concept – Types of Elements-R-L-C
+parameters – Voltage and Current sources – Independent and dependent sources
+Source transformation – Voltage – Current relationship for passive elements. Kirchhoff’s
+laws – network reduction techniques – series, parallel, series parallel connections,
+Star/Delta transformation.
+UNIT-II:
+Mesh and Nodal Analysis:
+Mesh Analysis: Circuits with Independent and Dependant Voltage and current
+sources, Super Mesh Analysis- problems
+Nodal analysis: Circuits with Independent and Dependant Voltage and current
+sources, Super Node Analysis – problems
+UNIT-III:
+Single Phase AC Circuits: R.M.S, Average values and form factor for different periodic
+19
+wave forms, Concept of phasor, Phase and Phase difference, Rectangular and Polar
+form representation, Steady state analysis of series, parallel and series parallel
+combinations of R, L and C with sinusoidal excitation, Concept of Reactance,
+Impedance, Susceptance and Admittance, Complex power, Real and Reactive
+powers, Power factor, numerical problems.
+UNIT-IV:
+Resonance: series and parallel circuits, concept of band width and Q factor.
+Magnetic Circuits: Faraday’s laws of electromagnetic induction – concept of self and
+mutual inductance – dot convention – coefficient of coupling
+UNIT-V:
+Network Theorems: Superposition, Reciprocity, Thevenin’s, Norton’s, Maximum Power
+Transfer, and Compensation theorems for D.C. excitation, Duality and Dual networks
+TEXTBOOKS:
+1. Engineering Circuit Analysis, William Hayt and Jack E. Kemmerly, 8th Edition
+McGraw-Hill, 2013
+2. Circuit Theory, A. Chakrabarti, 6th Edition, Dhanpat Rai and Co., 2018
+3. Fundamentals of Electric Circuits, Charles K. Alexander, Mathew N. O. Sadiku, 3rd
+Edition, Tata McGraw-Hill, 2019
+REFERENCES:
+1. Network Analysis, M. E. Van Valkenburg, 3rd Edition, PHI, 2019
+2. Linear Circuit Analysis (Time Domain Phasor and Laplace Transform Approaches),
+Raymond A. Decarlo and Pen-min-lin, 2nd Edition, Oxford University Press, 2004
+3. Network Theory, N. C. Jagan and C. Lakshminarayana, 1st Edition, B. S. Publications,
+2012
+4. Electrical Circuit Theory, K. Rajeswaran, Pearson Education, 2004
+5. Circuits and Networks Analysis and Synthesis, A. Sudhakar, Shyammohan S. Palli,
+5th Edition, Tata McGraw-Hill, 2017
+20
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. I Semester
+(22ES2ME101) ENGINEERING WORKSHOP
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+1 2 2 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To know the different popular manufacturing process
+• To gain a good basic working knowledge required for the production of various
+engineering products
+• To provide hands on experience about use of different engineering materials,
+tools, equipment and processes those are common in the engineering field
+• To identify and use marking out tools, hand tools, measuring equipment and to
+work to prescribed tolerances
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand various types of manufacturing processes
+CO-2: Fabricate/make components from wood and steels through hands on
+experience
+CO-3: Understand different machining processes like turning, drilling, tapping, etc.
+CO-4: Understand electrical and electronic components and their assembly
+COURSE ARTICULATION MATRIX:
+(Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM SPECIFIC
+PROGRAM OUTCOMES (PO)
+OUTCOMES (PSO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12 PSO-1 PSO-2
+CO-1 2 2 2 2 2 1 2 1 3 2 1 2 3 2
+CO-2 2 1 2 2 2 1 2 1 3 2 1 2 3 2
+CO-3 2 2 2 2 2 1 2 1 3 2 1 2 3 2
+CO-4 2 1 2 2 2 1 2 1 3 2 1 2 3 2
+LECTURES & VIDEOS:
+1. Manufacturing Methods - Casting, Forming, Machining, Joining, Advanced
+Manufacturing Methods
+2. CNC Machining, Additive Manufacturing
+3. Fitting Operations & Power Tools
+4. Electrical & Electronics
+5. Carpentry
+6. Plastic Moulding, Glass Cutting
+7. Welding (Arc Welding & Gas Welding), Brazing
+8. Power Tools
+9. Printed Circuit Boards
+21
+LIST OF EXPERIMENTS:
+I. Carpentry
+i. Cross lap joint
+ii. Mortise & tenon joint
+II. Fitting
+i. Square fitting
+ii. L-fitting
+III. Arc Welding
+I. Butt joint
+II. Lap joint
+IV. Smithy
+i. Rectangular Tray (Tin smithy)
+ii. U-hook (Black smithy)
+V. Electrical & Electronics
+i. Single lamp connection & Stair case connection
+ii. Soldering and de-soldering on a PCB.
+VI. Machine Shop
+i. Step turning on lathe
+ii. Drilling & tapping
+TEXT BOOKS:
+1. Workshop Manual, P. Kannaiah and K. L. Narayana, 3rd Edition, Scitech, 2015
+2. Elements of Workshop Technology Vol. 1 & 2, S. K. Hajra Choudhury, A. K. Hajra
+Choudhury and Nirjhar Roy, 13th Edition, Media Promoters & Publishers Pvt. Ltd.,
+2010
+3. Printed Circuit Boards - Design, Fabrication, Assembly and Testing, R. S. Khandpur,
+Tata McGraw-Hill, 2005
+REFERENCES:
+1. Manufacturing Engineering and Technology, Serope Kalpakjian, Steven R. Schmid,
+4th Edition, Pearson Education India Edition, 2002
+2. Manufacturing Technology-I, S. Gowri, P. Hariharan and A. Suresh Babu, Pearson
+Education, 2008
+3. Processes and Materials of Manufacture, Roy A. Lindberg, 4th Edition, Prentice Hall
+India, 1998
+4. Manufacturing Technology Vol-1 & 2, P. N. Rao, Tata McGraw-Hill, 2017
+22
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. I Semester
+(22BS2PH102) APPLIED PHYSICS LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To understand the working principle of lasers and optical fibers
+• To analyze the characteristics of semiconductor devices and resonance
+phenomena
+• To measure the time constant of RC circuit and dielectric constant of material
+• To study the behavior of magnetic materials and understand least square method
+• To compare the experimental results with the classroom learning
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Demonstrate the total internal reflection in optical fiber using lasers
+CO-2: Realize importance of optoelectronics and resonance in daily life
+CO-3: Illustrate discharging of a capacitor and polarizability of dielectric material
+CO-4: Identify the importance of least square fitting and applications of magnetic
+materials
+CO-5: Correlate the experimental results with the classroom learning
+COURSE ARTICULATION MATRIX:
+(Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM SPECIFIC
+PROGRAM OUTCOMES (PO)
+OUTCOMES (PSO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12 PSO-1 PSO-2 PSO-3
+CO-1 3 2 1 - - 1 1 - 2 1 - 2 - - -
+CO-2 3 2 2 1 - 1 1 - 2 1 - 2 - - -
+CO-3 3 2 2 - - 1 1 - 2 1 - 2 - - -
+CO-4 3 2 1 1 - 1 1 - 2 1 - 2 - - -
+CO-5 3 2 1 - - 1 1 1 2 1 - 2 - - -
+LIST OF EXPERIMENTS:
+1. Torsional pendulum: understanding the method of least squares
+2. Determination of acceptance angle and numerical aperture of an optical fiber
+3. Determination of wavelength of given LASER using grating
+4. Determine the width of given wire- using LASER
+5. Determination of energy gap of a semiconductor
+6. V-I characteristics of light emitting diode (LED)
+7. V-I Characteristics of solar cell
+8. Measurement of dielectric constant
+9. Study the B-H curve of magnetic material
+10. Determination of time constant of RC circuit
+11. Melde’s Experiment
+23
+12. AC frequency sonometer
+TEXT BOOKS:
+1. Applied Physics Laboratory Manual/Observation, Physics Faculty of VNRVJIET
+2. A Textbook of Practical Physics, S. Balasubramanian, M. N. Srinivasan, S. Chand
+Publishers, 2017
+ONLINE RESOURCES:
+1. https://vlab.amrita.edu/index.php?sub=1&brch=189&sim=343&cnt=1
+2. https://vlab.amrita.edu/index.php?sub=1&brch=280&sim=1518&cnt=1
+24
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. I Semester
+(22ES2CS101) PROGRAMMING FOR PROBLEM SOLVING LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To gain a working knowledge of C programming to write modular, efficient and
+readable C programs by Identifying the structural elements and layout of C source
+code
+• To declare and manipulate single and multi-dimensional arrays of the C data types
+and derived data types like structures, unions
+• To use functions from the portable C library and to describe the techniques for
+creating program modules using functions and recursive functions
+• To manipulate character strings in C programs. Utilize pointers to efficiently solve
+problems
+COURSE OUTCOMES: After completion of the course, the student will be able to
+CO-1: Use various data types for a specified problem
+CO-2: Design, implement, debug a given problem using appropriate language
+constructs
+CO-3: Execute the programs using derived and user defined data types
+CO-4: Implement programs using modular approach and file I/O
+CO-5: Solve a given problem using C language
+COURSE ARTICULATION MATRIX:
+(Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM SPECIFIC
+PROGRAM OUTCOMES (PO)
+OUTCOMES (PSO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12 PSO-1 PSO-2
+CO-1 2 2 3 2 1 - - - 2 2 - 2 - -
+CO-2 2 2 3 2 1 1 - - 2 2 - 2 - -
+CO-3 1 2 3 1 1 1 - - 2 2 2 2 - -
+CO-4 1 2 3 1 1 1 - - 2 2 2 2 - -
+CO-5 2 2 2 2 1 1 - - 2 2 2 2 - -
+LIST OF PROGRAMS:
+WEEK 1:
+a. Programs on input, output statements
+b. Programs on various operators
+c. Programs on expression evaluation
+WEEK 2:
+a. Program that converts one given data type to another using auto conversion and
+casting. Take the values from standard input.
+25
+b. Programs on conditional statements- Simple if, if-else, Nested if-else, Else-if ladder,
+switch case
+WEEK 3:
+a. Programs on simple loops- while, for, do. while
+b. Programs on Nested loops- while, for, do. while
+c. Programs to understand goto, break, continue
+WEEK 4:
+a. Programs on 1-D arrays
+b. Programs on linear, binary searching
+c. Programs on bubble, selection and insertion sorting
+WEEK 5:
+a. Programs on 1-D strings
+b. Programs using string handling functions
+WEEK 6:
+a. Programs on 2-D arrays
+b. Programs on 2-D strings
+WEEK 7:
+a. Programs on user defined functions
+b. Programs on passing arrays and strings to functions
+WEEK 8: Internal Lab Exam -1
+WEEK 9:
+a. Programs on recursion
+b. Programs on structures – simple structure, array of structures, array within structure,
+nested structure
+c. Programs on Unions
+WEEK 10:
+Programs on pointers to variables
+a. Programs on pointers to arrays(1-D, 2-D)
+WEEK 11:
+a. Program to understand call by value and call by address
+b. Programs on pointers to strings
+c. Programs on pointers to structure
+d. Programs using malloc, calloc , realloc, free
+WEEK 12:
+a. Programs on macros, file inclusion, enum , typedef
+b. Programs on sequential file accessing
+WEEK 13:
+a. Programs on error handling functions in files
+b. Programs on Random file accessing
+26
+c. Programs on command line arguments
+WEEK 14: Lab Internal Exam -2
+TEXT BOOKS:
+1. The C Programming Language, Brian W. Kernighan and Dennis M. Ritchie, Prentice
+Hall of India
+2. C Programming and Data Structures, B. A. Forouzan and R. F. Gilberg, 3rd Edition,
+Cengage Learning
+3. C: The Complete Reference, Herbert Schildt, 4th Edition, McGraw-Hill
+REFERENCES:
+1. Problem Solving and Program Design in C, Jeri R. Hanly and Elliot B. Koffman, 7th
+Edition, Pearson Education
+2. Computer Fundamentals and C, E. Balagurusamy, 2nd Edition, McGraw-Hill
+3. Let us C, Yashwant Kanetkar, 18th Edition, BPB
+4. How to Solve it by Computer, R. G. Dromey, 16th Impression, Pearson Education
+5. Programming in C, Stephen G. Kochan, 4th Edition, Pearson Education
+ONLINE RESOURCES:
+1. https://nptel.ac.in/courses/106105171
+2. https://ugcmoocs.inflibnet.ac.in/index.php/courses/view_ug/307
+27
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. I Semester
+(22HS2EN101) ENGLISH LANGUAGE AND COMMUNICATION SKILLS LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To train students to use neutral accent through phonetic sounds, symbols, stress
+and intonation
+• To provide practice in vocabulary usage & grammatical construction
+• To provide ample practice in LSRW skills and train the students in oral presentations,
+public speaking, role play, and situational dialogue
+• To provide practice in defining technical terms and describing processes
+• To equip students with excellent writing skills and information transfer skills
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Speak fluently with a neutral accent
+CO-2: Use contextually apt vocabulary and sentence structures
+CO-3: Make Presentations with great confidence
+CO-4: Define technical terms and describe processes
+CO-5: Write accurately, coherently, and lucidly
+COURSE ARTICULATION MATRIX:
+(Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM SPECIFIC
+PROGRAM OUTCOMES (PO)
+OUTCOMES (PSO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12 PSO-1 PSO-2
+CO-1 - - - - - - - - 2 3 1 1 - -
+CO-2 1 1 1 1 3 1 1 1 2 3 1 1 - -
+CO-3 1 1 - - - 2 2 - 3 3 3 1 - -
+CO-4 2 2 2 2 - 2 2 - 2 3 1 1 - -
+CO-5 1 1 1 1 - 2 1 - 2 3 2 1 - -
+LIST OF EXERCISES:
+1. Self-Introduction
+2. Phonetics- Identifying sounds-Word stress- Intonation
+3. Reading Comprehension – Reading for Gist & for Specific Details; Making
+inferences
+4. Story Telling
+5. Making Short Oral Presentations
+6. Listening Comprehension- Listening for Global meaning & specific details; note
+taking
+7. Learning vocabulary from context
+8. Book Review
+9. Writing Resume and CV
+28
+10. Information Transfer
+11. Social Media Skills – Writing a Blog
+12. Defining Technical Terms and Describing Processes
+TEXT BOOKS:
+1. Technical Communication, Rebecca E. Burnett, 6th Edition, Cengage Learning
+REFERENCES:
+1. Practical English Usage, Swan, Michael, Oxford University Press, 1995
+2. Remedial English Grammar, F. T. Wood, Macmillan, 2007
+3. Exercises in Spoken English, Parts I-III, CIEFL, Hyderabad, Oxford University Press
+4. Fowler’s Modern English Usage-Revised, R. W. Burchfield
+5. Technical Communication, Raman, Meenakshi and Sharma, Sangeeta, Oxford
+University Press, 2005
+ONLINE RESOURCES:
+1. https://caw.ceu.edu/academic-skills
+2. https://www.biz-e-training.com/resources-for-learners/academic-writing-online-
+resources/
+29
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. I Semester
+(22SD5EC101) ELEMENTS OF ELECTRONICS AND COMMUNICATION ENGINEERING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP VV SEE TOTAL
+0 2 1 10 10 10 10 10 - 50
+COURSE OBJECTIVES:
+• To identify various active and passive components
+• To understand the functionality of various measuring instruments
+• To know the characteristics of various signal used for analog and digital
+communications
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Identify and analyse various devices used for electronic applications
+CO-2: Measure different parameters using various measuring instruments
+CO-3: Distinguish various signals used for analog and digital communications
+COURSE ARTICULATION MATRIX:
+(Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM SPECIFIC
+PROGRAM OUTCOMES (PO)
+OUTCOMES (PSO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12 PSO-1 PSO-2 PSO-3
+CO-1 3 2 1 1 - - - - 3 2 - - 3 - -
+CO-2 3 2 3 2 - - - - 3 2 - - 3 - -
+CO-3 3 3 2 1 - - - - 3 2 - - 3 - -
+LIST OF EXPERIMENTS:
+1. Understand the significance of Electronics and communications subjects
+2. Identify the different passive and active components
+3. Color code of resistors, finding the types and values of capacitors
+4. Measure the voltage and current using voltmeter and ammeter
+5. Measure the voltage, current with Multimeter and study the other measurements
+using Multimeter
+6. Study the CRO and measure the frequency and phase of given signal
+7. Draw the various Lissajous figures using CRO
+8. Study the function generator for various signal generations
+9. Study of Spectrum analyzer and measure the spectrum
+10. Operate Regulated power supply for different supply voltages
+11. Study the various gates module and write down the truth table of them
+12. Identify various Digital and Analog ICs
+13. Observe the various types of modulated signals.
+14. Know the available Software’s for Electronics and communication applications
+15. Identification, Specification, testing of Potentiometer (SPDT, DPDT and DIP), Coils,
+Gang Condensers, Relays, Bread Board, PCB.
+30
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. II Semester
+(22BS1MT102) ORDINARY DIFFERENTIAL EQUATIONS AND VECTOR CALCULUS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+2 1 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Differentiation, Integration, Vectors, Vector Point Function
+COURSE OBJECTIVES:
+• To methods of solving first order differential equations and learn about its
+applications to basic engineering problems
+• To methods of solving higher order differential equations and learn about its
+applications to basic engineering problems
+• To application of Laplace transforms in solving differential equations
+• To basic properties of vector point function and their applications to line, surface
+and volume integrals
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Formulate and solve the problems of first order differential equations
+CO-2: Solve the problems of second and higher order differential equations
+CO-3: Apply knowledge of Laplace transform to solve differential equations
+CO-4: Find the gradient, divergence, curl and its physical interpretations
+CO-5: Transform line integral to surface and surface to volume integrals
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM SPECIFIC
+PROGRAM OUTCOMES (PO)
+OUTCOMES (PSO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12 PSO-1 PSO-2 PSO-3
+CO-1 3 2 1 - - 1 1 - 2 1 - 2 - - -
+CO-2 3 2 2 1 - 1 1 - 2 1 - 2 - - -
+CO-3 3 2 2 - - 1 1 - 2 1 - 2 - - -
+CO-4 3 2 1 1 - 1 1 - 2 1 - 2 - - -
+CO-5 3 2 1 - - 1 1 1 2 1 - 2 - - -
+UNIT-I:
+First Order, First Degree ODE and its Applications:
+Differential Equations of First Order and First Degree: Exact and non-exact differential
+equations, Linear and Bernoulli differential equations, Applications of differential
+equations of first order and first degree: Newton’s law of cooling, Law of natural
+growth and decay.
+31
+UNIT-II:
+Second and Higher Order Ordinary Differential Equations: Higher order linear
+differential equations with constant coefficients - Solution of Homogenous, Non
+homogeneous differential equations-Non-Homogeneous terms of the type eax,sin
+(ax), cos (ax), polynomials in x, eaxV(x), xV(x).Variable coefficient differential
+equations-Method of variation of parameters, Euler-Cauchy differential equation.
+UNIT-III:
+Laplace Transforms: Laplace transforms, Existence condition, Laplace transform of
+Elementary functions, Properties of Laplace transforms (Without Proofs), Laplace
+transform of special functions (Unit step function, Dirac delta function and Periodic
+function). Inverse Laplace transform and its properties, Convolution theorem (without
+proof) and its applications, solving linear differential equations with constant
+coefficients using Laplace transform.
+UNIT-IV:
+Vector Differential Calculus: Vector point functions and scalar point functions.
+Gradient and its physical interpretation, Angle between the two surfaces, Directional
+derivatives, Divergence, Curl and their physical interpretations, Solenoidal vectors and
+Irrotational vectors, Scalar potential functions, Vector Identities (without proofs).
+UNIT-V:
+Vector Integral Calculus
+Line Integrals: Work done by force and circulation, Evaluation of Surface and Volume
+Integrals. Vector integral theorems: Green’s theorem, Gauss-Divergence theorem,
+Stokes theorem (without proofs) and their problems.
+TEXT BOOKS:
+1. Advanced Engineering Mathematics, R. K. Jain and S. R. K. Iyengar, Narosa
+Publications
+2. Higher Engineering Mathematics, B.V. Ramana, 11th Reprint, Tata McGraw-Hill,
+2010
+3. Advanced Engineering Mathematics, Erwin Kreyszig, 9th Edition, John Wiley
+REFERENCES:
+1. Advanced Engineering Mathematics, Peter ‘O’ Neil, Cengage Learning
+2. Engineering Mathematics, N. P. Bali, 4th Edition, Laxmi Publications
+3. Calculus and Analytic Geometry, G. B. Thomas and R. L. Finney, 9th Edition, Pearson
+Education, 2002
+32
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. II Semester
+(22BS1CH102) CHEMISTRY FOR ENGINEERS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: General Chemistry and Basic Mathematics
+COURSE OBJECTIVES:
+• To analyze the quality of water for sustainable living
+• To acquire the knowledge about polymer science and its applications in various
+fields
+• To outline the importance of non-conventional energy sources and portable
+electric devices
+• To imbibe the conceptual knowledge of corrosion science
+• To recognize the significance of engineering materials for multidisciplinary environs
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Assess the specification of water regarding its usage in domestic & Industrial
+scenarios
+CO-2: Analyze the efficacy of polymers in diverse applications
+CO-3: Recognize the transformations in energy sources & battery technology
+CO-4: Predict the suitable corrosion control methods in safeguarding the structures
+CO-5: Interpret the role of engineering materials in various sectors
+COURSE ARTICULATION MATRIX:
+(Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM SPECIFIC
+PROGRAM OUTCOMES (PO)
+OUTCOMES (PSO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12 PSO-1 PSO-2
+CO-1 3 2 1 - - 1 1 - 2 1 - 2 - -
+CO-2 3 2 2 1 - 1 1 - 2 1 - 2 - -
+CO-3 3 2 2 - - 1 1 - 2 1 - 2 - -
+CO-4 3 2 1 1 - 1 1 - 2 1 - 2 - -
+CO-5 3 2 1 - - 1 1 1 2 1 - 2 - -
+UNIT-I:
+Water and its Treatment: Introduction- Hardness - causes, expression of hardness, units
+of hardness, types of hardness, Numerical problems (temporary & permanent
+hardness of water). Estimation of hardness by EDTA method.
+Potable water and its specifications. Steps involved in the treatment of potable water
+– screening, sedimentation, coagulation, filtration, and disinfection methods- boiling,
+chlorination (By Chlorine gas, Bleaching powder, Chloramine), Breakpoint of
+chlorination.
+Boiler troubles - boiler corrosion, caustic embrittlement, scale & sludge formation.
+Internal treatment- Calgon, phosphate, and colloidal conditioning, External
+33
+treatment - Softening of water by ion- exchange processes. Desalination of brackish
+water – Reverse osmosis and its advantages.
+UNIT-II:
+Polymer Science: Definition – Classification of polymers with examples, Types of
+polymerizations, addition, and condensation polymerization with examples. Properties
+of polymers-crystallinity & glass transition temperature.
+Plastics: Definition and characteristics-thermoplastic and thermosetting plastics,
+Preparation, Properties, and applications of Teflon, PMMA, PC, PET, Bakelite.
+Moulding of Plastics (Compression, Extrusion, Blow moulding and Thermoforming).
+Fiber reinforced plastics (FRP)-features & applications.
+Conducting Polymers: Classification and applications of conducting polymers.
+Shape Memory Polymers (SMPs): Definition, classification based on their mode of
+activation (thermo-responsive, light-responsive, electrically, magnetically Induced
+and water activated -brief note) and applications of SMPs in various fields.
+UNIT-III:
+Energy Sources & Battery Technology: Definition and characteristics of fuel, Types of
+fuels, analysis of coal – proximate and ultimate analysis. Petroleum and its Refining
+Cracking- Definition, types -moving bed catalytic cracking process. Knocking –
+octane and cetane rating, Gaseous fuels –Types of hydrogen fuel, generation of
+green hydrogen-mechanism of electrolysis of water.
+Battery Technology: Definition, Characteristics of a good battery, Classification of
+batteries- primary, secondary, reserve and fuel cells with examples.
+Primary Batteries: Zn-air battery-Construction and working.
+Rechargeable batteries: Construction and working of lithium-ion battery and its
+importance in electric vehicles.
+Fuel Cell: Definition, construction, working, principle, and applications of methanol-
+oxygen fuel cell.
+UNIT-IV:
+Corrosion and its Control: Introduction causes and effects of corrosion, mechanism of
+chemical and electrochemical corrosion. Types-differential aeration corrosion (Pitting
+and waterline corrosion), differential metal corrosion (Galvanic corrosion).
+Factors affecting corrosion-nature of metal (position, passivity, purity, areas of anode
+and cathode) & nature of environment (temperature, pH, humidity).
+Corrosion control methods - cathodic protection-Sacrificial anodic and impressed
+current cathodic protection, comparison of galvanizing and tinning.
+UNIT-V:
+Engineering Materials:
+Nanomaterials: Definition, Synthesis of nanomaterials- Top-down and bottom-up
+approaches. Characterization techniques of Nanomaterials – STM and AFM working
+principle, advantages, and limitations.
+Self-Healing Materials: Features, principle, and applications.
+Biosensors: Definition, characteristics, classification-, construction & working,
+applications and advantages of biosensors. Biochips -Definition, advantages, and
+applications.
+Lubricants: Definition and need for lubricants, types- liquid, semi-solid, solid,
+mechanisms of lubrication-thick film lubrication, thin film lubrication and extreme
+pressure lubrication. Properties of lubricants-viscosity, cloud and pour point, flash and
+fire point, their definition and significance.
+34
+TEXT BOOKS:
+1. Engineering Chemistry, P. C. Jain and M. Jain, Dhanpat Rai Publishing Company,
+2010
+2. Engineering Chemistry, Rama Devi, Venkata Ramana Reddy and Rath, Cengage
+Learning, 2016
+REFERENCES:
+1. Engineering Chemistry, Shikha Agarwal, Cambridge University Press, 2015
+2. Engineering Chemistry, Shashi Chawla, Dhanpat Rai, 2011
+3. A Textbook of Engineering Chemistry, M. Thirumala Chary, E. Laxminarayana and
+K. Shashikala, Pearson Publications, 2021
+4. Textbook of Engineering Chemistry, Jaya Shree Anireddy, Wiley Publications
+35
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. II Semester
+(22ES1EE105) BASIC ELECTRICAL ENGINEERING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+2 0 2 30 5 5 60 100
+COURSE PRE-REQUISITES: Electric Circuits, Calculus for Engineers
+COURSE OBJECTIVES:
+• To analyze transient response of circuits with dc excitation
+• To understand two port network parameters, filters and attenuators
+• To know about performance of DC machines
+• To understand the operation of transformers and AC machines
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Analyze transient response of circuits
+CO-2: Evaluate two port parameters and design simple filters
+CO-3: Appreciate the working of DC machines
+CO-4: Understand the operation of transformers and AC machines
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM SPECIFIC
+PROGRAM OUTCOMES (PO)
+OUTCOMES (PSO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12 PSO-1 PSO-2 PSO-3
+CO-1 3 3 3 3 3 2 2 1 2 1 1 2 3 2 -
+CO-2 3 3 3 3 3 2 1 1 1 1 1 2 3 2 -
+CO-3 3 3 3 3 3 2 1 1 1 1 1 2 3 2 -
+CO-4 3 3 3 3 3 2 1 1 1 1 1 2 3 2 -
+UNIT-I:
+Transient Analysis (First and Second Order Circuits): Transient Response of RL, RC and
+RLC Circuits for DC excitations, Initial Conditions, Solution using Differential Equations
+approach and Laplace Transform Method.
+UNIT-II:
+Two Port Networks: Impedance Parameters, Admittance Parameters, Hybrid
+Parameters, Transmission (ABCD) Parameters, Conversion of one Parameter to
+another, Conditions for Reciprocity and Symmetry, Interconnection of Two Port
+networks in cascde configuration
+UNIT-III:
+Filters: Classification of Filters, Classification of Pass band and Stop band,
+Characteristic Impedance in the Pass and Stop Bands, Constant-k and mderived
+filters-Low Pass Filter and High Pass Filters.
+36
+UNIT-IV:
+DC Generators: Principles of Operation, construction, EMF equation, Types of
+Generators, Magnetization Characteristics of DC Generators.
+DC Motors: Principle, Types of Dc Motors, speed –Torque Characteristics of Dc shunt
+Motor, Losses and Efficiency, Swinburne‘s Test, Speed Control of Dc Shunt Motor- Flux
+and Armature Voltage control methods.
+UNIT-V:
+Transformers: Principle of Operation, Types, Constructional Features, Phasor Diagram
+on No Load and Load, Equivalent Circuit, Losses, Efficiency and Regulation of
+Transformer, Simple Problems
+Three Phase Induction Motor: Principle of operation -types, torque-Slip characteristics.
+Alternators: Principle of operation.
+TEXT BOOKS:
+1. Principles of Electrical Engineering, A. Sudhakar, Shyammohan S. Palli, 8th Edition,
+TMH, 2011
+2. Introduction to Electrical Engineering, M. S. Naidu and S. Kamakshaiah, TMH, 2017
+3. Network Analysis and Synthesis, C. L. Wadhwa, 3rd Edition, New Age International,
+2018
+REFERENCES:
+1. Engineering Network Analysis and Filter Design, Gopal G. Bhise, Prem R. Chadha &
+Durgesh C. Kulshreshtha Gopal, 1st Edition, Umesh Publication, 1999
+2. Engineering Circuit Analysis, W. H. Hayt, J. E. Kemmerly and S. M. Durbin, 8th Edition,
+McGraw-Hill, 2013
+3. Circuit Theory, A. Chakrabarti, 6th Edition, Dhanpat Rai and Co., 2018
+4. Network Analysis, N. C. Jagan and C. Lakshmi Narayana, 1st Edition, B. S.
+Publications, 2012
+5. Circuits and Networks Analysis and Synthesis, A. Sudhakar, Shyammohan S. Palli, 5th
+Edition, Tata McGraw-Hill, 2010
+37
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. II Semester
+(22PC1EC101) ELECTRONIC DEVICES AND CIRCUITS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Engineering Physics
+COURSE OBJECTIVES:
+• To understand the construction, principle of operation and characteristics of
+various semiconductor devices
+• To study the applications of various semiconductor devices
+• To learn the biasing techniques of semiconductor devices
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Know the principle of operation of Diode and its applications
+CO-2: Acquire knowledge about Special purpose Devices
+CO-3: Understand the principle of operation of BJT, JFET and MOSFET
+CO-4: Appreciate the need for biasing and stabilization
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM SPECIFIC
+PROGRAM OUTCOMES (PO)
+OUTCOMES (PSO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12 PSO-1 PSO-2 PSO-3
+CO-1 3 2 1 - - - - - - - - - 2 - -
+CO-2 3 1 - - - - - - - - - - 1 - -
+CO-3 3 2 2 - - - - - - - - - 2 - -
+CO-4 3 3 2 - - - - - - - - - 2 - -
+UNIT-I:
+PN-Junction Diode: Formation of p-n Junction as a Diode, Derivation of Diode Current
+Equation, Volt-Ampere Characteristics, Ideal and Practical Diode Equivalent Circuits,
+Diffusion and Transition Capacitances, Diode as a Switch, Breakdown Mechanisms in
+Semi-Conductor Diodes, Zener Diode and its Characteristics, Zener diode as Voltage
+Regulator.
+UNIT-II:
+Diode Applications: Half wave Rectifier, Full wave rectifier, Bridge Rectifier, Rectifiers
+with Capacitor filters, Inductor filters and π- section filters.
+Special Purpose Devices: Principle of Operation and Characteristics Tunnel Diode,
+UJT, Varactor Diode, Photo Diode, LED, SCR and LCD.
+UNIT-III:
+Bipolar Junction Transistor (BJT): Principle of Operation, Common Emitter, Common
+Base and Common Collector Configurations-input and output characteristics,
+Transistor as a switch and amplifier.
+38
+UNIT-IV:
+Junction Field Effect Transistor (FET): Construction and operation of Junction Field
+Effect Transistor (JFET), Volt-Ampere characteristics- Drain and Transfer Characteristics,
+Comparison of BJT and FET, FET as Voltage Variable Resistor, Construction and
+operation of MOSFET, MOSFET characteristics in Enhancement and Depletion modes,
+MOSTET as a capacitor.
+UNIT-V:
+Transistor Biasing: BJT Biasing and Stabilization - Operating point, DC & AC load lines,
+Biasing - Fixed Bias, Self Bias, Bias Stability, Bias Compensation using Diode.
+FET- Biasing Techniques
+TEXT BOOKS:
+1. Electronic Devices and Circuits, J. Millman, C. Halkias and Satyabrata Jit, 4th
+Edition, Tata McGraw-Hill, 2015
+2. Electronic Devices and Circuits, R. L. Boylestad and Louis Nashelsky, 11th Edition,
+Pearson/Prentice Hall, 2016
+REFERENCES:
+1. Electronic Devices and Circuits, David A. Bell, 5th Edition, Oxford
+2. Basic Electronics, Principles and Applications, Chinmoy Saha, Arindam Halder,
+Debaati Ganguly, Cambridge, 2018
+39
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. II Semester
+(22ES1CS102) DATA STRUCTURES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To introduce various searching and sorting techniques
+• To demonstrate operations of linear and non-linear data structure
+• To develop an application using suitable data structure
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand basic concepts of data structures and analyse computation
+complexity
+CO-2: Apply linear data structures to implement various sorting, searching techniques
+CO-3: Solve the given problem using linear data structures
+CO-4: Execute the given problem using non-linear data structures
+CO-5: Analyze appropriate and efficient data structure to implement a given problem
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM SPECIFIC
+PROGRAM OUTCOMES (PO)
+OUTCOMES (PSO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12 PSO-1 PSO-2 PSO-3
+CO-1 3 3 - - 3 - - - - 2 - 2 3 2 2
+CO-2 3 3 2 2 3 - - - 2 2 - 2 2 3 2
+CO-3 3 3 2 2 3 - - - 2 2 - 2 2 3 3
+CO-4 3 3 2 2 3 - - - 2 2 - 2 2 3 3
+CO-5 3 3 3 2 3 2 2 2 3 3 1 2 3 3 3
+UNIT-I:
+Introduction to Data Structures: Abstract Data Types (ADT), Asymptotic Notations.
+Time- Space trade off. Searching: Linear Search and Binary Search Techniques and
+their time complexities.
+Linear Data Structures: Stacks - ADT Stack and its operations: Applications of Stacks:
+Recursion, Expression Conversion and evaluation.
+UNIT-II:
+Linear Data Structures: Queues - ADT queue, Types of Queue: Linear Queue, Circular
+Queue, Double ended queue, operations on each types of Queues
+Linked Lists: Singly linked lists: Representation in memory, Operations: Traversing,
+Searching, insertion, Deletion from linked list; Linked representation of Stack and
+Queue.
+Doubly Linked List, Circular Linked Lists: All operations
+40
+UNIT-III:
+Trees: Basic Tree Terminologies, Different types of Trees: Binary Tree, Binary Search Tree,
+AVL Tree; Tree Operations on each of the trees and their algorithms with time
+complexities.
+B-Trees: Definition, Operations.
+UNIT-IV:
+Priority Queue: Definition, Operations and their time complexities.
+Sorting: Objective and properties of different sorting algorithms: Quick Sort, Heap Sort,
+Merge Sort; Radix sort
+UNIT-V:
+Dictionaries: Definition, ADT, Linear List representation, operations- insertion, deletion
+and searching, Hash Table representation, Hash function-Division Method, Collision
+Resolution Techniques-Separate Chaining, open addressing-linear probing, quadratic
+probing, double hashing, Rehashing.
+Graphs: Graph terminology –Representation of graphs –Graph Traversal: BFS (breadth
+first search) –DFS (depth first search) –Minimum Spanning Tree.
+TEXT BOOKS:
+1. Fundamental of Data Structure, Horowitz and Sahani, Galgotia Publication
+2. Data Structure, Lipschutz, Schaum Series
+3. Data Structures and Algorithms, Alfred V. Aho, John E. Hopperoft, Jeffrey D. UIlman
+REFERENCES:
+1. Algorithms, Data Structures, and Problem Solving with C++, Mark Allen Weiss,
+Addison-Wesley
+2. How to Solve it by Computer, 2nd Impression, R. G. Dromey, Pearson Education
+3. Introduction to Algorithms, Cormen, Leiserson and Rivest
+4. Data Structures: A Pseudo-code Approach with C, Gilberg & Forouzan, Thomson
+Learning
+5. Data Structures using C & C++, Ten Baum, Prentice-Hall International
+ONLINE RESOURCES:
+1. https://nptel.ac.in/courses/106102064
+2. https://onlinecourses.swayam2.ac.in/cec19_cs04/preview
+41
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. II Semester
+(22ES3ME102) ENGINEERING DRAWING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D SE CP SEE TOTAL
+0 4 2 10 20 10 60 100
+COURSE OBJECTIVES:
+• To understand the importance of engineering curves
+• To learn to use the orthographic projections for points, lines and planes
+• To Understand the projections of solids in different positions
+• To learn the importance of isometric projections and its conversions
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply the concepts of engineering curves and its construction using AutoCAD
+CO-2: Solve the problems of projections of points, lines and planes in different positions
+using AutoCAD
+CO-3: Solve the problems of projections of solids using AutoCAD
+CO-4: Solve the problems on conversion of isometric views to orthographic views &
+orthographic to isometric views using AutoCAD
+COURSE ARTICULATION MATRIX:
+(Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM SPECIFIC
+PROGRAM OUTCOMES (PO)
+OUTCOMES (PSO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12 PSO-1 PSO-2 PSO-3
+CO-1 3 2 2 1 3 - - - 3 2 2 - - - -
+CO-2 3 2 2 1 3 - - - 3 2 2 - - - -
+CO-3 3 2 2 1 3 - - - 3 2 2 - - - -
+CO-4 3 2 2 1 3 - - - 3 2 2 - - - -
+Introduction to AutoCAD Software:
+The Menu System, Toolbars (Standard, Object Properties, Draw, Modify and
+Dimension), Drawing Area (Background, Crosshairs, Coordinate System), Dialog boxes
+and windows, Shortcut menus (Button Bars), The Command Line, The Status Bar,
+Different methods of zoom as used in CAD, Select and erase objects
+UNIT-I:
+Introduction to Engineering Drawing: Principles of Engineering drawing and their
+significance and Conventions
+Engineering Curves: Construction of Ellipse, Parabola and Hyperbola – General and
+Special methods; Cycloidal curves- Epicycloids and Hypocycloids
+UNIT-II:
+Orthographic Projections, Projections of Points & Straight Lines: Principles of
+Orthographic Projections – Conventions; Projections of Points in all positions;
+Projections of lines inclined to both the planes
+42
+UNIT-III:
+Projections of Planes: Projections of Planes- Surface Inclined to both the Planes
+UNIT-IV:
+Projections of Regular Solids: Projections of Regular Solids inclined to both the Planes
+– Prisms, Pyramids, Cylinder and Cone
+UNIT-V:
+Isometric Projections: Principles of Isometric projection – Isometric Scale, Isometric
+Views, Conventions; Isometric Views of lines, Planes, Simple and Compound Solids
+Conversion of Isometric Views to Orthographic Views and Vice-versa, Conventions
+TEXT BOOKS:
+1. Engineering Drawing, N. D. Bhatt, 53rd Edition, Charotar Publishing House, 2016
+2. Textbook on Engineering Drawing, K. L. Narayana & P. Kannaiah, Scitech
+Publishers, 2010
+3. Engineering Drawing and Computer Graphics, M. B. Shah & B. C. Rana, Pearson
+Education, 2010
+REFERENCES:
+1. Mastering AutoCAD 2021 and AutoCAD LT 2021, George Omura and Brian C
+Benton (AutoCAD 2021), 1st Edition, John Wiley & Sons
+ONLINE RESOURCES:
+1. https://www.classcentral.com/course/swayam-engineering-graphics-5305
+2. https://www.mooc-list.com/tags/engineering-drawing
+43
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. II Semester
+(22ES2EE105) BASIC ELECTRICAL ENGINEERING LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE PRE-REQUISITES: Electrical Circuits
+COURSE OBJECTIVES:
+• To understand the construction of electrical equipment
+• To apply different circuit reduction techniques using theorems
+• To analyze the transient and steady state behavior of the RLC networks
+• To practice the techniques to control and assess electrical machines
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Identify different parts of electrical equipment and appreciate their purpose
+CO-2: Apply different network theorems to solve complex electrical circuits
+CO-3: Analyze the transient and steady state behavior of the RLC networks
+CO-4: Realize the compatibility of electrical machines in different engineering fields
+CO-5: Control different electrical machines and evaluate their performance
+COURSE ARTICULATION MATRIX:
+(Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM SPECIFIC
+PROGRAM OUTCOMES (PO)
+OUTCOMES (PSO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12 PSO-1 PSO-2 PSO-3
+CO-1 2 3 3 3 2 1 1 1 1 1 1 1 1 2 3
+CO-2 2 3 3 3 2 1 1 1 1 1 1 1 1 2 3
+CO-3 3 2 3 2 1 1 1 1 1 1 1 1 2 2 3
+CO-4 1 1 1 1 1 3 3 1 1 1 1 1 2 2 3
+CO-5 3 2 3 2 1 1 1 1 1 1 1 1 1 2 3
+LIST OF EXPERIMENTS:
+1. Verification of superposition and reciprocity theorems.
+2. Verification of maximum power transfer theorem.
+3. Verification of Thevenin‘s and Norton‘s theorems
+4. Analysis of series RL, RC and RLC circuits.
+5. Series resonant frequency, bandwidth and Q-factor determination for RLC
+network.
+6. Time response of RC and RL circuits.
+7. Two port network parameters –Z and Y-parameters.
+8. Load test on 1- ϕ transformer.
+9. Speed control of DC shunt motor.
+10. Torque-Speed characteristics of separately excited DC motor.
+11. Brake test on 3- ϕ Induction motor.
+12. Control of synchronous generator voltage through its field excitation.
+44
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. II Semester
+(22PC2EC101) ELECTRONIC DEVICES AND CIRCUITS LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE PRE-REQUISITES: Engineering Physics
+COURSE OBJECTIVES:
+• To know the characteristics of various active devices
+• To verify the operation of Special purpose devices
+• To verify the applications of semiconductor devices
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Analyze the characteristics of various semiconductor devices
+CO-2: Implement the applications using electronic devices
+CO-3: Verify the operation of Special purpose devices
+COURSE ARTICULATION MATRIX:
+(Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM SPECIFIC
+PROGRAM OUTCOMES (PO)
+OUTCOMES (PSO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12 PSO-1 PSO-2 PSO-3
+CO-1 3 3 1 - - - - - 3 2 2 - 3 - -
+CO-2 3 2 2 - - - - - 3 2 2 - 3 - -
+CO-3 2 1 - - - - - - 3 2 2 - 2 - -
+LIST OF EXPERIMENTS:
+Verify any twelve experiments in H/W Laboratory
+1. V-I characteristics of PN junction diode under forward and reverse bias
+2. V-I characteristics of Zener diode and Zener voltage regulator
+3. Half wave Rectifier without filter and with π filter.
+4. Full wave Rectifier without filter and with π filter.
+5. Characteristics of UJT
+6. SCR Characteristics.
+7. Photo diode characteristics
+8. LED Characteristics
+9. Input and Output characteristics of CE transistor configuration
+10. Input and Output characteristics of CB transistor configuration
+11. Characteristics of FET under CS configuration
+12. Characteristics of MOS FET in CS Configuration
+13. Transistor as a switch
+45
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. II Semester
+(22BS2CH101) ENGINEERING CHEMISTRY LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE PRE-REQUISITES: Basic knowledge of Volumetric Analysis and Mathematics
+COURSE OBJECTIVES:
+• To understand the preparation of standard solutions and handling of instruments
+• To determine and evaluate the water quality
+• To measure physical properties like absorption of light, surface tension, pH,
+conductance and viscosity of various liquids
+• To conduct and collect the experimental data using different laboratory
+techniques
+• To summarize the data and find the applicability to real world scenario
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Learn and apply the basic laboratory methodologies for the preparation of the
+standard solutions and handling of instruments
+CO-2: Estimate the ions / metal ions present in domestic and industrial water
+CO-3: Utilize the instrumental techniques to assess the physical properties of oils and
+water
+CO-4: Analyze the experimental data to predict solutions for complex engineering
+problems
+CO-5: Apply the skills gained to solve societal issues related to real world scenario
+COURSE ARTICULATION MATRIX:
+(Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM SPECIFIC
+PROGRAM OUTCOMES (PO)
+OUTCOMES (PSO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12 PSO-1 PSO-2
+CO-1 3 2 1 - - 1 1 - 2 1 - 2 - -
+CO-2 3 2 2 1 - 1 1 - 2 1 - 2 - -
+CO-3 3 2 2 - - 1 1 - 2 1 - 2 - -
+CO-4 3 2 1 1 - 1 1 - 2 1 - 2 - -
+CO-5 3 2 1 - - 1 1 1 2 1 - 2 - -
+LIST OF EXPERIMENTS:
+1. Estimation of hardness of water by complexometric method using EDTA.
+2. Determination of chloride content in the given sample water using Argentometric
+method.
+3. Estimation of copper present in the given solution by colorimetric method.
+4. Conductometric titration of Acid vs Base.
+5. Titration of Acid vs Base using pH metric method.
+46
+6. Conductometric titration of mixture of strong acid and weak acid by strong base
+7. Determination of viscosity of sample oil by Redwood Viscometer-I.
+8. Estimation of acid value of given lubricant oil.
+9. Determination of surface tension of a liquid by drop method using Stalagmometer.
+10. Synthesis of a Polymer-Bakelite/Nylon.
+VIRTUAL LAB EXPERIMENTS:
+11. Basic operations of Transmission Electron Microscope (Imaging and Diffraction
+Pattern)
+12. Polymer processing technology- study construction and working of compression
+moulding.
+13. Basics of Scanning Electron Microscopy: Secondary Electron and BSE imaging
+mode.
+14. Batteries for electrical vehicles
+TEXT BOOKS:
+1. Laboratory Manual on Engineering Chemistry, S. K. Bhasin and Sudha Rani,
+Dhanpat Rai Publications
+2. College Practical Chemistry V. K. Ahluwalia, Sunitha Dhingra, Adargh Gulati,
+University Press
+3. Practical Chemistry, Dr. O. P. Pandey, D. N. Bajpai, and Dr. S. Giri, S. Chand
+Publications
+REFERENCES:
+1. Vogel’s Text Book of Quantitative Chemical Analysis, G. N. Jeffery, J. Bassett, J.
+Mendham and R. C. Denny, Longmann, ELBS
+2. Advanced Practical Physical Chemistry, J. D. Yadav, Goel Publishing House
+3. Practical Physical Chemistry, B. D. Khosla, R. Chand and Sons
+ONLINE RESOURCES: (Virtual labs)
+1. https://emb-iitk.vlabs.ac.in/exp/transmission-electron-microscope
+2. http://vlabs.iitb.ac.in/vlabs-
+dev/labs/mit_bootcamp/polymer_process/experimentlist.html
+3. https://emb-iitk.vlabs.ac.in/exp/sem-basics/
+47
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. II Semester
+(22ES2CS102) DATA STRUCTURES LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To impart the basic concepts of data structures and algorithms
+• To learn the concepts about searching and sorting
+• To understand the basic concepts about stacks, queues, lists
+• To know the concepts of trees and graphs
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Implement all operations on different linear data structures
+CO-2: Develop all operations on different Non- linear data structures
+CO-3: Apply various searching and sorting techniques
+CO-4: Understand the complexity analysis of linear and non linear data structures
+CO-5: Use appropriate data structure for any given problem
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM SPECIFIC
+PROGRAM OUTCOMES (PO)
+OUTCOMES (PSO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12 PSO-1 PSO-2 PSO-3
+CO-1 3 3 2 - 3 - - - 2 2 - 2 2 2 2
+CO-2 3 3 2 2 3 - - - 2 2 - 2 2 3 2
+CO-3 3 3 2 2 3 - - - 2 2 - 2 2 3 2
+CO-4 2 2 1 2 - - - - 2 2 - 1 3 3 3
+CO-5 3 3 3 2 3 2 2 2 3 3 1 2 3 3 3
+LIST OF EXPERIMENTS:
+WEEK 1:
+Implement Stack using Array
+WEEK 2:
+a) Program to convert infix expression to postfix expression.
+b) Program to postfix evaluation.
+WEEK 3:
+Implement the following
+a) Linear Queue using Array b) Circular Queue using Array
+WEEK 4:
+Implement Dequeue using Array
+48
+WEEK 5:
+Implement Single Linked List operations
+WEEK 6:
+Implement following
+a) Circular Linked List Operations b) Double Linked List Operations
+WEEK 7:
+Implement following
+a) Stack using Linked List b) Queue using Linked List
+WEEK 8: Lab Internal - 1
+WEEK 9:
+Implement BST operations
+WEEK 10:
+Implement B Tree operations
+WEEK 11:
+Implement following sorting techniques
+a) Merge b) Heap c) Radix d) Quick
+WEEK 12:
+Implement following Hashing Techniques
+a) Separate Chaining b) Linear Probing
+WEEK 13:
+Implement following Graph traversals
+a) BFS b) DFS
+WEEK 14: Internal Lab -2
+TEXT BOOKS:
+1. Fundamental of Data Structure, Horowitz and Sahani, Galgotia Publication
+2. Data Structure, Lipschutz, Schaum Series
+3. Data Structures and Algorithms, Alfred V. Aho, John E. Hopperoft, Jeffrey D. UIlman
+REFERENCES:
+1. Algorithms, Data Structures, and Problem Solving with C++, Mark Allen Weiss,
+Addison-Wesley
+2. How to Solve it by Computer, 2nd Impression, R. G. Dromey, Pearson Education
+3. Introduction to Algorithms, Cormen, Leiserson and Rivest
+4. Data Structures: A Pseudo-code Approach with C, Gilberg & Forouzan, Thomson
+Learning
+5. Data Structures using C & C++, Ten Baum, Prentice Hall International
+49
+ONLINE RESOURCES:
+1. https://nptel.ac.in/courses/106102064
+2. https://onlinecourses.swayam2.ac.in/cec19_cs04/preview
+50
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. II Semester
+(22MN6HS102) ENVIRONMENTAL SCIENCE
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE-I SE-II SEE TOTAL
+2 0 0 50 50 - 100
+COURSE PRE-REQUISITES: Basic knowledge on environmental issues
+COURSE OBJECTIVES:
+• To recognize the impacts of human interventions towards environment
+• To list out the benefits in creating a sustainable world
+• To sketch out various activities in achieving a cleaner environment
+• To emphasize the role of frontier technologies for a better planet to live
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Gain a variety of experiences & acquire a basic knowledge about the
+environment & its allied problems
+CO-2: Interpret the key components in safeguarding the environment
+CO-3: Appraise the quality of environment in order to create a healthy atmosphere
+CO-4: Familiarize with the importance of emerging technologies towards green
+revolution
+COURSE ARTICULATION MATRIX:
+(Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM SPECIFIC
+PROGRAM OUTCOMES (PO)
+OUTCOMES (PSO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12 PSO-1 PSO-2
+CO-1 3 2 1 - - 1 1 - 2 1 - 2 - -
+CO-2 3 2 2 1 - 1 1 - 2 1 - 2 - -
+CO-3 3 2 2 - - 1 1 - 2 1 - 2 - -
+CO-4 3 2 1 1 - 1 1 - 2 1 - 2 - -
+MODULE 1:
+Introduction to Environmental Science: Importance of Environmental Science,
+Overview of the environment & its components, Human intervention in destruction or
+sustenance of environment. Relationship between environmental science & society -
+Influence of Industry, Innovation & infrastructure on environment
+MODULE 2:
+Synergy With Environment: Health & Well Being-ensuring healthy lives and promoting
+wellbeing at all ages. Reduce the number of deaths and illnesses from hazardous
+chemicals and air, water and soil pollution and contamination. Life under water and
+on land-conservation & sustainable usage, measures to protect marine & coastal
+ecosystems from various impacts. Protect and restore terrestrial ecosystems,
+sustainably managing forests, combat desertification. Biodiversity a valuable
+resource- biological diversity as a support for food, water, medicine, shelter, cleaning
+of air and water and other material goods for sustaining life and increase resilience
+51
+MODULE 3:
+Climate Change: Science behind climate change-factors responsible for climate
+change, Scientific evidence about past climate and present. Expected
+consequences of climate change- Impacts of climate change on growth and
+development. Role of greenhouse gases- Global temperature rise & its impact on
+environment & human health. Carbon footprint-Briefing on Paris agreement, Identify
+key sectors for low carbon footprint. Climate change mitigation & adaptation
+strategies
+MODULE 4:
+Moving Towards Sustainability: Eco-Audit and its importance. Sustainable agriculture-
+Organic farming and hydroponics. Role of AI & IOT for efficient management of
+environmental issues-Health, air, water, and soil. Sustainable living practices-
+minimizing waste, limited use of earth’s natural resources, wise use of environment and
+ensuring quality working/living environments
+MODULE 5:
+Innovations in Environmental Science: Sustainable cities and communities-case study,
+Responsible consumption & production- Refuse, Reduce, Reuse and Recycle with
+examples. Innovative approaches to waste management-smart waste
+management, Plastic recycling-innovative ideas.
+TEXT BOOKS:
+1. Environmental Studies for UG Courses, Erach Bharucha, UGC Publications, 2004
+2. Environmental Studies, Rajagopalan, Oxford University Press
+3. Introduction to Climate Change, Andreas Schmittner, Oregon State University,
+2018
+REFERENCES:
+1. Green Development: Environment and Sustainability in a Developing World, Bill
+Adams, 4th Edition, Routledge Publishers, 2021
+2. Fixing Climate, Robert Kunzig & Wallace S. Broecker, Profile Books Publisher, 2009
+3. Plastic Waste and Recycling-Environmental Impact, Societal Issues, Prevention
+and Solutions, 1st Edition, Academic Press 2020
+ONLINE RESOURCES:
+1. https://www.coursera.org/learn/beyond-the-sustainable-development-goals-
+addressing-sustainability-and-development
+2. https://www.coursera.org/specialization/climatechangeandsustainableinvesting
+52

@@ -1,0 +1,65 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/BEELABP.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY
+BASIC ELECTRICAL ENGINEERING LABORATORY
+(Common to CSE and IT)
+COURSE OBJECTIVES:
+• To understand the construction of electrical equipment and operation of
+electronic devices
+• To recognize different circuit reduction techniques
+• To practice the techniques to control and assess electrical machines
+• To know different electric safety measures
+COURSE OUTCOMES:
+After completion of the course, the student will be able to
+• CO-1: Identify different parts of electrical equipment and appreciate their purpose
+• CO-2: Apply different network reduction techniques to solve and analyze electrical circuits
+• CO-3: Realize the compatibility of electrical machines in different engineering fields
+• CO-4: Control different electrical machines and evaluate their performance
+• CO-5: Appreciate the operation of various electronic devices
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY
+BASIC ELECTRICAL ENGINEERING LABORATORY
+(Common to CSE and IT)
+PART – A
+1. Demonstration of Safety Precautions, Measuring instruments, Electrical and Electronic
+Components.
+2. Identification of Ratings of resistors using color codes and Electrical circuit bread board
+practice
+3. Demonstration of Cut-out sections of DC Motor, Induction Motor and Alternator.
+4. Demonstration of LT Switchgear Components.
+5. Demonstration of various converters and UPS. 6. Demonstration and study of Step response
+using Automatic Data Acquisition.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY
+BASIC ELECTRICAL ENGINEERING LABORATORY
+(Common to CSE and IT)
+PART – B
+1. Verification of KVL & KCL.
+2. Verification of Superposition Theorem.
+3. Time Response of RC and RL circuits.
+4. Analysis of series RL, RC and RLC circuits
+5. Load test on 1- ϕ Transformer
+6. Speed control of DC shunt Motor.
+7. Torque Speed Characteristics of Separately Excited DC motor.
+8. Brake test on 3- ϕ Induction Motor.
+9. Control of Synchronous generator voltage through its field excitation.
+10.Constant Voltage and Constant Current charging of Batteries.
+11.P-N Diode Characteristics and Full wave rectifier
+12.Transistor CE Characteristics (Input and Output)
+
+
+
+
+
+BREAD BOARD
+
+
+
+REGULATED POWER SUPPLY
+DECADE RESISTANCE BOX
+
+VOLTMETER
+AMMETER
+FUNCTION GENERATOR
