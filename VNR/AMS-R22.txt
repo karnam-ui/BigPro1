@@ -1,0 +1,3187 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/mtechsyl/AMS-R22.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+R22
+M.Tech. (ADVANCED MANUFACTURING
+SYSTEMS)
+M.Tech. R22 CBCS Curriculum
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for B.Tech. CE, EEE, ME, ECE, CSE, EIE, IT Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF 113 Rank in Engineering Category
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+DEPARTMENT OF
+MECHANICAL
+ENGINEERING
+VISION OF THE DEPARTMENT
+To develop into a Centre of Excellence in Education
+and interdisciplinary research with cutting edge
+technologies in the field of Mechanical Engineering,
+consistent with the contemporary and future
+societal needs of the country
+MISSION OF TH E DEPARTMENT
+➢ To impart high quality education by using modern
+pedagogical tools so as to make the students
+technically competent in their chosen fields.
+➢ To inculcate quality research by developing
+linkages with Industry and R & D organizations in
+India & abroad for developing technically
+competent and socially responsible engineers,
+managers and entrepreneurs.
+M.TECH.
+(ADVANCED MANUFACTURING SYSTEMS)
+M.TECH. (AMS)
+PROGRAM EDUCATIONAL OBJECTIVES
+PEO-I: Graduates will pursue their professional career in manufacturing
+domain meeting the needs of Indian and global/multinational
+organizations.
+PEO-II: Graduates will demonstrate strong foundation in the
+manufacturing domain enabling them to visualize, analyze and solve
+practical problems with due consideration for economical, safety and
+environmental concerns
+PEO-III: Graduates will undertake research and engage in continuous
+upgradation of skills in the manufacturing domain
+PEO-IV: Graduates will exhibit leadership qualities with demonstrable
+attributes in life-long learning to contribute to societal needs
+M.TECH. (AMS)
+PROGRAM OUTCOMES
+PO-1: An ability to independently carry out research /investigation and
+development work to solve practical problems
+PO-2: An ability to write and present a substantial technical
+report/document
+PO-3: An ability to demonstrate a degree of mastery over the
+manufacturing systems and processes.
+PO-4: An ability to design and develop a product or manufacturing
+system with due consideration for economical, safety, environmental and
+societal concerns.
+PO-5: Ability to assimilate advancements and apply engineering judgment
+to solve problems in manufacturing.
+PO-6: An ability to use skills, modern tools and techniques to solve
+engineering problems and understand the impact of solution in a global
+context with professional and ethical responsibilities.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. I YEAR COURSE STRUCTURE AND SYLLABUS
+(ADVANCED MANUFACTURING SYSTEMS)
+I SEMESTER R22
+Course
+Course Type Name of the Course L T P Credits
+Code
+Professional
+22PC1AM01 Automation in Manufacturing 3 0 0 3
+Core-I
+Professional
+22PC1AM02 Advances in CAD/CAM 3 0 0 3
+Core-II
+Professional Advanced Manufacturing
+22PC1AM03 3 0 0 3
+Core-III Processes
+22PE1AM01 Precision Engineering
+22PC1CD03 Flexible Manufacturing Systems
+Professional
+22PE1AM02 Supply Chain Management 3 0 0 3
+Elective-I
+CNC Technologies and
+22PC1CD02
+Programming
+22PE1AM03 Micro Electro Mechanical Systems
+22PE1CD04 IIOT and Industry 4.0
+Design for Manufacturing and
+22PE1AM04
+Assembly
+Professional 22PE1CD03 Product Life Cycle Management 3 0 0 3
+Elective-II
+22PE1AM05 Mechatronics
+22PE1AM06 Non-Destructive Testing
+Professional
+22PC2AM01 CAD/CAM Laboratory 0 0 2 1
+Core Lab-I
+Professional Automation and Robotics
+22PC2AM02 0 0 2 1
+Core Lab-II Laboratory
+Communication Communication Skills for
+22SD5HS01 0 0 2 1
+Skills Academic and Research Writing
+Project 22PW4AM01 Technical Seminar 0 0 4 2
+Mandatory 22MN6HS01 Research Methodology and IPR 2 0 0 0
+Total 17 0 10 20
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. I YEAR COURSE STRUCTURE AND SYLLABUS
+(ADVANCED MANUFACTURING SYSTEMS)
+II SEMESTER R22
+Course Type Course Code Name of the Course L T P Credits
+Professional
+22PC1CD05 Additive Manufacturing 3 0 0 3
+Core-IV
+Professional Modelling and Simulation of
+22PC1AM04 3 0 0 3
+Core-V Manufacturing Systems
+Professional
+22PC1CD04 Finite Element Analysis 3 0 0 3
+Core-VI
+Quality Engineering in
+22PE1AM07
+Manufacturing
+Product Design and Development
+22PE1CD10
+Strategies
+Professional
+22PE1CD07 Optimization Techniques 3 0 0 3
+Elective-III
+22PE1AM08 Tool Design
+22PE1CD08 Reverse Engineering
+22PC1CD06 Industrial Robotics
+22PE1AM09 Composite Materials
+Professional 22PE1AM10 Micro and Nano Manufacturing 3 0 0 3
+Elective-IV
+22PE1AM11 Materials Technology
+22PE1AM12 Intelligent Manufacturing Systems
+Professional Manufacturing and Simulation
+22PC2AM03 0 0 2 1
+Core Lab-III Laboratory
+Professional Computer Aided Engineering
+22PC2CD04 0 0 2 1
+Core Lab-IV Laboratory
+Industry
+22SD5AM01 Industry Engagement 0 0 2 1
+Engagement
+Project 22PW4AM02 Mini-Project 0 0 4 2
+Mandatory 22MN6HS02 Ancient Wisdom 2 0 0 0
+Total 17 0 10 20
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. II YEAR COURSE STRUCTURE AND SYLLABUS
+(ADVANCED MANUFACTURING SYSTEMS)
+III SEMESTER R22
+Course
+Course Type Name of the Course L T P Credits
+Code
+Design for Hydraulic and Pneumatic
+22PE1AM13
+Systems
+22PE1CD12 Concurrent Engineering
+Professional
+22PE1CD11 Computer Aided Process Planning 3 0 0 3
+Elective-V
+22PE1AM14 Introduction to Machine Learning
+22PE1AM15 Green Manufacturing
+22OE1CN01 Business Analytics
+22OE1AM01 Industrial Safety
+Open
+22OE1AM02 Operations Research 3 0 0 3
+Elective
+22OE1AM03 Entrepreneurship and Start-ups
+22OE1PS01 Waste to Energy
+Project 22PW4AM03 Project Part - I 0 0 16 8
+Total 6 0 16 14
+IV SEMESTER R22
+Course Type Course Code Name of the Course L T P Credits
+Project 22PW4AM04 Project Part - II 0 0 28 14
+Total 0 0 28 14
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PC1AM01) AUTOMATION IN MANUFACTURING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Production Technology, Machine Tools
+COURSE OBJECTIVES:
+• To comprehend the basic principles of automation and analyze automated flow
+lines
+• To impart design and control aspects of automated flow lines
+• To apply line balancing methods for assembly lines
+• To analyze manufacturing cells and recognize applications of automated material
+handling systems
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Implement concepts of a productive system in automation
+CO-2: Apply the concepts and design technologies of automated flow lines
+CO-3: Analyze automated flow lines and apply line balancing for assembly lines
+CO-4: Analyze automated cells and recognize the applications of automated
+material handling systems
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 - - 2 2 1 1
+CO-2 - - 2 2 2 2
+CO-3 - - 2 2 2 2
+CO-4 - - 2 2 2 2
+UNIT-I:
+Fundamentals of Manufacturing Automation: Basic Principles of automation, Types of
+automated systems, Degrees of automation, Automation - reasons, Production
+operations and automation strategies, Plant Layout, Production concepts and
+mathematical models, Design the parts for automation, Automatic loading Systems,
+introduction to direction and flow control valves and PLC.
+UNIT-II:
+High Volume Production Systems: Automated flow lines, Methods of workflow, Work
+part transfer mechanisms, buffer storage, Control functions, Automation for
+machining operations, Design and fabrication considerations.
+UNIT-III:
+Analysis of Automated Flow Lines: Analysis of transfer lines without storage, Partial
+automation, Automated flow lines with storage buffers, Implementation of automatic
+flow lines, Considerations in assembly line design.
+UNIT-IV:
+Assembly Systems and Line Balance: Manual assembly lines, line balancing problem,
+Methods of line balancing, Ways to improve line balancing, Flexible manual assembly
+lines, automated assembly systems, Analysis of multi station assembly.
+UNIT-V:
+Manufacturing Cells and Automated Material Handling: Single station automated
+cells, Analysis of Single Station Cells and applications, Types of equipment and
+functions, Design and analysis of material handling system, Conveyor system,
+Automated guided vehicle system, Types and vehicle guidance technology Design
+of automated guided vehicles and applications, Automated storage and Retrieval
+systems - Types, Basic components and Applications, Design for Automated Assembly,
+Communication Systems in Manufacturing.
+TEXT BOOKS:
+1. Automation, Production Systems and CIM, Mikell P. Groover, PHI, 1998
+2. CAD/CAM/CIM, P. Radha Krishnan & S. Subrahamanyarn and Raju, New Age
+International, 2003
+3. System Approach to Computer Integrated Design and Manufacturing, Singh, John
+Wiley,1996
+REFERENCES:
+1. Pneumatic and Hydraulic Systems, W. Bolton, Newnes, 1997
+ONLINE RESOURCES:
+1. http://nptel.ac.in/noc21_me120/preview
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PC1AM02) ADVANCES IN CAD/CAM
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Basic knowledge of CAD/CAM, Production Technology
+COURSE OBJECTIVES:
+• To comprehend the data exchange formats and know the different
+transformations in CAD modeling
+• To understand parametric representation of synthetic entities
+• To compare the different representation schemes and comprehend the
+applications of CAD
+• To understand the NC Systems, NC part programming fundamentals & CNC
+Systems
+• To understand the concept of Adaptive Control, and Computer Aided Inspection
+& Quality Control and implementation of CAD/CAM software and Post Processor
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Asses the various data exchange formats used and perform the transformations
+in geometric modeling techniques
+CO-2: Derive and apply the parametric representation of synthetic curves and
+surfaces
+CO-3: Validate the solid models through B-rep and CSG representation schemes and
+illustrate the applications of CAD
+CO-4: Work on NC & CNC systems and program
+CO-5: Apply the concepts of AC and CAI & QC and implement CAD/CAM software
+and Post Processor
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 2 1 1 - 1
+CO-2 2 2 - 2 1 2
+CO-3 2 2 - 2 1 2
+CO-4 2 2 2 1 1 1
+CO-5 1 2 1 1 3 2
+UNIT-I:
+Geometric Modeling: Wireframe modeling - Wire frame entities, Curve representation;
+Surface modeling - Surface entities, Surface representation; Solid modeling - Solid
+Entities, Solid Representation. 2D & 3D Transformations: Translation, Rotation, Scaling,
+Reflection, Shear; Homogenous and Concatenated transformations.
+Graphics Standards: Graphics standards – IGES & STEP structure and implementation.
+UNIT-II:
+Parametric Representation of Synthetic Entities: Parametric representation: Hermite
+Cubic Spline, Bezier curve, B-Spline curve; Hermite Bi-cubic surface, Bezier surface, B-
+Spline surface, COONs surface, NURBS
+UNIT-III:
+Representation Schemes: Boundary Representation (B-Rep), Constructive Solid
+Geometry (CSG) Advanced Modeling Applications: Feature Based and Parametric
+Modeling, Assembly Modeling – Bottom-Up and Top-Down approach, Mass property
+calculations, Finite Element Analysis
+UNIT-IV:
+NC Systems: NC Coordinate systems, elements of NC systems, Classification of NC
+Systems, Advantages & Disadvantages of NC Systems. NC Part Programming: Manual
+Part Programming fundamentals, word address format, Preparatory function, Feed,
+Speed, Tool Change functions, Dimensional words, Canned Cycles, Tool Offset, Tool
+Length Compensation, Tool nose radius compensation CNC Systems: CNC, Features
+of CNC, Functions of CNC, Advantages
+Introduction to CAD/CAM Software: Computer assisted part programming, NC
+programming using CAD/CAM software, Tool path generation using CAD/CAM
+software
+UNIT-V:
+Adaptive Control: Adaptive control with optimization, Adaptive control with
+constraints, Adaptive control in machining processes – turning and grinding.
+Computer Aided Inspection and Quality Control: CMM construction, Limitations of
+CMM, Computer Aided Testing, Optical inspection methods.
+TEXT BOOKS:
+1. CAD/CAM Theory and Practice, Ibrahim Zeid, McGraw Hill International
+2. Computer Aided Design Manufacturing, K. Lalit Narayan, K. Mallikarjuna Rao and
+M. M. M. Sarcar, Prentice Hall of India
+3. Computer Control of Manufacturing Systems, Yoram Koren, McGraw Hill
+International
+REFERENCES:
+1. Mastering CAD-CAM, Ibrahim Zeid, McGraw Hill International
+2. CAD/CAM, P. N. Rao, Tata McGraw Hill
+3. Mathematical Elements for Computer Graphics, Roger D. F. and Adams A.,
+McGraw Hill, 1989
+4. Computer Aided Design and Manufacturing, Mikell P. Groover, E. W. Zimmers Jr.,
+Prentice Hall of International
+5. Computer Aided Manufacturing, T. C. Chang, Wysk, H. P. Wang, Pearson/ Prentice
+Hall International
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PC1AM03) ADVANCED MANUFACTURING PROCESSES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Basics of Manufacturing Technology
+COURSE OBJECTIVES:
+• To provide the in-depth knowledge of the types of advanced manufacturing and
+machining processes
+• To understand the working principle and applications of advanced manufacturing
+processes
+• To have an overview on the pre and post treatment of manufacturing products
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Identify and utilize the manufacturing processes like advanced casting, and
+advanced welding
+CO-2: Identify and utilize the manufacturing processes like advanced forming and
+advanced machining
+CO-3: Apply the advanced techniques for materials processing including pre and
+post treatment techniques
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 2 1 2 1 1
+CO-2 2 2 1 2 1 1
+CO-3 2 2 1 1 2 1
+UNIT-I:
+Surface Treatment: Scope, Cleaners, Methods of cleaning, Surface coating types, and
+ceramic and organic methods of coating, economics of coating. Electro forming,
+Chemical vapour deposition, thermal spraying, Ion implantation, diffusion coating,
+Diamond coating and cladding.
+UNIT-II:
+Advanced Casting Processes: Construction & principle of operation, advantages,
+limitations and applications of - Metal mould casting, Continuous casting, Squeeze
+casting, Vacuum mould casting, Evaporative pattern casting, Ceramic shell casting
+UNIT-III:
+Advanced Welding Processes: Construction & principle of operation, advantages,
+limitations and applications of - Electron beam welding (EBW), Laser beam welding
+(LBW), Ultrasonic welding (USW), Friction Stir welding (FSW)
+Advanced Metal Forming Processes: Construction & principle of operation,
+advantages, limitations and applications of - High energy rate forming (HERF) process,
+Electro-magnetic forming, Explosive forming, Electro-hydraulic forming.
+UNIT-IV:
+Advanced Machining Processes: Construction & principle of operation, advantages,
+limitations and applications of - Ultrasonic machining (USM), Abrasive jet machining
+(AJM), Water jet machining (WJM), Abrasive water jet machining (AWJM),
+Electrochemical machining (ECM), Electro discharge machining (EDM), Electron
+beam machining (EBM), Laser beam machining (LBM)
+UNIT-V:
+Advanced Techniques for Materials Processing: Construction & principle of operation,
+advantages, limitations and applications of - Shape tube electrolytic machining,
+Electro jet machining, Electrolytic in-process dressing, Laser based heat treatment,
+Electrochemical grinding, Electrochemical etching
+TEXT BOOKS:
+1. Advanced Machining Processes, V. K. Jain, Allied Publishers, 2010
+2. Manufacturing Engineering and Technology, Kalpak Jian, Adisson Wesley, 1995
+3. Materials and Processes in Manufacturing, E. P. DeGarmo, J. T. Black, R. A. Kohser,
+8th Edition, Prentice Hall of India, New Delhi
+REFERENCES:
+1. Non-traditional Manufacturing Processes, G. F. Benedict, Marcel Dekker Inc.
+2. Introduction to Manufacturing Processes, John A. Schey, McGraw Hill
+3. Process and Materials of Manufacturing, R. A. Lindburg, 4th Edition, PHI 1990
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1AM01) PRECISION ENGINEERING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Machine Tools, Metrology, Accuracy and Tolerances,
+Geometric Dimensioning, Machine Drawing and Production Engineering
+COURSE OBJECTIVES:
+• To understand the concepts of GD & T, the datums, the grouped datum systems
+• To understand the representation of tolerance, and cumulative effect of
+tolerances
+• To understand the surface finish, the concept of accuracy and precision, process
+capability, quality costs, process sequencing of shaft type components
+• To understand nano- processing and measuring systems
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply knowledge of GD&T and datums in designing/ processing the
+Components, grouped datum systems to any sub-assembly to arrest the degrees of
+freedom.
+CO-2: Apply the knowledge of Apply the knowledge of Tolerancing and cumulative
+effect of to learning
+CO-3: Able to understand the concept of surface finish, accuracy and precision,
+process capability, quality cost, and processing of shaft type components
+CO-4: Able to understand the nano-processing methods & nano-measuring systems.
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 2 3 3 2 3
+CO-2 2 1 2 2 2 2
+CO-3 3 1 3 2 2 2
+CO-4 3 1 2 3 3 3
+UNIT- I:
+Concepts of Accuracy: Introduction – Concept of Accuracy of Machine Tools –
+Spindle and Displacement Accuracies – Accuracy of numerical Control Systems –
+Errors due to Numerical Interpolation - Displacement Measurement System and
+Velocity Lags.
+Geometric Dimensioning and Tolerance: Tolerance Zone Conversions – Surfaces,
+Features, Features of Size, Datum Features – Datum Oddly Configured and Curved
+Surfaces as Datum Features, Equalizing Datum –Datum Feature of Representation –
+Form Controls, Orientation Controls
+UNIT-II:
+Datum Systems: Design of freedom, Grouped Datum Systems – different types, two
+and three mutually perpendicular grouped datum planes; Grouped datum system
+with spigot and recess, pin and hole; Grouped Datum system with spigot and recess
+pair and tongue – slot pair – Computation of Transnational and rotational accuracy,
+Geometric analysis and application.
+UNIT-III:
+Tolerance Analysis: Process Capability, Mean, Variance, Skewness, Kurtosis, Process
+Capability Metrics, Cp, Cpk, Cost aspects, Feature Tolerances, Geometric Tolerances.
+Tolerance Charting Techniques: Operation Sequence for typical shaft type of
+components, Preparation of Process drawings for different operations, Tolerance
+worksheets and central analysis, Examples. Design features to facilitate machining;
+Datum Features – functional and manufacturing. Components design – Machining
+considerations, Redesign for manufactured parts examples.
+UNIT–IV:
+Surface finish, Review of relationship between attainable tolerance grades and
+different machining process. Cumulative effect of tolerances sure fit law, normal law
+and truncated normal law.
+UNIT-V:
+Measuring Systems Processing: In process or in-situ measurement of position of
+processing point Post process and on-machine measurement of dimensional features
+and surface-mechanical and optical measuring systems.
+TEXT BOOKS:
+1. Precision Engineering in Manufacturing, Murthy R. L., New Age International, 1996
+2. Geometric Dimensioning and Tolerancing, James D. Meadows, Marcel Dekker,
+1995
+REFERENCES:
+1. Engineering Design – A Systematic Approach, Matousek, Blackie & Son Ltd.
+2. Dimensioning and Tolerancing, ASME Y14.5-2009
+3. Geometric Dimensioning and Tolerancing, P. S. Gill, 1st Edition, Katson Books, 2005
+4. Statistical Process Control , John S. Oakland
+5. Design for Manufacturability Handbook, James G. Bralla
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PC1CD03) FLEXIBLE MANUFACTURING SYSTEMS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Knowledge of Manufacturing, Supply Chain Management
+COURSE OBJECTIVES:
+• To understand the knowledge about the design, operation, and selection of
+Flexible Manufacturing Systems and their integration in today’s production
+environments
+• To understand the integration of components of FMS under different production
+management approaches
+• To learn about simulation software and database of FMS
+• To calculation of performance measures, including throughput, in-process
+inventory, and meeting production commitments
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply the concepts of Sensor Technology Probability & Statistics to develop the
+manufacturing systems
+CO-2: Plan, schedule and control a developed FMS
+CO-3: Select suitable database and software required for FMS
+CO-4: Apply preventive maintenance, Kanban system effectively
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 - - 2 3 -
+CO-2 2 3 3 3 3 1
+CO-3 2 3 - - - -
+CO-4 2 3 1 - - -
+UNIT-I:
+Flexible Manufacturing Systems: Introduction to flexible manufacturing systems.
+Planning and scheduling and control of FMS, Knowledge based scheduling, Types of
+Productions, Types of FMS, Types of FMS Layouts, advantages and disadvantages of
+FMS.
+UNIT-II:
+Computer Control and Functions: Hierarchy of computer control. Supervisory
+computer. Components of FMS, Types of flexibility, trade off, computer control and
+functions, coordinate measuring machines, types, working and capabilities.
+UNIT-III:
+Computer Software, Simulation and Database of FMS: Software for simulation and
+database of FMS, Specification and selection, Trends, Application of simulation
+software.
+UNIT-IV:
+Manufacturing Data Systems Data Flow: Manufacturing data systems data flow,
+CAD/CAM considerations. Planning FMS database, Just in time characteristics, Pull
+method, Quality small lot sizes, Work station loads, Close supplier ties, Flexible
+workforce – Line flow strategy, types of FMS software’s.
+UNIT-V:
+Just In Time: Preventive maintenance, Kanban system, Implementation issues, value
+engineering, MRP, JIT, lean manufacture, quality concepts, and Management.
+TEXT BOOKS:
+1. Hand Book of Flexible Manufacturing Systems, Jha N. K., Academic Press
+REFERENCES:
+1. Production System beyond Large Scale Production, Taiichi Ohno, Toyota,
+Productivity Press
+2. Flexible Manufacturing Systems, Shivanad H. K., Benal M. M., Koti. V, New Age
+International, 2006
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1AM02) SUPPLY CHAIN MANAGEMENT
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Basics of Mechanical Engineering
+COURSE OBJECTIVES:
+• To identify decision phases and apply competitive and supply chain strategies
+• To derive driver
+• To provide a basic understanding with case studies on different fault diagnosis
+method
+• To apply specific code, standard, or specification related to each testing method
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the decision phases and apply competitive and supply chain
+strategies.
+CO-2: Understand drivers of supply chain performance
+CO-3: Analyze factors influencing network design
+CO-4: Analyze the role of forecasting in a supply chain
+CO-5: Understand the role of aggregate planning, inventory, IT and coordination in a
+supply chain
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 - - 1 2 1 1
+CO-2 - - 1 2 1 1
+CO-3 - - 1 2 1 2
+CO-4 - - 1 1 1 1
+CO-5 - - 1 2 1 2
+UNIT-I:
+Strategic Framework: Introduction to Supply Chain Management, Decision phases in
+a supply chain, Process views of a supply chain: push/pull and cycle views, Achieving
+Strategic fit, Expanding strategic scope.
+UNIT- II:
+Supply Chain Drivers and Metrics: Drivers of supply chain performance, Framework for
+structuring Drivers, Obstacles to achieving strategic fit.
+Coordination in SC: Modes of Transportation and their performance characteristics,
+Supply Chain IT framework, Coordination in a SC and Bullwhip Effect.
+UNIT- III:
+Designing Supply Chain Network: Factors influencing Distribution Network Design,
+Design options for a Distribution network, E-Business and Distribution network,
+Framework for Network Design Decisions, Models for Facility Location and Capacity
+Allocation.
+UNIT-IV:
+Forecasting in SC: Role of forecasting in a supply chain, Components of a forecast
+and forecasting methods, Risk management in forecasting.
+UNIT-V:
+Aggregate Planning and Inventories in SC: Aggregate planning problem in SC,
+Aggregate Planning Strategies, Planning Supply and Demand in a SC, Managing
+uncertainty in a SC: Safety Inventory.
+TEXT BOOK:
+1. Supply Chain Management - Strategy, Planning and Operation, Sunil Chopra and
+Peter Meindl, 4th Edition, Pearson Education Asia, 2010
+REFERENCES:
+1. Designing and Managing the Supply Chain - Concepts Strategies and Case
+Studies, David Simchi-Levi, Philp Kamintry and Edith Simchy Levy, 2nd Edition, Tata-
+McGraw Hill, 2000
+2. Managing Supply Chains - A Logistics Approach, John J. Coyle, 9th Edition,
+Cengage Learning, 2013
+3. Modeling the Supply Chain, Jeremy F. Shapiro, 2nd Edition, Cengage Learning,
+2007
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PC1CD02) CNC TECHNOLOGIES AND PROGRAMMING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the NC Systems, NC part programming fundamentals
+• To understand the CNC systems, DNC systems APT programming language for 2D
+geometric shapes
+• To understand the concepts of Tooling for CNC, Adaptive control, CAD/CAM
+software implementation, post postprocessor
+• To understand the concept of Computer Aided Process Planning and Computer
+aided inspection & quality control
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply knowledge and work on the NC systems & CNC systems and able to
+program
+CO-2: Develop an optimal APT program for a given component (2D- milling & drilling)
+CO-3: Able to understand Adoptive control systems, CNC Tooling systems, CAD/ CAM
+software, post processor
+CO-4: Able to understand the concepts of CAPP and CAI & QC
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 2 1 3 2 1
+CO-2 1 2 1 3 2 1
+CO-3 1 2 1 3 2 1
+CO-4 1 2 1 3 2 1
+UNIT-I:
+Introduction to Numerical Control: Numerical Control: Introduction, Applications of
+NC/CNC, Benefits of NC/CNC, Limitations of CNC. Classification of NC/CNC systems:
+Based on type of Control.
+Components of CNC System: Basic components of CNC system, Design
+considerations, structure, Antifriction LM guideways, spindles, balls crews.
+UNIT-II:
+DNC Systems: DNC Concepts, Objectives of DNC, Components of DNC, Types of
+DNC, advantages and disadvantages of DNC
+CNC Programming: Part programming: Introduction, Part Program and its elements,
+Methods of Programming: Manual and Computer Assisted Part programming, APT
+Language & programming (statements & Programming), Examples of APT
+programming problems (2D machining- Milling & Drilling only)
+UNIT-III:
+Adaptive Control: Sample Text, Sample Text Adaptive control with optimization,
+Adaptive control with constraints, Adaptive control of machining processes like
+turning, Grinding Tooling for CNC Machines: Types of CNC tooling for cutting3 (brief
+introduction of preset, qualified, Interchangeable, coolant fed, and modular tooling
+systems); Tool presetting4; Automatic tool changers4; Work holding (modular
+fixturing)4.
+UNIT-IV:
+Introduction to CAD/CAM Software: NC programming using CAD/CAM software, Tool
+path generation using CAD/CAM software, Technology of CAM, Computer assisted
+part programming
+Post Processors for CNC: NC Introduction to Post Processors, necessity of a Post
+Processor, general structure of a Post Processor, functions of a Post Processor
+UNIT-V:
+Computer Aided Process Planning: Sample Text, Introduction, Manual process
+planning vs. Computer aided process planning, Basics of variant and generative
+process planning methods.
+Computer Aided Inspection and Quality Control: CMM Construction, Limitations of
+CMM, Computer Aided Testing, Optical Inspection Methods.
+TEXT BOOKS:
+1. Computer Aided Design Manufacturing, K. Lalit Narayan, K. Mallikarjuna Rao and
+M. M. M. Sarcar, PHI
+2. CAD/CAM: Principles and Applications, P. N. Rao, McGraw Hill
+3. Computer Control of Manufacturing Systems, Yoram Koren, McGraw Hill
+REFERENCES:
+1. Mastering CAD/CAM, Ibrahim Zeid, McGraw Hill
+2. Numerical Control Machine Programming and Software Design, C. H. Chang, M.
+A. Melkanoff, Prentice Hall
+3. Computer Aided Manufacturing, Shanmuga Sundar, T. Selwyn, C. Elanchezhian
+ONLINE RESOURCES:
+1. www.nptel.com, IIT Khargapur, Manufacturing Processes
+2. www.nptel.com, IIT Madras, CNC Machines
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1AM03) MICRO ELECTRO MECHANICAL SYSTEMS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand MEMS, microsystems and their applications
+• To impart knowledge on fabrication processes, microsystem packaging and
+assembly of micro systems
+• To analyze micro devices, science and synthesis of nano materials
+• To comprehend characterization techniques of nano materials
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand MEMS and microsystems
+CO-2: Comprehend fabrication processes and micro system packaging
+CO-3: Apply micro devices for engineering applications
+CO-4: Perform synthesis and characterization of nano materials
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 1 3 2 2 1
+CO-2 1 1 1 3 2 2
+CO-3 1 1 1 1 1 2
+CO-4 1 1 1 1 2 2
+UNIT-I:
+Overview of MEMS and Microsystems: Definition, properties, design and fabrication
+micro-system, microelectronics, working principle, applications and advantages of
+micro system. Substrates and wafers, silicon as substrate material, mechanical
+properties of Si, Silicon Compounds - silicon piezo resistors, Galium arsenide, quartz,
+polymers for MEMS, conductive polymers.
+UNIT-II:
+Fabrication Processes and Micro System Packaging: Photolithography, photo resist
+applications, light sources, ion implantation, diffusion, Oxidation - thermal oxidation,
+silicon dioxide, chemical vapour deposition, sputtering - deposition by epitaxy,
+etching bulk and surface machining, LIGA process, LASER, Electron beam, Ion beam
+processes, Mask less lithography. Micro system packaging, packaging design, levels
+of micro system packaging -die level, device level and system level, interfaces in
+packaging, packaging technologies- Assembly of Microsystems.
+UNIT-III:
+Micro Devices: Sensors, classification, signal conversion ideal characterization of
+sensors micro actuators, mechanical sensors, measurands - displacement sensors,
+pressure sensor, flow sensors, Accelerometer, chemical and bio sensor - sensitivity,
+reliability and response of micro-sensor - micro actuators, applications.
+Science and Synthesis of Nano Materials: Classification of nano structures, Effects of
+nano scale dimensions on various properties, structural, thermal, chemical, magnetic,
+optical and electronic properties fluid dynamics, Effect of nano scale dimensions on
+mechanical properties - vibration, bending, fracture Nanoparticles.
+UNIT-IV:
+Synthesis of Nano Materials: Sol-Gel Synthesis, Inert Gas Condensation, High energy
+Ball Milling, Plasma Synthesis, Electro deposition and other techniques. Synthesis of
+Carbon nanotubes, Solid carbon source based production techniques, Gaseous
+carbon source based production techniques, Diamond like carbon coating. Top
+down and bottom up processes.
+UNIT-V:
+Characterization of Nano Materials: Nano-processing systems, Nano measuring
+systems, characterization, analytical imaging techniques, microscopy techniques,
+electron microscopy scanning electron microscopy, confocal LASER scanning
+microscopy - transmission electron microscopy, transmission electron microscopy,
+scanning tunneling microscopy, atomic force microscopy, diffraction techniques,
+spectroscopy techniques, Raman spectroscopy, 3D surface analysis, Mechanical,
+Magnetic and thermal properties, Nano positioning systems.
+TEXT BOOKS:
+1. Introduction to Micro fabrication, Sami Franssila, John Wiley & Sons, 2004
+2. Nano Technology, Norio Taniguchi, Oxford University Press, 2003
+3. Introduction to Nano technology, Charles P. Poole, Frank J. Owens, John Wiley &
+Sons, 2003
+REFERENCES:
+1. Foundations of MEMS, C. Liu
+2. An Introduction to Microelectromechanical Systems Engineering, N. Maluf
+3. Modeling MEMS and NEMS, J. Pelesko & D. Bernstein
+4. MEMS & Microsystems Design & Manufacture, Tai – Ran Hsu, Tata McGraw Hill, 2002
+5. Emerging Nanotechnologies for Manufacturing, Waqar Ahmed and Mark J.
+Jackson, Elsevier, 2013
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1CD04) IIOT AND INDUSTRY 4.0
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the basics of Industry 4.0
+• To understand the business model and impact of IIoT
+• To understand the concepts of virtual reality, lean manufacturing
+• To gain knowledge of various sensors and actuators
+• To understand various data transmission technologies
+COURSE OUTCOMES: After completion of the course the student will be able to
+CO-1: Explain smart business perspective, cyber security, impacts of Industry 4.0
+CO-2: Understand the basics of the Industrial Internet of Things
+CO-3: Understand various key technologies
+CO-4: Implement various sensors and actuators
+CO-5: Understand different industrial transmission technologies and IIOT applications
+in real life
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 - - 2 3 - -
+CO-2 - - 2 - 2 3
+CO-3 - - 2 2 - 3
+CO-4 - - 2 - 2 3
+CO-5 - - 2 2 - 3
+UNIT–I:
+Industry 4.0 Basics: Industrial revolution: Phases, Evolution of Industry4.0, Environmental
+impacts of industrial revolution, Applications, Design requirements, Drivers of Industry
+4.0, Sustainability Assessment of industries, Smart Business Perspective, Cyber security,
+Impacts of Industry 4.0.
+UNIT–II:
+Industrial Internet of Things- Basics: IIoT and Industry 4.0, IIC, Industrial Internet Systems,
+Design of industrial internet systems, Impact of industrial internet, Benefits of industrial
+internet, Industrial sensing, Industrial Processes, Features of IIoT for industrial processes,
+Industrial plant–The future architecture, Digital Enterprise
+Business Models and Reference Architecture of IIoT: Definition of a business model,
+Business models of IIoT, Industrial Internet Reference Architecture
+UNIT –III:
+Key Technologies-Off-Site Technologies: Cloud Computing, Fog Computing
+Key Technologies - On-site Technologies: Augmented Reality, Virtual Reality, Smart
+factories, Lean manufacturing system, Big Data and Advanced Analytics
+UNIT –IV:
+Sensors: Various sensor types and their underlying working principles, Characteristics
+of Sensors – Resolution, calibration, accuracy and others, Sensor Categories – Thermal,
+Mechanical, Electrical, Optical and Acoustic sensors.
+Actuators: Thermal, Hydraulic, Pneumatic, Electro mechanical Actuator
+UNIT–V:
+Industrial Data Transmission and Acquisition: Architecture of various data transmission
+technologies like Foundation Fieldbus, Profibus, Highway Addressable Remote
+Transducer (HART), Interbus, Bitbus, DigitalSTROM, Controller Area Network, and other
+recent and upcoming Technologies. Distributed Control System, SCADA and PLC
+System.
+IOT Applications: IoT Applications on Industrial automation, Factories and Assembly
+line, Plant Security and Safety, Transportation, Agriculture, Healthcare, Home
+Automation, Oil, Chemical and Pharmaceutical Industry and others.
+TEXT BOOKS:
+1. Introduction to Industrial Internet of Things and Industry 4.0, Sudip Misra, Chandana
+Roy, Anandarup Mukherjee, CRC Press
+2. Ïnternet of Things - A Hands on Approach, Vijay Madisetti, Arshdeep Bahga,
+University Press
+3. Introduction to Internet of Things: A practical Approach, Dr. S. R. N. Reddy, Rachit
+Thukral and Manasi Mishra, ETI Labs
+REFERENCES:
+1. The Internet of Things: Enabling Technologies, Platforms, and Use Cases, Pethuru
+Raj and Anupama C. Raman, CRC Press
+2. Designing the Internet of Things, Adrian McEwen, Wiley
+3. Internet of Things: Architecture and Design, Raj Kamal, McGraw Hill
+4. Getting Started with the Internet of Things, Cuno Pfister, O Reilly Media
+ONLINE RESOURCES:
+1. http://nptel.ac.in/moc20-cs69/preview
+2. http://coursera.org/learn/industrial-internet-of-things#syllabus
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1AM04) DESIGN FOR MANUFACTURING AND ASSEMBLY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Production Technology, Machine Tools, Material Technology
+COURSE OBJECTIVES:
+• To impart the knowledge on steps involved in design process and material
+selection
+• To understand about the design rules involved in machining and casting
+• To understand about the design rules involved in metal joining, extrusion and sheet
+metal work
+• To understand about the design principles involved in manual and automatic
+assembly transfer systems
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply the knowledge on steps involved in design process and material
+selection
+CO-2: Apply the knowledge on design rules involved in machining and casting
+CO-3: Analyze the design rules involved in metal joining, extrusion and sheet metal
+work
+CO-4: Design and analyze the principles involved in manual and automatic assembly
+transfer systems
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 1 3 3 3 2
+CO-2 3 1 3 3 3 2
+CO-3 3 1 3 3 3 2
+CO-4 3 1 3 3 3 2
+UNIT-I:
+Introduction: Design philosophy, steps in design process, general design rules for
+manufacturability, basic principles of designing for economical production, creativity
+in design.
+Materials: Selection of materials for design, developments in material technology,
+criteria for material selection, interrelationship with process selection, process
+selection charts.
+UNIT-II:
+Machining Process: Overview of various machining processes, design rules for
+machining, redesigning of components for machining ease with suitable examples.
+Metal Casting: Appraisal of various casting processes, general design considerations
+for casting, overview of solidification simulation in casting design, product design rules
+for sand casting, casting defects.
+UNIT-III:
+Metal Joining: Appraisal of various welding processes, factors in design of weldments,
+general design guidelines, pre and post treatment of welds, effects of thermal stresses
+in weld joints, welding defects, design of brazed joints.
+Extrusion & Sheet Metal Work: Design guidelines for extruded sections, design
+principles for punching, blanking, bending, deep drawing, keeler goodman forming
+line diagram.
+UNIT-IV:
+Assembly Process: Development of the assembly process, choice of assembly
+method, assembly advantages, social effects of automation.
+Automatic Assembly Transfer Systems: Continuous transfer, intermittent transfer,
+indexing mechanisms and operator paced free transfer machine.
+UNIT-V:
+Design of Manual Assembly: Design for assembly fits in the design process, general
+design guidelines for manual assembly, development of the systematic DFA
+methodology, assembly efficiency, classification system for manual handling,
+classification system for manual insertion and fastening, effect of part symmetry on
+handling time, effect of part thickness and size on handling time, effect of weight on
+handling time, parts requiring two hands for manipulation, effects of combinations of
+factors, effect of symmetry, effect of chamfer design on insertion operations,
+estimation of insertion time.
+TEXT BOOKS:
+1. Assembly Automation and Product Design, Geoffrey Boothroyd, Marcel Dekker,
+1992
+2. Engineering Design – Material & Processing Approach, George E. Dieter, 2nd
+Edition, McGraw Hill, 2000
+REFERENCES:
+1. Handbook of Product Design, Geoffrey Boothroyd, Marcel and Dekker, 1990
+2. Computer Aided Assembly Planning, A. Delchambre, Springer, 1992
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1CD03) PRODUCT LIFE CYCLE MANAGEMENT
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Industrial Engineering and Management
+COURSE OBJECTIVES:
+• To understand product information, product lifecycle management concept,
+product structures and product pains
+• To apply business processes in the PLM environment and learn engineering
+change management
+• To create PLM service information models and different ways to integrate PLM
+systems with other applications
+• To implement end to end business process management and PLM applications in
+process and product industries
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand product data, information, structures, and PLM concepts
+CO-2: Apply PLM systems in organization verticals including production, after sales,
+marketing, subcontracting, PLM concepts for service industry, E-Business, tools, and
+standards in PLM
+CO-3: Measure benefits of PLM implementation in daily operations, material costs,
+productivity of labour and quality costs
+CO-4: Create and Implement methods to deploy a PLM system in a global company
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 - - 2 1 1 1
+CO-2 - - 3 2 2 2
+CO-3 - - 2 2 2 2
+CO-4 - - 1 2 2 2
+UNIT-I:
+Fundamentals of PLM: Product data or Product information, Product lifecycle
+management concept, The P L and M of PLM –PLM Paradigm –The PLM Environment
+– Issues in traditional environment – Product Data Issues – Product Pains - Opportunities
+UNIT-II:
+Business Processes in the PLM Environment – Introduction – Process reality in a typical
+company – Business process activities in a PLM initiative -Business process
+improvement approaches - Configuration Management – Engineering Change
+Management
+Product Structures: Standardized product data and materials data model, KPIs for
+product data – Generic issues with product data – Product data activities in the PLM
+initiative.
+UNIT-III:
+PLM Service Information Model: Categorizing services, Rational for building service
+products, how to make a service more like a tangible product? Making items out of
+product functions, PLM challenges in service business, An IT-service provider and a
+customer- specifically variable product.
+UNIT-IV:
+Integration of the PLM System with Other Applications: Different ways to integrate PLM
+systems, Goal of integrating PLM, SCM and ERP – Digital Transformation of PLM -IoT in
+Manufacturing – Convergence of PLM with IIoT.
+UNIT-V:
+Implementing End to End Business Process Management: Product lifecycle
+management as a business strategy tool, Product lifecycle management as an
+enabler of cooperation between companies, Contents of collaboration, Successful
+cooperation, Tools of collaboration, From changes in the business environment to
+product strategy, Business Benefits of PLM.
+TEXT BOOKS:
+1. Product Lifecycle Management (Volume 1): 21st Century Paradigm for Product
+Realisation (Decision Engineering), John Stark, Springer, 2020
+2. Product Lifecycle Management, Antti Saaksvuori, AnselmiImmonen, 3rd Edition,
+Springer, 2008
+3. Product Life Cycle Management (PLM), A Digital Journey using Industrial Internet
+of Things, Udhayan Elongovan, CRC Press, 2020
+REFERENCES:
+1. Product Lifecycle Management (Volume 2): The Devil is in the Details, John Stark,
+Springer, 2016
+2. Product Lifecycle Management (Volume 4): The Case Studies (Decision
+Engineering), John Stark, Springer, 2016
+3. Management Accounting, Anthony A. Atkinson, 6th Edition, Prentice Hall, 2012
+4. Introduction to Operations and Supply Chain Management, Cecil B. Bozarth,
+Robert B. Handfield, 5th Edition, Pearson, 2019
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1AM05) MECHATRONICS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the mechatronics systems
+• To provide an in-depth understanding of components of knowledge-based
+systems
+• To provide an understanding of artificial intelligence
+• To design and develop automated process planning
+• To develop group technology for intelligent manufacturing systems
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand and describe different mechatronics systems
+CO-2: Explain the principle of operation of various solid-state devices
+CO-3: Describe the working of hydraulic and pneumatic actuating systems and use
+them appropriately
+CO-4: Use program logic controls effectively
+CO-5: Design mechatronic systems
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 1 3 2 2 1
+CO-2 1 1 1 2 3 1
+CO-3 1 1 3 2 2 1
+CO-4 1 1 1 2 3 1
+CO-5 1 1 1 3 2 1
+UNIT–I:
+Mechatronics systems, elements, levels of mechatronics system, Mechatronics design
+process, system, measurement systems, control systems, microprocessor-based
+controllers, advantages and disadvantages of mechatronics systems. Sensors and
+transducers, types, displacement, position, proximity, velocity, motion, force,
+acceleration, torque, fluid pressure, liquid flow, liquid level, temperature, and light
+sensors.
+UNIT–II:
+Solid state electronic devices, PN junction diode, BJT, FET, DIA and TRIAC. Analog
+signal conditioning, amplifiers, filtering. Introduction to MEMS & typical applications.
+UNIT–III:
+Hydraulic and pneumatic actuating systems, Fluid systems, Hydraulic and pneumatic
+systems, components, control valves, electro-pneumatic, hydro-pneumatic, electro-
+hydraulic servo systems: Mechanical actuating systems and electrical actuating
+systems.
+UNIT–IV:
+Digital electronics and systems, digital logic control, microprocessors and micro
+controllers, programming, process controllers, programmable logic controllers, PLCs
+versus computers, application of PLCs for control.
+UNIT–V:
+System and interfacing and data acquisition, DAQS, SCADA, A to D and D to a
+conversions; Dynamic models and analogies, System response. Design of
+mechatronics systems & future trends.
+TEXT BOOKS:
+1. Mechatronics Integrated Mechanical Electronics Systems, K. P. Ramachandran &
+G. K. Vijaya Raghavan, Wiley India, 2008
+2. Mechatronics Electronics Control Systems in Mechanical and Electrical
+Engineering, W. Bolton, 3rd Edition, Pearson Education, 2005
+3. Mechatronics System Design, Devdas Shetty, Richard, Thomson
+REFERENCES:
+1. Mechatronics Source Book, Newton C. Braga, Thomson
+2. Mechatronics, N. Shanmugam, Anuradha Agencies Publishers
+3. Mechatronics, M. D. Singh, J. G. Joshi, PHI
+4. Mechatronics – Electronic Control Systems in Mechanical and Electrical
+Engineering, W. Bolton, 4th Edition, Pearson, 2012
+5. Mechatronics – Principles and Application, Godfrey C. Onwubolu, Elsevier, 2006
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1AM06) NON-DESTRUCTIVE TESTING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To know various methods of non-destructive testing
+• To understand the concept of non-destructive testing
+• To describe the various types of NDT tests carried out on components
+• To understand the ultrasonic and acoustic emission techniques
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Comprehend the theory of non-destructive testing and use visual methods
+CO-2: Distinguish between the various NDT like Thermography, Eddy Current, Liquid
+Penetrant and Magnetic Particle methods
+CO-3: Applied the knowledge of NDT processes like Radiography, Ultrasonic and
+Acoustic Emission
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 1 2 1 1 1
+CO-2 1 1 2 2 1 1
+CO-3 1 1 2 3 3 3
+UNIT-I:
+Introduction: Fundamentals of destructive and non-destructive testing, Scope and
+limitations of NDT
+Visual Tests: Visual examination methods - Unaided and aided.
+UNIT-II:
+Thermography and Eddy Current Testing:
+Thermography: Principles, Contact and non-contact inspection methods, Techniques
+for applying liquid crystals, Advantages and limitation – infrared radiation and infrared
+detectors, Instrumentation and methods, Applications
+Eddy Current Test: Generation of eddy currents, Properties of eddy currents, Eddy
+current sensing elements, Probes, Instrumentation, Types of arrangement,
+Applications, Advantages, Limitations, Interpretation
+UNIT-III:
+Liquid Penetrant and Magnetic Particle Tests:
+Liquid Penetrant Tests: Characteristics of liquid penetrants, Different washable systems,
+Developers, Applications
+Magnetic Particle Tests: Methods of production of magnetic fields, Principles of
+operation of magnetic particle test, Applications, Advantages and limitations
+UNIT-IV:
+Radiography: Principle, Interaction of X-Ray with matter, Imaging, Film and film square
+less techniques, Types and use of filters and screens, Geometric factors, Inverse
+square, Law, Characteristics of films – graininess, density, speed, contrast,
+characteristic curves; Penetrameters, Exposure charts, Radiographic equivalence;
+Fluoroscopy - Xeroradiography, Computed radiography, Computed Tomography
+UNIT-V:
+Ultrasonic Techniques: Production of ultrasonic waves, Different types of waves,
+General characteristics of waves, Pulse echo method - A, B, C scans
+Acoustic Emission Techniques: Principles of acoustic emission techniques, Advantages
+and limitations, Instrumentation, Applications
+TEXT BOOKS:
+1. Non-Destructive Testing, Louis Cartz, Barry Hull John, MacMillan, 1988
+2. Practical Non-Destructive Testing, Baldev Raj, T. Jayakumar & M. Thavasimuthu,
+Narosa Publishing House, 2009
+3. Non-Destructive Testing Techniques, Ravi Prakash, 1st Revised Edition, New Age
+International, 2010
+REFERENCES:
+1. Non-Destructive Testing, Louis Cartz, ASM International
+2. Non-Destructive Evaluation and Quality Control, ASM Metals Handbook, Vol. 17,
+ASME
+3. Introduction to Non-Destructive Testing: A Training Guide, Paul E. Mix, 2nd Edition,
+Wiley, 2005
+4. Handbook of Non-Destructive Evaluation, Charles, J. Hellier, McGraw Hill, 2001
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PC2AM01) CAD/CAM LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE PRE-REQUISITES: Knowledge of CAD, Machine Tools
+COURSE OBJECTIVES:
+• To comprehend the tools used in CAD software
+• To perform sketching, modeling of parts, surface modeling and sheet metal
+working tools
+• To create steps and commands in part programming and tool selection
+• To evaluate the use of various CAM softwares
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Construct 2D sketches and 3D part models
+CO-2: Utilize the part models in creating assemblies and obtain the drafted views,
+surface models and sheet metal parts
+CO-3: Demonstrate part programming for CNC lathe and execute the same for the
+part production
+CO-4: Develop the manufacturing of components through CAM Software
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 - 2 - - 2 -
+CO-2 1 2 - - 2 1
+CO-3 2 2 1 1 - 1
+CO-4 1 2 2 1 2 2
+LIST OF PROGRAMS / EXPERIMENTS / EXERCISES:
+12 exercises from the following syllabus:
+1. CAD
+• Sketching
+• Modeling
+• Assembly
+• Drafting
+• Surface modeling
+• Sheet metal design
+Note: Each topic shall consist of atleast one exercise on engineering components
+Softwares: CATIA
+2. CAM
+• Preparation of manual part programs for Turning operations using point-to-point,
+Linear and circular interpolation Techniques. a) Facing, Plain Turning, Step turning,
+Taper turning , Grooving and Thread cutting
+• Preparation of manual part programs for Milling operations using point-to-point,
+Linear and circular interpolation Techniques. Face Milling, End milling and Pocket
+Milling
+• Part programming using Fixed or Canned Cycles for turning operations.
+• Generation of Tool path, NC code and its Simulation for Turning and Milling
+operations using Off-line NC simulation and CAM packages like
+MasterCAM/EdgeCAM softwares.
+• Machining of simple components on NC lathe machine by transferring NC Code
+from a CAM package through RS 232.
+• Machining of simple components on NC Milling machine by transferring NC Code
+from a CAM package through RS 232.
+SOFTWARES: CNC Offline Simulation, EdgeCAM, MasterCAM
+REFERENCE:
+1. CATIA V5 Help Manual
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PC2AM02) AUTOMATION AND ROBOTICS LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE PRE-REQUISITES: Introductory Mechanics of Fluids, Instrumentation and control
+system, logic systems
+COURSE OBJECTIVES:
+• To develop knowledge in various drive system, i.e., pneumatics, hydraulics and
+electrical
+• To impart skills in kinematics analysis of robot systems
+• To provide knowledge and skills associated with programming and control system
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Demonstrate knowledge of the relationship between different drive system i.e.
+(Pneumatics, Hydraulic and Electrical)
+CO-2: Demonstrate an ability to solve forward and inverse kinematics of simple robot
+manipulators
+CO-3: Demonstrate knowledge of robot programming and controllers
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 2 2 3 3 2
+CO-2 2 2 2 1 1 2
+CO-3 1 2 2 1 2 2
+LIST OF PROGRAMS / EXPERIMENTS / EXERCISES:
+1. To design a pneumatic circuit to actuate a single acting pneumatic cylinder using
+3/2 manual push button and roller lever type DCV’s.
+2. To control double acting single hydraulic cylinder by manually operated DCV
+3. To simulate a hydraulic circuit using automation studio
+4. To determine the torque vs. speed characteristics using VVVF Electrical drive
+system
+5. To control a robot by applying direct and inverse kinematics using robot simulation
+software and actuate a robot with teach pendant
+6. Demonstration on PLC with ladder logic
+7. To study the working of sensors like strain gauge, angular measuring unit, LVDT
+8. Determination of Water level using capacitive transducer.
+9. Demonstration on microprocessor-based stepper motor
+10. To compare an open loop and closed loop control system for temperature
+monitoring
+11. To simulate Pneumatic sequential circuit using Automation Studio
+12. To simulate PLC controlled pneumatic sequential circuit using Automation Studio
+TEXT BOOKS:
+1. Fluid Power Control, Blackburn J. F., G. Reethof, and J. L. Shearer, Technology Press
+of M. I. T. and Wiley
+2. Oil Hydraulic Power and its Industrial Applications, Ernst W., McGraw Hill
+REFERENCES:
+1. Fluid Power Control Systems, Fitch Jr. E. C., McGraw Hill
+2. Hydraulic control systems, Herbert E. Merritt, John Wiley and Sons
+3. Fundamentals of Pneumatics/Electropneumatics, Hasebrink J. P., and Kobler R.,
+FESTO Didactic Publication No. 7301, Esslingen Germany, 1979
+4. Hydraulic and Pneumatic Control of Machine Tools, Khaimovitch
+5. Electro-hydraulic Servomechanism, Morse A. C., McGraw Hill
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22SD5HS01) COMMUNICATION SKILLS FOR ACADEMIC AND RESEARCH WRITING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To equip the students with an understanding of the mechanics and conventions
+of academic and research writing including cohesion and coherence to produce
+texts that demonstrate precision and clarity
+• To enable students to present focused, logical arguments that support a thesis
+• To empower the students to find, analyze, evaluate, summarize and synthesize
+appropriate source material for literature review
+• To enable students to use appropriate language to analyze and interpret the
+data, and prepare an outline
+• To enable students to become adept in the requirements and specifications of
+standard writing to produce academic and research papers
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply knowledge of academic language features, and text structure and
+ensure cohesion and coherence as connected to various text types
+CO-2: Demonstrate the use of writing process strategies through outlining, reviewing,
+composing, and revising
+CO-3: Evaluate sources and use summary, analysis, synthesis, and integration to
+construct a literature review on a topic chosen by the student
+CO-4: Prepare an outline for Research Articles and Thesis
+CO-5: Apply standard documentation style to produce academic and research
+papers that meet the demands of specific genres, purposes, and audiences
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 3 1 3 1 1
+CO-2 2 3 2 3 2 2
+CO-3 3 3 2 3 2 2
+CO-4 3 3 3 3 2 1
+CO-5 2 3 2 3 2 1
+UNIT-I:
+a) Factors Influencing Effective Writing: Mechanics of Writing, Purpose of Writing,
+Audience/reader, Organisation- Cohesion, and Coherence
+b) Features of Academic Writing: Introduction, Complexity, Formality, Precision,
+Objectivity, Explicitness, Accuracy and Appropriacy, Relevance, Hedging
+UNIT-II:
+1. Academic Writing Forms:
+a) Analysing arguments; Building an argument
+b) Making a Counter Argument- Managing tone, and tenor
+2. Types of Research: Primary and Secondary Research;
+3. Research Design: Statement of the Problem, Survey of relevant literature, Writing
+Hypotheses, Developing Objectives; Research Tools
+UNIT-III:
+a) Criteria of Good Research- Avoiding Plagiarism
+b) Data Interpretation
+c) Preparing an outline for Research Articles & Research Reports
+UNIT-IV:
+a) Reference Skills -Paraphrasing (Change of parts of speech, word order, synonyms,
+using the passive form), -Summarizing (Steps in summarising)
+b) Documentation Format: APA style
+c) Documentation Format: MLA style
+UNIT-V:
+a) Writing Article Reviews
+b) Report Writing: a) Writing Technical Reports b) Writing Proposals
+TEXT BOOKS:
+1. A Course in Academic Writing, Gupta R., Orient Black Swan, 2010
+2. Academic Writing: Exploring Processes and Strategies, Leki I., CUP, 1998
+3. Writing-up Research: Experimental Research Report Writing for Students of English,
+Weissberg R., & Buker S., Englewood Cliffs, Prentice Hall, 1990
+REFERENCES:
+1. English Academic Writing for Students and Researchers. Yakhontova T., 2003
+2. Inside Track: Successful Academic Writing, Gillett A., Hammond A., Martala M.,
+Pearson Education, 2009
+3. English for Academic Research: Writing Exercises, Wallwork, Springer, 2013
+4. The MLA Handbook for Writers of Research Papers, 7th Edition, Modern Language
+Association
+5. Academic Writing for Graduate Students: A Course for Non-native Speakers of
+English, Swales J. M., & Feak C. B., University of Michigan Press, 1994
+ONLINE RESOURCES:
+1. https://www.coventry.ac.uk/study-at-coventry/student-support/academic-
+support/centre-for-academic-writing/support-for-students/academic-writing-
+resources/
+2. https://www.biz-e-training.com/resources-for-learners/academic-writing-online-
+resources/
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22MN6HS01) REASEARCH METHODOLOGY AND IPR
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE-I SE-II SEE TOTAL
+2 0 0 50 50 - 100
+COURSE OBJECTIVES:
+• To understand the research problem
+• To know the literature studies, plagiarism and ethics
+• To get the knowledge about technical writing
+• To analyze the nature of intellectual property rights and new developments
+• To know the patent rights
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand research problem formulation
+CO-2: Analyze research related information & follow research ethics
+CO-3: Understand that today’s world is controlled by Computer, Information
+Technology, but tomorrow world will be ruled by ideas, concept, and creativity
+CO-4: Understanding that when IPR would take such important place in growth of
+individuals & nation, it is needless to emphasis the need of information about
+Intellectual Property Right to be promoted among students in general & engineering
+in particular
+CO-5: Understand that IPR protection provides an incentive to inventors for further
+research work and investment in R & D, which leads to creation of new and better
+products, and in turn brings about, economic growth and social benefits
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 2 - - - -
+CO-2 2 3 - - - -
+CO-3 - - 3 2 - -
+CO-4 - - - 3 2 -
+CO-5 - - - - 2 3
+UNIT–I:
+Meaning of research problem, Sources of research problem, Criteria Characteristics
+of a good research problem, Errors in selecting a research problem, Scope and
+objectives of research problem.
+Approaches of investigation of solutions for research problem, data collection,
+analysis, interpretation, Necessary instrumentations
+UNIT–II:
+Effective literature studies approaches, analysis, Plagiarism, Research ethics
+UNIT–III:
+Effective technical writing, how to write report, Paper Developing a Research
+Proposal, Format of research proposal, a presentation and assessment by a review
+committee
+UNIT–IV:
+Nature of Intellectual Property: Patents, Designs, Trade and Copyright. Process of
+Patenting and Development: technological research, innovation, patenting,
+development. International Scenario: International cooperation on Intellectual
+Property. Procedure for grants of patents, Patenting under PCT.
+UNIT–V:
+Patent Rights: Scope of Patent Rights. Licensing and transfer of technology. Patent
+information and databases. Geographical Indications. New Developments in IPR:
+Administration of Patent System.
+New developments in IPR; IPR of Biological Systems, Computer Software etc.
+Traditional knowledge Case Studies, IPR and IITs
+TEXT BOOKS:
+1. Research Methodology: An Introduction for Science & Engineering Students, Stuart
+Melville and Wayne Goddard
+2. Research Methodology: An Introduction, Wayne Goddard and Stuart Melville
+3. Research Methodology: A Step by Step Guide for beginners, Ranjit Kumar, 2nd
+Edition
+REFERENCES:
+1. Resisting Intellectual Property, Halbert, Taylor & Francis Ltd., 2007
+2. Industrial Design, Mayall, McGraw Hill, 1992
+3. Product Design, Niebel, McGraw Hill, 1974
+4. Intellectual Property in New Technological Age, Robert P. Merges, Peter S. Menell,
+Mark A. Lemley, 2016
+5. Intellectual Property Rights Under WTO, T. Ramappa, S. Chand, 2008
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PC1CD05) ADDITIVE MANUFACTURING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: CAD
+COURSE OBJECTIVES:
+• To know the fundamentals and process chain involved in AM
+• To understand the liquid based and solid based AM Systems
+• To understand the powder based processes, rapid tooling & data formats involved
+in AM
+• To know about the applications and post processing of AM
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Summarize the knowledge of fundamentals and process chain involved in AM
+CO-2: Explain about the liquid and solid based AM Systems
+CO-3: Explain the powder based processes, rapid tooling & data formats involved in
+AM
+CO-4: Apply the knowledge of applications and plan the post processing methods
+involved in AM
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 1 3 - 3 3
+CO-2 3 1 3 - 3 3
+CO-3 3 1 3 - 3 3
+CO-4 3 1 3 - 3 3
+CO-5 3 1 3 - 3 3
+UNIT–I:
+Introduction: Prototyping fundamentals: Need for time compression in product
+development, Need for Additive Manufacturing, Historical development, AM Process
+Chain, Advantages and Limitations of AM, Classification of AM process, Distinction
+between AM and CNC.
+UNIT–II:
+Liquid-based AM Systems: Stereo lithography Apparatus (SLA): Principle, Process,
+Applications, Advantages and Disadvantages, Solid ground curing (SGC): Principles,
+Processes, Applications, Advantages and Disadvantages, Poly jet: Principle, Process,
+Applications, Advantages and Disadvantages.
+Solid-based AM Systems: Laminated Object Manufacturing (LOM): Principle, Process,
+Applications, Advantages and Disadvantages, Fused Deposition Modeling (FDM):
+Principle, Process, working principle, Applications, Advantages and Disadvantages,
+Multi-Jet Modelling (MJM): Principle, Process, Applications, Advantages and
+Disadvantages.
+UNIT–III:
+Powder Based AM Systems: Selective laser sintering (SLS): Principle, Process,
+Applications, Advantages and Disadvantages, Three-dimensional Printing (3DP):
+Principle, Process, Applications, Advantages and Disadvantages
+Laser Engineered Net Shaping (LENS): Principle, Process, Applications, Advantages
+and Disadvantages, Electron Beam Melting (EBM): Principle, Process, Applications,
+Advantages and Disadvantages
+Rapid Tooling: Introduction to Rapid Tooling (RT), Indirect Methods of Rapid Tooling:
+Investment Cast Tooling, 3D Keltool, Spray Metal Tooling. Direct Methods of Rapid
+Tooling: SLS, EBM Tooling, Direct Metal Laser Sintering (DMLS) and Laminated Tooling
+UNIT–IV:
+AM Data Formats: Basic concept, CAD data formats, CAD model preparation, Part
+orientation and support generation, about STL File & its errors and Overview of Reverse
+Engineering.
+AM Software: Overview of various AM software’s like Materialise Magics and Mimics
+only.
+UNIT–V:
+Applications and Post Processing of AM:
+AM Applications: Applications in Engineering, Analysis and Planning, Applications in
+Aerospace & Defense Industry, Automotive Industry, Bio-Medical Applications,
+Applications in Jewelry, Coin & Tableware Industry.
+Post Processing: Introduction, Post Processing Techniques like Support material
+removal, Cleaning, Sanding and Polishing for FDM Techniques and Overview of Post
+Processing involved in Metal Additive Manufacturing.
+TEXT BOOKS:
+1. Additive Manufacturing Technologies: Rapid Prototyping to Direct Digital
+Manufacturing, Ian Gibson, David W. Rosen, Brent Stucker, Springer, 2010
+2. Rapid Prototyping, Gebhardt A., Hanser Gardener Publications, 2003
+REFERENCES:
+1. Rapid Prototyping: Principles and Applications, Chua C. K., Leong K. F., and Lim C.
+S., 3rd Edition, World Scientific Publishers, 2010
+2. Rapid Prototyping and Engineering Applications: A Tool Box for Prototype
+Development, Liou L. W. and Liou F. W., CRC Press, 2007
+3. Rapid Prototyping: Theory and Practice, Kamrani A. K. and Nasr E. A., Springer,
+2006
+4. Rapid Tooling: Technologies and Industrial Applications, Hilton P. D. and Jacobs P.
+F., CRC Press, 2000
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PC1AM04) MODELING AND SIMULATION OF MANUFACTURING SYSTEMS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the basics of simulation modeling and its applications in
+manufacturing
+• To evaluate the parameters, develop and validate simulation models
+• To random number and random variate generation using different techniques
+• To create awareness on various simulation languages and analyzing the output
+data
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Classify the types of models and summarize the applications of simulation
+CO-2: Estimate the parameters through hypothesis testing
+CO-3: Build and validate simulation model
+CO-4: Generate random numbers and variates to execute a simulation model
+CO-5: Analyze and interpret the output data of using simulation languages
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 2 3 3 2 1
+CO-2 2 1 1 3 3 2
+CO-3 1 1 2 3 3 3
+CO-4 1 2 2 3 2 2
+CO-5 2 2 2 2 3 3
+UNIT-I:
+Introduction: Simulation – advantages and disadvantages, System environment,
+Components of a system, Model of a system, Types of models, Steps in a simulation
+study
+Applications of Simulation: Simulation of queuing system, Simulation of Inventory
+system, Simulation of manufacturing and material handling system
+UNIT-II:
+Parameter Estimation: Introduction, Estimator – properties, Estimate - Point estimate,
+Estimation of confidence interval, Hypothesis testing, Steps and errors in hypothesis
+testing, The Strong law of large numbers.
+UNIT-III:
+Building of Simulation Model and Validation: Verification, Credibility-their timing,
+Principles of valid simulation modeling, Techniques for verification, Statistical
+procedures for developing credible model, Modeling of stochastic input elements,
+Importance, Various procedures, Theoretical distributions and their suitability in
+modeling
+UNIT-IV:
+Generation of Random Variates: Factors for selection, Methods: Inverse transform,
+Composition, Convolution and acceptance-rejection, Generation of random variants
+for Uniform, Exponential, Weibull and Normal distributions, Generation of discrete
+random variants for Bernoulli, Binomial, Uniform and Poisson distributions
+UNIT-V:
+Output Data Analysis: Types of simulation with respect to output data analysis, Warm-
+up period, Welch algorithm, approaches for steady state analysis, Replication &
+batch means methods.
+Simulation Languages: Introduction, Comparison of simulation packages with
+programming languages, Classification of simulation software, Desirable software
+features, General purpose simulation packages
+TEXT BOOKS:
+1. Simulation Modelling and Analysis, Law A. M. & Kelton, McGraw Hill Edition, 1991
+2. Discrete Event System Simulation, Banks J. & Carson J. S., PH/Englewood Cliffs, 1984
+REFERENCES:
+1. A Course in Simulation, Ross S. M., McMillan, 1990
+2. Simulation of Manufacturing Systems, Carrie A., Wiley, 1990
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PC1CD04) FINITE ELEMENT ANALYSIS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Numerical Methods, Engineering Mechanics, Solid
+Mechanics
+COURSE OBJECTIVES:
+• To understand the concept of Finite Element Method, Identify the areas of
+application of FEM and study the procedure
+• To solve linear problems by numerical methods and differentiate them
+• To apply the concept of FEM to solve basic non-linear problems
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand and Apply the concepts of FEM to one-dimensional structural
+systems
+CO-2: Analyze two dimensional and three-dimensional cases
+CO-3: Formulate scalar field variables
+CO-4: Analyze time dependent systems to determine Eigen vectors
+CO-5: Formulate flexural behavior of plates and material nonlinearity
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 3 - 2 - -
+CO-2 2 3 - 2 - -
+CO-3 - 3 - 2 - -
+CO-4 - 3 - 2 - -
+CO-5 2 3 - 2 - -
+UNIT-I:
+Introduction to FEM: basic concepts, historical background, application of FEM,
+general description, comparison of FEM with other methods, variational approach,
+Galerkin Methods.
+Co-ordinates, basic element shapes, interpolation function, Virtual energy principles,
+Rayleigh – Ritz method, properties of stiffness matrix, treatment of boundary
+conditions, solution of system of equations, Basic equations of elasticity, strain
+displacement relations and equilibrium equations.
+One Dimensional Problems: Formulation of Stiffness Matrix for a Bar Element by the
+Principle of Minimum Potential Energy, Properties of Stiffness Matrix, Characteristics of
+Shape Functions, Quadratic shape functions.
+UNIT-II:
+Analysis of Trusses: Derivation of Stiffness Matrix for Trusses, Stress and strain
+Calculations, Calculation of reaction forces and displacements.
+Analysis of Beams: Derivation of Stiffness matrix for linear beam element, Load Vector,
+Deflection, Stresses, Shear force and Bending moment, Problems on uniform and
+stepped beams for different types of loads applied on beams, Beam on elastic
+supports.
+UNIT-III:
+Finite Element – Formulation of 2D Problems: Derivation of Element stiffness matrix for
+two dimensional CST Element, Derivation of shape functions for CST Element, Elasticity
+Equations, constitutive matrix formulation, Formulation of Gradient matrix. Two
+dimensional Isoparametric Elements and Numerical integration.
+Finite Element – Formulation of 3D Problems: Derivation of Element stiffness matrix for
+Tetrahedron Element, Properties of Shape functions for 3D Tetrahedral Element, Stress-
+Strain Analysis for 3D Element, Strain Displacement for Relationship Formulation.
+Problems on Axisymmetric analysis
+UNIT-IV:
+Steady State Heat Transfer Analysis: One Dimensional Finite Element analysis of fin and
+composite slabs. Two-dimensional steady state heat transfer problems: Derivation of
+Thermal Stiffness matrix for 2D heat transfer problems-CST, Derivation of thermal force
+vector for 2D heat transfer problems. Problems on Axisymmetric heat transfer analysis.
+Introduction to Torsional problems.
+Dynamic Analysis: Formulation of mass matrices for uniform bar, beam and 2D
+triangular Elements using lumped and consistent mass methods, Evaluation of Eigen
+values and Eigen vectors for a stepped bar and beam Problems.
+UNIT-V:
+Plate Bending: Introduction – Plate behavior – C1 (Kirchoff) Plate elements – C0
+(Mindlin) Plate elements – Mindlin beam – More devices for C0 Plate elements –
+Boundary conditions - Analytical problems.
+Nonlinear Finite Element of Solids: Material Nonlinearities, objective rates, nonlinear
+elasticity, Plasticity, viscoplasticity, viscoelasticity
+TEXT BOOKS:
+1. Introduction to Finite Elements in Engineering, Chandrupatla and Belegundu, 4th
+Edition, Prentice Hall of India
+2. A First Course in Finite Element Method, Logan Deryl L., 5th Edition, Thomson
+Brook/Cole
+3. Concepts and Applications of Finite Element Analysis, Cook R. D., 4th Edition, Wiley
+REFERENCES:
+1. Finite Element Procedures in Engineering Analysis, Bathe K. J., Cliffs, Eastern
+Economy Edition, PHI Learning
+2. The Finite Element Methods in Engineering, S. S. Rao, Pergamon
+3. An Introduction to Finite Element Methods, J. N. Reddy, McGraw Hill
+4. The Finite Element Method in Engineering Science, O. C. Zienkowitz, McGraw Hill
+5. Fundamentals of Finite Element Analysis, Hutton D. V.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1AM07) QUALITY ENGINEERING IN MANUFACTURING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To comprehend the various quality tools and principles of Quality Loss Function
+• To apply the robust design methodology in solving practical engineering problems
+• To determine the variation in experimental data and analyze the residuals through
+regression
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Value the concept of quality, use quality tools and evaluate the quality loss
+CO-2: Design and conduct the experiments using appropriate array for predicting
+optimal results
+CO-3: Analyze and interpret the experimental data for variation and residuals
+CO-4: Develop and assess regression models
+CO-5: Perform & interpret a proper response surface analysis using appropriate
+experimental designs
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 - - 3 2 3
+CO-2 3 - - 3 2 3
+CO-3 3 - - 3 3 3
+CO-4 3 - - 2 3 3
+CO-5 3 - - 2 3 3
+UNIT-I:
+Quality Value and Engineering: Quality engineering in product design, design of
+production processes and production, Overview of Quality Tools - Fishbone diagram,
+Brainstorming, Quality circles, Benchmarking, Six-sigma, ISO-9000 Quality system
+Loss Function and Quality Level: Quality Loss Function (QLF) for N-type, S-type and L-
+type characteristics, Use of QLF, Economic consequences of tightening tolerances as
+a means to improve quality
+UNIT-II:
+Orthogonal Arrays: Introduction, Degrees of Freedom, Linear Graphs & Interaction
+tables, Strategies in Experimentation - Typical, Better & efficient, Steps in designing,
+conducting and analyzing an experiment
+UNIT-III:
+Analysis of Variance (ANOVA): No-way ANOVA, One-way ANOVA, Two-way ANOVA,
+Types of Errors, ANOVA for four level factors, Critique of F-test, Interpretation of
+experimental results, Percent contribution.
+UNIT-IV:
+Parameter Design: Introduction to parameter design, Signal to noise ratios, Parameter
+design strategy, Numericals on S/N analysis
+Tolerance Design: Functional limits, Tolerance design for N-type, L-type and S-type
+characteristics, Tolerance allocation for multiple components
+UNIT-V:
+Regression Modeling: Introduction, Linear regression models, Estimation of linear
+regression models, Hypothesis testing and confidence intervals in multiple regression,
+Prediction of New Response Observations, Regression Model diagnostics
+Response Surface Design: Introduction, Method of steepest ascent, Analysis of a
+second-order response surface, Experimental designs for fitting response surfaces
+TEXT BOOKS:
+1. Taguchi Techniques for Quality Engineering, Philip Ross, McGraw Hill, 2005
+2. Quality Engineering in Production Systems, G. Taguchi, El Sayed, T. C. Hsiang,
+McGraw Hill, 1989
+3. Design and Analysis of Experiments, D. C. Montgomery, 8th Edition, Wiley & Sons,
+2013
+REFERENCES:
+1. Quality Engineering using Robust Design, M. S. Phadke, Pearson Education, 2008
+2. Taguchi’s Quality Engineering Handbook, G. Taguchi, Subir Chowdhary, Yuin Wu,
+Wiley & Sons, 2005
+ONLINE RESOURCES:
+1. https://onlinecourses.nptel.ac.in/noc21_mg48/preview
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1CD10) PRODUCT DESIGN AND DEVELOPMENT STRATEGIES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Engineering Drawing, Engineering Design, Manufacturing
+COURSE OBJECTIVES:
+• To comprehend the basic concepts of product design and development process
+• To apply structural approach to concept generation, selection and testing in
+product development
+• To analyze the product features and its architecture so as to incorporate them
+suitably in product
+• To apply economic analysis in product development and recognize intellectual
+property issues
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Implement the product design and development process and the integrate
+customer requirements in product design
+CO-2: Apply structural approach to concept generation, selection and testing
+CO-3: Demonstrate the skills in creation of a product by considering various aspects
+like product architecture, industrial design and design for manufacture
+CO-4: Evaluate the economics of product design and development
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 3 2 1 3 1
+CO-2 2 2 2 1 3 1
+CO-3 3 2 1 2 2 1
+CO-4 1 1 2 1 2 1
+UNIT-I:
+Introduction: Introduction to product design and development, Characteristics of
+successful product development, Composition of product development team,
+Challenges of product development, Generic product development process and its
+adaptation, Process flows for various product developments, Product development
+organizations.
+UNIT-II:
+Customer Needs: Raw data collection, Its interpretation in terms of customer needs,
+Organizing the needs into hierarchy, Establishing the relative importance of needs
+and its reflection on the results.
+Product Specifications: Definitions, When to establish specifications, Establishing target
+specifications, Setting final specifications
+UNIT-III:
+Concept Generation, Selection & Testing: Activity of concept generation, Five step
+method, Introduction to concept selection, Benefits of structured method, Concept
+screening, Concept scoring, Concept testing methodology
+UNIT-IV:
+Product Architecture: Introduction, Its implications, Establishing the architecture,
+Platform planning, Design issues, DFE Industrial Design: Industrial design process –
+Need, Impact, Management and Assessment
+UNIT-V:
+Design for Manufacturing & Prototyping: DFM defined, DFM process, Introduction to
+prototyping - Principles Technologies, Planning for prototypes.
+Economics of Product Development: Elements, Economic analysis process, Factors for
+success of project, Qualitative analysis
+TEXT BOOKS:
+1. Product Design and Development, Karl T. Ulrich and Steven D. Eppinger, Tata
+McGraw Hill
+2. Product Design, Kevin Otto and Kristin Wood, Pearson Education
+REFERENCES:
+1. Engineering Design, George E. Dieter, Linda C. Schmidt, McGraw-Hill International
+2. Engineering Design Process, Yousef Haik, T. M. M. Shahin, Cengage Learning
+3. Engineering Design: A Project-based Introduction, Clive L. Dym, Patrick Little, John
+Wiley & Sons
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1CD07) OPTIMIZATION TECHNIQUES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the classification of optimization techniques and its practical use
+• To understand about the optimization of one dimensional optimization methods
+• To knows about constrained minimization method
+• To understands Geometric and dynamic programming
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply the different types of optimization techniques for different purposes
+CO-2: Formulates and solve the problems by using one dimensional unconstrained
+minimization methods
+CO-3: Formulates and solve the problems (industrial/research) by using the geometric
+programming
+CO-4: Formulate and solve the industrial problems by using the dynamic programming
+methods and genetic algorithms
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 - 3 3 3 - -
+CO-2 - 3 3 3 - -
+CO-3 - 3 3 3 - -
+CO-4 - 3 3 3 - -
+UNIT-I:
+Introduction to optimization, classification of optimization problems, classical
+optimization techniques.
+UNIT-II:
+One-Dimensional Minimization Methods: Uni-model Function; Elimination Methods –
+Dichotomous Search, Fibonacce and Golden Section Methods; Interpolation
+Methods – Quadratic and Cubic Interpolation Methods.
+UNIT-III:
+Unconstrained Minimization Methods: Univariate, Conjugate Directions, Gradient and
+Variable Metric Methods. Constrained Minimization Methods: Characteristics of a
+constrained problem; Direct Methods of feasible directions; Indirect Methods of
+interior and exterior penalty functions.
+UNIT-IV:
+Geometric Programming: Formulation and Solutions of Unconstrained and
+Constrained geometric programming problems.
+UNIT-V:
+Genetic Algorithms: Introduction to Genetic Algorithms, Operators, applications to
+engineering optimization, Problems.
+TEXT BOOKS:
+1. Operations Research, S. D. Sharma, Kedarnath Ramnath
+2. Engineering Optimization, S. S. Rao, New Age International, 2014
+3. Introduction to Genetic Algorithms, S. N. Sivanandam, Springer
+REFERENCES:
+1. Operations Research-An Introduction, H. A. Taha, PHI, 2008
+2. Principles of Operations Research, H. M. Wagner, PHI, 1982
+3. Introduction to Optimization: Operations Research, J. C. Pant, Jain Brothers, 2008
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1AM08) TOOL DESIGN
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Design Principles, Machine Tools, Process Engineering
+COURSE OBJECTIVES:
+• To list and inspect the properties of tool materials such as ferrous, non-ferrous, non-
+metallic materials and their heat treatment
+• To interpret the single and multi-point cutting tools for various applications
+• To build the sheet metal tools for blanking, piercing, bending, forming and drawing
+etc.
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply an appropriate heat treatment process for the tools
+CO-2: Evaluate the design and performance of single and multi-point cutting tools for
+various methods
+CO-3: Examine the design of sheet metal tools for blanking, piercing, bending, forming
+and drawing
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 1 3 2 1 1
+CO-2 3 - - 1 1 -
+CO-3 3 1 1 1 - 1
+UNIT-I:
+Tool Materials: Properties of materials- Tools steels, Cast Iron, Mild or low carbon steels,
+Nonmetallic and Nonferrous materials and its Heat treatment.
+UNIT-II:
+Design of Cutting Tools: Basic requirements of a cutting tool, Single Point cutting tools,
+Milling cutters, Drills, Determination of shank size for Single Point carbide tools,
+determining the insert thickness for carbide tools
+UNIT-III:
+Design of Jigs and Fixtures: Basic principles of location, Locating methods and
+devices, Basic principles of clamping, Jigs-Definition, Types, General considerations in
+the design of Drill jigs, Drill bushing, Fixtures- Vise fixtures, Milling, Boring, Lathe and
+Grinding fixtures.
+UNIT-IV:
+Design of Sheet Metal Blanking and Piercing Dies: Fundamentals of Die cutting
+operation, Power press types, General press information, Cutting action in Punch, Die
+operations, Die clearance, Die design fundamentals-Blanking and piercing die
+construction, pilots, stripper and pressure pads.
+UNIT-V:
+Design of Sheet Metal Bending, Forming and Drawing Dies: Bending dies, drawing dies,
+forming dies, drawing operations, Variables that effect metal flow during drawing.
+Determination of blank size, drawing force.
+TEXT BOOKS:
+1. Tool Design, Donaldson, Tata McGraw Hill
+2. Production Technology, HMT/ Tata McGraw Hill
+REFERENCES:
+1. Production Technology, R. K. Jain and S. C. Gupta
+2. Mechanical Metallurgy, George F. Dieter, Tata McGraw Hill
+3. Machine Tools, C. Elanchezhian & M. Vijayan, Anuradha Publications
+4. Principles of Machine Tools, Battacharya A. and Sen G. C., New Central Book
+Agency
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1CD08) REVERSE ENGINEERING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Additive Manufacturing
+COURSE OBJECTIVES:
+• To understand the reverse engineering and its methodologies
+• To comprehend data acquisition techniques for reverse engineering
+• To understand integration between reverse engineering and additive
+manufacturing
+• To know the applications of reverse engineering
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Basic understanding of reverse engineering and its methodologies
+CO-2: Understanding the data acquisition techniques for reverse engineering
+CO-3: Understanding of amalgamation between reverse engineering and additive
+manufacturing
+CO-4: Adapt the knowledge gained in reverse engineering for various applications
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 2 - - 1 -
+CO-2 - 1 - 2 - 1
+CO-3 - - 3 - 2 -
+CO-4 1 - - 1 - 2
+UNIT-I:
+Introduction to Reverse Engineering: Need, Definition, The Generic Process, History of
+Reverse Engineering, Overview of Applications
+UNIT-II:
+Methodologies and Techniques: Potential for Automation with 3-D Laser Scanners,
+Computer-aided (Forward) Engineering, Computer-aided Reverse Engineering,
+Computer Vision and Reverse Engineering
+UNIT-III:
+Data Acquisition Techniques: Contact Methods: Coordinate Measurement Machine
+and Robotic Arms, Noncontact Methods: Triangulation, Structured Light and
+Destructive Method
+UNIT-IV:
+Integration Between Reverse Engineering and Additive Manufacturing: Modeling
+Cloud Data, Integration of RE and AM for Layer-based Model Generation, Adaptive
+Slicing Approach for Cloud Data Modeling.
+UNIT-V:
+Applications:
+Automotive: Workflow for Automotive Body Design, Reverse Engineering for Better
+Quality
+Aerospace: RE in Aerospace–A Work in Progress, Reducing Costs of Hard Tooling
+Medical: Orthodontics, Hearing Instruments, Knee Replacement
+TEXT BOOKS:
+1. Reverse Engineering: An Industrial Perspective, V. Raja and K. Fernandes, Springer-
+Verlag
+2. Reverse Engineering, K. A. Ingle, McGraw-Hill
+3. Rapid Prototyping, Ali Kamrani, Emad Nasr, Springer, 2006
+REFERENCES:
+1. Smart Product Engineering, Michael Abramovici, Rainer Stark, Springer Berlin
+Heidelberg
+2. Product Design: Techniques in Reverse Engineering and New Product
+Development, K. Otto and K. Wood, Prentice Hall, 2001
+ONLINE RESOURCES:
+1. https://www.polyga.com/reverse-engineering-101-scan-to-cad/
+2. https://www.bftinternational.com/en/artikel/bft_Reverse_engineering_technique
+s_From_3D_sc anning_to_the _CAD_file_in_the_3357131.html
+3. https://physicaldigital.com/what-is-reverse-engineering/
+4. https://all3dp.com/2/reverse-engineering-software-reverse-engineering-tools/
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PC1CD06) INDUSTRIAL ROBOTICS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Mathematics and Logic Gates
+COURSE OBJECTIVES:
+• To understand the anatomy, classification, basic components, and motions of the
+robot
+• To study various types of drive systems, end effectors and sensors
+• To impart knowledge in robot kinematics and programming
+• To study robot cell design and industrial applications of robots
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply the knowledge of robot anatomy to choose the robot
+CO-2: Analyze robot drive systems and end effectors, kinematics, sensors and
+machine vision system
+CO-3: Program the robot
+CO-4: Build robot cell and choose robots for industrial applications
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 1 2 - 1 -
+CO-2 2 2 2 - 1 -
+CO-3 2 2 2 - 1 -
+CO-4 2 2 2 - 1 -
+UNIT-I:
+Fundamentals of Robot: Definition, Anatomy, Coordinate Systems, Work Envelope,
+Types and Classification, Specifications-Pitch, Yaw, Roll, Joint Notations, Speed of
+Motion, Pay Load, Robot Parts and their functions, Configuration of robot controller,
+Need for Robots, applications.
+UNIT-II:
+Robot Drive Systems and End Effectors: Pneumatic Drives-Hydraulic Drives-Mechanical
+Drives, Electrical Drives-D.C. Servo Motors, Stepper Motors, A.C. Servo Motors-Salient
+Features, Applications and Comparison of all these Drives, End Effectors-Grippers-
+Mechanical Grippers, Pneumatic and Hydraulic- Grippers, Magnetic Grippers,
+Vacuum Grippers; Two Fingered and Three Fingered Grippers; Internal Grippers and
+External Grippers; Selection and Design Considerations.
+UNIT-III:
+Robot Sensors and Machine Vision: Position sensors, velocity sensors, tactile sensors,
+proximity and range sensors, uses of sensors in robotics.
+Machine Vision: Functions, Sensing and Digitizing-imaging, Devices, Lighting
+techniques, Analog to digital single conversion, image storage; Image processing and
+Analysis-image data reduction, Segmentation feature extraction.
+UNIT-IV:
+Robot Kinematics: Introduction to manipulator kinematics, Joint coordinates, and
+world coordinates, Forward and inverse Kinematics, Problems.
+Robot Programming: Lead through Programming, Robot programming Languages-
+VAL Programming-Motion Commands, Sensor Commands, End Effector commands
+and simple Programs.
+UNIT-V:
+Robot Cell Design and Control: Robot cell layouts-Robot centered cell, In-line robot
+cell, Considerations in work cell design, Workcell control, Interlocks, Error detection,
+Work cell controller.
+Robot Applications: Material transfer, Machine loading/unloading, Processing
+operation, assembly Inspection, Future Applications.
+TEXT BOOKS:
+1. Industrial Robotics - Technology Programming and Applications, Groover M. P.,
+McGraw Hill, 2001
+2. Robotic Engineering - An Integrated Approach, Klafter R. D., Chmielewski T. A. and
+Negin M., Prentice Hall, 2003
+REFERENCES:
+1. Introduction to Robotics Mechanics and Control, Craig J. J., Pearson Education,
+2008
+2. Robotics Technology and Flexible Automation, Deb S. R., Tata McGraw Hill, 1994
+3. Robotics for Engineers, Koren Y., McGraw Hill, 1992
+4. Robotics Control, Sensing, Vision and Intelligence, Fu K. S., Gonzalz R. C. and Lee
+C. S., McGraw Hill, 1987
+5. Robotics and Image Processing, Janakiraman P. A., Tata McGraw Hill, 1995
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1AM09) COMPOSITE MATERIALS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Maths, Physics, Chemistry, Engineering Mechanics,
+Mechanics of Solids
+COURSE OBJECTIVES:
+• To understand composite materials and their properties, relationship between
+them and manufacturing methods
+• To understand the principles of material science applied to composite materials
+• To study the equations to analyze problems by making good assumptions and
+learn systematic engineering methods to solve practical composite mechanics
+problems
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply fundamental knowledge of mathematics to modeling and analysis of
+composite materials
+CO-2: Understand the manufacturing methods of various composite materials
+CO-3: Analyze the Strength of composites for lamina and laminate level
+CO-4: Analyze the failure modes of composites
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 - 2 - 1 3 -
+CO-2 3 1 - 2 - -
+CO-3 - 2 3 - 1 -
+CO-4 - 3 2 2 - -
+UNIT-I:
+Introduction: Definition – Classification and characteristics of Composite materials.
+Advantages and application of composites. Functional requirements of
+reinforcement and matrix. Effect of reinforcement (size, shape, distribution, volume
+fraction) on overall composite performance. Nature made composites.
+UNIT-II:
+Reinforcements: Preparation-layup, curing, properties and applications of glass fibers,
+carbon fibers, Kevlar fibers and Boron fibers. Properties and applications of whiskers,
+particle reinforcements.
+Manufacturing of Ceramic Matrix Composites: Liquid Metal Infiltration – Liquid phase
+sintering. Manufacturing of Carbon – Carbon composites: Knitting, Braiding, Weaving.
+Properties and applications.
+Mechanical Behavior of Composites: Rule of mixtures, Inverse rule of mixtures. Isostrain
+and Isostress conditions.
+UNIT-III:
+Manufacturing of Metal Matrix Composites: Casting – Solid State diffusion technique,
+Cladding – Hot isostatic pressing. Properties and applications.
+Manufacturing of Polymer Matrix Composites: Preparation of Moulding compounds
+and prepregs – hand layup method – Autoclave method – Filament winding method
+– Compression moulding – Reaction injection moulding. Properties and applications,
+Introduction to Machining of Composites.
+UNIT-IV:
+Macro-mechanical Analysis of a Lamina: Introduction, Definitions Stress, Strain, Elastic
+Moduli, Strain Energy. Hooke’s Law for Different Types of Materials, Hooke’s Law for a
+Two-Dimensional Unidirectional Lamina, Plane Stress Assumption, Reduction of
+Hooke’s Law in Three Dimensions to Two Dimensions, Relationship of Compliance and
+Stiffness Matrix to Engineering Elastic Constants of a Lamina.
+UNIT-V:
+Macro-mechanical Analysis of Laminates: Introduction, Laminate Code, Stress–Strain
+Relations for a Laminate, In-Plane and Flexural Modulus of a Laminate, Hygrothermal
+Effects in a Laminate, Warpage of Laminates.
+Strength: Laminar Failure Criteria-strength ratio, maximum stress criteria, maximum
+strain criteria, interacting failure criteria. Laminate first ply failure-insight strength;
+Laminate strength-ply discount truncated maximum strain criterion; strength design
+using caplet plots; stress concentrations.
+TEXT BOOKS:
+1. Mechanics of Composite Materials, (Mechanical Engineering), Autar K. Kaw, 2nd
+Edition, CRC
+2. Engineering Mechanics of Composite Materials, Isaac and M. Daniel, Oxford
+University Press, 1994
+3. Material Science and Technology, Vol. 13–Composites, R. W. Cahn, VCH
+REFERENCES:
+1. Mechanics of Composite Materials, Robert M. Jones, 2nd Edition, Scripta Book
+Company
+2. Analysis and performance of Fibre Composites, B. D. Agarwal and L. J. Broutman,
+Wiley Inderscience, 1980
+3. Materials Science and Engineering-An Introduction, W. D. Callister Jr., Adapted by
+R. Bala Subramaniam, John Wiley & Sons, 2007
+4. Composite Materials, K. K. Chawla
+5. Composite Materials Science and Applications, Deborah, D. L. Chung
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1AM10) MICRO AND NANO MANUFACTURING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To know different techniques of creating nanomaterials along with
+characterization and synthesis
+• To demonstrate photolithographic process to fabricate miniature devices
+• To introduce micro‐nano manufacturing approaches for MEMS
+• To know about various applications of MEMS and nanofabrication approaches
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand manufacturing techniques of nanomaterials along with synthesis
+and characterization
+CO-2: Create and analyze methods and tools for micro-manufacturing
+CO-3: Select micro and nano-manufacturing methods for MEMS
+CO-4: To provide understanding of nanofabrication techniques and MEMS
+applications specially sensors
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 2 2 2 1 1
+CO-2 2 2 2 2 1 1
+CO-3 2 2 2 1 1 1
+CO-4 2 2 2 1 1 1
+UNIT-I:
+Introduction: Importance of Nano-technology, Emergence of Nanotechnology,
+Bottom-up and Top-down approaches, challenges in Nanotechnology, Scaling Laws
+in Mechanics, fluids, thermodynamics, Electromagnetism, tribology and Examples.
+Trimmer force scaling vector.
+UNIT-II:
+Methods for creating Nanostructures; Processes for producing ultrafine powders-
+Mechanical grinding; Wet Chemical Synthesis of nano-materials- sol-gel process,
+Liquid solid reactions; Gas Phase synthesis of nano-materials Furnace, Flame assisted
+ultrasonic spray pyrolysis; Gas Condensation Processing (GPC), Chemical Vapour
+Condensation (CVC)- Cold Plasma Methods, Laser ablation, Vapour – liquid –solid
+growth, particle precipitation aided CVD, summary of Gas Condensation Processing
+(GPC).
+UNIT-III:
+Structural Characterization: X-ray diffraction, Small angle X-ray Scattering, Optical
+Microscope and their description, Scanning Electron Microscopy (SEM), Scanning
+Probe Microscopy (SPM), TEM and EDAX analysis, Scanning Tunneling Microscopy
+(STM), Atomic force Microscopy (AFM).
+UNIT-IV:
+Micro-fabrication Techniques: Lithography, Thin Film Deposition and Doping, Etching
+and Substrate Removal, Substrate Bonding, MEMS Fabrication Techniques, Bulk
+Micromachining, Surface Micromachining, High- Aspect-Ratio Micromachining.
+UNIT-V:
+Nanofabrication Techniques: E-Beam and Nano-Imprint Fabrication, Epitaxy and
+Strain Engineering, Scanned Probe Techniques, Self-Assembly and Template
+Manufacturing
+MEMS Devices and Applications: Pressure sensor, Inertial sensor, Optical MEMS and
+RFMEMS, Micro-actuators for dual-stage servo systems.
+TEXT BOOKS:
+1. MEMS and Microsystems: Design and Manufacture, Tai-Ran Hsu, McGraw- Hill, 2008
+2. Fundamentals of Microfabrication: The Science of Miniaturization, Marc Madou,
+2nd Edition, CRC Press, 2002
+3. Microfabrication and Nano manufacturing, Mark James Jackson, CRC Press, 2005
+REFERENCES:
+1. Introduction to Nanoscience and Nanotechnology, Gabor L. Hornyak, H. F. Tibbals,
+Joydeep Dutta & John J. Moore, CRC Press, 2009
+2. Physical Principles of Electron Microscopy: An Introduction to TEM, SEM, and AEM,
+Ray F. Egerton, Springer, 2005
+3. Thermal Analysis of Materials, Robert F. Speyer, Marcel Dekker, 1994
+4. Elements of X-Ray Diffraction, B. D. Cullity, 3rd Edition, Prentice Hall, 2002
+5. Micromanufacturing & Nanotechnology, N. P. Mahalik, Springer
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1AM11) MATERIALS TECHNOLOGY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To comprehend the basic principles of elasticity and plasticity
+• To impart design and development aspects of Fracture mechanics
+• To understand selection process of relevant to properties of materials
+• To evaluate the development of modern materials and applications
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Implement concepts of elasticity and plasticity for material analysis
+CO-2: Apply the concepts and selection techniques for preventing materials failure
+CO-3: Design materials using various failure theories for different applications
+CO-4: Understand the development of modern materials and technological aspects
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 3 2 2 3 3
+CO-2 3 2 2 3 2 3
+CO-3 2 2 3 2 2 1
+CO-4 1 1 1 3 2 2
+UNIT–I:
+Elasticity in metals and polymers, mechanism of plastic deformation, role of
+dislocations, yield stress, shear strength of perfect and real crystals, strengthening
+mechanism, work hardening, solid solution, grain boundary strengthening. Poly phase
+mixture, precipitation, particle, fiber and dispersion strengthening, effect of
+temperature, stren and strain rate of plastic behaviour, super plasticity, deformation
+of non crystalline material
+UNIT–II:
+Griffth’s Theory, stress intensity factor and fracture Toughness, Toughening
+Mechanisms, Ductile and Brittle transition in steel, High Temperature Fracture, Creep,
+Larson – Miller parameter, Deformation and Fracture mechanism maps.
+UNIT–III:
+Fatigue, Low and High cycle fatigue test, Crack Initiation and Propagation
+mechanism and Paris Law, Effect of surface and metallurgical parameters on Fatigue,
+Fracture of non-metallic materials, fatigue analysis, Sources of failure, procedure of
+failure analysis.
+UNIT–IV:
+Motivation for selection, cost basis and service requirements, Selection for Mechanical
+Properties, Strength, Toughness, Fatigue and Creep. Selection for Surface durability,
+Corrosion and Wear resistance, Relationship between Materials Selection and
+Processing, Case studies in Materials Selection with relevance to Aero, Auto , Marine,
+Machinery and Nuclear Applications.
+UNIT–V:
+Modern Metallic Materials: Dual Steels, Micro alloyed, High Strength Low alloy (HSLA)
+Steel, Transformation induced plasticity (TRIP) Steel, Maraging Steel, Inter metallics, Ni
+and Ti Aluminides, Smart Materials, Shape Memory alloys, Metallic Glass Quasi Crystal
+and Nano Crystalline Materials. Non-metallic Materials: Polymeric materials and their
+molecular structures, Production Techniques for Fibers, Foams, Adhesives and
+Coatings, structure, Properties and Applications of Engineering Polymers, Advanced
+Structural Ceramics WC, TiC, TaC, A12 O3, SiC, Si3 N4, CBN and Diamond – properties,
+Processing and applications.
+TEXT BOOKS:
+1. Mechanical Behavior of Materials, Thomas H. Courtney, 2nd Edition, McGraw Hill,
+2000
+2. Mechanical Metallurgy, George E. Dieter, McGraw Hill, 1998
+REFERENCES:
+1. Selection and Use of Engineering Materials, Charles J. A., 3rd Edition, Butterworth
+Heinemann
+2. Engineering Materials Technology, James A. Jacob, Thomas F. Kilduff, Pearson
+3. Material Science and Engineering, William D. Callister, John Wiley and Sons
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1AM12) INTELLIGENT MANUFACTURING SYSTEMS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the computer integrated manufacturing systems
+• To provide an in-depth understanding of components of knowledge based
+systems
+• To provide an understanding of artificial intelligence
+• To design and develop automated process planning
+• To develop group technology for intelligent manufacturing systems
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Select the necessary tools for computer integrated manufacturing systems
+CO-2: Use appropriate knowledge of components of knowledge based systems
+CO-3: Use machine learning techniques for intelligent manufacturing systems
+CO-4: Apply the concepts of automated process planning
+CO-5: Apply the group technology for intelligent manufacturing systems
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 3 3 1 2 3
+CO-2 2 3 3 1 2 3
+CO-3 2 3 3 1 2 3
+CO-4 2 3 3 1 2 3
+CO-5 2 3 3 1 2 3
+UNIT - I:
+Computer Integrated Manufacturing Systems: Structure and functional areas of CIM
+system, - CAD, CAPP, CAM, CAQC, ASRS. Advantages of CIM. Manufacturing
+Communication Systems - MAP/TOP, OSI Model, Data Redundancy, Top- down and
+Bottom-up Approach, Volume of Information. Intelligent Manufacturing System
+Components, System Architecture and Data Flow, System Operation.
+UNIT - II:
+Components of Knowledge Based Systems: Basic Components of Knowledge Based
+Systems, Knowledge Representation, Comparison of Knowledge Representation
+Schemes, Interference Engine, Knowledge Acquisition.
+UNIT - III:
+Machine Learning: Concept of Artificial Intelligence, Conceptual Learning, Artificial
+Neural Networks - Biological Neuron, Artificial Neuron, Types of Neural Networks,
+Applications in Manufacturing.
+UNIT - IV:
+Automated Process Planning: Variant Approach, Generative Approach, Expert
+Systems for Process Planning, Feature Recognition, Phases of Process planning.
+Knowledge Based System for Equipment Selection (KBSES) - Manufacturing system
+design. Equipment Selection Problem, Modeling the Manufacturing Equipment
+Selection Problem, Problem Solving approach in KBSES, Structure of the KRSES.
+UNIT - V:
+Group Technology: Models and Algorithms Visual Method, Coding Method, Cluster
+Analysis Method, Matrix Formation - Similarity Coefficient Method, Sorting-based
+Algorithms, Bond Energy Algorithm, Cost Based method, Cluster Identification
+Method, Extended CI Method. Knowledge Based Group Technology - Group
+Technology in Automated Manufacturing System. Structure of Knowledge based
+system for group technology (KBSCIT) — Data Base, Knowledge Base, Clustering
+Algorithm.
+TEXT BOOKS:
+1. Intelligent Manufacturing Systems, Andrew Kusiak, Prentice Hall
+2. Artificial Neural Networks, Yagna Narayana, PHI, 2006
+REFERENCES:
+1. Neural Networks: A Comprehensive Foundation, Simon Haykin, PHI
+2. Neural Networks, James A. Freeman, David M. S., Pearson Education, 2004
+3. Introduction to Artificial Neural Systems, Jacek M. Zurada, JAICO Publishing House,
+2006
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PC2AM03) MANUFACTURING AND SIMULATION LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE PRE-REQUISITES: Knowledge of Manufacturing Processes and Simulation
+COURSE OBJECTIVES:
+• To understand the basics of machining operations and joining processes
+• To understand the fused deposition-based 3D printing process
+• To understand fabrication of composite materials
+• To study simulation of queuing systems, inventory systems and Job shop systems
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Experiment on eccentric turning and fabrication of composite materials
+CO-2: Joining similar and dissimilar metals using Friction Stir Welding and TIG welding
+processes
+CO-3: Build 3D printed prototype of mechanical engineering components
+CO-4: Develop, model and simulate real-world problems involving queuing,
+inventory, planning and scheduling systems
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 - - 2 - 3
+CO-2 3 3 2 3 2 3
+CO-3 3 2 2 3 2 3
+CO-4 3 - - 3 3 3
+LIST OF EXERCISES:
+MANUFACTURING PROCESSES
+1. Lathe: Eccentric turning & Facing of Square and Rectangular Block
+2. Milling: Spur Gear cutting
+3. To perform Friction Stir Welding Process on similar metals
+4. To perform Friction Stir Welding Process on dissimilar metals
+5. To prepare butt joint using TIG welding using pulsed/non-pulsed current
+6. Fabrication of composites using vacuum bag technique
+7. Development of prototype component using Fused Deposition Modeling
+MANUFACTURING SIMULATION
+1. Simulation of Single Server Single Queue System
+2. Simulation of Multiple Server Single Queue System
+3. Simulation of Inventory System
+4. Simulation of Flexible Manufacturing System
+5. Simulation of Job Shop Production System
+SOFTWARES: Flexsim
+NOTE:
+1. Processors, Operators, Conveyors, AGVS, Transporters, Racks, Robots, Cranes etc.
+may be used at appropriated places in the exercises
+2. Exercises may include Material Handling Systems, AGV Planning, ASRS Simulation,
+MRP, Shop Floor scheduling, JIT System, Kanban flow.
+REFERENCES:
+1. Flexsim 2022 Help Manual
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PC2CD04) COMPUTER AIDED ENGINEERING LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE PRE-REQUISITES: Engineering Mechanics, Mechanics of Solids, Heat Transfer
+COURSE OBJECTIVES:
+• To introduce fundamentals of the analysis software, its features and applications
+• To learn the basic element types in Finite Element analysis
+• To know the concept of discretization of continuum, Loading conditions and
+• To analyze the structure using pre-processor and postprocessor conditions
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Classify the types of uniaxial members in plane and space to and Evaluate the
+stiffness matrix, B matrix and loading matrices of beam/in plane/solid elements using
+MATLAB software
+CO-2: Generalize Plane stress, plane strain conditions & axisymmetric loading on in
+plane members to predicting the failure behavior and finding the SCF
+CO-3: Analyse connecting rod with solid elements, performing static analysis on flat
+& curved shells to determine stresses, strains with different boundary conditions.
+CO-4: Predict the natural frequencies and modes shapes using Modal, Harmonic
+analysis. Also finding the critical load using Buckling analysis
+CO-5: Simulate steady state heat transfer analysis of chimney, Transient heat transfer
+of castings, Non-linear, Buckling analysis of shells &CFD analysis
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 3 2 2 - 1
+CO-2 1 3 2 2 - 1
+CO-3 1 3 2 2 - 1
+CO-4 1 3 2 2 - 1
+CO-5 1 3 2 2 - 1
+LIST OF PROGRAMS / EXPERIMENTS / EXERCISES:
+1. Analysis of Plane Truss & Spatial Truss with various cross sections and materials under
+static, thermal and combined loading
+2. A) 2D & 3D beam analysis with emphasize on sections, materials, loads (forces and
+moments) and supports
+i. Use of MATLAB for finding B matrix, stiffness matrix and loading matrices of
+beam/in plane/solid elements.
+3. Static analysis of plate (isotropic and orthotropic material) with a hole to determine
+the deformations, the stresses to study the failure behavior and SCF.
+4. Structural analysis in Plane stress, plane strain and axisymmetric loading on the in
+plane members with in plane loading.
+5. Static analysis of connecting rod with tetrahedron and brick elements.
+6. Static Analysis of flat and curved shell due to internal pressure and moments to
+estimate the strains, stresses and reactions forces and moments with different
+boundary conditions
+7. Buckling analysis of plates, shells and beams to estimate BF and modes
+8. Modal analysis of beams, plates and shells for natural frequencies and mode
+shapes
+9. Harmonic analysis of a Shaft subjected to periodic force and transient analysis of
+plate subjected to stepped and ramped loading with varying time
+10. Steady state heat transfer Analysis Cross section of chimney and transient heat
+transfer analysis of solidification of castings.
+11. Nonlinear analysis of cantilever beam with non-linear materials at tip moment and
+post Buckling analysis of shells for critical loads
+12. Coupled field analysis.
+13. Flow analysis of pipe with different fluids/gasses/air for velocity and pressure
+gradients
+14. CFD analysis of aerofoil design
+15. CFD analysis of ducts/impeller/fan
+Note:
+1. Any of FEA software ANSYS/ABAQUS/NASTRAN/NISA/CAEFEM/ADINA may be used
+2. Any 12 experiments to be conducted
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PW4AM02) MINI-PROJECT
+TEACHING SCHEME
+L T/P C CIE SEE TOTAL
+0 4 2 40 60 100
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the formulated industry / technical / societal problems
+CO-2: Analyze and / or develop models for providing solution to industry / technical / societal
+problems
+CO-3: Interpret and arrive at conclusions from the project carried out
+CO-4: Demonstrate effective communication skills through oral presentation
+CO-5: Engage in effective written communication through project report
+COURSE OUTLINE:
+• A student shall undergo a mini-project during II semester of the M.Tech. programme.
+• A student, under the supervision of a faculty member, shall collect literature on an allotted
+project topic of his / her choice, critically review the literature, carry out the project work,
+submit it to the department in a prescribed report form and shall make an oral presentation
+before the departmental Project Review Committee.
+• Evaluation of the mini-project shall consist of CIE and SEE and shall be done by a Project
+Review Committee (PRC) consisting of the Head of the Department, faculty supervisor and
+a senior faculty member of the specialization / department.
+• CIE shall be carried out for 40 marks on the basis of review presentation as per the calendar
+dates and evaluation format.
+• SEE shall be carried out at the end of semester fpr 60 marks on the basis of oral presentation
+and submission of mini-project report.
+• Prior to the submission of mini-project report to the PRC, its soft copy shall be submitted to
+the PG Coordinator for PLAGIARISM check.
+• The mini-project report shall be accepted for submission to the PRC only upon meeting the
+prescribed similarity index of less than 25%.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22MN6HS02) ANCIENT WISDOM
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE-I SE-II SEE TOTAL
+2 0 0 50 50 - 100
+COURSE OBJECTIVES:
+• To introduce the contribution from Ancient Indian system & tradition to modern
+science & Technology
+• To trace, identify and develop the ancient knowledge systems
+• To introduce the sense of responsibility, duties and participation of individual for
+establishment of fearless society
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Familiarize learners with major sequential development in Indian science,
+engineering and technology
+CO-2: Understand eco-friendly, robust and scientific planning and architecture system
+of ancient India
+CO-3: Trace, identify, practice and develop the significant Indian mathematic and
+astronomical knowledge
+CO-4: Understand the importance of Indian aesthetics in individual realization of the
+truth arises by realizing the harmony within
+UNIT-I:
+Indian Science & Technology: Indian S & T Heritage, sixty-four art forms and
+occupational skills (64 Kalas)
+Ancient Architecture:
+Scientific Achievements though Ancient Architect: Musical Pillars of Vitthal temple,
+Sundial of konark temple, construction of eight shiva temple in straight line from
+Kedarnath to rameshwaram at longitude 79oE 41’54, Veerbhadra temple with 70
+hanging pillars
+UNIT-II:
+Foundation Concept for Science and Technology: The Introduction to Ancient
+Mathematics & Astronomy Introduction to Brief introduction of inception of
+Mathematics & Astronomy from vedic periods. Details of different authors who has
+given mathematical & astronomical sutra (e.g. arytabhatta, bhaskara, brahmagupta,
+varamahira, budhyana, yajanvlkya, panini, pingala, 22 bharat muni, sripati,
+mahaviracharya, madhava, Nilakantha somyaji, jyeshthadeva, bhaskara-II, shridhara
+Number System and Units of Measurement, concept of zero and its importance, Large
+numbers & their representation, Place Value of Numerals, Decimal System,
+Measurements for time, distance and weight, Unique approaches to represent
+numbers (Bhūta Saṃkhya System, Kaṭapayādi System), Pingala and the Binary system,
+Knowledge Pyramid
+Indian Mathematics, Great Mathematicians and their contributions, Arithmetic
+Operations, Geometry (Sulba Sutras, Aryabhatiya-bhasya), value of 𝜋, Trigonometry,
+Algebra, Chandah Sastra of Pingala, Indian Astronomy, celestial coordinate system,
+Elements of the Indian Calendar Aryabhatiya and the Siddhantic Tradition Pancanga
+– The Indian Calendar System
+UNIT-III:
+Humanities & Social Sciences: Health, Wellness & Psychology, Ayurveda Sleep and
+Food, Role of water in wellbeing Yoga way of life Indian approach to Psychology, the
+Triguṇa System Body-Mind-IntellectConsciousness Complex. Governance, Public
+Administration & Management reference to ramayana, Artha Sastra, Kauṭilyan State
+UNIT-IV:
+Aspiration and Purpose of Individual and Human Society: Aims of Human life; at
+individual level and societal level. At societal level; Four purusarthas Dharma, Artha,
+Kama, Moksha.
+Individual Level:
+Program for Ensuring Human Purpose:
+Fundamental Concept of Nitishastra: Satyanishtha Aur Abhiruchi (Ethics, Integrity &
+aptitude). The true nature of self; Shiksha Valli, Bhrigu Valli (concept of Atman-
+Brahman (self, soul).
+The True Constitution of Human: Ananda Valli (Annamaya Kosha, Pranamaya Kosha,
+Manomaya Kosha, Vijnanamaya Kosha, Anandamaya Kosha). The four states of
+consciousness (Waking state, Dreaming state, Deep Sleep State, Turiya the fourth
+state), Consciousness (seven limbs and nineteen mouths), Prajna, Awarness. The Life
+Force Prana (Praana-Apaana-Vyaana-Udaana- Samaana
+Ancient Indian Science (Ayurveda & Yoga)
+Ayurveda for Life, Health and Well-being: Introduction to Ayurveda: understanding
+Human body and Pancha maha bhuta, the communication between body & mind,
+health
+Introduction to Yoga: Definition, Meaning and objectives of Yoga, Relevance of yoga
+in modern age. the six cleansing procedures of Yoga, understanding of Indian
+psychological concept, consciousness, tridosha & triguna.
+UNIT-V:
+Five Important Slokas for Enlightenment
+Gayatri Mantram, Santi Mantram: Asatoma Sadgamaya, Geeta (Yada Yadahi
+Dharmasya, Glanirbhavati Bharata), Amanitwam Adambitwam..,
+Karmanyevadikarastu… Maa phaleshukadachana
+TEXT BOOKS:
+1. Textbook on Indian Knowledge Systems, Prof. B Mahadevan, IIM Bengaluru
+2. Indian Knowledge Systems, Kapur K. and Singh A. K., 2005
+REFERENCES:
+1. Tatvabodh of Sankaracharya, Central Chinmay Mission Trust, Bombay, 1995
+2. Value and Distribution System in India, B. L. Gupta, Gyan Publication House
+3. Ancient Indian Culture and Civilization, Reshmi Ramdhoni, Star Publication, 2018
+4. Ancient Indian Society, Maharaj Swami Chidatmanjee, Anmol Publication
+5. Ancient Indian Classical Music, Lalita Ramkrishna, Shubhi Publications
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22PE1AM13) DESIGN FOR HYDRAULIC AND PNEUMATIC SYSTEMS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Computer Aided Design, Computer Aided Manufacturing,
+Machine Tools, Operations Research
+COURSE OBJECTIVES:
+• To introduce the industrial hydraulics and pneumatics, their parts, functions and
+their structure
+• To give the required information about hydraulics and pneumatics
+• To teach the fundamentals of hydraulic and pneumatic circuit design
+• To teach the hydraulic and pneumatic automation and basics of PLC controls
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Identify hydraulic and pneumatic system components and their applications
+CO-2: Design hydraulic and pneumatic circuits
+CO-3: Explore the similarities and differences of the electrical, pneumatic and
+hydraulic systems
+CO-4: Interpret PLC applications in hydraulic and pneumatic circuits
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 2 2 2 2 1
+CO-2 2 3 3 3 2 2
+CO-3 1 2 3 2 1 1
+CO-4 3 3 3 2 3 2
+UNIT–I:
+Fluid Power Principles and Fundamentals: Introduction to Fluid power- Advantages
+and Applications- Fluid power systems – Types of fluids- Properties of fluids Basics of
+Hydraulics – Pascal’s Law- Principles of flow – Work, Power and Torque. Properties of
+air– Perfect Gas Laws.
+UNIT–II:
+Hydraulic System and Components:
+Sources of Hydraulic Power: Pumping Theory – Pump Classification- Construction,
+Working, Design, Advantages, Disadvantages, Performance, Selection criterion of
+Linear, Rotary- Fixed and Variable displacement pumps, Hydraulic Actuators:
+Cylinders – Types and construction, Hydraulic motors Control Components: Direction
+control, Flow control and Pressure control valves- Types, Construction and Operation-
+Applications.
+UNIT–III:
+Hydraulic Circuits: Industrial hydraulic circuits- Regenerative, Sequence,
+Reciprocation, Fail-safe, Speed control, Hydrostatic transmission, Accumulators,
+Electro hydraulic circuits.
+UNIT–IV:
+Pneumatic System: Compressors- Filter, Regulator, Lubricator, Muffler, Air control
+Valves, Pneumatic actuators, Pneumatic logic circuits, Time and pilot control.
+UNIT–V:
+Design of Hydraulic and Pneumatic Circuits: Design of circuits using the components
+of hydraulic system for Drilling, Planning, Shaping, Punching, Press, Sequential circuit
+design for simple application using cascade method, Electro pneumatic circuits.
+Selection criteria of pneumatic components.
+Applications: Microprocessor and PLC- Applications in Hydraulic and Pneumatic- Low
+cost Automation – Hydraulic and Pneumatic power packs.
+TEXT BOOKS:
+1. Fluid Power with Applications, Anthony Esposito, PHI, Pearson Education, 2005
+2. Hydraulic and Pneumatic Controls, Shanmugasundaram K., Chand & Co., 2006
+REFERENCES:
+1. Oil Hydraulics Systems – Principles and Maintenance, Majumdar S. R., Tata McGraw
+Hill, 2001
+2. Pneumatic Systems – Principles and Maintenance, Majumdar S. R., Tata McGraw
+Hill, 2007
+3. Power Hydraulics, Micheal J., Pinches and Ashby J. G., Prentice Hall, 1989
+4. Basic Fluid Power, Dudelyt A. Pease and John J. Pippenger, Prentice Hall, 1987
+5. Hydraulic and Pneumatic Control, Srinivasan R., 2nd Edition, Tata McGraw Hill, 2012
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22PE1CD12) CONCURRENT ENGINEERING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Computer-Aided Design
+COURSE OBJECTIVES:
+• To comprehend the methodologies and role of information technology in
+Concurrent Engineering
+• To provide a systematic approach to the integrated, concurrent design of
+products and their related processes
+• To analyze and apply manufacturing concepts for intelligent design of
+manufacturing system
+• To perform concurrent mechanical design and project management for new
+product development
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the need of concurrent engineering and strategic approaches for
+product design
+CO-2: Apply concurrent design principles to product design
+CO-3: Analyze the manufacturing concepts in qualitative and physical approach
+CO-4: Perform computer-based assembly planning
+CO-5: Understand the concurrent mechanical design and new product development
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 1 2 1 2 -
+CO-2 1 1 2 1 1 1
+CO-3 1 1 1 1 2 -
+CO-4 1 1 2 1 2 -
+CO-5 1 1 1 1 1 -
+UNIT - I:
+Introduction: Extensive definition of CE - CE design methodologies - Organizing for CE
+-CE tool box collaborative product development.
+Use of Information Technology: IT support - Solid modeling - Product data
+management - Collaborative product commerce - Artificial Intelligence - Expert
+systems - Software hardware co- design.
+UNIT - II:
+Design Stage: Life-cycle design of products - opportunity for manufacturing
+enterprises - modality of Concurrent Engineering Design.
+Automated analysis idealization control - Concurrent engineering in optimal structural
+design - Real time constraints.
+UNIT - III:
+Manufacturing Concepts and Analysis: Manufacturing competitiveness - Checking
+the design process - conceptual design mechanism – Qualitative, physical approach
+- An intelligent design for manufacturing system.
+UNIT - IV:
+JIT System: Low inventory - modular - Modeling and reasoning for computer-based
+assembly planning, Design of Automated manufacturing.
+Project Management: Life Cycle semi realization - design for economics - evaluation
+of design for manufacturing cost.
+UNIT - V:
+Concurrent Mechanical Design: Decomposition in concurrent design - negotiation in
+concurrent engineering design studies - product realization taxonomy - plan for
+Project Management on new product development – bottleneck technology
+development.
+TEXTBOOK:
+1. Concurrent Engineering: Automation Tools and Technology, Andrew Kusaik, Wiley
+John and Sons, 1992
+REFERENCES:
+1. Integrated Product Development, Anderson M. M. and Hein L. Berlin, Springer
+Verlog, 1987
+2. Design for Concurrent Engineering, Cleetus J., Concurrent Engineering Research
+Centre, Morgantown W. V., 1992
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22PE1CD11) COMPUTER AIDED PROCESS PLANNING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: CAD, CAM, Manufacturing Processes
+COURSE OBJECTIVES:
+• To understand process planning techniques
+• To understand various manufacturing parameters effectively in production rate
+• To understand Manufacturing tolerances in design and manufacturing process
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply the concept of computer aided process planning
+CO-2: Design appropriate tolerances in design and manufacturing and tool paths
+CO-3: Implement techniques of CAPP
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 1 1 2 3 1
+CO-2 2 2 2 2 2 1
+CO-3 1 1 2 2 2 1
+UNIT-I:
+Introduction to CAPP: Introduction and definition of process planning, Scope of
+process planning, Information requirement for process planning system in CAD/CAM,
+Role of process planning, Advantages of conventional process planning over CAPP,
+Structure of Automated process planning system, Feature recognition, Methods.
+UNIT-II:
+Approaches of Process Planning: Manual approach, CAPP approaches. Generative
+CAPP System: Importance, Principle of Generative CAPP system, Automation of
+logical decisions, Knowledge based systems, Inference Engine, Implementation,
+Benefits. Generative approach-Forward and backward planning,
+UNIT-III:
+Retrieval CAPP System: Significance, Group technology, Structure, Relative
+advantages, Implementation and applications. Examples of process planning system-
+CAM-I, Automated process planning, D-CLASS (CAPP). Logical Design of process
+planning.
+UNIT-IV:
+Determination of Manufacturing Tolerances: Design tolerances, Manufacturing
+tolerances, Methods of tolerance allocation, Sequential approach, Integration of
+design and manufacturing tolerances, Advantages of integrated approach over
+sequential approach.
+UNIT-V:
+Implementation Techniques for CAPP: MIPLAN system, Computer programming
+languages for CAPP, Criteria for selecting a CAPP system and benefits of CAPP,
+Computer integrated planning systems and Capacity planning system. Practical use
+of CAPP in real Manufacturing area
+TEXT BOOKS:
+1. Automation, Production systems and Computer Integrated Manufacturing System,
+Mikell P. Groover
+2. Computer Aided Design and Manufacturing, Dr. Sadhu Singh
+REFERENCES:
+1. Computer Aided Process Planning, H. P. Wang & J. K. Li, 1st Edition, Elsevier, 1991
+2. Computer Aided Engineering, David Bedworth
+3. Principles of Process Planning-A Logical Approach, Gideon Halevi and Roland D.
+Weill, Chapman & Hall, 1995
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22PE1AM14) INTRODUCTION TO MACHINE LEARNING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To introduce the concepts of machine learning and need for data preparation
+• To understand and apply linear and non-linear algorithms
+• To understand and apply neural networks and ensemble algorithms
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Comprehend concepts of Machine Learning and need for data preparation
+CO-2: Understand and apply linear and non-linear algorithms
+CO-3: Analyze and apply neural networks, ensemble algorithms
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 - - 1 2 3 2
+CO-2 - - 1 2 3 2
+CO-3 - - 1 2 3 2
+UNIT - I:
+Introduction to Machine Learning and Data Preparation: Introduction to machine
+learning, Data Loading, scaling of data- normalize and standardize data, algorithm
+evaluation methods, evaluation metrics, simple examples
+UNIT - II:
+Linear Algorithms: Simple linear regression, multi variate linear regression, logistic
+regression, perceptron, prediction using simple datasets.
+UNIT - III:
+Non-Linear Algorithms: Classification and regression trees, Naïve Bayes, k-NN, Back
+propagation algorithm, predictions with simple datasets
+UNIT -IV:
+Neural Networks: Introduction to Perceptron and Neural Networks, Activation and Loss
+functions, ANN architecture-Input layer, Hidden layer and output layer, Types of
+Neural Networks- Single layer feed-forward network, Multilayer feed-forward network,
+Multi-Layer Perceptron (MLP), Recurrent networks or feedback ANN, Characteristics
+of Neural Networks, Simple problems on Back Propagation.
+UNIT-V:
+Computer Vision: Introduction to Convolutional Neural Networks (CNNs), What is CNN,
+Common uses for CNN, CNN’s Basic Architecture, simple image processing examples.
+Ensemble Algorithms: Introduction on ensemble methods, Bootstrap Aggregation,
+Random Forest, stacked generalization algorithms, simple examples.
+TEXTBOOK:
+1. Machine Learning Algorithms from Scratch with Python, Brownlee Jason, Machine
+Learning Mastery, 2016
+REFERENCES:
+1. Artificial Intelligence: A Modern Approach, Stuart Russell & Peter Norvig, 3rd Edition
+Prentice Hall, 2009
+2. Artificial Intelligence, Ela Kumar, Wiley, 2021
+3. Artificial Intelligence: Concepts and Applications, Lavika Goel, Kindle Edition,
+Wiley, 2021
+4. Nature-Inspired Optimization in Advanced Manufacturing Processes and Systems,
+Edited by Ganesh M. Kakandikar and Dinesh G. Thakur, 1st Edition, CRC Press, 2021
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22PE1AM15) GREEN MANUFACTURING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Manufacturing, Environmental Science
+COURSE OBJECTIVES:
+• To provide knowledge on Sustainable Manufacturing, its scope, tools, techniques
+• To impart knowledge on Environmental Impact Assessment towards sustainable
+manufacturing
+• To design Eco friendly products and to have knowledge on various recycling
+methods
+• To implement idea towards frameworks for measuring sustainability
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Identify the link between manufacturing process models and sustainable
+manufacturing metrics for product and process improvement
+CO-2: Understand the three pillars of sustainability and how they are manifested in
+sustainable manufacturing
+CO-3: Incorporate economic, environmental, and social aspects into decision making
+processes using multi-criteria decision-making methods
+CO-4: Exhibit competence on the usage and applicability of sustainability tools,
+Compute sustainability performance through the indicators
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 2 2 2 2 2
+CO-2 2 2 2 2 2 3
+CO-3 2 2 2 2 3 2
+CO-4 2 2 2 3 2 2
+UNIT-I:
+Concepts of sustainability and sustainable development – Need for sustainable
+development - Components of sustainability- Social, Economic, Environmental
+dimensions - Linkages between technology and sustainability - Sustainable
+Manufacturing –Scope, Need and Benefits
+UNIT-II:
+Tools and Techniques of Sustainable Manufacturing – Environmental Conscious
+Quality Function Deployment, Life cycle assessment, Design for Environment, R3 and
+R6 cycles, Design for Disassembly -Sustainable Product Development – Various Phases.
+UNIT-III:
+EIA Methods –CML, EI 95 and 99, ISO 14001 EMS and PAS 2050 standards,
+Environmental Impact parameters - Interactions between energy and technology
+and their implications for environment and sustainable development.
+UNIT-IV:
+Design for recycling – Eco friendly product design methods – Methods to infuse
+sustainability in early product design phases – Multi-Criteria Decision Making in
+Sustainability.
+UNIT-V:
+Frameworks for measuring sustainability- Indicators of sustainability – Environmental,
+Economic, Societal and Business indicators - Concept Models and Various
+Approaches, Product Sustainability and Risk/Benefit assessment– Corporate Social
+Responsibility
+TEXT BOOK:
+1. Handbook of Sustainable Manufacturing, G. Atkinson, S. Dietz, E. Neumayer,
+Edward Elgar Publishing Limited, 2007
+REFERENCE:
+1. Industrial Development for the 21st Century: Sustainable Development
+Perspectives, D. Rodick, UN, 2007
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22OE1CN01) BUSINESS ANALYTICS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the role of business analytics within an organization and to analyze
+data using statistical and data mining techniques and understand relationships
+between the underlying business processes of an organization
+• To gain an understanding of how managers use business analytics to formulate
+and solve business problems and to support managerial decision making and to
+become familiar with processes needed to develop, report, and analyze business
+data
+• To use decision-making tools/Operations research techniques and to manage
+business process using analytical and management tools
+• To analyze and solve problems from different industries such as manufacturing,
+service, retail, software, banking and finance, sports, pharmaceutical, aerospace
+etc.
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply knowledge of data analytics
+CO-2: Think critically in making decisions based on data and deep analytics
+CO-3: Use technical skills in predicative and prescriptive modeling to support business
+decision-making
+CO-4: Translate data into clear, actionable insights
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 - 1 - 1 1
+CO-2 3 - 2 - 1 2
+CO-3 2 1 1 - 1 1
+CO-4 1 2 1 - 1 1
+UNIT-I:
+Business Analytics: Overview of Business analytics, Scope of Business analytics, Business
+Analytics Process, Relationship of Business Analytics Process and organization,
+competitive advantages of Business Analytics.
+Statistical Tools: Statistical Notation, Descriptive Statistical methods, Review of
+probability distribution and data modelling, sampling and estimation methods
+overview.
+UNIT-II:
+Trendiness and Regression Analysis: Modelling Relationships and Trends in Data,
+simple Linear Regression. Important Resources, Business Analytics Personnel, Data and
+models for Business analytics, problem solving, Visualizing and Exploring Data Business
+Analytics Technology.
+UNIT-III:
+Organization Structures of Business analytics, Team management, Management
+Issues, Designing Information Policy, Outsourcing, Ensuring Data Quality, Measuring
+contribution of Business analytics, Managing Changes.
+Descriptive Analytics, predictive analytics, predicative Modelling, Predictive analytics
+analysis, Data Mining, Data Mining Methodologies, Prescriptive analytics and its step
+in the business analytics Process, Prescriptive Modelling, nonlinear Optimization.
+UNIT-IV:
+Forecasting Techniques: Qualitative and Judgmental Forecasting, Statistical
+Forecasting Models, Forecasting Models for Stationary Time Series, Forecasting Models
+for Time Series with a Linear Trend, Forecasting Time Series with Seasonality,
+Regression Forecasting with Casual Variables, Selecting Appropriate Forecasting
+Models.
+Monte Carlo Simulation and Risk Analysis: Monte Carle Simulation Using Analytic
+Solver Platform, New-Product Development Model, Newsvendor Model, Overbooking
+Model, Cash Budget Model.
+UNIT-V:
+Decision Analysis: Formulating Decision Problems, Decision Strategies without
+Outcome Probabilities, Decision Trees, The Value of Information, Utility and Decision
+Making.
+Recent trends in Embedded and collaborative business intelligence, Visual data
+recovery, Data Storytelling and Data journalism.
+TEXT BOOKS:
+1. Business Analytics-Principles, Concepts, and Applications, Marc J. Schniederjans,
+Dara G. Schniederjans, Christopher M. Starkey, Pearson
+2. Business Analytics, James Evans, Pearson Education
+3. Business Analytics, Purba Halady Rao, PHI, 2013
+REFERENCES:
+1. Business Analytics for Managers: Taking Business Intelligence Beyond Reporting,
+Gert H. N. Laursen, Jesper Thorlund, 2nd Edition, Wiley Publications
+2. Business Analytics: Data Analysis & Decision Making, S. Christian Albright, Wayne L.
+Winston, 5th Edition, 2015
+3. Business Intelligence Guidebook: From Data Integration to Analytics, Rick Sherman
+Elsevier, 2014
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22OE1AM01) INDUSTRIAL SAFETY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Elements of Mechanical, Civil, Electrical and Industrial
+Engineering
+COURSE OBJECTIVES:
+• To achieve an understanding of principles, various functions and activities of safety
+management
+• To communicate effectively information on Health safety and environment
+facilitating collaboration with experts across various disciplines so as to create and
+execute safe methodology in complex engineering activities
+• To anticipate, recognize, and evaluate hazardous conditions and practices
+affecting people, property and the environment, develop and evaluate
+appropriate strategies designed to mitigate risk
+• To develop professional and ethical attitude with awareness of current legal issues
+by rendering expertise to wide range of industries
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply risk management principles to anticipate, identify, evaluate and control
+physical, chemical, biological and psychosocial hazards
+CO-2: Communicate effectively on health and safety matters among the employees
+and with society at large
+CO-3: Demonstrate the use of state of the art occupational health and safety
+practices in controlling risks of complex engineering activities and understand their
+limitations
+CO-4: Interpret and apply legislative / legal requirements, industry standards, and best
+practices in accident prevention programmes in a variety of workplaces
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 3 2 2 3 1
+CO-2 - - - - 2 3
+CO-3 3 1 2 1 - -
+CO-4 - 2 - 1 - 2
+UNIT-I:
+Safety Management: Evaluation of modern safety concepts – Safety management
+functions – safety organization, safety department – safety committee, safety audit -
+performance measurements and motivation – employee participation in safety and
+productivity.
+UNIT-II:
+Operational Safety: Hot metal Operation – Boiler, pressure vessels – heat treatment
+shop - gas furnace operation-electroplating-hot bending pipes – Safety in welding
+and cutting. Cold-metal Operation- Safety in Machine shop- metal cutting – shot
+blasting, grinding, painting – power press and other machines.
+Safe Handling and Storage: Material Handling, Compressed Gas Cylinders, Corrosive
+Substances, Hydrocarbons, Waste Drums and Containers
+UNIT-III:
+Safety Measures: Layout design and material handling - Use of electricity –
+Management of toxic gases and chemicals – Industrial fires and prevention – Road
+safety– Safety of sewage disposal and cleaning – Control of environmental pollution
+– Managing emergencies in industrial hazards.
+UNIT-IV:
+Accident Prevention: Human side of safety – personal protective equipment – Causes
+and cost of accidents. Accident prevention programmes - Specific hazard control
+strategies - HAZOP – Training and development of employees – First Aid – Fire fighting
+devices – Accident reporting investigation.
+UNIT-V:
+Safety, Health, Welfare & Laws: Safety and health standards – Industrial hygiene –
+occupational diseases prevention - Welfare facilities – History of legislations related to
+safety–pressure vessel act- Indian boiler act- The environmental protection act –
+Electricity act - Explosive act.
+TEXT BOOKS:
+1. Safety Management, John V. Grimaldi and Rollin H. Simonds, All India Travellers
+Bookseller, 1989
+2. Safety Management in Industry, Krishnan N. V., Jaico Publishing House, 1996
+REFERENCES:
+1. Occupational Safety Manual, BHEL
+2. Industrial Safety and The Law, P. M. C. Nair Publishers
+3. Managing Emergencies in Industries, Loss Prevention of India Ltd., Proceedings,
+1999
+4. Safety Security and Risk Management, U. K. Singh & J. M. Dewan, A. P. H. Publishing
+Company, 1996
+5. Industrial Safety Management: Hazard Identification and Risk Control, L. M.
+Deshmukh, McGraw Hill, 2005
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22OE1AM02) OPERATIONS RESEARCH
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To analyze linear programming models in practical and their practical use
+• To apply the transportation, assignment and sequencing models and their solution
+methodology for solving problems
+• To apply inventory and queuing, inventory models and their solution methodology
+for solving problems
+• To evaluate the simulation models
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Evaluate the problems using linear programming
+CO-2: Analyze assignment, transportation problems
+CO-3: Apply inventory and queuing problems for real time problems
+CO-4: Model the real-world problem and simulate it
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 3 3 2 - -
+CO-2 1 3 3 3 - -
+CO-3 1 3 3 3 - -
+CO-4 1 3 3 3 - -
+UNIT-I:
+Introduction to Operations Research: Definitions of OR, Characteristics of OR, Scope
+of OR, Classification of Optimization Techniques, models in OR, General L.P
+Formulation, Graphical solution, Simplex Techniques.
+Allocation: Linear Programming Problem Formulation- Graphical solution-Simplex
+method-Artificial variables technique-Two phase method, Big-M Method-Duality
+Principle.
+UNIT-II:
+Transportation Problem: Formulation-Optimal solution-unbalanced transportation
+problem-Degeneracy. Assignment problem-Formulation-Optimal solution-Variations
+of Assignment Problem-Travelling Salesman Problem.
+Sequencing: Introduction-Flow Shop sequencing-n jobs through two machines-n jobs
+through three machines-Job shop sequencing-two jobs through m machines.
+UNIT-III:
+Waiting Lines: Introduction-Single channel-Poisson arrivals-exponential service times-
+with infinite population and finite population models-Multichannel-Poisson arrivals-
+exponential service times with infinite population single channel Poisson arrivals.
+UNIT-IV:
+Inventory Models: Deterministic inventory, models - Probabilistic inventory control
+models
+UNIT-V:
+Simulation: Definition-Types of simulation models-phases of simulation-applications of
+simulation Inventory and Queuing problems-Advantages and Disadvantages-Brief
+Introduction of Simulation Languages.
+TEXT BOOKS:
+1. Operations Research, S. D. Sharma, Kedarnath Ramnath, Meerut
+2. Engineering Optimization, S. S. Rao, New Age International, 2014
+3. Introduction to Genetic Algorithms, S. N. Sivanandam, Springer
+REFERENCES:
+1. Operations Research-An Introduction, H. A. Taha, PHI, 2008
+2. Principles of Operations Research, H. M. Wagner, PHI, 1982
+3. Introduction to Optimization: Operations Research, J. C. Pant, Jain Brothers, 2008
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22OE1AM03) ENTREPRENEURSHIP AND START-UPS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To motivate the engineers to inculcate the skills thereof in any professional role and
+to consider intrapreneurship or entrepreneurship as career choices for personal
+and societal growth
+• To understand different Theories of Entrepreneurship and their Classification
+• To create Feasibility Reports, Business, Project Plans and resolve Operational
+problems
+• To understand the roles of Family, non-family entrepreneurs and learning about
+Startups’ Opportunities, Corporate Legal and Intellectual Property related issues
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the role of an entrepreneur in the economic development and
+discover societal problems as entrepreneurial opportunities and ideate to develop
+solutions through systematic and creative approaches to innovation and business
+strategy
+CO-2: Learn different Theories of entrepreneurship, the role of Family and Non-Family
+entrepreneurs and problem-solving skills
+CO-3: Create Marketing, Financial Plans and evaluate Structural, Financial and
+Managerial Problems
+CO-4: Apply lean methodology to startup ideas using Business Model Canvas and be
+able to create Business Plans through establishing business incubators. Understand
+Corporate Legal and Intellectual Property related matters
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 1 3 2 - 3
+CO-2 1 - - - - 2
+CO-3 1 - - - - 2
+CO-4 - - - 1 - -
+UNIT-I:
+Entrepreneurship: Definition of Entrepreneur, Entrepreneurial motivation and barriers;
+Internal and external factors; Types of entrepreneurs, Personality and Skill Set of an
+Entrepreneur, Entrepreneurship as a career for engineers, scientists, and technologists.
+UNIT-II:
+Theories of Entrepreneurship: Classification of entrepreneurship. Creativity and
+Innovation: Creative Problems Solving, Creative Thinking, Lateral Thinking, Views of De
+Bono, Khandwala and others, Creative Performance in terms of motivation and skills.
+Family and Non-Family Entrepreneurs: Role of Professionals, Professionalism vs. family
+entrepreneurs, Role of Woman entrepreneur, Sick industries, Reasons for Sickness,
+Remedies for Sickness, Role of BIFR in revival, Bank Syndications.
+UNIT-III:
+Creativity and Entrepreneurial Plan: Idea Generation, Screening and Project
+Identification, Creative Performance, Feasibility Analysis: Economic, Marketing,
+Financial and Technical; Project Planning, Evaluation, Monitoring and Control,
+segmentation, Targeting and positioning of Product, Role of SIDBI in Project
+Management.
+UNIT-IV:
+Operation Problems: Incubation and Take-off, Problems encountered Structural,
+Financial and Managerial Problems, Types of Uncertainty. Institutional support for new
+ventures: Supporting organizations; Incentives and facilities; Financial Institutions and
+Small-scale Industries, Govt. Policies for SSIs.
+UNIT-V:
+Startups’ Opportunity Assessment, Business Models, Entrepreneur talk, Clinical/
+Regulatory, Sector Specific Group Briefing by Advisory Committee, Corporate Legal
+and Intellectual Property, Pitching, Payers and Reimbursement, Pitch practice,
+Investors, Mistakes I Won’t Repeat, Business Development and Exits, Finance,
+Budgeting, Team Building, Opportunities in Telangana State and India – incubators,
+schemes, accelerators.
+TEXT BOOKS:
+1. Understanding Enterprise: Entrepreneurship and Small Business, Bridge S. et al.,
+Palgrave, 2003
+2. Holt- Entrepreneurship: New Venture Creation, Prentice Hall, 1998
+3. Entrepreneurship Development, Robert D. Hisrich, Michael P. Peters, Tata McGraw
+Hill
+REFERENCES:
+1. New Venture Creation: An Innovator’s Guide to Entrepreneurship, Marc H. Meyer
+and Frederick G. Crane, 2nd Edition, Sage Publications
+2. Technology Ventures: From Idea to Enterprise, Byers, Dorf, Nelson
+3. Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist - Feld,
+Mendelson, Costolo
+4. Breakthrough Entrepreneurship, Burgstone and Murphy
+5. Business Model Generation, Alexander Osterwalder
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22OE1PL01) WASTE TO ENERGY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To create awareness in students of energy conservation
+• To identify the use of different types of Bio waste energy resources
+• To understand different types of bio waste energy conservations
+• To detect different waste conversion into different forms of energy
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Find different types of energy from waste to produce electrical power
+CO-2: Estimate the use of bio waste to produce electrical energy
+CO-3: Understanding different types of bio waste and its energy conversions
+CO-4: Analyze the bio waste utilization and to avoid the environmental pollution
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 2 3 1 2 1
+CO-2 3 3 3 3 2 3
+CO-3 3 2 3 2 2 3
+CO-4 3 3 3 3 2 3
+UNIT-I:
+Introduction to Energy From Waste: Classification of waste as fuel, Agro based, Forest
+residue, Industrial waste, MSW (Municipal solid waste) – Conversion devices –
+Incinerators, Gasifiers, Digestors. Urban waste to energy conversion, Biomass energy
+Programme in India.
+UNIT-II:
+Biomass Pyrolysis: Pyrolysis – Types, slow fast – Manufacture of charcoal – Methods -
+Yields and application – Manufacture of pyrolytic oils and gases, yields and
+applications.
+UNIT-III:
+Biomass Gasification: Gasifiers – Fixed bed system – Downdraft and updraft gasifiers –
+Fluidized bed gasifiers – Design, construction and operation – Gasifier burner
+arrangement for thermal heating – Gasifier engine arrangement and electrical
+power.
+UNIT-IV:
+Biomass Combustion: Biomass stoves – Improved chullahs, types, some exotic designs,
+Fixed bed combustors, Types, inclined grate combustors, Fluidized bed combustors,
+Design, construction and operation - Operation of all the above biomass combustors.
+UNIT-V:
+Biogas: Properties of biogas (Calorific value and composition) - Biogas plant
+technology and status - Bio energy system - Design and constructional features -
+Biomass resources and their classification - Biomass conversion processes - Thermo
+chemical conversion - Direct combustion - biomass gasification - pyrolysis and
+liquefaction - biochemical conversion - anaerobic digestion.
+Types of biogas Plants – Applications - Alcohol production from biomass - Bio diesel
+production - Urban waste to energy conversion - Biomass energy programme in India.
+TEXT BOOKS:
+1. Biogas Technology-Transfer and Diffusion, M. M. EL-Halwagi, Elsevier Applied
+Science Publisher, 1984
+2. Introduction to Biomass Energy Conversions, Sergio Capareda
+REFERENCES:
+1. Non-Conventional Energy, Desai Ashok V., Wiley Eastern Ltd., 1990
+2. Biogas Technology - A Practical Hand Book, Khandelwal K. C. and Mahdi S. S., Vol.
+I & II, Tata McGraw Hill, 1983
+3. Food, Feed and Fuel from Biomass, Challal D. S., IBH Publishing, 1991
+4. Biomass Conversion and Technology, C. Y. WereKo-Brobby and E. B. Hagan, John
+Wiley & Sons, 1996

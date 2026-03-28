@@ -1,0 +1,684 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/syllabus-books/Minor-I&E-07.01.2026.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY HYDERABAD
+B.TECH. MINOR IN INNOVATION AND ENTREPRENEURSHIP
+COURSE STRUCTURE AND SYLLABUS
+(Applicable for the batches admitted from the academic year 2022-2023)
+V SEMESTER R22
+Course
+Title of the Course L T P/D CH C
+Code
+Introduction to Innovation and
+22MC1IE301 3 0 0 3 3
+Entrepreneurship
+Customer-centric Innovation and Business
+22MC2IE301 0 0 3 3 1.5
+Modelling through Design Thinking
+Total 3 0 3 6 4.5
+VI SEMESTER R22
+Course
+Title of the Course L T P/D CH C
+Code
+22MC1IE302 Startup Finance 3 1 0 4 4
+Total 3 1 0 4 4
+VII SEMESTER R22
+Course
+Title of the Course L T P/D CH C
+Code
+22MC1IE401 Market Research and Sales 3 0 0 3 3
+22MC2IE401 Business Analytics Laboratory 0 0 3 3 1.5
+Total 3 0 3 6 4.5
+VIII SEMESTER R22
+Course
+Title of the Course L T P/D CH C
+Code
+22MC1IE402 Startup Management and Strategy
+22MC1IE403 Digital Marketing
+3 0 0 3 3
+22MC1IE404 Social Entrepreneurship
+22MC1IE405 Ethics and Law for Entrepreneurs
+22MP1IE401 Mini – Project 0 0 4 4 2
+Total 3 0 4 7 5
+L – Lecture T – Tutorial P – Practical D – Drawing CH – Contact Hours/Week
+C – Credits SE – Sessional Examination CA – Class Assessment ELA – Experiential Learning Assessment
+SEE – Semester End Examination D-D – Day to Day Evaluation LR – Lab Record
+CP – Course Project PE – Practical Examination
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (I & E) V Semester
+(22MC1IE301) INTRODUCTION TO INNOVATION AND ENTREPRENEURSHIP
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To identify innovations in existing solutions, understand innovation through design
+thinking, and appreciate innovation as a contributor for intellectual property
+• To embark the path of entrepreneurship equipped with an understanding of
+entrepreneurial mindset and support schemes in India
+• To ideate innovative solutions for problems using design thinking as well
+engineering knowledge
+• To develop a fundamental market awareness and business modelling
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand innovation and use design thinking to create innovations
+CO-2: Develop innovation process, manage innovation, and generate IP if any
+CO-3: Understand and develop the mindset and skills for entrepreneurship
+CO-4: Convert a technology innovation into a business solution understanding
+markets and customers
+CO-5: Design a business model and understand fundamentals of business strategy
+UNIT-I:
+Introduction to Innovation: Innovation and Creativity, Motivation, Innovation in
+Current Environment, Analysing the Current Business Scenarios and Trends, Types of
+Innovation, Challenges of Innovation, Sources of Innovation, Idea Management
+System, Divergent vs. Convergent Thinking
+Design Thinking for Innovation: Customer-centric Approach—Motivation and Merits;
+Desirability, Feasibility, Viability, Scalability; Design Thinking for Innovation Use cases:
+Relevant Challenges, Applications to Business Models, Sales, Marketing, and Strategy
+Management.
+UNIT-II:
+Innovation Management and Intellectual Property: Innovation Life Cycle, Roles in
+Innovation Process, Innovation Management, Experimentation in Innovation
+Management, Participation for Innovation, Co-creation for Innovation, Prototyping to
+Incubation, Innovation and Creation of IP, Types of IP Rights, Patenting in India.
+UNIT-III:
+Introduction to Entrepreneurship: Entrepreneurship vs Innovation, Types of
+Entrepreneurship, Human side of entrepreneurship, Myths & Realities about
+entrepreneurship, Entrepreneurial qualities and how to develop them, Initiatives by
+the Government of India to promote entrepreneurship, Introduction to the Lean
+Startup methodology
+UNIT-IV:
+Understanding Needs, Customers, and Markets
+Identifying a problem and a need, Ideation: why and how, Developing a Value
+Proposition, Unique Value Proposition, Value Chain Analysis, How-Might-We
+Statements, Validation, Market research (Significance, Impact, who and how,
+Segmentation), Reasons for Failure of Startups
+UNIT-V:
+Business Model and Beyond: Business model, Business Model Canvas (BMC), Lean
+Canvas (LC), Product-Market Fit (PMF), Kano Model, Action Priority Matrix, Value-Ease
+Matrix, Go-to-Market (GTM) Strategies, Blue Ocean Strategy PESTLE Analysis, Porter’s 5
+forces model, Competitor landscape, SWOT analysis
+TEXT BOOKS:
+1. The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create
+Radically Successful Businesses, Eric Ries, Penguin Portfolio, 2011
+2. Entrepreneurship Simplified: From Idea to IPO, Ashok Soota, S. R. Gopalan, India
+Portfolio, 2021
+3. Entrepreneurship: New Venture Creation, David H. Holt, Pearson Education India,
+2016
+REFERENCES:
+1. The Manual for Indian Start-Ups, Vijay Kumar Ivaturi et al., Penguin Enterprise, 2020
+2. Engineered in India: From Dreams to Billion-Dollar Cyient, B. V. R. Mohan Reddy,
+Penguin Business, 2022
+3. Before You Start Up: How to Prepare to Make Your Startup Dream a Reality, Pankaj
+Goyal, Fingerprint! Publishing, 2017
+4. How to Start Business in India: Idea to Implementation, Dibyendu Choudhury,
+Notion Press, 2023
+5. Entrepreneurship, Robert D. Hisrich et al., McGraw-Hill, 11th Edition, 2020
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (I & E) V Semester
+(22MC2IE301) CUSTOMER-CENTRIC INNOVATION AND BUSINESS MODELLING
+THROUGH DESIGN THINKING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 3 1.5 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To use design thinking approach and methods from problem identification to
+business modelling
+• To innovate customer-centric solutions for identified problems, identifying value
+proposition
+• To create and present a business model using business model canvas or lean
+canvas
+• To use different canvases, templates, and online tools in the process of business
+model creation
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Use design thinking approach to identify and validate problem, identify users
+and customers and understand their jobs to be done to deduce value proposition for
+them
+CO-2: Use suitable canvases and templates to frame problem, empathise with users,
+ideate, present value proposition, and create a valuable, usable, and possible
+innovative solution using suitable ideation techniques
+CO-3: Create a business model using business model canvas or lean canvas and any
+other templates for finer representation
+CO-4: Analyse business model using suitable techniques such as PESTLE, Kano model,
+Five Forces Model, and/or SWOT analysis
+CO-5: Create pitch deck to present the problem and proposed solution highlighting
+innovative aspects therein as well as a fundamental market strategy
+LIST OF EXERCISES / ACTIVITIES:
+1. WEEKS 1–3: Define & Empathise
+a) Validation of idea represented using mind maps, concept maps, or any
+suitable template
+b) Problem framing using suitable canvas to choose parts of problem to solve,
+users to empathise with, and identify value proposition in principle, from a
+general problem expressed in 1(a)
+c) Identify Users and classify them for subsequent empathisation using Users Bull’s
+Eye canvas if applicable, and create User persona(s) using suitable template
+d) Represent user empathisation using any of the following: empathy map, A-E-I-
+O-U framework, user interviews, surveys, value proposition canvas, and
+comparing with authentic data from public domain if any
+e) Write user needs statements in the format “As a …, I need/want/expect to …
+so that … because … when …” and classify primary, secondary, and latent
+needs
+f) Iterate steps 1(c) through1(e) for further validation and fine-tuning, before
+writing the Specific Problem Statement using 5 W’s
+2. WEEKS 4–6: Ideation & Prototype
+a) Generate ideas using tools such as Brainstorming, SIT Methods, SCAMPER
+model, Storyboarding, Mind Maps and identify innovation and its value to
+users/ customers
+b) Compare ideas from 2(a) to see which needs from 1(e) are addressed for
+which users from 1(c)
+c) Create physical or digital models, mock-ups, wireframes, or other data
+visualizations to create solution prototypes based on the chosen idea(s) from
+2(a) above
+d) Test and validate the prototype for valubility (desirability + viability), usability
+(desirability + feasibility), and possibility (feasibility + viability) with the help of
+users empathised in 1(d)
+e) Reconsider any SIT Methods for further innovation of tested and validated
+solution
+f) Identify relevant SDG attainment the final solution can contribute and make a
+report
+3. WEEKS 7–10: Business Modelling
+a) Create a Customer Journey Map (CJM) or a Service Experience Cycle based
+on the chosen problem (1) and solution (2) above.
+b) Fill the Business Model Canvas or Lean Canvas considering desirability,
+feasibility, and viability
+c) Use any additional canvases such as Service Innovation Canvas, Social
+Business Model Canvas, Ethics Canvas, Data Ethics Canvas, Opportunity
+Canvas, and/or Project Canvas to represent additional aspects of the problem
+and/or solution
+4. WEEKS 11–13: Business Model Analysis
+a) Apply PESTLE analysis, Kano Model, Porter’s Five Forces, SWOT analysis to the
+business model
+b) Explore GTM strategies including Blue Ocean Strategy
+c) Create a business idea pitch deck and present
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (I & E) VI Semester
+(22MC1IE302) STARTUP FINANCE
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 1 4 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the role and importance of Entrepreneurial Finance
+• To provide conceptual knowledge on new ventures, startups, and evaluation
+• To impart knowledge of various aspects of financial planning for startups
+• To provide an understanding of various aspects of venture valuation
+• To discuss the aspects of financing growing ventures
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Explain startup financing vis à vis the venture lifecycle of a company
+CO-2: Assess first-round financing sources and their performance evaluation
+CO-3: Plan and review financial aspects throughout the venture’s life cycle
+CO-4: Evaluate the mechanics and apply methods of Venture Valuation
+CO-5: Elucidate the importance of various sources of venture capital financing
+UNIT-I:
+Finance Fundamentals:
+Introduction: Principles of Entrepreneurial Finance; Role of Entrepreneurial Finance;
+Fundamental Definitions: Bootstrapping, Angel Investment, Venture Capital, Equity,
+Valuation, Dilution, Public Offering, Term Sheet, Cap Table, Burn Rate, Runway
+Venture Lifecycle: Successful Venture Lifecycle; Financing through Venture Lifecycle;
+Lifecycle Approach for Teaching Entrepreneurial Finance
+Screening Venture Opportunities: Pricing/ Profitability Considerations, Financial/
+Harvest Considerations, Financial Plans and Projections
+UNIT-II:
+Organizing and Operating the Venture
+Financing a New Venture: Seed, Startup and First Round Financing Sources, Financial
+Bootstrapping, Business Angel Funding, First Round Financing Opportunities.
+Preparing and Using Financial Statements: Obtaining and Recording the Resources to
+Start and Build a New Venture, Asset and Liabilities and Owners Equity in Business, Sale
+Expenses and Profits Internal Operating Schedules, Statement of Cash Flows,
+Operating Breakeven Analysis, Evaluating Operating and Financial Performance
+using Ratio Analysis.
+UNIT-III:
+Financial Planning: Financial Planning throughout the Venture’s Lifecycle, Short Term
+Cash Planning Tools, Projected Monthly Financial Statements
+Types and Costs of Financial Capital: Implicit and Explicit Financial Capital Costs,
+Financial Markets, Determining the Cost of Debt Capital, Investment Risk, Estimating
+the Cost of Equity Capital, Weighted Average Cost of Capital
+UNIT-IV:
+Venture Valuation: Valuing Early-stage Ventures, Venture Worth, Basic Mechanics of
+Valuation, Developing the Projected Financial Statements for a Discounted Cash Flow
+Valuation, Accounting Vs Equity Valuation Cash Flow
+Venture Capital Valuation Methods: Basic Venture Capital Valuation Method,
+Earnings Multiplier and Discounted Dividends
+UNIT-V:
+Financing for the Growing Venture: Professional Venture Capital, Venture Investing
+Cycle, Determining the Fund Objectives and Policies, Organising the New Fund,
+Soliciting Investments in the new Fund, Capital Call, Conducting Due-diligence and
+Actively Investing, Arranging Harvest or Liquidation
+Other Financing Alternatives: Facilitators, Consultants and Intermediaries, Banking and
+Financial Institutions, Foreign Investors, State and Central Government Financing
+Programmes, Receivables Lending and Factoring, Mortgage Lending, Venture
+Leasing
+TEXT BOOKS:
+1. Entrepreneurial Finance, Leach J. C., Melicher R. W., Cengage Learning, 2023
+2. First 1000 Days of Startup: Decoding Finance for Entrepreneurs, Pathak S. K., Notion
+Press, 2024
+3. How to Raise Startup Funding in India, Ghuman K., Makkar S., Bluerose, 2024
+REFERENCES:
+1. Startup Finance 360°: A Founder’s Guide to Startup Finance, Saria R., Zebra Learn,
+2023
+2. Financial Modeling Handbook - The Step-by-Step Guide to Building your First
+Financial Model & Value Companies from Scratch, Zebra Learn, 2023
+3. Financing the Entrepreneurial Venture: A Casebook, Gompers P. A., Anthem Press,
+2024
+4. Entrepreneurial Finance: Strategy, Valuation, and Deal Structure, Smith J. K., Smith
+R. L., Notion Press, 2023
+5. The Art of Startup Fundraising, Cremades A., John Wiley & Sons, 2016
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (I & E) VII Semester
+(22MC1IE401) MARKET RESEARCH AND SALES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To equip with fundamental and advanced concepts of market research and sales
+strategies in the digital era
+• To develop the ability to apply various market research methods, including
+traditional and AI-driven techniques, to real-world business scenarios
+• To enhance understanding of consumer behavior, segmentation, and targeting in
+the Indian and global markets
+• To provide knowledge of effective sales strategies, customer relationship
+management, and AI-powered sales automation
+• To leverage data-driven insights for improving sales performance and decision-
+making
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Conduct comprehensive market research using both qualitative and
+quantitative techniques, including AI-driven approaches
+CO-2: Analyze consumer behavior and segment markets for targeted sales strategies
+CO-3: Design and implement effective sales strategies, leveraging CRM and digital
+platforms
+CO-4: Utilize sales forecasting and data analytics to improve business performance
+CO-5: Understand ethical considerations and legal frameworks governing market
+research and sales in India
+UNIT-I:
+Fundamentals of Market Research
+Introduction to Market Research: Definition, Importance, Applications
+Types of Market Research: Primary vs. Secondary, Qualitative vs. Quantitative;
+Research Design and Sampling Methods
+Data Collection Techniques: Surveys, Interviews, Focus Groups
+Role of AI and Big Data in Market Research, Case Studies of Market Research in Indian
+Startups
+UNIT-II:
+Consumer Behavior and Market Segmentation: Understanding Consumer Psychology
+and Buying Behavior; Market Segmentation, Targeting, and Positioning (STP Model);
+Cultural, Social, Personal, and Psychological Influences on Buying Decisions; Customer
+Journey Mapping and Experience Design; Generative AI in Customer Insights and
+Personalized Marketing; Indian Consumer Trends and Preferences: A Data-Driven
+Perspective.
+UNIT-III:
+Sales Strategies and Techniques
+Fundamentals of Sales: B2B vs. B2C Sales; Sales Funnel and Customer Relationship
+Management (CRM)
+Digital Sales Channels: E-commerce, Social Selling, AI Chatbots Persuasive Selling
+Techniques and Negotiation Skills; Sales Automation and AI-powered Lead
+Generation; Case Studies of Indian and Global Sales Success Stories
+UNIT-IV:
+Data-Driven Decision Making in Sales
+Sales Forecasting Techniques: Traditional vs. AI-based Predictive Analytics in Market
+Research and Sales; KPI Metrics for Sales Performance Measurement; Role of Business
+Analytics in Enhancing Sales Strategies; Pricing Strategies and Competitive Analysis;
+Case Studies on Data-driven Sales Growth
+UNIT-V:
+Ethical and Legal Considerations in Market Research and Sales
+Ethical Issues in Market Research: Privacy, Bias, and Data Protection
+Basic Overview of Legal Aspects of Sales in India: Consumer Protection Act, E-
+commerce Laws, Advertising Regulations, Fair-trade Practices,
+Responsible AI and Ethical AI-driven Sales Techniques; Future Trends in Market
+Research and Sales
+Case Studies: Ethical Dilemmas in Sales and Market Research
+TEXT BOOKS:
+1. Marketing Research: Text and Cases, Rajendra Nargundkar, McGraw-Hill
+Education, 2019
+2. Unleashing the Power of Gen AI: A Guide to Innovative Marketing Strategies, Varun
+Mitra, Notion Press, 2024
+3. Sales and Distribution Management: Decisions, Strategies and Cases, Richard R.
+Still, Cundiff W. Edward, Norman A. P. Govoni, Sandeep Puri, Pearson Education,
+2024
+REFERENCES:
+1. Marketing Management: Indian Cases, Prachi Gupta et al., Pearson, 2024
+2. Marketing Management, Philip Kotler et al., 16th Edition, Pearson Education, 2022
+3. AI Powered Marketing, Shikhar Singh, McGraw-Hill Education, 2024
+4. Customer Relationship Management: Concepts, Applications, and Technologies,
+Daniel D. Prior, Francis Buttle, Stan Maklan, Routledge, 2024
+5. The Psychology of Selling, Brian Tracy, Harper Collins Leadership, 2022
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (I & E) VII Semester
+(22MC2IE401) BUSINESS ANALYTICS LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 3 1.5 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To equip with hands-on experience in essential business analytics techniques using
+industry-relevant tools
+• To develop skills in data handling, visualization, and exploratory analysis for real-
+world business applications
+• To introduce predictive modeling and machine learning for data-driven decision-
+making in marketing and sales
+• To create automated reports and interactive dashboards for business insights
+• To guide through a capstone project, applying analytics to solve a real-world
+business problem
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Utilize open-source business analytics tools to perform data processing,
+visualization, and analysis
+CO-2: Apply predictive modeling and machine learning techniques to extract
+actionable business insights
+CO-3: Design and develop interactive dashboards and automated reports for
+decision-making
+CO-4: Implement AI-driven techniques such as clustering, classification, and
+forecasting for business applications
+CO-5: Deliver a capstone project, demonstrating proficiency in real-world analytics
+problem-solving
+LIST OF PROGRAMS / EXERCISES:
+Introduction to Business Analytics & Tools
+Outcome: Understanding fundamental concepts and working with analytics tools
+Fundamentals: Descriptive, Predictive, and Prescriptive Analytics
+Overview of any two Freeware Tools: Python (Pandas, Matplotlib, Seaborn), R, KNIME,
+RapidMiner, Tableau Public
+Basic Data Handling: Importing, Cleaning, and Transforming Data
+Data Visualization & Exploratory Data Analysis (EDA)
+Outcome: Creating effective visualizations and identifying patterns in data
+• Fundamentals of Data Visualization & Storytelling
+• Hands-on with Python (Matplotlib, Seaborn) / R (ggplot2)
+• Dashboard Creation using Tableau Public & Google Data Studio
+Statistical Analysis and Predictive Modelling
+Outcome: Applying statistics and predictive modeling techniques for business insights
+• Descriptive Statistics, Probability Distributions
+• Hypothesis Testing (t-test, Chi-square, ANOVA)
+• Regression Models (Linear & Logistic) for Sales Forecasting & Customer Churn
+Prediction
+Advanced Business Analytics – Clustering & Classification
+Outcome: Implementing machine learning techniques for segmentation and
+classification
+• K-Means Clustering, Hierarchical Clustering
+• Decision Trees, Random Forest, Naïve Bayes for Customer Segmentation & Fraud
+Detection
+Business Intelligence & Report Automation
+Outcome: Developing dashboards and automating reports for data-driven decision-
+making
+• Data Wrangling & Cleaning (Python: Pandas, NumPy)
+• Creating Interactive Dashboards with Tableau / Google Data Studio
+• Automating Reports for Business Insights
+Capstone Project – Real-world Business Analytics Application
+Outcome: Applying learned concepts to solve practical business challenges
+• Identifying a Business Problem (Marketing, Finance, Operations, HR)
+• Applying Data Collection, Preprocessing, Visualization, Modelling
+• Developing Business Insights & Final Presentation
+TEXT BOOKS:
+1. Data Analytics, Anil Maheshwari, McGraw-Hill Education, 2021
+2. Data Analytics with Python, Subhashini Sharma Tripathi, Wiley, 2020
+3. A Tour of Data Science: Learn R and Python in Parallel, Vikram Tiwari, Nailong
+Zhong, Taylor & Francis, 2024
+4. Business Analytics: Techniques and Applications, Gopal Sakarkar, Wiley, 2022
+REFERENCES:
+1. Data Science from Scratch: First Principles with Python, Joel Grus, O’Reilly, 2019
+2. The Elements of Statistical Learning, Trevor Hastie, Robert Tibshirani, Jerome
+Friedman, Springer, 2017
+3. R for Data Science, Hadley Wickham, Garrett Grolemund, O’Reilly, 2017
+4. Data Strategy: How to Profit from a World of Big Data, Analytics and Artificial
+Intelligence, Bernard Marr, Kogan Page, 2021
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (I & E) VIII Semester
+(22MC1IE402) STARTUP MANAGEMENT AND STRATEGY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To differentiate startup strategy from corporate strategy, with emphasis on
+decision-making under uncertainty and resource constraints
+• To introduce clearly defined startup business model typologies, revenue models,
+and unit-economic drivers relevant to early-stage ventures
+• To familiarise students with founder-level organisational, governance, and
+strategic control choices, including co-founder alignment and board oversight
+• To enable formulation of growth, pricing, and go-to-market strategies using
+established startup metrics and execution frameworks
+• To create awareness of Indian regulatory, compliance, ethical, and sustainability
+considerations, positioning compliance as a source of strategic advantage
+COURSE OUTCOMES: After completion of course, the student should be able to
+CO‑1: Differentiate startup strategy from corporate strategy and apply structured
+strategy frameworks
+CO‑2: Identify, classify, and analyse defined business model typologies and unit-
+economic drivers
+CO‑3: Apply founder-level organisational, governance, and control mechanisms in
+startups
+CO‑4: Formulate growth, pricing, and go-to-market strategies using clearly defined
+metrics
+CO‑5: Demonstrate awareness of regulatory, compliance, ethical, and sustainability
+requirements in India
+UNIT-I:
+Overview of Strategic Inflection and Tools
+Startup Strategy Overview: Startup vs Corporate Strategy; Strategy Formulation;
+Strategy Choice Cascade; Wardley Mapping
+Strategy Approaches Overview: 3-Box Thinking; Blue Ocean Strategy; Lean Startup
+Management; Value Innovation through Strategy Canvas; Blitzscaling
+UNIT-II:
+Founder, Organisation & Governance
+Founder’s Mindset: Founder vs Professional Manager; Opportunity chasing vs
+Enterprise building; 3-box Thinking; Ethical Leadership concepts; Founder-Problem Fit
+and Founder-Market Fit Overview
+Culture-driven Organisational Design: Flat, Agile/ Cross-functional, Holacracy,
+ambidextrous organisations
+Overview of Legality-driven Organisational Structures: Sole Proprietorship, Partnership,
+LLP, Private Limited Company
+Co-founder Agreements Basics: Roles, Vesting, IP Assignment, Decision rights, Dispute
+resolution, Equity split principles; Template Sources; Board structure; Founder-led
+governance; Awareness of Basic term-sheet elements.
+UNIT-III:
+Business Models, Revenue Models, and Strategic Analytics
+Business Model Typologies: VTDF; 3-box thinking; transitional models; revenue streams
+matrix; Product-based, Service-based, Platform-based, Marketplace, Subscription,
+Usage-based, Hybrid models
+Revenue Stream Typologies: One-time sales, Recurring revenue, Transaction fee,
+Licensing, Freemium
+Unit Economics: Customer Acquisition Cost (CAC), Lifetime Value (LTV), Contribution
+Margin, Payback Period, Break-even Analysis
+Pricing Strategies Overview: Cost-plus pricing, Value-based pricing, Tiered pricing,
+Usage-based pricing
+Pivot Frameworks: Speed–Reversibility Matrix; Defensibility and Moats – Brand, Network
+Effects, Switching Costs, Regulatory Moats
+Learning Cycles Overview: PDCA vs DMAIC – contextual application in startups; BADIR
+– hypothesis-driven analytics from business question to recommendations
+UNIT-IV:
+Growth, Scaling & Go-to-Market Strategy
+Growth Strategies: Business Development vs. Sales; Business Scaling Overview; Organic
+vs Inorganic growth; Minimum Viable Audience (MVA)
+Go-to-Market (GTM) Strategy Overview: Target segment, Channel choice, Pricing,
+Positioning
+Digital Marketing Funnel Overview: Awareness, Acquisition, Activation, Retention,
+Revenue, Referral (AARRR, or “Pirate Metrics”)
+Execution Frameworks Overview: OKR, OGSM Framework, Kanban Diagram, Bud
+Caddell Diagram, MoSCoW, Risk Registers, ERRC Matrix
+UNIT-V:
+Compliance, Sustainability & Long-term Advantage
+Regulatory Awareness Overview: MCA Filings; GST Registration and Returns; DPIIT
+Startup India recognition and benefits; DPDP Act Awareness; Compliance Calendars
+Investment Readiness: Due Diligence; Investment Readiness Levels
+Impact & Sustainability: Triple Bottom Line (People, Planet, Profit); CSR obligations for
+growing firms (awareness); Compliance as a source of competitive advantage
+TEXT BOOKS:
+1. Entrepreneurship Simplified: From Idea to IPO, Soota, Ashok & Gopalan, S. R. India
+Portfolio (Penguin Random House), 2021
+2. Strategic Management, Kazmi, Azhar; Kazmi, Adela, McGraw-Hill Education, 2020
+3. The Manual for Indian Start-Ups, Ivaturi, Vijay Kumar et al., Penguin Random House
+India, 2017
+4. Business Strategy Essentials You Always Wanted To Know: A Beginner’s Guide to
+Strategic Management, Porter’s Five Forces, Industry Life Cycles & Execution,
+Daum, Callie, Vibrant Publishers, 2020
+REFERENCES:
+1. Startup Management, Rothaermel, Frank T., McGraw-Hill, 2023
+2. The Start‑Up Code: Taking Your Company from Seed to Scale, Bansal, Mukesh,
+Penguin Viking, 2024
+3. Strategic Management, Cherunilam, Francis, Himalaya Publishing House, 2021
+4. Startups of Bharat: Stories of India’s Million-Dollar Founders Under Thirty, Arora,
+Aditya; Pasricha, Surya, Penguin Business, 2021
+5. The Startup Spirit: A New-Age Blueprint for Entrepreneurs, Seshadri, Sridhar; Iyer,
+Shreeram, Rupa Publications, 2025
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (I & E) VIII Semester
+(22MC1IE403) DIGITAL MARKETING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand digital marketing as a strategic growth lever for startups and
+technology-driven ventures
+• To familiarise with digital platforms, channels, and customer journey concepts
+relevant to startups
+• To analyse customer engagement and digital marketing performance using
+metrics and analytics
+• To examine ethical and legal dimensions of digital marketing in the Indian context
+COURSE OUTCOMES: After completion of course, the student should be able to
+CO‑1: Explain digital marketing fundamentals and their relevance to startup business
+models
+CO‑2: Apply digital marketing channels and platforms for customer acquisition and
+reach
+CO‑3: Analyse digital customer journeys and engagement mechanisms
+CO‑4: Evaluate digital marketing performance using analytics and key metrics
+CO‑5: Identify ethical, legal, and responsible practices in digital marketing
+UNIT-I:
+Digital Marketing Foundations: Digital marketing ecosystem, evolution from traditional
+to digital marketing, relevance for startups and early-stage ventures, digital value
+propositions, integration with startup business models, overview of digital adoption
+and consumer behaviour in the Indian context
+UNIT-II:
+Digital Channels and Platforms: Search engine optimization and marketing, social
+media marketing, content marketing, email and mobile marketing, influencer
+marketing, platform selection criteria for startups, channel integration and
+coordination.
+UNIT-III:
+Customer Journey and Engagement: Digital customer journey mapping, acquisition–
+activation–retention frameworks, personalization approaches, engagement
+strategies, conversion concepts, brand building in digital environments
+UNIT-IV:
+Analytics and Performance Measurement: Key performance indicators, attribution
+models, web and social media analytics, campaign evaluation, budgeting
+considerations, return on investment analysis for startup marketing decisions
+UNIT-V:
+Ethics and Legal Aspects of Digital Marketing: Consumer protection, data privacy
+principles, ethical digital advertising practices, transparency, responsible use of
+customer data, regulatory considerations relevant to India.
+TEXT BOOKS:
+1. Digital Marketing, Seema Gupta, McGraw-Hill Education (India), 2018
+2. Marketing 4.0: Moving from Traditional to Digital, Philip Kotler, Hermawan
+Kartajaya, Iwan Setiawan, Wiley India, 2017
+3. Digital Marketing Analytics: Making Sense of Consumer Data in a Digital World,
+Chuck Hemann, Pearson Education India, 2014
+REFERENCES:
+1. Understanding Digital Marketing: Marketing Strategies for Engaging the Digital
+Generation, Damian Ryan, Calvin Jones, Kogan Page, 2016
+2. Digital Marketing Excellence: Planning, Optimizing and Integrating Online
+Marketing, Dave Chaffey, Pearson Education, 2015
+3. Digital Marketing in India: A Practical Approach, Paul Selva Raj, Notion Press, 2019
+4. Digital Branding: A Complete Step-by-Step Guide to Strategy, Tactics and
+Measurement, Arvind Gupta, Sage Publications India, 2018
+5. Online Consumer Behaviour, Jaishankar Ganesh, McGraw-Hill Education (India),
+2015
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (I & E) VIII Semester
+(22MC1IE404) SOCIAL ENTREPRENEURSHIP
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand social entrepreneurship as an approach to addressing societal
+challenges through enterprise
+• To examine social innovation and hybrid organizational models
+• To analyse sustainability and scaling strategies of social enterprises
+• To appreciate the Indian social entrepreneurship ecosystem and institutional
+context
+COURSE OUTCOMES: After completion of course, the student should be able to
+CO-1: Explain the concept and evolution of social entrepreneurship
+CO-2: Analyse social innovation processes and social enterprise business models
+CO-3: Evaluate impact measurement and sustainability approaches in social
+ventures
+CO-4: Assess scaling strategies and growth challenges of social enterprises
+CO-5: Apply social entrepreneurship concepts to Indian development contexts
+UNIT-I:
+Introduction to Social Entrepreneurship: Concept and evolution of social
+entrepreneurship, distinction from commercial entrepreneurship, social value
+creation, stakeholder orientation, role in economic and social development
+UNIT-II:
+Social Innovation and Enterprise Models: Social innovation processes, inclusive and
+hybrid business models, mission–market alignment, balancing impact and financial
+viability.
+UNIT-III:
+Impact Measurement and Sustainability: Impact assessment concepts, qualitative
+and quantitative measures, financial sustainability, funding sources, resource
+mobilization challenges
+UNIT-IV:
+Scaling Social Enterprises: Growth and scaling strategies, partnerships, ecosystem
+support, institutional constraints, managing trade-offs between scale and impact
+UNIT-V:
+Indian Social Entrepreneurship Ecosystem: Sectoral focus areas such as health,
+education, agriculture and livelihoods, ecosystem actors, support institutions,
+contextual challenges in India.
+TEXT BOOKS:
+1. How to Change the World: Social Entrepreneurs and the Power of New Ideas,
+David Bornstein, Oxford University Press, 2007
+2. Social Entrepreneurship, V. Kasturi Rangan, Lisa A. Chase, Sohel Karim, Harvard
+Business School Publishing, 2012
+3. Entrepreneurship Development in India, K. Ramachandran, McGraw-Hill
+Education (India), 2014
+REFERENCES:
+1. Entrepreneurship Development, C.S.V. Murthy, Himalaya Publishing House, 2017
+2. Building Social Business: The New Kind of Capitalism That Serves Humanity’s Most
+Pressing Needs, Muhammad Yunus, PublicAffairs, 2010
+3. The Fortune at the Bottom of the Pyramid: Eradicating Poverty Through Profits, C.
+K. Prahalad, Pearson Education India, 2009
+4. Social Entrepreneurship, Johanna Mair, Jeffrey Robinson, Kai Hockerts (Eds.),
+Palgrave Macmillan, 2006
+5. Social Innovation: Blurring Boundaries to Reconfigure Markets, Alex Nicholls, Oxford
+University Press, 2008
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (I & E) VIII Semester
+(22MC1IE405) ETHICS AND LAW FOR ENTREPRENEURS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand legal frameworks and regulatory requirements relevant to startups
+in India
+• To examine ethical challenges and decision-making in entrepreneurial contexts
+• To develop awareness of compliance, governance, and risk management
+responsibilities
+• To relate ethics and law to sustainable and responsible entrepreneurship
+COURSE OUTCOMES: After completion of course, the student should be able to
+CO-1: Identify legal foundations and business laws relevant to startups
+CO-2: Explain contractual and regulatory obligations of entrepreneurial ventures
+CO-3: Analyse ethical dilemmas faced by entrepreneurs
+CO-4: Assess governance and compliance mechanisms in startups
+CO-5: Relate ethics and law to long-term sustainability of enterprises
+UNIT-I:
+Legal Environment for Startups: Sources of Business Law; Forms of Business Organisation;
+Startup incorporation and compliance procedures; Contracts Overview; Introduction
+to intellectual property rights
+UNIT-II:
+Regulatory Compliance Framework: Labour laws, taxation basics, sector-specific
+regulations, compliance management, legal risk considerations for startups.
+UNIT-III:
+Ethics in Entrepreneurship: Ethical theories: Deontological Ethics, Utilitarianism; Ethical
+Ethical decision-making; Common ethical dilemmas in startups; Stakeholder
+responsibility and professional conduct; Need for Informed Consent; Privacy and
+Confidentiality in Non-disclosure Agreements (NDA) and Intellectual Property (IR)
+Rights (IPR); Accountability and Public-spiritedness vs. Profitability
+UNIT-IV:
+Governance and Accountability: Corporate Governance Principles, Leadership
+Responsibility, Transparency, Accountability mechanisms, Internal controls
+UNIT-V:
+Law, Ethics, and Sustainable Entrepreneurship: Responsible Business Practices, 3 C’s of
+Business Ethics: Compliance, Contribution, and Consequences; Legal compliance for
+long-term growth; Ethics as a driver of trust and sustainability; Using Data Ethics
+Canvas.
+TEXT BOOKS:
+1. Elements of Mercantile Law, N. D. Kapoor, Sultan Chand & Sons, 2019
+2. Business Law, Bala Krishnamoorthy, McGraw-Hill Education (India), 2018
+3. Corporate Governance and Business Ethics, M. Velayutham, McGraw-Hill
+Education (India), 2016
+REFERENCES:
+1. Business Ethics and Corporate Governance, P. Subba Rao, Himalaya Publishing
+House, 2018
+2. Good Intentions Aside: A Manager’s Guide to Resolving Ethical Problems, Laura L.
+Nash, Harvard Business School Press, 1993
+3. Business Ethics: Concepts and Cases, Manuel G. Velasquez, Pearson Education,
+2014
+4. Legal Environment of Business, Robert A. Peterson, McGraw-Hill Education, 2015
+5. Business Ethics: Managing Corporate Citizenship and Sustainability in the Age of
+Globalization, Andrew Crane, Dirk Matten, Oxford University Press, 2016

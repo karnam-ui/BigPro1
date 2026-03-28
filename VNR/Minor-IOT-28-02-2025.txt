@@ -1,0 +1,498 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/syllabus-books/Minor-IOT-28-02-2025.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY HYDERABAD
+B.TECH. MINOR IN INTERNET OF THINGS
+COURSE STRUCTURE AND SYLLABUS
+(Applicable for the batches admitted from the academic year 2022-2023)
+V SEMESTER R22
+Course
+Title of the Course L T P/D CH C
+Code
+22MC1IN301 Programming in Python 3 0 0 3 3
+22MC2IN301 Programming in Python Laboratory 0 0 3 3 1.5
+Total 3 0 3 6 4.5
+VI SEMESTER R22
+Course
+Title of the Course L T P/D CH C
+Code
+22MC1IN302 IoT Fundamentals and Architecture 3 0 0 3 3
+22MC1IN303 Smart Technologies 3 0 0 3 3
+Total 6 0 0 6 6
+VII SEMESTER R22
+Course
+Title of the Course L T P/D CH C
+Code
+22MC1IN401 Programming Languages for IoT 3 0 0 3 3
+IoT Automation using Raspberry – PI
+22MC2IN401 0 0 3 3 1.5
+Laboratory
+Total 3 0 3 6 4.5
+VII SEMESTER R22
+Course
+Title of the Course L T P/D CH C
+Code
+22MC1IN403 Fog and Edge Computing for IoT 3 0 0 3 3
+Total 3 0 0 3 3
+L – Lecture T – Tutorial P – Practical D – Drawing CH – Contact Hours/Week
+C – Credits SE – Sessional Examination CA – Class Assessment ELA – Experiential Learning Assessment
+SEE – Semester End Examination D-D – Day to Day Evaluation LR – Lab Record
+CP – Course Project PE – Practical Examination
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (IOT) V Semester
+(22MC1IN301) PROGRAMMING IN PYTHON
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To learn syntax and semantics and create functions in Python
+• To handle strings and files in Python
+• To understand lists, dictionaries and regular expressions in Python
+• To implement Object Oriented Programming concepts in Python
+• To gain knowledge on Web Services, network programming and Database
+Programming in Python
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Examine Python syntax and semantics and be fluent in the use of Python flow
+control and functions
+CO-2: Demonstrate proficiency in handling Strings and File Systems
+CO-3: Create, run, and manipulate Python Programs using core data structures like
+Lists, Dictionaries and use Regular Expressions
+CO-4: Interpret the concepts of Object-Oriented Programming as used in Python
+CO-5: Implement exemplary applications related to Network Programming, Web
+Services and Databases in Python
+COURSE ARTICULATION MATRIX:
+(Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12
+CO-1 1 2 2 2 3 2 2 - 1 - - 1
+CO-2 3 3 2 2 3 1 2 - 2 - - 2
+CO-3 2 2 3 3 3 2 2 - 2 - -- 2
+CO-4 2 3 3 3 3 1 3 - 2 - - 2
+CO-5 3 3 3 3 3 2 2 1 3 3 3 3
+UNIT-I:
+Python: Basics, Objects- Python Objects, Standard Types, Other Built-in Types, Internal
+Types, Standard Type Operators, Standard Type Built-in Functions, Categorizing the
+Standard Types, Unsupported Types
+Numbers - Introduction to Numbers, Integers, Floating Point Real Numbers, Complex
+Numbers, Operators, Built-in Functions, Related Modules
+Sequences - Strings, Lists, and Tuples, Mapping and Set Types
+UNIT-II:
+Files: File Objects, File Built-in Function [ open() ], File Built-in Methods, File Built-in
+Attributes, Standard Files, Command line Arguments, File System, File Execution,
+Persistent Storage Modules, Related Modules
+Exceptions: Exceptions in Python, Detecting and Handling Exceptions, Context
+Management, *Exceptions as Strings, Raising Exceptions, Assertions, Standard
+Exceptions, *Creating Exceptions, Why Exceptions (Now)?, Why Exceptions at All?,
+Exceptions and the sys Module, Related Modules
+Modules: Modules and Files, Namespaces, Importing Modules, Importing Module
+Attributes, Module Built-in Functions, Packages, Other Features of Modules.
+UNIT-III:
+Regular Expressions: Introduction, Special Symbols and Characters, Res and Python
+Multithreaded Programming: Introduction, Threads and Processes, Python, Threads,
+and the Global Interpreter Lock, Thread Module, Threading Module, Related Modules
+UNIT-IV:
+GUI Programming: Introduction, Tkinter programming, Tkinter widgets, Frame, Button,
+Label, Entry, Brief Tour of Other GUIs.
+WEB Programming: Introduction, Architecture, CGI environment variable, GET and
+POST methods, Cookies, File upload, Web Surfing with Python, Creating Simple Web
+Clients, Advanced Web Clients, CGI-Helping Servers Process Client Data, Building CGI
+Application, Advanced CGI, Web (HTTP) Servers
+UNIT-V:
+Database Programming: Introduction, Python Database Application Programmer’s
+Interface (DB-API), Object Relational Managers (ORMs), Related Modules.
+TEXT BOOKS:
+1. Core Python Programming, Wesley J. Chun, 2nd Edition, Pearson
+2. Data Structures and Algorithm Analysis in C, Mark Allen Weiss, 2nd Edition, Pearson
+Education, 2010
+3. Think Python: How to Think Like a Computer Scientist, Allen B. Downey, 2nd Edition,
+Updated for Python 3, Shroff/O’Reilly, 2016
+(http://greenteapress.com/wp/thinkpython/)
+REFERENCES:
+1. Data Structures and Algorithms, A. V. Aho, J. E. Hopcroft, and J. D. Ullman, Pearson
+Education, 1st Edition Reprint 2003
+2. Introduction to Computer Science using Python: A Computational Problem-
+Solving Focus, Charles Dierbach, Wiley India Edition, 2013
+3. Practical Programming: An Introduction to Computer Science using Python 3, Paul
+Gries, Jennifer Campbell and Jason Montojo, 2nd Edition, Pragmatic Programmers,
+LLC, 2013
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (IOT) V Semester
+(22MC2IN301) PROGRAMMING IN PYTHON LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 3 1.5 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To understand program design with functions using Python programming
+language
+• To understand a range of Object-Oriented Programming, as well as in-depth data
+and information processing techniques
+• To understand Web Scraping using Python
+• To understand the high-performance programs designed to strengthen the
+practical expertise
+• To gain knowledge on Turtle graphics library
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Develop the python scripts using regular expressions
+CO-2: Explore python especially the object-oriented concepts, and the built-in
+objects of Python
+CO-3: Develop GUI Application using Python tkinter
+CO-4: Create practical and contemporary applications such as Web applications,
+discrete event simulations
+CO-5: Implement python program using the Turtle graphics library
+COURSE ARTICULATION MATRIX:
+(Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12
+CO-1 1 2 3 2 2 2 2 - 1 - - 1
+CO-2 3 3 3 3 2 1 2 - 2 - - 2
+CO-3 3 2 3 2 2 2 2 - 2 - - 2
+CO-4 3 2 3 3 3 1 2 - 2 - - 2
+CO-5 3 3 3 3 2 2 2 1 2 3 3 3
+LIST OF PROGRAMS:
+1. Python program to calculate student grade.
+2. Python example to implement destructor and constructors using __del__() and
+__init__()
+3. Python example to implement Getters and Setters in a class
+4. Python - Implement Abstraction using Abstract class
+5. Python - Implement Interface using class
+6. Python - Create Employee Class with Constructor and Destructor
+7. Example of single inheritance in Python
+8. Python program to illustrate Single Inheritance
+9. Example of multiple inheritance in Python
+10. Example of Multilevel Inheritance in Python
+11. Example of Hierarchical Inheritance in Python
+12. Using Regular Expressions, develop a Python program to
+a) Identify a word with a sequence of one upper case letter followed by lower case
+letters.
+b) Find all the patterns of “1(0+)1” in a given string.
+c) Match a word containing ‘z’ followed by one or more o’s. Prompt the user for input.
+13. GUI&DB
+a) Design a GUI based calculator to perform arithmetic operations like addition,
+subtraction, multiplication and division. (Hint: Expression Calculator using tk)
+b) Design a GUI based application to convert temperature from Celsius to
+Fahrenheit.
+c) Write a python program to perform various database operations (create, insert,
+delete, update).
+14. GRAPHICS
+a) Consider turtle object. Write functions to draw triangle, rectangle, polygon, circle
+and sphere. Use object-oriented approach.
+b) Design a Python program using the Turtle graphics library to construct a turtle bar
+chart representing the grades obtained by N students read from a file categorizing
+them into distinction, first class, second class, third class and failed.
+TEXT BOOKS:
+1. Core Python Programming, Wesley J. Chun, 2nd Edition, Pearson
+2. Data Structures and Algorithm Analysis in C, Mark Allen Weiss, 2nd Edition, Pearson
+Education, 2010
+3. Think Python: How to Think Like a Computer Scientist, Allen B. Downey, 2nd Edition,
+Updated for Python 3, Shroff/O’Reilly, 2016
+(http://greenteapress.com/wp/thinkpython/)
+REFERENCES:
+1. Data Structures and Algorithms, A. V. Aho, J. E. Hopcroft, and J. D. Ullman, Pearson
+Education, 1st Edition Reprint 2003
+2. Introduction to Computer Science using Python: A Computational Problem-
+Solving Focus, Charles Dierbach, Wiley India, 2013
+3. Practical Programming: An Introduction to Computer Science using Python 3, Paul
+Gries, Jennifer Campbell and Jason Montojo, 3rd Edition, Pragmatic Programmers,
+2017
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (IOT) VI Semester
+(22MC1IN302) IOT FUNDAMENTALS AND ARCHITECTURE
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To introduce terminology, technology and its applications
+• To learn Raspberry PI platform, that is widely used in IoT applications
+• To understand the implementation of web-based services on IoT devices
+• To gain knowledge on the internet of things and its characteristics
+• To learn concepts on API web servers
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand IoT value chain structure (device, data cloud), application areas
+and technologies involved
+CO-2: Understand IoT sensors and technological challenges faced by IoT devices,
+with a focus on wireless, energy, power, and sensing modules
+CO-3: Implement basic IoT applications on embedded platform
+CO-4: Understand building blocks of Internet of Things and characteristics
+CO-5: Analyze the concepts on API web servers.
+COURSE ARTICULATION MATRIX:
+(Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12
+CO-1 1 1 3 2 3 2 2 - 1 - - 1
+CO-2 3 3 3 2 2 1 2 - 2 - - 2
+CO-3 3 2 3 3 2 2 2 - 2 - - 2
+CO-4 3 2 3 2 3 1 3 - 2 - - 2
+CO-5 3 3 3 3 3 2 2 1 3 3 3 3
+UNIT-I:
+Introduction to Internet of Things: Definition and Characteristics of IoT, Sensors,
+Actuators, Physical Design of IoT – IoT Protocols, IoT communication models, IoT
+Communication APIs, IoT enabled Technologies – Wireless Sensor Networks, Cloud
+Computing, Embedded Systems, IoT Levels and Templates, Domain Specific IoTs –
+Home, City, Environment, Energy, Agriculture and Industry.
+UNIT-II:
+IoT and M2M: Software defined networks, network function virtualization, difference
+between SDN and NFV for IoT, Basics of IoT System Management with NETCOZF, YANG-
+NETCONF, YANG, SNMP NETOPEER
+UNIT-III:
+IoT Physical Devices and Endpoints: Introduction to Arduino and Raspberry Pi-
+Installation, Interfaces (serial, SPI, I2C), Programming – Python program with Raspberry
+PI with focus on interfacing external gadgets, controlling output, reading input from
+pins.
+UNIT-IV:
+Controlling Hardware: Connecting LED, Buzzer, Switching High Power devices with
+transistors, Controlling AC Power devices with Relays, Controlling servo motor, speed
+control of DC Motor, unipolar and bipolar Stepper motors.
+Sensors: Light sensor, temperature sensor with thermistor, voltage sensor, ADC and
+DAC, Temperature and Humidity Sensor DHT11, Motion Detection Sensors, Wireless
+Bluetooth Sensors, Level Sensors, USB Sensors, Embedded Sensors, Distance
+Measurement with ultrasound sensor
+UNIT-V:
+IoT Physical Servers and Cloud Offerings: Introduction to Cloud Storage models and
+communication APIs Webserver – Web server for IoT, Cloud for IoT, Python web
+application framework Designing a RESTful web API
+TEXT BOOKS:
+1. Internet of Things - A Hands-on Approach, Arshdeep Bahga and Vijay Madisetti,
+Universities Press, 2015
+2. Getting Started with Raspberry Pi, Matt Richardson & Shawn Wallace, O'Reilly, 2014
+3. Raspberry Pi Cookbook, Software and Hardware Problems and solutions, Simon
+Monk, O'Reilly, 2016
+REFERENCES:
+1. Learning Internet of Things, Peter Waher, Ovidiu Vermesan, Packt Publishing, 2015
+2. Internet of Things – From Research and Innovation to Market Deployment, Peter
+Friess, River Publishers, 2014
+3. Actuators and Their Interfaces, N. Ida, Sensors, SciTech Publishers, 2014
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (IOT) VI Semester
+(22MC1IN303) SMART TECHNOLOGIES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To provide a detailed description of the integral aspects of smart technologies and
+their evolution to their current state
+• To discuss the potential use of Internet of things (IoT) in reducing counterproductive
+work behaviours and identifying some of the challenges that organizations might
+face while implementing IoT in its systems
+• To present case studies using easy-to-understand language to explain the breadth
+and scope of application areas
+• To learn the knowledge on cyber care
+• To understand the importance of NICE labs
+COURSE OUTCOMES: After completion of course, the student should be able to
+CO-1: Explain importance, scope and applications of Smart Technologies
+CO-2: Implement Drones an IoT based services and block chain technologies
+CO-3: Provide solutions for real world IoT applications like vehicle cyber security
+CO-4: Understand the importance of cyber care and develop IoT-Based Smart
+Farming Solutions
+CO-5: Analyze case study on NICE Labs
+COURSE ARTICULATION MATRIX:
+(Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12
+CO-1 1 1 3 2 3 2 2 - 1 - - 1
+CO-2 2 3 3 2 2 1 2 - 2 - - 2
+CO-3 2 2 3 3 2 2 2 - 2 - - 2
+CO-4 2 2 3 2 3 1 3 - 2 - - 2
+CO-5 3 3 3 3 3 3 3 1 2 3 3 2
+UNIT-I:
+Smart Technologies: Scope and Applications, Cutting-Edge Digitization Challenges in
+Vehicle Cyber Physical Systems and Cybersecurity, Big Data Analytics as an Enabler
+in Smart Governance for the Future Smart Cities
+UNIT-II:
+Digital Masters: Blueprinting Digital Transformation, UAVs/Drones-Based IoT Services,
+Role of Cyber Security in Drone Technology
+Bitcoins as an Implementation of Blockchain and Its Convergence with Internet of
+Things, Tomorrow’s AI-Enabled Banking, Exploring Connected Cars
+UNIT-III:
+Vehicular Cybersecurity Through Intrusion Detection and Prevention Architecture,
+Mechanism Protecting Vehicle-to-Vehicle Communication, Advanced Driver
+Assistance Systems
+UNIT-IV:
+Cyber Care: Role of Cyber Security in Healthcare Industry, Smart Agriculture: A Tango
+Between Modern IoT-Based Technologies and Traditional Agriculture Techniques.
+UNIT-V:
+Importance of Being ‘NICE’ While Developing IoT-Based Smart Farming Solutions: A
+Case Study About ‘NICE’ Labs.
+TEXT BOOK:
+1. Smart Technologies-Scope and Applications, K. B. Akhilesh, Dietmar P. F. Möller,
+Springer, 2020
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (IOT) VII Semester
+(22MC1IN401) PROGRAMMING LANGUAGES FOR IOT
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To use more computing intensive IoT applications as examples using Raspberry Pi
+running Linux as the platform of choice
+• To learn basic programming instructions on Raspberry PI
+• To understand IoT design using Raspberry PI
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Appreciate the development technology for IoT
+CO-2: Familiar with Basic Concepts of Linux
+CO-3: Design real time IoT Devices
+CO-4: Familiar with basic foundations of Python Programming and libraries
+CO-5: Comprehend the basic concepts of Mobile Cloud Computing
+UNIT-I:
+Getting Started with Raspberry Pi: Basic functionality of Raspberry Pi B+ board, setting
+up the board, configuration and use, implications of an operating system on the
+behaviour of the Raspberry Pi as an IoT device, booting Raspberry Pi 3, Downloading
+an Operating System, format an SD card and booting the OS, Basics of Linux and its
+use, main features including navigating the file system and managing processes, text
+based user interface through the shell, overview of the graphic user interface for
+Raspian Linux distribution.
+UNIT-II:
+Interfacing Hardware with the Raspberry Pi, Raspberry Pi Remote Access, operates
+the Raspberry Pi in “headless mode”, Bash Command line, operating Raspberry Pi
+without needing a GUI interface.
+Basics of the Python programming language, programming on the Raspberry Pi.
+Python on Raspberry Pi, Python Programming Environment, Python Expressions, Strings,
+Functions and Function arguments, Lists, List Methods, Control Flow.
+UNIT-III:
+Communication with devices through the pins of the Raspberry Pi, RPi. GPIO library,
+Python Functions, setting up the pins, General purpose IO Pins, Protocol Pins, GPIO
+Access, applying digital voltages, and generating Pulse Width Modulated signals,
+Tkinter Python library, accessing pins through a graphic user interface
+UNIT-IV:
+IoT Physical Servers and Cloud Offerings: Introduction to Cloud Storage models and
+communication APIs. Web Server – Web server for IoT, Cloud for IoT, Python web
+application framework. Designing a RESTful web API. Connecting to APIs
+UNIT-V:
+IoT Design using Raspberry Pi IoT Applications based on Pi, LAMP Web-server, GPIO
+Control over Web Browser, Creating Custom Web Page for LAMP, communicating
+data using on-board module, home automation using Pi, Node-RED, MQTT Protocol,
+Using Node-RED Visual Editor on Rpi
+TEXT BOOKS:
+1. Programming the Raspberry Pi: Getting Started with Python, Simon Monk, McGraw-
+Hill Professional, 2012
+2. Raspberry Pi with Java: Programming the Internet of Things, 1st Edition, Oracle Press
+3. The Official Raspberry Pi Projects Book,
+https://www.raspberrypi.org/magpiissues/Projects_Book_v1.pdf
+REFERENCE BOOKS:
+1. Raspberry Pi User Guide, Eben Upton and Gareth Halfacree, 4th Edition, John Wiley,
+2016
+2. Learning Python with Raspberry Pi, Alex Bradbury and Ben Everard, John Wiley,
+2014
+3. Arduino Cookbook, Michael Margolis, 1st Edition, O'Reilly, 2011
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (IOT) VII Semester
+(22MC2IN401) IOT AUTOMATION USING RASPBERRY-PI LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 3 1.5 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To introduce the raspberry PI platform, that is widely used in IoT applications
+• To introduce the implementation of distance sensor on IoT devices
+• To understand installation of OS in Raspberry PI
+• To use raspberry PI for implementing alarmed motion sensor
+• To provide hands-on experience in integrating Raspberry Pi with wired and wireless
+communication protocols
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Introduce the concept of M2M (machine to machine) with necessary protocols
+and get awareness in implementation of distance sensor
+CO-2: Program using python scripting language which is used in many IoT devices
+CO-3: Implement alarmed motion sensor using Raspberry PI
+CO-4: Install Operating System in Raspberry PI
+CO-5: Design and develop real-time IoT automation systems using Raspberry Pi,
+sensors, and actuators
+LIST OF EXPERIMENTS:
+USING RASPBERRY PI
+1. Calculate the distance using a distance sensor
+2. Basic LED functionality
+3. Calculate temperature using a temperature sensor
+4. Build an alarmed motion sensor
+5. Make printer wireless
+6. Add a power button to Raspberry pi
+7. Build a network game server
+8. Make music with sony Pi
+9. Interface Pi Camera module with Raspberry Pi
+10. Installing OS on Raspberry Pi
+a) Installation using Pilmager b) Installation using image File
+TEXT BOOKS:
+1. Programming the Raspberry Pi: Getting Started with Python, Simon Monk, McGraw-
+Hill Professional, 2012
+2. Raspberry Pi with Java: Programming the Internet of Things, 1st Edition, Oracle Press
+3. The Official Raspberry Pi Projects Book,
+https://www.raspberrypi.org/magpiissues/Projects_Book_v1.pdf
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (IOT) VIII Semester
+(22MC1IN402) FOG AND EDGE COMPUTING FOR IOT
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand new computing paradigms and challenges in federated edge
+resources
+• To learn more about integrating IoT, Fog and cloud infrastructures, and
+optimization problems in Fog computing
+• To introduce middleware for Edge Cloud architectures
+• To provide a detailed explanation of Fog Computing realization for Big Data
+analytics
+• To provide a detailed explanation of Smart Surveillance Video Stream Processing
+for tracking human objects
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Explain the use of the IoT architecture with its entities and protocols, from the
+IoT devices
+CO-2: Familiar with the basic concepts of IoT, Fog, Cloud Infrastructures, and its
+components and working of components and its performance
+CO-3: Understand Optimization Problems in Fog and Edge Computing
+CO-4: Explore Data Management, Big data analytics, and video processing concepts
+in Fog Computing
+CO-5: Understand the role of Fog Computing in big data analytics and real-time
+applications like smart surveillance
+UNIT-I:
+Internet of Things (IoT) and New Computing Paradigms: Introduction, Relevant
+Technologies, Fog and Edge Computing Completing the Cloud, Advantages of FEC:
+SCALE, FEC Achieves These Advantages: SCANC, Hierarchy of Fog and Edge
+Computing, Business Models, Opportunities and Challenges.
+Addressing the Challenges in Federating Edge Resources: Introduction, The
+Networking Challenge, The Management Challenge, Miscellaneous Challenges.
+UNIT-II:
+Integrating IoT + Fog + Cloud Infrastructures: System Modeling and Research
+Challenges: Introduction, Methodology, Integrated C2F2T Literature by Modeling
+Technique, Integrated C2F2T Literature by Use-Case Scenarios, Integrated C2F2T
+Literature by Metrics, Future Research Directions. Management and Orchestration of
+Network Slices in 5G, Fog, Edge, and Clouds: Introduction, Background, Network
+Slicing in 5G, Network Slicing in Software-Defined Clouds, Network Slicing,
+Management in Edge and Fog, Future Research Directions.
+UNIT-III:
+Optimization Problems in Fog and Edge Computing: Introduction, Background /
+Related Work, Preliminaries, The Case for Optimization in Fog Computing, Formal
+Modeling Framework for Fog Computing, Metrics, Further Quality, Attributes,
+Optimization, Opportunities along the Fog Architecture, Optimization Opportunities
+along the Service Life Cycle, Toward a Taxonomy of Optimization Problems in Fog
+Computing, Optimization Techniques, Future Research Directions.
+Middlewares: Introduction, Need for Fog and Edge Computing Middleware, Design
+Goals, State-of- the-Art Middleware Infrastructures, System Model, Proposed
+Architecture, Case Study Example, Future Research Directions.
+UNIT-IV:
+Lightweight Container Middleware for Edge Cloud Architectures: Introduction,
+Background/Related Work, Clusters for Lightweight Edge Clouds, Architecture
+Management – Storage and Orchestration, IoT Integration, Security Management for
+Edge Cloud Architectures, Future Research Directions.
+Data Management in Fog Computing: Introduction, Background, Fog Data
+Management, Future Research and Direction.
+UNIT-V:
+Fog Computing Realization for Big Data Analytics: Introduction, Big Data Analytics,
+Data Analytics in the Fog, Prototypes and Evaluation, Architecture, Configurations,
+Case Studies, Related Work, Future Research Direction.
+Smart Surveillance Video Stream Processing at the Edge for Real-Time Human Objects
+Tracking: Introduction, Human Object Detection, Object Tracking, Lightweight
+Human Detection, Case Study, Future Research Directions.
+TEXT BOOK:
+1. Fog and Edge Computing: Principles and Paradigms (Series on Parallel and
+Distributed Computing), Rajkumar Buyya and Satish Narayana Srirama, Wiley
+REFERENCES:
+1. Fog Computing: Theory and Practice, Assad Abbas, Samee U. Khan, Albert Y.
+Zomaya
+2. Fog Computing: Helping the Internet of Things Realize its Potential, Amir Vahid
+Dastjerdi and Rajkumar Buyya, University of Melbourne

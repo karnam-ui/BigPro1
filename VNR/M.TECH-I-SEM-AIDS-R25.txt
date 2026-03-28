@@ -1,0 +1,1198 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/syllabus-books/Mtech-R25/M.TECH-I-SEM-AIDS-R25.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. I YEAR COURSE STRUCTURE AND SYLLABUS
+(ARTIFICIAL INTELLIGENCE AND DATA SCIENCE)
+I SEMESTER R25
+Course
+Course Type Name of the Course L T P Credits
+Code
+Professional Artificial Intelligence and
+25PC1AS01 3 0 0 3
+Core-I Intelligent Systems
+Professional Statistical Foundations for Data
+25PC1AS02 3 0 0 3
+Core-II Science
+Professional Advanced Data Structures and
+25PC1CP02 3 0 0 3
+Core-III Algorithms
+25PE1AS01 Data Analytics
+25PE1CP02 Natural Language Processing
+Professional Database Programming with
+25PE1AS02 3 0 0 3
+Elective-I PL/SQL
+25PE1AS03 Agentic AI
+AIML Techniques for Cyber
+25PE1AS04
+Security
+25PE1AS05 Mining of Massive Datasets
+25PE1CP10 Generative AI
+Professional 25PE1CP23 Prompt Engineering 3 0 0 3
+Elective-II
+25PE1AS06 MLOPs
+Scalable Algorithms and
+25PE1AS07
+Systems for Data Analysis
+Professional Artificial Intelligence and
+25PC2AS01 0 0 2 1
+Core Lab-I Intelligent Systems Laboratory
+Professional Advanced Data Structures and
+25PC2CP01 0 0 2 1
+Core Lab-II Algorithms Laboratory
+Communication English for Academic and
+25SD5EN01 0 0 2 1
+Skills Research Writing
+Project 25PW4AS01 Technical Seminar 0 0 4 2
+Mandatory 25MN6HS01 Research Methodology and IPR 2 0 0 0
+Total 17 0 10 20
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. I YEAR COURSE STRUCTURE AND SYLLABUS
+(ARTIFICIAL INTELLIGENCE AND DATA SCIENCE)
+II SEMESTER R25
+Course
+Course Type Name of the Course L T P Credits
+Code
+Professional
+25PC1AS03 Advance Machine Learning 3 0 0 3
+Core-IV
+Professional Neural Networks and Deep
+25PC1AS04 3 0 0 3
+Core-V Learning
+Professional
+25PC1AS05 Big Data Technologies 3 0 0 3
+Core-VI
+Digital Imaging Techniques and
+25PE1AS08
+Analysis
+25PE1AS09 Edge Analytics
+Professional
+25PE1AS10 Data Stream Processing 3 0 0 3
+Elective-III
+25PE1AS11 Enterprise Cloud Concepts
+25PE1AS12 Nature Inspired Computing
+25PE1AS13 Web and Database Security
+25PE1AS14 Reinforcement Learning
+Professional 25PE1AS15 Machine Translation 3 0 0 3
+Elective-IV
+25PE1AS16 GPU Computing
+25PE1AS17 API driven Cloud Native Solutions
+Professional
+25PC2AS02 Big Data Technologies Laboratory 0 0 2 1
+Core Lab-III
+Professional Neural Networks and Deep
+25PC2AS03 0 0 2 1
+Core Lab-IV Learning Laboratory
+Industry
+25SD5AS01 Industry Engagement 0 0 2 1
+Engagement
+Project 25PW4AS02 Mini-Project 0 0 4 2
+Mandatory 25MN6HS02 Ancient Wisdom 2 0 0 0
+Total 17 0 10 20
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. II YEAR COURSE STRUCTURE AND SYLLABUS
+(ARTIFICIAL INTELLIGENCE AND DATA SCIENCE)
+III SEMESTER R25
+Course Course
+Name of the Course L T P Credits
+Type Code
+25PE1AS18 Computer Vision and Robotics
+25PE1AS19 Social Media Analytics
+Professional
+25PE1AS20 Quantum AI 3 0 0 3
+Elective-V
+25PE1AS21 Multi Model Information Retrieval
+25PE1AS22 Responsible AI
+25OE1CN01 Business Analytics
+25OE1AM01 Industrial Safety
+Open
+25OE1AM02 Operations Research 3 0 0 3
+Elective
+25OE1AM03 Entrepreneurship and Startups
+25OE1PS01 Waste to Energy
+Project 25PW4AS03 Project Part - I 0 0 16 8
+Total 6 0 16 14
+IV SEMESTER R25
+Course Course
+Name of the Course L T P Credits
+Type Code
+Project 25PW4AS04 Project Part - II 0 0 28 14
+Total 0 0 28 14
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC1AS01) ARTIFICIAL INTELLIGENCE AND INTELLIGENT SYSTEMS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To introduce key AI problems, complexity classes, and AI paradigms
+• To explore fundamental search strategies and heuristics in problem solving
+• To enable logical reasoning and planning in AI systems
+• To examine learning methods and natural language processing techniques
+• To present agent architectures and applications of intelligent systems
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Identify major AI problems and distinguish AI paradigms
+CO-2: Apply search strategies and heuristics to solve problems
+CO-3: Use logic and planning techniques for knowledge representation
+CO-4: Implement AI learning and NLP models for data analysis
+CO-5: Design agent-based and intelligent systems for real-world applications
+UNIT-I:
+Introduction: Overview of AI problems, AI problems as NP, NP-Complete and NP Hard
+problems.
+Strong and weak, neat and scruffy, symbolic and sub-symbolic, knowledge-based
+and data-driven AI.
+UNIT-II:
+Search Strategies: Problem spaces (states, goals and operators), problem solving by
+search, Heuristics and informed search, Min-max Search, Alpha-beta pruning.
+Constraint satisfaction (backtracking and local search methods).
+UNIT-III:
+Knowledge representation and reasoning: Propositional and predicate logic,
+Resolution and theorem proving, Temporal and spatial reasoning. Probabilistic
+reasoning, Bayes theorem. Totally ordered and partially-ordered Planning. Goal stack
+planning, Nonlinear planning, Hierarchical planning
+UNIT-IV:
+Learning: Learning from example, Learning by advice, Explanation based learning,
+Learning in problem solving, Classification, Inductive learning, Naive Bayesian
+Classifier, decision trees.
+Natural Language Processing: Language models, n-grams, Vector space models, Bag
+of words, Text classification. Information retrieval.
+UNIT-V:
+Agents: Definition of agents, Agent architectures (e.g., reactive, layered, cognitive),
+Multi-agent systems- Collaborating agents, Competitive agents, Swarm systems and
+biologically inspired models.
+Intelligent Systems: Representing and Using Domain Knowledge, Expert System Shells,
+Explanation, Knowledge Acquisition.
+Key Application Areas: Expert system, decision support systems, Speech and vision,
+Natural language processing, Information Retrieval, Semantic Web.
+TEXT BOOK:
+1. Artificial Intelligence: A Modern Approach by S. Russell and P. Norvig, Prentice Hall
+REFERENCES:
+1. Artificial Intelligence by Elaine Rich, Kevin Knight and Shivashankar B Nair, Tata
+McGraw-Hill
+2. Introduction to Artificial Intelligence and Expert Systems by Dan W. Patterson,
+Pearson Education
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC1AS02) STATISTICAL FOUNDATIONS FOR DATA SCIENCE
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To introduce the fundamentals of data, probability, and various probability
+distributions used in data analysis
+• To make statistical inferences about data for predictive modelling
+• To learn essential linear algebra concepts and their applications in data science
+and dimensionality reduction
+• To explore the principles of optimization and their role in solving machine learning
+and data science problems
+• To study dimensionality reduction using PCA and analyze stochastic processes and
+Markov models in data science
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand data Science and basics of various distributions
+CO-2: Perform statistical inference and regression analysis for data-driven decision-
+making
+CO-3: Understand and apply the basic mathematical and statistical concepts in data
+science
+CO-4: Optimize the available data using certain optimization techniques
+CO-5: Able to simplify the complexity in high-dimensional data while retaining trends
+and interpret complex data patterns
+UNIT-I:
+What is Data Science? Three Pillars of Data Science, Types of Data and Data
+Representation, Random Variables and Probability Distributions, Discrete Distributions:
+Binomial, Poisson, Continuous Distributions: Uniform, Normal, Exponential, Lognormal,
+Cumulative Distribution Function (CDF)
+UNIT-II:
+Descriptive and Inferential Statistics, Measures of Central Tendency, Dispersion,
+Skewness, Kurtosis, Sampling and Sampling Distributions, Central Limit Theorem and its
+Applications, Simple Linear Regression and Correlation, Least Squares Estimation and
+Model Fitting, Inferences concerning Regression Coefficients and Predictions
+UNIT-III:
+Matrices and Systems of Linear Equations, Fields, Vector Spaces, Linear
+Independence, Basis, Dimension, Rank, Null Space, Rank-Nullity Theorem, Linear
+Transformations and their Properties, Norms and Inner Products, Orthogonality and
+Orthonormal Bases, Eigenvalues and Eigenvectors.
+UNIT-IV:
+Fundamentals of optimization, components of optimization problems, types of
+optimization problems, univariate optimization and related numerical examples,
+multivariate optimization and related numerical examples. Gradient Descent and its
+Variants, Applications of Optimization.
+UNIT-V:
+Principal Component Analysis (PCA): Motivation and Geometric Intuition, Distance
+Minimization and Variance Maximization, Eigenvalue Decomposition and PCA
+Implementation, PCA for Dimensionality Reduction, Visualization using PCA (e.g.,
+MNIST dataset), Limitations of PCA.
+Stochastic Processes and Markov Chains: Introduction to Stochastic Processes and
+Markov Processes, Applications of Markov Analysis in Data Science.
+TEXT BOOKS:
+1. Ronald E. Walpole, Raymond H. Myers, Sharon L. Myers, Keying Ye, Probability &
+Statistics for Engineers & Scientists, 9th Ed. Pearson Publishers
+2. Probability and Mathematical Statistics, Prasanna Sahoo, 2008
+3. Linear Algebra and Optimization for Machine Learning, Charu C. Aggarwal,
+Springer
+REFERENCES:
+1. Computational and Inferential Thinking: The Foundations of Data Science, Adi
+Adhikari and John De Nero, 1st Edition, 2019
+1. Doing Data Science, Straight Talk from The Frontline, Cathy O’Neil and Rachel
+Schutt, O’Reilly, 2014
+2. Mathematical Foundations of Data Science Using R, Matthias Dehmer, Salissou
+Moutari, Frank Emmert-Streib, De Gruyter Oldenbourg, 2020.
+4. Probability and Statistics for Data Science: Math + R + Data, Norman Matloff, CRC
+Data Science Series, 2019
+5. Introduction to Linear Algebra- by Gilbert Strang
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC1CP02) ADVANCED DATA STRUCTURES AND ALGORITHMS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Basic knowledge on Data Structures and Algorithm Design
+and Analysis
+COURSE OBJECTIVES:
+• To introduce the advanced methods of designing and analyzing algorithms
+• To choose appropriate algorithms and use it for a specific problem
+• To familiarize basic paradigms and data structures used to solve advanced
+algorithmic problems
+• To understand different classes of problems concerning their computation
+difficulties
+• To impart principles of good program design, particularly the effective use of data
+abstraction.
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand different advanced data structures and classes of problems
+concerning their computation difficulties.
+CO-2: Analyze the complexity/performance of different algorithms and data
+structures operations.
+CO-3: Categorize the different problems in various classes according to their
+complexity
+CO-4: Identify appropriate data structure and algorithms design technique and use it
+for a specific problem solving
+CO-5: Apply advanced problem-solving skills in various domains
+UNIT-I:
+Abstract Data Type: Priority Queue, Min/Max Heap, Binomial Heaps, Fibonacci heaps.
+Hashing: Implementation of Dictionaries, Review of Hashing, Hash Function, Collision
+Resolution Techniques in Hashing, Separate Chaining, Open Addressing, Linear
+Probing, Quadratic Probing, Double Hashing, Rehashing, Extendible Hashing.
+Counting and radix sorting techniques.
+Trees: AVL Trees, Red Black Trees, B-Trees, Tries.
+UNIT-II:
+Text Processing: Sting Operations, Brute-Force Pattern Matching, the Boyer-Moore
+Algorithm, the Knuth-Morris -Pratt Algorithm, the Longest Common Subsequence
+Problem (LCS), Applying Dynamic Programming to the LCS Problem. Introduction to
+Convex Hull, finding the convex hull and Graham scan approach.
+UNIT-III:
+Graph: Definitions and Elementary Algorithms: Shortest Path in Graphs: BFS, Dijkasra's,
+Bellman-Ford, Floyd-Warshall algorithm, DFS, topological sorting amortized analysis.
+Modulo Representation of Integers/Polynomials: Chinese Remainder Theorem,
+Conversion between base-representation and modulo-representation. Polynomial
+addition and multiplication.
+UNIT-IV:
+Flow-Networks: Maxflow-min cut theorem, Ford-Fulkerson Method to compute
+maximum flow, Edmond-Karp maximum-flow algorithm.
+Matrix Computations: Stassen’s algorithm and introduction to divide and conquer
+paradigm, inverse of a triangular matrix, LUP-decomposition.
+UNIT-V:
+Linear Programming: Geometry of the feasibility region and Simplex algorithm.
+NP Hard and NP-Complete problems: P, NP, NP-complete and NP-hard. Cook’s
+theorem. Recent Trends in problem solving paradigms using recent searching and
+sorting techniques by applying recently proposed data structures.
+TEXTBOOKS:
+1. Data Structures and Algorithm Analysis in C++, Mark Allen Weiss, 2nd Edition,
+Pearson, 2004
+2. Introduction to Algorithms, Cormen, Leiserson, Rivest, Stein
+3. Fundamentals of Computer Algorithms, E. Horrowitz, S. Sahni, S. Rajasekaran, 2nd
+Edition, University Press, 2007
+REFERENCES:
+1. Algorithm Design – Foundations, Analysis, and Internet Algorithms, M. T. Goodrich,
+R. Tomassia, John Wiley & Sons, 2002
+2. The Design and Analysis of Computer Algorithms, Aho, Hopcroft, Ullman
+3. Algorithm Design, Kleinberg and Tardos
+4. Design Analysis and Algorithms, Hari Mohan Pandy, University Science Press, 2009
+ONLINE RESOURCE:
+1. http://cs161.stanford.edu
+2. https://www.ics.uci.edu/~eppstein/161/960312.html
+3. https://www.cmi.ac.in/~madhavan/teaching.html
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1AS01) DATA ANALYTICS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand data architecture, sources, management, and preprocessing
+techniques for analytical readiness
+• To learn data analytics tools, modeling techniques, and their applications in
+business contexts
+• To study regression and logistic regression concepts for building predictive
+analytical models
+• To explore segmentation methods, supervised and unsupervised learning, and
+time series forecasting approaches
+• To understand and apply data visualization techniques for interpreting and
+communicating analytical insights effectively
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: To design and manage data architectures, ensuring data quality and
+consistency
+CO-2: To apply data analytics and modeling techniques using appropriate tools for
+business decision-making
+CO-3: To develop and evaluate regression-based models for prediction and analysis
+CO-4: To implement segmentation and time series models for forecasting and pattern
+recognition
+CO-5: To create meaningful visual representations of complex datasets using
+advanced visualization methods
+UNIT-I:
+Data Management: Design Data Architecture and manage the data for analysis,
+understand various sources of Data like Sensors/Signals/GPS etc. Data Management,
+Data Quality(noise, outliers, missing values, duplicate data) and Data Processing &
+Processing.
+UNIT-II:
+Data Analytics: Introduction to Analytics, Introduction to Tools and Environment,
+Application of Modeling in Business, Databases & Types of Data and Variables, Data
+Modeling Techniques, Missing Imputations etc. Need for Business Modeling.
+UNIT-III:
+Regression – Concepts, Blue property assumptions, Least Square Estimation, Variable
+Rationalization, and Model Building etc.
+Logistic Regression: Model Theory, Model fit Statistics, Model Construction, Analytics
+applications to various Business Domains etc.
+UNIT-IV:
+Object Segmentation: Regression Vs Segmentation – Supervised and Unsupervised
+Learning, Tree Building – Regression, Classification, Overfitting, Pruning and
+Complexity, Multiple Decision Trees etc.
+Time Series Methods: Arima, Measures of Forecast Accuracy, STL approach, Extract
+features from generated model as Height, Average Energy etc and Analyze for
+prediction
+UNIT-V:
+Data Visualization: Pixel-Oriented Visualization Techniques, Geometric Projection
+Visualization Techniques, Icon-Based Visualization Techniques, Hierarchical
+Visualization Techniques, Visualizing Complex Data and Relations.
+TEXT BOOKS:
+1. Student’s Handbook for Associate Analytics – II, III.
+2. Data Mining Concepts and Techniques, Han, Kamber, 3rd Edition, Morgan
+Kaufmann Publishers.
+REFERENCES:
+1. Introduction to Data Mining, Tan, Steinbach and Kumar, Addision Wisley, 2006.
+2. Data Mining Analysis and Concepts, M. Zaki and W. Meira
+3. Mining of Massive Datasets, Jure Leskovec Stanford Univ. Anand Rajaraman
+Milliway Labs Jeffrey D Ullman Stanford Univ.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1CP02) NATURAL LANGUAGE PROCESSING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: students should have knowledge on Data Structures, Finite
+Automata and Probability Theory
+COURSE OBJECTIVES:
+• To understand the algorithms available for the processing of linguistic information
+of natural languages
+• To conceive basic knowledge on various syntactic and semantics of NLP tasks
+• To familiarize various NLP software libraries and data sets publicly available
+• To apply the NLP techniques for language modelling
+• To grasp the theoretical underpinnings of algorithms and techniques used in
+statistical and neural network-based NLP.
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand morphological models and familiarize with issues and challenges
+CO-2: Describe the concepts of syntax and evaluate parsing algorithms
+CO-3: Analyze the semantics and pragmatics of a statement written in a natural
+language
+CO-4: Extract information using predicate argument structure in a corpus
+CO-5: Design and implement different language modeling techniques
+UNIT-I:
+Finding the Structure of Words: Words and their Components, Issues and Challenges,
+Morphological Models. Finding the Structure of Documents: Introduction, Methods,
+Complexity of the Approaches, Performances of the Approaches
+UNIT-II:
+Syntax Analysis: Parsing Natural Language, Tree banks: A Data-Driven Approach to
+Syntax, Representation of Syntactic Structure, Parsing Algorithms, Models for
+Ambiguity Resolution in Parsing, Multilingual Issues.
+UNIT-III:
+Semantic Parsing: Introduction, Semantic Interpretation, System Paradigms, Word
+Sense Systems, Software.
+UNIT-IV:
+Predicate-Argument Structure: Meaning Representation Systems, Software.
+UNIT-V:
+Discourse Processing: Cohesion, Reference Resolution, Discourse Cohesion and
+Structure Language Modeling: Introduction, N-Gram Models, Language Model
+Evaluation, Parameter Estimation, Language Model Adaptation, Types of Language
+Models, Language-Specific Modeling Problems, Multilingual and Cross Lingual
+Language Modeling.
+TEXTBOOKS:
+1. Multilingual natural Language Processing Applications: From Theory to Practice –
+2. Daniel M. Bikel and Imed Zitouni, Pearson Publication
+3. Natural Language Processing and Information Retrieval: Tanvier Siddiqui, U. S.
+Tiwary
+4. Foundations of Statistical Natural Language Processing, Christopher D. Manning
+and Hinrich Schutze, MIT Press, 1999
+REFERENCES:
+1. Speech and Natural Language Processing, Daniel Jurafsky & James H. Martin,
+Pearson Publication
+2. Practical Text Analytics: Interpreting Text and Unstructured Data for Business
+intelligence, Steven Struhl, Kogan Page, 2015
+3. Handbook of Natural Language Processing, Nitin Indurkhya and Fred J. Damerau,
+Second Edition, Chapman and Hall/CRC Press, 2010
+ONLINE RESOURCES:
+1. Applied Natural Language Processing - Course (nptel.ac.in)
+2. Natural Language Processing - Course (nptel.ac.in)
+3. Natural Language Processing | Coursera
+4. Top Nlp Courses - Learn Nlp Online | Coursera
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1AS02) DATABASE PROGRAMMING WITH PL/SQL
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the fundamentals of PL/SQL block structure, data types, and control
+constructs
+• To develop modular programs using functions, procedures, and packages
+• To implement cursors, collections, and exception handling for efficient database
+operations
+• To learn package architecture and dependency management in Oracle
+databases
+• To explore trigger concepts for automating tasks and maintaining data integrity
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Demonstrate knowledge of PL/SQL programming structure and variable scope
+CO-2: Apply functions, procedures, and packages for modular database
+development
+CO-3: Utilize cursors, collections, and bulk operations to optimize performance
+CO-4: Analyse package components and dependencies effectively
+CO-5: Design and implement triggers to enforce database integrity
+UNIT-I:
+PL/SQL Basics: Block Structure, Behaviour of Variables in Blocks, Basic Scalar and
+Composite Data Types, Control Structures, Exceptions, Bulk Operations, Functions,
+Procedures, and Packages, Transaction Scope
+UNIT-II:
+Language Fundamentals & Control Structures: Lexical Units, Variables and Data Types,
+Conditional Statements, Iterative Statements, Cursor Structures, Bulk Statements,
+Introduction to Collections, Object Types: Varray and Table Collections, Associative
+Arrays, Oracle Collection API
+UNIT-III:
+Functions and Procedures: Function and Procedure Architecture, Transaction Scope,
+Calling Subroutines, Positional Notation, Named Notation, Mixed Notation,
+Exclusionary Notation, SQL Call Notation, Functions, Function Model Choices, Creation
+Options, Pass-by-Value Functions, Pass-by-Reference Functions, Procedures, Pass-by-
+Value Procedures, Pass-by-Reference Procedures, Supporting Scripts.
+UNIT-IV:
+Packages: Package Architecture, Package Specification, Prototype Features, Serially
+Reusable Precompiler Directive, Variables, Types, Components: Functions and
+Procedures, Package Body, Prototype Features, Variables, Types, Components:
+Functions and Procedures, Definer vs. Invoker Rights Mechanics, Managing Packages
+in the Database Catalog, Finding, Validating, and Describing Packages, Checking
+Dependencies, Comparing Validation Methods: Timestamp vs. Signature.
+UNIT-V:
+Triggers: Introduction to Triggers, Database Trigger Architecture, Data Definition
+Language Triggers, Event Attribute Functions, Building DDL Triggers, Data Manipulation
+Language Triggers, Statement-Level Triggers, Row-Level Triggers, Compound Triggers,
+INSTEAD OF Triggers, System and Database Event Triggers, Trigger Restrictions,
+Maximum Trigger Size, SQL Statements, LONG and LONG RAW Data Types.
+TEXT BOOKS:
+1. Database 12c PL/SQL Programming Michael McLaughlin, McGraw-Hill Education
+REFERENCES:
+1. Benjamin Rosenzweig, Elena Silvestrova Rakhimov, Oracle PL/SQL by example Fifth
+Edition
+2. Dr. P. S. Deshpande, SQL & PL / SQL for Oracle 11g Black Book
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1AS03) AGENTIC AI
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To introduce the fundamental ideas of software agents and Agentic AI
+• To explain how agents perceive, reason, and act in different environments
+• To develop basic skills to design single-agent and multi-agent solutions
+• To provide hands-on exposure to open-source frameworks for building simple
+agents
+• To emphasize responsible, ethical and safe deployment of agent-based systems
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Define the basic concepts and characteristics of autonomous agents
+CO-2: Explain the structure and behaviour of simple agent architectures
+CO-3: Apply interaction, coordination and task-allocation concepts in basic multi-
+agent systems
+CO-4: Use beginner-friendly tools to implement simple agentic applications
+CO-5: Identify ethical and safety issues in the use of agent-based technologies
+UNIT-I:
+Introduction to Agentic AI: Evolution of AI from expert systems to Agentic AI, Agents
+vs. traditional programs, Characteristics of agents: autonomy, pro-activeness,
+reactivity, social ability, Types of agents: reflex-based, goal-based, utility-based,
+learning agents, Agents and their environments: deterministic vs. stochastic, discrete
+vs. continuous, static vs. dynamic, Illustrative applications: chatbots, shopping
+assistants, route-planning agents.
+UNIT-II:
+Agent Architectures and Reasoning: Basic agent architectures: reactive, deliberative,
+hybrid Perception–action cycle in agents, State representation and simple reasoning,
+Concept of goal-directed behaviour, Introduction to planning at a conceptual level,
+Basics of learning in agents (overview of reinforcement learning concepts).
+UNIT-III:
+Multi-Agent Systems (MAS): Need for multi-agent systems; examples in everyday life,
+Communication among agents: simple message passing, Cooperation and
+competition; basic coordination strategies, Introduction to task allocation and
+resource sharing, Simple MAS scenarios: traffic-signal control, team-based robotics.
+UNIT-IV:
+Tools and Applications of Agentic AI: Overview of current agentic toolkits and
+frameworks: NetLogo, JADE, LangChain, CrewAI, AutoGPT (conceptual level only),
+Building simple personal-assistant or information-retrieval agents, Agents with LLM
+support – introductory prompting and workflow chaining, Agents in healthcare,
+education, customer support, and research assistance.
+UNIT-V:
+Safety, Ethics and Future Directions: Importance of transparency, fairness and
+accountability in agentic systems, Basic safety measures: controllability, human-in-
+the-loop design, Data privacy and security issues in autonomous agents, Limitations
+of current agentic approaches, Future scope: integration with IoT, robotics and cloud
+platforms, Research opportunities for entry-level graduate students.
+TEXT BOOKS
+1. Wooldridge, M. – An Introduction to Multi-Agent Systems, Wiley, 2nd Ed., 2009
+2. Russell, S. & Norvig, P. – Artificial Intelligence: A Modern Approach, Pearson, 4th Ed.,
+2022
+3. LangChain Documentation – Beginner’s Guide to Building Agents, 2024 (selected
+sections)
+REFERENCES
+1. Jennings, N.R. – Foundations of Agent-Based Computing, Cambridge UP, 2011
+2. Chopra, A.K. & Singh, M.P. – Foundations of Multi-Agent Systems, MIT Press, 2024
+(introductory chapters)
+3. CrewAI Documentation – Getting Started with Agentic Workflows, 2024
+4. JADE Framework User Guide, 2023
+5. OpenAI API Guides – Building Simple LLM-Powered Agents, 2024
+ONLINE RESOURCES
+1. NPTEL Course: Artificial Intelligence: Search Methods for Problem Solving by Prof.
+D. Khemani, IIT Madras
+2. NetLogo Models Library: https://ccl.northwestern.edu/netlogo/
+3. LangChain Tutorials: https://docs.langchain.com/
+4. AutoGPT for Beginners: https://docs.agpt.co/
+5. Hugging Face Agents Hub: https://huggingface.co/agents
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1AS04) AIML TECHNIQUES FOR CYBER SECURITY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To introduce the fundamental principles of Artificial Intelligence and Machine
+Learning in the context of cyber security
+• To develop understanding of machine learning algorithms for intrusion detection,
+malware analysis, and threat classification.
+• To explore deep learning and neural network applications in security analytics
+• To familiarize students with adversarial machine learning and its implications in
+cyber defence
+• To enable learners to analyse, design, and implement AI-based systems for
+detecting and preventing cyber-attacks
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Explain the role of AI and ML in solving modern cyber security challenges
+CO-2: Apply supervised and unsupervised ML algorithms for intrusion and anomaly
+detection
+CO-3: Utilize deep learning architectures for malware detection, spam filtering, and
+phishing prevention
+CO-4: Evaluate cyber threats using AI-driven models and interpret results with
+explainable AI approaches
+CO-5: Design and implement intelligent cyber defense mechanisms using ML and
+adversarial learning concepts
+UNIT-I:
+Introduction to AI & ML in Cyber Security: Overview of Cyber Security threats and
+challenges. Role of AI and ML in Cyber Defence. Basic AI concepts: Knowledge
+representation, reasoning, and learning. Introduction to Machine Learning:
+Supervised, Unsupervised, and Reinforcement Learning. Need for AI and ML in modern
+cyber defence systems.
+UNIT-II:
+Machine Learning Techniques for Threat Detection: Basics of Machine Learning: Data
+pre-processing, encoding, feature selection, and normalization. Supervised Learning:
+Decision Trees, Random Forest, Naïve Bayes, SVM, KNN. Unsupervised Learning:
+Clustering (K-Means, DBSCAN), Association Rule Mining for anomaly detection.
+Handling class imbalance: Oversampling, Undersampling.Evaluation metrics for
+security models: Accuracy, Precision, Recall, F1-score, ROC, AUC. Case Study: ML-
+based Intrusion Detection using Random Forest.
+UNIT-III:
+Deep Learning and Neural Networks in Cyber Security: Fundamentals of Neural
+Networks and Deep Learning. CNN and RNN applications in network intrusion
+detection. Auto encoders for anomaly detection. Deep Reinforcement Learning in
+adaptive defence. Adversarial attacks and defences in ML models. Generative
+models (VAE, GAN) for synthetic data generation and threat simulation. Deep
+Reinforcement Learning for dynamic security policy enforcement.
+UNIT-IV:
+AI Applications in Cyber Threat Intelligence: AI for malware classification: Static and
+dynamic analysis, Random Forest and Deep Learning methods. Hybrid Intrusion
+Detection Systems: Combining misuse and anomaly detection. Domain Generation
+Algorithm (DGA) detection using ML and HMMs. Network traffic profiling using
+clustering and pattern analysis. NLP for Cyber Threat Intelligence: Extracting entities
+from threat reports.
+UNIT-V:
+Advanced AI Paradigms and Evolving Trends in Cyber Security: Adversarial Machine
+Learning: Types of attacks on ML models, evasion and poisoning attacks.Defensive
+strategies and robustness improvement techniques. Federated Learning for
+decentralized and privacy-preserving security.Blockchain-integrated AI systems for
+secure data sharing.AI for IoT and Cloud Security.Explainable AI (XAI) in cyber threat
+analysis.
+TEXT BOOKS:
+1. John H. Clark, Diego S. Cruces, Daniel Plohmann, Machine Learning Security
+Principles: Applications & Best Practices, Packt, 2023.
+2. Alessandro Parisi, Hands-On Artificial Intelligence for Cybersecurity, O’Reilly Media,
+2023.
+REFERENCES:
+1. Brij B. Gupta, Quan Z. Sheng, Machine Learning for Cybersecurity: Principles,
+Algorithms, and Applications, CRC Press, 2022.
+2. Sushil Jajodia, Anupam Joshi, Peng Liu, AI for Cybersecurity: A Handbook of Use
+Cases, PSU Cybersecurity Lab, 2022.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1AS05) MINING OF MASSIVE DATASETS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To introduce the fundamental concepts and techniques of data mining and
+distributed processing using MapReduce
+• To explore similarity measures and techniques for mining and analyzing streaming
+data
+• To understand link analysis, frequent itemset mining, and clustering methods for
+large-scale data
+• To examine algorithms and models used in online advertising and
+recommendation systems
+• To study methods for mining and analyzing social network graphs and their
+structural properties
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply data mining techniques using distributed frameworks like MapReduce for
+large datasets
+CO-2: Implement similarity search and stream data mining algorithms for real-time
+data analysis
+CO-3: Analyze web links, frequent patterns, and clustering results from massive data
+sources
+CO-4: Develop and evaluate recommendation and online advertising models for
+web applications
+CO-5: Perform social network analysis using graph mining techniques to uncover
+patterns and relationships
+UNIT-I:
+Data Mining-Introduction: Introduction-Definition of Data Mining-Statistical Limits on
+Data Mining, MapReduce and the New Software Stack-Distributed File Systems,
+MapReduce, Algorithms Using MapReduce.
+UNIT-II:
+Similarity Search: Finding Similar Items-Applications of Near-Neighbor Search,
+Shingling of Documents, Similarity-Preserving Summaries of Sets, Distance Measures.
+Streaming Data: Mining Data Streams-The Stream Data Model, Sampling Data in a
+Stream, Filtering Streams
+UNIT-III:
+Link Analysis-PageRank, Efficient Computation of PageRank, Link Spam
+Frequent Itemsets-Handling Larger Datasets in Main Memory, Limited-Pass Algorithms,
+Counting Frequent Items in a Stream.
+Clustering-The CURE Algorithm, Clustering in Non-Euclidean Spaces, Clustering for
+Streams and Parallelism
+UNIT IV:
+Advertising on the Web-Issues in On-Line Advertising, On-Line Algorithms, The
+Matching Problem, The Adwords Problem, Adwords Implementation.
+Recommendation Systems-A Model for Recommendation Systems, Content-Based
+Recommendations, Collaborative Filtering, Dimensionality Reduction, The NetFlix
+Challenge.
+UNIT V:
+Mining Social-Network Graphs-Social Networks as Graphs, Clustering of Social-
+Network Graphs, Partitioning of Graphs, Simrank, Counting Triangles
+TEXT BOOKS:
+1. Mining of Massive Datasets, Jure Leskovec, Anand Rajaraman, Jeff Ullman, 3rd
+Edition
+REFERENCES:
+1. Data Mining – Concepts and Techniques, Jiawei Han & Micheline Kamber, 3rd
+Edition Elsevier
+2. Data Mining Introductory and Advanced topics, Margaret H Dunham, PEA
+3. Data Mining: Practical Machine Learning Tools and Techniques, Ian H. Witten and
+Eibe Frank, Morgan Kaufmann
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1CP10) GENERATIVE AI
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Artificial Intelligence, Machine learning, Statistical methods
+COURSE OBJECTIVES:
+• To introduce the foundations, evolution, and core concepts of AI, ML, DL, NLP, and
+Generative AI
+• To develop an understanding of advanced neural architectures and generative
+models such as GANs, VAEs, and Transformers
+• To study Large Language Models, their architectures, prompt engineering, and
+fine-tuning for real- world applications
+• To explore Multi-Agent Systems and examine Generative AI applications across
+domains such as art, healthcare, and finance
+• To familiarize learners with frameworks, multimodal applications, and ethical
+considerations in Generative AI
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Demonstrate knowledge of AI foundations, generative models, and advanced
+neural architectures.
+CO-2: Apply generative AI techniques to create solutions for text, image, video, and
+multimodal tasks.
+CO-3: Design, fine-tune, and optimize Large Language Models for specific
+applications.
+CO-4. Apply multi-agent collaboration and generative AI techniques in real-world
+domains such as art, creativity, and problem-solving.
+CO-5. Evaluate ethical, social, and legal implications of Generative AI deployments
+and propose mitigation strategies.
+UNIT-I:
+Foundations of AI and Generative Models: Introduction and historical evolution to
+Artificial Intelligence (AI), Machine Learning (ML), Natural Language Processing (NLP)
+and Deep Learning (DL), Structure of Artificial Neural Networks (ANNs), Mathematical
+and computational foundations of Generative modeling, Overview of generative
+models and their applications across various domains; Importance of Generative AI
+in modern applications, Transfer learning and advancing Generative AI.
+UNIT-II:
+Advanced Neural Architectures for Generative AI: Vibrational Auto encoders (VAEs):
+principles and applications, Generative Adversarial Networks (GANs): architecture
+and working principles; Transformer architecture and attention mechanisms (in
+detail); Long Short-Term Memory Networks (LSTMs) and the limitations of traditional
+RNNs/LSTMs, Pre-training and transfer learning strategies for generative models.
+UNIT-III:
+Large Language Models and Prompt Engineering: Overview of Large Language
+Models (LLMs), GPT architecture, variants, and working principles, Pretraining and fine-
+tuning GPT models for applications (e.g., chatbots, text generation), Case study: GPT-
+based customer support chatbot, BERT architecture, pre-training objectives, and fine-
+tuning, Prompt Engineering: Designing effective prompts, controlling model behavior,
+and improving output quality, Fine-tuning language models for creative writing and
+chatbot development
+UNIT-IV:
+Multi-Agent Systems and Generative AI Applications: Introduction to Multi-Agent
+Systems (MAS), Types of agents: reactive, deliberative, hybrid, and learning agents,
+Multi-agent collaboration and orchestration for generative tasks, Use cases:
+autonomous research assistants, cooperative creative generation, distributed
+problem-solving, Frameworks and tools: AutoGen, CrewAI, Hugging GPT for LLM-
+powered multi-agent systems, Generative AI applications and deployment
+challenges.
+UNIT-V:
+Frameworks, Multimodal Applications, and Ethics: LangChain framework:
+components and LLM application development, Retrieval-Augmented Generation
+(RAG), Embeddings, Indexing networks, and Vector databases, Generative AI across
+modalities: Text, Code, Image, and Video generation, Image and Video generation
+using GANs and VAEs, Multimodal Generative AI: integration and training strategies,
+Ethical considerations: bias, fairness, trust, and responsible AI deployment, Social and
+legal implications of Generative AI, Risk mitigation strategies and real-world ethical
+case studies.
+TEXT BOOKS:
+1. Altaf Rehmani, Generative AI for Everyone: Understanding the Essentials and
+Applications of This Breakthrough Technology.
+2. Charu C. Aggarwal, Neural Networks and Deep Learning: A Textbook. Joseph
+Babcock, Raghav Bali, Generative AI with Python and TensorFlow 2, 2024.
+3. Altaf Rehmani, Generative AI Foundations: Understand Generative AI
+Applications, Benefits, and Risks. August 2024, O'Reilly Media, Inc.
+REFERENCES:
+1. Josh Kalin, Generative Adversarial Networks Cookbook.
+2. Jesse Sprinter, Generative AI in Software Development: Beyond the Limitations of
+Traditional Coding, 2024.
+3. Olivia Gambelin, Responsible AI: Implement an Ethical Approach in your
+Organization, 3 June 2024
+ONLINE RESOURCES:
+1. Fabian Gloeckle et al., Better & Faster Large Language Models via Multi-token
+Prediction, arXiv: 2404.19737v1, 2024.Vaswani et al., Attention Is All You Need,
+NeurIPS 2017.
+2. George Lawton, What is GenAI? Generative AI
+explained,
+https://www.techtarget.com/searchenterpriseai/definition/generative-
+AI#:~:text=GenAI%20typically%20does%20two%20things,AI%20and%20machine%
+20learning%2 0models.
+3. XMPro, The Ultimate Guide to Multi-Agent Generative
+Systemshttps://xmpro.com/the-ultimate- guide-to-multi-agent-generative-
+systems/
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1CP23) PROMPT ENGINEERING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the fundamental principles and methodologies of effective
+prompting for large language models
+• To gain knowledge of transformer-based architectures and modern text
+generation models like GPT
+• To explore standard practices for structured and styled text generation using
+ChatGPT
+• To learn text chunking, tokenization, and encoding methods for efficient
+processing and generation
+• To understand vector databases and implement Retrieval-Augmented
+Generation (RAG) using FAISS, Pinecone, and LangChain
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: To design and apply effective prompts using standard prompting principles
+CO-2: To explain and compare architectures and capabilities of popular large
+language models
+CO-3: To generate, format, and refine diverse textual outputs using ChatGPT
+effectively
+CO-4: To implement text chunking and tokenization strategies for improved language
+model performance
+CO-5: To build RAG-based applications integrating embeddings and vector
+databases for enhanced retrieval and generation
+UNIT-I:
+Fundamentals and Principles of Prompting
+Overview of the Five Principles of Prompting: Give Direction, Specify Format, Provide
+Examples, Evaluate Quality, Divide Labor.
+UNIT-II:
+Introduction to Large Language Models for Text Generation:
+What Are Text Generation Models, Vector Representations: The Numerical Essence of
+Language,
+Transformer Architecture: Orchestrating Contextual Relationships, Probabilistic Text
+Generation: The Decision Mechanism, Historical Underpinnings: The Rise of Transformer
+Architectures, OpenAI’s Generative Pretrained Transformers, GPT-3.5-turbo and
+ChatGPT, GPT-4, Google’s Gemini, Meta’s Llama and Open Source.
+UNIT-III:
+Standard Practices for Text Generation with ChatGPT- Part-A
+Generating Lists, Hierarchical List Generation, When to Avoid Using Regular
+Expressions, Generating JSON, YAML Filtering YAML Payloads, Handling Invalid
+Payloads in YAML, Diverse Format Generation with ChatGPT, Mock CSV Data,
+Universal Translation Through LLMs, Ask for Context, Text Style Unbundling, Identifying
+the Desired Textual Features, Generating New Content with the Extracted Features,
+Extracting Specific Textual Features with LLMs.
+UNIT-IV:
+Standard Practices for Text Generation with ChatGPT- Part-B
+Chunking Text, Benefits of Chunking Text, Scenarios for Chunking Text, Poor Chunking
+Example, Chunking Strategies, Sentence Detection Using SpaCy, building a Simple
+Chunking Algorithm in Python, Sliding Window Chunking, Text Chunking Packages,
+Text Chunking with Tiktoken, Encodings, Understanding the Tokenization of Strings.
+UNIT-V:
+Vector Databases with FAISS and Pinecone
+Retrieval Augmented Generation (RAG), Introducing Embeddings, Document
+Loading Memory Retrieval with FAISS, RAG with Lang Chain, Hosted Vector Databases
+with Pinecone, SelfQuerying, Alternative Retrieval Mechanisms.
+TEXT BOOKS:
+1. Prompt engineering for generative AI, Phoenix J, Taylor M, O'Reilly Media, Inc, 2024
+REFERENCES:
+1. Natural language processing with transformers, Tunstall L, Von Werra L, Wolf T.
+O'Reilly Media, Inc., 2022
+2. Generative deep learning, Foster D, O'Reilly Media, Inc. 2022
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1AS06) MLOPS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the MLOps lifecycle and its significance in modern ML workflows
+• To learn data management, versioning, and feature engineering practices for
+robust deployment
+• To develop skills for experiment tracking, model development, and reproducibility
+• To master model deployment strategies, monitoring, and automated CI/CD
+workflows
+• To explore responsible AI, governance, and scaling MLOps operations across
+organizations
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Explain core concepts of the MLOps lifecycle and workflow maturity
+CO-2: Apply feature engineering and data management tools for repeatable ML
+pipelines
+CO-3: Manage experiments and version control for collaborative model
+development
+CO-4: Implement machine learning models and implement monitoring with CI/CD
+pipelines
+CO-5: Evaluate governance principles and responsible practices in large-scale
+MLOps systems
+UNIT-I:
+Introduction to MLOps and the Machine Learning Lifecycle: Overview of MLOps:
+Definition and Significance MLOps vs. Traditional Software DevOps.The Machine
+Learning Lifecycle: Data, Model Development, Deployment, Operations MLOps
+Maturity Levels and Industry Case Studies
+UNIT-II:
+Data Management and Feature Engineering for MLOps: Data Versioning and Lineage,
+Data Ingestion Pipelines and Automation, Feature Stores and Feature Management,
+Tracking Data Provenance and Reproducibility.
+UNIT-III:
+Model Development, Experimentation, and Version Control: Collaboration and
+Experiment Tracking (with MLflow), Reproducibility in Model Development, Model
+Versioning Strategies, Model Registry and Model Provenance, Experimentation at
+Scale
+UNIT-IV:
+Model Deployment, Monitoring, and CI/CD Workflows: Model Deployment Strategies
+(Batch, Real-Time, Streaming), Serving Infrastructure and APIs, Continuous Integration
+& Continuous Deployment (CI/CD) in MLOps, Model Monitoring: Performance, Drift,
+and Retraining, Automation with Orchestration Tools
+UNIT-V:
+Responsible AI, Governance, and Advanced MLOps Concepts: Responsible AI and
+Governance in the ML Lifecycle, Security, Compliance, and Auditability in MLOps,
+Collaboration and Scaling MLOps in Large Organizations, Introduction to LLMOps and
+Productionizing GenAI, Case Studies and Industry Applications
+TEXT BOOKS:
+1. The Big Book of MLOps: Principles and Practices for Scalable Machine Learning
+Operations. By Databricks
+2. Practical MLOps: Operationalizing Machine Learning Models Using MLflow,
+Docker, and Kubernetes by Noah Gift & Alfredo Deza
+REFERENCES:
+1. Machine Learning Engineering: The Ultimate Guide to Deploying Machine
+Learning Models, Andriy Burkov
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1AS07) SCALABLE ALGORITHMS AND SYSTEMS FOR DATA ANALYSIS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To provide knowledge on scalability as a complexity notion of computation
+• To Familiarize students with algorithmic techniques for the design of provably-good
+scalable algorithms
+• To giive an overview of map reduce and link analysis for handling larger datasets
+• Introduce Systems and approaches for large scale data-science problems
+• Enable students with how large-scale machine learning and distributed machine
+learning approaches work
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Outline the characteristics of massive data and primitives of scalable algorithms
+CO-2: Apply geometric and clustering techniques for local computation of data
+CO-3: Solve large scale data science problems related to link analysis and finding
+similar items
+CO-4: Examine the need of scalable systems for large scale data science such as web
+advertising and recommendation systems
+CO-5: Determine useful information to be gained by analysing the large-scale data
+that is derived from social networks
+UNIT-I:
+Scalable Algorithms: Challenges of Massive Data, The Scalability of Algorithms,
+Complexity Class S, Scalable Reduction and Algorithmic Primitives
+Networks and Data: Weighted Graphs and Affinity Networks, Possible Sources of
+Affinities, Beyond Graph Models for Social/Information Networks, Basic Problems in
+Data and Network Analysis, Sparse Networks and Sparse Matrices.
+Significant Nodes: Sampling - Making Data Smaller: Personalized PageRank Matrix,
+Multi-Precision Annealing for Significant Page Rank, Local Approximation of
+Personalized PageRank, Multi-Precision Sampling, Significant-PageRank Identification.
+UNIT-II:
+Partitioning: Geometric Techniques for Data Analysis: CenterPoint and Regression
+Depth, Scalable Algorithms for Center points, Geometric Separators, Dimension
+Reduction: Random vs Spectral, Scalable Geometric Divide-and-Conquer, Graph
+Partitioning: Vertex and Edge Separators, Multiway Partition of Network and
+Geometric Data, Spectral Graph Partitioning: The Geometry of a Graph.
+UNIT-III:
+Overview of data mining: and map-reduce, Hash Functions, shingling of documents,
+Similarity-Preserving Summaries of Sets, Locality-Sensitive Hashing for Documents,
+Distance Measures, Link-analysis Page Rank, Link Spam, Hubsand authorities.
+Frequent Item sets: Market based model, A-Priori Algorithm, Handling larger data sets
+in memory, Limited-pass algorithms.
+UNIT-IV:
+Clustering: Hierarchical clustering, k-means, CURE, Clustering in Non Euclidean
+Spaces, Clustering for Streams and Parallelism. Advertising on the web: Matching
+problem, The ad-words problem.
+Recommendation systems: Content Based Recommendations, Collaborative
+Filtering, Dimensionality Reduction, The NetFlix Challenge.
+UNIT-V:
+Mining Social-Network Graphs: Social Networks as Graphs, Clustering of Social-
+Network Graphs, Direct Discovery of Communities, Partitioning of Graph, Finding
+Overlapping Communities, Simrank, Counting Triangles, Neighborhood Properties of
+Graphs.
+Large-scale machine Learning: The Machine-Learning Model, Perceptrons, Support-
+Vector Machines, Learning from Nearest Neighbors, Comparison of Learning
+Methods.
+TEXT BOOKS:
+1. Scalable algorithms for data and network analysis, Foundation Trends Theoretical
+Computer Science, Shang Hua Teng, First Edition, Now Publishers Inc., 2016
+2. Big Data Analysis: New Algorithms for a New Society, Nathalie Japkowicz, Jerzy
+Stefanowski, First Edition, Springer, 2016
+3. Mining of massive datasets, Jure Leskovec, Anand Rajaraman, Jeffrey David
+Ullman, Cambridge University Press, 2014
+REFERENCES:
+1. Data-Intensive Text Processing with MapReduce, Jimmy Lin and Chris Dyer, First
+Edition, Morgan and Claypool Publishers, 2010
+2. Advanced Analytics with Spark: Patterns for Learning from Data at Scale, Sandy
+Ryza, Uri Laserson, Sean Owen, Josh Wills, O'Reilly, 2015
+3. Mastering Apache Storm: Processing big1 data streaming in real time, Ankit Jain,
+Packt Publishing, 2017
+ONLINE RESOURCES:
+1. https://www.worldcat.org/title/scalable-algorithms-for-data-and-network-
+analysis/oclc/951566325
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC2AS01) ARTIFICIAL INTELLIGENCE AND INTELLIGENT SYSTEMS LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• to provide hands-on experience in installing and working with AI tools such as
+Python, R, MATLAB, NLTK, and related frameworks
+• To develop the ability to preprocess, annotate, and create datasets for AI and
+machine learning applications
+• To understand and implement fundamental AI techniques such as search
+algorithms, knowledge representation, and reasoning
+• To apply machine learning and natural language processing techniques to solve
+real-world problems
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the fundamental concepts of neural networks and deep learning
+models
+CO-2: Analyze existing datasets and treebanks and implement basic searching
+techniques in AI
+CO-3: Design and implement knowledge representation schemes and develop
+simple NLP-based tools
+CO-4: Apply suitable machine learning algorithms to classification and clustering
+problems
+CO-5: Implement parallel algorithms and utilize Python scientific libraries (NumPy,
+SciPy, Pandas, scikit-learn, statsmodels, NLTK) for data analysis and AI model
+development
+LIST OF PROGRAMS
+1. Installation and working on various AI tools viz. Python, R tool, GATE, NLTK, MATLAB,
+etc.
+2. Data preprocessing and annotation and creation of datasets.
+3. Learn existing datasets and Treebanks.
+4. Implementation of searching techniques in AI.
+5. Implementation of Knowledge representation schemes.
+6. Natural language processing tool development.
+7. Application of Machine learning algorithms.
+8. Application of Classification and clustering problem.
+9. Working on parallel algorithms.
+10. Scientific distributions used in python for Data Science - Numpy, scifi, pandas, scikit
+learn, statsmodels, nltk.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC2CP01) ADVANCED DATA STRUCTURES AND ALGORITHMS LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE PRE-REQUISITES: Basic knowledge on Algorithm Design and Analysis.
+COURSE OBJECTIVES:
+• To familiarize with advanced methods of designing and analyzing algorithms
+• To choose appropriate algorithms and use it for a specific problem
+• To train basic paradigms and data structures used to solve advanced algorithmic
+problems
+• To understand different classes of problems concerning their computation
+difficulties
+• To improve the efficiency of algorithms to enhance performance in real-world
+applications and to design optimized algorithms
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Analyze the complexity/performance of different classes of problems
+CO-2: Identify appropriate data structure and algorithms design technique and use it
+for a specific problem solving
+CO-3: Design efficient algorithms for solving the problems
+CO-4: Implement the different advanced problem solving algorithms
+CO-5: Apply advanced problem-solving skills in various domains
+LIST OF PROGRAMS:
+1. Write a program to implement Linear Probing and Separate Chaining.
+2. Write a program to implement Min/Max Heap.
+3. Write a program to implement Fibonacci Heap.
+4. Write a program to implement AVL tree, Red-Black tree operations.
+5. Write a program to implement Boyer-Moore and KMP pattern matching algorithm.
+6. Write a program to implement LCS algorithm.
+7. Write a program to implement Topological sorting.
+8. Write a program to compute shortest path by BFS.
+9. Write a program to implement Dijkasra’s Algorithm.
+10. Write a program to implement Bellman-Ford Algorithm
+11. Write a program to implements Ford-Fulkerson algorithm to compute maximum
+flow.
+12. Write a program to implement Stassen’s algorithm.
+13. Write a program to implement LUP-decomposition of a matrix.
+14. Write a program to implement Floyd-Warshall Algorithm.
+15. Write a program to implement Polynomial addition and multiplication.
+16. Write a program to implement Simplex algorithm.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25SD5EN01) ENGLISH FOR ACADEMIC AND RESEARCH WRITING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE PRE-REQUISITES: Undergraduate level English Proficiency
+COURSE OBJECTIVES:
+• To equip with an understanding of the mechanics and conventions of academic
+and research writing, including cohesion and coherence, to produce texts that
+demonstrate precision and clarity
+• To enable to present focused, logical arguments that support a thesis
+• To empower to find, analyze, evaluate, summarize, and synthesize appropriate
+source material for literature review
+• To enable to use appropriate language to analyze and interpret the data, and
+prepare an outline
+• To enable to become adept in the requirements and specifications of standard
+writing to produce academic and research papers
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply knowledge of academic language features and text structure, and
+ensure cohesion and coherence as connected to various text types
+CO-2: Demonstrate the use of writing process strategies through outlining, reviewing,
+composing, and revising
+CO-3: Evaluate sources and use summary, analysis, synthesis, and integration to
+construct a literature review on a topic chosen by the student
+CO-4: Prepare an outline for Research Articles and Thesis
+CO-5: Apply standard documentation style to produce academic and research
+papers that meet the demands of specific genres, purposes, and audiences
+UNIT-I:
+1. Features of Academic Writing: Word Order, Breaking up long Sentences,
+Structuring Paragraphs and sentences, Being concise and removing redundancy,
+Avoiding Ambiguity and Vagueness, Hedging
+2. Planning & Preparation of Research paper, Factors Influencing Effective Writing:
+Mechanics of Writing, Purpose of Writing, Understanding the Target Reader,
+Organization- Cohesion, and Coherence
+UNIT-II:
+1. Academic Writing Forms:
+a) Analyzing arguments; Building an argument
+b) Making a Counter Argument- Managing tone and tenor
+1. Types of Research: Primary and Secondary Research
+2. Review of Literature
+3. Research Design: Statement of the Problem, Writing A Title, Writing an Abstract,
+Keywords & Introduction, Writing Hypotheses, Developing Objectives, Research
+Tools, Writing Reports and Writing Proposal.
+UNIT-III:
+1. Criteria of Good Research- Avoiding Plagiarism
+2. Data Interpretation, Writing to the Point
+3. Preparing an outline for Research Articles & Research Reports
+UNIT-IV:
+1. Reference Skills:
+a) Paraphrasing (Change of parts of speech, word order, synonyms, using the passive
+form)
+b) Summarizing (Steps in summarizing)
+2. Inserting references
+UNIT-V:
+1. Assessment of Technical Reports
+2. Writing Research Article Reviews: Writing Article & Book Review
+TEXT BOOKS:
+1. A Course in Academic Writing, Gupta R., Orient BlackSwan, 2010
+2. Academic Writing: Exploring Processes and Strategies, Leki I., CUP, 1998
+3. Writing Up Research: Experimental Research Report Writing for Students of English,
+Weissberg R., & Buker S. Englewood Cliffs, Prentice Hall, 1990
+REFERENCES:
+1. English Academic Writing for Students and Researchers, Yakhontova T., 2003
+2. Inside Track: Successful Academic Writing Gillett, A., Hammond A., Martala M.
+Essex: Pearson Education 2009
+3. English for Academic Research: Writing Exercises, Wallwork, Springer, 2013
+4. The MLA Handbook for Writers of Research Papers, 7th Edition, Modern Language
+Association
+5. Academic Writing for Graduate Students: A Course for Non-Native Speakers of
+English, Swales J. M. & Feak C. B. AnnArbor: University of Michigan Press, 1994
+ONLINE RESOURCES:
+1. Using Sources Video Lecture
+2. https://www.coursera.org/lecture/advanced-writing/using-sources-video-lecture-
+i719P
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25MN6HS01) RESEARCH METHODOLOGY AND IPR
+TEACHINGSCHEME EVALUATION SCHEME
+L T/P C SE-I SE-II SEE TOTAL
+2 0 0 50 50 - 100
+COURSE OBJECTIVES:
+• To understand the research problem
+• To know the literature studies, plagiarism and ethics
+• To get the knowledge about technical writing
+• To analyze the nature of intellectual property rights and new developments
+• To know the patent rights
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand research problem formulation
+CO-2: Analyze research related information & Follow research ethics
+CO-3: Understand that today’s world is controlled by Computer, Information
+Technology, but tomorrow world will be ruled by ideas, concept, and creativity
+CO-4: Understanding that when IPR would take such important place in growth of
+individuals & nation, it is needless to emphasis the need of information about
+Intellectual Property Right to be promoted among students in general & engineering
+in particular
+CO-5: Understand that IPR protection provides an incentive to inventors for further
+research work and investment in R & D, which leads to creation of new and better
+products, and in turn brings about, economic growth and social benefits
+UNIT-I:
+Meaning of research problem, Sources of research problem, Criteria Characteristics
+of a good research problem, Errors in selecting a research problem, Scope and
+objectives of research problem.
+Approaches of investigation of solutions for research problem, data collection,
+analysis, interpretation, Necessary instrumentations
+UNIT-II:
+Effective literature studies approaches, analysis, Plagiarism, Research ethics
+UNIT-III:
+Effective technical writing, how to write report, Paper Developing a Research
+Proposal, Format of research proposal, a presentation and assessment by a review
+committee
+UNIT-IV:
+Nature of Intellectual Property: Patents, Designs, Trade and Copyright. Process of
+Patenting and Development: technological research, innovation, patenting,
+development. International Scenario: International cooperation on Intellectual
+Property. Procedure for grants of patents, Patenting under PCT.
+UNIT-V:
+Patent Rights: Scope of Patent Rights. Licensing and transfer of technology. Patent
+information and databases. Geographical Indications. New Developments in IPR:
+Administration of Patent System.
+New developments in IPR; IPR of Biological Systems, Computer Software etc.
+Traditional knowledge Case Studies, IPR and IITs
+TEXT BOOKS:
+1. Research Methodology: An Introduction for Science & Engineering Students, Stuart
+Melville and Wayne Goddard
+2. Research Methodology: An Introduction, Wayne Goddard and Stuart Melville
+3. Research Methodology: A Step-by-Step Guide for Beginners, Ranjit Kumar, 2nd
+Edition
+REFERENCES:
+1. Resisting Intellectual Property, Halbert, Taylor & Francis, 2007
+2. Industrial Design, Mayall, McGraw-Hill, 1992
+3. Product Design, Niebel, McGraw-Hill, 1974
+4. Intellectual Property in New Technological Age, Robert P. Merges, Peter S. Menell,
+Mark A. Lemley, 2016
+5. Intellectual Property Rights Under WTO, T. Ramappa, S. Chand, 2008

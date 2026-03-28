@@ -1,0 +1,1645 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/mtechsyl/r15mauto.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+ACADEMIC REGULATIONS
+COURSE STRUCTURE
+AND
+DETAILED SYLLABUS
+M. T ech.
+AUTOMATION
+(Applicable for the batches admitted from 2015-2016)
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute, Accredited by NAAC with ‗A‘ Grade
+NBA Accreditation for CE, EEE, ME, ECE, CSE, EIE, IT B.Tech. Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH
+Recognized as ―College with Potential for Excellence‖ by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+1
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+HYDERABAD
+An Autonomous Institute
+Academic Regulations - M.Tech. Programme
+(Applicable for the batches admitted from the academic year 2015-2016)
+1. Introduction
+Academic programmes of the institute are governed by rules and regulations as approved
+by the Academic Council of the institute.
+These academic rules and regulations are effective from the academic year 2015-16, for
+the students admitted into two year post graduate programme offered by the college
+leading to Master of Technology (M. Tech.) degree in different specializations offered by
+the departments of Civil Engineering, Electrical and Electronics Engineering, Mechanical
+Engineering, Electronics and Communication Engineering, Computer Science and
+Engineering, Information Technology and Electronics and Instrumentation Engineering.
+The M.Tech. degree of Jawaharlal Nehru Technological University Hyderabad shall be
+conferred on students who are admitted to the programme after fulfilling all the
+requirements for the award of the degree.
+1.1 Eligibility for Admissions
+Admission to the above program shall be made subject to the eligibility and qualifications
+prescribed from time to time. Admissions shall be made on the basis of GATE Rank and
+merit rank obtained at an Entrance Test conducted by the TSSCHE or as decided by
+TSSCHE subject to reservations prescribed by the university/ State Government from time
+to time.
+2. Programmes of study
+The following two year M.Tech. degree programmes of study are offered by the
+departments at VNR VJIET.
+Department Specializations
+1. Advanced Manufacturing Systems
+ME 2. Automation
+3. CAD/CAM
+1. Highway Engineering
+CE 2. Structural Engineering
+3 Geotechnical Engineering
+1. Power Electronics
+EEE
+2. Power Systems
+1. Software Engineering
+CSE
+2. Computer Science and Engineering
+1. VLSI System Design
+ECE
+2. Embedded Systems
+EIE Electronics and Instrumentation
+IT Computer Networks and Information Security
+2
+ ‘ENGLISH’ language is used as the medium of instruction in all the above
+programmes.
+3. Attendance requirements
+Each academic year shall be divided into two semesters, each of 90 Instructions days,
+excluding examination, evaluation, declaration of results etc.
+3.1 A student shall be eligible to appear for the semester end examinations in subject if he /
+she acquire a minimum of 75% of attendance in that subject.
+3.2 Shortage of attendance up to 10% in any subject (i.e., attendance of 65% and above
+and below 75%) in a semester may be condoned by the Institute Academic
+Committee based on the rules prescribed by the Academic Council of the Institute
+from time to time.
+3.3 A student shall get minimum required attendance in at least three (03) theory subjects
+in the present semester to get promoted to the next semester. In order to qualify for the
+award of the M.Tech. degree, the student shall complete all the academic requirements of
+the subjects, as per the course structure.
+3.4 Shortage of attendance below 65% shall in NO case be condoned.
+3.5 A stipulated fee shall be payable towards condonation of shortage of attendance.
+3.6 In case the student secures less than the required attendance in any subject(s), he shall
+not be permitted to appear for the semester end examination in that subject(s). He shall re-
+register for the subject when offered next.
+4. Evaluation
+i. The performance of a student in each semester shall be evaluated subject–wise with a
+maximum of 100 marks for theory and 100 marks for practical subjects. In addition,
+mini-project and comprehensive viva-voce shall be evaluated for 100 marks
+respectively.
+ii. For theory subjects, the distribution shall be 40 marks for mid-term evaluation and 60
+marks for the semester end examination.
+ Mid-Term Evaluation (40 M):
+Mid-term evaluation consists of mid-term examination (30 M) and assignment/objective
+test/ case study/course project (10 M).
+ Mid-term examination (30 M):
+ For theory subjects, two mid-term examinations shall be conducted in each semester
+as per the academic calendar. Each mid-term examination shall be evaluated for 30
+marks.
+ Pattern of Mid-term examination:
+3 X 10M = 30 M (three internal choice questions one from each UNIT shall be given,
+the student has to answer ONE question from each UNIT)
+ There shall be TWO mid-term examinations for each subject and the average of two
+mid-term examinations shall be considered for calculating final mid-term examination
+marks in that subject.
+3
+ Assignment/objective exam/ case study/course project (10 M):
+ Two assignment/objective exam/ case study/course project shall be given to the
+students covering the syllabus of first mid-term and second mid-term examinations
+respectively and evaluated for 10 marks each.
+ The first assignment/objective exam/ case study/course project shall be submitted
+before first mid-term examination and the second one shall be submitted before
+second mid-term examination.
+ The average of 2 assignments shall be taken as final assignment marks.
+iii. For practical subjects, there shall be a continuous evaluation during the semester for
+40 marks and 60 marks for semester end examination. Out of the 40 marks, day-to-
+day work in the laboratory shall be evaluated for 10 marks, and 15 marks for
+practical examination and 15 marks for laboratory record.
+ Semester End Examination (60 M):
+(a) Theory Courses
+Question paper pattern for semester end examination (60 Marks)
+ Paper shall consist of 05 questions of 10 marks each. (05X12M = 60 M)
+ There shall be 01 question from each unit with internal choice.
+(b) Practical Courses
+Each laboratory course shall be evaluated for 60 marks. The semester end examination
+shall be conducted by two examiners, one Internal and other external concerned with the
+subject of the same / other department / Industry. The evaluation shall be as per the
+standard format.
+4.1. Evaluation of Mini-Project: There shall be two presentations during the first year, one in
+each semester. For mini-project 1 and mini-project 2, a student under the supervision of a
+faculty member, shall collect the literature on a topic, critically review the literature, carry
+out the mini-project, submit it to the department in a report form and shall make an oral
+presentation before the departmental Project Review Committee (PRC). The Departmental
+PRC consists of Head of the Department, supervisor and one senior faculty member of the
+department. For each mini-project there shall be only internal evaluation of 100 marks. A
+student has to secure a minimum of 50% to be declared successful.
+4.2. There shall be a comprehensive viva-voce in II year I semester. The comprehensive viva-
+Voce shall be conducted by a committee consisting of Head of the Department and two
+senior faculty members of the department. The comprehensive viva-voce is aimed to
+assess the students‘ understanding in various subjects studied during the M.Tech.
+programme of study. The comprehensive viva-voce shall be evaluated for 100 marks by
+the committee. There are no internal marks for the comprehensive viva-voce. A student
+must secure a minimum of 50% to be declared successful.
+4.3. A student shall be deemed to have secured the minimum academic requirement in a
+subject if he secures a minimum of 40% of marks in the semester end examination and a
+minimum aggregate of 50% of the total marks in the semester end examination and mid-
+term evaluation taken together.
+4
+4.4. A student shall be given one chance to re-register, after completion of the course work, for
+each subject, provided the internal marks secured by a student are less than 50% and he
+has failed in the semester end examination. In such a case student may re-register for the
+subject(s) and secure required minimum attendance. Attendance in the re-registered
+subject(s) has to be calculated separately to become eligible to write the end examination
+in the re-registered subject(s). Re-registration for the subjects is allowed only if those
+particular re-registration subjects are the hindrance for the award of Degree. Re-
+registration is allowed in this case provided the student doesn‘t have any subject(s) yet to
+pass other than the re-registration subjects where the internal marks are less than 50%
+with prior permission.
+4.5. Laboratory examination for M.Tech. courses must be conducted with two examiners, one
+of them being laboratory class teacher and second examiner shall be a teacher of same
+specialization either external or a teacher from the same department other than the teacher
+who conducted laboratory classes for that batch.
+5. Evaluation of Project / Dissertation Work.
+5.1 Registration of Project Work: A student shall be permitted to register for the project work
+after satisfying the attendance requirement of all the subjects (theory and practical
+subjects).
+5.2 A Project Review Committee (PRC) shall be constituted with at least four members namely
+HOD, PG coordinator of the M.Tech. programme, project supervisor and one senior faculty
+member of same specialization.
+5.3 After getting permission as per 5.1, a student has to submit, in consultation with the project
+supervisor, the title, objective and plan of action of his project work to the Departmental
+PRC for its approval. Only after obtaining the approval of PRC, the student can initiate the
+project work.
+5.4 If a student wishes to change his supervisor or topic of the project he can do so with the
+approval of PRC. However, the committee shall examine whether the change of
+topic/supervisor leads to a major change of his initial plans of project proposal. If so, the
+date of registration for the project work shall be the date of change of supervisor or topic
+as the case may be.
+5.5 Internal evaluation of the project shall be on the basis of the seminars (Project reviews)
+conducted during the second year by the PRC. A student shall submit draft report in a
+spiral bound copy form.
+5.6 The work on the project shall be initiated in the beginning of the second year and the
+duration of project is for two semesters. A student is permitted to submit Project work only
+after successful completion of theory and practical course with the approval of PRC not
+earlier than 240 days from the date of registration of the project work. For the approval of
+PRC the student shall submit the draft copy of thesis to the Head of the Department
+(Through project supervisor and PG coordinator) and shall make an oral presentation
+before the PRC.
+The student is eligible to submit project work if he has published at least one paper
+covering 70% of the project work and presented his project work in Show and Tell activity.
+5.7 After approval of PRC, every student has to submit three copies of the project dissertation
+certified by the supervisor to the Department.
+5
+5.8 The dissertation shall be adjudicated by one examiner selected by the Chief
+Superintendent. For this, HOD shall submit a panel of 3/ 5 examiners, who are eminent in
+that field with the help of the concerned guide.
+5.9 If the report of the examiner is not favourable, the student shall revise and resubmit the
+Dissertation, within the time frame as prescribed by PRC. If the report of the examiner is
+unfavourable again, the dissertation shall be summarily rejected.
+5.10 If the report of the examiner is favorable, viva-voce examination shall be conducted by a
+board consisting of the project supervisor, Head of the Department and the external
+examiner who adjudicated the Thesis. The Board shall jointly report students work as:
+A. Excellent
+B. Good
+C. Satisfactory
+D. Unsatisfactory
+Head of the Department shall coordinate and make arrangements for the conduct of viva-
+voce examination. The student has to secure any one of the grades as Excellent, Good or
+Satisfactory on his dissertation and viva-voce. If the report of the viva-voce is
+unsatisfactory, the student shall retake the viva-voce examination after three months,
+making modifications as suggested. If he fails to get a satisfactory report at the second
+viva-voce examination, he has to re-register for the project work as mentioned in clause
+5.1. However, the student may select a new guide or new topic or both with the approval of
+the PRC and submit the project dissertation with a minimum of 240 days from the date of
+re-registration. Of course, this shall not prejudice the clause 6.1 below.
+6. Award of Degree and Class
+A student shall be declared eligible for the award of the M.Tech. degree, if he pursues a
+course of study and complete it successfully for not less than two academic years and
+not more than four academic years.
+6.1 A student, who fails to fulfil all the academic requirements for the award of the degree
+within four academic years from the year of his admission, for any reason whatsoever,
+shall forfeit his seat in M.Tech. Course.
+6.2 A student shall register and put up minimum academic requirement in all 84 credits and
+earn 84 credits. Marks obtained in all 86 credits shall be considered for the calculation of
+Cumulative Grade Point Average (CGPA).
+6.3 CGPA System:
+Method of awarding absolute grades and grade points in two year M.Tech. degree
+programme is as follows:
+ Absolute Grading Method is followed, based on the total marks obtained in mid-term
+evaluation and semester end examinations.
+6
+ Grades and Grade points are assigned as given below.
+Grade Points(GP)
+Marks Obtained Grade Description of Grade
+Value Per Credit
+>=90 O Outstanding 10.00
+>=80 and <89.99 A Excellent 9.00
+>=70 and <79.99 B Very Good 8.00
+>=60 and <69.99 C Good 7.00
+>=50 and <59.99 D Pass 6.00
+<50 F Fail
+Not Appeared the Exam(s) N Absent
+The student is eligible for the award of the M.Tech degree with the class as mentioned in the
+following table.
+CGPA Class
+>= 8.0 First Class with Distinction
+>= 7.0 and <8.0 First Class
+>= 6.0 and < 7.0 Second Class
+ Calculation of Semester Grade Points Average (SGPA):
+ The performance of each student at the end of the each semester shall be indicated in
+terms of SGPA. The SGPA shall be calculated as below:
+Where Ci = Number of credits allotted to a particular subject ‗i‘
+Gi = Grade point corresponding to the letter grade awarded to the subject ‗i‘
+i = 1,2,…..p represent the number of subjects in a particular semester
+Note: SGPA is calculated and awarded for the students who pass all the courses in a
+semester.
+ Calculation of Cumulative Grade Point Average (CGPA):
+The CGPA of a student for the entire programme shall be calculated as given below:
+ Assessment of the overall performance of a student shall be obtained by calculating
+Cumulative Grade Point Average (CGPA), which is weighted average of the grade points
+obtained in all subjects during the course of study.
+7
+Where Cj = Number of credits allotted to a particular subject ‗j‘
+Gj = Grade Point corresponding to the letter grade awarded to that subject ‗j‘
+j = 1,2,….m represent the number of subjects of the entire program.
+ Grade lower than D in any subject shall not be considered for CGPA calculation. The
+CGPA shall be awarded only when the student acquires the required number of credits
+prescribed for the program.
+ Grade Card
+The grade card issued shall contain the following:
+a) The credits for each subject offered in that semester
+b) The letter grade and grade point awarded in each subject
+c) The SGPA/CGPA
+d) Total number of credits earned by the student up to the end of that semester.
+7. Withholding of Results
+If the student has not paid dues to the Institute, or if any case of indiscipline is pending
+against him, the result of the student may be withheld and he shall not be allowed into the
+next higher semester. The award or issue of the provisional certificate and the degree may
+also be withheld in such cases. This delay shall not prejudice clauses Nos.6.0 and 6.1.
+8. Transitory Regulations
+Students who have discontinued or have been detained for want of attendance or any other
+academic requirements, may be considered for readmission as and when they become
+eligible. They have to take up Equivalent subjects, as substitute subjects in place of
+repeated subjects as decided by the Chairman of the BoS of the respective departments.
+He/She shall be admitted under the regulation of the batch in which he/she is readmitted.
+9. Minimum Instruction Days
+The minimum instruction days for each semester shall be 90 instruction days.
+10. General
+10.1 The academic regulations should be read as a whole for purpose of any interpretation.
+10.2 In case of any doubt or ambiguity in the interpretation of the above rules, the decision of
+the Principal is final.
+10.3 The Institute may change or amend the academic regulations and syllabi at any time and
+the changes and amendments made shall be applicable to all the students with effect from
+the date notified by the Institute.
+10.4 Wherever the words he, him or his occur, they shall also include she, her and hers.
+11. Supplementary Examination
+Supplementary examinations shall be conducted along with regular semester end
+examinations. (During even semester regular examinations, supplementary examinations
+of odd Semester and during odd semester regular examinations, supplementary
+examinations of even semester shall be conducted).
+8
+Vision
+ To develop into a Centre of Excellence in Education and Research in
+the field of Mechanical Engineering, consistent with the contemporary
+and future needs of the country
+Mission
+ To impart high quality education by using modern pedagogical tools
+so as to make the students technically competent in their chosen
+fields and socially responsible
+ To inculcate quality research by developing linkages with Industry
+and R & D organizations in India & abroad
+9
+M.TECH. PROGRAMME OBJECTIVES:
+ To prepare students for successful careers in their domain that meets the need of Indian and
+global/multinational organizations.
+ To provide a strong foundation in the chosen specialization that enables students to visualize,
+analyze and solve domain specific mechanical engineering problems.
+ To inculcate in students a zeal and attitude for comprehending state of the art advancements
+and undertake further work in the chosen specialization.
+ To prepare students for undertaking research in the chosen specialization and to function
+effectively in teams/groups.
+ To provide students with an academic environment that fosters excellence leadership, ethical
+codes and guidelines and develops for life-long learning for a successful professional career.
+M.TECH. PROGRAMME OUTCOMES:
+ Engineering Knowledge: Graduates will demonstrate in-depth knowledge of automation
+technologies and systems, mathematics, sciences, essential computational
+techniques/procedures that help in problem solving. Graduates will be able to assimilate the
+emerging developments in the field and enhance their understanding.
+ Problem Analysis: Graduates will be able to demonstrate ability to identify, critically analyze,
+conceptualize, formulate and solve automation and manufacturing technology related problems
+in the specific area with due consideration for safety, environmental, cultural and societal
+concerns.
+ Design and Development of Solutions: Graduates will demonstrate ability to design a
+component, a process or a system in manufacturing or inter/multi-disciplinary region involving
+automation by following research methodology while arriving at a solution working in
+engineering and science laboratories as teams, involving review of literature, prepare a model,
+conduct experiments, analyze and interpret data.
+ Modern Tool Usage: Graduates will demonstrate skills to use modern engineering tools,
+equipments, processes, state-of-the-art software tools for modeling and analysis while solving
+problems and drawing inferences in the specialized areas with due regard to their limitations
+and applicability.
+ Individual and Team Work: Graduates will demonstrate ability to work as an individual as well
+as a team member/lead and play his role appropriately in the group with a proper
+understanding of group dynamics, contribute positively to collaborative multidisciplinary
+scientific research with positive attitude, open mindedness and objectivity for furtherance of
+individuals and groups‘ learning.
+ Ethics: Graduates will demonstrate knowledge, understanding and application of Professional
+and Ethical responsibilities, intellectual integrity and human values in all the dealings.
+ Communication: Graduates will demonstrate ability to communicate in both verbal and written
+form and present complex engineering activities confidently and effectively.
+ Project Management and Finance: Graduates will demonstrate ability to administer and
+regulate projects with emphasis on time management, financial management and personnel
+management to both individuals own work and the teams collective work.
+ The Engineer and Society: Graduates will demonstrate a broad understanding of impact of
+engineering solutions on economy, environment and society while arriving at solutions so as to
+avoid ill-effects and are sustainable.
+ Life Long Learning: Graduates will demonstrate recognition of the need and engage in life-
+long learning, keep abreast with regard to nuances in the chosen field to improve knowledge,
+proficiency and competence on a continuous basis.
+ Self and Reflective Learning: Graduates will demonstrate ability to learn, observe, reflect and
+evaluate ones‘ own activities for identifying, critically examining and rectifying the mistakes
+without outside help and thus self-learn.
+10
+M.TECH. (AUTOMATION):
+Degree: M.Tech. Specialization: Automation
+2 Years 2 semesters – Course work
+Duration: Details:
+(4 semesters) 2 semesters – Project
+Mode: Full-time Year of starting: 2011
+Intake: 18 Regulations: R15
+ Overview of the programme:
+Automation is a technique, method or system concerned with the use of automatic machines,
+electronic devices etc. to operate or control a process so that the human intervention is
+reduced to a minimum. Automation profession includes ―everyone involved in the creation and
+application of technology to monitor and control the production and delivery of products and
+services. This two year (four semesters) programme is designed to address the challenges in
+automation of manufacturing systems. Automation crosses all functions within industry from
+installation, integration, and maintenance to design, procurement, and management.
+Automation even reaches into the marketing and sales functions of these industries. The
+programme has been running for the last 02 years and is regularly updated in line with the
+subject developments and industrial practices. It involves a very broad range of
+technologies including robotics and expert systems, telemetry and communications, electro-
+optics, process measurement and control, sensors, wireless applications, systems integration,
+test measurement etc.
+ Objectives:
+ To provide a comprehensive foundation of the basics of automation in manufacturing
+systems.
+ To understanding of specific advanced and emerging manufacturing technologies.
+ To encourage work on real industrial problems, giving confidence in the ideas underlying
+manufacturing and the practicalities of implementing these ideas.
+ Outcomes:
+To enable the students
+ to design and implement advanced control systems, intelligent instrumentation, and
+automation solutions for industrial systems
+ to perform testing, analysis and evaluation of the automated systems.
+ Opportunities:
+The spectrum of Automation programme is broad, ranging from Product development, Aircraft
+modeling, Instrumentation, Active damping controls, Network management, Thermo-Structural
+Testing on Aerospace Vehicle, Satellite altitude control, Safety for Automatic Transmission
+Vehicles, Machine learning and data mining, Remote monitoring of solar plants. Students will
+have ample opportunities to work in these areas in designing, research and development and
+product manufacture.
+11
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY, HYDERABAD
+M. Tech. (AUTOMATION)
+(R15 Regulation)
+I YEAR I SEMESTER COURSE STRUCTURE
+Code Group Subject Name L P Credit
+AMS01 Automation in Manufacturing 3 1 4
+AUT01 Core Modern Control Engineering 3 1 4
+AMS03 Precision Engineering 3 1 4
+Concurrent Engineering & Product Life Cycle
+AUT11 3 0
+Management
+Elective – I
+AUT12 Micro-Electro Mechanical Systems 3 0
+&
+AMS13 Design for Manufacturing & Assembly 3 0 3+3
+Elective – II
+AUT13 Experimental Techniques & Data Analysis 3 0
+Basket
+AMS12 Materials Technology 3 0
+AMS15 Mechatronics 3 0
+Industrial Automation
+AUT31 Open Elective
+Design and Manufacturing of MEMS and Micro
+AUT32 – I 3 0 3
+Systems
+AMS32
+Quality and Reliability Engineering
+Manufacturing Simulation & Precision
+AMS51 Lab 0 3 2
+Engineering lab
+AUT61 Mini Project - I 0 0 4
+Total 18 3 27
+12
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY, HYDERABAD
+M. Tech. (AUTOMATION)
+(R15 Regulation)
+I YEAR II SEMESTER COURSE STRUCTURE
+Code Group Subject Name L P Credit
+AUT02 Fluid Power Systems 3 1 4
+AUT03 Core Intelligent Instrumentation & Manufacturing 3 1 4
+AUT04 Industrial Robot Technology 3 1 4
+AUT21 Microprocessor & Applications 3 0
+AUT22 Elective – III Neural Network & Fuzzy Systems 3 0
+AMS21 & Quality Engineering in Manufacturing 3 0
+3+3
+AUT23 Elective – IV Stress Analysis and Vibrations 3 0
+AUT24 Basket Smart Materials & Structures 3 0
+AUT25 Optimization Techniques and Applications 3 0
+AMS41 Open Elective Industrial Safety Management
+AUT41 – II Plastics & Composites 3 0 3
+AUT42 Artificial Intelligence & Expert Systems
+AUT52 Lab Automation & Robotics Lab 0 3 2
+AUT62 Mini Project - II 0 0 4
+Total 18 3 27
+13
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY HYDERABAD
+M.Tech. (AUTOMATION)
+(R15 Regulation)
+II YEAR I SEMESTER COURSE STRUCTURE
+Subject Code Group Subject Name L P Credit
+AUT63 Comprehensive Viva Voce 0 0 4
+AUT71 Internship / Dissertation Phase – I 0 0 8
+Total 0 0 12
+II YEAR II SEMESTER COURSE STRUCTURE
+Subject Code Group Subject Name L P Credit
+AUT72 Dissertation Phase – II 0 0 18
+Total 0 0 18
+14
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY, HYDERABAD
+I Year – I Sem. M. Tech. (AMS, Automation & CAD/CAM) L P C
+3 1 4
+(AMS01) AUTOMATION IN MANUFACTURING
+Course Prerequisites: Industrial engineering and Manufacturing technology concepts.
+Course Objectives:
+ Understand the basic principles of automation and tool transfer, implementation of automated
+flow line.
+ Understand design aspects and analysis of material handling system.
+ Understand ways of improving line balance and solving line balancing problems.
+Course Outcomes:
+Students will be able to:
+ Implement concepts of a productive system in automation.
+ Apply the concepts of automated flow lines and design technologies.
+ Apply it in material handling systems for balancing assembly lines.
+UNIT I:
+Fundamentals of Manufacturing Automation: Basic Principles of automation, Types of automated systems, Degrees of
+automation, Automation - reasons, Production operations and automation strategies, Plant Layout, Production concepts and
+mathematical models, Design the parts for automation, Automatic loading Systems.
+UNIT II:
+High Volume Production Systems: Automated flow lines, Methods of work flow, Transport transfer mechanisms, buffer
+storage, Control functions, Automation for machining operations, Design and fabrication considerations.
+UNIT III:
+Analysis of Automated Flow Lines: Analysis of transfer lines without storage, Partial automation, Automated flow lines with
+storage buffers, Implementation of automatic flow lines, Line balancing problems, Considerations in assemble line design.
+UNIT IV:
+Assembly Systems and Line Balance; Manual assembly lines, Line balancing problem, Methods of line balancing, Ways to
+improve line balancing, Flexible manual assembly lines, Automated assembly systems, Analysis of multi station assembly.
+Manufacturing Cells, Automated Cells, Analysis of Single Station Cells
+UNIT V:
+Automated Material Handling: Types of equipment and functions, Design and analysis of material handling system,
+Conveyor system, Automated guided vehicle system, Components operation, Types, Design of automated guided vehicles
+and applications, Automated storage and Retrieval systems - Types, Basic components and Applications, Design for
+Automated Assembly, Communication Systems in Manufacturing
+Text Books & References:
+1. Mikell P. Groover, ―Automation, Production Systems and CIM‖, PHI Pvt., Ltd., 1998
+2. P. Radha Krishnan & S. Subrahamanyarn and Raju, ―CAD/CAM/CIM‖, New Age International Publishers, 2003.
+3. Singh, ―System Approach to Computer Integrated Design and Manufacturing‖, John Wiley 1996.
+15
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY, HYDERABAD
+I Year – I Sem. M.Tech. (Automation) L P C
+3 1 4
+(AUT01) MODERN CONTROL ENGINEERING
+Course Prerequisites: Electrical and Mechanical Engineering, Physics.
+Course Objectives:
+ Understand mathematical modeling of control systems.
+ Understand frequency time response of first and higher order systems.
+ Understand concepts of stability of linear and non linear systems.
+Course Outcomes:
+Students will be able to:
+ Apply fundamental knowledge of mathematics for mathematical modeling of control systems
+using differential equations and transfer function.
+ Identify areas requiring frequency time response control systems in designing them.
+ Stabilize linear and non-linear systems & stabilize the control systems.
+UNIT I:
+Introduction to open loop and closed loop system
+Mathematical modeling of mechanical systems, Transient response of first and second order systems, Root locus and Bode
+plots ( only construction) compensators introduction.
+UNIT II:
+State variables, Transition Matrix, Transformation of variables, Diagonalization of matrix, Canonical form.
+UNIT III:
+State Variable feed back systems, Closed loop pole zero assignment, Observability and controllability.
+UNIT IV:
+Introduction to non linear systems, Phase plane method.
+UNIT V:
+Stability analysis, Routh – Hurwitz Criterion, Nyquist method, Lyapunov method of stability analysis.
+Text Books & References:
+1. Gopal M, Control Systems Principles and Design, Tata McGraw Hill Company, 1998.
+2. Francis Raven H., Automatic Control Engineering, 5th Edition, Tata Mc Graw Hill Company, 1995.
+3. Franklin G.F. and Powell J.D., Digital Control of Dynamic Systems, Addison – Wesley, 1980.
+16
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY, HYDERABAD
+I Year – I Sem. M.Tech. (AMS, Automation & CAD/CAM) L P C
+3 1 4
+(AMS03) PRECISION ENGINEERING
+Course Prerequisites: Accuracy and tolerances, geometric dimensioning, machine drawing and production
+engineering.
+Course Objectives:
+ Asses the machine tool accuracy and types of errors, datum features, tolerance zone
+conversion, process capability and surface finish.
+ understand the tolerance charting techniques.
+ Explain the fundamentals of nanotechnology and nanometer accuracy.
+ Understand measuring system processing – Mechanical and optical measuring systems.
+Course Outcomes:
+Students will be able to:
+ Apply fundamental knowledge of machine tool accuracy and geometric dimensioning for
+Components.
+ Apply the concept of process capability while choosing the machine.
+ Decide on measuring system for inspection components.
+ Apply nanotechnology and nanometer accuracy
+UNIT I:
+Concepts of Accuracy: Introduction - Concept of Accuracy of Machine Tools - Spindle and Displacement Accuracies - Accuracy of
+Numerical Control Systems - Errors due to Numerical Interpolation, Displacement Measurement System and Velocity tags
+Geometric Dimensioning and Tolerancing: Tolerance Zone Conversions - Surfaces, features, Features of Size, Datum
+Features - Datum Oddly Configured and Curved Surfaces as Datum Features, Equalizing Datums - Datum Feature of
+Representation - Form controls, Orientation Controls - Logical Approach Tolerancing.
+UNIT II:
+Datum Systems: Design of freedom, Grouped Datum System - different types, two and three mutually perpendicular grouped
+datum planes; Grouped datum system with spigot and recess, pin and hole; Grouped Datum system with spigot and recess pair
+and tongue - slot pair - Computation of Transnational and rotational accuracy, Geometric analysis and application.
+UNIT III:
+Tolerance Analysis: Process Capability, Mean, Variance, Skewness, kurtosis, Process Capability Metrics, Cp, Cpk, Cost
+aspects, Feature Tolerances, Geometric Tolerances. Surface finish, Review of relationship between attainable tolerance grades
+and different machining process, Cumulative effect of tolerances sure fit law, normal law and truncated normal law.
+UNIT IV:
+Tolerance Charting Techniques: Operation Sequence for typical shaft type of components, Preparation of Process drawings for
+different operations, Tolerance worksheets and centrally analysis, Examples, Design features to facilitate machining; Datum
+features - functional and manufacturing Components design - Machining Considerations, Redesign for manufactured,
+Examples.
+UNIT V:
+Fundamentals of Nanotechnology: Systems of nanometer accuracies, Mechanism of metal Processing, Nano physical
+processing of atomic bit units, Nanotechnology and Electrochemical atomic bit processing.
+Measuring Systems Processing: In processing or in-situ measurement of position of processing point, Post process and on-
+machine measurement of dimensional features and surface, Mechanical and optical measuring systems.
+Text Books:
+1. Precision Engineering in Manufacturing/Murthy R.L/New Age International (P) Limited, 1996
+2. Geometric Dimensioning and Tolerancing/ James D. Meadows / Marcel Dekker Inc. 1995
+References:
+1. Nano Technology / Norio Taniguchi / Oxford University Press, 1996.
+2. Engineering Design - A systematic Approach / Matousek / Blackie & Son Ltd., London.
+17
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY, HYDERABAD
+I Year – I Sem. M.Tech. (Automation) L P C
+Elective – I & II 3 0 3
+(AUT11) CONCURRENT ENGINEERING AND PRODUCT LIFECYCLE MANAGEMENT
+Course Prerequisites: Basic Mechanical Engineering, Industrial Engineering background.
+Course Objectives:
+ Understand the concepts of concurrent engineering with respect to its trends, methodologies
+and design aspects.
+ To study the role of computers in implementing concurrent engineering.
+ To study the concepts of product life cycle management in under relation to its need,
+components and role of human resource.
+Course Outcomes:
+Student would be able to:
+ Identify the trends, techniques of concurrent engineering.
+ Apply the use of IT in concurrent engineering.
+ Analyze and identify the various components of product life cycle.
+UNIT I:
+Introduction : Extensive definition of Concurrent Engineering (CE), CE design methodologies, Review of CE techniques like
+DFM (Design for manufacture), DFA (Design for assembly), QFD (Quality function deployment), RP (Rapid prototyping), TD
+(Total design), for integrating these technologies, organizing for CE, CE tool box, Collaborative product development.
+UNIT II:
+Use of Information Technology: IT supports, Solid modeling, Product data management, Collaborative product commerce,
+Artificial Intelligence, expert systems, Software hardware component design.
+UNIT III:
+Design Stage: Lifecycle design of products, Opportunities for manufacturing enterprises, Modality of concurrent engineering
+design, Automated analysis Idealization control, CE in optimal structural design, Real time constraints.
+UNIT IV:
+Need for PLM: Importance of PLM, Implementing of PLM, Responsibility for PLM, Benefits to different managers,
+Components of PLM, Emergence of PLM, Lifecycle problems to resolve, Opportunities to seize.
+UNIT V:
+Components of PLM: Components of PLM, Product lifecycle activities, Product organizational structure, Human resources in
+product lifecycle, Methods, techniques, Practices, Methodologies, Processes, System components in lifecycle, slicing and
+dicing the systems, Interfaces, Information, Standards.
+Text Books & References:
+1. Integrated Product Development M.M.Anderson and IFS Publications
+L Hein
+2. Design for Concurrent Engineering J. Cleetus CE Research Centre,
+Morgantown
+3. Concurrent Engineering Fundamentals: Integrated Product Prasad Prentice hall India
+Development
+4. Concurrent Engineering in Product Design and Development I. Moustapha New Age International
+5. Product Lifecycle Management John Stark Springer-Verlag, UK
+6. Product Lifecycle Management Michael Grieves McGraw Hill
+7. Concurrent Engineering: Automation tools and Technology Andrew Kusiak Wiley Eastern
+18
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY, HYDERABAD
+I Year – I Sem. M.Tech. (Automation) L P C
+Elective – I & II 3 0 3
+(AUT12) MICRO-ELECTRO MECHANICAL SYSTEMS
+Course Prerequisites: Mathematics, Physics, Robotics.
+Course Objectives:
+ Understand MEMS devices and their applications.
+ Understand the principle laws of physics and chemistry that apply in fabricating a MEMS
+device and various fabrication techniques.
+ Understand the electronic interface and software design tools for MEMS devices.
+Course Outcomes:
+Student would be able to:
+ Apply fundamental knowledge of mathematics, physics and chemistry to analyze practical
+micro-systems.
+ Experiment or simulate MEMS design using a software.
+ Design MEMS for a given application.
+UNIT I:
+Mechatronics in Products-Semi conductor Sensors and micro electro mechanical Devices – Actuators Hydraulics Actuators –
+pneumatic Actuators. Programmable Ligic Controllers (PLC) – basic structure – input/output processing-programming –
+Mnemonics Timers – relays and counters – data handling – selection of PLC. Control architecture – Analog – Digital –
+Examples of Mechatronic systems from Robotics. Manufacturing, Machine Diagnosis.
+UNIT II:
+Miniaturization and application – Micro electro mechanical devices and trends in developing them – Miniactuators,
+Microsensors, and Micromotors – Priniciples of Operations. Introduction, Absolute and Relative Tolerance in Manufacturing ,
+Human Manufacturing , Top-Down Manufacturing Methods, Bottom-Up Approaches.
+UNIT III:
+Dry Etching – Definitions – Plasmas or Discharges – Ion Etching or Sputtering and Ion – Beam Milling – Plasma etching
+(Radical Etching ) – Physical Etching.
+Wet Isotropic And Anisotropic Etching – Alignment Patterns – Chemical Etching Models - Etching with Bias And/Or
+Illumination Of The Semiconductor – Etch – Stop Techniques – Problems.
+UNIT IV:
+Physical and Chemical Vapor Deposition – Silk – Screening – Printing – Sol-Gel Deposition Technique, Doctors‘ Blade or
+Tape Casting, Plasma Spraying – Deposition and Arraying Methods of Organic Layers in BIOMEMS – Thin versus Thick Film
+Deposition – Selection Criteria for Deposition Method.
+UNIT V:
+Surface Micromachining Processes, Poly-Si and Non-Poly-Si Surface Micromachining Modifications, Surface Micromachining
+Modifications – LIGA – Background , LIGA and LIGA – Like Process Steps.
+Introduction and exposure to Nanotechnology – Application –Basics of nanofabrication, nano machining, nano assembly.
+Text Books & References:
+1. David G.Alciatore and - Introduction of Mechatronics and Measurement Systems, McGraw Hill International
+Micheal.B.Histand Edition, 1999.
+2. HMT - Mechatronics, Tata McGraw Hill Publishing Company Ltd.,
+1998.
+3. Lawrence J.Kamm - Understanding Electro – Mechanical Engineering, An Introduction to Mechatronics,
+Prentice Hall, 2000
+4. Marc Madou - Fundamentals of Micro fabrication, CRC Press, 1997.
+5. W.Trimmer (ED.) - Micromechanics and MEMS, IEEE Press, 1997.
+6. M.Elwenspoek - Silicon Micromachining, Cambridge Press, 1998.
+7. R.C.Jaeger - Introduction to Microelectronic Fabrication, Wiley, 1989.
+8. Bharat Bhushan(Ed.) - Handbook of Nanotechnology, Springer, 2004.
+19
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY, HYDERABAD
+I Year – I Sem. M.Tech. (AMS, Automation & CAD/CAM) L P C
+Elective – I & II 3 0 3
+(AMS13) DESIGN FOR MANUFACTURING AND ASSEMBLY
+Course Prerequisites: Production technology, Machine Tools, Material Technology
+Course Objectives:
+ Impart the knowledge on steps involved in design process and material selection
+ Understand about the design rules involved in machining and casting
+ Understand about the design rules involved in metal joining, forging, extrusion and sheet
+metal work
+ Understand about the design principles involved in manual and automatic assembly transfer
+systems
+Course Outcomes:
+Student will be able to:
+ Apply the knowledge on steps involved in design process and material selection
+ Apply the knowledge on design rules involved in machining and casting
+ Analyze the design rules involved in metal joining, forging, extrusion and sheet metal work
+ Design and analyze the principles involved in manual and automatic assembly transfer
+systems
+UNIT I:
+Introduction: Design philosophy, Steps in Design process, General Design rules for manufacturability, Basic principles of
+designing for economical production, Creativity in design.
+Materials: Selection of Materials for design, Developments in Material technology, Criteria for material selection, Material
+selection, Interrelationship with process selection, Process Selection charts.
+UNIT II:
+Machining Process: Overview of various machining processes, Design rules for machining, Redesigning of components for
+machining ease with suitable examples
+Metal Casting: Appraisal of various casting processes, General design considerations for casting, Overview of solidification
+simulation in casting design, Product design rules for sand casting, Casting Defects.
+UNIT III:
+Metal Joining: Appraisal of various welding processes, Factors in design of weldments, General design guidelines, Pre and
+post treatment of welds, Effects of thermal stresses in weld joints, Welding Defects, Design of brazed joints.
+Forging: Design factors for Forging, Closed die forging design, Parting lines of die drop forging die design
+Extrusion & Sheet Metal Work: Design guidelines for extruded sections, Design principles for Punching, Blanking, Bending,
+Deep Drawing, Keeler Goodman Forming Line Diagram, Die Design for Blanking.
+UNIT IV:
+Assembly Advantages: Development of the assembly process, Choice of assembly method, Assembly advantages, Social
+effects of automation.
+Automatic Assembly Transfer Systems: Continuous transfer, Intermittent transfer, Indexing mechanisms and operator
+paced free transfer machine.
+UNIT V:
+Design of Manual Assembly: Design for assembly fits in the design process, General design guidelines for manual
+assembly, Development of the systematic DFA methodology, Assembly efficiency, Classification system for manual handling,
+Classification system for manual insertion and fastening, Effect of part symmetry on handling time, Effect of part thickness
+and size on handling time, Effect of weight on handling time, Parts requiring two hands for manipulation, Effects of
+combinations of factors, Effect of symmetry, Effect of chamfer design on insertion operations, Estimation of insertion time.
+Text Books:
+1. Geoffrey Boothroyd, ―Assembly Automation and Product Design", Marcel Dekker Inc., NY, 1992.
+2. Engineering Design – Material & Processing Approach – George E. Dieter, McGraw Hill Intl. 2nd Ed. 2000.
+References:
+1. Geoffrey Boothroyd, "Hand Book of Product Design" Marcel and Dekker, N.Y. 1990.
+2. A. Delchambre "Computer Aided Assembly Planning‖, Springer London, 1992.
+20
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY, HYDERABAD
+I Year – I Sem. M.Tech. (Automation) L P C
+Elective – I & II 3 0 3
+(AUT13) EXPERIMENTAL TECHNIQUES AND DATA ANALYSIS
+Course Prerequisites: Measurements, knowledge of cutting forces, metallurgy, statistical techniques
+Course Objectives:
+ Understand various measurement techniques used for measuring cutting forces.
+ Understand the concepts and techniques involved in microscopy, metallurgical studies and surface
+measurements.
+ Understand the statistical and taguchi methods used in experimentation.
+Course Outcomes:
+Students will be able to
+ Measure strain displacement ,flow temperature and cutting forces
+ Perform microscopic studies for knowing surface morphology and topography
+ Utilize the Taguchi methods in conducting the experiments and draw conclusions based on data
+obtained.
+UNIT I:
+Measurement of Cutting Forces : Strain gauge and piezoelectric transducers and their characteristics. Dynamometer
+construction, Bridge circuits. Instrumentation and calibration. Displacement and strain measurements by photoelasticity.
+Holography, interferometer, Moir techniques, strain gauge rosettes.
+UNIT II:
+Temperature Measurement: Circuits and instrumentation for different transducers viz, bimetallic, expanding fluid, electrical
+resistance, thermister, thermocouples, pyrometers.
+Flow Measurement : Transducers for flow measurements of Non-compressible and compressible fluids. Obstruction and
+drag methods, Vortex shredding flow meters. Ultrasonic, Laser Dopler and Hotwire anemometer. Flow visualization
+techniques shadow graphs. Schlieren photography. Interferometer.
+UNIT III:
+Metallurgical Studies: Optical and electron microscopy, X-Ray diffraction, Bragg‘s Law and its application for studying
+crystal structure and residual stresses. Electron spectroscopy, electron microprobe.
+Surface Measurements: Micro hardness, roughness, accuracy of dimensions and forms. 3-D co-ordinate measuring
+machines.
+UNIT IV:
+Experiment design & data analysis : Statistical methods, Randomized block design, Latin and orthogonal squares, factorial
+design. Replication and randomization.
+Data Analysis: Deterministic and random data, uncertainly analysis, tests for significance : Chi-square, student‘s ‗t‘ test.
+Regression modeling, direct and interaction effects. ANOVA, F-test. Time Series analysis, Autocorrelation and
+autoregressive modeling.
+UNIT V:
+Taguchi Methods: Experiment design and planning with Orthogonal arrays and line graphs. Additive cause effect model.
+Optimization of response level. Identification of Design and noise factors. Performance evaluation and Optimization by signal
+- noise ratios. Concept of loss function and its application.
+Text Books & References:
+1. Holman, J.P.: Environmental Methods for Engineers, McGraw Hill Int., New York.
+2. Venkatesh, V.C., and Chandrasekharan, Experimental Methods in Metal Cutting Prentice Hall of India, Delhi.
+3. Davis, O.V.; The Design and Analysis of Industrial Experiments, Longman London.
+4. Box and Jenkins; Time Series analysis, Forecasting and control, Holden Day, San Francisco.
+5. Dove and Adams, Experimental stress analysis and motion measurement Prentice Hall of India Delhi.
+6. Tapan P.Bagchi, Taguchi Methods Explained, Prentice Hall of India, Delhi.
+21
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY, HYDERABAD
+I Year – I Sem. M.Tech. (AMS & Automation) L P C
+Elective – I & II 3 0 3
+(AMS12) MATERIALS TECHNOLOGY
+Course Prerequisites: Maths, Physics, Chemistry, Metallurgy and Material science
+Course Objectives:
+ Understand strengthening mechanisms of materials and their properties and relationship
+between them.
+ Understand the principles of material science applied to material technology.
+ Understand how to choose a material for a given application.
+Course Outcomes:
+Students should be able to:
+ Apply fundamental knowledge of mathematics to modeling and analysis of materials.
+ Apply strengthening mechanisms to analyze problems by making good assumptions.
+ Apply fundamental principles to manufacture different types of components.
+UNIT I:
+Elasticity in metals and polymers, mechanism of plastic deformation , Role of dislocations, Yield stress, Shear strength of
+perfect and real crystals, Strengthening mechanism, Work hardening, Solid solution, Grain boundary strengthening, Poly phase
+mixture, Precipitation, Particle Fiber and dispersion strengthening; Effect of temperature, strain and strain rate on plastic behavior,
+super plasticity, deformation of non crystalline material
+UNIT II:
+Griffith's Theory, Stress intensity factor and fracture Toughness, Toughening Mechanisms, Ductile and Brittle transition in
+steel, High Temperature Fracture, Creep, Larson - Miller parameter, Deformation and Fracture mechanism maps.
+UNIT III:
+Fatigue, Low and High cycle fatigue test, Crack Initiation and Propagation mechanism and Pari's Law, Effect of surface and
+metallurgical parameters on Fatigue, Fracture of non-metallic materials, fatigue analysis, Sources of failure, procedure of failure
+analysis.
+UNIT IV:
+Motivation for selection, cost basis and service requirements, Selection for Mechanical Properties, Strength, Toughness,
+Fatigue and Creep. Selection for Surface durability, Corrosion and Wear resistance, Relationship between Materials Selection
+and Processing, Case studies in Materials Selection with relevance to Aero, Auto, Marine, Machinery and Nuclear Applications.
+UNIT V:
+Modern Metallic Materials: Dual Steels, Micro alloyed, High Strength Low alloy (HSLA) Steel Transformation induced plasticity
+(TRIP) Steel, Maraging Steel, Intermetallics, Ni and Ti Aluminides, Smart Materials, Shape Memory alloys, Metallic Glass
+Quasi Crystal and Nano Crystalline Materials.
+Nonmetallic Materials: Polymeric materials and their molecular structures, Production Techniques for Fibers, Foams, Adhesive
+and Coatings, structure, Properties and Applications of Engineering, polymers, Advanced Structural Ceramics WC, TiC, TiG A
+,
+12 O3, SiC, Si3 N4, CBN and Diamond - properties, Processing and applications.
+Text Books:
+1. Mechanical Behavior of Materials/Thomas H. Courtney/ 2nd Edition, McGraw Hill, 2000
+2. Mechanical Metallurgy/George E. Dieter/McGraw Hill, 1998.
+References:
+1. Selection and use of Engineering Materials, 3e/Charles J.A/Butterworth Heiremann.
+2. Material Science & Metallurgy by Kodgire.
+22
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY, HYDERABAD
+I Year – I Sem. M.Tech. (AMS, Automation & CAD/CAM) L P C
+Elective – I & II 3 0 3
+(AMS15) MECHATRONICS
+Course Prerequisites: Basic electronics, manufacturing, intelligence systems.
+Course Objectives:
+ To understand mechatronics principles and applications.
+ To explore architecture of intelligence machines
+ Understand machine design principles for similar applications
+Course Outcomes:
+Students will be able to
+ Develop motion control algorithm
+ Effectively choose /select proper sensor ,actuator to a given application
+ Develop an intelligent automated system and manufacturing data base system
+UNIT I:
+Introduction: Definition of Mechatronics products, Design Considerations and Tradeoffs, Overview of Mechatronic products.
+Intelligent Machine vs Automatic. Machine Economic and social justification.
+Actuators and Motion Control: Characteristics of Mechanical, electrical, Hydraulic and pneumatic actuators and their
+limitations. Control parameters and system objectives. Mechanical configurations. Popular control system configurations. S-
+curve, Motor/Load inertia matching, design with linear slides.
+UNIT II:
+Motion control Algorithms: significance of feed forward control loops, shortfalls, Fundamental concepts of adaptive and
+fuzzy control. Fuzzy logic compensatory control of transformation and deformation non-Z linearities.
+UNIT III:
+Architecture of intelligent Machines: Introduction to Microprocessor and programmable logic controllers and identification
+of system, System design Classification. Motion control aspects in Design.
+UNIT IV:
+Manufacturing Data Bases: Data Base management system, CAD/CAM Data bases, Graphic Data Base, Introduction to
+object oriented concepts, objects oriented model language interface, procedures and methods in creation, edition and
+manipulation of data.
+UNIT V:
+Sensor Interfacing: Analog and Digital Sensors for Motion Measurement, Digital Transducers, Human — Machine and
+Machine — Machine Interfacing devices and strategy.
+Machine Vision: Feature and Pattern Recognition methods, concepts of perception and cognition in decision making.
+Text Books & References:
+1. Control sensors and actuators, ―Designing Intelligent Machines‖, Open University, London
+2. Michel B. Histand and David G. Alciatore, ―Introduction to Mechatronics and Measurement Systems‖ Tata McGraw
+Hill.
+3. C.W. De Silva, ―Control sensors and actuators‖, 2 Edition, Prentice Hall.
+23
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY, HYDERABAD
+I Year – II Sem. M.Tech. (Automation) L P C
+Open Elective - I 3 0 3
+(AUT31) INDUSTRIAL AUTOMATION
+Course Prerequisites:
+Course Objectives:
+ Explain the General function of Industrial Automation
+ Identify Safety in Industrial Automation
+ Identify Practical Programmable Logic Controller Applications
+Course Outcomes:
+Students will be able to:
+ To identify potential areas for automation and justify need for automation
+ To select suitable major control components required to automate a process or an activity
+ To translate and simulate a real time activity using modern tools and discuss the benefits of
+automation.
+ To identify suitable automation hardware for the given application.
+ To recommend appropriate modeling and simulation tool for the given manufacturing
+application.
+UNIT I:
+Introduction: Automation in Production System, Principles and Strategies of Automation, BasicElements of an Automated
+System, Advanced Automation Functions, Levels of Automations. Flow lines & Transfer Mechanisms, Fundamentals of
+Transfer Lines. (SLE: Analysis of Transfer Lines)
+UNIT II:
+Automated Manufacturing Systems: Components, Classification and Overview of Manufacturing Systems, Manufacturing
+Cells, GT and Cellular Manufacturing, FMS, FMS and its Planning and Implementation. Quality Control Systems:
+Traditional and Modern Quality Control Methods, SPC Tools, Inspection Principles and Practices, Inspection Technologies.
+(SLE: Usage of SPC tools using excel or Minitab).
+UNIT III:
+Control Technologies in Automation: Industrial Control Systems, Process Industries Versus Discrete-Manufacturing
+Industries, Continuous Versus Discrete Control, Computer Process and its Forms. (SLE: Sensors, Actuators and other
+Control System Components).
+UNIT IV:
+Computer Based Industrial Control: Introduction & Automatic Process Control
+Building Blocks of Automation Systems: LAN, Analog & Digital I/O Modules, SCADA Systems& RTU.
+Distributed Control System: Functional Requirements, Configurations & some popular Distributed Control Systems. (SLE:
+Display Systems in Process Control Environment.)
+UNIT V:
+Modeling and Simulation for Plant Automation: Introduction, need for system Modeling, Building Mathematical Model of a
+Plant, Modern Tools & Future Perspective. Industrial Control Applications: Cement, Thermal, Water Treatment & Steel
+Plants. (SLE: Cases Studies minimum one for Cement, Thermal, Water Treatment & Steel Plants applications)
+Text Books:
+1. Automation, Production Systems and Computer Integrated Manufacturing- M.P.Groover, Pearson Education.5th edition,
+2009.
+References:
+1. Computer Based Industrial Control- Krishna Kant, EEE-PHI,2nd edition,2010
+2. An Introduction to Automated Process Planning Systems- Tiess Chiu Chang & Richard A. Wysk
+3. Performance Modeling of Automated Manufacturing Systems,- Viswanandham, PHI, 1st edition,2009.
+24
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY, HYDERABAD
+I Year – II Sem. M.Tech. (AMS, Automation) L P C
+Open Elective - I 3 0 3
+(AUT32) DESIGN AND MANUFACTURING OF MEMS AND MICRO SYSTEMS
+Course Prerequisites: Electrical and Mechanical Engineering, Physics.
+Course Objectives:
+ Understand the need, general principles and mechanisms of the various components of
+MEMS.
+ Understand the study of atomic structures, ions, molecular theory, doping of semiconductors,
+quantum physics.
+ Understand the engineering mechanics analysis on the design of the micro systems and the
+study of different materials used for their fabrication processes.
+Course Outcomes:
+Students will be able to:
+ Apply the basics of MEMS and the Microsystems.
+ Apply knowledge of engineering science, mechanics, fluid systems, thermal engineering and
+material science while designing of systems.
+ Design and fabricate a simple MEMS device.
+UNIT I:
+Overview and working principles of MEMS and Microsystems: MEMS & Microsystems, Evolution of Micro fabrication,
+Microsystems & Microelectronics, Microsystems & Miniaturization, Applications of MEMS in Industries, Micro sensors, Micro actuation,
+MEMS with Micro actuators Micro accelerometers, Micro fluidics.
+UNIT II:
+Engineering Science for Microsystems Design and Fabrication: Atomic structure of Matter, Ions and Ionization, Molecular
+Theory of Matter and Intermolecular Force, Doping of Semiconductors, The diffusion Process, Plasma Physics,
+Electrochemistry, Quantum Physics.
+UNIT III:
+Engineering Mechanics for Microsystems Design: Static Bending of thin plates, Mechanical Vibration, Thermo Mechanics,
+Fracture Mechanics, Thin film Mechanics, Overview of Finite Element Stress Analysis.
+UNIT IV:
+Thermo Fluid Engineering & Microsystems Design: Overview of Basics of Fluid Mechanics in Macro and Mesoscales, Basic
+equations in Continuum Fluid dynamics, Laminar Fluid Flow in Circular Conduits, Computational Fluid Dynamics, Incompressible
+Fluid Flow in Micro conduits, Fluid Flow in Sub micrometer and Nanoscale, Overview of Heat conduction in Solids, Heat Conduction in
+Multilayered Thin films and in solids in submicrometer scale, Design Considerations, Process Design Mechanical Design, Mechanical
+Design using FEM, Design of a Silicon Die for a Micro pressure sensor.
+UNIT V:
+Materials for MEMS & Microsystems and their fabrication: Substrates and Wafers, Active substrate materials, Silicon as a
+substrate material, Silicon Compounds, Silicon Piezoresistors, Gallium Arsenide, Quartz, Piezoelectric Crystals and Polymers,
+Photolithography, Ion implantation, Diffusion and oxidation, chemical and physical vapor deposition Etching, Bulk micro
+manufacturing, Surface Micromachining, The LIGA Process
+Text Book:
+1. Tai-Ran Hsu, MEMs & Microsystems: Design & Manufacture, Tata McGraw Hill, ed., 2002
+References:
+1. Maluf, M. "An Introduction to Microelectromechanical Systems Engineering", Artech House, Boston, 2000.
+2. Trimmer, W.S.N. "Micro robots and Micromechanical Systems", Sensors & Actuators, Vol 9, 1989.
+3. Trim, D.W. "Applied Partial Differential Equations‖ VPWS-Kent Publishing, Boston 1990.
+4. Madou, M. "Fundamentals of Micro fabrication", CRC Press, Boca Raton, 1997.
+5. Hsu, T.R. "The Finite Element Method in Thermomechanics", Alien & Unwin, London.
+25
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY, HYDERABAD
+I Year – I Sem. M.Tech. (AMS, Automation & CAD/CAM) L P C
+Open Elective I 3 0 3
+(AMS32) QUALITY AND RELIABILITY ENGINEERING
+Course Prerequisites: Mathematics, Statistics, Quality Control and Industrial Engineering
+Course Objectives:
+ To understand the approaches and techniques to assess and improve process or product quality
+and reliability.
+ To understand the robust design methodology in solving practical engineering problems
+ To understand the types of factors and principles of Quality Loss Function and to Comprehend
+various quality control tools.
+ To understand the tools and techniques that can be used early in the design phase to effectively
+influence a design from the perspective of system reliability, maintainability, and availability.
+Course Outcomes:
+Student will be able to:
+ Select and use the proper orthogonal arrays in designing, conducting and analyzing the
+experiments.
+ Utilize the analytical techniques to find out the variation in the data and obtain optimal results in the
+process of achieving robust design.
+ Identify, formulate, and solve Quality and reliability engineering related problems
+ Develop an ability to design a system component or process to meet desired quality within realistic
+constraints such as economic, environmental, social, political, ethical, health and safety,
+manufacturability and sustainability.
+UNIT I:
+QUALITY ENGINEERING
+Concepts of Quality Engineering, Taguchi‘s Approach to Quality, On-line and Offline Quality Control, Difference from
+Classical Approach, Quality Loss Function, System Design, Parameter Design, Tolerance Design, Causes of Variation,
+Classification of Parameters, Parameter Design Strategy
+UNIT II:
+Steps in Robust Design, Quality Characteristics and Objective Functions, Control Factors and their Levels, Noise Factors and
+Testing Conditions, Planning and Conducting the Experiment Response Surface Methodology – First- order and Second-
+order Models Crossed Array Experiments, Signal-to-Noise Ratios
+UNIT III:
+RELIABILITY ENGINEERING
+The Reliability Function, Failure Rate, Hazard Rate, Bath-tub Curve, Relationship between Various Reliability Characteristics
+Component Reliability, Mean-time-to-failure, Time-dependent Hazard Models – Constant-hazard, Linear-hazard, Nonlinear-
+hazard and Gamma Models
+UNIT IV:
+System Reliability, Two-state Modeling, Series Models, Parallel Models, Series-parallel and Parallel-series Models, k-out-of-m
+Models, Standby Models, Non-series-parallel Models, Fault-tree Approach to System Modeling
+UNIT V:
+Maintained Systems, Classification of Maintenance Activities: Breakdown, Preventive and Predictive Maintenance, Condition
+Monitoring, Maintainability and Availability, Reliability-centered Maintenance
+Text Books & References :
+1. Antony J (2003). Design and Experiments for Engineers and Scientists, Butterworth- Heinmann.
+2. Cochran W and Cox G (2000). Experimental Designs, 2nd edition, John Wiley and Sons Inc.
+3. Dean A and Voss D (2006). Design and Analysis of Experiments, Springer.
+4. Jeff Wu C and Hamada M (2000). Experiments: Planning, Analysis and Parameter Design Optimization, John Wiley and
+Sons Inc.
+5. Montgomery D (2001). Design and Analysis of Experiments, 5th edition, Wiley.
+6. Phadke, M (1989). Quality Engineering using Robust Design, Prentice Hall.
+7. Ross, P (1996). Taguchi Techniques for Quality Engineering, 2nd edition, McGraw Hill.
+8. Balgurusamy E (2003). Reliability Engineering, Tata McGraw Hill.
+9. Birolini A (2004). Reliability Engineering: Theory and Practice, 4th edition, Springer.
+26
+10. Crowder M, Kimber A, Smith R and Sweeting T (1991). Statistical Analysis of Reliability Data, Chapman and Hall.
+11. Kumamoto H and Henley E (1996). Probabilistic Risk Assessment and Management for Engineers and Scientists, IEEE
+Press.
+27
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY, HYDERABAD
+I Year – I Sem. M.Tech. (Advanced Manufacturing Systems & Automation) L P C
+0 3 2
+(AMS51) MANUFACTUIRNG SIMULATION & PRECISION ENGINEERING LAB
+Course Prerequisites: Mathematics, FMS, machine Tools, Process Planning, Metrology, Plant Layout, Automation.
+Course Objectives:
+ Understand and learn simulation packages of discrete time systems for Queuing systems, Job
+shop systems and Inventory systems.
+ Appreciate the various manufacturing processes, understand the chip morphology and cutting
+forces involved.
+ Learn the concepts of PLC and microcontrollers.
+Course Outcomes:
+Students will be able to:
+ Simulate and develop inventory, planning and scheduling systems.
+ Simulate and develop appropriate production systems for a plant.
+ Determine cutting forces, measuring parameters and dimensions of precision parts.
+ Use hydraulic and pneumatic circuits and PLC in part manufacture.
+MANUFACTURING SIMULATION LABORATORY
+1. Simulation of Continuous Time Systems and Discrete Time Systems.
+2. Simulation of Queuing Systems
+3. Simulation of Inventory Systems.
+4. Simulation of Flexible Manufacturing Systems.
+5. Simulation of Job Shop Production Systems.
+(Problems may include AGV Planning, ASRS Simulation, JIT System, Kanban flow, MRP, Shop Floor scheduling, Material
+Handling Systems)
+Packages: Use of Flexsim, AutoMOD, PROMOD, SLAM-H, CAFINS Software etc
+PRECISION ENGINEERING LABORATORY
+1. Study of Chip formation in Turning Process.
+2. Determination of Cutting forces in Turning.
+3. Study of operation of Tool & Cutter grinder, Cylindrical grinder.
+4. Inspection of parts using Toolmakers Microscope, Roughness and Form tester
+5. Hydraulic and Pneumatic Circuits.
+6. Closed Loop Control Systems.
+7. Studies in Programming Logic Controllers (PLC) programming.
+8. Studies of Micro Controllers.
+28
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY, HYDERABAD
+I Year – I Sem M.Tech. (Automation) L T/P/D C
+0 0 4
+(AUT61) MINI PROJECT - I
+A mini project work shall be carried out on any topic of Automation and a seminar should be given on the same along with a
+brief report.
+29
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY, HYDERABAD
+I Year – II Sem. M.Tech. Automation) L P C
+3 1 4
+(AUT02) FLUID POWER SYSTEMS
+Course Prerequisites: Fluid Mechanics, Thermodynamics, Engineering Mechanics, Mathematics
+Curse Objectives:
+ Understand about the components used and their functioning in hydraulic systems
+ Understand about the hydraulic Control system component
+ Understand the feed-back systems used in fluid power circuits
+Course Outcomes:
+ The student can apply the fundamental knowledge of hydraulic components in mechanical
+systems.
+ Able to design hydraulic circuits for different applications
+ Apply the knowledge of hydraulics and develop feed-back systems for positional, force and
+velocity controls.
+UNIT I:
+Fluid Power Fundamentals – Advantages & dis-advantages of hydraulic systems, Graphical Symbols of hydraulic
+components, properties of hydraulic fluids, requirements of hydraulic fluids, filters, particulate contamination and its control.
+UNIT II:
+Power Generating Components – Positive displacement pumps and their types, Constructional details – Gear pumps, vane
+pumps, piston pumps, balancing of pumps, pressure compensated pumps, pressure and flow fluctuations and their control,
+Capacities & power
+UNIT III:
+Control Valves- Pressure control valves - relief valves and their variants, remote control, constructional and functional aspects
+of pressure control valves. Directional Control valves – spool type valves, different modes of operation of DC valves, Different
+centre configurations, pressure drops in DC valves. 4/3, 4/2 DC valves. Flow control valves, types, check valves,
+unidirectional, pilot operated, pressure compensated flow control valves, Metering in, metering out valves.
+UNIT IV:
+Linear Actuators - Cylinders, Single acting, double acting, constructional features, Cushioning, Force and velocity
+calculations.
+Rotary Actuators - Types of hydro-motors, Gear, vane, piston types, limited rotation vane motors. Design features, Torque
+and speed calculations.
+Hydraulic Circuits – Manual, automatic, regenerative, Application in press tools, Machine tools, Circuits with Hydraulic
+accumulators.
+UNIT V:
+Feed-back systems – Feed-back elements, Transducers, Copying valves, EH Servo Valves & systems, Transmission
+systems, Applications
+Text Books & References:
+1. Oil hydraulic systems – Principles and Maintenance, S. R. MAJUMDAR, McGraw Hill
+2. Introduction To Fluid Power, JAMES L. JOHNSON, Thomson Learning
+3. Fluid Power with Applications, Anthony Esposito, Pearson Education
+30
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY, HYDERABAD
+I Year – II Sem. M.Tech. (Automation) L P C
+3 1 4
+(AUT03) INTELLIGENT INSTRUMENTATION AND MANUFACTURING
+Course Prerequisites: Micro controllers, PLC s.
+Course Objectives:
+ Understand the working principle of advance controllers used in manufacturing industries.
+ Understand PLC programming of PLC s.
+ Understand SCADA and its programming.
+Course Outcomes:
+Students will be able to:
+ Apply fundamental knowledge of basic controllers & develop programs.
+ Mini project & major project upon PLC, DCS.
+ Develop SCADA & PLC programming for a given application.
+UNIT I:
+Introduction: Introduction of intelligent instrumentation, Historical Perspective, Current status, software based instruments.
+Virtual Instrumentation: Introduction to graphical programming, data flow & graphical programming techniques, advantage
+of VI techniques, VIs and sub VIs loops and charts, arrays, clusters and graphs, case and sequence structure, formula nodes,
+string and file I/O Code Interface Nodes and DLL links.
+UNIT II:
+Data Acquisition Method: Analog and Digital IO, Counters, Timers, Basic ADC design, interfacing methods of DAQ
+hardware, software structure, use of simple and intermediate Vis. Use of Data Sockets for Networked communication and
+controls.
+UNIT III:
+PC Hardware Review and Instrumentation Buses: Structure, timing, interrupts, DMA, operating system, ISA, PCI, USB,
+PCMCIA Buses. IEEE488.1 & 488.2 serial Interfacing –RS 232C, RS422, RS423, RS485, USB, VXI, SCXI, PXI.
+UNIT IV:
+Analysis Techniques: DSP software, Measurement, filters and wavelets, windows, curve fitting probability & statistics.
+Communication: Basis networking methods and their applications in instrumentation, use of Data sockets for distributed
+control.
+UNIT V:
+Components of knowledge based systems: Basic components of knowledge based system, knowledge Representation,
+comparison of knowledge Representation Schemes, Interference Engine, knowledge acquisition Machine Learning – concept
+of Artificial intelligence, conceptual learning, Artificial Neural Networks – Biological Neuron, Artificial Neuron, types of Neural
+Networks, applications in manufacturing.
+Text Books:
+1. G.C. Barney/Intelligent Instrumentation/Prentice Hall, 1995ce:
+2. Lisa, K.Wells & Jeffery Travis/Lab VIEW For every one Prentice Hall, 1997
+References:
+1. A.S. Morris/Principles of measurement and Instrumentation/Prentice Hall, 1993
+2. S.Gupta/P.C.Interfacing for data Acquisition & Process Control, 2nd Edition/Instrument Society of America, 1994
+3. Gray Johnson/Lab VIEW Graphical Programming 2nd Edition/Tata Mc Graw Hill, 1997.
+4. Bitter, Mohiuddin, Nawrocki/Advanced Cal VIEW Programming Techniques.
+31
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY, HYDERABAD
+I Year – II Sem. M.Tech. (Automation) L P C
+3 1 4
+(AUT04) INDUSTRIAL ROBOT TECHNOLOGY
+Course Prerequisites: Basics of automation, assembly and manufacturing operations
+Course Objectives:
+ Understand about the classification, components, functions and specifications of robots
+ Understand different robot programming methods.
+ Understand the applications of robots in different areas.
+Course Outcomes:
+Students will be able to:
+ Know the usage of robots in different industries.
+ Know how the programming is done for the robot to do a task.
+ Get clear idea about optical and non-optical position sensors.
+UNIT I:
+Robotics and Automation – Robot Definition, Classification of Robots, Robot System components, functions of Robot System,
+Specification of Robot System, Robot Drives and Power transmission systems, Remote centered Compliance devices.
+UNIT II:
+Robotic Sensory Devices, Non optical Position sensors, Optical position sensors, velocity sensors, Accelerometers, Proximity
+sensors, touch and Slip sensors, Force and Torque sensors – Robot vision system.
+UNIT III:
+Methods of Robot programming – Lead though programming methods – capabilities and limitations, Textual Robot languages
+– robot language structure – motion commands, end effectors and sensor commands, Robot programming functions, robot
+pr9ogramming environment, On-Line and Off Line programming Langauges.
+UNIT IV:
+Robot cell layouts – multiple Robots and machine interface, consideration in work cell design, interlocks, error detection and
+recovery, Robot cycle time analysis, simulation of Robot work cells.
+UNIT V:
+Application of robots in material transfer, machine loading and unloading, welding, assembly and inspection, safety, training,
+maintenance and quality aspects, Economics and social aspects of robotics.
+Text Books & References:
+1. Richard D. Klafter - Robotic engineering – An Integrated approach, Prentice Hall of India Pvt Ltd, 2002
+2. Mikell P. Groover, Weiss, Roger - Industrial Robotics – Technology, Programming and Applications, McGraw Hill
+International Edition, 1996.
+3. Shimon Y.Nof Hand Book of Robotics, John Wiley sons, 1985.
+4. Spong and Vidhyasagar, Robot Dynamics and Control, John Wiley and Sons
+5. Fu. K.S., Gonzalez, R.C, Lee. C.S.G, Robotics, Control, Sensing, Vision and Intelligence, McGraw Hill International,
+1987
+32
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY, HYDERABAD
+I Year – II Sem. M.Tech. (Automation) L P C
+Elective – III & IV 3 0 3
+(AUT21) MICROPROCESSOR AND APPLICATIONS
+Course Prerequisites: Switching theory and logic design
+Course Objectives:
+ Understand the operation of microprocessor, assembly language programming interfacing
+techniques.
+ Understand the application of 8086 micro processor, interfacing it with different peripherals.
+ Understand the design and implement processes of micro controlled based system in both
+hardware and software.
+Course Outcomes:
+Students will be able to:
+ Write various assembly language programs for 8086 based on various algorithms for software
+and hardware applications.
+ Designing the micro processor based systems by applying the knowledge of internal
+operations.
+ Applying the above knowledge in advanced processor architecture.
+UNIT I:
+8086 Architecture CPU Architecture, Internal Operations, Addressing modes, Machine Language Instructions. Instruction
+formats, Instruction execution Timing. Assembly Instruction Format : Data transfer instructions Arithmetic Instructions : Binary
+arithmetic packed BCD arithmetic, Unpacked BDC arithmetic. Branch Instructions: Conditional Branch Instructions,
+Unconditional Branch Instructions, Loop instructions. NOP and HLT instructions, Flag Manipulation Instructions, Logical
+Instructions. Shift and Rotate Instructions, Directives and Operators. Assembly Process, Translation and Assembly
+Instruction.
+UNIT II:
+Linking and Relocation, Stacks, procedures, Interrupts and Interrupt Routines, Macros, Program Design Byte and string
+manipulation, I/O programming.
+UNIT III:
+I/O Interface Serial Communication Interfaces, 8251 programmable communication interface, A/D and D/A example.
+Programmable Timers and Event counters, 8254 programmable Interval Timer, interval Application to A/D. DMA Controller
+(8237).
+UNIT IV:
+Peripheral Devices Keyboard and Display keyboard Design, LED Display Design, Keyboard/Display Controller (8279), CRT
+Controller and Interface (8275), Floppy Disk Controller (8272).
+UNIT V:
+Advanced processor Architecture 80386, 80486 and Pentiums‘ Register structure, Instruction set, Memory management
+protected and virtual modes, memory paging mechanism.
+Text Books & References::
+1. Liu yu-Cheng, Gibson GA, Microcomputer Systems: the 8086/8088 Family Architecture, programming and Design (2nd
+Edition), PHI, 1995.
+2. Barry B.Brey The Intel Microprocessors, PHI, 1995.
+33
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY, HYDERABAD
+I Year – II Sem. M.Tech. (Automation) L P C
+Elective – III & IV 3 0 3
+(AUT22) NEURAL NETWORK AND FUZZY SYSTEMS
+Course Prerequisites: Mathematics, Concept of human logic, reasoning and operations.
+Course Objectives:
+ Understand the fundamentals of fuzzy logic, its relative principles.
+ Learn the concepts of neural networks, hybrid intelligence.
+ Identifying the real time applications.
+Course Outcomes:
+Students will be able to:
+ Identify the potential areas of application of fuzzy logic.
+ Design fuzzy logic and genetic algorithm.
+ Apply the concepts of fuzzy control to real time systems.
+UNIT I:
+Knowledge Representation and processing – Knowledge and Intelligence – logic – Frames – production systems.
+Fundamentals of Fuzzy logic – Fuzzy sets – Fuzzy Relation – composition and Inference.
+UNIT II:
+Membership Function estimation – Importance – Fuzzy to crisp conversion – methods – Fuzzy extension principle – Fuzzy
+tautologies – Implication operation Composition operation.
+UNIT III:
+Basics of Fuzzy Control – Architecture of Fuzzy Control – examples of Fuzzy Control system Design – Robotic Control
+system – Industrial applications.
+UNIT IV:
+Hybrid Intelligence – Basic concepts of neural network – Inference and learning – Classification Models – Association models,
+Optimization models – Neural Network learning.
+UNIT V:
+Rule Based Neural Networks – Network Training – Application of Neural Network in Mathematical Modeling – knowledge
+based approaches – applications in Mechanical Engineering – Fuzzy – Neural, examples, Neuro – Fuzzy examples –
+Intelligence in Automation.
+Text Books & References:
+1. Clarence W.de Silva - Intelligent Control Fuzzy Logic Applications, CRS Press, 1995
+2. Timothy J.Ross - Fuzzy Logic with engineering Applications, McGraw Hill Inc., 1995.
+3. Limin Fu - Neural Networks in Computer Intelligence, Tata McGraw Hill Publishing Company Ltd.,
+2003
+4. Stamations - Understanding Neural Networks and Fuzzy Logic, Basic concepts Applications, IEE
+and V.Kartalopoulos Neural Networks Council Prentice Hall of India Pvt., Ltd., 2001.
+5. James A.Freeman and - Neural Networks Algorithms, Applications & Programming Techniques, Pearson
+David M.Skapura Education Asia, 2001.
+6. Yegnarayane.B - Artificial Neural Networks, Prentice Hall – 2001.
+34
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY, HYDERABAD
+I Year – II Sem. M.Tech. (Automation) L P C
+Elective – III & IV 3 0 3
+(AMS21) QUALITY ENGINEERING IN MANUFACTURING
+Course Prerequisites: Statistics, Statistical Quality Control.
+Course Objectives:
+ Understand the types of factors and principles of Quality Loss Function.
+ Understand the robust design methodology in solving practical engineering problems.
+ Comprehend the various quality control tools.
+Course Outcomes:
+Students will be able to:
+ Value the concept of quality, use quality tools and obtain the quality loss.
+ Utilize the analytical techniques to find out the variation in the data and obtain optimal results.
+ Select and use the proper orthogonal arrays in designing, conducting and analyzing the
+experiments.
+UNIT I:
+Quality Value and Engineering: An overall quality system, Quality engineering in product design, Quality engineering in design of
+production processes, Quality engineering in production.
+Loss Function and Quality Level: Derivation and use of Quality Loss Function (QLF), Economic consequences of tightening tolerances
+as a means to improve quality, Evaluations and types tolerances - N-type, S-type and L-type.
+UNIT II:
+Analysis of Variance (ANOVA): NO - way ANOVA, One-way ANOVA, Two-way ANOVA, Critique of F-test, ANOVA for four level factors,
+multiple level factors.
+UNIT III:
+Orthogonal Arrays: Introduction to OA, Degrees of Freedom, Structure of OA, Linear Graphs & Interaction tables, Strategies in
+Experimentation - Typical test strategies, Better test strategies & Efficient test strategies, Steps in designing, conducting and analyzing
+an experiment.
+Interpolation of Experimental Results: Interpretation methods, Percent contribution, Estimating the mean.
+UNIT IV:
+Tolerance Design and Tolerancing: Functional limits, Tolerance design for N-type, L-type and S-type characteristics, Tolerance allocation for
+multiple components.
+Parameter and Tolerance Design: Introduction to parameter design, Signal to noise ratios, Parameter design strategy, Some of the
+case studies on parameter and tolerance designs.
+UNIT V:
+Quality Tools: ISO-9000 Quality System, Business Process Re-engineering (BPRE), Six-sigma, Bench
+making, Quality circles, Brain Storming, Fishbone diagram.
+Text Book:
+1. Taguchi Techniques for Quality Engineering /Phillip J. Ross/ McGraw Hill, Intl. II Edition, 1995.
+References:
+1. Quality Engineering in Production systems / G. Taguchi, A- Elsayed et al / McGraw Hill Intl. Edition, 1989.
+2. Taguchi Methods explained: Practical steps to Robust Resign / Tapan P. Bagchi /Prentice Hall Ind Pvt. Ltd., New Delhi.
+35
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY, HYDERABAD
+I Year – I Sem. M.Tech. (Automation) L P C
+Elective – III & IV 3 0 3
+(AUT23) STRESS ANALYSIS AND VIBRATIONS
+Course Prerequisites: Mathematics, fundamentals of vibrations and stress analysis.
+Course Objectives:
+ Understand elastic theory and Plane stress concept.
+ Understand application of Torsion concept on noncircular, prismatic, rectangular,
+axisymmetric components.
+ Identify the causes and effects of Vibration of Single and Multi degree freedom systems.
+ Investigate free & forced vibrations of strings bars and beams.
+Course Outcomes:
+Students will be able to:
+ Apply the concept of elastic theory on component under plane stresses.
+ Apply fundamentals to identify causes and effects of vibrations.
+ Find out intensity of vibrations in a given system.
+ Solve the free and forced vibrations of continuous system
+.
+UNIT I:
+Two dimensional elasticity theory in Cartesian coordinates, Polar coordinates-Thick cylinders, Rotating discs -problems.
+UNIT II:
+Torsion of non-circular prismatic sections, rectangular and axisymmetric, Circular plates, Introduction to shell theory –
+geometry of shells of revolutions-thin axisymmetric.
+UNIT III:
+Single degree freedom, Two degree freedom system without and with damping – Free and forced vibrations, Transient
+vibrations- response to input, step input, ramp input.
+UNIT IV:
+Transient vibrations of single degree freedom system, Continuous systems- lateral vibrations of a spring, longitudinal vibration
+of rods or bars, torsional vibrations of uniform shafts or rods.
+UNIT V:
+Multi degree freedom system-exact analysis- natural frequencies and mode shapes, matrix iteration methods. Principle of
+orthogonality, Classical methods-Rayleigh method, Dunkerley's equation, Rayleigh-Ritz Method, Holzer method, Stodola's
+method.
+Text Books & References:
+1. Theory of elasticity, Timoshenko and Goodier
+2. Advanced strength of materials, Den Hartog J.P
+3. Mechanical Vibrations, Den Hartog J.P., Dover Publications
+4. Theory of Vibrations with Applications, Thomson W.T., CBS Publishing
+5. Mechanical Vibrations, Thammaiah Gowda, Jagadeesha T, D V Girish
+36
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY, HYDERABAD
+I Year – II Sem. M.Tech. (Automation) L P C
+Elective – III & IV 3 0 3
+(AUT24) SMART MATERIALS AND STRUCTURES
+Course Prerequisites: Instrumentation, material science, basic electrical and electronics
+Course Objectives:
+ Understand type of smart material and structures and their usage
+ Understand smart material application in automation .
+ Understand smart materials application in instrumentation and control system .
+Course Outcomes:
+Students will be able to:
+ Identify the types of materials and classify them based upon their properties .
+ Decide on the type of materials for a given application in automation .
+ Decide on materials for smart structures .
+UNIT I:
+Overview of Smart Materials, Structures and Products Technologies.
+UNIT II:
+Smart materials (Physical Properties): Piezoelectric Materials, Elctrostrictive Materials, Magnetostrictive Materials,
+Magnetoelectric Materials. Magnetorheological Fluids Electroheological Fluids, Shape Memory Materials, Fiber-Optic
+Sensors.
+UNIT III:
+Smart Sensor, Actuator and Transducer Technologies: Smart Sensors: Accelerometers; Force Sensors; Load Cells;
+Torque Sensors; Pressure Sensors; Microphones; Impact Hammers; MEMS Sensors; Sensor Arrays Smart Actuators;
+Displacement Actuators; Force Actuators; Power Actuators; Vibration Dampers; Shakers; Fluidic Pumps; Motors Smart
+Transducers: Ultrasonic Transducers; Sonic Transducers.
+UNIT IV:
+Measurement, Signal Processing, Drive and control Techniques: Quasi – Static and Dynamic Measurement Methods;
+Signal Conditioning devices;; Constant Voltage, Constant Current and Pulse Drive Methods; Calibration Methods; Structural
+Dynamics and Identification Techniques; Passive, Semi-Active and Active Control; Feedback and Feed forward Control
+Strategies.
+UNIT V:
+Design, Analysis, Manufacturing and Applications of Engineering Smart Structures and Products: Case studies
+incorporating design, analysis, manufacturing and application issues involved in integrating smart materials and devices with
+signal processing and control capabilities to engineering smart structures and products. Emphasis on structures, automation
+and precision manufacturing equipment, automotives, consumer products, sporting products, computer and
+telecommunications products, as well as medical and dental tools and equipment.
+Text Books:
+1. M.V.Gandhi and B.So Thompson, Smart Materials and Structures, Chapman & Hall, London; New York, 1992
+2. B.Cui Shaw, Smart Structures and Materials, Artech House, Boston, 1996
+References:
+1. A.V.Srinivasan, Smart Structures: Analysis and Design, Cambridge University Press, Cambridge; New York, 2001
+2. A.J.Moulson and J.M.Herbert, Electroceramics: Materials, Properties, Applications, 2nd Edition, John Wiley & Sons,
+2003
+3. G. Gautschi, Piezoelectric Sensories: Force, Strain, Pressure, Acceleration and Acoustic Emission Sensors. Materials
+and Amplifiers, Springer, Berlin; New York,2002
+4. K.Uchino, Piezoelectric Actuators and Wtrasonic Motors, Kluwer Academic Publishers, Boston, 1997
+5. G.Engdahl, Handbook of Giant Magnetostrictive Materials, Academic Press, San Diego, Calif.; London, 2000
+6. K.Otsuka and C.M.Waymana, Shape Memory Materials, Cambridge University Press, Cambridge; New York, 1998
+7. Eric Udd, Fiber Optic Sensors: An Introduction for Engineers and Scientists, John Wiley & Sons, New York, 1991
+37
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY, HYDERABAD
+I Year – I Sem. M.Tech. (AMS, Automation & CAD/CAM) L P C
+Elective – III & IV 3 0 3
+(AUT25) OPTIMIZATION TECHNIQUES AND APPLICATIONS
+Course Prerequisites: Design of Machine Elements, Vibrations.
+Course Objectives:
+ Understand principles of optimization for various mechanical elements.
+ Understand techniques for minimization of unconstraint and methods to solve it by developing
+algorithms.
+ Understand optimization applications in mechanical vibrations.
+Course Outcomes:
+Students will be able to:
+ Develop an optimizing technique to solve an engineering problem.
+ Apply concepts developing algorithms to solve a problem.
+ Apply various applications of design optimization techniques on bodies.
+UNIT I:
+General Characteristics of mechanical elements, Adequate and optimum design, Principles of optimization, Formulation of
+objective function, Design constraints, Classification of optimization problems, Single and multivariable optimization
+techniques
+UNIT II:
+Technique of unconstrained minimization. Golden section, Random, Pattern and Gradient search methods, Interpolation
+methods, Equality and inequality constraints.
+UNIT III:
+Direct methods and indirect methods using penalty function, Lagrange multipliers, Geometric programming and stochastic
+programming, Genetic algorithms.
+UNIT IV:
+Engineering applications, Structural-design application axial and transverse loaded members for minimum cost, Maximum
+weight. Design of shafts and torsion members, Design optimization of springs.
+UNIT V:
+Dynamics applications for two degree freedom system, Vibration absorbers. Application in mechanisms.
+Text Books:
+1. Engineering Optimization -Theory and Practice, Singerusu S. Rao, New Age.
+2. Optimum Design of Mechanical elements, Johnson Ray C, Wiley, John & Sons
+References:
+1. Genetic Algorithms in search, Optimization and Machine, Goldberg D. E., Addison-Wesley-NewYork.
+2. Optimization for Engineering Design Algorithms and Examples, Kalyanamoy Deb, Prentice Hall of India.
+38
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY, HYDERABAD
+I Year – I Sem. M.Tech. (AMS & Automation) L P C
+Open Elective II 3 0 3
+(AMS41) INDUSTRIAL SAFETY MANAGEMENT
+Course Prerequisites: Elements of Mechanical, Civil, Electrical and Industrial Engineering
+Course Objectives:
+ To achieve an understanding of principles, various functions and activities of safety
+management.
+ To communicate effectively information on Health safety and environment facilitating
+collaboration with experts across various disciplines so as to create and execute safe
+methodology in complex engineering activities.
+ To anticipate, recognize, and evaluate hazardous conditions and practices affecting people,
+property and the environment, develop and evaluate appropriate strategies designed to
+mitigate risk.
+ To develop professional and ethical attitude with awareness of current legal issues by
+rendering expertise to wide range of industries.
+Course Outcomes:
+Students will be able:
+ Apply risk management principles to anticipate, identify, evaluate and control physical,
+chemical, biological and psychosocial hazards.
+ Communicate effectively on health and safety matters among the employees and with society
+at large.
+ Demonstrate the use of state of the art occupational health and safety practices in controlling
+risks of complex engineering activities and understand their limitations.
+ Interpret and apply legislative / Legal requirements, industry standards, and best practices in
+accident prevention programmes in a variety of workplaces.
+UNIT I:
+SAFETY MANAGEMENT: Evaluation of modern safety concepts – Safety management functions – safety organization,
+safety department – safety committee, safety committee, safety audit - performance measurements and motivation –
+employee participation in safety and productivity.
+UNIT II:
+OPERATIONAL SAFETY: Hot metal Operation – Boiler, pressure vessels – heat treatment shop - gas furnace operation-
+electroplating-hot bending pipes – Safety in welding and cutting. Cold-metal Operation- Safety in Machine shop-Cold bending
+and chamfering of pipes – metal cutting – shot blasting, grinding, painting – power press and other machines
+UNIT III:
+SAFETY MEASURES: Layout design and material handling - Use of electricity – Management of toxic gases and chemicals
+– Industrial fires and prevention – Road safety – highway and urban safety – Safety of sewage disposal and cleaning –
+Control of environmental pollution – Managing emergencies in industrial hazards.
+UNIT IV:
+ACCIDENT PREVENTION: Human side of safety – personal protective equipment – Causes and cost of accidents. Accident
+prevention programmes - Specific hazard control strategies - HAZOP – Training and development of employees – First Aid –
+Fire fighting devices – Accident reporting investigation.
+UNIT V:
+SAFETY, HEALTH, WELFARE & LAWS: Safety and health standards – Industrial hygiene – occupational diseases
+prevention - Welfare facilities – History of legislations related to safety to safety – pressure vessel act- Indian boiler act- The
+environmental protection act – Electricity act - Explosive act.
+Text Books:
+1. John V. Grimaldi and Rollin H. Simonds, ― Safety Management‖ , All India Travellers bookseller, New Delhi – 1989
+2. Krishnan N.V. ―Safety Management in Industry‖ Jaico Publishing House, 1996,
+39
+References:
+1. Occupational safety manual BHEL.
+2. Industrial safety and the law by P.M.C. Nair Publisher‘s, Trivandrum
+3. Managing emergencies in industries, Loss Prevention of India Ltd., Proceedings, 1999
+4. Safety security and risk management by U.K. Singh & J.M. Dewan, A.P.H. Publishing company, New Delhi, 1996.
+40
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY, HYDERABAD
+I Year – I Sem. M.Tech. (AMS & Automation) L P C
+Open Elective II 3 0 3
+(AUT41) PLASTICS AND COMPOSITES
+Course Prerequisites: Material Technology, Chemistry.
+Course Objectives:
+ The ability to learn the basic structure of plastic.
+ Understand the properties and the manufacturing of plastics.
+ Learn about the concept of machinability and joining of plastics.
+ The type of reinforcement and manufacturing technique of composites.
+Course outcomes:
+ Understand the structure-processing-property relationship of polymers.
+ Understand and apply various processing and manufacturing techniques.
+ Identify the steps involved in machining and joining of plastics.
+ Understand the preparation, application and type of reinforcement.
+ Understand the composite manufacturing processes.
+UNIT I:
+Chemistry and classification of polymers – properties of thermos plastics –properties of thermosetting plastics – applications –
+merits and disadvantages. Various plastic materials and their applications.
+UNIT II:
+Study of molding processes and mold design for:
+Extrusion – blow molding – casting - thermos forming – rotomolding.
+UNIT III:
+Study of molding processes and mold design for:
+Compression and transfer molding – injection molding.
+UNIT IV:
+General machining properties of plastics – machining parameters and their effect – joining of plastics – mechanical fasteners
+– thermal bonding – press fitting.
+UNIT V:
+Fibers – glass, boron, carbon, organic, ceramic and metallic fibers – matrix materials – polymers, metals and ceramics.
+Open mold processes, bag molding, compression molding with BMC and SMC – filament winding – pultrusion – centrifugal
+casting – injection molding – application of PMC‘s.
+Text Books & References:
+1. Harold belofsky, plastics, ―product design and process engineering‖, hanser publishers, 1995.
+2. Bera, E and Moet, A, ―high performance polymers‖, hanser publishers, 1991.
+3. Hensen, F, ―plastics extrusion technology‖, hanser publishers, 1988.
+4. Rauwendaal, C, ―polymer extrusion‖, hanser publishers, 1990.
+5. John dalmonte, ―plastics moulding‖, john wiley.
+6. Akira kobyashi, ―machining of plastics‖, Mc-Graw hill.
+7. Krishna K.chawla, ―composite materials science and engineering‖, springer-verlag, 1987.
+8. Agarwal. D. and Broutman L.J., ―analysis and performance of fiber composites‖, wiley, 1990.
+9. Mallick, P.K. and Newman, S, ―composite materials technology‖, hanser publishers, 1990.
+41
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY, HYDERABAD
+I Year – I Sem. M.Tech. (Automation) L P C
+Open Elective – II 3 0 3
+(AUT42) ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEMS
+Course Prerequisites: Mathematical foundations of Computer Science, Basic Mechanical Engineering
+Course Objectives:
+ Understand artificial intelligence ,search problem solving ,heunistic methods
+ Concepts and aspects of expert and intelligent tutoring systems.
+ Theory of state space learning ,game playing ,knowledge representative uncertainty.
+Course Outcomes:
+Students should be able to:
+ Describe search strategies and solve problems by applying a suitable search method.
+ Describe the key aspects of expert systems
+ Describe and apply knowledge representation
+UNIT I:
+Artificial Intelligence: Introduction, definition, underlying assumption, important of AI,AI & related fields State space
+representations, defining a problem, production systems and its characteristic, search and control strategies – Introduction,
+preliminary concepts, examples of Search problems.
+UNIT II:
+Uniformed or Preliminary Concepts: Examples of search problems, Uniformed or Blind Search, Informed Search, Or
+Graphs, Heuristic Search techniques – Generate and Test, Hill climbing, best first search, problem reduction, constraint
+satisfaction, Means – Ends Analysis.
+Knowledge Representation Issues: Representations and Mapping, Approaches, Issues in Kr, Types of Knowledge
+procedural Vs Declarative, Logic programming, Forward Vs Backward reasoning, Matching, Non monotonic reasoning and it
+logic.
+UNIT III:
+Use of Predicate Logic: Representing Simple facts, Instance and is a relationships, Syntax and Semantics for Propositional
+logic, FOPL, and properties of Wffs, conversion to casual form, Resolution Natural deduction
+Statistical and Probabilistic Reasoning: Symbolic reasoning under uncertainly, Probability and Bayes‘ theorem, Certainty
+factors and Rule based systems, Bayesian Networks, Dempster – Shafer Theory, Fuzzy Logic.
+UNIT IV:
+Expert Systems: Introduction, Structure and uses, Representing and using domain knowledge, Expert System shells.
+Pattern recognition, introduction, Recognition and classification process, learning classification patterns, recognizing and
+understanding speech.
+UNIT V:
+Introduction to Knowledge Acquisition: Types of learning, General Learning model, and performance measures.
+Typical Expert Systems: MYCIN, Variants of MYCIN, PROSPECTOR, DENDRAL, PUFF etc.
+Introduction to Machine Learning: Perceptions, Checker Playing examples, Learning, Automata, Genetic Algorithms,
+Intelligent Editors.
+Text Books & References:
+1. Artificial intelligence – Elaine Rich & Kevin Knight, M/H 1983.
+2. Artificial intelligence in business, Science & Industry – Wendry B.Ranch, Vol II application, Ph 1985.
+3. A guide to expert systems – waterman, D.A., Addison – Wesley inc.1986.
+4. Building expert systems – Hayes, Roth, Waterman, D.A(ed), AW 1983.
+5. Designing expert systems – weis, S.M. and Kulliknowske, London champion Hull 1984.
+42
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY, HYDERABAD
+I Year – II Sem. M.Tech. (Automation) L P C
+0 3 2
+(AUT52) AUTOMATION & ROBOTICS LABORATORY
+Course Prerequisites: Manufacturing processes, fluid and electric controllers, robot programming, mathematics.
+Course Objectives:
+ To conduct the experiments for understanding the working of hydraulic, pneumatic, electric
+and electronic controls used in automation.
+ To understand the concepts of PLC‘s, microcontrollers and automated transfer devices in
+automation by conducting experiments.
+ To demonstrate the robotics manipulator motions using the robotic programming and
+languages.
+.
+Course Outcomes:
+Students will be able to:
+ Design hydraulic and pneumatic controls.
+ Program PLC, microcontrollers, transfer devices.
+ Use robotic programming for robotic manipulation.
+Experiments to demonstrate:
+1. Pneumatic, hydraulic, electrical systems in automation
+2. Microprocessor applications in automated systems.
+3. Robotics Systems and Programming
+4. Automated transfer devices.
+5. Training on Programmable Logic Controllers
+43
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY, HYDERABAD
+I Year – II Sem M.Tech. (Automation) L T/P/D C
+0 0 4
+(AUT62) MINI PROJECT - II
+A mini project work shall be carried out on any topic of Automation and a seminar should be given on the same along with a
+brief report.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY, HYDERABAD
+II Year – II Sem M.Tech. (Automation) L T/P/D C
+0 0 4
+(AUT63) COMPREHENSIVE VIVA-VOCE
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY, HYDERABAD
+II Year – II Sem M.Tech. (Automation) L T/P/D C
+0 0 8
+(AUT71) DISSERTATION PHASE – I
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING & TECHNOLOGY, HYDERABAD
+II Year – II Sem M.Tech. (Automation) L T/P/D C
+0 0 18
+(AUT72) DISSERTATION PHASE – II
+44

@@ -1,0 +1,1045 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/A19/ME2.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY HYDERABAD
+B.TECH. II YEAR
+(MECHANICAL ENGINEERING)
+III SEMESTER A19
+Contact
+Course Code Title of the Course L T P/D Hours/ Credits
+Week
+Partial Differential Equations and Numerical
+A19BS1MT10 3 0 0 3 3
+Methods
+A19PC1ME01 Metallurgy and Materials Engineering 3 0 0 3 3
+A19PC1ME02 Manufacturing Processes 3 0 0 3 3
+A19PC1ME03 Fluid Mechanics and Machinery 3 0 0 3 3
+A19PC1ME04 Thermodynamics 3 1 0 4 4
+Metallurgy and Materials Engineering
+A19PC2ME01 0 0 2 2 1
+Laboratory
+A19PC2ME02 Manufacturing Processes Laboratory 0 0 3 3 1.5
+A19PC2ME03 Fluid Mechanics and Machinery Laboratory 0 0 3 3 1.5
+Total 15 1 8 24 20
+IV SEMESTER A19
+Contact
+Course Code Title of the Course L T P/D Hours/ Credits
+Week
+A19PC1ME05 Thermal Engineering 3 0 0 3 3
+A19PC1ME06 Kinematics of Machinery 3 1 0 4 4
+A19PC1ME07 Machine Tools and Metrology 3 0 0 3 3
+A19PC1ME08 Mechanics of Solids 3 0 0 3 3
+A19PC1ME09 Instrumentation and Control Systems 3 0 0 3 3
+A19PC2ME04 Thermal Engineering Laboratory 0 0 3 3 1.5
+A19PC2ME05 Machine Tools and Measurements Laboratory 0 0 3 3 1.5
+A19PC2ME06 Mechanics of Solids Laboratory 0 0 2 2 1
+Total 15 1 8 24 20
+A19MN6HS02 Environmental Science 2 0 0 2 0
+L – Lecture T – Tutorial P – Practical D – Drawing
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. III Semester L T/P/D C
+3 0 3
+(A19BS1MT10) PARTIAL DIFFERENTIAL EQUATIONS AND NUMERICAL METHODS
+(Common to ME and AE)
+COURSE PRE-REQUISITES: Differentiation, Integration
+COURSE OBJECTIVES:
+• To evaluate Fourier coefficients
+• To use method of separation of variables to solve second order Partial Differential
+Equations
+• To utilize numerical methods to solve non-linear systems
+• To know the various methods of interpolation and its application
+• To learn concepts of numerical differentiation and integration
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Determine the Fourier series for periodic functions
+CO-2: Solve the second order linear partial differential equations
+CO-3: Apply numerical methods to find a root of algebraic and transcendental
+equations
+CO-4: Find the interpolate value from the given set of data points
+CO-5: Evaluate problems based on numerical differentiation, integration and
+numerical solutions of ordinary differential equations
+UNIT – I:
+Fourier Series: Introduction of Fourier Series, determination of Fourier coefficients,
+Fourier series in an arbitrary interval, Fourier series for even and odd functions, Half
+range sine and cosine series
+UNIT – II:
+Partial Differential Equations of Second Order: Classifications of Second Order Partial
+differential Equations, Method of separation of variables, Applications: Problems of
+vibrating string- wave equation, Problems of one-dimensional heat equation,
+Problems of steady state two dimensional heat flow-Laplace equation.
+UNIT – III:
+Solutions of Non-linear Systems: Introduction; Mathematical preliminaries; Solution of
+algebraic and transcendental equations–bisection method, the method of false
+position, Fixed point iterative method, Newton - Raphson method, and their order of
+convergence.
+UNIT – IV:
+Interpolation: Introduction; Errors in polynomial interpolation; Finite differences;
+Forward differences; Backward differences; Central differences; Symbolic relations
+and separation of symbols; Differences of a polynomial; Newton’s formulae for
+interpolation; Central difference interpolation formulae; Gauss’s central difference
+formulae and Lagrange’s interpolation formulae.
+UNIT – V:
+Numerical Differentiation and Integration: Numerical differentiation based on
+interpolation, Numerical integration: Trapezoidal rule, Simpson’s 1/3 rule, and
+Simpson’s 3/8 rule, Gaussian quadrature 2 & 3-point formulae.
+UNIT – VI:
+Numerical Solutions of Ordinary Differential Equations: Solution of initial value problems
+by Taylor’s series - Picard’s method of successive approximations, Euler’s method,
+Modified Euler’s method and Runge - Kutta methods.
+TEXT BOOKS:
+1. Higher Engineering Mathematics, B. V. Ramana, McGraw-Hill
+2. Advanced Engineering Mathematics, Erwin Kreyszig, 8th Edition, John Wiley
+3. Introductory Methods of Numerical Analysis, S. S. Sastry, PHI learning Pvt. Ltd.
+REFERENCES:
+1. Advanced Engineering Mathematics, Peter ‘O’ Neil, Cengage Learning
+2. Advanced Engineering Mathematics, R. K. Jain and S. R. K. Iyengar, Narosa
+Publication
+3. Higher Engineering Mathematics, B. S. Grewal, 36th Edition, Khanna Publishers, 2010
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. III Semester L T/P/D C
+3 0 3
+(A19PC1ME01) METALLURGY AND MATERIALS ENGINEERING
+(Common to ME and AE)
+COURSE PRE-REQUISITES: Physics and Chemistry
+COURSE OBJECTIVES:
+• To understand the microstructures of different types of metal and alloys –cast iron,
+steels, non-ferrous metal and alloys
+• To understand the heat treatment principles-annealing, normalizing and
+hardening
+• To understand the different types of tools
+• To understand the importance of titanium & its alloys
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Distinguish different types of metals, solid solutions, alloys compounds and
+phases
+CO-2: Design a heat treatment process to change the properties-hardness, ductility,
+etc
+CO-3: Analyze the characters and failure of metals and alloys
+CO-4: Explain & justify the usage of composites in engineering field
+UNIT – I:
+Metal Structure and Crystallization: Introduction - atom binding, ionic bond, covalent
+bond, metallic bond, and Vander Waals forces; Crystal imperfections.
+Overview of Metal Structure and Crystallization.
+Constitution of Alloys: Introduction; Classification of alloys or compounds; Pure metal;
+Intermediate alloy phase or compound - intermetallic compounds or valency
+compounds, interstitial compounds, and electron compounds; Solid solutions;
+Substitution solid solution - factors that control the range of solubility in alloy system;
+Interstitial solid solutions.
+UNIT – II:
+Phase Diagrams: Introduction; Coordinates of phase diagrams; Experimental methods
+- construction of equilibrium diagrams by thermal analysis, metallographic methods,
+and X-ray diffraction; Type-I-Two metals completely soluble in the liquid and solid
+states; Chemical composition of phases; relative amounts of each phase; Equilibrium
+cooling of a solid solution alloy; Diffusion; Nonequilibrium cooling; Homogenization;
+Properties of solid-solution alloys; Variation of Type I; Type II-Two metals completely
+soluble in the liquid state and completely insoluble in the solid state; Type III-Two metals
+completely soluble in the liquid state but only partly soluble in the solid state; Properties
+of eutectic alloy systems; Age hardening – solution treatment, and aging process;
+Type IV-The congruent-melting intermediate phase; Type V-The peritectic reaction;
+Type VI-Two liquids partly soluble in the liquid state: the monotectic reaction; Type
+VII-two metals insoluble in the liquid and solid states; Interrelation of basic types;
+UNIT – III:
+The Heat Treatment of Steel: Introduction; Full Annealing; Spheroidizing; Stress-relief
+annealing; Process annealing; Normalizing; Hardening; The isothermal transformation
+diagram; Cooling curves and I-T Diagram; Transformation on continuous cooling;
+Position of the I-T curves, Hardening or austenitizing temperature, Mechanism of heat
+removal during quenching - vapor-blanket cooling state (stage A), vapor transport
+cooling stage (stage B), Liquid cooling stage (stage C); Quenching medium;
+Temperature of quenching medium, Surface condition - methods to minimize the
+formation of scale - copper plating, protective atmosphere, liquid-salt pots, and cast-
+iron chips; Size and Mass, Hardenability; Use of Hardenability data; Tempering;
+Austempering; Surface heat treatment or case hardening; Carburizing; Heat
+treatment after carburizing; Cyaniding and Carbonitriding; Nitriding; Flame
+hardening; Induction Hardening.
+UNIT – IV:
+Alloy Steels: Introduction; Purpose of alloying; Effect of alloying elements upon Ferrite;
+Effect of alloying elements upon carbide; Influence of alloying elements on the iron-
+iron carbide diagram; Effect of alloying elements in tampering; Classification of steels
+- nickel steel, chromium steel, nickel-chromium steels, manganese steels,
+molybdenum steels, tungsten steels, vanadium steels, silicon steels, stainless steels,
+martensitic stainless steels, ferritic stainless steels, austenitic stainless steels,
+precipitation-hardening stainless steels, maraging steels, and ausforming.
+Tool Steels: Classification of tool steels; Selection of tool steels; Comparative
+properties; Non-deforming properties; Depth of hardening; Toughness; Wear
+resistance; Red-hardness; Machinability; Resistance to decarburization; Brand names;
+Water-hardening tool steels (Group W); Shock resisting tool steels (Group S); Cold-work
+tool steels; Hot-work tool steels (Group H); High speed tool steels; Mold Steels (Group
+P); Special purpose tool steels; Heat treatment of tool steels; Overview of tool failures;
+Special cutting materials – satellites, cemented carbides, and ceramic tools.
+UNIT – V:
+Cast Iron: Introduction; Types of cast iron; White cast iron; Malleable cast iron; Pearlitic
+malleable iron; Gray cast iron; Silicon in cast iron; Sulfur in cast iron; Manganese in cast
+iron; Phosphorus in cast iron; Heat treatment of grey iron, Size and distribution of
+graphite flakes; Mechanical properties and applications of grey cast iron; Chilled cast
+iron; Nodular cast iron; Alloy cast irons.
+Non-Ferrous Metals and Alloys: Introduction; Copper and its alloys - Copper, temper
+designation of copper and copper alloys, and copper alloys; Aluminum and its alloys
+- Aluminum, Alloy designation system, and temper designation; Titanium and Titanium
+alloys.
+UNIT – VI:
+Composites: Introduction, classification of composites-Fibre reinforced composites,
+Pertial reinforced composites, Dispersion strengthened metals, laminates; Advanced
+Fibre reinforced composites –Metal matrix composites, Ceramic –matrix composites,
+Carbon - Carbon composites, Hybrid composites; Fabrication of Fibre- reinforced
+composites-Hand lay –up process, Filament winding process, Sheet- moulding
+compound process, continuous pultrusion process, resin transfer moulding, vacuum-
+bag moulding.
+TEXT BOOKS:
+1. Introduction to Physical Metallurgy, Sidney H. Avner, McGraw Hill
+2. Materials Science and Metallurgy, Kodgire, Everest
+REFERENCES:
+1. Essentials of Materials Science and Engineering, Donald R. Askeland and Thomson
+2. Materials Science and Engineering, William and Collister
+3. Elements of Materials Science, V. Raghavan
+4. Metallurgy and Material Science, Pakirappa
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. III Semester L T/P/D C
+3 0 3
+(A19PC1ME02) MANUFACTURING PROCESSES
+COURSE PRE-REQUISITES: Material Science, Manufacturing Science
+COURSE OBJECTIVES:
+• To understand about sand casting and metal casting techniques
+• To impart the knowledge of various welding processes
+• To evaluate the importance of rolling, forging and sheet metal operations
+• To analyze the processing of plastics
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Analyze and select the suitable casting technique for making the components
+CO-2: Analyze the different types of welding processes are needed for various
+materials and importance of welding
+CO-3: Apply the methods involved in sheet metal operations, rolling, forging etc
+CO-4: Apply the various manufacturing methods in processing of plastics
+UNIT – I:
+Casting: Steps involved in making a casting; Advantage of casting and its
+applications; Types of Foundry sands, Types of patterns – Materials used for patterns;
+Pattern allowances and their construction; Principles of Gating, Gating ratio and
+design of gating systems. Risers; Types; Casting design considerations;
+Special Casting Processes: Centrifugal, Die, Investment casting only, Cupola furnace
+and Electric arc furnace only.
+UNIT – II:
+Welding: Classification of welding processes, types of welds and welded joints, Gas
+welding, ARC welding, Resistance welding, Thermit welding and Plasma welding. TIG
+& MIG welding, Friction stir welding, Explosive welding, Soldering & Brazing. Heat
+affected zones in welding; welding defects.
+UNIT – III:
+Mechanical Working-1: Hot working; Cold working; Strain hardening; Recovery;
+Recrystallisation and grain growth; Comparison of properties of cold and hot worked
+parts.
+Rolling: Rolling fundamentals; Theory of rolling; Types of Rolling mills and products.
+UNIT – IV:
+Extrusion: Basic extrusion process and its characteristics; Hot extrusion and Cold
+extrusion; Forward extrusion and backward extrusion – Impact extrusion; Hydrostatic
+extrusion; Extrusion defects.
+Forging Processes: Principles of Forging; Tools and dies; Types of Forging; Smith forging;
+Drop Forging; Roll Forging; Rotary Forging; Forging defects.
+UNIT – V:
+Mechanical Working-2: Stamping, forming and other cold working processes:
+Blanking and piercing; Bending and forming; Drawing and its types; Wire drawing and
+Tube drawing; Coining; Hot and cold spinning
+UNIT – VI:
+Plastic Materials and Processes: Types of plastics; advantages of plastics, Injection
+moulding; Blow moulding; Thermoforming. Compression moulding.
+TEXT BOOKS:
+1. Manufacturing Technology, P. N. Rao
+2. Production Technology, R. K. Jain
+REFERENCES:
+1. Manufacturing Engineering and Technology, Kalpakjian S.
+2. Process and Materials of Manufacturing, Lindberg/PE
+3. Principles of Metal Castings, Rosenthal
+4. Welding Process, Parmar
+5. Production Technology, Sharma P. C.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. III Semester L T/P/D C
+3 0 3
+(A19PC1ME03) FLUID MECHANICS AND MACHINERY
+(Common to ME and AE)
+COURSE OBJECTIVES:
+• To understand the properties of fluids, principles of buoyancy, flow, force and
+head calculations
+• To evaluate of types of fluid flow, Laminar and dynamic
+• To know boundary layer principles applied to airfoils
+• To learn principles of operation of different types of hydraulic machinery
+• To understand hydraulic systems
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Analyze the fluid properties to solve flow, force and velocity problems
+CO-2: Evaluate the flow characterizing in static and dynamic nature of flow
+CO-3: Apply fluid flow and dynamics in solving problems in hydraulic machines
+CO-4: Understand the model analysis of hydraulic machinery and select appropriate
+machines for hydro power plant
+CO-5: Analyze the hydraulic systems
+UNIT – I:
+Fluid Statics: Properties of fluid – specific gravity, viscosity, surface tension, vapor
+pressure and their influence on fluid motion, Pressure at a point, measurement of
+pressure, Forces on immersed surfaces, Center of pressure, Buoyancy, Elements of
+stability of floating and submerged bodies.
+UNIT – II:
+Fluid Kinematics: Introduction, methods of describing the fluid motion, Classification
+of flows, acceleration equations, Stream line, path line and streak lines and stream
+tube, continuity equation, Stream function, velocity potential function, introduction to
+free and forced vortex flows.
+UNIT – III:
+Fluid Dynamics: Surface and body forces – Euler‘s and Bernoulli‘s equation,
+Venturimeter, Orifice meter, Pitot tube, Reynolds experiment –Darcy Weisbach
+equation – Minor losses in pipes – pipes in series and pipes in parallel. Momentum
+equation, force on pipe bends.
+UNIT – IV:
+Boundary Layer Theory: Development of boundary layer along a thin flat plate,
+laminar boundary layer and turbulent boundary layer, Laminar sub layer, boundary
+layer separation, Drag and lift forces - Aero foils, pressure and form drags.
+Impact of Jets: Hydrodynamic force of jets on flat, inclined and curved vanes - jet
+striking centrally and at tip, flow over radial vanes.
+UNIT – V:
+Hydraulic Turbines: Classification of turbines, design of Pelton wheel, Francis turbine
+and Kaplan turbine – working proportion, work done, efficiency, draft tube- theory,
+functions and efficiency. Geometric similarity, Unit and specific quantities,
+characteristic curves, governing of turbines, selection of type of turbine, cavitation,
+surge tank and water hammer, elements of hydropower plant.
+UNIT – VI:
+Hydraulic Pumps: Classification, centrifugal pumps – types, working, work done,
+monomeric head, losses and efficiency, specific speed – pumps in series and parallel
+– performance characteristic curves, NPSH, Reciprocating Pump – types, Working,
+Discharge, slip, indicator diagrams
+TEXT BOOKS:
+1. Hydraulics and Fluid Mechanics Including Hydraulics Machines, P. N. Modi, S. M.
+Seth
+2. Introduction to Fluid Mechanics, R. W. Fox, A. T. McDonald and P. J. Pritchard
+REFERENCES:
+1. Fluid Mechanics, V. L. Streeter & E. B. Wylie
+2. Fluid Mechanics, Fundamentals & Applications, Yunus A. Çengel, John M. Cimbala
+3. Fluid Mechanics, F. M. White
+4. Fundamentals of Fluid Mechanics, Bruce Roy Munson, Donald F. Young, Theodore
+H. Okiishi, Wade W. Huebsch, Wiley Publication
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. III Semester L T/P/D C
+3 1 4
+(A19PC1ME04) THERMODYNAMICS
+COURSE PRE-REQUISITES: Physics, Mathematics
+COURSE OBJECTIVES:
+• To apply the basic concepts of thermodynamics, heat and work done on the
+system
+• To apply the basic concepts of Thermodynamic Laws for various thermodynamic
+systems
+• To evaluate the properties of pure substance and to analyse the concept of
+irreversibility and availability
+• To apply the basic concept of power cycles for External combustion engines and
+internal combustion engines
+• To evaluate the behaviour of ideal gas mixtures and thermodynamic properties
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: To apply the basic concepts of thermodynamics, heat and work done on the
+system.
+CO-2: To apply the basic concepts of thermodynamic laws for various
+thermodynamic systems
+CO-3: To evaluate the properties of pure substance and analyse the concept of
+irreversibility and availability
+CO-4: To apply the basic concept of power cycles for external combustion engines
+and internal combustion engines
+CO-5: To evaluate the behaviour of ideal gas mixtures and thermodynamic properties
+UNIT – I:
+Concepts and Definitions: Thermodynamic system and control volume; Macroscopic
+versus microscopic point of view; Properties and state of a substance; Processes and
+cycles, Energy, Specific volume and density, Equality of temperature; The Zeroth law
+of thermodynamics; Temperature scales.
+Work and Heat: Definition of work; Units for work; Work done at the moving boundary
+of a simple compressible system; Other systems that involve work; Definition of heat;
+Heat transfer modes; Comparison of heat and work.
+UNIT – II:
+The First Law of Thermodynamics: The first law of thermodynamics for a control mass
+undergoing a cycle; The first law of thermodynamics for a change in state of a control
+mass; Internal energy-a thermodynamic property; Problem analysis and solution
+technique; Enthalpy; The constant-volume and constant-pressure specific heats; The
+internal energy, enthalpy, and specific heat of ideal gases; The first law as a rate
+equation.
+First Law Analysis for a Control Volume: Conversion of mass and the control volume,
+the first law of thermodynamics for a control volume, The steady-state process;
+Examples of steady-state processes.
+UNIT – III:
+The Second Law of Thermodynamics: Heat engines and refrigerators; The second law
+of thermodynamics; The reversible process; Factors that render processes irreversible;
+The Carnot cycle; Two propositions regarding the efficiency of a Carnot cycle; The
+thermodynamic temperature scale; The ideal-gas temperature scale; Ideal versus real
+machines.
+Entropy for a Control Mass: The inequality of Clausius; Entropy — a property of a
+system; The entropy of a pure substance; Entropy change in reversible processes; The
+thermodynamic property relation; Entropy change of an ideal gas; The reversible
+polytropic process for an ideal gas; Entropy change of a control mass during an
+irreversible process; Entropy generation; Principle of increase of entropy; Entropy as a
+rate equation.
+UNIT – IV :
+Irreversibility and Availability: Available energy; Available energy Referred to a cycle;
+Quality of energy; Maximum work in a reversible process; reversible work by an open
+system; Exchanging heat only with the surroundings; Useful work; Dead state;
+Availability; Availability in chemical reaction; Irreversibility and Gouy-stodola Theorem;
+Availability or Exergy Balance; second law efficiency;
+Properties of a Pure Substance: The pure substance; Vapor- liquid- solid- phase
+equilibrium in a pure substance; Independent properties of a pure substance; Steam
+Tables; Thermodynamic surfaces; The compressibility factor; Equations of state.
+UNIT – V:
+Power Cycles: Introduction to power systems; The Rankine cycle; Effect of pressure
+and temperature on the Rankine cycle; Air-standard power cycles; Basic Brayton
+cycle; The air-standard cycle for jet propulsion; Reciprocating engine power cycles;
+The Otto cycle; The Diesel cycle; The Dual cycle, The Stirling cycle; The Atkinson and
+Miller cycles.
+UNIT – VI:
+Properties of Gases and Gas Mixtures: Avogadro’s Law; Ideal Gas; Equation of State;
+Law of Corresponding; Properties of Mixture of Gases-Dalton’s Law of Partial Pressures;
+Internal Energy, Enthalpy, and Specific Heats of Gas Mixtures; Entropy of Gas Mixtures;
+Gibbs Function of a Mixture of Inert ideal Gas; Thermodynamic Property Relations:
+Mathematical relations for a homogeneous phase; The Maxwell relations;
+Thermodynamic relations involving enthalpy, internal energy,
+and entropy; The Clapeyron equation; Joule-Thompson coefficient.
+TEXT BOOKS:
+1. Engineering Thermodynamics, P. K. Nag, McGraw Hill
+2. Fundamentals of Thermodynamics, C. Borgnakke, R. E. Sonntag, and G. J. Van
+Wylen, John Wiley
+REFERENCES:
+1. Engineering Thermodynamics, Burgadt, Harper & Row Publication
+2. Thermodynamics - An Engineering Approach, Yunus Cengel and Boles, Tata
+McGraw Hill
+3. Engineering Thermodynamics, P. Chattopadhyay, Oxford University Press
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. III Semester L T/P/D C
+0 2 1
+(A19PC2ME01) METALLURGY AND MATERIALS ENGINEERING LABORATORY
+COURSE PRE-REQUISITES: Metallurgy and Material Science
+COURSE OBJECTIVES:
+• To understand the significance of microstructure of non-ferrous materials under
+microscopic testing
+• To understand the changes in microstructures after different heat treatments
+processes
+• To understand the significance of microstructure of ferrous materials under
+microscopic testing
+• To understand the changes processes of testing for different materials
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Test and Identify different microstructures of various materials
+CO-2: Prepare appropriate heat treatment for a given material by checking its
+microstructure
+CO-3: Conduct mechanical test on ferrous and non-ferrous materials for mechanical
+properties
+CO-4: Able to identify and analyze various mechanical properties for different
+mechanical applications
+LIST OF EXPERIMENTS:
+1. Preparation and study of the microstructure of metals like Iron, Cu and Al.
+2. Preparation and study of the microstructure of mild steels, low carbon steels, and
+high carbon steels.
+3. Study of the microstructures of cast irons.
+4. Study of the microstructures of non-ferrous alloys.
+5. Study of the microstructures of heat-treated steels.
+6. Hardenability of steels by Jominy end quench test.
+7. Study the micro structure of cutting tools.
+8. Study the micro structures of stainless steel.
+9. Study and test the mechanical properties of cutting tools.
+10. Comparing the mechanical properties through micro structure of weld metals
+11. Study of different micro structures under various stresses
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. III Semester L T/P/D C
+0 3 1.5
+(A19PC2ME02) MANUFACTURING PROCESSES LABORATORY
+COURSE PRE-REQUISITES: Production Technology
+COURSE OBJECTIVES:
+• To understand and evaluate casting techniques and sand properties
+• To understand different welding processes and their use
+• To understand different press working operations
+• To understand about the processing of plastics
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply the knowledge involved in casting techniques
+CO-2: Decide the selection of various welding techniques applicable for different
+materials
+CO-3: Integrate the knowledge involved in press working operations
+CO-4: Analyze the techniques involved in processing of plastics
+LIST OF EXPERIMENTS:
+ANY 10 EXPERIMENTS to be performed from the following:
+I. Metal Casting:
+1. Pattern Design and making - for one casting drawing
+2. Sand properties testing - Exercise -for strengths, and permeability – 2 Exercise
+3. Moulding, Melting and Casting - 1 Exercise
+II. Welding:
+1. Arc Welding Lap and Butt Joint - 2 Exercises
+2. Spot Welding - 1 Exercise
+3. TIG Welding - 1 Exercise
+4. MIG Welding - 1 Exercise
+5. Brazing - 1 Exercise
+III. Mechanical Press Working:
+1. Blanking and Piercing operations
+2. Bending operation
+IV. Processing of Plastics:
+1. Injection Molding
+2. Blow molding
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. III Semester L T/P/D C
+0 3 1.5
+(A19PC2ME03) FLUID MECHANICS AND MACHINERY LABORATORY
+(Common to ME and AE)
+COURSE PRE-REQUISITES: Fluid Mechanics and Hydraulic Machines
+COURSE OBJECTIVES:
+• To analyze the experiments to understand the concept, find the values and obtain
+the result of experiments
+• To apply fundamental principles of fluid mechanics for the solution of practical
+mechanical engineering problems of water conveyance in pipes, orifices, mouth
+pieces, notches & weirs
+• To analyze various pumps, water turbines, pipes and pressure measurement
+devices
+• To evaluate efficiency for pumps and turbines
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply fundamental equations of fluid mechanics for turbines and pumps
+CO-2: Model and analyse fluid flow problems in mechanical engineering
+CO-3: Create a model of fluid flow equipment
+CO-4: Evaluate the experimental results with theoretical concepts
+LIST OF EXPERIMENTS:
+ANY 10 EXPERIMENTS to be conducted from the following:
+1. Verification of Bernoulli’s theorem
+2. Calibration of Venturimeter / Orifice meter
+3. Calibration of notches
+4. Determination of friction factor for a given pipe
+5. Determination of Minor losses for the given equipment
+6. Impact of jet on vanes
+7. Performance test on Pelton wheel
+8. Performance test on Francis turbine
+9. Performance test on Kaplan turbine
+10. Performance test on single stage centrifugal pump
+11. Performance test on multistage centrifugal pump
+12. Performance test on reciprocating pump
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. IV Semester L T/P/D C
+3 0 3
+(A19PC1ME05) THERMAL ENGINEERING
+COURSE PRE-REQUISITES: Mathematics, Thermodynamics
+COURSE OBJECTIVES:
+• To analyse the actual cycles and systems of Internal Combustion Engine
+• To analyse the combustion phenomena in Spark Ignition and Compression Ignition
+Engines
+• To evaluate the performance parameters of internal combustion engines
+• To analyse working and the performance of reciprocating compressor
+• To evaluate the COP of different refrigeration cycles and to measure the
+psychrometric properties of air-conditioning system
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Analyse the actual cycles and compare it with the air standard cycle of the
+given engine
+CO-2: Analyse the combustion phenomena in Spark Ignition and Compression ignition
+engines
+CO-3: Evaluate the performance parameters (Brake power, Friction power, Torque,
+Efficiencies) of internal combustion engines
+CO-4: Analyse working and the performance of (Isothermal efficiency, volumetric
+efficiency) reciprocating compressor
+CO-5: Evaluate the COP of different refrigeration cycles and to measure the
+psychrometric properties of air
+UNIT – I:
+Actual Cycles and Their Analysis: Introduction, Comparison of Air Standard and
+Actual Cycles, Time Loss Factor, Heat Loss Factor, Exhaust blow down, Loss due to Gas
+exchange process, Volumetric Efficiency, Loss due to Rubbing Friction, Actual and
+Fuel-Air Cycles of I.C. Engines.
+UNIT – II:
+I. C. Engines: Classification, Working principles, Valve and Port Timing Diagrams, Air
+Standard, air-fuel and actual cycles, Engine systems; Fuel Systems, Simple Carburetor,
+Solex Carburetor, Fuel Injection Systems; Ignition systems, Battery ignition, Magneto
+ignition, Cooling and Lubrication systems.
+UNIT – III:
+Combustion in S. I. Engines: Homogeneous mixture, Heterogeneous mixture, Stages of
+combustion, Flame front propagation, Factors influencing the flame speed, Rate of
+pressure rise, Abnormal combustion, Phenomenon of Knock, Types of Combustion
+chambers, Fuel requirements and fuel rating
+Combustion in C. I. Engines: Combustion process, stages of combustion, Delay period
+and its importance, Factors affecting Delay period, Diesel Knock, Comparison of
+Knock in C.I and S.I engine, Combustion chambers in C.I. Engine, Fuel requirements
+and fuel rating.
+UNIT – IV:
+Testing and Performance: Measurement and Testing; Friction power, Indicated power,
+Brake power, Fuel consumption, Air consumption, Emissions Performance parameters;
+Engine power, Engine efficiencies, Engine performance characteristics, Heat
+Balance.
+UNIT – V:
+Reciprocating Air Compressors: Classification; Reciprocating Compressor: Principle of
+operation, Work required, Isothermal efficiency, Volumetric efficiency and effect of
+clearance, Multi stage compression with inter cooling, Saving of work, Minimum work
+condition for stage compression.
+UNIT – VI:
+Introduction to Refrigeration Cycle and Psychrometric Properties: Ideal Refrigeration
+cycles - Vapor compression refrigeration cycle, Bell Colman refrigeration cycle,
+Vapour Absorption Refrigeration System
+Psychrometric properties - Dry bulb temperature, Wet bulb temperature, Dew point
+temperature, Specific humidity, Relative humidity, Degree of saturation, Specific
+enthalpy, Psychrometric chart, (Indicating only Psychrometric processes on Chart)
+TEXT BOOKS:
+1. I. C. Engines, V. Ganesan, Tata McGraw-Hill
+2. Thermal Engineering, Mahesh M. Rathore, Tata McGraw-Hill
+REFERENCES:
+1. Refrigeration & Air Conditioning, C. P. Arora, Tata McGraw-Hill
+2. I. C. Engines, Heywood, Tata McGraw-Hill
+3. Thermal Engineering, Rajput, Lakshmi Publication
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. IV Semester L T/P/D C
+3 1 4
+(A19PC1ME06) KINEMATICS OF MACHINERY
+COURSE PRE-REQUISITES: Geometrical Construction, Engineering Mechanics
+COURSE OBJECTIVES:
+• To understand mechanisms for motion transmission
+• To understand the construction methods for drawing velocity and acceleration
+diagrams
+• To design engineering applications involving in selection, sizing of mechanism to
+accomplish motion objectives
+• To understand the mechanism involving cams, gears and gear trains
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Draw velocity and acceleration diagrams of various parts of a machine along
+with the transmission Mechanisms
+CO-2: Design components of machine parts, structures, gears, cams, belts, pulleys,
+etc. for kinematic analysis
+CO-3: Understand the straight-line motion mechanisms, Hooke’s joint and steering
+mechanisms
+CO-4: Design the mechanisms after analysis for safety and efficient working
+UNIT – I:
+Mechanisms and Machines: Elements or links-classification-rigid link, flexible and fluid
+link-types of kinematic pairs-sliding pairs, turning, rolling, screw and spherical pairs-
+lower and higher pairs-closed and open pairs-constrained motion-completely,
+partially or successfully constrained and incompletely constrained mechanisms
+Machines: Classification of machines- kinematic chain-inversion of mechanism-
+inversions of quadric cycle chain, single and double slider crank chains, Intermittent
+motion mechanisms.
+UNIT – II:
+Kinematics: Velocity and acceleration-motion of link in machine-Construction of
+velocity and acceleration diagrams-graphical method- Application of relative
+velocity method- four bar chain.
+Analysis of Mechanisms: Analysis of slider crank chain for displacement, velocity and
+acceleration of slider- acceleration diagram for a given mechanism, Klein’s
+construction, Coriolis acceleration, determination of Coriolis component of
+acceleration.
+Plane Motion of Body: Instantaneous center of rotation, centroids and axodes -
+relative motion between two bodies-Three centers in line theorem-Graphical
+determination of instantaneous centre, analysis of simple mechanisms and
+determination of linear velocity and angular velocity of links.
+UNIT – III:
+Mechanisms and Hooke’s Joint: Condition for correct steering –Davis steering gear,
+Ackerman’s steering gear-velocity -ratio - Single and double Hooke’s Joint- Universal
+coupling-applications- problems.
+Straight Line Motion Mechanisms: Exact and approximate-copied and generated
+types - Peaucellier, Hart and Scott Russell- Grasshopper- Watt-Tchebicheff and Robert
+mechanism and straight line motion, Pantograph.
+UNIT – IV:
+Cams: Definition of cam and followers-their uses-types of followers and cams-
+terminology-types of follower motion-uniform velocity-simple harmonic motion and
+uniform acceleration, maximum velocity and acceleration during outward and return
+strokes in the above three cases. Overview of polynomial motions, Analysis of motion
+of followers: roller follower- circular cam with straight, concave and convex flanks.
+UNIT – V:
+Higher Pairs: Friction wheels and toothed gears-types-law of gearing, condition for
+constant velocity ratio for transmission of motion, forms of teeth- Cycloidal and
+Involute profiles. Velocity of sliding-phenomena of interference-methods of
+interference, condition for minimum number of teeth to avoid interference, expression
+for arc of contact and path of contact- introduction to helical, bevel and worm
+gearing, Central distance for a pair of spiral gears. Efficiency of spiral gears.
+UNIT – VI:
+Gear Trains: Introduction-train value-types-simple, compound and reverted wheel
+trains – epicyclic gear train, methods of finding train value or velocity ratio-selection
+and determination of torque, differential gear box for an automobile.
+TEXT BOOKS:
+1. Theory of Machines, Thomas Bevan
+2. Theory of Machines, Rattan
+REFERENCES:
+1. Theory of Machines, P. L. Ballaney
+2. Theory of Machines, R. S. Khurmi & J. K. Gupta
+3. Theory of Machines, Sadhu Singh
+4. Theory of Machines, Shigley
+5. Mechanism and Machine Theory, J. S. Rao and R. V. Dukkipati
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. IV Semester L T/P/D C
+3 0 3
+(A19PC1ME07) MACHINE TOOLS AND METROLOGY
+COURSE PRE-REQUISITES: Production Technology and Engineering Materials
+COURSE OBJECTIVES:
+• To understand about the importance of metal cutting and cutting tools
+• To understand different types of machine tools and the operations
+• To learn about broaching, gear cutting, metal finishing processes
+• To learn the measurement standards and methods of measurement
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Acquire basic knowledge on metal cutting, tools and the type of cutting tool
+materials in machining
+CO-2: Understand various types of machine tools, principles and the operations
+performed
+CO-3: Knowledge of broaching, gear cutting and finishing operations- grinding and
+super finishing operations
+CO-4: Understand the measurement principles and methods
+MACHINE TOOLS
+UNIT – I:
+Introduction: Material removal processes, Types of Machine Tools; Types of cutting
+tools (Single and multi-point) and Nomenclature of Single point cutting tools.
+Metal Cutting: Chip Formation, Shear Zone, Orthogonal & oblique Cutting, Merchant
+circle diagram (construction only), Tool Wear and Tool Life; Surface Finish; types of
+Cutting Tool Materials.
+UNIT – II:
+Machine Tools:
+Centre Lathe: Constructional Features of a Centre Lathe, Cutting Tools, Operations
+Performed in a Centre Lathe.
+Special Purpose Lathes: Limitations of a Centre Lathe, Capstan and Turret Lathes-
+construction and differences.
+UNIT – III:
+Milling: Types of Milling Machines, Milling Cutters and Milling Operations.
+Hole Making Operations: Types of hole-making operations (basic).
+Drilling: Twist drill geometry; Types of drills; Drilling machine types.
+Boring: Principle and types of boring machines- horizontal boring and Jig boring
+machines.
+Reciprocating Machine Tools: Introduction of Shaper, Slotter and Planer.
+UNIT – IV:
+Other Machine Tools:
+Broaching: Principle and Types of Broaching, Gear Cutting methods(basics), Gear
+Hobbing (principle & operation)
+Grinding & Superfinishing Processes: Grinding: Principle of grinding; Types of Grinding
+Machines- Cylindrical grinding, Centerless Grinding & Surface Grinding processes;
+Superfinishing: Basics of Honing, Lapping and Superfinishing.
+METROLOGY
+UNIT – V:
+Systems of Limits and Fits: Introduction, normal size, tolerance limits, deviations,
+allowance, fits and their types – unilateral and bilateral tolerance system, hole and
+shaft basis systems – interchangeability and selective assembly.
+Linear Measurement: Limit Gauges; Go and No go gauges- plug, ring, snap, gap,
+taper, profile position gauges and slip gauges;
+Angular Measurement: sine bar, spirit level, angle slip gages and sine plate.
+UNIT – VI:
+Screw Thread Measurement: Elements of measurement; Measurement of- effective
+diameter, angle of thread and thread pitch.
+Gear Measurement: Gear measuring instruments, Gear tooth profile measurement.
+Measurement of diameter, pitch pressure angle and tooth thickness
+Optical Measuring Instruments: Tool maker’s microscope and its uses; optical projector
+Surface Roughness Measurement: Differences between surface roughness and
+surface waviness; Numerical assessment of surface finish – CLA, R.M.S Values, Rz
+values; Measurement of surface finish.
+TEXT BOOKS:
+1. Manufacturing Technology, Vol. 2, Metal Cutting and Machine Tools, P. N. Rao,
+Tata McGraw Hill
+2. Engineering Metrology, R. K. Jain, Khanna
+3. Engineering Metrology, I. C. Gupta, Dhanpat Rai
+REFERENCES:
+1. Manufacturing Engineering and Technology, Serope Kalpak Jian, Pearson
+Learning
+2. A textbook of Manufacturing Technology (Manufacturing Processes), Laxmi
+Publications, R. K. Rajput
+3. Fundamentals of Modern Manufacturing, Mikell P. Groover
+4. Production Technology, R. K. Jain & S. C. Gupta
+5. BIS standards on Limits and Fits, Surface Finish, Machine Tool Alignment etc.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. IV Semester L T/P/D C
+3 0 3
+(A19PC1ME08) MECHANICS OF SOLIDS
+COURSE PRE-REQUISITES: Mathematics, Physics and Engineering Mechanics
+COURSE OBJECTIVES:
+• To list and define the Material properties and show the relationships between them
+• To describe principles of Mechanics, Stress and Strain
+• To demonstrate throughly the concepts of principal stresses applied to solid
+structural members and Mohr’s circle diagram
+• To analyse various types of mechanical engineering problems concern to bending
+of beams, torsion of shafts etc.
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Show basic stress strain equations with appropriate assumptions
+CO-2: Interpret model and analyze solid mechanics problems on bars, beams and
+shafts
+CO-3: Apply the concepts of principal stresses in real life design issues
+CO-4: Analyse and develop beams, shafts for various applications
+UNIT – I:
+Tension, Compression, and Shear: Introduction; Normal Stress and Strain; Stress-strain
+diagrams; Elasticity and plasticity; Linear elasticity and Hooke’s law; Allowable stress
+and allowable loads.
+Axially Loaded Members: Introduction; Deflections of axially loaded members; Strain
+energy; Dynamic loading.
+Thermal Stresses
+UNIT – II:
+Shear Force and Bending Moment Diagrams: Types of beams; Types of loading; Shear
+force and bending moment; Relationship between load, shear force and bending
+moment; Shear force and bending moment diagrams.
+UNIT – III:
+Area Moment of Inertia of Composite Sections:
+Stresses in Beams: Introduction; Normal strains in beams; Normal stresses in beams;
+Cross-sectional shapes of beams-C, angular and semicircle structures; Shear stresses
+in rectangular beams; Shear stress in webs of beams with flanges; Shear stress in
+circular beams (solid and hollow sections); Concept of shear center and shear flow.
+UNIT – IV:
+Analysis of Stress and Strain: Introduction; Plane stress; Principal stresses and maximum
+shear stresses; Mohr’s circle for plane stress; Hooke’s law for plane stress; Spherical and
+cylindrical pressure vessels (biaxial stress; Hoop and longitudinal stresses); Combined
+loadings (plane stress); Principal stresses in beams.
+UNIT – V:
+Deflections of Beams: Introduction; Differential equations of the deflection curve;
+Deflections by integration of the bending moment equation; Deflections by
+integration of the shear-force and load equations; Macaulay’s method; Moment area
+method; Method of superposition.
+UNIT – VI:
+Columns: Short columns, Euler’s theory for axially loaded elastic long columns,
+Effective length, Limitations of Euler’s Theory, Rankine’s formula
+Torsion: Introduction; Torsion of circular bars; Non uniform torsion; Pure shear;
+Relationship between modulus of elasticity E and G; Transmission of power by circular
+shafts.
+TEXT BOOKS:
+1. Mechanics of Materials, Gere J. M., Goodno B. J., Cengage Learning, 2012
+2. Strength of Materials, S. S. Rattan, Tata McGraw-Hill Education, 2nd Edition, 2011
+REFERENCES:
+1. Engineering Mechanics of Solids, Popov E. P., Prentice Hall of India Private Limited,
+2004
+2. Mechanics of Materials, Beer F. P., Johnson E. R., and DeWolf J. T., Tata McGraw-
+Hill, 2004
+3. Strength of Materials, Schaum’s Series, 6th Edition, Mcgraw-Hill Book Company
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. IV Semester L T/P/D C
+3 0 3
+(A19PC1ME09) INSTRUMENTATION AND CONTROL SYSTEMS
+COURSE PRE-REQUISITES: Metrology
+COURSE OBJECTIVES:
+• To provide basic knowledge in transduction principles, sensors and transducer
+technology and measurement systems
+• To provide better familiarity with the Theoretical and Practical concepts of
+automation in industries
+• To provide familiarity with different sensors and their application in real time
+applications
+• To provide the knowledge of various measurement methods of industrial
+parameters like velocity, acceleration, torque, pressure, flow, temperature etc.
+and control of the same
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Know instrumentation system used in the industry
+CO-2: Appreciate the automation with the help of instrumentation
+CO-3: Understand the experimental applications and selecting appropriate
+engineering modules
+CO-4: Develop aptitude for self-learning and modern technical skills beyond the
+curriculum
+UNIT – I:
+Definition: Basic principles of measurement - Measurement systems, generalized
+configuration and functional descriptions of measuring instruments - examples.
+Dynamic performance characteristics - sources of error, Classification and elimination
+of error,
+UNIT – II:
+Measurement of Displacement: Theory and construction of various transducers to
+measure displacement - Piezo electric, Inductive, capacitance, resistance, ionization
+and Photo electric transducers, Calibration procedures.
+Measurement of Temperature:
+Classification - Ranges - Various Principles of measurement - Expansion, Electrical
+Resistance - Thermistor - Thermocouple - Pyrometers - Temperature Indicators.
+UNIT – III:
+Measurement of Pressure: Units - classification - different principles used. Manometers,
+Piston, Bourdon pressure gauges, Bellow - Diaphragm gauges. Low pressure
+measurement - Thermal conductivity gauges - ionization pressure gauges, Mcleod
+pressure gauge.
+Measurement of Level: Direct method - Indirect methods capacitive, ultrasonic,
+magnetic, cryogenic fuel level indicators - Bubble level indicators.
+Flow Measurement: Rotameter, magnetic, Ultrasonic, Turbine flow mete Hot - wire
+anemometer, Laser Doppler Anemometer (LDA).
+UNIT – IV:
+Measurement of Speed: Mechanical Tachometers Electric tachometers -
+Stroboscope, Non- contact type of tachometer. Measurement of Acceleration and
+Vibration: Different simple instruments - Principles of Seismic instruments - Vibrometer
+an accelerometer using this principle.
+Stress Strain Measurements: Various types of stress and strain measurements -
+electrical strain gauge - gauge factor - method of usage of resistance strain gauge
+for bending compressive and tens) strains - usage for measuring torque, Strain gauge
+Rosettes.
+UNIT – V:
+Measurement of Humidity: Moisture content of gases, all psychrometer, Absorption
+psychrometer, Dew point meter Measurement of Force, Torque and Power: Elastic
+force meters, lo cells, Torsion meters, Dynamometers.
+UNIT – VI:
+Elements of Control Systems: Introduction, Importance -Classification - Open and
+closed systems Servomechanisms Examples with block diagrams - Temperature,
+speed and position control systems.
+TEXT BOOKS:
+1. Measurement Systems: Applications & Design, D. S. Kumar, Anuradha Agencies
+2. Instrumentation, Measurement & Analysis, B. C. Nakra & K. K. Choudhary, TMH
+REFERENCES:
+1. Instrumentation and Control Systems, S. Bhaskar, Anuradha Agencies
+2. Experimental Methods for Engineers, Holman, McGraw-Hill Education
+3. Mechanical and Industrial Measurements, R. K. Jain, Khanna Publishers
+4. Mechanical Measurements, Sirohi and Radhakrishna, New Age
+5. Instrumentation & Mechanical Measurements, A. K. Tayal,
+Galgotia Publications
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. IV Semester L T/P/D C
+0 3 1.5
+(A19PC2ME04) THERMAL ENGINEERING LABORATORY
+COURSE PRE-REQUISITES: Thermodynamics, Thermal Engineering
+COURSE OBJECTIVES:
+• To measure the performance parameters and draw its characteristic curve for a
+diesel engine
+• To measure the performance parameters and draw its characteristic curve for a
+petrol engine
+• To measure the performance parameters of reciprocating compressor
+• To evaluate the COP of refrigeration and Air conditioning system
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: To measure the Performance parameters like Brake Power, Indicated Power,
+friction power, specific fuel consumption, volume flow rate of air into the engine
+cylinder and specific heat of the exhaust gases and to calculate the various heat
+losses in the engine
+CO-2: To measure the Performance parameters like Brake Power, Indicated Power,
+friction power, specific fuel consumption, volume flow rate of air into the cylinder and
+specific heat of the exhaust gases and draw its characteristic curve for a petrol engine
+CO-3: To measure the Performance parameters of reciprocating compressor like mass
+flow rate of air in the compressor, power consumed by the compressor, volumetric
+efficiency and Isothermal efficiency
+CO-4: To evaluate the COP of refrigeration system based on the experimental value
+as well as the P-H chart and to evaluate COP Air conditioning system based on the
+experimental value and by using the Psychrometric chart for air
+LIST OF EXPERIMENTS:
+ANY 10 EXPERIMENTS to be conducted from the following:
+1. Valve Timing Diagram on Single Cylinder Four Stroke Diesel Engine.
+2. Port Timing Diagrams on Single Cylinder Two Stroke Petrol Engine.
+3. Performance Test on Single Cylinder Four Stroke Diesel Engine.
+4. Heat Balance Test on Single Cylinder Four Stroke Diesel Engine.
+5. Measurement of Optimum Cooling Water Temperature on Single Cylinder Four
+Stroke Diesel Engine.
+6. Performance Test on Four Stroke Twin Cylinder Diesel Engine.
+7. Performance Test on Four Stroke Multi Cylinder Petrol Engine.
+8. Heat Balance Test on Four Stroke Multi Cylinder Petrol Engine.
+9. Measurement of Air/Fuel Ratio and Volumetric Efficiency on Multi Cylinder Four
+Stroke Petrol Engine.
+10. Evaluation of Engine Friction by Conducting Morse Test on Four Stroke Multi
+Cylinder Petrol Engine.
+11. Performance Test on Single Cylinder Two Stroke Petrol Engine.
+12. Performance Test on Reciprocating Air – Compressor Test Rig.
+13. Performance Test on Air Conditioning Test Rig.
+14. Performance Test on Refrigeration Test Rig.
+15. Dis-assembly / Assembly of I.C Engines.
+16. Performance Test on Computerized Diesel Engine.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. IV Semester L T/P/D C
+0 3 1.5
+(A19PC2ME05) MACHINE TOOLS AND MEASUREMENTS LABORATORY
+COURSE PRE-REQUISITES: Machine tools, Metrology and Engineering Materials
+COURSE OBJECTIVES:
+• To learn the principles of various machine tools and their accessories
+• To learn to grind the cutting tools on tool and cutter grinder
+• To know various methods of measurements
+• To know the thread profile and surface roughness profile measurement
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Perform operations on different Machine tools
+CO-2: Knowledge of tool grinding using tool and cutter grinder
+CO-3: Knowledge of different methods of Measurements in different machining
+operations
+CO-4: Analyze the thread profile and surface roughness profile
+LIST OF EXPERIMENTS:
+MACHINE TOOLS:
+ANY FIVE EXPERIMENTS from the following.
+1. Exercise on Facing, turning, step turning and taper turning on lathe machine
+2. Exercise on Grooving, Thread cutting and knurling on lathe machine.
+3. Exercise on Drilling, Counter sinking and Tapping operations on drilling machine
+4. Exercise on Shaping to prepare plain surfaces
+5. Exercise on Slotting to prepare keyway slot (internal/ external)
+6. Exercise on Milling to perform plain /gear cutting
+7. Exercise on Grinding of Tool angles.
+8. Exercise on Cylindrical Surface Grinding
+METROLOGY:
+ANY FIVE EXPERIMENTS from the following.
+1. Measurement of lengths, heights, diameters by vernier calipers micrometers etc.
+2. Measurement of bores by internal micrometers and dial bore indicators.
+3. Use of gear teeth, Vernier calipers and checking the chordal addendum and
+chordal height of spur gear.
+4. Use of spirit level in finding the flatness of surface plate.
+5. Thread measurement by two wire/ three wire method or tool makers’ microscope.
+6. Tool makers microscope and its application
+7. Angle and taper measurements by bevel protractor, sine bars, etc.
+8. Surface roughness measurement
+9. Machine tool alignment test on a lathe.
+10. Machine tool alignment test on a milling machine.
+11. Surface wear resistances test using electro spark coating device.
+REFERENCES:
+1. Workshop Technology, W. A. J. Chapman (Parts I, II, and III), Viva Books
+2. The Principles of Metallographic Laboratory Practice, George L. Kehl, McGraw Hill
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. IV Semester L T/P/D C
+0 2 1
+(A19PC2ME06) MECHANICS OF SOLIDS LABORATORY
+COURSE PRE-REQUISITES: Engineering Mechanics, Mechanics of Solids
+COURSE OBJECTIVES:
+• To analyze the various tests to be conducted on engineering materials
+• To the significance of tests in evaluating the corresponding mechanical properties
+• To analyze the importance of technical parameters used during tests
+• To applying the concepts learned in the real time
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply the theoretical concepts by conducting the tests on different materials
+CO-2: Evaluate the result of test and comment on the mechanical properties of
+materials
+CO-3: Decide a material and an appropriate test suitable for given application
+CO-4: Analyze the significance of the tests in different fields of engineering
+LIST OF EXPERIMENTS:
+1. Direct tension test
+2. Bending test on simply supported beam
+3. Bending test on cantilever beam
+4. Torsion test
+5. Brinell hardness test
+6. Rockwell hardness test
+7. Test on close coiled helical spring
+8. Compression test on a cube
+9. Charpy Impact test
+10. zod Impact test
+11. Direct shear test
+12. Mechanical advantage of simple screw jack
+13. Moment of Inertia of a fly wheel
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. IV Semester L T/P/D C
+0 2 0
+(A19MN6HS02) ENVIRONMENTAL SCIENCE
+COURSE PRE-REQUISITES: Basic knowledge of environmental issues
+COURSE DESCRIPTION:
+Environmental science is the study of patterns and processes in the natural world and
+their modification by human activity. We as human beings are not an entity, separate
+from the environment around us, rather we are a constituent seamlessly integrated
+and co-exist with the environment around us. To understand current environmental
+problems, we need to consider physical, biological and chemical processes that are
+often the basis of those problems. The course requires the students to identify and
+analyse natural and human- made environmental problems, evaluate the relative
+risks associated with these problems, and examine alternative solutions for resolving or
+preventing them. This course will survey some of the many environmental science
+topics at an introductory level, ultimately considering the sustainability of human
+activities on the planet. We are not an entity so separate from the environment that
+we can think of mastering and controlling it rather we must understand that each and
+every action of ours reflects on the environment and vice versa.
+COURSE OBJECTIVES:
+• To recognize the impacts of human interventions towards environment
+• To list out the benefits in creating a sustainable environment
+• To sketch out various activities in achieving a cleaner environment
+• To emphasize the role of an individual for a better planet to live
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Gain a variety of experiences & acquire a basic knowledge about the
+environment & its allied problems
+CO-2: Interpret the key components in safe guarding the environment
+CO-3: Appraise the quality of environment in order to create a healthy atmosphere
+CO-4: Familiarize with the individual responsibilities towards green revolution
+MODULE 1: INTRODUCTION
+Environmental Science: Introduction, Definition, scope and importance.
+MODULE 2: AWARENESS ACTIVITIES
+Small group meetings about:
+• Water management
+• Projects Vs Environment
+• Generation of less waste
+• Promotion of recycle use
+• Impact of Science & Technology on Environment
+• Avoiding electronic waste
+MODULE 3: SLOGAN AND POSTER MAKING EVENT
+• Food waste management
+• Rain water harvesting
+• Climate change
+• Green Power
+• Water conservation
+• Green at work
+• Role of IT in environment and human health
+• Sustainable development
+MODULE 4: EXPERT LECTURES ON ENVIRONMENTAL SCIENCE
+• Environmental Impact Assessment
+• Industrial waste treatment
+• Organic farming/Vertical gardens/Hydroponics
+MODULE 5: CLEANLINESS DRIVE
+• Indoor air pollution
+• Vehicular pollution
+• VISUAL pollution
+• Waste management at home
+• Composting
+• Plastic recycling
+MODULE 6: CASE STUDIES
+• HPCL disaster in Vizag
+• Oleum gas leak in Delhi
+• Mathura Refinery & Taj Mahal
+• Conservation of Hussain Sagar lake
+• The Cleanliest city of India-Surat
+• Green Buildings in India
+• KBR park in Hyderabad (Environmental protection Vs Development)
+• Fluorosis
+• Ecotourism & its impacts
+TEXT BOOKS:
+1. Environmental Studies for UG Courses, Erach Bharucha, UGC Publications, Delhi,
+2004
+2. Textbook of Environmental Studies, Deeksha Dave, S. S. Katewa, Cengage Delmar
+Learning India Pvt., 2012
+REFERENCES:
+1. Introduction to Environmental Science, Y. Anjaneyulu, BS Publications, 2004
+2. Environmental Studies, Anubha Kaushik & C. P. Kaushik, 4th Edition, New Age
+International Publishers

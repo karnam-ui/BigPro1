@@ -1,0 +1,1245 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/syllabus-books/Mtech-R25/M.TECH-I-SEM-CNIS-R25.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. I YEAR COURSE STRUCTURE AND SYLLABUS
+(COMPUTER NETWORKS & INFORMATION SECURITY)
+I SEMESTER R25
+Course
+Course Type Name of the Course L T P Credits
+Code
+Professional
+25PC1CN01 Advanced Computer Networks 3 0 0 3
+Core-I
+Professional Cryptography and Network
+25PC1CN02 3 0 0 3
+Core-II Security
+Professional
+25PC1CN03 Advanced Programming 3 0 0 3
+Core-III
+25PE1CN01 Design of Internet of Things
+25PE1CN02 Network Coding Theory
+Professional
+25PE1CN03 Quantum Cryptography 3 0 0 3
+Elective-I
+25PE1CN04 Digital Payment Systems
+25PE1CN05 Java Programming
+25PE1CN06 Distributed Systems
+25PE1CN07 Mobile Computing
+Professional 25PE1CN08 Operating Systems Security 3 0 0 3
+Elective-II
+Artificial Intelligence and
+25PE1CN09
+Applications
+25PE1CN10 User Authentication Techniques
+Professional Networks and Information
+25PC2CN01 0 0 2 1
+Core Lab-I Security Laboratory
+Professional Advanced Programming
+25PC2CN02 0 0 2 1
+Core Lab-II Laboratory
+Communication English for Academic and
+25SD5EN01 0 0 2 1
+Skills Research Writing
+Project 25PW4CN01 Technical Seminar 0 0 4 2
+Mandatory 25MN6HS01 Research Methodology and IPR 2 0 0 0
+Total 17 0 10 20
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. I YEAR COURSE STRUCTURE AND SYLLABUS
+(COMPUTER NETWORKS & INFORMATION SECURITY)
+II SEMESTER R25
+Course
+Course Type Name of the Course L T P Credits
+Code
+Professional
+25PC1CN04 Advanced Data Structures 3 0 0 3
+Core-IV
+Professional Vulnerability Analysis and
+25PC1CN05 3 0 0 3
+Core-V Hacking
+Professional
+25PC1CN06 Machine Learning and Security 3 0 0 3
+Core-VI
+Computer Forensics and Cyber
+25PE1CN11
+Security
+Information Systems Security and
+25PE1CN12
+Risk Management
+Professional
+25PE1CN13 Software Defined Networks 3 0 0 3
+Elective-III
+25PE1CN14 Cloud Security
+25PE1CN15 Mobile Application Security
+25PE1CN16 Intrusion Detection
+25PE1CP22 Blockchain Technology
+Professional 25PE1CN17 Cryptanalysis 3 0 0 3
+Elective-IV
+25PE1CN18 Network Programming
+25PE1CN19 TCP/IP Protocol Suite
+Professional Advanced Data Structures and
+25PC2CN03 0 0 2 1
+Core Lab-III Ethical Hacking Laboratory
+Professional Machine Learning and Security
+25PC2CN04 0 0 2 1
+Core Lab-IV Laboratory
+Industry
+25SD5CN01 Industry Engagement 0 0 2 1
+Engagement
+Project 25PW4CN02 Mini-Project 0 0 4 2
+Mandatory 25MN6HS02 Ancient Wisdom 2 0 0 0
+Total 17 0 10 20
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. II YEAR COURSE STRUCTURE AND SYLLABUS
+(COMPUTER NETWORKS & INFORMATION SECURITY)
+III SEMESTER R25
+Course Course
+Name of the Course L T P Credits
+Type Code
+25PE1CN20 Wireless Networks
+Network Management Systems
+25PE1CN21
+and operations
+Professional
+25PC1SE03 Big Data Analytics 3 0 0 3
+Elective-V
+25PE1CN22 Network Design
+Information Systems Control and
+25PE1CN23
+Audit
+25OE1CN01 Business Analytics
+25OE1AM01 Industrial Safety
+Open
+25OE1AM02 Operations Research 3 0 0 3
+Elective
+25OE1AM03 Entrepreneurship and Startups
+25OE1PS01 Waste to Energy
+Project 25PW4CN03 Project Part - I 0 0 16 8
+Total 6 0 16 14
+IV SEMESTER R25
+Course Course
+Name of the Course L T P Credits
+Type Code
+Project 25PW4CN04 Project Part - II 0 0 28 14
+Total 0 0 28 14
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC1CN01) ADVANCED COMPUTER NETWORKS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To provide advanced background on relevant computer networking topics to
+have a comprehensive and deep knowledge in computer networks
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understanding of holistic approach to computer networking
+CO-2: Ability to understand the computer network protocols and their applications
+CO-3: Ability to design simulation concepts related to packet forwarding in networks
+UNIT – I:
+Data-link protocols: Ethernet, Token Ring and Wireless (802.11). Wireless Networks and
+Mobile IP: Infrastructure of Wireless Networks, Wireless LAN Technology IEEE 802.11
+Standard, Cellular Networks, Mobile IP, Multiple access schemes.
+Routing and Internetworking: Network–Layer Routing, Least-Cost-Path algorithms,
+Non-Least-Cost-Path algorithms, Intra-domain Routing Protocols, Inter-domain Routing
+Protocols, Congestion Control at Network Layer.
+UNIT – II:
+Transport and Application Layer Protocols: Client-Server and Peer-To-Peer Application
+Communication, Protocols on the transport layer, reliable communication. Routing
+packets through a LAN and WAN. Transport Layer, Transmission Control Protocol (TCP),
+User Datagram Protocol (UDP), Mobile Transport Protocols, TCP Congestion Control.
+Principles of Network Applications,
+UNIT – III:
+The Web and HTTP, File Transfer: The Web and HTTP, FTP, Electronic Mail in the Internet,
+Domain Name System (DNS), P2P File Sharing, Socket Programming with TCP and UDP.
+UNIT – IV:
+Wireless and Mobile Networks: Introduction, Wireless links and Network Characteristics
+- CDMA, Wifi: 802.11 Wireless LANS, Cellular internet access, Mobility management:
+Principles
+UNIT – V:
+Multimedia networking: Multimedia networking applications, streaming stored video,
+Voice-over-IP, Protocols for real-time conversational applications.
+TEXT BOOKS:
+1. Computer Networking: A Top-Down Approach, James F. Kuros and Keith W. Ross,
+Pearson, 6th Edition, 2012
+2. Computer Networks and Internets, Duglas E. Comer, 6th Edition, Pearson
+REFERENCES:
+1. A Practical Guide to Advanced Networking, Jeffrey S. Beasley and Piyasat
+Nilkaew, Pearson, 3rd Edition, 2012
+2. Computer Networks, Andrew S. Tanenbaum, David J. Wet
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC1CN02) CRYPTOGRAPHY AND NETWORK SECURITY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: A Course on “Computer Networks and Applied
+Mathematics”
+COURSE OBJECTIVES:
+• To understand the cryptography fundamentals
+• To differentiate symmetric / asymmetric cryptographic techniques
+• To analyze various security mechanisms using cryptographic primitives
+• To apply security mechanisms to networked systems and to be familiar with threat
+defensive solutions like firewalls and intrusion detection systems
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Remember the overview of security principles, services and mechanisms
+CO-2: Understand cryptography algorithms, network security issues and applications
+CO-3: Analyze different authentication algorithms and secure key distributions
+CO-4: Evaluate the security at network layers to meet the skills required for industrial
+need
+UNIT-I:
+Information Security: Introduction, Security Goals, Security Attacks (Interruption,
+Interception, Modification and Fabrication), Security Services (Confidentiality,
+Authentication, Integrity, Non-repudiation, Access Control and Availability) and
+Security Mechanisms, CNSS Security Model.
+Classical Encryption Techniques, Symmetric and Asymmetric Key Cryptography,
+Cryptanlysis, Steganography.
+UNIT-II:
+Symmetric Key Cryptography: DES Structure, DES Security Analysis, Variants of DES, AES
+Structure, Analysis of AES, Block Cipher Modes of Operation, Blowfish.
+Asymmetric Key Cryptography: Public Key Cryptography Principles, RSA Algorithm,
+Analysis of RSA.
+UNIT-III:
+Key Management: Key Management Techniques, Diffie-Hellman Key Exchange,
+Elliptic Curve Cryptography.
+Message Authentication and Hash Functions: Authentication Requirements and
+Functions, MAC, Hash Functions, Secure Hash Algorithm, HMAC, Digital Signatures,
+X.509 Directory Service, Kerberos.
+UNIT-IV:
+IP Security: Overview, IPSec Architecture, Authentication Header, Encapsulating
+Security Payload.
+Email Security: Pretty Good Privacy(PGP), S/MIME.
+UNIT-V:
+Web Security: Secure Socket Layer (SSL), Transport Layer Security(TLS), Secure
+Electronic Transaction(SET).
+Intruders, Virus, and Firewalls: Intruders, Virus and related threats, Intrusion Detection
+Systems, Password Management, Firewall Design Principles, Types of Firewalls.
+TEXT BOOKS:
+1. Principles of Information Security, Michael E. Whitman, Herbert J. Mattord, 4th
+Edition, Cengage Learning.
+2. Cryptography and Network Security, William Stallings, 4th Edition, Pearson
+Education
+3. Cryptography and Network Security, Forouzan Mukhopadhyay, 2nd Edition,
+McGraw-Hill
+REFERENCES:
+1. Cryptography and Network Security, C. K. Shyamala, N. Harini, T. R.
+Padmanabhan, 1st Edition, Wiley,India
+2. Network Security and Cryptography, Bernard Menezes, Cengage Learning
+3. Cryptography and Network Security, Atul Kahate, 2nd Edition McGraw-Hill
+4. Principles of Computer Security, W. M. Arthur Conklin, Greg White, TMH
+5. Handbook of Security of Networks, Yang Xiao, Frank H Li, Hui Chen, World Scientific,
+2011
+ONLINE RESOURCES:
+1. https://imarticus.org/advanced-certification-program-in-cybersecurity-iit-roorkee
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC1CN03) ADVANCED PROGRAMMING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Knowledge of programming
+COURSE OBJECTIVES:
+• To comprehend the fundamental principles and syntax of Python programming
+• To implement file handling operations and apply object-oriented programming
+concepts in Python applications
+• To develop graphical user interface (GUI) applications utilizing Python libraries
+• To grasp the core concepts of PHP and manage file operations within PHP
+environments
+• To establish and interact with databases using both Python and PHP for data
+management
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Demonstrate proficiency in fundamental Python programming concepts and
+syntax
+CO-2: Apply concepts of file handling, exception management, and object-oriented
+programming in Python
+CO-3: Develop graphical user interfaces (GUIs) using the Tkinter library in Python
+CO-4: Acquire foundational knowledge of PHP, including its syntax and file operations
+CO-5: Implement database connectivity and interaction using PHP
+UNIT–I:
+Python: Basic features of Python-Interactive execution, comments, types, variables,
+operators, expressions, Statements-assignment, input, print, Control flow-Conditionals,
+Loops, break statement, continue statement, pass statement, Functions, definition,
+call, scope and lifetime of variables, keyword arguments, default parameter values,
+variable length arguments, recursive functions, Functional programming,
+namespaces and modules-import statement, Sequences-Strings ,Lists and Tuples-
+basic operations and functions, iterating over sequences, List comprehensions, Sets
+and Dictionaries operations, Python program examples.
+UNIT–II:
+Python Files: Files-operations-opening, reading, writing, closing, file positions, file
+names and paths, functions for accessing and manipulating files and directories on
+disk, OSmodule, Exceptions: Raising and handling exceptions, try/except statements,
+finally clause, standard exceptions & Modules and Packages.
+Python Object oriented programming- classes, constructors, objects, class variables,
+class methods, static methods, Inheritance-is-a relationship, composition,
+polymorphism, overriding, multiple inheritance, abstract classes, multithreaded
+programming, time and calendar modules, Python program examples.
+UNIT–III:
+GUI Programming With Tkinter: Widgets (Buttons, Canvas, Frame, Label, Menu, Entry,
+Text, Scrollbar, Combo box, List box, Radio Button, event driven programming-events,
+creating GUI based applications in Python.
+UNIT–IV:
+Introduction To PHP: Declaring variables, data types, arrays, strings, operators,
+expressions, control structures, functions, reading data from web form controls like text
+boxes, radio buttons, lists etc., PHP object-oriented programming.
+PHP Files: File operations like opening, closing, reading, writing, appending, deleting
+etc. on text and binary files. Handling File Uploads, Handling sessions and cookies.
+UNIT–V:
+Adv. PHP: WAMP Server Installation, connecting to database (MySQL as reference),
+HTML using practical example along with PHP and MySQL, executing simple queries,
+working on with student information system, handling results.
+TEXT BOOKS:
+1. Exploring Python, Timothy A. Budd, McGraw-Hill Publications
+2. Python Programming, R. Thareja, Oxford University Press
+3. Programming Python, Mark Lutz, 3rd Edition, SPD, O’Reilly
+REFERENCES:
+1. Python GUI Programming with Tkinter by Alan D. Moore
+2. Introduction to Computer Science using Python, Charles Dierbach, Wiley India
+Edition
+3. Fundamentals of Python, K. A. Lambert, B. L. Juneja, Cengage Learning
+4. PHP: The Complete Reference, Steven Holzner, McGraw-Hill Publications
+5. Learning PHP, MySQL, JavaScript, CSS & HTML5, Robin Nixon
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1CN01) DESIGN OF INTERNET OF THINGS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To introduce the terminology, technology and its applications
+• To introduce the concept of M2M (machine to machine) with necessary
+communication technologies protocols and connectivity technologies
+• To introduce the Python Scripting Language which is used in many IoT devices
+• To introduce the Raspberry PI platform, that is widely used in IoT applications
+• To implementation of web based services, Cloud and Fog computing services on
+IoT devices
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand Internet of Things and IOT devices
+CO-2: Understand the various IoT devices, communication technologies and
+connectivity technologies
+CO-3: Creating Logical Design of IoT Systems using Python
+CO-4: IoT Physical Servers, Fog and Cloud Offerings
+CO-5: Analyzing IOT Security and Privacy
+UNIT I
+Introduction to Internet of Things –Definition and Characteristics of IoT, Physical Design
+of IoT – IoT Protocols, IoT communication models, IoT Communication APIs, IoT enabled
+Technologies – Wireless Sensor Networks, Cloud Computing, Big data analytics,
+Communication protocols, Embedded Systems, IoT Levels and Templates,
+The Things in IOT: Sensors and Actuators: Introduction, IOT Sensors- Definition, Why
+Sensors, Sensor Types, Sensor characteristics’ Actuators- Definition, Why Actuators,
+Actuator types, Controlling IOT devices
+Domain Specific IoTs – Home, City, Environment, Energy, Retail, Logistics, Agriculture,
+Industry, health and Lifestyle
+UNIT-II:
+IOT and M2M: Introduction, M2M, Difference between IOT and M2M, SDN and NFV
+for IOT.
+IOT Communication Technologies: Introduction, Infrastructure protocols-IPv6, RPL,6Lo
+WPAN, Discovery Protocols-Multicast DNS, Universal PlugndPlay, Data Protocols-MQTT,
+SMQTT, COAP, AMQP, XMPP, SOAP, REST, WebSocket, Semantic Protocols-JSON-
+LD,Web thing model.
+IOT Connectivity Technologies: Introduction, IEEE802.15.4, Zigbee, Wireless HART, RFID,
+NFC, Z-Wave ,LoRa, Wi-Fiand Bluetooth.
+UNIT-III:
+Introduction to Python - Language features of Python, Data types, data structures,
+Control of flow, functions, modules, packaging, file handling, data/time operations,
+classes, Exception handling Python packages - JSON, XML, HTTP Lib, URL Lib, SMTP Lib.
+IoT Physical Devices and Endpoints - Introduction to Raspberry Pi- Installation,
+Interfaces (serial, SPI, I2C), Programming – Python program with Raspberry PI with
+focus on interfacing external gadgets, controlling output, reading input from pins.
+UNIT-IV:
+IoT Physical Servers and Cloud Offerings – Introduction to Cloud Storage models and
+communication APIs Webserver – Web server for IoT, Cloud for IoT, Python web
+application framework Designing a RESTful web API.
+Fog Computing in IOT- Importance of fog computing,Time sensitiveness in fog
+computing, Selected applications in fog computing-Smart road transportation
+system, Healthcare, Mining industries, Product Advertisement.
+UNIT-V:
+IOT Security and Privacy: Introduction, IOT Security challenges, IOT Security
+requirements, IOT three-domain Architecture, Cloud domain attacks and
+countermeasures, Fog Domain attacks and countermeasures, Sensing domain
+attacks and counter measures, Securing IOT devices-IOT devices Gone Rogue,
+Manufacturer usage descriptor and Device identifier composition engine.
+Summary and future directions.
+TEXT BOOKS:
+1. Internet of Things - A Hands-on Approach, Arshdeep Bahga and Vijay Madisetti,
+Universities Press, 2015, ISBN: 9788173719547
+2. Getting Started with Raspberry Pi, Matt Richardson & Shawn Wallace, O'Reilly
+(SPD), 2014, ISBN: 9789350239759
+3. Introduction to IOT-Sudip Misra, Anandarup Mukhaerjee, Arijit Roy, Cambridge
+university press
+4. Internet of things from Hype to Reality, The Road to Digitization, Ammar
+Rayes,Samer Salam3 rd Edition,Springer.
+REFERENCES:
+1. The Internet of Things, Samuel Greengard, MIT Press, Cambridge, 2015
+2. Internet of Things: Principles and Paradigms, Rajkumar Buyya, Amir Vahid Dastjerdi,
+Morgan Kaufman, 2016
+3. Raspberry Pi Cookbook, Software and Hardware Problems and solutions, Simon
+Monk, O'Reilly (SPD), 2016, ISBN 7989352133895
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1CN02) NETWORK CODING THEORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To learn the fundamentals of network coding theory
+• To understand the performance parameters required for network coding
+• To gain the knowledge of the network coding design methods
+• To learn different approaches for the network coding
+• To understand error correction and detection methods of adversarial errors
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Demonstrate knowledge and understanding of the fundamentals of Network
+Coding Theory
+CO-2: Summarize all the performance parameters and resources for network coding
+CO-3: Construct the network code for different networks
+CO-4: Deal with different approaches of Network Coding in lossy and lossless networks
+CO-5: Deal with multiple sources network coding and detect adversarial errors
+UNIT – I:
+Introduction: A historical Perspective, Network Coding; Network Coding Benefits:
+Throughput, Robustness, Complexity, Security; Network Model.
+Main Theorem of Network Multicast: The Min-Cut Max-flow Theorem, The Main network
+coding Theorem,
+Theoretical Framework for Network Coding: A Network Multicast Model, algebraic
+Framework, Combinatorial Framework, Information-Theoretic Framework, Types of
+Routing and coding.
+UNIT – II:
+Throughput Benefits of Network Coding: Throughput Measures, Linear Programming
+Approach, Configurations with Large Network Coding Benefits, Configurations with
+Small Network Coding Benefits, Undirected Graphs.
+Networks with Delay and Cycles: Dealing with Delay, Optimizing for Delay, Dealing
+with Cycles. Resources for Network Coding: Bounds on Code Alphabet Size, Bounds
+on the Number of Coding Points, Coding with Limited Resources.
+UNIT – III:
+Network Code Design Methods For Multicasting: Common initial procedure,
+centralized algorithms, decentralized algorithms, scalability to network changes.
+Single-Source Linear Network Coding:
+Acyclic Networks: Acyclic Networks, Linear network code, Desirable properties of a
+linear network code, Existence and construction, Algorithm refinement for multicast.
+Cyclic Networks: Delay-Free Cyclic Code, Non-equivalence between local and
+global descriptions, Convolutional network code, decoding of convolutional network
+code.
+UNIT – IV:
+Inter-Session Network Coding: Scalar and vector linear network coding, Fractional
+coding problem formulation, Insufficiency of linear network coding, Information
+theoretic approaches: Multiple unicast networks; Constructive approaches: Pairwise
+XOR coding in wireline networks, XOR coding in wireless networks.
+Network Coding in Lossy Networks: Random linear network coding, Coding theorems:
+Unicast connections, Multicast connections, Error exponents for Poisson traffic with
+i.i.d. losses.
+Subgraph Selection: Flow-based approaches: Intra-session coding, Computation-
+constrained coding, Inter-session coding; Queue-Length-Based approaches: Intra-
+session network coding for multicast sessions, Inter-session coding.
+UNIT – V:
+Multiple Sources Network Coding: Superposition coding and max-flow bound;
+Network Codes for Acyclic Networks: Achievable information rate region, Inner bound
+Rin, Outer bound Rout, RLP – An explicit outer bound.
+Security against adversarial Errors: Error correction: Error Correcting bounds for
+centralized network coding, Distributed random network coding and polynomial-
+complexity error correction Detection of adversarial errors: Model and problem
+formulation, Detection probability.
+TEXT BOOKS:
+1. Raymond W. Yeung, Shuo-Yen Robert Li, Ning Cai, Zhen Zhang, “Network Coding
+Theory”, now publishers Inc, 2006, ISBN: 1-933019-24-7.
+2. Christina Fragouli, Emina Soljanin, “Network Coding Fundamentals”, now publishers
+Inc, 2007, ISBN: 978-1-60198-032-8.
+REFERENCES:
+1. Tracey Ho, Desmond Lun, “Network Coding: An Introduction”, Cambridge
+University Press, 2008, ISBN: 978-0-521-87310-9.
+2. Muriel Medard, Alex Sprintson, “Network Coding: Fundamentals and
+Applications”, 1st Edition, 2012, Academic Press, Elsevier, ISBN: 978-0-12-380918-6
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1CN03) QUANTUM CRYPTOGRAPHY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• In depth understanding of quantum cryptography
+• To understanding of the cryptographic techniques
+• To understand quantum cryptography encryption and decryption schemes
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: To understand concepts of quantum cryptography and cryptographic
+techniques
+CO-2: To work in research institutions / Industry in the field of quantum cryptography
+CO-3: To design new or modify existing quantum cryptographic techniques
+UNIT-I:
+Quantum Information Theory, Unconditional Secure Authentication, Entropy,
+Quantum Key Distribution, Quantum Channel, Public Channel, QKD Gain, Finite
+Resources
+UNIT-II:
+Adaptive Cascade Introduction, Error Correction and the Cascade Protocol,
+Adaptive Initial Block-Size Selection, Fixed Initial Block-Size, Dynamic Initial Block-Size,
+Examples
+UNIT-III:
+Attack Strategies on QKD Protocols: Introduction, Attack Strategies in an Ideal
+Environment, Individual Attacks in an Realistic Environment QKD Systems: Introduction,
+QKD Systems
+UNIT-IV:
+Statistical Analysis of QKD Networks in Real-Life Environment: Statistical Methods,
+Statistical Analysis QKD Networks Based on Q3P: QKD Networks, PPP, Q3P, Routing,
+Transport
+UNIT-V:
+Quantum-Cryptographic Networks from a Prototype to the Citizen: The SECOQC
+Project, How to Bring QKD into the “Real” Life
+The Ring of Trust Model: Introduction, Model of the Point of Trust, Communication in
+the Point of Trust Model, Exemplified Communications, A Medical Information System
+Based on the Ring of Trust
+TEXT BOOKS:
+1. Kollmitzer C., Pivk M. (Eds.), Applied Quantum Cryptography, Lect. Notes Phys. 797
+(Springer, Berlin Heidelberg 2010)
+REFERENCES:
+1. Quantum Cryptography by Donald J. Barrett
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1CN04) DIGITAL PAYMENT SYSTEMS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To discuss the players and processes involved in e-payments
+• To discuss the different categories and potential uses of smart cards
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the shifts that are occurring with regard to digital payments
+CO-2: Acquire a comprehensive understanding of different tasks associated in
+usage of digital payment systems
+CO-3: Understand certification mechanism and algorithms to provide secure
+transactions
+CO-4: Understand and analyze data authentication, processing restrictions and
+verification
+CO-5: Acquire skills on regulatory framework, Deriving ICC specifications and risk
+management
+UNIT – I:
+Introduction, Magnetic stripe debit and Credit cards, Chip Migration with EMVTM,
+Remote debit and credit with EMVTM
+Payment Card Processing
+Roles involved in payment card processing, payment card brands, Credit and debit
+payment cards, Focusing on the magnetic stripe card, Threats and security
+protections, Processing at the point of service, Payment network and interchange
+message, On-line authorization, Clearing and Settlement.
+UNIT – II:
+A business case for chip migration, An overview of the chip card technology,
+proprietary payment application, interoperable payment application, EMVTM data
+elements, EMVTM file system, EMVTM application selection.
+SMS Payments, USSD Payments, UPI Payments, Mobile Wallets, Bharat Bill Payments,
+NEFT, IMPS, QR Code, Merchants Payments, Internet Banking & Payments. ATM
+Payments, Interoperable Payments.
+UNIT – III:
+Certification mechanism and algorithm, Public key certificate for RSA scheme, Entities
+and certifiers, Entity public key remainder, EMVTM certification chain, Issuing EMVTM
+public key certificates, Verifying EMVTM public key certificates, Issuing signed static
+application data, Verifying the signed static application data.
+UNIT – IV:
+Overview of the EMVTM debit/credit transaction, Initiate application processing, Read
+application data, Off-line data authentication, Processing restrictions, Cardholder
+Verification, Terminal risk management, Terminal action analysis, On-line processing
+and issuer authentication.
+UNIT – V:
+EMVTM regulatory framework, Deriving ICC specifications by issuers, Selection criteria
+of the ICC architecture, Multiplication ICC, Issuer’s business case, adaptive initiate
+application processing, Design criteria for CAM selection, Design criteria for CVM,
+Processing restrictions, Card risk management.
+TEXT BOOK:
+1. Cristian Radu, Artech House, Implementing Electronic Card Payment Systems,
+Computer Security Series
+REFERENCES:
+1. Electronic Payment Systems for E-Commerce by Donal O’Mahony, Michael Peirce
+and Hitesh Tewari, Artech House, Computer Security Series
+2. David A. Buchanan, James McCalman, High Performance Work Systems: The
+Digital Experience, Routledge
+3. David A. Montague, Essentials of Online payment Security and Fraud Prevention,
+Wiley
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1CN05) JAVA PROGRAMMING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand object oriented concepts and problem solving techniques
+• To obtain knowledge about the principles of inheritance and polymorphism
+• To implement the concept of packages, interfaces, exception handling and
+concurrency mechanism
+• To understand the Java database connectivity architecture
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Identify the model of Object-Oriented Programming: Abstract data types
+CO-2: Encapsulation, Inheritance and Polymorphism
+CO-3: Correlate the advantages of Multi-threading
+CO-4: Design interactive programs using Applets, AWT and Swings
+CO-5: Develop real time applications using the features of Java
+UNIT-I:
+Object Oriented Thinking: Introduction, Need of object-oriented programming,
+principles of object-oriented languages, Applications of OOP, history of JAVA, Java
+Virtual Machine, Java features, Program structures, Installation of JDK.
+Variables, Primitive data types, Identifiers- Naming Conventions, Keywords, Literals,
+Operators- Binary, Unary and Ternary, Expressions, Primitive Type conversion and
+casting, flow of control- branching, conditional, loops.
+UNIT-II:
+Classes, Inheritance, Polymorphism: Classes and Objects- Classes, Objects, creating
+objects, methods, constructors- constructor overloading, cleaning up unused objects-
+Garbage collector, class variable and methods- static keyword, this keyword, arrays,
+Command line arguments, Nested Classes.
+Strings: String, String Buffer, String Tokenizer.
+Inheritance and Polymorphism- Types of Inheritance, deriving classes using extends
+keyword, super keyword, Polymorphism – Method Overloading, Method Overriding,
+final keyword, abstract classes.
+Unit-III:
+Interfaces, Packages, Exceptions
+Interfaces: Interface, Extending Interface, Interface Vs Abstract classes.
+Packages- Creating Packages, using Packages, Access protection, java I/O
+package.
+Exceptions - Introduction, Exception handling techniques-try…catch, throw, throws,
+finally block, user defined Exception.
+UNIT-IV:
+Multithreading, Collections: java.lang.Thread, the main Thread, creation of new
+Threads, Thread priority, multithreading- using isalive() and join(), Synchronization,
+suspending and resuming Threads, Communication between Threads. Exploring
+java.io, Exploring java.util.
+Collections: Overview of Collection Framework: ArrayList, Vector, TreeSet, HashMap,
+HashTable, Iterator, Comparator.
+UNIT-V:
+Applets, AWT and Swings: Applet class, Applet structure, an example of Applet
+program, Applet life cycle.
+Event Handling- Introduction, Event Delegation Model, Java.awt.event Description,
+Adapter classes, Inner classes.
+Abstract Window Toolkit: Introduction to AWT, components and containers, Button,
+Label, Checkbox, Radio buttons, List boxes, choice boxes, Text field and Text area,
+container classes, Layout Managers.
+Swing: Introduction, JFrame, JApplet, JPanel, Components in Swings, JList and JScroll
+Pane, Split Pane, JTabbed Pane, Dialog Box, Pluggable Look and feel.
+TEXT BOOKS:
+1. Java: The Complete Reference, 10th edition, Herbert Schildt, McGraw-Hill
+2. Java Fundamentals: A Comprehensive Introduction, Herbert Schildt and Dale
+Skrien, TMH
+3. Java for Programming, P.J. Dietel Pearson Education
+REFERENCES:
+1. Object Oriented Programming through Java, P. Radha Krishna, Universities Press
+2. Thinking in Java, Bruce Eckel, Pearson Education
+3. Programming in Java, S. Malhotra and S. Choudhary, Oxford University Press
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1CN06) DISTRIBUTED SYSTEMS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: A course on “Operating Systems”.
+COURSE OBJECTIVES:
+• To understand basics of distributed systems.
+• To acquire skills on OS support, file system and synchronization techniques
+• To understand transactions, concurrency control and security mechanisms
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand fundamentals of distributed systems
+CO-2: Understand operating system support and file service architecture
+CO-3: Understand peer to peer systems and clock synchronization
+CO-4: Analyze transactions and concurrency control
+CO-5: Understand security and distributed shared memory approaches
+UNIT – I:
+Characterization of Distributed Systems-Introduction, Examples of Distributed systems,
+Resource sharing and web, challenges, System Models-Introduction, Architectural
+and Fundamental models, Networking and Internetworking, Interprocess
+Communication,
+Distributed objects and Remote Invocation-Introduction, Communication between
+distributed objects, RPC, Events and notifications, Case study-Java RMI.
+UNIT – II:
+Operating System Support- Introduction, OS layer, Protection, Processes and Threads,
+Communication and Invocation, Operating system architecture, Distributed File
+Systems-Introduction, File Service architecture, case study- SUN network file systems.
+Name Services-Introduction; Name Services and the Domain Name System, Case
+study of the Global Name Service, Case study of the X.500 Directory Service.
+UNIT – III:
+Peer to Peer Systems–Introduction, Napster and its legacy, Peer to Peer middleware,
+Routing overlays, Overlay case studies-Pastry, Tapestry, Application case studies-
+Squirrel, Ocean Store.Time and Global States-Introduction, Clocks, events and Process
+states, Synchronizing physical clocks, logical time and logical clocks, global states,
+distributed debugging.
+Coordination and Agreement-Introduction, Distributed mutual exclusion, Elections,
+Multicast communication, consensus and related problems.
+UNIT - IV
+Transactions and Concurrency Control-Introduction, Transactions, Nested
+Transactions, Locks, Optimistic concurrency control, Timestamp ordering, Comparison
+of methods for concurrency control. Distributed Transactions-Introduction, Flat and
+Nested Distributed Transactions, Atomic commit protocols, Concurrency control in
+distributed transactions, Distributed deadlocks, Transaction recovery, Replication-
+Introduction, System model and group communication, Fault tolerant services,
+Transactions with replicated data.
+UNIT - V
+Security-Introduction, Overview of Security techniques, Cryptographic algorithms,
+Digital signatures, Case studies-Kerberos, TLS, 802.11 WiFi.
+Distributed shared memory, Design and Implementation issues, Sequential
+consistency and Ivy case study, Release consistency and Munin case study, other
+consistency models, CORBA case study- Introduction, CORBA RMI, CORBA Services.
+TEXT BOOKS:
+1. Distributed Systems Concepts and Design, G Coulouris, J Dollimore and T Kindberg,
+Fourth Edition, Pearson Education
+2. Distributed Systems, S. Ghosh, Chapman & Hall/CRC, Taylor & Francis Group, 2010
+REFERENCES:
+1. Distributed Computing, S. Mahajan and S. Shah, Oxford University Press
+2. Distributed Operating Systems Concepts and Design, Pradeep K.Sinha, PHI
+3. Advanced Concepts in Operating Systems, M Singhal, N G Shivarathri, TMH
+4. Distributed Systems – Principles and Paradigms, A.S. Tanenbaum and M.V. Steen,
+Pearson Education
+5. Distributed Operating Systems and Algorithm Analysis, R. Chow, T. Johnson,
+Pearson
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1CN07) MOBILE COMPUTING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: A Course on Computer Networks
+COURSE OBJECTIVES:
+• To understand the wireless and mobile computing concepts
+• To understand GSM telecommunication architecture
+• To analyze various network layer protocols used in mobile computing
+• To analyze various transport layer protocols used in mobile computing
+• To understand security issues in mobile computing
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the basic concepts of mobile computing and architecture
+CO-2: Analyze the architecture of GSM mobile telecommunication system
+CO-3: Design and evaluate network layer protocols
+CO-4: Design and evaluate transport layer protocols
+CO-5: Analyze security issues and security techniques in mobile computing
+UNIT-I:
+Mobile Computing: Novel Applications, Limitations of Mobile Computing
+Mobile Computing Architecture: Mobile Computing Architectural layers, Protocols,
+Layers.
+Mobile Devices: Handheld Mobile Smartphones with Multimedia Functionalities,
+Smartcards, Smart Sensors.
+Mobile System Networks: Cellular Network, WLAN Network, Ad-hoc Networks, Mobility
+Management.
+UNIT-II:
+Global System for Mobile Communications (GSM): Mobile Services, System
+Architecture, Protocols, Localization & Calling, Handover, Security GPRS: GPRS System
+Architecture, UMTS: UMTS System Architecture
+UNIT-III:
+Mobile Network Layer: Mobile IP: Goals, Assumptions, Entities and Terminology, IP
+Packet Delivery, Agent Discovery, Registration, Tunnelling and Encapsulation,
+Optimizations, Dynamic Host Configuration Protocol (DHCP).
+UNIT-IV:
+Mobile Transport Layer: Traditional TCP, Indirect TCP, Snooping TCP, Mobile TCP, Fast
+Retransmit/Fast Recovery, Transmission/Time-out Freezing, Selective retransmission,
+Transaction oriented TCP. TCP over 2.5G/3G Wireless Networks.
+UNIT-V:
+Security Issues in Mobile Computing: Introduction, Information Security, Security
+Techniques and Algorithms, Security Protocols, Security Models, Security Frameworks
+for Mobile Environment.
+TEXT BOOKS:
+1. Mobile Computing, Raj Kamal, Oxford University Press, 2007.
+2. Mobile Computing, Asoke K. Talukdar, Tata McGraw-Hill Education, 2010.
+3. Mobile Communications, Jochen Schiller, 2nd Edition, Addison Wisely, Pearson
+Education, 2008.
+REFERENCES:
+1. Wireless Communications and Networks, William Stallings, Pearson Education,
+2002.
+2. 802.11 Wireless Networks, Matthew S. Gast, SPD O’ Reilly.
+3. Principles of Mobile Computing, Uwe Hansmann, Lothar Merk, Martin S. Nicklons,
+Thomas Stober, Springer, 2003.
+4. Fundamentals of Mobile Computing, Pattnaik Prasant Kumar, Mall Rajib, 2nd
+Edition, PHI Learning Pvt. Ltd., 2015.
+5. Mobile Computing Principles: Designing and Developing Mobile Applications with
+UML and XML, Reza B’ Far, Cambridge University Press, 2005.
+ONLINE RESOURCES:
+1. https://www.udemy.com/course/telecom-business-support-system-bss-
+operation-support-system-oss-etom/?couponCode=MT250908G2
+2. https://www.udemy.com/course/modern-communication-
+systems/?couponCode=MT250908G2
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1CN08) OPERATING SYSTEMS SECURITY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To ensure that errant programs cause the minimal amount of damage possible
+• To protect the OS from various threats, including malicious software such as worms,
+trojans and other viruses, misconfigurations, and remote intrusions
+• To know some basic security measures to take in system administration
+• To allow non-threatening traffic and prevent malicious or unwanted data traffic
+for protecting the computer from viruses
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand computer system architecture and operating system functionalities
+CO-2: Describe protection mechanisms
+CO-3: Apply security measures to protect the OS itself from security breaches
+CO-4: Apply security measures to take in system administration
+CO-5: Analyze various networking technologies in Linux using case studies
+UNIT – I:
+Overview of Operating Systems-Introduction, Computer system organization and
+architecture, Operating system structure and operations, Process Management,
+Memory Management, file systems management, Protection and security, Scheduling
+Algorithms, Inter-process Communication (TBI)
+UNIT – II:
+Operating Systems Protection: Protection Goals, Protection Threats, Access Control
+Matrix, Access Control Lists (ACL’s), Capability Lists (C-lists), Protection systems,
+Lampson’s access matrix, mandatory protection systems, Reference monitor, Secure
+operating system definition (TBI)
+UNIT – III:
+Operating System Security-Security Goals, Security Threats, Security Attacks- Trojan
+Horses, Viruses and Worms, Buffer Overflow attacks and Techniques, Formal Aspects
+of Security.(TBI), Encryption- Attacks on Cryptographic Systems, Encryption
+Techniques, Authentication and Password Security, Intrusion detection, malware
+defenses, UNIX and Windows security (TBI)
+UNIT – IV:
+System Administration: Security Basics, Securing the Server Itself, Maintenance and
+Recovery, Monitoring and Audit, Introduction to Linux Systems, Configuration
+Management, Log Auditing and Vulnerability Assessment. (TB2)
+UNIT – V:
+Linux Networking: Networking Technologies: DHCP, DNS, NFS/ISCSI, SMTP, SNMP,
+LAMP, Firewall/IDS/SSH, securing Linux. Case Studies: Security and Protection
+MULTICSA, UNIX, LINUX and Windows, Windows and Linux Coexisting. (TB3)
+TEXT BOOKS:
+1. Operating Systems: A Concept –Based Approach, 3rd Edition, Dhananjay M.
+Dhamdhere, McGraw-Hill, 2015
+2. Windows Server 2003 Security, A Technical Reference, Roberta Bragg, Addisson
+Wesley 4, Linux Administration Handbook, Second Edition, Evi Nemeth, Garth
+Snyder, Trent R. Hein. Prentice Hall
+REFERENCES:
+1. An Introduction to Operating Systems: Concepts and practice, 4th Edition, Promod
+Chandra P Bhat, Prentice Hall of India, 2014
+2. Operating System: Internals and Design Principles, 7th Edition, William Stalling,
+Prentice Hall, 2014
+3. Linux System Administration, Tom Adelstein and Bill Lubanovic, 1st Edition, O’Reilly
+4. Media, Inc
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1CN09) ARTIFICIAL INTELLIGENCE AND APPLICATIONS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To impart knowledge about Artificial Intelligence.
+• To give understanding of the main abstractions and reasoning for intelligent
+systems.
+• To enable the students to understand the basic principles of Artificial Intelligence
+in various applications.
+• To impart knowledge on Large Language Models
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Define the concept of Artificial Intelligence
+CO-2: Solve basic AI based searching process
+CO-3: Apply AI techniques to real-world problems to develop intelligent systems
+CO-4: Create the need of Large language models
+CO-5: Select appropriately from a range of techniques when implementing intelligent
+systems
+UNIT – I:
+Introduction: Overview of AI.
+Search Strategies: Problem spaces (states, goals and operators), problem solving by
+search, Heuristics and informed search, Min-max Search, Alpha-beta pruning.
+Constraint satisfaction (backtracking and local search methods).
+UNIT -II:
+Knowledge Representation and Reasoning: propositional and predicate logic,
+Resolution and theorem proving, Temporal and spatial reasoning. Probabilistic
+reasoning, Bayes theorem. Totally- ordered and partially-ordered Planning. Goal stack
+planning, Nonlinear planning, Hierarchical planning.
+UNIT – III:
+Large language Models: Introduction, Natural language,
+NLP and Language Models Evaluation- Syntactic and Grammar-based Methods
+1960s-1980’s, Expert systems and Statistical Models 1980s-2000’s,Neural Models and
+Dense Representations: 2000s-2010’s, The Deep learning Revolution 2010s-2020s.
+The Era of Large Language Models: A brief history of LLM Evaluation, LLM Scale,
+Emergent abilities in LLM’s.
+Language Models Pre-Training: Encoder-Decoder Architecture, Transformers-
+Encoder, Decoder, Tokenization and Representation, Transformer variants
+Commonly Used pre-trained LLM’s BERT(Encoder),GPT(Decoder)
+UNIT – IV:
+Prompt-based Learning: Introduction, Basics of Prompt-based learning-Prompt based
+learning: Formal Description, Prompt-based Learning process, Prompt-based
+Knowledge extraction, Prompt based learning access NLP tasks.
+UNIT – V:
+Agents: Definition of agents, Agent architectures (e.g., reactive, layered, cognitive),
+Multi-agent systems- Collaborating agents, Competitive agents, Swarm systems and
+biologically inspired models. Intelligent Systems: Representing and Using Domain
+Knowledge, Expert System Shells, Explanation, Knowledge Acquisition.
+TEXT BOOKS:
+1. Artificial Intelligence: A Modern Approach by S. Russell and P. Norvig, Prentice Hall
+2. Large Language Models: A Deep Dive Bridging Theory and Practice.
+REFERENCES:
+1. Artificial Intelligence by Elaine Rich, Kevin Knight and Shivashankar B Nair, Tata
+McGraw-Hill.
+2. Introduction to Artificial Intelligence and Expert Systems by Dan W. Patterson,
+Pearson Education.
+3. Hands-On Large language Models Language Understanding and Generation, Jay
+Alammar &Maarten Grootendorst.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1CN10) USER AUTHENTICATION TECHNIQUES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+Knowledge on concept of authentication types, protocols, physical identification and
+various authentication algorithms
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand different types of authentication techniques
+CO-2: Understand text based and voice based authentication techniques
+CO-3: Understand significance of authentication algorithms and its standards
+CO-4: Apply various authentication protocols in multi-server environment and their
+representation
+UNIT-I:
+Definition of Authentication, Identification/verification, Stages and steps of
+authentication, Authentication Entity : User, Device and Application; Authentication
+attributes: Source, Location, Path, Time duration etc.;
+Authentication Types: Direct / Indirect, One Way / Mutual, On demand/ Periodic/
+Dynamic/Continuous authentication, Assisted/Automatic; 3 Factors of
+authentication; Passwords, Generation of passwords of varied length and of mixed
+type, OTP, passwords generation using entity identity credentials; Secure capture,
+processing, storage, verification and retrieval of passwords;
+UNIT-II:
+Physical identification using smart cards, remote control device, proximity sensors,
+surveillance camera, authentication in Card present / Card Not Present transactions
+as ATM/ PoS Device, mobile phone, wearable devices and IoT device based
+authentication; single sign- on; Symmetric Key Generation, Key Establishment, Key
+Agreement Protocols;
+UNIT - III:
+Biometrics – photo, face, iris, retinal, handwriting, signature, fingerprint, palm print,
+hand geometry, voice – Text based and text independent voice authentication, style
+of talking, walking, writing, keystrokes, gait etc. multimodal biometrics.
+Deep Learning–based authentication methods: Convolutional Neural Networks
+(CNNs) for face, fingerprint, and iris recognition; Recurrent Neural Networks (RNNs)
+and Transformers for voice and behavioral biometrics; Generative Adversarial
+Networks (GANs) for spoof detection and liveness verification; multimodal deep
+learning for fusion of heterogeneous biometric traits.
+UNIT - IV:
+Matching algorithms, Patterns analysis, errors, performance measures, ROC Curve;
+Authentication Standards – International, UIDAI Standard. Kerberos, X.509
+Authentication Service, Public Key Infrastructure, Scanners and Software; Web
+Authentication Methods: Http based, Token Based, OAuthand API.
+UNIT - V:
+User authentication protocols in multi-server environment, BAN Logic, Representation
+of authentication protocols using BAN Logic, Random Oracle Model, Scyther Tools,
+Proverif tool, Chebyshev Chaotic Map, Fuzzy Extractor, Fuzzy Extractor Map, Bloom
+Filter, LU Decomposition based User Authentication, Blockchain based
+authentication.
+Deep Learning–based approaches for user authentication in distributed systems:
+federated learning for privacy-preserving authentication, deep anomaly detection
+for intrusion prevention, adversarial robustness in authentication networks.
+TEXT BOOKS:
+1. Protocols for Authentication and Key Establishment, Colin Boyd and Anish
+Mathuria, springer, 2021
+2. Guide to Biometrics, Ruud M.Bolle, Sharath Pankanti, Nalini K. Ratha, Andrew W.
+Senior, Jonathan H. Connell, Springer 2009.
+3. Deep Learning for Biometrics – K. Somayeh et al., Springer (2019)
+REFERENCES:
+1. Digital Image Processing using MATLAB, Rafael C. Gonzalez, Richard Eugene
+Woods, 2nd Edition, Tata McGraw-Hill Education 2010.
+2. Biometric System and Data Analysis: Design, Evaluation, and data Mining, Ted
+Dunstone and Neil Yager, Springer.
+3. Biometrics Technologies and verification Systems, John Vacca, , Elsevier Inc. , 2007.
+4. Pattern Classification, Richard O. Duda, David G.Stork,Peter E. Hart, Wiley 2007.
+5. Deep Learning for Security and Privacy" – Xiaofeng Chen, Yang Xiang, Wanlei
+Zhou, Springer (2019)
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC2CN01) NETWORKS AND INFORMATION SECURITY LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE PRE-REQUISITES: Data Communication, Basic Networking Principles,
+Computer Networks
+COURSE OBJECTIVES:
+• To describe about bit stuffing, character stuffing and CRC methods and to
+understand various routing algorithms and wireless LAN concepts
+• To understand various algorithms to identify shortest path and various Network
+layer protocols
+• To classify symmetric encryption algorithms and analyze security aspects of
+symmetric and asymmetric algorithms
+• To design and implement various digital signature algorithms
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Summarize data link layer framing methods, CRC, Dijkstra‘s algorithm and
+routing algorithms
+CO-2: Demonstrate and simulate Ethernet, token ring, TCP and to configure VLAN and
+STP protocol
+CO-3: Examine and implement symmetric and asymmetric algorithms
+CO-4: Implement key generation and digital signature mechanisms
+LIST OF PROGRAMS / EXPERIMENTS / EXERCISES:
+WEEK 1:
+1. Implement the data link layer framing methods such as character stuffing and bit
+stuffing
+2. Implement on a data set of characters the three CRC polynomials – CRC- 4, CRC-
+12, CRC-16.
+WEEK 2:
+1. Implement Dijkstra‘s algorithm to compute the Shortest path through a graph.
+2. Take an example subnet graph with weights indicating delay between nodes.
+Now obtain Routing table at each node using distance vector routing algorithm.
+WEEK 3:
+1. Demonstrate the operation of Ethernet.
+2. Demonstrate the implementation of a token ring network
+WEEK 4:
+1. Demonstrate the congestion control algorithms implemented by the Transmission
+Control Protocol (TCP).
+2. Basic Switch/Router configurations and connecting with PCs using Cisco Packet
+Tracer.
+WEEK 5:
+1. Configure and demonstrate client–server communication using Cisco Packet
+Tracer.
+2. Configure a DHCP server to automatically assign IP addresses to multiple PCs in a
+network and verify dynamic address allocation.
+WEEK 6:
+1. Configure a dynamic routing protocol (RIP/OSPF/EIGRP) in Cisco Packet Tracer
+and verify end-to-end connectivity between devices in different networks.
+WEEK 7:
+1. Configure DNS: Make a caching DNS client, and a DNS Proxy; implement reverse
+DNS and forward DNS, using TCP dump/Wireshark characterize traffic when the
+DNS server is up and when it is down.
+TEXT BOOKS:
+1. Routing Protocols & Concepts, Rick Graziani, Pearson Education
+2. LAN Switching & Wireless, Wayne Lewis, Pearson Education
+3. Accessing the WAN, Bob Vachon, Pearson Education
+REFERENCES:
+1. Computer Networking: A Top-Down Approach Featuring the Internet, James F.
+Kurose, Keith W. Ross, 5th Edition, Pearson Education,2012
+2. Cisco Packet Tracer
+3. Computer Networks: A Systems approach, Larry L. Peterson & Bruce S. Davie, 5th
+Edition, Elsevier,2012
+4. An Introduction to Network Programming with Java, Jan Graba, Springer, 2010
+5. TCP/IP Protocol Suite, Behrouz A. Forouzan, 4th Edition, Tata McGraw-Hill, 2010
+A) INFORMATION SECURITY LABORATORY
+WEEK 9:
+1. Implementation of the following classical cipher algorithms.
+a) Ceaser cipher b) Hill Cipher
+WEEK 10:
+1. Implementation of DES symmetric cipher algorithms - Key generation, Encryption
+and Decryption.
+WEEK 11:
+1. Implementation of Blowfish algorithm.
+2. Implementation of AES algorithms - Key generation, Encryption and Decryption.
+WEEK 12:
+1. Implementation of RSA algorithms - Key generation, Encryption and Decryption.
+2. Implementation of Diffie-Hellman key exchange algorithm.
+WEEK 13:
+1. Implementation of SHA algorithm.
+2. Implementation of HMAC algorithm
+WEEK 14:
+1. Implementation of Kerberos system.
+WEEK 15:
+1. Firewall implementation and testing.
+WEEK 16: Lab Internal
+TEXT BOOKS:
+1. Build Your Own Security Lab, Michael Gregg, Wiley India
+2. Cryptography and Network Security, Atul Kahate, TMH
+REFERENCES:
+1. Cyber Security Operations Handbook, J. W. Rittiaghouse and William M. Hancok,
+Elsevier
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC2CN02) ADVANCED PROGRAMMING LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE PRE-REQUISITES: Knowledge of programming
+COURSE OBJECTIVES:
+• To write, test, and debug Python scripts that apply fundamental programming
+constructs such as data types, control flow, functions, and standard libraries.
+• To create functional desktop applications by designing, implementing, and
+managing graphical user interfaces (GUIs) using the Tkinter library.
+• To implement server-side logic using PHP to handle and process web forms,
+generate dynamic content and manage user sessions.
+• To execute standard file manipulation operations (create, read, write, and delete)
+using PHP to manage persistent data storage.
+• To integrate a PHP backend with a MySQL database to securely perform standard
+CRUD (Create, Read, Update, Delete) operations for web applications.
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply fundamental Python concepts, including data types, variables, and
+control structures, to write basic programs
+CO-2: Construct functional desktop applications by implementing and managing
+Tkinter widgets, layouts, and event handling
+CO-3: Implement server-side logic using PHP to process web forms and generate
+dynamic content
+CO-4: Perform file operations, such as creating, reading, writing, and deleting files, to
+manage persistent data storage
+CO-5: Integrate a PHP backend with a MySQL database to securely handle and
+retrieve data from a web-based front-end
+LIST OF PROGRAMS / EXPERIMENTS / EXERCISES:
+Students are advised to do the following programs, but not limited to…
+1. Write a python program for sum of squares of 1st n natural numbers.
+2. Write a python program to print pyramid of numbers.
+3. Write a python program to reverse a given number.
+4. Write a python program for dictionary with keys having multiple pairs.
+5. Write a python program for linear search.
+6. Write a python program to find largest and smallest element in the given array.
+7. Write a python program for string concatenation and string split.
+8. Write a python program for bubble sort.
+9. Write a python program to convert 12hrs to 24hrs format.
+10. Write a python program using functions for simple calculator.
+11. Write a python program to check for leap year.
+12. Write a python program to print for multiplication table 1..10.
+13. Write a program for list with all methods available.
+14. Write a program for tuples with all methods available.
+15. Write a python program using functions to have options of 1) Selection sort 2)
+Binary search.
+16. Write a Python program that reads a list of names and ages, then prints the list
+sorted by age.
+17. Write a Python program that implements binary search method to search for a key
+in a sorted list.
+18. Write a Python program that counts the occurrences of words in a text file and
+displays the words in decreasing order of their occurrence counts.
+19. Write a Python program to compute n! for large values of n.
+20. Write to check if given number is prime or not using PHP and WAMP Server.
+21. Write a program to check greatest of 3 numbers using PHP and WAMP Server.
+22. Write a program to check if given number is palindrome using PHP and WAMP
+Server.
+23. Write a program for linear search using PHP and WAMP Server.
+24. Write a program to print pyramid of type 1,11,111, using PHP and WAMP Server.
+25. Write PHP file programs for 1) Read 2) Write 3) Append data from a file.
+26. Write PHP program for file upload.
+27. Write PHP programs for 1) Cookies and 2) Sessions.
+28. Write PHP program for Regular Expressions.
+Students are informed to Practice on modules and packages.
+Sample problems covering GUI application and Database applications: GUI
+applications:
+29. A simple program that takes input and change letter to upper case.
+30. A simple application to calculate your age using the given input. In this
+application, the date of birth provided is subtracted from the package datetime.
+The number of days obtained is converted to years and output is displayed.
+31. A program to display an alert message when a button is pressed.
+32. A program to create a digital clock with Tkinter to display the time.
+Database Application:
+33. Write a program for executing query in object oriented for student information
+system using PHP and WAMP Server.
+34. Write a program for inserting the data into the table for student information system
+using PHP and WAMP Server.
+35. Write a program to select a particular student with id for student information system
+using PHP and WAMP Server.
+36. Write a program to update the existing record for student information system using
+PHP and WAMP Server.
+37. Write a program to delete the existing record for student information system using
+PHP and WAMP Server.
+TEXT BOOKS:
+1. Programming Python, Mark Lutz, 3rd Edition, SPD, O’Reilly
+2. Learning PHP, MySQL, JavaScript, CSS & HTML5, Robin Nixon, O’Relly
+REFERENCES:
+1. Python Programming, A Modern Approach, Vamshi Kurama, Pearson
+2. PHP: The Complete Reference, Steven Holzner, McGraw-Hill Publications
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25SD5EN01) ENGLISH FOR ACADEMIC AND RESEARCH WRITING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE PRE-REQUISITES: Undergraduate level English Proficiency
+COURSE OBJECTIVES:
+• To equip with an understanding of the mechanics and conventions of academic
+and research writing, including cohesion and coherence, to produce texts that
+demonstrate precision and clarity
+• To enable to present focused, logical arguments that support a thesis
+• To empower to find, analyze, evaluate, summarize, and synthesize appropriate
+source material for literature review
+• To enable to use appropriate language to analyze and interpret the data, and
+prepare an outline
+• To enable to become adept in the requirements and specifications of standard
+writing to produce academic and research papers
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply knowledge of academic language features and text structure, and
+ensure cohesion and coherence as connected to various text types
+CO-2: Demonstrate the use of writing process strategies through outlining, reviewing,
+composing, and revising
+CO-3: Evaluate sources and use summary, analysis, synthesis, and integration to
+construct a literature review on a topic chosen by the student
+CO-4: Prepare an outline for Research Articles and Thesis
+CO-5: Apply standard documentation style to produce academic and research
+papers that meet the demands of specific genres, purposes, and audiences
+UNIT-I:
+1. Features of Academic Writing: Word Order, Breaking up long Sentences,
+Structuring Paragraphs and sentences, Being concise and removing redundancy,
+Avoiding Ambiguity and Vagueness, Hedging
+2. Planning & Preparation of Research paper, Factors Influencing Effective Writing:
+Mechanics of Writing, Purpose of Writing, Understanding the Target Reader,
+Organization- Cohesion, and Coherence
+UNIT-II:
+1. Academic Writing Forms:
+a) Analyzing arguments; Building an argument
+b) Making a Counter Argument- Managing tone and tenor
+1. Types of Research: Primary and Secondary Research
+2. Review of Literature
+3. Research Design: Statement of the Problem, Writing A Title, Writing an Abstract,
+Keywords & Introduction, Writing Hypotheses, Developing Objectives, Research
+Tools, Writing Reports and Writing Proposal.
+UNIT-III:
+1. Criteria of Good Research- Avoiding Plagiarism
+2. Data Interpretation, Writing to the Point
+3. Preparing an outline for Research Articles & Research Reports
+UNIT-IV:
+1. Reference Skills:
+a) Paraphrasing (Change of parts of speech, word order, synonyms, using the passive
+form)
+b) Summarizing (Steps in summarizing)
+2. Inserting references
+UNIT-V:
+1. Assessment of Technical Reports
+2. Writing Research Article Reviews: Writing Article & Book Review
+TEXT BOOKS:
+1. A Course in Academic Writing, Gupta R., Orient BlackSwan, 2010
+2. Academic Writing: Exploring Processes and Strategies, Leki I., CUP, 1998
+3. Writing Up Research: Experimental Research Report Writing for Students of English,
+Weissberg R., & Buker S. Englewood Cliffs, Prentice Hall, 1990
+REFERENCES:
+1. English Academic Writing for Students and Researchers, Yakhontova T., 2003
+2. Inside Track: Successful Academic Writing Gillett, A., Hammond A., Martala M.
+Essex: Pearson Education 2009
+3. English for Academic Research: Writing Exercises, Wallwork, Springer, 2013
+4. The MLA Handbook for Writers of Research Papers, 7th Edition, Modern Language
+Association
+5. Academic Writing for Graduate Students: A Course for Non-Native Speakers of
+English, Swales J. M. & Feak C. B. AnnArbor: University of Michigan Press, 1994
+ONLINE RESOURCES:
+1. Using Sources Video Lecture
+2. https://www.coursera.org/lecture/advanced-writing/using-sources-video-lecture-
+i719P
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25MN6HS01) RESEARCH METHODOLOGY AND IPR
+TEACHINGSCHEME EVALUATION SCHEME
+L T/P C SE-I SE-II SEE TOTAL
+2 0 0 50 50 - 100
+COURSE OBJECTIVES:
+• To understand the research problem
+• To know the literature studies, plagiarism and ethics
+• To get the knowledge about technical writing
+• To analyze the nature of intellectual property rights and new developments
+• To know the patent rights
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand research problem formulation
+CO-2: Analyze research related information & Follow research ethics
+CO-3: Understand that today’s world is controlled by Computer, Information
+Technology, but tomorrow world will be ruled by ideas, concept, and creativity
+CO-4: Understanding that when IPR would take such important place in growth of
+individuals & nation, it is needless to emphasis the need of information about
+Intellectual Property Right to be promoted among students in general & engineering
+in particular
+CO-5: Understand that IPR protection provides an incentive to inventors for further
+research work and investment in R & D, which leads to creation of new and better
+products, and in turn brings about, economic growth and social benefits
+UNIT-I:
+Meaning of research problem, Sources of research problem, Criteria Characteristics
+of a good research problem, Errors in selecting a research problem, Scope and
+objectives of research problem.
+Approaches of investigation of solutions for research problem, data collection,
+analysis, interpretation, Necessary instrumentations
+UNIT-II:
+Effective literature studies approaches, analysis, Plagiarism, Research ethics
+UNIT-III:
+Effective technical writing, how to write report, Paper Developing a Research
+Proposal, Format of research proposal, a presentation and assessment by a review
+committee
+UNIT-IV:
+Nature of Intellectual Property: Patents, Designs, Trade and Copyright. Process of
+Patenting and Development: technological research, innovation, patenting,
+development. International Scenario: International cooperation on Intellectual
+Property. Procedure for grants of patents, Patenting under PCT.
+UNIT-V:
+Patent Rights: Scope of Patent Rights. Licensing and transfer of technology. Patent
+information and databases. Geographical Indications. New Developments in IPR:
+Administration of Patent System.
+New developments in IPR; IPR of Biological Systems, Computer Software etc.
+Traditional knowledge Case Studies, IPR and IITs
+TEXT BOOKS:
+1. Research Methodology: An Introduction for Science & Engineering Students, Stuart
+Melville and Wayne Goddard
+2. Research Methodology: An Introduction, Wayne Goddard and Stuart Melville
+3. Research Methodology: A Step-by-Step Guide for Beginners, Ranjit Kumar, 2nd
+Edition
+REFERENCES:
+1. Resisting Intellectual Property, Halbert, Taylor & Francis, 2007
+2. Industrial Design, Mayall, McGraw-Hill, 1992
+3. Product Design, Niebel, McGraw-Hill, 1974
+4. Intellectual Property in New Technological Age, Robert P. Merges, Peter S. Menell,
+Mark A. Lemley, 2016
+5. Intellectual Property Rights Under WTO, T. Ramappa, S. Chand, 2008

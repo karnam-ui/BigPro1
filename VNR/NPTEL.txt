@@ -1,0 +1,1773 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/ecedept/NPTEL.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for B.Tech. CE,EEE,ME,ECE,CSE,EIE,IT,AME, M.Tech. STRE, PE, AMS, SWE Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF (2023) Rank band:101-150 in Engineering Category
+College with Potential for Excellence by UGC,JNTUH-Recognized Research Centres:CE,EEE,ME,ECE,CSE
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Electronics and Communications Engineering
+Consolidated List of Completed NPTEL Student Certification Courses
+S.No Academic Year No. of Students Completed
+NPTEL Courses
+1 2023-2024 258
+2 2022-2023 83
+3 2021-2022 44
+4 2020-2021 12
+5 2019-2020 124
+6 2018-2019 121
+Prepared By Verified By Authorized By
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+AAn Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for CE, EEE, ME, ECE, CSE, EIE, IT B.Tech. Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH in engineering Category
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Electronics and Communications Engineering
+Student Toppers List
+2018-19 Semester 1
+S.No Name Roll Number Course Topper
+1 KALYANI SANGAM 16071A04B3 Programming, Topper of
+Data Structures 2% in this
+and Algorithms course
+using Python
+2 VALLABHANENI.SRI 16071A04B6 Programming, Topper of
+KAVYA Data Structures 5% in this
+and Algorithms course
+using Python
+3 R BALA NAGA 16071A04G7 Leadership Topper of
+SRIDHAR 5% in this
+course
+File In charge
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+AAn Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for CE, EEE, ME, ECE, CSE, EIE, IT B.Tech. Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH in engineering Category
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Electronics and Communications Engineering
+Student Toppers List
+2018-19 Semester 2
+S.No Name Roll Number Course Topper
+1 SREEDHAR 16071A0499 Joy of computing Topper of 1% in
+REDDY using Python this course
+2 VATSAL AMUDA 17071A04N6 Enhancing Soft Topper of 5% in
+Skills and this course
+Personality
+File In charge
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+AAn Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for CE, EEE, ME, ECE, CSE, EIE, IT B.Tech. Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH in engineering Category
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Electronics and Communications Engineering
+Student Toppers List
+2019-20 Semester 1
+S.No Name Roll Number Course Topper
+1 CHINTHALA 18071A0472 Programming, Data Topper of
+SHOUKTHIK Structures And Algorithms 5% in this
+SAI Using Python course
+2 G.PAVANI 17071A04K0 Programming, Data Topper of
+Structures And Algorithms 5% in this
+Using Python course
+File In charge
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for B.Tech. CE,EEE,ME,ECE,CSE,EIE,IT,AME, M.Tech. STRE, PE, AMS, SWE Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF (2022) 113 Rank in Engineering Category
+College with Potential for Excellence by UGC,JNTUH-Recognized Research Centres:CE,EEE,ME,ECE,CSE
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Electronics and Communication Engineering
+Student Toppers List
+2021-22 Semester I
+S.No Name Roll Number Course Topper
+1 Yashaswi Lakku 19071A04M4 Essential Mathematics for Topper of
+Machine Learning - online 5% in this
+course
+File In charge
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for B.Tech. CE,EEE,ME,ECE,CSE,EIE,IT,AME, M.Tech. STRE, PE, AMS, SWE Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF (2022) 113 Rank in Engineering Category
+College with Potential for Excellence by UGC,JNTUH-Recognized Research Centres:CE,EEE,ME,ECE,CSE
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Electronics and Communication Engineering
+Student Toppers List
+2021-22 Semester I
+S.No Name Roll Number Course Topper
+1 Yashaswi Lakku 19071A04M4 Essential Mathematics for Topper of
+Machine Learning - online 5% in this
+course
+File In charge
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for B.Tech. CE,EEE,ME,ECE,CSE,EIE,IT,AME, M.Tech. STRE, PE, AMS, SWE Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF (2022) 113 Rank in Engineering Category
+College with Potential for Excellence by UGC,JNTUH-Recognized Research Centres:CE,EEE,ME,ECE,CSE
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Electronics and Communication Engineering
+Student Toppers List
+2021-22 Semester II
+S.No Name Roll Number Course Topper
+1 Abhilash 19071A0488 Deep Learning Topper of
+Koorma 5% in this
+course
+2 JULURU 19071A0483 Deep Learning Topper of
+MANAV 5% in this
+course
+File In charge
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for B.Tech. CE,EEE,ME,ECE,CSE,EIE,IT,AME, M.Tech. STRE, PE, AMS, SWE Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF (2023) Rank band:101-150 in Engineering Category
+College with Potential for Excellence by UGC,JNTUH-Recognized Research Centres:CE,EEE,ME,ECE,CSE
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Electronics and Communications Engineering
+Student Toppers List
+2022-23 Semester 2
+S. No Name Roll Number Course Topper
+1 Introduction To Internet Of Topper of 2% in this
+Kothakonda Shoneeth 20071a0480
+Things course
+2 20071A0436 Topper of 2% in this
+Kuruva Gautham Kumar Data Base Management System
+course
+File In charge
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for B.Tech. CE,EEE,ME,ECE,CSE,EIE,IT,AME, M.Tech. STRE, PE, AMS, SWE Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF (2023) Rank band:101-150 in Engineering Category
+College with Potential for Excellence by UGC,JNTUH-Recognized Research Centres:CE,EEE,ME,ECE,CSE
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Electronics and Communications Engineering
+Student Toppers List
+2023-24 Semester 1
+S. No Name Roll Number Course Topper
+1 Sanjay Thota 20071A0455 Programming, Data Structures Topper of 5% in this
+And Algorithms Using Python course
+2 Mukkera Shiva Krishna 20071A0491 Introduction To Operating Topper of 1% in this
+Systems course
+File In charge
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for B.Tech. CE,EEE,ME,ECE,CSE,EIE,IT,AME, M.Tech. STRE, PE, AMS, SWE Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF (2023) Rank band:101-150 in Engineering Category
+College with Potential for Excellence by UGC,JNTUH-Recognized Research Centres:CE,EEE,ME,ECE,CSE
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Electronics and Communications Engineering
+Student Toppers List
+2023-24 Semester 2
+S.No Name Roll Number Course Topper
+1 S Sai Madhava Reddy 21071A04B7 Programming In Java Topper of 5% in this
+course
+2 Rayapudi Sriram 22071A04H6 Programming In Java Topper of 1% in this
+course
+3 Medipally Shivaprasad 22075A0418 CMOS Digital VLSI Topper of 5% in this
+Design course
+4 Kandukuri Arunkumar 22075A0411 Introduction To Internet Topper of 5% in this
+Of Things course
+5 Vaskuri Bhargav 21071A04C8 Introduction To Internet Topper of 5% in this
+Of Things course
+6 Saketh Vishwanatham 21071A04R6 Introduction To Internet Topper of 5% in this
+Of Things course
+7 Sanjana Mohite 21071A04C0 Introduction To Internet Topper of 5% in this
+Of Things course
+8 Allaka Sai Jothsna Sri 21071A0466 Introduction To Internet Topper of 5% in this
+Of Things course
+9 Nagulapati Sreya 21071A04A7 Introduction To Internet Topper of 2% in this
+Of Things course
+10 D Phanindra 21071A0477 Introduction To Internet Topper of 1% in this
+Of Things course
+File In charge
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+AAn Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for CE, EEE, ME, ECE, CSE, EIE, IT B.Tech. Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH in engineering Category
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Electronics and Communications Engineering
+NPTEL 2018-19, Semester 1
+Student Data
+S.N0 Name Roll No. Subject Year Month
+1 R S S MAUKTHIKA 15071A04M0 Applied Optimization for 2018 October
+Wireless, Machine
+Learning, Big Data
+2 MAMUNOORU 16071A0434 Blockchain Architecture 2018 October
+CHINMAY MANEESH Design and Use Cases
+SHALANKAYAN
+3 AREPALLI 18071A04C5 Calculus of One Real 2018 October
+VAISHNAVI Variable
+4 SIRVISETTI NEERAJ 16071A04H1 Deep Learning 2018 October
+5 CHALUVADI 15071A04C7 Digital Image Processing 2018 October
+SUBHADRA
+6 SAI KIRAN NETHI 16071A0451 Ethics in Engineering 2018 October
+Practice
+7 AISHWARYA 16071A0468 Introduction to Machine 2018 October
+CHANDA Learning
+8 ARAVIND SAI 16071A0415 Introduction to Machine 2018 October
+Learning
+9 B.SAI GANESH 16071A0413 Introduction to Machine 2018 October
+Learning
+10 CH.SRI VARSHINI 16071A04C7 Introduction to Machine 2018 October
+Learning
+11 REDDYPALLI 16071A0447 Introduction to Machine 2018 October
+ARCHANA Learning
+12 BEGARI SAI KRISHNA 16071A0412 Introduction to Machine 2018 October
+Learning
+13 GUNDA.SAISHMA 17075A0429 Introduction to Machine 2018 October
+Learning
+14 GODA GNANA TEJA 16071A04D7 Introduction to Machine 2018 October
+YADAV Learning
+15 MOHAMMED 16071A04F9 Introduction to Machine 2018 October
+AKRAM Learning
+16 M.RAVI CHANDRA 16071A04F5 Introduction to Machine 2018 October
+Learning
+17 DEVINENI SRAVANI 16071A0475 Introduction to Machine 2018 October
+Learning
+18 SIRIKONDA SAI 16071A04B4 Introduction to Machine 2018 October
+BHAVYA SREE Learning
+19 DOMA PAVAN 16071A0477 Introduction to 2018 October
+KUMAR Programming in C
+20 SAI KIRAN NETHI 16071A0451 Introduction to Research 2018 October
+21 AREPALLY SANJANA 16071A04C3 Leadership 2018 October
+REDDY
+22 LEBAKA SAI 16071A04F4 Leadership 2018 October
+SREENIVAS REDDY
+23 R BALA NAGA 16071A04G7 Leadership 2018 October
+SRIDHAR
+24 J PRASHANTH 17071A0484 Programming, Data 2018 October
+Structures and Algorithms
+using Python
+25 MANIDEEPTHI 16071A04F6 Programming, Data 2018 October
+CHERLAPALLY Structures and Algorithms
+using Python
+26 APPIDI ROHITH 17071A0463 Programming, Data 2018 October
+REDDY Structures and Algorithms
+using Python
+27 MAMILLA SRI HARI 16071A0432 Programming, Data 2018 October
+GOVINDA Structures and Algorithms
+using Python
+28 VENKATA LAKSHMI 17071A04B7 Programming, Data 2018 October
+DEEPTHI NALLURI Structures and Algorithms
+using Python
+29 KALYANI SANGAM 16071A04B3 Programming, Data 2018 October
+Structures and Algorithms
+using Python
+30 VALLABHANENI.SRI 16071A04B6 Programming, Data 2018 October
+KAVYA Structures and Algorithms
+using Python
+31 NIKHITHA 17071A04A0 The Joy of Computing using 2018 October
+KARENNAGARI Python
+32 K SAKETH SAI 17071A04E7 Advanced Topics in 2018 October
+NIGAM Probability and Random
+Processes
+33 MULINTISNEHA 16071A04A0 Blockchain Architecture 2018 October
+Design and Use Cases
+34 MATETI SATHVIK 16071A0498 Introduction to 2018 October
+Programming in C
+35 L.VINAY RAJIV 16071A0494 Programming, Data 2018 October
+REDDY Structures and Algorithms
+using Python
+36 RACHA BHARADWAJ 17071A04G8 Semiconductor Devices and 2018 October
+Circuits
+37 YASHWANTH VADLA 17071A04H7 Semiconductor Devices and 2018 October
+Circuits
+38 SURAM RAKESH 16075A0425 Control Engineering 2018 October
+39 PANDRAPRAGADA 16071A04A3 Design and Analysis of 2018 October
+HEMADRI RAO Algorithms
+40 MANGIPUDI SAI RAM 16071A04H2 Economic Growth and 2018 October
+PAVAN KUMAR Development
+41 PALAMAKULA SAI 16071A0440 Introduction to Machine 2018 October
+SUDHIR REDDY Learning
+42 AKHIL KUMAR 16071A0402 Introduction to Machine 2018 October
+MEKALA Learning
+43 YELLENKI RITHEESH 16071A0460 Introduction to Machine 2018 October
+BARADWAJ Learning
+44 P CHAITANYA 16071A04G6 Introduction to Machine 2018 October
+KRISHNA Learning
+45 KOVURU BHAVYA 16071A04G7 Introduction to 2018 October
+MANVITHA Programming in C
+46 AREPALLI 18071A04C5 Problem Solving through 2018 October
+VAISHNAVI Programming in C
+47 SUDDAPALLI 16071A04B5 Problem Solving through 2018 October
+CHANDANA Programming in C
+48 G AKHIL 17071A04D4 Problem Solving through 2018 October
+Programming in C
+49 PADHURI 17071A0438 Programming, Data 2018 October
+NAVANEETH REDDY Structures and Algorithms
+using Python
+File In charge
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+AAn Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for CE, EEE, ME, ECE, CSE, EIE, IT B.Tech. Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH in engineering Category
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Electronics and Communications Engineering
+NPTEL Student Data
+2018-19, Semester 2
+S.N0 Name Roll No. Subject Year Month
+1. D ASU 16071A0419 Data Science for Engineers 2019 April
+PRADYUMNA
+UPENDRA
+2. A NKITHA GUDLA 16071A0462 Design and Analysis of Algorithms 2019 April
+3. D OMA PAVAN 16071A0477 Design and Analysis of Algorithms 2019 April
+KUMAR
+4. K HIMAVARSHINI 16071A0485 Programming, Data Structures 2019 April
+and Algorithms using Python
+5. P RIYANKA 16071A04A9 Programming, Data Structures 2019 April
+KOLLURI and Algorithms using Python
+6. R IDHA FARZEEN 16071A04B2 Introduction to Coding Theory 2019 April
+7. S IRIKONDA SAI 16071A04B4 Design and Analysis of Algorithms 2019 April
+BHAVYA SREE
+8. D S 16071A04D1 Design and Analysis of Algorithms 2019 April
+CHAKRAVARTHY
+9. S AADIA HASSAN 17071A0446 Electronic Packaging and 2019 April
+Manufacturing
+10. A RVA SAI 17071A0464 Programming, Data Structures 2019 April
+MAHESHWAR and Algorithms using Python
+11. C HUTTUGULLA 17071A0472 Analog Circuits 2019 April
+POOJITH KUMAR
+12. G OUDA SAI 17071A0480 Programming, Data Structures 2019 April
+PRUTHVI RAJ and Algorithms using Python
+13. J ANAMPALLY SAI 17071A0483 Programming, Data Structures 2019 April
+CHANDRA REDDY and Algorithms using Python
+14. K OMPALLI JHANSI 17071A0493 Programming, Data Structures 2019 April
+and Algorithms using Python
+15. M UNAGALA 17071A0497 Programming, Data Structures 2019 April
+PRASHANTH and Algorithms using Python
+REDDY
+16. S AI SRIRAM 17071A0499 Programming, Data Structures 2019 April
+NANDEPU and Algorithms using Python
+17. Y ASHASWINI 17071A04A8 Programming, Data Structures 2019 April
+and Algorithms using Python
+18. A VINASH 17071A04B4 Programming, Data Structures 2019 April
+UMMAGANI and Algorithms using Python
+19. V ADDEPALLI 17071A04B5 Programming, Data Structures 2019 April
+MANASA and Algorithms using Python
+20. Y AMAVARAM SAI 17071A04B9 Programming, Data Structures 2019 April
+KARTHIK and Algorithms using Python
+21. Y ASHWANTH 17071A04C0 Programming, Data Structures 2019 April
+REDDY and Algorithms using Python
+22. B ANDARU 17071A04C6 Programming, Data Structures 2019 April
+SANTHOSH and Algorithms using Python
+KUMAR
+23. B URA 17071A04C9 Introduction to Remote Sensing 2019 April
+ARAVINDASAI
+24. D HANISETTI 17071A04D1 Programming, Data Structures 2019 April
+CHAKRADHAR and Algorithms using Python
+25. D HULIPALLA 17071A04D2 Programming, Data Structures 2019 April
+SPANDANA and Algorithms using Python
+26. G AKHIL 17071A04D4 Programming, Data Structures 2019 April
+and Algorithms using Python
+27. K ANDADI 17071A04E4 Programming, Data Structures 2019 April
+RAJASHARATHCH and Algorithms using Python
+ANDRA REDDY
+28. M EENA 17071a04f5 Programming, Data Structures 2019 April
+CHOUDHARY and Algorithms using Python
+29. M OHAMMAD 17071A04F6 Programming, Data Structures 2019 April
+AATIF JAFFERY and Algorithms using Python
+30. M OHAMMED 17071A04F7 Programming, Data Structures 2019 April
+AMEER and Algorithms using Python
+31. R AKSHITHRAJ 17071A04G9 Programming, Data Structures 2019 April
+PULLURI and Algorithms using Python
+32. S HAIK BAJI BABA 17071A04H5 Programming, Data Structures 2019 April
+and Algorithms using Python
+33. S USHMA 17071A04H6 Programming, Data Structures 2019 April
+THANGELLA and Algorithms using Python
+34. V ISHNU VYTLA 17071A04I0 Introduction to Remote Sensing 2019 April
+35. A DLA ASHOK 17071a04i1 Programming, Data Structures 2019 April
+KUMAR and Algorithms using Python
+36. N ANNURI 17071A04M Programming, Data Structures 2019 April
+MADHU GEETHA 6 and Algorithms using Python
+37. P . PALLAVI SAI 17071A04N0 Programming, Data Structures 2019 April
+and Algorithms using Python
+38. E RUKULA 17071A04J6 Problem solving through 2019 April
+NAGAVAISHNAVI Programming In C
+39. J ULIA 17071A04L3 Problem solving through 2019 April
+Programming In C
+40. G .AKHILA 17071A04K2 Problem solving through 2019 April
+Programming In C
+41. S AHER FATHIMA 17071A04H3 Programming in Java 2019 April
+SYEEDA
+42. V ELPULA 17071A04H9 Programming in Java 2019 April
+REVANTH
+43. S AI JAHNAVI 17071A04H4 Principles of Communication 2019 April
+ADUSUMILLI Systems - I
+44. M ANNEM KAVYA 17071A04F3 Principles of Communication 2019 April
+Systems - I
+45. G OUSIYA 17071A04J9 Digital Electronic Circuits 2019 April
+FATHIMA
+46. E .PREETHI 16071A0480 Microprocessors and 2019 April
+Microcontrollers
+47. M IDAMANENI 17071A0432 Biomedical Signal Processing 2019 April
+YASWITHA
+48. N ITYA 17071A04A1 Foundation Course in Managerial 2019 April
+NANDAMURI Economics
+49. D OMA PAVAN 16071A0477 Programming in Java 2019 April
+KUMAR
+50. S REEDHAR REDDY 16071A0499 Joy of computing using Python 2019 April
+51. M ALEGAMA 17075A0403 Introduction to Internet of Things 2019 April
+RAVITEJA
+52. V ATSAL AMUDA 17071A04N6 Enhancing Soft Skills and 2019 April
+Personality
+53. C HANDANALA.CH 17071A04J0 Problem solving through 2019 April
+ANDANA Programming In C
+54. G .PAVANI 17071A04K0 Problem solving through 2019 April
+Programming In C
+55. A SAPU SRAVANA 17071A04C1 Joy of computing using Python 2019 April
+PRAGNA
+56. K . SREE SAI 17075A0408 Introduction to Internet of Things 2019 April
+MOUNIKA
+57. M YNEEDI JYOTHI 17071A04F9 Principles of Communication 2019 April
+SWAROOPA Systems - I
+58. K AMBHAMPATI 17071A04K9 Principles of Communication 2019 April
+SRAVANIKUMARI Systems - I
+59. N ALLAPUNENI 17071A04G0 Principles of Communication 2019 April
+VIKRANTH Systems - I
+60. G ODHA 17071A04D7 Principles of Communication 2019 April
+PRATHIMA Systems - I
+61. N ITYA 17071A04A1 Soft Skills For Business 2019 April
+NANDAMURI Negotiations And Marketing
+Strategies
+62. A RUVA SRIKESH 17071A04I5 Problem solving through 2019 April
+Programming In C
+63. A KSHITHA 15071A0461 Big Data Computing 2019 April
+ATMAKURI
+64. C HEPPELA SAI 17071A04D0 Machine Learning, ML 2019 April
+BHARGAVA
+65. B OGUDA SNEHA 17071A0408 Principles of Communication 2019 April
+Systems - I
+66. G UNJI ARCHANA 17071A0417 Principles of Communication 2019 April
+Systems - I
+67. S IDHAM KAVITHA 17075A0431 Microprocessors and 2019 April
+Microcontrollers
+68. K . SREE SAI 17075A0408 CMOS Digital VLSI Design 2019 April
+MOUNIKA
+69. M ANKALA 17071A0430 Control engineering 2019 April
+VAMSHI VARUN
+GUPTHA
+70. S ATYA KAIVALYA 17071A04B1 Control engineering 2019 April
+RAO
+71. S HARJOTH KAUR 17071A04N3 Integral and Vector Calculus 2019 April
+72. M .SUNANDA 17071A04L6 Problem solving through 2019 April
+Programming In C
+File In charge
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+AAn Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for CE, EEE, ME, ECE, CSE, EIE, IT B.Tech. Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH in engineering Category
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Electronics and Communications Engineering
+NPTEL Student Data
+2019-20, Semester 1
+S.N0 Name Roll No. Subject Year Month
+1. PRANEETH 17071A04N2 Programming, Data Structures 2019 November
+And Algorithms Using Python
+2. GODHA 17071A04D7 Programming, Data Structures 2019 November
+PRATHIMA And Algorithms Using Python
+3. MUNAGALA 17071A0497 Programming, Data Structures 2019 November
+PRASHANTH And Algorithms Using Python
+REDDY
+4. MYNEEDI 17071A04F9 Programming, Data Structures 2019 November
+JYOTHI And Algorithms Using Python
+SWAROOPA
+5. CHINTHAPATLA 17071A0411 Programming, Data Structures 2019 November
+BHARATH And Algorithms Using Python
+KUMAR
+6. S.YOGA PRIYA 18071A04Q2 Programming, Data Structures 2019 November
+And Algorithms Using Python
+7. ASAPU 17071A04C1 Programming, Data Structures 2019 November
+SRAVANA And Algorithms Using Python
+PRAGNA
+8. MOSALI 17071A0433 Programming, Data Structures 2019 November
+HARSHITHA And Algorithms Using Python
+9. AMRUTHA 18075A0446 Programming, Data Structures 2019 November
+VALLURI And Algorithms Using Python
+10. SANIA BASEERA 17071A04B0 Programming, Data Structures 2019 November
+And Algorithms Using Python
+11. GOUDA SAI 17071A0480 Programming, Data Structures 2019 November
+PRUTHVI RAJ And Algorithms Using Python
+12. NAREDLA 17071A0435 Programming, Data Structures 2019 November
+RAMCHANDRA And Algorithms Using Python
+REDDY
+13. T.SWARNALATH 17071A0453 Programming, Data Structures 2019 November
+A And Algorithms Using Python
+14. G.AKHILA 17071A04K2 Programming, Data Structures 2019 November
+And Algorithms Using Python
+15. PREETHI 17071A0459 Programming, Data Structures 2019 November
+CHANDANA And Algorithms Using Python
+YADAVELLY
+16. SHIVARAM 17071A04A4 Programming, Data Structures 2019 November
+PATEL And Algorithms Using Python
+17. CH. SAI 17071A0470 Programming, Data Structures 2019 November
+KRISHNA And Algorithms Using Python
+18. KOTHA 17071A0422 Programming, Data Structures 2019 November
+EESHWAR And Algorithms Using Python
+REDDY
+19. PHANIKANTH 18075A0420 Programming, Data Structures 2019 November
+And Algorithms Using Python
+20. N SAMHITHA 17071A04G3 Programming, Data Structures 2019 November
+And Algorithms Using Python
+21. HARSHA 17071A0423 Programming, Data Structures 2019 November
+KURMA And Algorithms Using Python
+22. MADNOORKAR 18071A0491 Programming, Data Structures 2019 November
+SHIVAM And Algorithms Using Python
+23. KOTA SRINATH 17071A04L1 Programming, Data Structures 2019 November
+REDDY And Algorithms Using Python
+24. VAMSHI 17071A04K5 Programming, Data Structures 2019 November
+And Algorithms Using Python
+25. CHINTHALA 18071A0472 Programming, Data Structures 2019 November
+SHOUKTHIK SAI And Algorithms Using Python
+26. SAMARTHA RAJ 17071A04K2 Programming, Data Structures 2019 November
+And Algorithms Using Python
+27. L.VINAY RAJIV 16071A0494 Programming, Data Structures 2019 November
+REDDY And Algorithms Using Python
+28. KOTLA ANURAG 18071A04M Programming, Data Structures 2019 November
+REDDY 8 And Algorithms Using Python
+29. G.PAVANI 17071A04K0 Programming, Data Structures 2019 November
+And Algorithms Using Python
+30. M.PRASANNA 7989793380 Programming, Data Structures 2019 November
+LAKSHMI And Algorithms Using Python
+31. KOVURU 18071A04M Programming, Data Structures 2019 November
+BHAVYA 9 And Algorithms Using Python
+MANVITHA
+32. GOUSIYA 17071A04J9 Programming, Data Structures 2019 November
+FATHIMA And Algorithms Using Python
+33. AKULA PAVAN 17071A04I2 Programming, Data Structures 2019 November
+And Algorithms Using Python
+34. VINJARAPU 17071A0455 Programming, Data Structures 2019 November
+VENKATA SAI And Algorithms Using Python
+SANJAY
+35. ADLA ASHOK 17071a04i1 Programming, Data Structures 2019 November
+KUMAR And Algorithms Using Python
+36. ARUVA SRIKESH 17071A04I5 Programming, Data Structures 2019 November
+And Algorithms Using Python
+37. MANKALA 17071A0430 Programming, Data Structures 2019 November
+VAMSHI VARUN And Algorithms Using Python
+GUPTHA
+38. DATTASAI 17071A04J3 Programming, Data Structures 2019 November
+RAIPALLY And Algorithms Using Python
+39. CHETLA SAI 17071A04J1 Programming, Data Structures 2019 November
+RAM And Algorithms Using Python
+40. PEDDIREDDY 17071A0442 Programming, Data Structures 2019 November
+BALA GOPAL And Algorithms Using Python
+REDDY
+41. M.BHAVANI 18075A0405 Programming, Data Structures 2019 November
+And Algorithms Using Python
+42. PASHAM SAI 17071A0441 Programming, Data Structures 2019 November
+SANDEEP And Algorithms Using Python
+43. VEERABOINA 18071A04Q9 Programming, Data Structures 2019 November
+PRASHANTHKU And Algorithms Using Python
+MAR
+44. KAMBHAMPATI 17071A04K9 Programming, Data Structures 2019 November
+SRAVANIKUMA And Algorithms Using Python
+RI
+45. PREETHIKA 18071A0447 Programming, Data Structures 2019 November
+REDDY KARRA And Algorithms Using Python
+46. CHAVALI 18071A04K1 Programming, Data Structures 2019 November
+AMRUTHAVALLI And Algorithms Using Python
+47. THOTA NIHASRI 18071A0456 Programming, Data Structures 2019 November
+And Algorithms Using Python
+48. CHITTIMALLA 18071A04K2 Programming, Data Structures 2019 November
+SAI KRISHNA And Algorithms Using Python
+49. N.AJAYSAI 18071A0452 Programming, Data Structures 2019 November
+REDDY And Algorithms Using Python
+50. T.SHRUTHI 17071A04N5 Programming, Data Structures 2019 November
+And Algorithms Using Python
+51. M.RUPA 18071A0493 Programming, Data Structures 2019 November
+SREELEKHA And Algorithms Using Python
+52. PURELLA 18071A0451 Programming, Data Structures 2019 November
+SHIVANI And Algorithms Using Python
+53. GADDAM 17071A0477 Programming, Data Structures 2019 November
+SHARANYA And Algorithms Using Python
+54. ALLANI SATHVIK 17071A0402 Programming, Data Structures 2019 November
+And Algorithms Using Python
+55. JINNA.HRUTHIK 17071A04E0 Programming, Data Structures 2019 November
+A And Algorithms Using Python
+56. MARAGANI 18075A0406 Programming, Data Structures 2019 November
+BHARATH And Algorithms Using Python
+CHANDRA
+BALAJI
+57. LAKKIREDDY SAI 17071A0425 Programming, Data Structures 2019 November
+SANDEEP And Algorithms Using Python
+REDDY
+58. MANNEM 17071A04F3 Programming, Data Structures 2019 November
+KAVYA And Algorithms Using Python
+59. V.YAMINI 18075A0424 Programming, Data Structures 2019 November
+And Algorithms Using Python
+60. KATAKAM 17071A04L0 Programming, Data Structures 2019 November
+PAVAN KUMAR And Algorithms Using Python
+61. CHANDANALA.C 17071A04J0 Programming, Data Structures 2019 November
+HANDANA And Algorithms Using Python
+62. GAYATHRI 17071a04l5 Programming, Data Structures 2019 November
+And Algorithms Using Python
+63. MUSHYAM.MA 18075A419 Programming, Data Structures 2019 November
+HESH And Algorithms Using Python
+64. SATYA 17071A04B1 Programming, Data Structures 2019 November
+KAIVALYA RAO And Algorithms Using Python
+65. KUCHIPUDI 17071A04L2 Programming, Data Structures 2019 November
+RUSHI KIRAN And Algorithms Using Python
+KUMAR
+66. G.SAI CHARAN 17071A04D8 Programming, Data Structures 2019 November
+And Algorithms Using Python
+67. VODELA 17071A0456 Programming, Data Structures 2019 November
+MANASA And Algorithms Using Python
+68. SAI JAHNAVI 17071A04H4 Programming, Data Structures 2019 November
+ADUSUMILLI And Algorithms Using Python
+69. RITHIK 18071A0483 Programming, Data Structures 2019 November
+KAPARTHI And Algorithms Using Python
+70. SIDDARTH 17071A04G1 Ethical Hacking - Online 2019 November
+NEEDUGUNDE
+71. SIRVISETTI 16071A04H1 Practical Machine Learning with 2019 November
+NEERAJ Tensorflow - Online
+72. DURGA SAI 16071a04d3 Practical Machine Learning with 2019 November
+SRIKAR Tensorflow - Online
+KONURU
+73. C.SAI 16071A0416 Nanotechnology, Science and 2019 November
+EKAVARDHAN Applications
+REDDY
+74. MOHAMMED 17071A04M Programming, Data Structures 2019 November
+SHAFI UR 3 And Algorithms Using Python
+REHMAN
+File In charge
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+AAn Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for CE, EEE, ME, ECE, CSE, EIE, IT B.Tech. Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH in engineering Category
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Electronics and Communications Engineering
+NPTEL Student Data
+2019-20, Semester 2
+S.N0 Name Roll No. Subject Year Month
+1. POKALA 17071A0443 Practical Machine 2020 April
+HEMANTH Learning with
+Tensorflow
+2. KADAM DIVYA 19071A04D8 Problem solving 2020 April
+through Programming
+In C
+3. KANAPARTHI 19071A04E0 Problem solving 2020 April
+SOHILA through Programming
+In C
+4. MARISERLA 19071A04E8 Problem solving 2020 April
+BHAVANA through Programming
+In C
+5. KOTHA 17071A0422 Introduction to 2020 April
+EESHWAR internet of things
+REDDY
+6. PULIKANTHA 18071A04P3 Programming, Data 2020 April
+PRAHARSH Structures And
+Algorithms Using
+Python
+7. BOKKOLLA 17071A04C8 Programming, Data 2020 April
+PRANITHA Structures And
+Algorithms Using
+Python
+8. POSANPALLY 18071A0446 Programming, Data 2020 April
+BHAVIK REDDY Structures And
+Algorithms Using
+Python
+9. GADDAMEEDHI 17071A04C1 Programming, Data 2020 April
+DEEKSHITHA Structures And
+Algorithms Using
+Python
+10. GOSULA SHIVA 17071A04C4 Programming, Data 2020 April
+KUMAR Structures And
+Algorithms Using
+Python
+11. KATTA SHYAM 17071A0490 Programming, Data 2020 April
+PRASAD Structures And
+Algorithms Using
+Python
+12. SHIVAKUMAR 18075A0430 Programming, Data 2020 April
+KANDAGATLA Structures And
+Algorithms Using
+Python
+13. N.SATWIK 18071A0435 Programming, Data 2020 April
+Structures And
+Algorithms Using
+Python
+14. KARDHANOOR 18071A04M4 Programming, Data 2020 April
+ABHINAV Structures And
+REDDY Algorithms Using
+Python
+15. KANDIMALLA 18071A04M3 Programming, Data 2020 April
+ABHISHEK SAI Structures And
+Algorithms Using
+Python
+16. VARSHIK SONTI 17071A04A7 Programming, Data 2020 April
+Structures And
+Algorithms Using
+Python
+17. RAPELLY SAI 17071A04H2 Programming, Data 2020 April
+SANTHOSH Structures And
+Algorithms Using
+Python
+18. KALAKUNTLA 17071A0485 Programming, Data 2020 April
+PAVANI RAO Structures And
+Algorithms Using
+Python
+19. GOLLA 18071A0415 Programming, Data 2020 April
+ALEKHYA Structures And
+Algorithms Using
+Python
+20. KANDI 17071A04E5 Programming, Data 2020 April
+SHASHIDAR Structures And
+Algorithms Using
+Python
+21. BALERAO 17071A04C4 Programming, Data 2020 April
+KIRANMAI Structures And
+Algorithms Using
+Python
+22. BINDIGI 18071A04J7 Programming, Data 2020 April
+SHIVANI Structures And
+Algorithms Using
+Python
+23. VATSAL 17071A04N6 Programming, Data 2020 April
+AMUDA Structures And
+Algorithms Using
+Python
+24. BAREDDY 18071A0404 Programming, Data 2020 April
+KARUNAKAR Structures And
+REDDY Algorithms Using
+Python
+25. BALURI 17071A04C5 Programming, Data 2020 April
+SAISRIKAR Structures And
+Algorithms Using
+Python
+26. SAREPALLI 17071A04C7 Programming, Data 2020 April
+SHANMUKH Structures And
+ANVESH Algorithms Using
+Python
+27. KARNATI 18071A0424 Programming, Data 2020 April
+HARSHITHA Structures And
+Algorithms Using
+Python
+28. CHILUKALA 17071A0471 Programming, Data 2020 April
+SHARATH Structures And
+CHANDRA Algorithms Using
+Python
+29. TAMMINA 18071A0455 Programming, Data 2020 April
+NIKHIL Structures And
+Algorithms Using
+Python
+30. GUNDOJU 18071A0417 Programming, Data 2020 April
+AMRUTH Structures And
+CHANDRA Algorithms Using
+Python
+31. B THIRUPATHI 17071A04C2 Programming, Data 2020 April
+Structures And
+Algorithms Using
+Python
+32. JYOTHIRMAI 17071A0486 Programming, Data 2020 April
+KALLEPALLI Structures And
+Algorithms Using
+Python
+33. VIPPARTHI 17071A04N7 Programming, Data 2020 April
+VAMSHI Structures And
+Algorithms Using
+Python
+34. PACHAVA 17071A04C3 Programming, Data 2020 April
+CHINNI Structures And
+PRASANNA Algorithms Using
+Python
+35. VAISHNAVI 18071A04M2 Programming, Data 2020 April
+KARINGALA Structures And
+Algorithms Using
+Python
+36. CHEERALA 17071A04C6 Programming, Data 2020 April
+NAVYA SREE Structures And
+Algorithms Using
+Python
+37. KAMMA 17071A0488 Programming, Data 2020 April
+BAVESH Structures And
+CHOWDARY Algorithms Using
+Python
+38. BANDI NIKITHA 18071A04J2 Programming, Data 2020 April
+Structures And
+Algorithms Using
+Python
+39. ROHIT TEJA 17071A0468 Programming, Data 2020 April
+Structures And
+Algorithms Using
+Python
+40. SOMU ROHIT 18071A0453 Programming, Data 2020 April
+REDDY Structures And
+Algorithms Using
+Python
+41. POTHURI 18071A04A2 Python for Data 2020 April
+AKISH Science
+42. KAMADI 19071A04D9 Machine Learning, ML 2020 April
+SIVADITYA
+43. NIKHITHA 17071A04A0 Deep Learning - Part 2020 April
+KARENNAGARI 1(IIT Ropar)
+44. CHINTHAPATLA 17071A0411 An Introduction To 2020 April
+BHARATH Programming Through
+KUMAR C++
+45. PACHAVA 17071A04D2 Principles of Signals 2020 April
+CHINNI and Systems
+PRASANNA
+46. SAI PRANEETH 18071A04C1 Analog Circuits 2020 April
+ACHANTA
+47. ELIGETI 17075A0416 CMOS Digital VLSI 2020 April
+PAVANSAI Design
+48. CHUTTUGULLA 17071A0472 Network Analysis 2020 April
+POOJITH
+KUMAR
+49. PENTAPATI 17071A04N1 Enhancing Soft Skills 2020 April
+VENKATA and Personality
+RAMANAYYA
+SHETTY
+50. RAMA VENKAT 16071A04B0 Descriptive Statistics 2020 April
+SAI with R Software
+File In charge
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for CE, EEE, ME, ECE, CSE, EIE, IT B.Tech. Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH in engineering Category
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Electronics and Communications Engineering
+NPTEL Student Data
+2020-21, Semester 1
+S.No Name Roll No. Subject Year Month
+1. Gumpula Kavya 19071A0481 Programming, Data 2020 December
+Reddy Structures And
+Algorithms Using
+Python
+2. Abhilash Koorma 19071A0488 Problem solving 2020 December
+through
+Programming In C
+File In charge
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for CE, EEE, ME, ECE, CSE, EIE, IT B.Tech. Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH in engineering Category
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Electronics and Communications Engineering
+NPTEL Student Data
+2020-21, Semester 2
+S.N0 Name Roll No. Subject Year Month
+1. Mohammad 20071A0491 Principles of Signals and 2021 April
+chand pasha Systems
+2. NARLA 20071A0495 Problem Solving through 2021 April
+SURENDRANATH Programming in C
+REDDY
+3. Anreddy Ramya 20071A0463 Problem Solving through 2021 April
+Programming in C
+4. MANCHALA 20071A0487 Problem Solving through 2021 April
+RAMCHAND Programming in C
+5. KOTHAKONDA 20071A0480 Problem Solving through 2021 April
+SHONEETH Programming in C
+6. Anirudh Rao 20071A04B9 Problem Solving through 2021 April
+Veeramalla Programming in C
+7. KOUDA AKHIL 20071A0498 Problem Solving through 2021 April
+KUMAR Programming in C
+8. Sameer M 20071A04A9 Problem Solving through 2021 April
+Programming in C
+9. Vasamsetty Jathin 20071A04B8 Problem Solving through 2021 April
+Sai Programming in C
+10. DORSELA KEERTHI 20071A04D1 Problem Solving through 2021 April
+CHANDRIKA Programming in C
+File In charge
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for B.Tech. CE, EEE, ME, ECE, CSE, EIE, IT Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF 135th Rank in Engineering Category
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+Estd.1995 E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Electronics and Communication Engineering
+NPTEL STUDENTS Data
+Academic Year 2021-2022 I Sem
+July-Oct 2022
+S.N0 Name Roll No. Subject Year Month
+1. Boppa Manisha 19071A04C9 Programming, Data 2021 October
+Structures And Algorithms
+Using Python-Online
+2. NUGURI SAKETH 19071A04F6 Introduction to Machine 2021 October
+Learning - IITKGP-Online
+3. Dukkipati Vijay Sai 19071A04D3 Introduction to Machine 2021 October
+Learning - IITKGP-Online
+4. Veeraballi Ricky 19071A04P4 Essential Mathematics for 2021 October
+Deeven Machine Learning - online
+5. Rohan 19071A04P9 Essential Mathematics for 2021 October
+Machine Learning - online
+6. M Sharath Reddy 19071A04R0 Essential Mathematics for 2021 October
+Machine Learning - online
+7. Shaik Mohammed 19071A04A9 Essential Mathematics for 2021 October
+Ismail Sarfaraz Machine Learning - online
+8. Chervirala Vani 20075A0420 Essential Mathematics for 2021 October
+Machine Learning - online
+9. Uppala Bhargava 19071A04Q8 Essential Mathematics for 2021 October
+Sai Machine Learning - online
+10. Yashaswi Lakku 19071A04M4 Essential Mathematics for 2021 October
+Machine Learning - online
+11. Middinti Archana 19071A04N0 Essential Mathematics for 2021 October
+Reddy Machine Learning - online
+12. Vikas Kondoor 19071A04R0 Essential Mathematics for 2021 October
+Machine Learning - online
+13. Saisri Mantri Essential Mathematics for 2021 October
+Machine Learning - online
+14. Namani kavyasree 20075A0424 Essential Mathematics for 2021 October
+Machine Learning - online
+15. Shaik Sohail 19071A04B0 Mathematical Aspects of 2021 October
+Biomedical Electronic System
+Design - online
+16. N Satwik 18071A0435 Programming in Java - online 2021 October
+17. Avinash Surabhi 19071A04Q3 Mathematical Aspects of 2021 October
+Biomedical Electronic System
+Design - online
+Prepared By
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for B.Tech. CE,EEE,ME,ECE,CSE,EIE,IT,AME, M.Tech. STRE,PE,AMS,SWEProgrammes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF(2022) 113 Rank in Engineering Category
+College with Potential for Excellence by UGC,JNTUH-Recognized Research
+Centres:CE,EEE,ME,ECE,CSEVignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500
+090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Electronics and Communication Engineering
+NPTEL Student Data
+Academic Year 2021-22, II Sem
+Jan to April 2022
+S.N0 Name Roll No. Subject Year Month
+1. SUNNY DEVA 19071A04Q0 Deep Learning 2022 April
+2. SHAIK 19071A04A9 Deep Learning 2022 April
+MOHAMMED
+ISMAIL SARFARAZ
+3. SHAIK SOHAIL 19071A04B0 Deep Learning 2022 April
+4. VEERABALLI 19071A04P4 Deep Learning 2022 April
+RICKY DEEVEN
+5. ROHAN 19071A04P9 Deep Learning 2022 April
+6. YASHASWI 19071A04M4 Deep Learning 2022 April
+LAKKU
+7. ADARSH 19071A04N4 Deep Learning 2022 April
+NALAMACHU
+8. MIDDINTI 19071A04N0 Deep Learning 2022 April
+ARCHANA REDDY
+9. VASAMSETTY 20071A04B8 An Introduction to 2022 April
+JATHIN SAI Programming Through
+C++
+10. NUGURI SAKETH 19071A04F6 Deep Learning - IIT 2022 April
+Ropar
+11. DORSELA 20071A04D1 Programming In Java 2022 April
+KEERTHI
+CHANDRIKA
+12. DUKKIPATI VIJAY 19071A04D3 Deep Learning - IIT 2022 April
+SAI Ropar
+13. SAI SAHITH 19071A0411 Deep Learning 2022 April
+GABEETA
+14. VIDYA SIVANI 19071A04Q7 Deep Learning 2022 April
+UDDARAJU
+15. M SHARATH 19071A04R0 Deep Learning 2022 April
+REDDY
+16. VIKAS KONDOOR 19071A04R0 Deep Learning 2022 April
+17. ATYAM HAASITA 19071A0468 Deep Learning 2022 April
+18. ABHILASH 19071A0488 Deep Learning 2022 April
+KOORMA
+19. MOHAMMAD 19071A04N1 Deep Learning 2022 April
+AAMIR
+20. UPPALA 19071A04Q8 Deep Learning 2022 April
+BHARGAV SAI
+21. JULURU MANAV 19071A0483 Deep Learning 2022 April
+(Top 5%)
+22. KOUDA AKHIL 20071A0481 Programming In Java 2022 April
+KUMAR
+23. DORSELA 20071A04D1 Introduction To Internet 2022 April
+KEERTHI Of Things
+CHANDRIKA
+24. SAI TEJA THODETI 19071A04Q6 Deep Learning 2022 April
+25. SUREDDY RAGHU 20071A04Q1 Microprocessors And 2022 April
+TEJA REDDY Microcontrollers
+26. PATCHALA 20071A04P5 Microprocessors And 2022 April
+DEEKSHITA Microcontrollers
+27. RAMAKRISHNA 20071A04P6 VLSI Physical Design 2022 April
+CHALLAPALLI
+Prepared By
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for B.Tech. CE, EEE, ME, ECE, CSE, EIE, IT Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF 135th Rank in Engineering Category
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+Estd.1995 E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Electronics and Communication Engineering
+NPTEL Students Data
+Academic Year 2022-2023 I Sem
+July-Oct 2022
+Certificate
+S.no Name Roll No. Course Name
+Type
+Introduction to Successfully
+1 Rohan Sirimalla 19071A04P9
+Machine Learning completed
+Python for Data
+2 Gondi Kavya Sree 20071A0474 Elite+Silver
+Science
+Programming, Data
+Structures and
+3 Anreddy Ramya 20071A0463 Elite
+Algorithms Using
+Python
+Introduction to Successfully
+4 M Sharath Reddy 19071A04N3
+Machine Learning completed
+Data Science for Successfully
+5 Panyala Pragna 20071A0442
+Engineers completed
+Programming, Data
+Narla Surendranath Structures and
+6 20071A0495 Elite+Silver
+Reddy Algorithms Using
+Python
+Python for Data
+7 Sirigada Ravi Kiran 20071A04B1 Elite
+Science
+Introduction to Successfully
+8 Vikas Kondoor 19071A04R0
+Machine Learning completed
+Introduction to
+9 Ane Yamini 19071A0465 Elite
+Machine Learning
+Introduction to Successfully
+10 Yashaswi Lakku 19071A04M4
+Machine Learning completed
+Hardware Modeling
+11 Kondra Omkumar 19071A04K8 Elite+Silver
+Using Verilog
+Problem Solving
+12 Adithya Phani Thota 21071a0490 Through Programming Elite+Silver
+In C
+Introduction to Successfully
+13 Atyam Haasita 19071A0468
+Machine Learning completed
+Peddamma Bhanu Introduction To
+14 20075a0413 Elite
+Prakash Internet Of Things
+Sai Kaivalya Introduction to Successfully
+15 19071A04M6
+Madhavam Machine Learning completed
+Introduction to Successfully
+16 Sai Sahith Gabbeta 19071A0411
+Machine Learning completed
+Introduction to Successfully
+17 Sai Teja Thodeti 19071A04Q6
+Machine Learning completed
+Introduction to Successfully
+18 Kummari Shivani 19071A04M2
+Machine Learning completed
+Introduction to
+19 Vidya Sivani Uddaraju 19071A04Q7 Elite
+Machine Learning
+Shaik Mohammed Introduction to Successfully
+20 19071A04A9
+Ismail Sarfaraz Machine Learning completed
+Introduction to Successfully
+21 Shaik Sohail 19071A04B0
+Machine Learning completed
+Introduction to
+22 Surya Harshini G 19071A04Q4 Elite
+Machine Learning
+Introduction to
+23 Annam Vandana 19071A0466 Elite
+Machine Learning
+Introduction to Successfully
+24 Abhilash Koorma 19071A0488
+Machine Learning completed
+Introduction to Successfully
+25 Adarsh Nalamachu 19071A04N4
+Machine Learning completed
+Middinti Archana Introduction to Successfully
+26 19071A04N0
+Reddy Machine Learning completed
+Introduction to Successfully
+27 Uppala Bhargava Sai 19071A04Q8
+Machine Learning completed
+Introduction to Successfully
+28 Juluru Manav 19071A0483
+Machine Learning completed
+Sureddy Raghu Teja Essential Mathematics
+29 20071A04Q1 Elite+Silver
+Reddy For Machine Learning
+Essential Mathematics
+30 Patchala Deekshita 20071a04p5 Elite
+For Machine Learning
+Essential Mathematics
+31 Vasamsetty Jathin Sai 20071A04B8 Elite
+For Machine Learning
+Essential Mathematics
+32 Sanjay Thota 20071A0455 Elite
+For Machine Learning
+Mukkera Shiva Essential Mathematics
+33 20071A0491 Elite+Silver
+Krishna For Machine Learning
+File In charge
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for B.Tech. CE, EEE, ME, ECE, CSE, EIE, IT Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF 135th Rank in Engineering Category
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+Estd.1995 E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Electronics and Communication Engineering
+NPTEL STUDENTS Data
+Academic Year 2022-2023 II Sem
+Jan-April 2023
+S.no Name Roll No. Course Name Certificate
+Type
+Dhupati Prudhvi
+1 20071A0470 Programming In Java Elite
+Raju
+Data Analytics with
+2 Sidda Swetha 21075A0418 Elite
+Python
+Samanidhar Reddy
+3 20071A04M1 Cloud Computing Elite
+Gurram
+Introduction to Machine
+4 Jyothi Abhinay 20071A0427 Elite
+Learning
+5 Annadi Dhanalaxmi 20071A04J6 Cloud Computing Elite
+Data Science for
+6 N N S L Asritha 20071A0441 Elite
+Engineers
+Segi Reddy Venkata Data Science for
+7 20071A0451 Elite
+Satya Siva Engineers
+Data Base Management
+8 Rakesh Miryala 19071A0432 Elite
+System
+Vojjala Sathwik
+9 20071A0459 Python for Data Science Elite
+Chandra
+I Venkata Shashank
+10 21071A0418 Analog Circuits Elite
+Varma
+Data Base Management
+11 Daddanala Shashank 21075A0409 Elite
+System
+CMOS Digital VLSI
+12 Lohita Tirumalasetty 20071A04H3 Elite
+Design
+Data Base Management
+13 Edukulla Saipraneeth 20071A0417 Elite
+System
+14 Harshadkumar Bale 21075A0408 CMOS Digital VLSI Design Elite
+Chinthakayala
+15 20071A0412 CMOS Digital VLSI Design Elite
+Gopichand
+Programming, Data
+Bagumari Deepak
+16 21075A0407 Structures And Elite
+Goud
+Algorithms Using Python
+CMOS Digital VLSI
+17 Sridhar V 21075A0405 Elite
+Design
+Data Base Management
+18 Peddi Harshitha 20071A0443 Elite
+System
+CMOS Digital VLSI
+19 Ashwini Nangunuri 21075A0402 Elite
+Design
+20 Shaik Mehtab 21071A0450 Analog Circuits Elite
+Programming, Data
+Dorsela Keerthi
+21 20071A04D1 Structures And Elite
+Chandrika
+Algorithms Using Python
+Introduction To Internet
+22 Challuri Prathyusha 20075A0409 Elite+Silver
+Of Things
+Aenugu
+23 Harshavardhan 20071a04j1 Programming In Java Elite+Silver
+Reddy
+Thupakula
+24 21071A04T3 Programming In Java Elite+Silver
+Ranganadh
+Introduction To Internet Of
+25 Mamidi Pranavi 20075A0412 Elite+Silver
+Things
+Shanmuka Sai
+26 21071A0452 Analog Circuits Elite+Silver
+Praneeth Gudapati
+CMOS Digital VLSI
+27 Anreddy Ramya 20071A0463 Elite+Silver
+Design
+Anirudh Rao CMOS Digital VLSI
+28 20071A04B9 Elite+Silver
+Veeramalla Design
+Gangaraboina CMOS Digital VLSI
+29 20071A0421 Elite+Silver
+Sainath Design
+Narla Surendranath CMOS Digital VLSI
+30 20071A0495 Elite+Silver
+Reddy Design
+CMOS Digital VLSI
+31 Valluru Thanvitha 20071A04Q5 Elite+Silver
+Design
+CMOS Digital VLSI
+32 Borugani Akash 21075A0413 Elite+Silver
+Design
+CMOS Digital VLSI
+33 Gondi Kavya Sree 20071A0474 Elite+Silver
+Design
+34 P Hanish Goud 21071A0442 Analog Circuits Elite+Silver
+35 Muttannagaru Applied Statistics and Successfully
+21071A04A6
+Pranav Reddy Econometrics completed
+Evolution Of Air Successfully
+36 S Nikhitha 21075A0417
+Interface Towards 5G completed
+Successfully
+37 Yanamala Varshitha 20071A04G7 Cloud Computing
+completed
+Successfully
+38 Gattu Srikar Sharma 21071A04N2 Programming In Java
+completed
+Data Analytics with Successfully
+39 Srustitha Geedikanti 20071A04D5
+Python completed
+Successfully
+40 Vamsi Satya Vinay 20071A04B3 Programming In Java
+completed
+Successfully
+41 Sreyas 20071A04G7 Digital IC Design
+completed
+20071A0430 Successfully
+42 K Suman Deep Learning
+completed
+Successfully
+43 Dorbala Harini 20071A04D0 Programming In Java
+completed
+Successfully
+44 Damera Supriya 21071A0411 Analog Circuits
+completed
+Programming, Data
+Successfully
+45 Shaik Nizamuddin 20071A04P8 Structures And Algorithms
+completed
+Using Python
+Programming, Data
+Successfully
+46 Kasireddy Swetha 20071A04E5 Structures And
+completed
+Algorithms Using Python
+Data Base Management Successfully
+47 Pingalakani Sahithi 20071A0444
+System completed
+Elite+Silver
+Topper of
+Kothakonda Introduction To Internet Of
+48 20071a0480 2% in this
+Shoneeth Things
+course
+Elite+Silver
+Topper of
+Kuruva Gautham 20071A0436 Data Base Management
+49 2% in this
+Kumar System
+course
+Successfully
+50 Balne Sharath Kumar 20071a04J7 Cloud Computing
+completed
+File In charge
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for B.Tech. CE, EEE, ME, ECE, CSE, EIE, IT Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF 135th Rank in Engineering Category
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+Estd.1995 E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Electronics and Communication Engineering
+NPTEL STUDENTS Data
+Academic Year 2023-2024 I Sem
+July-Nov 2023
+S.no Name Roll No. Course Name Certificate
+Type
+1 Akarapu Pavandheeraj 20071A04J2 Introduction To Machine Elite
+Learning - IITKGP
+2 Cheekati Manohar 20071A0411 Programming, Data Structures Elite
+And Algorithms Using Python
+3 Guguloth Rahul 20071A0425 Programming, Data Structures Elite
+And Algorithms Using Python
+4 Akshitha Ganji 21071A04K6 Data Base Management System Elite
+5 Adithya Phani Thota 21071A0490 Programming, Data Structures Elite
+And Algorithms Using Python
+6 Kothawala Yogishwar 21071A04P5 Programming, Data Structures Elite
+Sai And Algorithms Using Python
+7 Shastrula Soumith 20071A04P9 Introduction To Machine Elite
+Sharma Learning - IITKGP
+8 Muthoju Ashritha 2007A10492 Python For Data Science Elite
+9 Vanga Surya Pramod 20071A04Q6 Introduction To Machine Elite
+Reddy Learning - IITKGP
+10 Valiveti Venkata 20071A04Q4 Python For Data Science Elite
+Srikar
+11 P V Varun Reddy 20071A04P4 Python For Data Science Elite
+12 Aenugu 20071a04j1 Introduction To Machine Elite
+Harshavardhan Reddy Learning - IITKGP
+13 Chinthakayala 20071A0412 Programming, Data Structures Elite
+Gopichand And Algorithms Using Python
+14 S Nikhitha 21075A0417 System Design Through Verilog Elite
+15 Lohita Tirumalasetty 20071A04H3 Programming, Data Structures Elite
+And Algorithms Using Python
+16 Jyothi Abhinay 20071A0427 Programming, Data Structures Elite
+And Algorithms Using Python
+17 Jeevana Sai Gogineni 20071A0476 Python For Data Science Elite
+18 Morrimekala Meera 20071A04N9 Programming, Data Structures Elite
+Hussain And Algorithms Using Python
+19 Kadaru Sravani 20071A04M4 Introduction To Machine Elite
+Learning - IITKGP
+20 Harini Dorbala 20071A04D0 Introduction To Machine Elite
+Learning - IITKGP
+21 Ade Vasavi Patel 21071A04K4 Cloud Computing Elite
+22 Dokka Sai Srikar 21071A04E5 Multi-Core Computer Elite
+Architecture
+23 Sainath Akula 20071A04J4 Programming In Java Elite
+24 Vishwapriya Reddy 21071A0463 Essential Mathematics For Elite
+Machine Learning
+25 Vallakati Kranthi 20071A04H5 Transducers For Instrumentation Elite
+Kumar
+26 Meghana Chandana 21071A0437 Essential Mathematics For Elite
+Machine Learning
+27 Mekala Rishitha 22071A04A1 Ethical Hacking Elite
+28 Dokka Sai Srikar 21071A04E5 Essential Mathematics For Elite
+Machine Learning
+29 Gnana Deepika 21071A0436 Essential Mathematics For Elite
+Meduri Machine Learning
+30 Guguloth Rahul 20071A0425 VLSI Design Flow: RTL to GDS Elite
+31 Harsha Vardhan 21071A0489 Introduction To Internet Of Elite
+Things
+32 Hakeem Avilash 21071A04F3 Essential Mathematics For Elite
+Machine Learning
+33 Javangula Venkat Sai 21071A04F5 Essential Mathematics For Elite
+Karthikeya Machine Learning
+34 Surabhi Siddhartha 21071A04J3 Essential Mathematics For Elite
+Machine Learning
+35 Kondra Omkumar 19071A04K8 VLSI Design Flow: RTL to GDS Elite+gold
+36 Abubaker Khan 20071A0401 Programming, Data Structures Elite+Silver
+And Algorithms Using Python
+37 Kuthadi Meghana 20071A04N4 Introduction To Machine Elite+Silver
+Learning - IITKGP
+38 Sainath Akula 20071A04J4 Introduction To Machine Elite+Silver
+Learning - IITKGP
+39 Dara Sai Jeevan Srikar 21071A04E3 Essential Mathematics For Elite+Silver
+Machine Learning
+40 Nooguri Shruthi 21071A0440 Essential Mathematics For Elite+Silver
+Machine Learning
+41 Alakuntla Vamsi 20071A0403 Programming, Data Structures Successfully
+Krishna And Algorithms Using Python completed
+42 M Sai Sriram Adithya 20071A04P0 Introduction To Machine Successfully
+Learning - IITKGP completed
+43 Tandra Abhishek 20071A04B4 Introduction To Operating Successfully
+Systems completed
+44 Ananya Ummadi 20071A04J5 Introduction To Machine Successfully
+Learning - IITKGP completed
+45 Muttannagaru Pranav 21071A04A6 Advanced Algorithmic Trading Successfully
+Reddy And Portfolio Management completed
+46 Duggirala Vara Satya 20071A04K6 Introduction To Machine Successfully
+Sai Prasad Learning - IITKGP completed
+47 Mohd Afsar Hussain 20071A0440 Programming, Data Structures Successfully
+And Algorithms Using Python completed
+48 Ganji Shivani 21071A04N1 Data Base Management System Successfully
+completed
+49 Venkatasai Vetapalem 21071A04T6 Python For Data Science Successfully
+completed
+50 B L S Lokesh 21071A0471 Cloud Computing Successfully
+completed
+51 Eddu Venugopal 21071A04E6 Essential Mathematics For Successfully
+Machine Learning completed
+52 Muttannagaru Pranav 21071A04A6 Essential Mathematics For Successfully
+Reddy Machine Learning completed
+53 Addagatla Suraj 22075A0422 Introduction To Machine Successfully
+Learning completed
+54 Chunduri Ramamurthy 21071A04E1 Essential Mathematics For Successfully
+Machine Learning completed
+55 K Bhargavi 22071A1028 Programming In Java Successfully
+completed
+56 Mukkera Shiva 20071A0491 Introduction To Operating Elite+Silver
+Krishna Systems Topper of 1%
+in this course
+57 Sanjay Thota 20071A0455 Programming, Data Structures Elite+Silver
+And Algorithms Using Python Topper of
+5% in this
+course
+File In charge
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for B.Tech. CE, EEE, ME, ECE, CSE, EIE, IT Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF 135th Rank in Engineering Category
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+Estd.1995 E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Electronics and Communication Engineering
+NPTEL Students Data
+Academic Year 2023-2024 II Sem
+Jan-April 2024
+S. No. Name Roll No. Course Name Certificate type
+1. Sathvika Bommella 22071A0474 Programming In Java Successfully completed
+2. M Rachana 22071A04P7 Programming In Java Successfully completed
+3. Neeharika Gopina 22071A04N2 Programming In Java Successfully completed
+4. Shushruth Sai 21071A0423 Programming In Java Successfully completed
+5. Yamsani Pranav 21071A0464 Programming In Java Successfully completed
+6. Sreeja Hazari 21071A0492 Programming In Java Successfully completed
+7. Sai Sudeep 21071A0458 Programming In Java Successfully completed
+Uppalapati
+8. Nallala Akshith 22071A04Q3 Programming, Data Successfully completed
+Reddy Structures And Algorithms
+Using Python
+9. Saketh Kumar Thati 21071A04J6 Programming In Java Successfully completed
+10. Thota Ranjith Kumar 22075A0407 Programming In Java Successfully completed
+11. Ramakuri Rishyendra 22071A04R0 Programming In Java Successfully completed
+12. Dontika Divya 23075A0417 Programming In Java Successfully completed
+13. Metla Renu Nagasri 21071a04q2 Programming In Java Successfully completed
+14. Barama Veda 21071A04D7 Programming In Java Successfully completed
+Harshitha
+15. Bandi Charan 21071A0403 Programming In Java Successfully completed
+16. Siri Chandana 21071A04B3 Programming In Java Successfully completed
+17. Sanjana Mohite 21071A04C0 Programming In Java Successfully completed
+18. Devana Bhargavi 21071A0480 Programming In Java Successfully completed
+19. Kundena Saikumar 22071A0430 Programming In Java Successfully completed
+Goud
+20. Kula Karnika 21071A0413 Programming In Java Successfully completed
+21. Siva Akshith Bhukya 21071A04C4 Programming In Java Successfully completed
+22. Kasoju Harshitha 21071A0496 Programming In Java Successfully completed
+23. Md Karimunnisa 21071A04G8 Programming In Java Successfully completed
+24. Pranathi 22075A0401 Programming In Java Successfully completed
+25. Madha Sai Prashanth 21071A0433 Programming In Java Successfully completed
+Goud
+26. Chapala Srihari 21071a04d9 Programming In Java Successfully completed
+27. Ch Pranaya Kumar 22071A0413 Programming In Java Successfully completed
+28. Ariveni Kusuma 21071A0470 Programming In Java Successfully completed
+Sowbhagya Sree
+29. Saketh Vishwanatham 21071A04R6 Programming In Java Successfully completed
+30. Pagidipalli Chubin 21071A0443 Programming In Java Successfully completed
+Rohith
+31. Saketh Ram 22071A0492 Programming In Java Successfully completed
+Kolichina
+32. Sanikommu Vasantha 22071A04B4 Programming In Java Successfully completed
+33. Durgam Mounika 22075A0417 Programming In Java Successfully completed
+34. Gireeshma 21071A0441 Programming In Java Successfully completed
+Nunsavathu
+35. Divyagna Palakurla 22071 A04 Q6 Programming In Java Successfully completed
+36. Jaya Rami Reddy 22071a04j4 Programming In Java Successfully completed
+Sudepalli
+37. Pranathi 22075A0401 VLSI Signal Processing Successfully completed
+38. Sathvik Kunuru 21071A0499 Programming In Java Successfully completed
+39. Rahul Maidamshetty 21071A04G4 Programming In Java Successfully completed
+40. Damera Supriya 21071A0411 Programming In Java Successfully completed
+41. Molugu Nishritha 22071A04F8 Programming In Java Successfully completed
+42. V Phanitha Sree 21071A0459 Programming In Java Successfully completed
+43. Konkipudi Manoj 22071A04P1 Programming In Java Successfully completed
+44. M Dharma Teja 21071A04Q6 Programming In Java Successfully completed
+45. Meghana Chandana 21071A0437 Programming In Java Successfully completed
+46. Mukkamala Ashritha 23071A04Q3 Programming In Java Successfully completed
+47. Puppala Sooraj 21071A04B4 Programming In Java Successfully completed
+48. Thadikamalla Rakesh 21071A0455 Programming In Java Successfully completed
+49. Naganaboina 23071A04Q4 Programming In Java Successfully completed
+Tanishka Yadav
+50. Alladi Vishnusharan 22075A0415 Programming In Java Successfully completed
+51. Deekshita Dontukurti 23071A04M5 Programming In Java Successfully completed
+52. Munukuntla Vasanth 22071A04G0 Programming In Java Successfully completed
+53. Thadem Ashwini 23075A0426 Programming In Java Successfully completed
+54. Appareddygudem 21071A0468 Programming In Java Successfully completed
+Vamshi
+55. Bhavani Golconda 21071A04F0 Programming In Java Successfully completed
+56. Vemparala Sai Naga 21071A0462 Digital Communication using Successfully completed
+Sri Samhitha GNU Radio
+57. Makani Keerthana 23075A0404 Programming In Java Successfully completed
+58. Pendam Tanvi 21071A04R2 Programming In Java Successfully completed
+59. Mididoddi Tejaswi 21071A04G6 Programming In Java Successfully completed
+60. Vaishnavi 21071a04r5 Programming In Java Successfully completed
+61. Vyshnavi Koduri 22071A04P0 Programming In Java Successfully completed
+62. Kothawala Yogishwar 21071A04P5 Programming In Java Successfully completed
+Sai
+63. Banoth Shailaja 21071A0473 Programming In Java Successfully completed
+64. Sirikonda Bharath 21071A0453 Programming In Java Successfully completed
+65. Javangula Venkat Sai 21071A04F5 Programming In Java Successfully completed
+Karthikeya
+66. Thota Abhigyna 21071A04T1 Programming In Java Successfully completed
+67. Kavyasree Poluri 21071A04H6 Programming In Java Successfully completed
+68. Moturi Srilekha 22071A04Q1 Programming In Java Successfully completed
+69. Elegety Sri Varsha 21071A0416 Programming In Java Successfully completed
+70. Sai Pavan 22071A0498 Programming In Java Successfully completed
+71. Kundena Saikumar 22071A0430 Programming in Modern C++ Successfully completed
+Goud
+72. Sreya Mothukuri 21071A04Q3 Programming In Java Successfully completed
+73. Dokka Sai Srikar 21071A04E5 Programming In Java Successfully completed
+74. Mekala Rishitha 22071A04A1 Programming In Java Successfully completed
+75. B Shiva Teja 21071A0472 Programming In Java Successfully completed
+76. Ekkala Yoshitha 21071A0483 Programming In Java Successfully completed
+77. Potlacheruvu Nikitha 21071A0445 Programming In Java Successfully completed
+78. M Sai Sahithy 21071A04A2 Programming In Java Successfully completed
+79. Sriranganilayam 22071A04R8 Programming In Java Successfully completed
+Eswara Akash Kumar
+80. Pachava Anunya 21071A04H3 Programming In Java Successfully completed
+81. Kuruganti Sree Sesha Programming In Java Successfully completed
+Akshitha
+82. Kemmasaram Suresh 21071A04F9 Programming In Java Successfully completed
+83. Musthyala Madhuri 22075A0427 Programming In Java Successfully completed
+Goud
+84. Vaddamoni Upendra 22075A0421 Programming In Java Successfully completed
+85. Arikatla Rahul 21071A04M0 Programming In Java Successfully completed
+Chowdary
+86. Varshini Gouda 21071A04F1 Programming In Java Successfully completed
+87. Hakeem Avilash 21071A04F3 Programming In Java Successfully completed
+88. Nenavath Mounika 22075a0419 Programming In Java Successfully completed
+89. Kotla Srinitha 23075A0419 Programming In Java Successfully completed
+90. Vadavalasa Siddartha 22071A04C6 Programming In Java Successfully completed
+91. Kandukuri 22075A0411 Programming In Java Successfully completed
+Arunkumar
+92. Golamaru Rushitha 23071A0487 Programming In Java Successfully completed
+Reddy
+93. Bonthu Meghana 21071A0407 Programming In Java Successfully completed
+94. Katamoni Naveetha 22071A04N8 Programming In Java Successfully completed
+95. Atluri Vipul 23071A0403 Nuclear Astrophysics Successfully completed
+96. Shaik Afreen 21071A04C2 Programming In Java Successfully completed
+97. Chunduri 21071A04E1 Programming In Java Successfully completed
+Ramamurthy
+98. Elimitla Harika 22075A0402 Programming In Java Successfully completed
+99. Harsha Vardhan 21071A0489 Programming In Java Successfully completed
+100. Kamj ula Dinesh 23071A04F4 Programming In Java Successfully completed
+101. Janjir ala Rohan 21071a0493 Programming In Java Successfully completed
+102. Boran chi Haripriya 210710A04M4 Programming In Java Successfully completed
+103. Pasha m Akshitha 22071A04A8 Programming In Java Successfully completed
+Reddy
+104. Marip ala Saikumar 22075A0413 Programming In Java Successfully completed
+105. Kotha wala Yogishwar 21071A04P5 Data Base Management Successfully completed
+Sai System
+106. Arika tla Rahul 21071A04M0 Data Base Management Successfully completed
+Chowdary System
+107. K An il Kumar 21071A0420 Programming In Java Elite
+108. Anch a Sharavan 21071A04K8 Programming In Java Elite
+109. Surab hi Siddhartha 21071A04J3 Programming In Java Elite
+110. Nami le Pradeep 21071A04A9 Programming In Java Elite
+Kumar
+111. Kolip aka Harshil 21071A04P3 Programming In Java Elite
+Reddy
+112. Allak a Sai Jothsna Sri 21071A0466 Programming In Java Elite
+113. Dhru va Kumar 22071A0421 Programming In Java Elite
+Gangishetti
+114. Kasla bad Srikar 21071A04P0 Programming In Java Elite
+115. Jogin i Shruthi 21071A04N5 Programming In Java Elite
+116. Vask uri Bhargav 21071A04C8 Programming In Java Elite
+117. Javan gula Venkat Sai 21071A04F5 CMOS Digital VLSI Design Elite
+Karthikeya
+118. Goma ram Shailima 21071A0488 Programming In Java Elite
+119. Nimi tha Singireddy 21071A04j2 Programming In Java Elite
+120. Gnan a Deepika 21071A0436 Programming In Java Elite
+Meduri
+121. Rach uri Sai Praneeth 21071A04H8 Programming In Java Elite
+Gupta
+122. A Shr avan Kumar 21071A04K7 Programming In Java Elite
+123. Patte m Guru Mahesh 21071A04B2 Programming In Java Elite
+124. B L S Lokesh 21071A0471 Digital Communication using Elite
+GNU Radio
+125. Chait anya Reddy 22071A0414 Programming In Java Elite
+Varala
+126. Naga Deepika 21071A0457 Programming In Java Elite
+Tipirishetti
+127. Ijjagi ri Sushmanth 21071A04N3 Programming In Java Elite
+128. Ade V asavi Patel 21071A04K4 Programming In Java Elite
+129. Adith ya Phani Thota 21071A0490 Programming In Java Elite
+130. Noog uri Shruthi 21071A0440 Programming In Java Elite
+131. Nati Y amini Meera 21071A04H1 Programming In Java Elite
+132. Naze eruddinshah 21071A04G7 Programming In Java Elite
+Mohammad
+133. Shive ndra Kumar 22071A04P3 Programming In Java Elite
+Kukkudapu
+134. Sahas ra Adupa 21071a04k5 RF and Microwave Networks Elite
+135. Kallu ri Tanuja 21071A0495 Programming In Java Elite
+136. Unda valli Vaibhava 21071A04C7 Programming In Java Elite
+Reddy
+137. Datta Pavan 22075A0408 Programming In Java Elite
+Ausipuram
+138. Harsh ita Govind 21071A04E7 Programming In Java Elite
+139. Patha Sai Vardhan 22071A0443 Programming In Java Elite
+140. Meka Gayathri 21071A04A3 Programming In Java Elite
+141. Dach epally 22075A0410 Programming In Java Elite
+Manikanta
+142. Param joth Singh 21071A04B1 Programming In Java Elite
+143. Amgo th Srinu 21071A04D3 Programming In Java Elite
+144. Must hyala Madhuri 22075A0427 Data Base Management Elite
+Goud System
+145. Venk atasai 21071A04T6 Data Base Management Elite
+Vetapalem System
+146. Harsh a Vardhan 21071A0489 Python for Data Science Elite
+147. B L S Lokesh 21071A0471 Optical Wireless Elite
+Communications for Beyond
+5G Networks and IoT
+148. Badu gula Akhilesh 21071A04D4 Programming In Java Elite
+149. Sri H arshitha Yalla 23071A04T4 Problem Solving Through Elite
+Programming In C
+150. Anee sha Mutluri 21071A04G9 Programming In Java Elite
+151. Voot la Sai Bharath 21071A04T7 Programming In Java Elite
+152. Ganji Shivani 21071A04N1 Programming In Java Elite
+153. Abhin av Kesamsetty 22071A0401 Programming In Java Elite
+154. Durg am Mounika 22075A0417 CMOS Digital VLSI Design Elite
+155. Akan ksha Kabra 21071A04D2 Programming In Java Elite
+156. Naini ka Kandarpa 21071A0439 Programming In Java Elite
+157. Aksh itha Ganji 21071A04K6 Programming In Java Elite
+158. Apur i Sai Vardhan 21071A04K9 Programming In Java Elite
+Reddy
+159. Yelum ala Srinivas 22075A0428 Programming In Java Elite
+160. Sathw ik Katla 22071A04N9 Programming In Java Elite
+161. Jayar am Komanduri 21071A04G0 Programming In Java Elite
+162. Biyya la Saathvik 21071A0474 Programming In Java Elite
+163. Nema lipuri Venkata 22071A04A6 Programming In Java Elite
+Shiva Bindu
+164. Kotha kapu 21071A04G1 Introduction To Internet Of Elite
+Vamshidhar Things
+165. Kalle pelli Yashwanth 21071A0494 Introduction To Internet Of Elite
+Things
+166. Anna luri Bharghav 22071A04K6 Programming In Java Elite
+Sri Sai Navaneeth
+167. Adda gatla Suraj 22075A0422 Programming In Java Elite
+168. Dach epally 22075A0410 CMOS Digital VLSI Design Elite
+Manikanta
+169. S Sai Madhava Reddy 21071A04B7 Programming In Java Elite+Silver
+Topper of 5% in this
+course
+170. Vemp arala Sai Naga 21071A0462 Optical Wireless Elite+Silver
+Sri Samhitha Communications for Beyond
+5G Networks and IoT
+171. Sreej a Hazari 21071A0492 Introduction To Internet Of Elite+Silver
+Things
+172. Kaso ju Harshitha 21071A0496 Introduction To Internet Of Elite+Silver
+Things
+173. Arcot Sukumar 21071A0469 Introduction To Internet Of Elite+Silver
+Jahnavi Things
+174. Siva Akshith Bhukya 21071A04C4 Introduction To Internet Of Elite+Silver
+Things
+175. Koma ram Hari 21071A0497 Introduction To Internet Of Elite+Silver
+Chandra Prasad Things
+176. Nakk a Shivani 21071A04A8 Introduction To Internet Of Elite+Silver
+Things
+177. Tharu ntej 21071A0485 Introduction To Internet Of Elite+Silver
+Things
+178. Shaik Afreen 21071A04C2 Introduction To Internet Of Elite+Silver
+Things
+179. Ravu la Saketh Ram 21071A04B6 Introduction To Internet Of Elite+Silver
+Things
+180. Janjir ala Rohan 21071a0493 Introduction To Internet Of Elite+Silver
+Things
+181. Balija pally Adharsh 21071a04d5 Introduction To Internet Of Elite+Silver
+Reddy Things
+182. Susha nth Samala 22075A0414 Introduction To Internet Of Elite+Silver
+Things
+183. Bhuv ana Rishitha 21071A04N0 RF and Microwave Networks Elite+Silver
+Ganji
+184. Nena vath Mounika 22075a0419 CMOS Digital VLSI Design Elite+Silver
+185. Shiva rathri Pragathi 21071A04C3 Introduction To Internet Of Elite+Silver
+Things
+186. Akan ksha Kabra 21071A04D2 Introduction To Internet Of Elite+Silver
+Things
+187. Meka Gayathri 21071A04A3 Introduction To Internet Of Elite+Silver
+Things
+188. M Sa i Sahithy 21071A04A2 Introduction To Internet Of Elite+Silver
+Things
+189. Mutta nnagaru Pranav 21071A04A6 Introduction To Internet Of Elite+Silver
+Reddy Things
+190. Raya pudi Sriram 22071A04H6 Programming In Java Elite+Silver
+Topper of 1% in this
+course
+191. Medi pally 22075A0418 CMOS Digital VLSI Design Elite+Silver
+Shivaprasad Topper of 5% in this
+course
+192. Mettu Joshna 21071A04A4 Introduction To Internet Of Elite+Silver
+Things
+193. Prani tha Musunuru 21071A0446 Introduction To Internet Of Elite+Silver
+Things
+194. Biyya la Saathvik 21071A0474 Introduction To Internet Of Elite+Silver
+Things
+195. Kand ukuri 22075A0411 Introduction To Internet Of Elite+gold
+Arunkumar Things Topper of 5% in this
+course
+196. Vask uri Bhargav 21071A04C8 Introduction To Internet Of Elite+gold
+Things Topper of 5% in this
+course
+197. Saket h Vishwanatham 21071A04R6 Introduction To Internet Of Elite+gold
+Things Topper of 5% in this
+course
+198. Sanja na Mohite 21071A04C0 Introduction To Internet Of Elite+gold
+Things Topper of 5% in this
+course
+199. Allak a Sai Jothsna Sri 21071A0466 Introduction To Internet Of Elite+gold
+Things Topper of 5% in this
+course
+200. Nagu lapati Sreya 21071A04A7 Introduction To Internet Of Elite+gold
+Things Topper of 2% in this
+course
+201. D Ph anindra 21071A0477 Introduction To Internet Of Elite+gold
+Things Topper of 1% in this
+course
+File In charge

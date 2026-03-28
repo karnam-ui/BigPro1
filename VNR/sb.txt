@@ -1,0 +1,63 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/sb.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+
+Mr. P. Ramesh
+Department of EEE
+VNR VJIET CONTROL SYSTEM LAB (III -1)
+Story Board: Guidance & Control of Ship Launched Missile
+Control Engineering is of significant interest in development of innovative products of all range and types, it is playing increasing important role in the
+developing world. It is very crucial for the students to get the exposure to the contemporary control system equipment in a realistic
+manner. Control Systems and Simulation Laboratory connects the theoretical aspects taught in lectures with the realities of physical
+hardware. To understand the function of control system looping operations and design, we are having experiments both in realtime
+and in simulation environment in MATlab.
+Let us consider the example of control system of a ship launched Missile; fired against an arial target. The missile is launched
+from the ship, because of wave motion, the platform is not stable. Missile launcher stabilizes against the disturbances acting on the
+platform
+The target is tracked by Radar. Radar gives the instantaneous coordinates of
+target in space. Missile guidance System will evolve a trajectory to hit the target. The
+missile has to follow the trajectory after haunch . the control system will ensure that the
+missile is controlled such that it follows the trajectory by correcting the errors
+in X, Y, Z coordinates by appropriate rates about these axes. The moment about X
+axis is called Pitch. Movement about y axis is called roll. The three linear motion along
+X, Y, Z coordinates and 3 moments about X, Y, Z axes are called six degrees of
+freedom.
+The function of the control system is to correct the errors in X, Y, Z planes by giving appropriate commands to the control
+Surfaces usually called as Fins/Canards. The commands are calculated by onboard computer.
+1) Sensing and Prediction of the of Target Position
+The presence of Electromagnetic waves and infrared radiations indicates a moving target. To eliminate the possibility of homing on
+objects other than the target, a band-pass filter is inserted in the control circuit to eliminate interfering signals. A band-pass filter will
+pass only a narrow band of frequencies. In the context we study about first order and second order systems, given the specifications
+design can be done.
+2) Launching of Missile
+From the ground radar, the range and angle from the radar to the target are measured. From these raw measurements the position and
+velocity (and in some applications acceleration) of the target can be estimated.
+Based on the filter estimates, a prediction of where the target will be in the future must be made a fire control solution could be
+achieved so that a missile could simply be launched at the correct angle and right time to also arrive at the predicted intercept point. It
+uses software for solving prediction and estimation. We have excercises in MATlab using looping operations, for, while, if etc.
+For stabilizing the position of the radar, we use high precision stepper motor, and the corresponding control is illustrated in the
+Stepper Motor control using microcontroller program. We study the characteristics of the motors using Transfer Function approach.
+The corresponding Simulation is carried in MATLab. We do the comparative Analysis using different inputs, ramp, step, Impulse etc.
+3) Stabilization of the Platform
+When the missile is released from the ship, the stability of the platform is very important. The ship has six degrees of freedom, three
+translational, three rotational, surge, heave, sway, roll, yaw and pitch. Each of these variables have to be controlled. Controllers and
+Compensators are all pervasive in the applications to achieve the desired control in the variables. Long-range endoatmospheric
+missiles use thrust to build up speed only for a fraction of the flight. After that fuel is expended the missile must glide to the target.
+4) Tracking system
+A servomechanism is an electromechanical device that positions an object in accordance with a variable signal. We explain the closed
+loop operation of the system. We have Closedloop speed control of DC motor, which illustrates the complete operations.
+Tachometer generators are used to measure the angular velocity of the missile. The output of the generator is a voltage proportional to
+the angular velocity (rate) of the Missile. This voltage is sent to a servo amplifier to aid in stabilizing the Motion of the missile. The
+experiments on Synchros and Magnetic Amplifier illustrates the corresponding aspects. The gyro measures the missile's angular
+velocity about a particular axis (yaw, pitch, or roll). The output of the gyro is a voltage that is proportional to missile angular velocity
+(rate) about an axis.
+6) Explosion of Missile after hitting Target
+The temperature controlled sensors or equipment will respond immediately only after the missile is hitting the target, they will keep
+the controlled temperature during all the previous phases to ensure it is not exploded untimely. We have temperature controllers
+design on oven to bring to the system to any desired temperature.
+Basic operation of the guidance and control system is based on the closed-loop or servo principle. The control units make corrective
+adjustments of the missile control surfaces when a guidance error is present, in other words, when the missile is not on the correct
+course to the target.
