@@ -1,0 +1,372 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/cseAIMLIOT/Newsletter/2025/CSE-AIML-IoT-October-2025-Newsletter.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING & TECHNOLOGY
+DIGITAL DYNAMOS
+Fueling the Future with AIML & IoT
+NEWSLETTER-OCTOBER 2025
+Volume 4 Issue 4
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING & TECHNOLOGY
+HoD MESSAGE
+Dear Students, Faculty, and Readers,
+It is with great pride and enthusiasm that I welcome you
+to the October-2025 edition of our newsletter “Digital
+Dynamos” the official newsletter of the Department of
+CSE-Artificial Intelligence and Machine Learning &
+Internet of Things (AIML & IoT). In this rapidly evolving
+technological era, AIML & IoT are shaping the future,
+transforming industries, and redefining the way we
+interact with the world. Our department remains
+committed to fostering innovation, research, and
+excellence in these domains.
+Through this newsletter, we aim to highlight the
+remarkable achievements of our students and faculty,
+ongoing research initiatives, industrial collaborations, and
+recent advancements in the field. I encourage all students
+and faculty members to actively participate, contribute,
+and explore the endless possibilities that AIML & IoT
+offer.
+Let us continue to learn, innovate, and lead with passion
+and commitment. Looking forward to an exciting journey
+ahead!
+Dr. Sagar Yeruva
+Head of Department
+Department of CSE-AIML & IoT
+VNR VJIET
+Digital Dynamos October 2025
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING & TECHNOLOGY
+Department Highlights
+The Department of CSE-AIML & IoT organized a coding contest KRITHOHUNT (Seek. Solve.
+Succeed), on October 8, 2025. The event was convened by Dr. Sagar Yeruva, Associate
+Professor and Head of the Department, with faculty coordinators Dr. A. Kousar Nikhath and Mr.
+D. Bhupesh.
+A guest lecture was organised on the topic “Complexity Classes: P, NP, NP-Complete and NP-
+Hard,” which was delivered by Mr. Abdul Bari Mohammed, CEO of NBH Infotech, on October 11,
+2025, at VNRVJIET. The faculty coordinators of the event are Dr. A. Harshavardhan, Senior
+Assistant Professor Mr. K. Kishan Babu , Assistant Professor, Mr. U. Veeresh, Assistant Professor,
+and Ms. M. Sharanya , Assistant Professor.
+The IEEE VNRVJIET CIS, in collaboration with the Department of CSE -AIML & IoT, conducted an
+IEEE Membership Drive on October 11, 2025. Dr. Y. Sagar, Associate Professor and Head of the
+Department, and Mr. U. Veeresh, Assistant Professor, served as faculty coordinator for the
+event.
+The company ALFAGO initiated a Project-Based Learning (PBL) program for third-year students
+(Batch 1, comprising 60 members) under a new MoU sanctioned on October 16, 2025. The
+program is being guided by Dr. Y. Sagar Yeruva (HoD, CSE–AIML & IoT), Dr. N. Sandhya (RDC
+Head & Professor), Dr. A. Kousar Nikhath, Dr. A. Harshavardhan, Ms. N. Haritha, and
+Mr. D. Bhupesh.
+The Department of CSE -AIML & IoT organized “Top 100 Coders: Enter the Codeverse of
+Champions” under the convenorship of Dr. Sagar Yeruva, with Dr. A. Kousar Nikhath and
+Mr. D. Bupesh as faculty coordinators. Round 1 of the event was conducted online on October
+16, 2025, followed by Round 2 held on campus on October 22, 2025.
+A guest lecture on “Normalization and Query Optimization” was organized in the department,
+delivered by Mr. Vishwanath Arabati, Corporate Trainer, on October 24, 2025.The coordinators
+of the event are Dr. K. Archana, Assistant Professor; Ms. Y. Prasanthi, Assistant Professor; and
+Ms. V. Manjula, Assistant Professor
+An alumni guest lecture titled “Bridging Academia and Industry: Implementing MLOps in Real-
+World Projects” was organized on October 24, 2025. Distinguished alumni Mr. Vasista P. R. K.
+(Ericsson R&D, TCS) and Ms. Kavya Miriyala (JP Morgan) shared valuable insights connecting
+academic learning with industry practices. The session was coordinated by Ms. Preety Singh,
+Assistant Professor.
+A hands-on workshop on “Build and Deploy a Multimodal Assistant on the Cloud using Gemini
+and Cloud Run” was conducted on October 25, 2025, at VNRVJIET. The workshop was led by Mr.
+Ashutosh S. Bhakare, CEO of Unnati Development & Training Centre Pvt. Ltd., and Mr. Jay
+Thakkar, AI Engineer at Impulsive Web.
+Digital Dynamos October 2025
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING & TECHNOLOGY
+Department Highlights
+A three-day workshop on “Unlocking the Power of GEO-AI” was organized by the IEEE CIS/GRSS
+Hyderabad Joint Chapter in collaboration with VNRVJIET and the Departments of Civil and CSE
+(AIML & IoT), held from October 30 to November 1, 2025. Mr. U. Veeresh, Assistant Professor,
+served as the faculty coordinator for the event.
+Between August and September 2025, a research team successfully developed a repository
+titled “Telugu SMILE Corpus for Multimodal Humor Understanding.” The project was led by
+Dr. M. Radhika and Ms. A. Kaveri from IIIT Hyderabad, in collaboration with Dr. A. Kousar
+Nikhath, Dr. G. Nagaraju, and Mr. V. Kishore from the CSE (AIML & IoT) departments at VNRVJIET.
+Faculty members from the CSE–AIML & IoT departments participated in a one-week Staff
+Development Program on “Hands-On ICT and Network Troubleshooting,” organized from
+October 27 to November 1, 2025, at VNRVJIET.
+Parent–Teacher Meetings for all years of CSE (AIML & IoT) were successfully conducted on
+October 11, 2025. Class coordinators and mentors of the second, third, and fourth years
+participated actively, discussing student performance, academic progress, and placement
+preparedness with parents.
+As part of the ISOC–Outreach initiative, Dr. Sayanti Chatterjee, Mr. V. Kishore, Ms. N. Haritha,
+and Ms. M. Sharanya, Assistant Professors, visited Brahmanapally village on October 22, 2025.
+During their visit, they donated a Samsung TV to pre-primary students and carried out
+educational and community development activities aimed at enhancing rural learning
+environments.
+Digital Dynamos October 2025
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING & TECHNOLOGY
+Faculty Achievements
+FDP’S AND WORKSHOPS ATTENDED
+Mr. E. Gurumohanrao and Mr. K. Sreenivasarao, Assistant Professors and II-Year Class
+Coordinators, visited T-Hub, Madhapur, on October 9, 2025, to explore innovation and
+entrepreneurial initiatives.
+Mr. Shaik Mabasha and Ms. K. Anitha, Assistant Professors, received certificates of participation
+for attending the webinar “Embedded AI with Robotics Applications” organized by Cranes
+Varsity on October 11, 2025.
+Mr. K. Kishan Babu, Assistant Professor, successfully completed the NPTEL course “Design and
+Analysis of Algorithms” and received certification for the eight-week program conducted from
+July to September 2025.
+Mr. Shaik Mabasha, Assistant Professor, successfully completed the online non-credit course
+“Data Warehouse Concepts, Design, and Data Integration” offered by the University of
+Colorado System through Coursera in October 2025.
+Dr. Sayeedakhanum Pathan, Assistant Professor, participated in a Faculty Development
+Programme on “Image Processing and Computer Vision” held from October 13 to 18, 2025,
+organized by NIT Jamshedpur.
+Ms. N. Haritha, Assistant Professor, actively participated in AiVi – Shaping the Future with AI, an
+event organized by the Indian School of Business (ISB), Hyderabad, on October 25, 2025.
+Ms. Jupalli Pushpakumari, Assistant Professor, attended a webinar titled “Internet of Behaviors
+(IoB): Shaping Data and Devices” organized by BVICAM, New Delhi, on October 25, 2025.
+Dr. A. Kousar Nikhath, Associate Professor, reviewed a journal article titled “Smart Irrigation-
+Based Internet of Things and Cloud Computing Technologies for Sustainable Farming” on
+October 29, 2025.
+Ms. N. Haritha, Assistant Professor, attended a two-week Faculty Development Programme on
+“The Art and Science of Successful Proposal Writing: Techniques, Strategies, and Best
+Practices”, jointly organized by the Departments of ECE, CSE, and IT at CVR College of
+Engineering, Hyderabad, from October 27 to November 6, 2025.
+Mr. V. Kishore and Mr. U. Veeresh, Assistant Professors, attended an Anti-Drugs Awareness
+Session conducted by Sri P. Seetha Ram, SP, Telangana Anti-Narcotics Bureau, on October 7,
+2025, at VNRVJIET. On the same day, Mr. U. Veeresh organized a Master Class on Generative AI
+for the IEEE Computational Intelligence Society.
+Digital Dynamos October 2025
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING & TECHNOLOGY
+Faculty Achievements
+FDP’S AND WORKSHOPS ATTENDED
+Dr. A. Kousar Nikhath, Associate Professor, contributed to the academic community by
+reviewing a journal article titled “Smart Irrigation-Based Internet of Things and Cloud
+Computing Technologies for Sustainable Farming” on October 29, 2025.
+Ms. C. Divya, Assistant Professor, successfully cleared the Generative AI Fluency assessment
+aligned with competency standards developed by the IT–ITeS Sector Skills Council NASSCOM
+in collaboration with industry experts. She was awarded the certification on October 31, 2025.
+Digital Dynamos October 2025
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING & TECHNOLOGY
+Student Achievements
+12 Students from the CSE-AIML and IoT departments attended an Anti-Drugs Awareness
+Session conducted by Sri P. Seetha Ram, SP, Telangana Anti-Narcotics Bureau, on October 7,
+2025, at the KS Auditorium. The session aimed to educate students about the harmful effects
+of drug abuse and promote a healthy, responsible lifestyle.
+Mr. Navneeth Reddy (23071A6685), a III-Year student, was selected for an Adobe internship
+with a stipend of ₹1.1 lakh on October 6, 2025. His selection marks an excellent achievement,
+showcasing the department’s focus on nurturing technical talent and industry readiness.
+Students from CSE-AIML and IoT enthusiastically participated in the event “KRITHOHUNT
+(Seek, Solve, Succeed)” organized by the Department of CSE-AIML and IoT on October 8, 2025.
+The event was held from 12:40 PM to 3:40 PM at the C-Block entrance, encouraging students to
+develop problem-solving and analytical skills through interactive tasks.
+III-Year CSE-AIML and IoT students attended a Master Class on Generative AI hosted by the
+IEEE Computational Intelligence Society from October 7 to 10, 2025. The session offered
+insights into emerging trends in artificial intelligence and its transformative potential across
+industries.
+On October 9, 2025, II-Year students of CSE-AIML and IoT visited T-Hub at Madhapur. The visit
+took place at The Marvel, 5th Floor, from 10:00 AM to 2:00 PM, where students gained
+exposure to innovation ecosystems, entrepreneurship, and startup development in India’s
+largest innovation hub.
+Mr. P. Ravi Kiran (22071A66H6), a student of CSE-AIML, was selected for placement at Cognizant
+through the JAVA DN4.0 batch on October 13, 2025. His achievement highlights the
+department’s strong industry linkage and student employability.
+Mr. A. Rithwik Reddy (22071A66D1), Ms. D. Lohitha (22071A6619), and Mr. P. Shabarish
+(22071A66B2), all IV-Year students of CSE-AIML and IoT, were selected for the IBM System
+Engineer role with a package of ₹4.50 LPA on October 14, 2025. Their success reflects the
+department’s commitment to excellence in placement training.
+Mr. N. V. Abhijeet Mukund, a final-year IoT student, secured a placement at O.C. Tanner on
+October 16, 2025. He received an internship offer with a stipend of ₹30,000 per month and a
+post-confirmation CTC of ₹9 LPA, marking a significant professional milestone.
+Ms. M. Sahithi (23071A6930), Ms. N. Aishwarya (23071A6901), Ms. A. Bhanu Sree (23071A6902),
+and Mr. T. Durga Sai Pranav (23071A6659), all III-Year CSE–IoT students, successfully
+participated in the final on-campus round of the CSI-presented VJ Hackathon 2025, held from
+October 17 to 18, 2025, and proudly secured second place for their innovative performance.
+The team Crescendo from VNR VJIET, including our student Charan Kumar (III IoT), participated
+in a music competition held on Saturday, October 20, 2025, at Osmania Medical College.
+Competing against six other bands from various colleges across Hyderabad, Crescendo
+secured First Prize and received special mentions for their outstanding performance.
+Digital Dynamos October 2025
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING & TECHNOLOGY
+Student Achievements
+Mr. K. Abhinava Varma (23071A66G1) and Mr. P. Parthu (23071A6647), III Year students,
+triumphed at Synapse 2K25, the 24-hour Hackathon hosted by NIT Calicut, securing 1st place -
+an achievement that now opens the door to a promising internship opportunity starting from
+21-10-2025.
+Mr. Mudith(23071A6933), III-Year IoT student, secured second prize in the prestigious Top 100
+Coders contest on October 22, 2025.
+The following students have been selected for a State Street internship with a stipend of
+₹30,000, and will be offered a full-time package of ₹11 LPA upon successful completion: Mr. D.
+Amit Varma (22071A6602), Mr. A. Kaushik (22071A6907), Ms. D. Rishitha Reddy (22071A6913),
+Mr. C. Aakash (22071A6617), Ms. T. Vijaya Soumya (22071A6659), Ms. V. Shiva Rishitha
+(22071A6964), Mr. J. Sai Venkat Suraj (22071A6689), Mr. Anurag Sahu (22071A66D3), and Mr. V.
+Harshith Raj (22071A66K0). The placement selection was finalized on 28-10-2025.
+Digital Dynamos October 2025
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING & TECHNOLOGY
+Research updates and Publications
+Dr. A. Kousar Nikhath, Associate Professor, along with Ms. J. Ananya Reddy, Ms. P. Aishwarya,
+Ms. S. Maadhurya Sri, and Ms. P. Gowthami, presented a paper titled “A Multilingual Deep
+Learning Approach for Sign Language Recognition” at the 10th International Conference on
+Smart Trends for Computing and Communications on 01 October 2025. The paper was
+published and is indexed in Scopus.
+Dr. A. Kousar Nikhath, Associate Professor, together with Ms. Aanchal Jain, Ms. D. Ananya, and
+Mr. Ramana Teja, presented a paper titled “Deep Learning Model for Lip-Based Speech
+Synthesis Conference” at the 10th International Conference on Smart Trends for Computing
+and Communications on 01 October 2025. The paper was published and is indexed in Scopus.
+Ms. Preety Singh, Assistant Professor, along with Ms. K.N.D. Saile and Ms. Sayeedakhanum
+Pathan, presented a paper titled “Machine Learning-Based Prediction of Heart Attack Risk: A
+Data-Driven Approach” at the 9th International Conference on IoT in Social, Mobile, Analytics,
+and Cloud (I-SMAC 2025) held from 08–10 October 2025. The paper was published and is
+indexed in Scopus.
+Ms. P. Swetha, Assistant Professor, along with Ms. K. Prathyusha and Ms. S. Mamatha, presented
+a paper titled “Immense Quality Thermal Image Analysis by ResNet and Deep Learning
+Techniques” at the 1st International Conference on Advancements in Sustainable Energy,
+Materials and Manufacturing Technology (ICASMMT 2024) on 30 September 2025. The paper
+was published and is indexed in Scopus.
+Ms. K. Prathyusha, Assistant Professor, along with Ms. T. Aruna, presented a paper titled
+“Optimizing Disaster Recovery Processes Using Satellite Imaging and U-Net Architecture” at the
+1st International Conference on Advancements in Sustainable Energy, Materials and
+Manufacturing Technology (ICASMMT 2024) on 30 September 2025. The paper was published
+and is indexed in Scopus.
+Ms. Jyotsnarani Tripathi, Assistant Professor, along with Ms. T. Aruna Sri, Mr. T. Murali Krishna,
+Mr. Manmath Nath Das, Ms. Sharada Mani, Mr. G. Laksmi Vara Prasad, and Ms. T. Manyam,
+published a paper titled “An Adaptive AI-Driven Cyber Threat Detection Framework for
+Securing Heterogeneous IoT Networks” in the Engineering, Technology & Applied Science
+Research journal, Volume 15, Issue 5, pages 26750–26756, in October 2025. The paper has a Q2
+impact factor and is indexed in Scopus.
+Dr. A. Harshavardhan, Senior Assistant Professor, together with Mr. V. Hari Prasad, Dr. T. Bhaskar,
+Ms. Sukanya Ledalla, and Mr. M. Varaprasad Rao, published a paper titled “NEUROEXPLAIN AI:
+An Explainable AI and Statistical Framework for Brain Tumor” in the Journal of Theoretical and
+Applied Information Technology, pages 25–25, on 15 September 2025. The paper has ISSN: 1817-
+3195, a Q3 impact factor, and is indexed in Scopus.
+Digital Dynamos October 2025
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING & TECHNOLOGY
+Research updates and Publications
+Ms. Preety Singh, Assistant Professor, together with Mr. Sopparni Bhanu Murthy, Ms. Shaziya
+Islam, and Mr. Anandakumar Haldorai, presented a paper titled “Generative Adversarial
+Network-Based Modeling of Stress and Strain in Hierarchical Composite Materials” at the IEEE
+International Conference on Modern Sustainable Systems (CMSS-2025) on 06 October 2025.
+The paper was published and is indexed in Scopus.
+Ms. K.B. Anusha, Assistant Professor, along with Ms. Sudha Rajesh, Mr. B. Syed Moinuddin
+Bokhari, Mr. Yangibayev Jonibek Saparbayeveich, Mr. T. Chandra Sekhar Rao, Ms. Padmaja
+Kadiri, and Mr. B. Venkataramanaiah, presented a paper titled “Novel and Efficient
+Classification of Cardiovascular Abnormalities by Machine Learning” at the 9th International
+Conference on Inventive Systems and Control (ICISC-2025) on 16 October 2025. The paper was
+published and is indexed in Scopus.
+Dr. A. Kousar Nikhath, Associate Professor, along with Ms. Kaveri Anuranjana, Dr. Alapuri Kousar
+Nikhath, Dr. Gujjeti Nagaraju, Mr. Kishore Vorem, Ms. Putti Jyothi, Ms. Kandru Sudha Rani, Mr.
+Srinivas Joshi, Ms. Navya Shrivastava, Mr. Atharv Johar, and Ms. Radhika Mamidi, presented a
+paper titled “Neural Navvulu: The TeluguSMILE Corpus for Multimodal Humor Understanding in
+Telugu” at the International Conference on Language Resources and Evaluation (LREC 2026) on
+24 October 2025. The paper was presented and is indexed in Scopus.
+Dr. Gujjeti Nagaraju, Assistant Professor, along with Ms. Kaveri Anuranjana, Dr. Alapuri Kousar
+Nikhath, Mr. Kishore Vorem, Ms. Putti Jyothi, Ms. Kandru Sudha Rani, Mr. Srinivas Joshi, Ms.
+Navya Shrivastava, Mr. Atharv Johar, and Ms. Radhika Mamidi, presented a paper titled “Neural
+Navvulu: The TeluguSMILE Corpus for Multimodal Humor Understanding in Telugu” at the
+International Conference on Language Resources and Evaluation (LREC 2026) on 24 October
+2025. The paper was presented and is indexed in Scopus.
+Mr. Kishore Vorem, Assistant Professor, together with Ms. Kaveri Anuranjana, Dr. Alapuri Kousar
+Nikhath, Dr. Gujjeti Nagaraju, Ms. Putti Jyothi, Ms. Kandru Sudha Rani, Mr. Srinivas Joshi, Ms.
+Navya Shrivastava, Mr. Atharv Johar, and Ms. Radhika Mamidi, presented a paper titled “Neural
+Navvulu: The TeluguSMILE Corpus for Multimodal Humor Understanding in Telugu” at the
+International Conference on Language Resources and Evaluation (LREC 2026) on 24 October
+2025. The paper was presented and is indexed in Scopus.
+Ms. K.B. Anusha, Assistant Professor, along with Venkata Krishna Rao Mannepalli and Para
+Rajesh, presented a paper titled “DeepViT-Detect: A Vision Transformer-Based Framework for
+Robust Deepfake Video Detection” published in the journal Techniques - Sciences - Methodes,
+Volume 9, pages 81–89, on 9 September 2025. The paper has ISSN: 02997258, a Q4 impact
+factor, and is indexed in Scopus.
+Digital Dynamos October 2025
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING & TECHNOLOGY
+Snapshots of Synergy
+Parent Teacher’s Meeting
+Top 100 Coders event
+Guest Lecture on Complexity Classes
+Digital Dynamos October 2025
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING & TECHNOLOGY
+Snapshots of Synergy
+Guest lecture on MLOps by Alumni
+Cloud Run workshop-25-10-25
+At AiVi event , ISB Hyderabad
+CSE-AIML -IEEE-CIS
+Our adopted Brahmanapally village's all round development.
+Digital Dynamos October 2025
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING & TECHNOLOGY
+FUN CORNER
+🎮 📰
+Game Zone: “Decode the Bot!” Ctrl + Alt + Update!
+The AI Chronicle
+I’m multilingual, I translate, and sometimes I get your
+idioms wrong.
+AlphaGeometry 2 and
+I live inside your search bar. Who am I?
+AlphaProof solved complex
+geometry problems with
+I learn from data but never attend school. What am I?
+Olympic-level speed, and
+AlphaFold 3 now predicts the
+I see your face before you tag it. I know your cat
+structure and interactions of
+better than you.
+every molecule of life,
+revolutionizing biology and
+drug research.
+🧩
+“AIML Word Scramble”
+ChatGPT Go is now free for a
+year in India for eligible users,
+starting November 4, 2025.
+This unlocks access to
+advanced features, including
+GPT-5, improved image
+generation, file uploads, and
+custom GPTs, at no cost. Users
+need to add a payment method
+ANSWERS but won't be charged during
+Game Zone : the promotional period.
+Google Translate, Machine Learning Model / AI,
+Facial recognition Google's Cell2Sentence-Scale
+AI discovered new potential
+Word Scramble: cancer therapy pathways by
+ALGORITHM, DATASET, SUPERVISED, PYTHON, helping immune systems better
+NEURAL NETWORK target tumors—ushering in new
+hope for cancer management.
+"Innovate today, inspire tomorrow."
+Digital Dynamos October 2025
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING & TECHNOLOGY
+🎉
+Call for FunZone Contributions!
+Got a fun article, puzzle, comic, or tech meme to share? We’re looking for exciting and creative
+content for the FunZone section of our newsletter! Whether it’s a brain teaser, an interesting
+anecdote, or a lighthearted tech joke, we’d love to feature it.
+🔹
+What to Contribute? Riddles, puzzles, short stories, comics, memes, or anything fun!
+🔹
+Submission Deadline: 25th of everymonth
+🔹
+How to Submit: Send your entries to newsletter.aimliot@gmail.com
+🎭
+Let’s make learning fun—bring on the creativity!
+Faculty Coordinator:
+Ms K Naga Durga Saile
+Assistant Professor
+Department of CSE-AIML & IoT
+Student Coordinators:
+K Sai Shreya G. Rakshitha
+Department of AIML & IoT Department of AIML & IoT
+3rd Year 2nd Year
+23071A6630 24071A6621
+D HarshaVardhan B. Hasini
+Department of AIML & IoT Department of AIML & IoT
+3rd Year 2nd Year
+23071A6615 24071A6606
+Digital Dynamos October 2025

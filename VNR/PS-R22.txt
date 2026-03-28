@@ -1,0 +1,3185 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/mtechsyl/PS-R22.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+R22
+M.Tech. (POWER SYSTEMS)
+M.Tech. R22 CBCS Curriculum
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for B.Tech. CE, EEE, ME, ECE, CSE, EIE, IT Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF 113 Rank in Engineering Category
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+DEPARTMENT OF
+ELECTRICAL AND
+ELECTRONICS
+ENGINEERING
+VISION OF THE DEPARTMENT
+To excel in Education, Technology and Research in
+Electrical and Electronics Engineering leading to
+sustainable socioeconomic development of the
+nation.
+MISSION OF TH E DEPARTMENT
+➢ Excellent teaching-learning environment imbibed
+with professional ethics and social responsibility in
+promoting quality education.
+➢ Promoting research through industry
+collaborations and innovative projects.
+M.TECH.
+(POWER SYSTEMS)
+M.TECH. (PS)
+PROGRAM EDUCATIONAL OBJECTIVES
+PEO-I: Proficient in applying sustainable and inclusive technologies to
+analyse, formulate and provide solutions for real time problems in
+diversified fields
+PEO-II: Solve complex technological problems using emerging
+technologies and tools
+PEO-III: Demonstrate interdisciplinary skills and build hands on models
+for testing and research.
+PEO-IV: Develop professional ethics, strong communication skills,
+knowledge of social impacts and leadership qualities
+PEO-V: Engage in life long learning for a successful professional career.
+M.TECH. (PS)
+PROGRAM OUTCOMES
+PO-1: An ability to independently carry out research /investigation and
+development work to solve practical problems.
+PO-2: An ability to write and present a substantial technical
+report/document.
+PO-3: An ability to demonstrate a degree of mastery over the area as per
+the specialization of the program.
+PO-4: Design and conduct experiments, as well as analyze the power
+electronic converters & drives and interpret the data.
+PO-5: Function on multidisciplinary technological issues assimilating
+power systems advancements.
+PO-6: Use the techniques, skills, and modern engineering simulation tools
+necessary for the design and development of power system technologies
+and engage in life long learning.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. I YEAR COURSE STRUCTURE AND SYLLABUS
+(POWER SYSTEMS)
+I SEMESTER R22
+Course
+Course Type Name of the Course L T P Credits
+Code
+Professional
+22PC1PS01 Power System Analysis 3 0 0 3
+Core-I
+Professional
+22PC1PS02 Power System Dynamics 3 0 0 3
+Core-II
+Professional
+22PC1PS03 Power System Restructuring 3 0 0 3
+Core-III
+22PE1PS01 Renewable Energy Technologies
+Advanced Micro Controller Based
+22PE1PL01
+Systems
+Professional
+22PE1VS19 VLSI Design 3 0 0 3
+Elective-I
+22PE1PS02 Smart Grids
+Data Science Applications in
+22PE1PL03
+Power Engineering
+22PE1PS03 Electrical Power Distribution System
+22PE1PS04 SCADA Systems and Applications
+Reactive Power Compensation
+Professional 22PE1PS05 3 0 0 3
+and Management
+Elective-II
+22PE1PL05 Electric and Hybrid Vehicles
+22PE1PL06 Machine Learning Applications
+Professional Python Programming Laboratory-
+22PC2PL01 0 0 2 1
+Core Lab-I An Application to Electrical
+Systems
+Professional
+22PC2PS01 Power System Analysis Laboratory 0 0 2 1
+Core Lab-II
+Communication Communication Skills for
+22SD5HS01 0 0 2 1
+Skills Academic and Research Writing
+Project 22PW4PS01 Technical Seminar 0 0 4 2
+Mandatory 22MN6HS01 Research Methodology and IPR 2 0 0 0
+Total 17 0 10 20
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. I YEAR COURSE STRUCTURE AND SYLLABUS
+(POWER SYSTEMS)
+II SEMESTER R22
+Course Type Course Code Name of the Course L T P Credits
+Professional
+22PC1PS04 Digital Protection of Power System 3 0 0 3
+Core-IV
+Professional
+22PC1PS05 Power Quality 3 0 0 3
+Core-V
+Professional
+22PS1PC06 Flexible AC Transmission Systems 3 0 0 3
+Core-VI
+22PE1PS06 Voltage Stability
+22PE1PS07 Power System Reliability
+Professional
+22PE1PS08 EHVAC Transmission 3 0 0 3
+Elective-III
+Advanced Power Electronic
+22PC1PL04
+Converter
+Evolutionary Algorithm in Power
+22PE1PS09
+Engineering
+22PC1PL06 Advanced Control Systems
+Industrial Load Modelling and
+22PE1PS10
+Control
+Professional 22PE1PL09 Artificial Intelligence Techniques 3 0 0 3
+Elective-IV
+Swarm Intelligence Techniques in
+22PE1PS11
+Power Systems
+22PE1PS12 Power System Transients
+Professional
+22PC2PS02 Power System Practice Laboratory 0 0 2 1
+Core Lab-III
+Professional
+22PC2PS03 Power System Dynamics Laboratory 0 0 2 1
+Core Lab-IV
+Industry
+22SD5PS01 Industry Engagement 0 0 2 1
+Engagement
+Project 22PW4PS02 Mini-Project 0 0 4 2
+Mandatory 22MN6HS02 Ancient Wisdom 2 0 0 0
+Total 17 0 10 20
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. II YEAR COURSE STRUCTURE AND SYLLABUS
+(POWER SYSTEMS)
+III SEMESTER R22
+Course
+Course Type Name of the Course L T P Credits
+Code
+Control and Integration of
+22PE1PL12
+Renewable Energy Sources
+22PE1PL14 Energy Conservation and Auditing
+Professional
+22PE1PL13 Energy Storage Technologies 3 0 0 3
+Elective-V
+22PE1PS13 Gas Insulated Substation
+22PC1CP05 Internet of Things
+22OE1CN01 Business Analytics
+22OE1AM01 Entrepreneurship and Start-ups
+Open
+22OE1AM02 Industrial Safety 3 0 0 3
+Elective
+22OE1AM03 Operations Research
+22OE1PS01 Waste to Energy
+Project 22PW4PS03 Project Part - I 0 0 16 8
+Total 6 0 16 14
+IV SEMESTER R22
+Course Type Course Code Name of the Course L T P Credits
+Project 22PW4PS04 Project Part - II 0 0 28 14
+Total 0 0 28 14
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PC1PS01) POWER SYSTEM ANALYSIS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Fundamentals in Power Systems
+COURSE OBJECTIVES:
+• To evaluate the network matrices and study various methods of load flows and
+their advantages and disadvantages
+• To analyze various types of faults in power system
+• To understand power system security concepts and study the methods to rank the
+contingencies
+• To understand need for power system state estimation and study various types of
+measurements used in state estimation
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Calculate impedance and admittance matrices of a given power system
+network
+CO-2: Evaluate state variables at various nodes in the power system network using
+different load flow techniques
+CO-3: Calculate fault currents for various types of faults in power system and rank
+various contingencies according to their severity
+CO-4: Estimate the bus voltage phasors at various nodes in the power system
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 - - - 2 - -
+CO-2 2 1 2 3 - -
+CO-3 3 1 3 3 2 3
+CO-4 3 1 3 3 2 3
+UNIT–I:
+Admittance Model and Network Calculations: Branch and Node Admittances,
+Mutually Coupled Branches in Ybus, An Equivalent Admittance Network, Modification
+of Ybus, Network Incidence Matrix and Ybus, Method of Successive Elimination, Kron
+reduction, Triangular Factorization
+UNIT–II:
+Impedance Model and Network Calculations: Bus Admittance and Impedance
+Matrices, Thevenin’s Theorem and Zbus , Modification of an existing Zbus, Calculation
+of Zbus elements from Ybus, Power Invariant Transformations, Mutually Coupled
+Branches in Zbus
+UNIT–III:
+Load Flows: Gauss Seidel method, N-R Method, Decoupled method, Fast decoupled
+method, comparison between power flow solutions, DC load flow
+UNIT-IV:
+Fault Analysis: Fault calculations using Zbus, Fault calculations using Zbus equivalent
+circuits.
+Symmetrical components, Sequence circuits of various components in power system
+(transmission lines, transformers and synchronous machines), Various types of
+unsymmetrical fault calculations-Single line to ground fault, line to line fault and
+double line to ground fault.
+UNIT-V:
+Security Analysis: Factors affecting power system security, Contingency analysis:
+Detection of network problems, Overview of security analysis, Linear sensitivity factors
+- Generator shift distribution factor and Line outage distribution factor, A.C power flow
+methods, Contingency selection using overload performance index and 1P1Q
+method.
+TEXT BOOKS:
+1. Power System Analysis, J. J. Grainger & W. D. Stevenson, McGraw Hill, 2003
+2. Power Generation, Operation and Control, A. J. Wood, John Wiley, 1994
+REFERENCES:
+1. Power System Analysis, A. R. Bergen & Vijay Vital, Pearson, 2000
+2. Computer Aided Power System Analysis, G. L. Kusic, Prentice Hall India, 1986
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PC1PS02) POWER SYSTEM DYNAMICS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Electrical Power Systems, Electrical Machines, Power System
+Analysis
+COURSE OBJECTIVES:
+• To study of system dynamics and its physical interpretation
+• To develop mathematical models for synchronous machine
+• To develop the excitation, PSS and load models
+• To study small signal and transient power system stability
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the modelling of synchronous machine in detail
+CO-2: Development of transient models of synchronous machine for stability studies
+CO-3: Development of models for excitation systems and power system stabilizers
+(PSS)
+CO-4: Understand the power system small signal and transient stability problem
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 1 1 2 - 1
+CO-2 1 2 1 1 1 -
+CO-3 2 2 1 2 - 1
+CO-4 1 1 1 2 1 -
+UNIT-I:
+Power System Stability: Swing Equation, Power-Angle Curve, Small signal stability,
+Stability analysis of SMIB system, Classical Model of a Single Machine System, Block
+Diagram of One Machine infinite bus system, System Response to Small Disturbances,
+Synchronizing and damping torques. Transient Stability, Swing curves for large
+disturbances for different cases: first swing stability, equal area criterion.
+UNIT-II:
+Synchronous Machine Modelling: Mathematical description of a synchronous
+machine, stator and rotor circuits of synchronous machine. Necessary assumptions for
+modelling, basic equations of synchronous, self-inductance and mutual inductances,
+stator and rotor flux linkage equations, stator and rotor voltage equations.
+UNIT-III:
+Park’s Transformation and Equivalent Circuits: Park's Transformation, Flux Linkage
+Equations, Voltage Equations, Per Unit Conversion, Normalizing the Voltage and
+Torque Equations, Equivalent Circuit of a Synchronous Machine, DQ Equivalent
+Circuits:3-Ph SC on machine terminals– OCC, SCC and SCR. Simple sub transient,
+transient and steady state models.
+UNIT- IV:
+Modelling of Prime Movers and Excitation Systems: Modelling of turbines- hydraulic
+turbine-model of governors for hydraulic turbine-block diagram and steam turbine
+model. Modelling of Excitation Systems: Commonly used D.C and A.C excitation
+system block diagrams. IEEE type-I excitation system block diagram.
+UNIT-V:
+SMIB System:
+SSS of SMIB System: State space representation of classical generator model, effect
+of field flux linkage variation on system stability. Phillips Heffron model, block diagram
+representation with exciter and AVR. Power System Stabilizer: structure and tuning of
+Power System Stabilizer (PSS), block diagram with AVR and PSS.
+TEXT BOOKS:
+1. Power System Stability and Control, P. Kundur, McGraw Hill, 1994
+2. Power System Dynamics Stability and Control, K. R. Padiyar, B. S. Publications, 2006
+REFERENCES:
+1. Power System Dynamics and Stability, J. Machowski, J. Bialek & J. R. W. Bumby,
+John Wiley & Sons, 1997
+2. Power System Stability Vol. I & III, E. W. Kimbark, John Wiley & Sons, 2002
+3. Advanced Power System Analysis and Dynamics, L. P. Singh, New Age
+International, 2006
+4. Power System Control and Stability, P. M. Anderson & A. A. Fouad, Galgotia, 1981
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PC1PS03) POWER SYSTEM RESTRUCTURING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Power System Operation and Control, Power System Analysis
+COURSE OBJECTIVES:
+• To introduce the restructuring of power industry and market models
+• To get knowledge on fundamental concepts of congestion management
+• To analyse the concepts of Transmission pricing and LMP
+• To illustrate about various power sectors in India and risk hedging functionalities
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Identify the economic aspects and need of regulation and deregulation
+CO-2: Describe the Technical issues and services provided in Deregulated Power
+Industry
+CO-3: Explain existing electricity markets like PJM and OPF models
+CO-4: Illustrate the ancillary services, Reform initiatives and open access issues
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 1 1 - 3 1
+CO-2 2 - 3 1 1 2
+CO-3 1 - 2 - 2 -
+CO-4 1 - 1 - 1 -
+UNIT-I:
+Fundamentals of Restructuring: Introduction, Motivation – Benefits - Reasons – Structure
+- Restructuring process - Different entities - Role of ISO – PJM ISO - Models of
+Competition: Monopoly, purchasing agency, wholesale competition, Retail
+Competition - contractual restructuring models: Poolco, Bilateral and Hybrid - Power
+Exchange, Comparison of various market models - Issues involved in deregulation
+UNIT-II:
+Transmission Congestion Management:
+Introduction: Definition of Congestion, reasons for transfer capability limitation, Effects
+of congestion management - features of congestion management – Classification of
+congestion management methods: Non – market methods – Market methods – OPF
+based Congestion management-- Inter zonal and Intra zonal congestion
+management – Price area congestion management – Capacity alleviation method -
+Congestion Pricing methods.
+UNIT-III:
+Calculation of ATC:
+Structure of OASIS: Functions and Architecture – Implementation- Types of information
+available in OASIS and information requirements -Transfer Capability on OASIS -
+Definitions, Transfer Capability issues, ATC Calculation – TTC Calculation – TRM
+Calculation – CBM Calculation - methods of determination of ATC - ATC calculation
+considering the effect of contingency analysis.
+UNIT-IV:
+Ancillary Service Management: Introduction – Functions – Classification – Load
+generation balancing related services: Frequency regulation – Spinning reserve
+services – Voltage control and reactive power support devices - Sources of reactive
+power and their comparison - Issues – Black start capability service
+UNIT-V:
+Economics of Restructured Power System: Fundamentals of Economics: Modelling the
+Consumers, Modelling the producers, Market equilibrium – pareto efficiency. Demand
+response. Economic load dispatch-problem, conditions for optimum, recent
+developments.
+TEXT BOOKS:
+1. Restructured Electrical Power Systems: Operation, Mohammad Shahidehpour,
+Muwaffaq Alomoush, Marcel Dekker, 2001
+2. Power System Restructuring and Deregulation, Loi Lei Lai, Wiley India
+3. Fundamentals of Power System Economics, Daniel Kirschen and Goran Strbac,
+John Wiley & Sons, 2004
+REFERENCES:
+1. Operation of Restructured Power Systems, Kankar Bhattacharya, Jaap E. Daadler,
+Math H. J. Boolen, Kluwer Academic, 2001
+2. Making Competition Work in Electricity, Sally Hunt, John Willey and Sons, 2002
+3. Understanding Electric Utilities and De-Regulation, Lorrin Philipson and H. Lee Willis,
+CRC Press, 2006
+4. NPTEL Course-Restructured Power Systems, A. R. Abhyankar, S. A. Khaparde,
+Available: http://nptel.iitm.ac.in/courses/108101005
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1PS01) RENEWABLE ENERGY TECHNOLOGIES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Power Systems, Switch gear Protection, Power Electronics
+COURSE OBJECTIVES:
+• To provide necessary knowledge about the modeling, design and analysis of
+various PV& WECS
+• To understand the power conditioning of PV & WECS system’s power output
+• To gain understanding of integrated operation of renewable energy systems and
+its LCC
+• To estimate sizing and feasibility analysis of energy storage system
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Model, analyze and design various PV & WECS
+CO-2: Design appropriate power conditioning system for PV &WEC system
+CO-3: Design efficient stand alone and grid connected PV and WEC systems
+CO-4: Design efficient storage systems for Renewable Energy systems
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 2 2 2 2 2
+CO-2 1 2 2 1 2 2
+CO-3 2 3 2 1 2 1
+CO-4 1 1 1 1 2 1
+UNIT-I:
+Photovoltaic Energy Conversion System: Basics- solar constant-extraterrestrial and
+terrestrial solar radiation, instruments for measuring solar radiation and sunshine , PV
+Cell-Crystalline Solar cells-Thin film solar cell, Module, Array, Equivalent Electrical
+circuit, I-V, P-V Curves , effect of temperature and irradiation and series/shunt
+resistances on the open circuit voltage and short circuit current, hot spot problem in
+a PV module .
+UNIT-II:
+Wind Energy Conversion System: Basic Principle of wind energy conversion -nature of
+wind -wind survey in India -Power in the wind -components of a wind energy -
+conversion system -Performance of induction generators for WECS, Site selection,
+classification of WECS.
+UNIT-III:
+Sizing of PV and energy storage systems: Sizing PV without batteries and Sizing PV with
+batteries -Battery Parameters-C-rate,DOD,SOC Battery selection,PV system design-
+Load profile-Days of autonomy and recharge-Battery size-PV array size.
+UNIT-IV:
+Converter control and its algorithms: DC Power conditioning converters-Buck , Boost,
+Buck-Boost , AC power conditioners converters-Line commutated inverters -
+maximum power point tracking -Impedance control methods-P&O, INC,Hill Climbing
+methods
+UNIT-V
+Grid Integration: Grid connection principle, Grid integration topologies, Direct
+Machine Coupling with the Grid, Full Power Electronics Coupling with the Grid, Partial
+Power Electronics Coupling to the Grid, Distributed Power Electronics Interface,d-q
+controlled grid connection for three-phase, Impact of Interface on the Power
+System.Case study of comparison between Off grid and grid connected systems.
+TEXT BOOKS:
+1. Non-conventional Energy Sources, Rai G. D., Khanna Publishers, 2002
+2. Wind and Solar Power Systems, Mukund R. Patel, CRC Press, 2004
+3. Energy Storage Technologies and Applications, Ahmed Faheem Zobaa, InTech
+Publishers, 2013
+REFERENCES:
+1. Solar Energy Utilization, Rai G. D., Khanna Publishers,1997
+2. Wind Energy Systems, Gray L. Johnson, Prentice Hall, 1985
+3. Design of Photovoltaic Systems, Prof. L Umanand
+(https://nptel.ac.in/courses/117108141)
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1PL01) ADVANCED MICRO-CONTROLLER BASED SYSTEMS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Microprocessors and Micro-controllers
+COURSE OBJECTIVES:
+• To understand the architecture of advance microprocessor and microcontrollers
+• To understand the applications of these controllers
+• To get introduction to Embedded Systems
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the architecture of advanced microprocessors and
+microcontrollers
+CO-2: Learn how to program a processor and develop an advanced processor-
+based system
+CO-3: Understand the application of Microprocessor and microcontrollers as building
+unit for Embedded Systems
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 1 2 3 3 2
+CO-2 3 1 3 3 3 2
+CO-3 2 1 2 2 3 2
+UNIT-I:
+Basics of Micro Processors & Embedded Concepts: Microprocessor architecture, word
+Lengths, addressable memory, Microprocessor's speed architectural characteristics,
+registers, instruction, memory addressing architecture ,ALU, GPR's Control logic &
+internal data bus.
+An Embedded system, processor in the system, other hardware units, software
+embedded into a system, exemplary embedded systems, embedded system – on –
+chip (SOC) and in VLSI circuit. Processor and memory organization – Structural units in
+a Processor, Processor selection for an embedded system, memory devices, memory
+selection for an embedded systems, memories and Input Output Devices.
+UNIT-II:
+ARM Architecture: Types of computer Architectures, ISA's and ARM History. Embedded
+System Software and Hardware, stack implementation in ARM, Endianness, condition
+codes. ARM Architecture Versions, Processor Naming, Processor core VS CPU core,
+ARM7TDMI Interface signals, Memory Interface,Bus Cycle types, Register set,
+Operational Modes. Instruction Format,ARM Core Data Flow Model,ARM 3 stage
+Pipeline, ARM family attribute comparison. ARM 5 stage Pipeline, Pipeline Hazards,
+Data forwarding - a hardware solution.
+UNIT-III:
+Overview of Cortex-M3: Cortex-M3 Basics: Instruction Set Development, Thumb-2,
+Registers, General Purpose Registers, Stack Pointer, Link Register, Program Counter,
+Special Registers, Operation Mode, Stack Memory Operations, Reset Sequence.
+Instruction Sets: Assembly Basics, Instruction List, Instruction Descriptions.
+UNIT-IV:
+Cortex-M3 Implementation Overview: Pipeline, Block Diagram, Bus Interfaces on
+Cortex-M3, I-Code Bus, D-Code Bus, System Bus, External PPB and DAP Bus. Exceptions:
+Exception Types, Priority, Vector Tables, Interrupt Inputs and Pending Behavior, Fault
+Exceptions, Supervisor Call and Pendable Service Call. NVIC: Nested Vectored
+Interrupt Controller Overview, Basic Interrupt Configuration, Software Interrupts and
+SYSTICK Timer. Interrupt Behavior: Interrupt/Exception Sequences, Exception Exits,
+Nested Interrupts, Tail-Chaining Interrupts, Late Arrivals and Interrupt Latency
+UNIT-V:
+Cortex-M3/M4 Programming & Microcontroller: Cortex-M3/M4 Programming: Cortex-
+M3/M4 Programming: Overview, Typical Development Flow, Using C, CMSIS (Cortex
+Microcontroller Software Interface Standard), Using Assembly. 9 5 /78 Exception
+Programming: Using Interrupts, Exception/Interrupt Handlers, Software Interrupts,
+Vector Table Relocation. Memory Protection Unit and other Cortex-M3 features: MPU
+Registers, Setting Up the MPU, Power Management, Multiprocessor Communication.
+STM32L15xxx ARM Cortex M3/M4 Microcontroller: Memory and Bus Architecture,
+Power Control, Reset and Clock Control. STM32L15xxx Peripherals: GPIOs, System
+Configuration Controller, NVIC, ADC, Comparators, GP Timers, USART.
+TEXT BOOKS:
+1. The Definitive Guide to the ARM Cortex-M3, Joseph Yiu, 2nd Edition, Elsevier, 2010
+2. Embedded/Real Time Systems Concepts, Design and Programming Black Book,
+Prasad, KVK
+3. Andrew N Sloss, Dominic Symes, Chris Wright, ARM System Developer's Guide -
+Designing and Optimizing System Software, 2006, Elsevier
+REFERENCES:
+1. ARM Architecture Reference Manual, David Seal, 2001 Addison Wesley, Morgan
+Kaufmann
+2. ARM System-on-Chip Architecture, Steve Furber, 2nd Edition, Pearson Education
+3. Cortex-M series-ARM Reference Manual
+4. Cortex-M3 Technical Reference Manual (TRM)
+5. STM32L152xx ARM Cortex M3 Microcontroller Reference Manual
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1VS19) VLSI DESIGN
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Electronic Devices and Circuits, Digital IC Concepts
+COURSE OBJECTIVES:
+• To learn the fabrication process of Integrated Circuit and electrical properties of
+MOSFET
+• To study the concepts of stick diagrams and layouts with the knowledge of MOS
+layers through design rules
+• To learn the design of digital systems using subsystem design approach
+• To understand the concepts of PLD’s, design capture tools and CMOS testing
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand IC Fabrication process steps required for various MOS circuits
+CO-2: Analyze electrical properties and layout flow for circuit level and gate level
+models
+CO-3: Design the digital circuits by using subsystem approach
+CO-4: Implement and verify the VLSI systems
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 - 2 1 - -
+CO-2 3 - 2 1 2 2
+CO-3 3 - 2 1 2 2
+CO-4 2 - 2 1 2 2
+UNIT-I:
+Introduction: Introduction to MOS Technology – MOS, PMOS, NMOS, CMOS and
+BiCMOS technologies, fabrication fundamentals: Oxidation, Lithography, Diffusion, Ion
+implantation, Metallization and Encapsulation.
+Basic Electrical Properties: Basic Electrical Properties of MOS, CMOS and BiCMOS
+Circuits: Ids-Vds relationships, MOS transistor threshold Voltage, gm, gds, figure of merit
+wo, Pass transistor, NMOS inverter, Various pull-ups, Determination of pull-up to pull-
+down ratio (Zpu/Zpd), CMOS Inverter analysis and design, BiCMOS inverters, Latch-up
+in CMOS circuits.
+UNIT-II:
+VLSI Circuit Design Processes: VLSI Design Flow, MOS Layers, Stick Diagrams, Design
+Rules and Layouts, Lambda based design rules, Contact cuts , CMOS Lambda based
+design rules, Layout Diagrams for logic gates, Transistor structures, wires and vias,
+Scaling of MOS circuits- Scaling models, scaling factors, scaling factors for device
+parameters, Limitations of Scaling.
+UNIT-III:
+Basic Circuit Concepts: Sheet Resistance RS and its concept to MOS, Area
+Capacitance Units, Calculations, the delay unit, Inverter Delays, Driving large
+Capacitive Loads, Wiring Capacitances, Fan-in and Fan-out, Choice of layers.
+UNIT-IV:
+Gate Level Design: Architectural issues, Switch logic, Gate logic, Combinational
+Circuit Design: CMOS logic families including Ratioed Logic, Static, dynamic and
+Domino Logic, Pass-Transistor Logic and Transmission gate logic.
+Sequential Circuit Design: Design of latches and Flip-flops.
+UNIT-V:
+Subsystem & Semiconductor Integrated Design:
+Adders: Carry Ripple adder, Carry Skip adder, Carry look ahead adder, Carry select
+adder, ALU, Multipliers: Array multiplier, Serial-Parallel multiplier, Parity generator,
+Comparators, Zero/One Detectors, Up/Down Counter, Memory elements, Shifter.
+Introduction to ROM, PAL and PLA(PLDs), FPGAs, CPLDs.
+CMOS TESTING CMOS Testing, Need for testing, Test Principles, Design Strategies for
+test, Over view of Chip level Test Techniques and System-level Test Techniques, Layout
+Design for Improved Testability.
+TEXT BOOKS:
+1. Essentials of VLSI circuits and systems, Kamran Eshraghian, Dougles and A. Pucknell,
+PHI Edition, 2005
+2. Modern VLSI Design, Wayne Wolf, Pearson Education, 3rd Edition, 1997
+3. CMOS VLSI Design, A circuits and Systems Perspective, Neil H. E. Weste, David
+Harris, Ayan Banerjee, Pearson, 2009
+REFERENCES:
+1. CMOS Logic Circuit Design, John P. Uyemura, Springer, 2007
+2. VLSI Design, K. Lal Kishore, V. S. V. Prabhakar, I. K. International, 2009
+3. VLSI Design, A. Albert Raj, Latha, PHI, 2008
+4. Introduction to VLSI Design, Mead and Convey, B. S. Publications, 2010
+5. VLSI Design, M. Michal Vai, CRC Press, 2009
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1PS02) SMART GRIDS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Basics in Power Systems
+COURSE OBJECTIVES:
+• To understand the concept of smart grid, architecture and its advantages over
+conventional grid
+• To know tools & techniques for smart grids
+• To understand the problems associated with integration of distributed generation
+and learn wide area measurement techniques
+• To understand the communication technologies
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the features of Smart Grid
+CO-2: Assess the role of automation and digitization in transmission and distribution
+CO-3: Analyse smart grids and distributed energy resources (DER) with evolutionary
+algorithms
+CO-4: Investigate operation and the importance of data acquisition devices and their
+location for voltage and frequency control
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 1 - 1 2 1
+CO-2 2 2 1 1 1 2
+CO-3 2 1 - 3 2 2
+CO-4 1 - - 2 1 1
+UNIT-I:
+Introduction to Smart Grid: Basics of power systems, definition of smart grid, need for
+smart grid, smart grid domain, enablers of smart grid, smart grid priority areas,
+regulatory challenges, smart-grid activities in India.
+UNIT-II:
+Smart Grid Architecture: Smart grid architecture, standards-policies, smart-grid control
+layer and elements, network architectures, IP-based systems, power line
+communications, supervisory control and data acquisition system, advanced
+metering infrastructure. The fundamental components of Smart Grid designs,
+Transmission Automation, Distribution
+Automation, Renewable Integration
+UNIT-III:
+Tools and Techniques for Smart Grid: Computational Techniques – Static and Dynamic
+Optimization Techniques for power applications such as Economic load dispatch –
+Computational Intelligence Techniques – Evolutionary Algorithms in power system –
+Artificial Intelligence techniques and applications in power system.
+UNIT-IV:
+Distribution Generation Technologies: Introduction to Distribution Energy Sources,
+Renewable Energy Technologies – Microgrids – Storage Technologies –Electric
+Vehicles and plug – in hybrids – Environmental impact and Climate Change –
+Economic Issues.
+UNIT-V:
+Communication Technologies in Smart Grid: Introduction to Communication
+Technology, Two Way Digital Communications Paradigm, Synchro- Phasor
+Measurement Units (PMUs) –Wide Area Measurement Systems (WAMS)- Introduction
+to Internet of things (IoT)-Applications of IoT in Smart Grid.
+TEXT BOOKS:
+1. Smart Grids, Infrastructure, Technology and Solutions, S. Borlase, 1st Edition, CRC
+Press, 2013
+2. Renewable and Efficient Electric Power System, G. Masters, 2nd Edition, Wiley–IEEE
+Press, 2013
+REFERENCES:
+1. Synchronized Phasor Measurements and their Applications, A. G. Phadke and J. S.
+Thorp, 2nd Edition, Springer, 2017
+2. Wind Power in Power Systems, T. Ackermann, Hoboken, 2nd Edition, John Wiley,
+2012
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1PL02) DATA SCIENCE APPLICATIONS IN POWER ENGINEERING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To provide necessary knowledge in data science
+• To understand the process of data collection and storage, descriptive and
+predictive analysis
+• To gain understanding statistical tools for descriptive analysis
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Explain the data science process
+CO-2: Understand tools for data collection and statistical analysis
+CO-3: Basic machine learning algorithms and deep learning architecture
+CO-4: Apply data science knowledge in electrical power applications
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 - 3 1 2 1
+CO-2 3 1 3 1 3 2
+CO-3 2 1 2 1 3 2
+CO-4 3 1 3 1 3 2
+CO-5 3 - 3 1 2 1
+UNIT-I:
+Data Science: Introduction, Terminology, data science process, Types of data,
+Example applications.
+Data Collection and Management: Introduction, Sources of data, Data collection and
+APIs, Exploring and fixing data, Data storage and management, using multiple data
+sources
+UNIT-II:
+Data Analysis: Introduction, Terminology and concepts, Introduction to statistics,
+Central tendencies and distributions, Variance, Distribution properties and arithmetic,
+Samples/CLT, Basic machine learning algorithms, Linear regression, SVM, Naive Bayes
+UNIT-III:
+Data Visualization: Introduction, Types of data visualization,
+Data for Visualization: Data types, Data encodings, Retinal variables, mapping
+variables to encodings, Visual encodings.
+UNIT-IV:
+Deep Learning: Deep Architectures – Convolutional Neural Networks–Convolutional
+Layer–Pooling Layer–Normalization Layer - Fully Connected Layer–Deep belief
+Networks
+UNIT-V:
+Applications of Data Science: Descriptive and predictive data analysis for electrical
+applications. Short term and long term load predictions, analyzing power plant data
+and performing descriptive and predictive analysis
+TEXT BOOKS:
+1. Doing Data Science, Straight Talk from The Frontline, Cathy O’Neil, Rachel Schutt,
+O’Reilly, 2013
+2. Introducing Data Science, Davy Cielen, Arno D. B. Meysman, Mohamed Ali, 1st
+Edition, Manning Publications, 2016
+3. An Introduction to Statistical Learning: with Applications in R, Gareth James,
+Daniela Witten, Trevor Hastie, Robert Tibshirani, 1st Edition, Springer, 2013
+REFERENCES:
+1. Neural Networks: A Comprehensive Foundations, Simon Haykin, Pearson, 2003
+2. Fuzzy sets, Uncertainty and Information, G. J. Klir and T. A. Folger, PHI,1994
+3. Neural Network & Fuzzy System, Bart Kosko, Prentice Hall, 1992
+4. Neural Computing Theory & Practice, P. D .Wasserman, Van Nostrand Reinhold,
+1989
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1PS03) ELECTRICAL POWER DISTRIBUTION SYSTEMS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Power Systems, Electrical Distribution Systems
+COURSE OBJECTIVES:
+• To learn about power distribution system
+• To analyze the protective devices and coordination
+• To know the functions and maintenance of Distribution Automation
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Acquire knowledge of power distribution system
+CO-2: Study of Distribution automation and its application in practice
+CO-3: Calculate voltage drop and loss
+CO-4: Optimization and maintenance of EPDS
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 1 2 1 1 2
+CO-2 3 2 3 3 3 2
+CO-3 2 3 1 3 2 1
+CO-4 1 2 2 2 2 3
+UNIT–I:
+Distribution Feeders and Substations: Introduction to distribution systems- Design
+considerations of distribution feeders: Radial and Loop types of primary feeders,
+voltage levels, feeder-loading. Design practices of the secondary distribution system.
+Location of substations: Rating of a distribution substation, service area with primary
+feeders. Benefits derived through optimal location of substations.
+UNIT–II:
+Distribution Automation: Distribution of Power, Power Loads, Short-term Load
+Forecasting, Long-term Load Forecasting. Definitions in Distribution Automation, Need
+for Distribution Automation, Objectives, functions and Benefits of Distribution
+Automation. Restoration / Reconfiguration of Distribution Network, Different Methods
+and Constraints, Power Factor Correction, Advantages of Distribution Management
+System (DMS).
+UNIT-III:
+Capacitive Compensation for Power Factor Control: Different types of power
+capacitors, shunt and series capacitors, effect of shunt capacitors (fixed and
+switched) power factor correction, capacitor location. Economic justification.
+Procedure to determine the best capacitor location. Voltage Control: Equipment for
+voltage control, effect of series capacitors, effect of AVB/AVR, line drop
+compensation.
+UNIT-IV:
+Protective Devices and Coordination: Objectives of distribution system protection,
+types of common faults and procedure for fault calculation. Protective Devices:
+Principle of operation of fuses, circuit reclosers, line sectionalizers and circuit breakers.
+Coordination of protective devices: General coordination procedure.
+UNIT–V:
+Maintenance of Distribution Systems: Maintenance of Automated Distribution Systems,
+Difficulties in Implementing Distribution Automation in actual practice, Urban/Rural
+Distribution, Need based Energy Management, AI techniques applied to Distribution
+Automation–Overview of General Techniques, GA and its implementation to
+Distribution Automation.
+TEXT BOOKS:
+1. Electric Power Distribution, A. S. Pabla, 4th Edition, Tata McGraw Hill
+2. A Text Book of Electrical power Distribution Automation, M. K. Khedkar, G. M. Dhole,
+University Science Press
+3. Electrical Power Distribution Engineering, Turan Gonen, 3rd Edition, CRC Press
+REFERENCES:
+1. Electrical Distribution Engineering, Anthony J. Panseni, CRC Press
+2. Electric Power Distribution, Automation, James Momoh, Protection & Control, CRC
+Press
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1PS04) SCADA SYSTEMS AND APPLICATIONS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Basic Power Systems
+COURSE OBJECTIVES:
+• To understand what is meant by SCADA and its functions
+• To know SCADA communication
+• To get an insight into its application
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Describe the basic tasks of Supervisory Control Systems (SCADA) as well as their
+typical applications
+CO-2: Acquire knowledge about SCADA architecture, various advantages and
+disadvantages of each system
+CO-3: Comprehend about SCADA Protocols. IEC 60870, DNP3, ICCP etc
+CO-4: Learn about SCADA system components: remote terminal units, PLCs, intelligent
+electronic devices, HMI systems, SCADA server
+CO-5: Apply SCADA in transmission and distribution sector, industries etc.
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 2 2 1 1 1
+CO-2 2 2 2 1 1 2
+CO-3 1 1 1 - 1 1
+CO-4 1 1 1 - 1 1
+CO-5 3 1 2 2 1 1
+UNIT-I:
+Introduction to SCADA:
+SCADA-SCADA Systems: Components of SCADA Systems & Applications in various
+industries, SCADA in Power Systems: Advantages, Basic functions& Application
+functions, Power System field, Types of data& signals in power system, Flow of data
+from field to SCADA control center, , Open System-Need and advantages, Building
+blocks of SCADA Systems.
+UNIT-II:
+SCADA RTU & IED Components: RTU- Block diagram, Sub systems- Communication,
+Logical, Termination, Power supply, HMI; Advanced RTU Functionalities of the logic
+subsystem.
+IED- Functional block diagram, Hardware and software Architecture, Advanced
+functionalities, Communication subsystem; Data concentrators and merging units.
+UNIT-III:
+SCADA MS & HMI Components: MS- Major functions of basic SCADA software,
+Hardware components and their main functions, Block diagrams of small, medium,
+large Master Stations; Global Positioning Systems (GPS), MS performance.
+HMI- Components, functionalities, HMI Intelligent alarm filtering and suppression
+techniques, Classification of SCADA Systems:-Single master- single remote, Single
+master-multiple RTU, Multiple master- multiple RTUs, Single master- multiple sub master-
+multiple remote.
+UNIT-IV:
+SCADA Communication: SCADA communication- Requirements, Topologies, Smart
+grid communication infrastructure; SCADA Data communication-Techniques,
+Components, Transmission of Digital Signals and their Modes, Error detection
+techniques, Media Access Control techniques.
+UNIT-V:
+SCADA Architecture & Protocols: SCADA Communication Protocol Architectures- OSI
+seven layer model, enhanced performance architecture (EPA) model, Transmission
+Control Protocol (TCP)/ Internet Protocol (IP) model.
+SCADA And Smart Grid Protocols- Mod bus, International Electro Technical
+Commission (IEC 60870), Distributed Network Protocol 3 (DNP3), Inter-Control Center
+Protocol (ICCP), Ethernet, IEC 61850, IEEE C37.118 Synchrophasor standard, Zig bee &
+its devices, Wi-Fi, Guided(wired)& Unguided (wireless)media.SCADA Case Studies
+TEXT BOOKS:
+1. Power System SCADA and Smart Grids, Mini S. Thomas, John D. McDonald, CRC
+Press, Taylor and Francis, 2015
+2. SCADA- Supervisory Control and Data Acquisition, Stuart A. Boyer, Instrumentation
+Systems and Automation Society
+REFERENCES:
+1. Practical SCADA for Industry, David Bailey, Edwin Wright, Newnes, 2003
+2. Designing SCADA Application Software: A Practical Approach, Stuart G. McCrady
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1PS05) REACTIVE POWER COMPENSATION AND MANAGEMENT
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Power Systems
+COURSE OBJECTIVES:
+• To identify the necessity of reactive power compensation
+• To describe load compensation
+• To select various types of reactive power compensation in transmission systems
+• To illustrate reactive power coordination system
+• Tocharacterizedistributionsideandutilitysidereactivepowermanagement
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Distinguish the importance of load compensation in symmetrical as well as
+unsymmetrical loads
+CO-2: Work out on various compensation methods in transmission lines
+CO-3: Construct models for reactive power coordination
+CO-4: Distinguish demand side reactive power management & user side reactive
+power management
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 - - - - 1
+CO-2 2 2 - 1 - 2
+CO-3 2 2 - 2 2 2
+CO-4 - 1 - 1 2 1
+UNIT-I:
+Load Compensation: Objectives and specifications, Reactive power characteristics,
+Inductive and capacitive approximate biasing, Load compensator as a voltage
+regulator, Phase balancing and power factor correction of unsymmetrical loads,
+Examples.
+UNIT-II:
+Steady–State Reactive Power Compensation in Transmission Systems:
+Uncompensated line, Types of compensation, Passive shunt and series and dynamic
+shunt compensation, Examples.
+Transient State Reactive Power Compensation in Transmission Systems:
+Characteristic time periods, Passives hunt compensation, Static compensation, Series
+capacitor compensation, Compensation using synchronous condenser, Examples.
+UNIT-III:
+Reactive Power Coordination: Objective, Mathematical modeling, Operation
+planning, Transmission benefits, Basic concepts of quality of power supply,
+Disturbances, Steady–state variations, Effect of under-voltages, Frequency,
+Harmonics, Radio frequency and electromagnetic interference.
+UNIT-IV:
+Demand Side Management: Load patterns, Basic methods load shaping, Power tariffs,
+KVAR based tariffs penalties for voltage flickers and Harmonic voltage levels.
+Distribution Side Reactive Power Management: System losses, Loss reduction methods,
+Examples, Reactive power planning, Objectives, Economics Planning capacitor
+placement, Retro fitting of capacitor banks.
+UNIT-V:
+User Side Reactive Power Management: KVAR requirements for domestic appliances,
+Purpose of using capacitors, Selection of capacitors, Deciding factors, Types of
+available capacitor, Characteristics and Limitations.
+Reactive Power Management in Electric Traction Systems and Arc Furnaces:
+Typical layout of traction systems, Reactive power control requirements, Distribution
+transformers, Electric arc furnaces, Basic operation, Furnaces transformer, Filter
+requirements, Remedial measures, Power factoro fan arcfurnace.
+TEXT BOOKS:
+1. Reactive power control in Electric Power Systems, T. J. E. Miller, John Wiley and
+Sons,1982
+2. Reactive power Management, D. M. Tagare, Tata McGraw Hill, 2004
+REFERENCES:
+1. Reactive Power Compensation: A Practical Guide, Wolfgang Hofmann, Jurgen
+Schlabbach, Wolfgang Just, Wiley, 2012
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1PL05) ELECTRIC AND HYBRID VEHICLES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Electrical Machines
+COURSE OBJECTIVES:
+• To study the different drive train configurations of electric vehicles
+• To propose the various propulsion and energy storage systems for EHVs
+• To know the sizing of propulsion motors and other systems involved in EHV
+• To carry out different design case studies of EHV and BEVs
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Assess the performance, societal and environmental impact of EHVs having
+known their past history
+CO-2: Implements various drive train topologies and control strategies in Electric and
+Hybrid vehicles
+CO-3: Recommend, design/size and control different electric propulsion units and
+other components of EHVs and BEVs
+CO-4: Appropriately select the energy storage system and strategize its management
+in EHVs
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 1 2 2 2 2
+CO-2 2 1 3 3 3 2
+CO-3 3 1 3 3 3 2
+CO-4 2 1 2 2 2 2
+UNIT-I:
+Introduction to Hybrid Electric Vehicles: History of hybrid and electric vehicles, social
+and environmental importance of hybrid and electric vehicles, impact of modern
+drive-trains on energy supplies. Conventional Vehicles: Basics of vehicle performance,
+vehicle power source characterization, transmission characteristics, mathematical
+models to describe vehicle performance.
+UNIT-II:
+Hybrid Electric Drive-Trains: Basic architecture and concept of hybrid traction,
+introduction to various hybrid drive-train topologies, power flow control in hybrid drive-
+train topologies, fuel efficiency analysis.
+Basic concept of electric traction, introduction to various electric drive-train
+topologies, power flow control in electric drive-train topologies, fuel efficiency
+analysis.
+UNIT-III:
+Electric Propulsion Unit: Introduction to electric components used in hybrid and
+electric vehicles, Configuration and control of DC Motor drives, Configuration and
+control of Induction Motor drives, configuration and control of Permanent Magnet
+Synchronous Motor drives, Configuration and control of Switch Reluctance Motor
+drives, drive system efficiency.
+UNIT-IV:
+Sizing the Drive System: Matching the electric machine and the internal combustion
+engine (ICE), Sizing the propulsion motor, Sizing the power electronics based on Switch
+Technology - Switching Frequency and Ripple capacitor design, selecting the energy
+storage technology, Communications, supporting subsystems
+UNIT-V:
+Energy Storage and Energy Management Strategies: Energy Storage Requirements in
+Hybrid and Electric Vehicles, Batteries, Fuel Cell and Super Conductor and Flywheel
+based Energy storage, Introduction to Energy Management Strategies used in Hybrid
+and Electric vehicles, Classification and Comparison of Energy Management
+Strategies, Battery Management System (BMS) principle, General architecture of BMS,
+Battery equivalent circuit models, Open Circuit Voltage, State of Charge (SOC)
+dependance.
+Case Study: Design of a Hybrid Electric Vehicle (HEV)
+TEXT BOOKS:
+1. Electric and Hybrid Vehicles: Design Fundamentals, Iqbal Hussein, CRC Press, 2010
+2. Modern Electric, Hybrid Electric and Fuel Cell Vehicles: Fundamentals, Theory and
+Design, Mehrdad Ehsani, Yimi Gao, Sebastian E. Gay, Ali Emadi, CRC Press, 2009
+3. Electric Vehicle Technology Explained, James Larminie, John Lowry, Wiley, 2003
+REFERENCES:
+1. Hybrid Vehicle Propulsion, Jefferson C. M., Barnard and R. H., WIT Press, 2002
+2. Electric and Fuel Cell Vehicles, Jack Erjavec and Jeff Arias, Cengage Learning,
+2012
+3. Electric Vehicles - The Benefits and Barriers, Seref Soylu, InTech Publishers, 2011
+4. Alternative Fuel Technology – Electric, Hybrid and Fuel Cell Vehicles, Jack Erjavec
+and Jeff Arias Cengage Learning, 2007
+5. Build Your Own Electric Vehicle, Seth Leitman, McGraw Hill, S2013
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1PL06) MACHINE LEARNING AND APPLICATIONS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To learn basic concepts of machine learning techniques
+• To understand various learning methods
+• To apply machine learning for various problem solving applications
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand basic concepts of Machine Learning Techniques
+CO-2: Distinguish between supervised learning, unsupervised learning and reinforced
+learning
+CO-3: Develop the skills in using machine learning software for solving practical
+problems
+CO-4: Apply Machine Learning Algorithms for Electrical Engineering problems
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 2 2 1 2 2
+CO-2 3 1 2 1 2 2
+CO-3 3 1 3 2 2 2
+CO-4 3 1 3 3 2 2
+UNIT-I:
+Neural Networks: Introduction to Neural Networks, Models of Neuron Network,
+Architectures – Knowledge representation, Artificial Intelligence and Neural Networks
+– Learning Process, Error Correction Learning, Multi-layer perceptron using Back
+Propagation Algorithm (BPA)
+UNIT-II:
+Learning Theory:
+Introduction to Machine Learning: What is Learning – Learning Objectives – Data
+needed – Bayesian inference and Learning – Bayes theorem – inference – naïve Bayes
+– Regularization – Bias-Variance Decomposition and Trade-off – Concentration
+Inequalities – Generalization and Uniform Convergence – VC –dimension- Types of
+Learning- Supervised Learning – Unsupervised Learning and Reinforcement Learning.
+UNIT-III:
+Supervised Learning: Simple linear Regression – Multiple Linear Regression- Logistic
+Regression – Exponential Family and Generalized Linear Models- Generative Models:
+Gaussian Discriminate Analysis, Naïve Bayes – Kernal Method: Support Vector
+Machine (SVM) – Kernal function – Kernal SVM - Gaussian Process – Tree Ensembles:
+Decision Trees- Random Forests – Boosting and Gradient Boosting
+UNIT-IV:
+Unsupervised Learning (Clustering): K –means Clustering Algorithm – Gaussian Mixture
+Model (GMM) – Expectation Maximization (EM) – Variational Auto Encoder (VAE) –
+Factor Analysis – Principle Components Analysis (PCA) – Independent Component
+Analysis (ICA)
+UNIT-V:
+Reinforcement Learning & Applications of ML: Markov Decision Processes (MDP) –
+Bellman’s Equations- Value Iteration and Policy Iteration - Value Function
+Approximation – Q – Learning.
+Load Forecasting – Energy Market forecasting – Fault identification and localization –
+Renewable Uncertainty estimation
+TEXT BOOKS:
+1. Pattern Recognition and Machine Learning, Christopher Bishop, Springer, 2011
+2. Machine Learning, E. Alpaydin, MIT Press
+REFERENCES:
+1. Machine Learning, Tom M. Mitchell, McGraw Hill International Edition, 1997
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PC2PL01) PYTHON FOR ELECTRICAL SYSTEMS AND APPLICATIONS LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE PRE-REQUISITES: Problem Solving using C, Control systems, All core subjects
+COURSE OBJECTIVES:
+• To introduce core programming basics and program design with functions using
+Python programming language for electrical systems.
+• To study the use of procedural statements like assignments, conditional
+statements, loops and function calls for Electrical systems.
+• To describe the need for Object-oriented programming concepts in Python for
+Electrical and other related applications.
+• To apply python for Real Time Systems
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Determine the electrical/ electronic and magnetic network parameters and
+Analysis using Python
+CO-2: Illustrate decision making statements and functions for network and control
+solutions.
+CO-3: Develop programs for power electronic applications
+CO-4: Evaluate the electrostatic field parameters using Python
+CO-5: Perform sensor based control applications for real time systems
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 - 2 1 2 1
+CO-2 3 - 2 1 2 2
+CO-3 2 - 2 2 2 1
+CO-4 2 - 2 1 2 1
+CO-5 2 - 2 1 2 2
+LIST OF EXPERIMENTS:
+1. Numbers in Python, Basic & Built-in Math functions, Number Formats, Strings,
+Quotes, print () Function, Assigning Values to Names & Changing Data Through
+Names, Copying Data.
+2. Dictionaries - Groupings of Data Indexed by Name, Special String Substitution Using
+Dictionaries, Arrays, Treating a String Like a List, Special Types, Ranges of
+Sequences, Working with Sets, Arrays.
+3. Decision Making and Functions: Theory: If statement, if-elif-else, Repetition using
+while loop, for loop, break statement.
+4. Functions-Grouping Code under a Name, defining a Function, function in the
+function, Checking & Setting Your Parameters.
+5. Calling Functions from within Other Functions, Functions Inside of Functions, Layers
+of Functions – Dynamic Equation solutions.
+6. Calculation of ripple factor for a given rectifier: Half-wave/Full-wave/Bridge circuit
+using Python program.
+7. Modelling and Response of second and higher order electrical circuit using Python
+program(Time-response, Root locus, Bode plot).
+8. Generate Continuous and Discrete time signals for elementary functions.
+9. Calculation of the equivalent circuit parameters and efficiency of a Transformer
+at differentloads using Python commands.
+10. Plotting and performing various operations on Discrete Time Signals in Python.
+11. Exploration of Advanced Python Libraries I : Introduction to Objects and Functions
+of a. Numpy - core library for scientific computing b. Pandas - fast, powerful,
+flexible and easy to use open source data analysis and manipulation tool.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PC2PS01) POWER SYSTEM ANALYSIS LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE PRE-REQUISITES: Power System Analysis
+COURSE OBJECTIVES:
+• To develop computer programs for evaluation of Ybus and Zbus matrices in a
+power system
+• To develop computer programs to perform load flow studies of transmission and
+distribution systems
+• To model faults and contingencies
+• To plan the optimal scheduling of generators
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Determine Ybus and Zbus matrices in a power system
+CO-2: Evaluate node voltages in transmission and distribution systems
+CO-3: Analyze various types of faults and contingencies in a power system
+CO-4: Perform optimal scheduling of generators
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 2 2 2 1 1
+CO-2 1 2 2 2 1 1
+CO-3 2 2 2 2 1 2
+CO-4 2 1 2 2 1 1
+LIST OF EXPERIMENTS:
+1. Determination of Ybus using Inspection method.
+2. Determination of Ybus using Singular matrix transformation.
+3. Formation of Zbus using Z bus building algorithm
+4. Load flow analysis using Gauss-Seidel method
+5. Load flow analysis using Newton-Raphson method
+6. Short circuit analysis in a power system
+7. Contingency analysis
+8. Economic load dispatch
+9. Distribution system load flow analysis
+10. Evaluation of distribution system realiability.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+COMMUNICATION SKILLS FOR ACADEMIC AND RESEARCH WRITING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To equip the students with an understanding of the mechanics and conventions
+of academic and research writing including cohesion and coherence to produce
+texts that demonstrate precision and clarity
+• To enable students to present focused, logical arguments that support a thesis
+• To empower the students to find, analyze, evaluate, summarize and synthesize
+appropriate source material for literature review
+• To enable students to use appropriate language to analyze and interpret the
+data, and prepare an outline
+• To enable students to become adept in the requirements and specifications of
+standard writing to produce academic and research papers
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply knowledge of academic language features, and text structure and
+ensure cohesion and coherence as connected to various text types
+CO-2: Demonstrate the use of writing process strategies through outlining, reviewing,
+composing, and revising
+CO-3: Evaluate sources and use summary, analysis, synthesis, and integration to
+construct a literature review on a topic chosen by the student
+CO-4: Prepare an outline for Research Articles and Thesis
+CO-5: Apply standard documentation style to produce academic and research
+papers that meet the demands of specific genres, purposes, and audiences
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 3 1 1 - 1
+CO-2 3 3 3 1 - 1
+CO-3 1 3 2 2 - 1
+CO-4 3 3 2 1 - 1
+CO-5 3 3 3 1 - 1
+UNIT-I:
+a) Factors Influencing Effective Writing: Mechanics of Writing, Purpose of Writing,
+Audience/reader, Organisation- Cohesion, and Coherence
+b) Features of Academic Writing: Introduction, Complexity, Formality, Precision,
+Objectivity, Explicitness, Accuracy and Appropriacy, Relevance, Hedging
+UNIT-II:
+1. Academic Writing Forms:
+a) Analysing arguments; Building an argument
+b) Making a Counter Argument- Managing tone, and tenor
+2. Types of Research: Primary and Secondary Research;
+3. Research Design: Statement of the Problem, Survey of relevant literature, Writing
+Hypotheses, Developing Objectives; Research Tools
+UNIT-III:
+a) Criteria of Good Research- Avoiding Plagiarism
+b) Data Interpretation
+c) Preparing an outline for Research Articles & Research Reports
+UNIT-IV:
+a) Reference Skills -Paraphrasing (Change of parts of speech, word order, synonyms,
+using the passive form), -Summarizing (Steps in summarising)
+b) Documentation Format: APA style
+c) Documentation Format: MLA style
+UNIT-V:
+a) Writing Article Reviews
+b) Report Writing: a) Writing Technical Reports b) Writing Proposals
+TEXT BOOKS:
+1. A Course in Academic Writing, Gupta R., Orient Black Swan, 2010
+2. Academic Writing: Exploring Processes and Strategies, Leki I., CUP, 1998
+3. Writing-up Research: Experimental Research Report Writing for Students of English,
+Weissberg R., & Buker S., Englewood Cliffs, Prentice Hall, 1990
+REFERENCES:
+1. English Academic Writing for Students and Researchers. Yakhontova T., 2003
+2. Inside Track: Successful Academic Writing, Gillett A., Hammond A., Martala M.,
+Pearson Education, 2009
+3. English for Academic Research: Writing Exercises, Wallwork, Springer, 2013
+4. The MLA Handbook for Writers of Research Papers, 7th Edition, Modern Language
+Association
+5. Academic Writing for Graduate Students: A Course for Non-native Speakers of
+English, Swales J. M., & Feak C. B., University of Michigan Press, 1994
+ONLINE RESOURCES:
+1. https://www.coventry.ac.uk/study-at-coventry/student-support/academic-
+support/centre-for-academic-writing/support-for-students/academic-writing-
+resources/
+2. https://www.biz-e-training.com/resources-for-learners/academic-writing-online-
+resources/
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+REASEARCH METHODOLOGY AND IPR
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE-I SE-II SEE TOTAL
+2 0 0 50 50 - 100
+COURSE OBJECTIVES:
+• To understand the research problem
+• To know the literature studies, plagiarism and ethics
+• To get the knowledge about technical writing
+• To analyze the nature of intellectual property rights and new developments
+• To know the patent rights
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand research problem formulation
+CO-2: Analyze research related information & Follow research ethics
+CO-3: Understand that today’s world is controlled by Computer, Information
+Technology, but tomorrow world will be ruled by ideas, concept, and creativity
+CO-4: Understanding that when IPR would take such important place in growth of
+individuals & nation, it is needless to emphasis the need of information about
+Intellectual Property Right to be promoted among students in general & engineering
+in particular
+CO-5: Understand that IPR protection provides an incentive to inventors for further
+research work and investment in R & D, which leads to creation of new and better
+products, and in turn brings about, economic growth and social benefits
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 1 1 1 3 2
+CO-2 3 2 1 3 2 1
+CO-3 3 2 2 2 1 3
+CO-4 3 3 3 1 3 3
+CO-5 3 3 3 2 3 3
+UNIT–I:
+Meaning of research problem, Sources of research problem, Criteria Characteristics
+of a good research problem, Errors in selecting a research problem, Scope and
+objectives of research problem.
+Approaches of investigation of solutions for research problem, data collection,
+analysis, interpretation, Necessary instrumentations
+UNIT–II:
+Effective literature studies approaches, analysis, Plagiarism, Research ethics
+UNIT–III:
+Effective technical writing, how to write report, Paper Developing a Research
+Proposal, Format of research proposal, a presentation and assessment by a review
+committee
+UNIT–IV:
+Nature of Intellectual Property: Patents, Designs, Trade and Copyright. Process of
+Patenting and Development: technological research, innovation, patenting,
+development. International Scenario: International cooperation on Intellectual
+Property. Procedure for grants of patents, Patenting under PCT.
+UNIT–V:
+Patent Rights: Scope of Patent Rights. Licensing and transfer of technology. Patent
+information and databases. Geographical Indications. New Developments in IPR:
+Administration of Patent System.
+New developments in IPR; IPR of Biological Systems, Computer Software etc.
+Traditional knowledge Case Studies, IPR and IITs
+TEXT BOOKS:
+1. Research Methodology: An Introduction for Science & Engineering Students, Stuart
+Melville and Wayne Goddard
+2. Research Methodology: An Introduction, Wayne Goddard and Stuart Melville
+3. Research Methodology: A Step by Step Guide for beginners, Ranjit Kumar, 2nd
+Edition
+REFERENCES:
+1. Resisting Intellectual Property, Halbert, Taylor & Francis Ltd., 2007
+2. Industrial Design, Mayall, McGraw Hill, 1992
+3. Product Design, Niebel, McGraw Hill, 1974
+4. Intellectual Property in New Technological Age, Robert P. Merges, Peter S. Menell,
+Mark A. Lemley, 2016
+5. Intellectual Property Rights Under WTO, T. Ramappa, S. Chand, 2008
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PC1PS04) DIGITAL PROTECTION OF POWER SYSTEM
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Power System Protection, Switch Gear Protection
+COURSE OBJECTIVES:
+• To study of numerical relays
+• To developing mathematical approach towards protection
+• To study of algorithms for numerical protection
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Learn the importance of digital relays
+CO-2: Apply mathematical approach towards protection
+CO-3: Learn to develop various Protection algorithms
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 - 1 - 1 - -
+CO-2 2 - 2 3 - 2
+CO-3 3 - 3 - - 2
+UNIT-I:
+Basic Elements of Digital Protection: Introduction, Basic components of digital
+Protection: Signal conditioning sub system: transducers, surge protection, analog
+filtering, analog multiplexers, Conversion subsystem: the sampling theorem, signal
+aliasing error, sample and hold circuits, Digital multiplexing, Digital to Analog and
+Analog to Digital conversions, Digital relay sub system, Digital relay as a unit,
+Performance and characteristics of digital protection.
+UNIT-II:
+Mathematical Back Ground to Protection Algorithms: Finite difference techniques,
+Interpolation Formulae-Forward Interpolation, Backward Interpolation, Central
+difference interpolation Numerical differentiation, Curve fitting and smoothing-Least
+square method, smoothing Fourier analysis-Fourier series, Fourier Transform, Walsh
+function analysis, Relation between Fourier and Walsh Co-effecients, Sinusoidal wave:
+Derivative methods-sample and first, First and second, Sample Techniques-Two
+sample, Three sample
+UNIT-III:
+Least Squares, Differential Equation Based Techniques: Least Squares: Integral LSQ Fit,
+Power series LSQ Fit, Multi variable series LSQ Technique, Determination of measured
+impedance estimates
+Differential Equation: Representation of transmission lines with capacitance
+neglected, Differential equation protection with selected limits, Simultaneous
+differential equation techniques.
+UNIT-IV:
+Travelling Wave Based Protection and Schemes: Travelling wave-based protection:
+Transmission line as a distributed component, super imposed quantities and their
+properties, Bergeron’s equations, discriminate functions
+Travelling wave-based protection Schemes: Bergeron’s equation based, Ultra high
+speed polarity comparison, Ultra high speed wave differential, discriminate function
+based, Super imposed component trajectory based.
+UNIT-V:
+Digital Differential Protection and Schemes:
+Digital Differential Protection of Power Transformer: Principles of transformer protection,
+FIR filter-based algorithms, Least squares curve fitting based algorithms, Fourier based
+algorithm, Flux restrained current differential relay, Basic hard ware of microprocessor-
+based transformer protection,
+Digital Line differential Protection: current based differential schemes, composite
+voltage and current based protection scheme, Recent Advances in Digital Protection
+of Power Systems
+TEXT BOOKS:
+1. Digital Protection of Power Systems, A. T. Johns and S. K. Salman, IEEE Press,1999
+2. Computer Relaying for Power Systems, A. G. Phadke and J. S. Thorp,
+Wiley/Research Studies Press, 2009
+REFERENCES:
+1. Digital Power System Protection, S. R. Bhide, PHI Learning, 2014
+2. Numerical Distance Protection, Gerhard Zeigler, Siemens Publicis Corporate
+Publishing, 2006
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PC1PS05) POWER QUALITY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Complete Knowledge of Power Systems, Power Electronics
+and Electrical Drives
+COURSE OBJECTIVES:
+• To get the knowledge on Power quality problems and standards
+• To get the knowledge on PQ effects on system equipment and loads
+• To get awareness on devices introducing harmonics and mitigation methods
+• To get the Knowledge of PQ improvement methods
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Acquire knowledge on power quality issues and standards and know the
+severity of PQ problems
+CO-2: Analyze the PQ Issues and effects on system equipment and loads
+CO-3: Analyze the harmonics and its mitigation methods
+CO-4: Understand the PQ Improvement methods
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 2 2 1 1 1
+CO-2 2 2 2 2 1 2
+CO-3 2 2 2 2 1 1
+CO-4 2 3 3 2 2 2
+UNIT-I:
+Introduction to Power Quality: Overview of power quality phenomena-classification of
+power quality Issues- Voltage, Sag, Swell, Surges, Harmonics, over voltages, spikes,
+Voltage fluctuations, Transients and Interruptions. Power quality measures and
+Standards Power acceptability curves- IEEE guidelines, EMC standards and
+recommended practices.
+UNIT–II:
+Voltage Sags and PQ in Industrial Power Systems: Voltage Sag – Characterization -
+Single Phase: Voltage sag – definition, causes of voltage sag, voltage sag magnitude,
+monitoring. Voltage sag calculation in non-radial systems, meshed systems- voltage
+sag duration. Three Phase: Three phase faults, phase angle jumps, magnitude and
+phase angle jumps for three phase unbalanced sags. Modelling of networks and
+components under non-sinusoidal conditions-transmission and distribution systems-
+shunt capacitors- transformers-electric machines -loads that cause power quality
+problems.
+UNIT–III:
+Interruptions and PQ Issues in Drives: Short interruptions – definition, origin of short
+interruptions and monitoring of short interruptions. Long Interruptions– Definition –
+Difference between failures, outage, Interruptions – causes of Long Interruptions –
+Origin of Interruptions.
+Voltage sag – equipment behavior of Power electronic loads, induction motors,
+synchronous motors, computers, consumer electronics, adjustable speed AC drives
+and its operation. Mitigation of PQ problems in AC Drives, adjustable speed DC drives.
+UNIT-IV:
+Harmonics: Harmonics, Harmonics indices, Inter harmonics, Notching – Voltage vs
+Current distortion – Harmonics vs Transients – Sources and effects of harmonic
+distortion – System response characteristics – total harmonic distortion- RMS value of a
+harmonic waveform, Principles of controlling harmonics – Standards and limitation –
+important harmonic introducing devices-SMPS-Three phase power converters-
+harmonic distortion of fluorescent lamps-effect of power system harmonics on power
+system equipment and loads.Passive compensation and passive filters, active filtering
+– shunt, series and hybrid Filters and their control and d-q domain control of three
+phase shunt active filters
+UNIT–V:
+PQ Improvement and Custom Power Devices: Overview of mitigation methods – from
+fault to trip, reducing the number of faults, reducing the fault clearing time, installing
+mitigation equipment, improving equipment immunity, different events and mitigation
+methods. Voltage source converter, series voltage controller: Dynamic Voltage
+Restorer, shunt controller: DSTATCOM, combined shunt and series controller: UPQC.
+TEXT BOOKS:
+1. Understanding Power Quality Problems, Math H. J. Bollen, IEEE Press
+2. Electrical Power Systems Quality, Roger C. Durgan, Mark F. McGranaghan and H.
+Wayne Beaty, 2nd Edition, Tata McGraw Hill, 2008
+3. Power Quality – Problems and Mitigation Techniques, Bhim Singh, Ambarish
+Chandra, Kamal Al-Haddad, Wiley Publication
+REFERENCES:
+1. Power Quality in Electrical Systems, Alexander Kusko and Mark M. Thompson
+McGraw Hill
+2. Power Quality, Sankaran C., CRC Press, 2002
+3. Distribution Reliability and Power Quality, T. A. Sort, Taylor & Francis
+4. Electric Power Quality, G. T. Heydt, 2nd Edition, West Lafayette, Stars in a Circle
+Publication, 1994
+5. Power Quality Enhancement Using Custom Power Devices, A. Ghosh, G. Ledwich,
+Kluwer Academic, 2002
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PC1PS06) FLEXIBLE AC TRANSMISSION SYSTEMS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Power Electronics, Power Systems, Reactive Power Control
+COURSE OBJECTIVES:
+• To learn the active and reactive power flow control in power system
+• To understand the need for static compensators
+• To develop the different control strategies used for compensation
+• To understand the need of custom power devices and applications
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Acquire knowledge of reactive power control and objectives of FACTS
+Controller in power systems
+CO-2: Understand the working and control of shunt Controllers
+CO-3: Access the working and control of series controllers
+CO-4: Analyze the modelling of FACTS device and understand the functioning of
+Hybrid devices
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 2 2 2 1 1
+CO-2 2 3 3 2 2 2
+CO-3 2 3 3 2 2 2
+CO-4 1 2 2 2 1 1
+UNIT-I:
+Introduction to Facts Controllers: Transmission inter connections, power and Reactive
+power flow control in AC transmission system, loading capability limits, constraints of
+maximum transmission loading and dynamic stability considerations. Uncompensated
+and compensated lines, relative importance of controllable parameters.
+Classification of FACTS controller based on type of connection, relative importance
+of different types of controllers and benefits of FACTS technology.
+UNIT-II:
+Objectives of Static Compensation: Objectives of Shunt compensation – midpoint
+voltage regulation, voltage instability precaution – importance of Transient Stability –
+Power Oscillation damping. Objectives of series compensation – Improvement of
+Transient Stability and Voltage Stability – Power Oscillation Damping – Methods of
+controllable var generation – variable impedance type static var generations,
+switching converter type var generations and hybrid var generations.
+UNIT-III:
+SVC and STATCOM: Static versus passive VAR compensator, Static shunt
+compensators: SVC and STATCOM - Operation and control of TCR, TSC, FC-TCR and
+TSC-TCR type SVCs and STATCOM - Compensator control. Comparison between SVC
+and STATCOM.
+UNIT-IV:
+Static Series Compensators: Variable impendence type FACTS controllers - GCSC,
+TSSC and TCSC and their control schemes. Switching converter type FACTS controllers:
+SSSC and its control. Static voltage and phase angle regulators – TCVR and TCPAR
+Operation and Control –Applications.
+UNIT-V:
+UPFC, IPFC & Modelling: Unified Power Flow Controller: Circuit Arrangement,
+Operation and control of UPFC.
+Basic Principle of P and Q control- Independent real and reactive power flow control-
+Applications. Introduction to interline power flow controller: basic operation and
+characteristics. Transfer function and dynamic response of SVG, implementation of
+regulation slope for SVG, Control circuit implementations for transient stability, power
+oscillation damping and var reserve control for SVG.
+TEXT BOOKS:
+1. Understanding FACTS: Concepts and Technology of Flexible AC Transmission
+Systems, N. G. Hingorani, L. Gyugyi, IEEE Press Book, Standard Publishers and
+Distributors, 2001
+2. FACTS Controllers in Power Transmission and Distribution, K. R. Padiyar, New Age
+International, 2007
+REFERENCES:
+1. Flexible AC Transmission Systems-Modeling and Control, X. P. Zhang, C. Rehtanz, B.
+Pal, Springer Verlag, 2006
+2. Static Reactive Power Compensation, T. J. E. Miller, John Wiley and Sons, 1982
+3. FACTS Controllers & Applications, K. S. Sureshkumar, S. Ashok, E-book Edition,
+Nalanda Digital Library, NIT Calicut, 2003
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1PS06) VOLTAGE STABILITY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Power System Analysis, Power System Operation
+COURSE OBJECTIVES:
+• To analyze the concepts of power system stability, security and assessment
+methods
+• To understand the reactive power control in generation/transmission
+interconnected networks
+• To assess the methods for voltage stability indices(L,VCPI) and graphical methods
+P-V Q-V Curves-Analysis
+• To improve the controlling and compensation methods of voltage stability
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: understand the significance of Q-control, PS load model, angle stability and
+voltage stability
+CO-2: Analyze the graphical methods of evaluating voltage stability
+CO-3: Analyze voltage stability indices (L-Index and VCPI)
+CO-4: Understand the preventive methods of voltage collapse
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 2 2 2 1 1
+CO-2 2 2 2 2 1 2
+CO-3 2 2 2 2 2 1
+CO-4 2 3 3 2 1 2
+UNIT–I:
+Reactive Power Control: Concepts of power in A.C transmission systems, reactive loss
+characteristics, operation of transmission lines under NL and heavy load conditions.
+Voltage regulation relations with reactive power line – line loadability – governing
+effects on reactive power flow – system MVAr mismatch – constraints effects and
+practical aspects of reactive power flow problem.
+UNIT–II:
+Introduction To Voltage Stability:
+Definitions: Voltage Stability, Voltage Collapse, Voltage Security; Classification of
+Voltage Stability, different expressions and scenarios between reactive power and
+system stability.; Factors affecting Voltage collapse and instability; Previous cases of
+voltage collapse incidences.
+UNIT–III:
+Graphical Analysis of Voltage Stability: Comparison of Voltage and angular stability
+of the system; Graphical Methods describing voltage collapse phenomenon: P-V and
+Q-V curves; detailed description of voltage collapse phenomenon with the help of Q-
+V curves.
+UNIT–IV:
+Power System Loads:
+Loads that Influences Voltage Stability: Discharge lights, Induction Motor, Air-
+conditioning, heat pumps, electronic power supplies, OH lines and cables.
+Reactive Power Compensation: Generation and Absorption of reactive power- Series
+and Shunt compensation- Synchronous condensers- SVCs- OLTCs - Booster
+Transformers.
+UNIT–V:
+Analysis of Voltage Stability on SMLB System: Analytical treatment and analysis.
+Voltage Stability Indices: L-Index and its expression, Voltage collapse proximity
+indicator - Determinant of Jacobin as proximity indicators- Voltage stability margin.
+Stability Margin: Compensated and un-compensated systems.
+Voltage Security: Definition; Voltage security; Online monitoring of Voltage Stability;
+Methods to improve voltage stability and its practical aspects.
+TEXT BOOKS:
+1. Power System Voltage Stability, C. W. Taylor, McGraw Hill, 1994
+2. Performance, Operation and Control of EHV Power Transmission System - A.
+Chakrabarthy, D. P. Kotari and A. K. Mukopadyay, 1st Edition, A. H. Wheeler
+Publishing, 1995
+REFERENCES:
+1. Power System Dynamics: Stability and Control, K. R. Padiyar, 2nd Edition, B. S.
+Publications
+2. Voltage Stability of Electric Power Systems, Thierry Van Cutsem, Costas Varnas,
+Springer-Verlag
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1PS07) POWER SYSTEM RELIABILITY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Mathematics, Power Systems-II, Distribution systems, Power
+System Protection
+COURSE OBJECTIVES:
+• To identify the generation system model and recursive relation for capacitive
+model building
+• To calculate the equivalent transitional rates, cumulative probability and
+cumulative frequency
+• To classify the risk, system and load point reliability indices
+• To evaluate the basic reliability indices
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Find loss of load and energy indices for generation systems model
+CO-2: Describe merging of generation and load models
+CO-3: Evaluate operating reserve and system and load point reliability indices
+CO-4: Apply various indices for distribution systems
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 2 3 3 2 3
+CO-2 2 2 1 2 2 3
+CO-3 2 3 2 2 1 3
+CO-4 3 2 2 3 2 2
+UNIT-I:
+Generating System Reliability Analysis – I: Generation system model – capacity
+outage probability tables – Recursive relation for capacitive model building –
+sequential addition method – unit removal – Evaluation of loss of load and energy
+indices – Examples.
+UNIT-II:
+Generating System Reliability Analysis – II: Frequency of encountering a state –
+Evaluation of equivalent transitional rates, cumulative probability and cumulative
+frequency of identical generating units using two component repairable model – 2-
+level daily load representation - merging of generation and load models – Examples.
+UNIT-III:
+Operating Reserve Evaluation: Basic concepts - risk indices – PJM methods ––
+Modeling of rapid start and hot reserve units using STPM approach - security function
+approach.
+Bulk Power System Reliability Evaluation: Basic configuration – conditional probability
+approach – system and load point reliability indices – weather effects on transmission
+lines – Weighted average rate and Markov model – Common Mode Failures in two
+component repairable System
+UNIT-IV:
+Inter Connected System Reliability Analysis: Probability array methods in two inter
+connected systems -Factors affecting the emergency assistance through the
+interconnections- Reliability evaluation in three interconnected systems.
+UNIT-V:
+Distribution System Reliability Analysis:
+(Radial Configuration): Basic evaluation Techniques of Radial networks – Evaluation of
+Basic reliability indices and additional interruption indices– Examples.
+(Parallel Configuration): Basic evaluation techniques –inclusion of bus bar failures,
+scheduled maintenance – temporary and transient failures – weather effects -
+inclusion of breaker failures.
+TEXT BOOKS:
+1. Reliability Evaluation of Power Systems, R. Billinton, R. N. Allan, B. S. Publications,
+2007
+2. Reliability Modeling in Electric Power Systems, J. Endrenyi, John Wiley and Sons,
+1978
+REFERENCES:
+1. Reliability Engineering: Theory and Practice, Alessandro Birolini, Springer
+Publications
+2. System Reliability Concepts, V. Sankar, Himalaya Publishing House, 2015
+3. An Introduction to Reliability and Maintainability Engineering, Charles Ebeling, TMH
+4. Reliability Engineering, E. Balaguruswamy, TMH
+5. Reliability Engineering, Elsayed A. Elsayed, Prentice Hall
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1PS08) EHVAC TRANSMISSION
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: High Voltage Engineering, Transmission Line Theory
+COURSE OBJECTIVES:
+• To identify the different aspects of extra high voltage AC and DC transmission
+design and analysis
+• To understand the importance of modern developments of E.H.V and U.H.V
+transmission systems
+• To demonstrate EHV AC transmission system components, protection and
+insulation level for over voltages
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: List the necessity of EHV AC transmission, choice of voltage for transmission, line
+losses and power handling capability
+CO-2: Estimate the Statistical procedures for line designs, scientific and engineering
+principles in power systems
+CO-3: Construct commercial transmission system
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 - 2 3 1 1 1
+CO-2 1 2 3 2 - 2
+CO-3 1 2 3 2 2 3
+UNIT-I:
+Modeling of EHV Lines: E.H.V.A.C. Transmission line trends and preliminary aspect
+standard transmission voltages – Estimation at line and ground parameters-Bundle
+conductor systems-Inductance and Capacitance of E.H.V. lines – positive, negative
+and zero sequence impedance – Line Parameters for Modes of Propagation.
+UNIT- II:
+Electrostatic Field and Voltage Gradients Estimation: Electrostatic field– calculations
+of electrostatic field of AC lines – 3 phase single circuit and double circuit lines and 6
+phase AC lines effect of high electrostatic field on biological organisms and human
+beings –
+Voltage Gradients: surface voltage gradients and maximum gradients of actual
+transmission lines – voltage gradients on sub conductor.
+UNIT- III:
+Power Frequency Voltage Control: Calculation of Electrostatic induction in un-
+energized D/C lines – measurement of field for three phase double circuit un-
+energized lines.
+Power Frequency Voltage control and over-voltages in EHV lines: No load voltage
+condition and charging current– cascade connection of components - shunt and
+series compensation – static VAR compensation.
+UNIT - IV:
+Corona & Electro Magnetic Interference: Corona in E.H.V. lines – Corona loss formulae-
+attention of traveling waves due to Corona – Audio noise due to Corona, its
+generation, characteristic and limits.
+Measurements of audio noise radio interference due to Corona - properties of radio
+noise – frequency spectrum of RI fields – Measurements of RI and RIV.
+UNIT- V:
+Design Aspects of EHV Lines: Design of EHV lines based on steady state and transient
+limits - EHV cables and their characteristics
+TEXT BOOKS:
+1. EHVAC Transmission Engineering, R. D. Begamudre, 3rd Edition, New Age
+International
+2. HVDC Power Transmission Systems, K. R. Padiyar, 2nd Revised Edition, New Age
+International, 2012
+REFERENCES:
+1. EHVAC and HVDC Transmission Engineering, S. Rao, Khanna Publishers
+2. High Voltage Direct Current Transmission, Arrillaga J., 2nd Edition, Peter Peregrines,
+IEEE, 1998
+3. FACTS Controllers in Power Transmission and Distribution, Padiyar K. R, New Age
+International, 2007
+4. Understanding FACTS-Concepts and Technology of Flexible AC Transmission
+Systems, Hingorani H. G. and Gyugyi L., IEEE Press, 2000
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PC1PL04) ADVANCED POWER ELECTRONIC CONVERTERS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Power Electronics, Power Electronic Converters
+COURSE OBJECTIVES:
+• To describe the operation of multi level inverters with switching strategies for high
+power applications
+• To comprehend the design of resonant converters and switched mode power
+supplies.
+• To understand the design procedure of magnetic and electrostatic components
+of converters
+COURSE OUTCOMES: After completion of the course, student should be able to
+CO-1: Develop and analyze various converter topologies
+CO-2: Analyse Dynamics of DC DC converters
+CO-3: Describe Multilevel Inverter topologies for various applications of electrical
+engineering
+CO-4: Design the components for switched mode power supplies
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 - - 3 2 2 3
+CO-2 2 - 3 3 2 3
+CO-3 - - 3 2 3 2
+CO-4 2 - 3 3 2 2
+UNIT-I:
+Resonant Pulse Inverters: Series resonant inverters – series resonant inverters with
+unidirectional switches – series resonant inverters with bidirectional switches – analysis
+of half bridge resonant inverter – evaluation of currents and voltages of a simple
+resonant inverter – analysis of half bridge and full bridge resonant inverter with
+bidirectional switches ; Frequency response of series resonant inverters – for series
+loaded inverter – for parallel loaded inverter ;Voltage control of resonant inverters –
+class E resonant inverter – class E resonant rectifier – evaluation of values of C’s and
+L’s for class E inverter and Class E rectifier – numerical problems.
+UNIT-II:
+Resonant Converters: Zero current switching resonant converters – L type ZCS
+resonant converter – M type ZCS resonant converter – zero voltage switching resonant
+converters – comparison between ZCS and ZVS resonant converters – Two quadrant
+ZVS resonant converters – resonant dc-link inverters – evaluation of L and C for a zero
+current switching inverter – Numerical problems.
+UNIT-III:
+Multilevel Inverters: Multilevel concept – Classification of multilevel inverters – Diode
+clamped Multilevel inverter – principle of operation – main features – improved diode
+Clamped inverter – principle of operation – Flying capacitors multilevel inverter-
+principle of operation – main features – cascaded multilevel inverter – principle of
+operation – main features – Multilevel inverter applications – reactive power
+compensation – back to back intertie system – adjustable drives -Switching device
+currents – dc link capacitor voltage balancing – features of Multilevel inverters –
+comparisons of multilevel converters.
+UNIT-IV:
+Power Supply Applications: Isolated Switch mode dc power supplies – fly back
+Converter – forward converter – push-pull converter – half bridge converter – Full
+bridge converter – Resonant d c power supplies – bidirectional power supplies –
+Applications; power line disturbances – power conditioners – Uninterruptible Power
+Supplies.
+UNIT-V:
+DC-DC Converter Dynamics Design: Pulse Width Modulated Converter-Dynamic and
+Output Equations of the Converter; Averaged Model of the Converter- Steady State
+Solution-Small Signal Model of The Converter-Transfer Functions of the converter with
+examples; Generalized State Space Model of the Converter –Generalized model –
+linear small signal model-dynamic functions of the converter-circuit averaged model
+quantities; some examples.
+Design of magnetic components-design of transformer - Design of Inductor and
+current transformer - Selection of filter capacitors - Selection of ratings for devices -
+input filter design
+TEXT BOOKS:
+1. Power Electronics, Mohammed H. Rashid, 3rd Edition – First Indian Reprint, Pearson
+Education, 2004
+2. Power Electronics, Ned Mohan, Tore M. Undeland and William P. Robbins, 2nd
+Edition, John Wiley & Sons
+3. Course Material on Switched Mode Power Conversion V. Ramanarayanan, 1st
+Edition, 2005
+REFERENCES:
+1. Fundamentals of Power Electronics, Robert W. Erickson and Dragan Maksimovic,
+Springer
+2. Pulse-width Modulated DC-DC Power Converters, Marian K. Kazimierczuk, John
+Wiley & Sons
+3. Elements of Power Electronics, Philip T. Krein, Oxford University Press
+4. Power Electronics: Circuits, Devices and Applications, Muhammad H. Rashid,
+Pearson Education India, 2009
+5. Switching Power Supply Design, Abraham I Pressman, McGraw Hill, 2001
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1PS09) EVOLUTIONARY ALGORITHM APPLICATIONS IN POWER ENGINEERING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To get the capabilities of bio-inspired system and conventional methods in solving
+optimization problems
+• To describe Examine the importance of exploration and exploitation of
+evolutionary algorithm to attain near global optimal solution
+• To describe the functioning of various evolutionary algorithms
+• To get the various bio-inspired algorithms for Power engineering applications.
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Discriminate the capabilities of bio-inspired system and conventional methods
+in solving optimization problems
+CO-2: Examine the importance of exploration and exploitation of evolutionary
+algorithm to attain near global optimal solution
+CO-3: Distinguish the functioning of various evolutionary algorithms
+CO-4: Employ various bio-inspired algorithms for Power engineering applications
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 2 1 1 1 -
+CO-2 1 1 - - 1 -
+CO-3 2 2 2 1 2 -
+CO-4 3 3 - 2 - 1
+UNIT-I:
+Fundamentals of Soft Computing Techniques: Definition-Classification of optimization
+problems- Unconstrained and Constrained optimization Optimality conditions-
+Introduction to intelligent systems- Soft computing techniques- Conventional
+Computing versus Swarm Computing - Classification of meta-heuristic techniques -
+Single solution based and population based algorithms – Exploitation and exploration
+in population based algorithms - Properties of Swarm intelligent Systems - Application
+domain - Discrete and continuous problems - Single objective and multi- objective
+problems.
+UNIT-II:
+Genetic Algorithm and Particle Swarm Optimization: Genetic algorithms- Genetic
+Algorithm versus Conventional Optimization Techniques - Genetic representations
+and selection mechanisms; Genetic operators- different types of crossover and
+mutation operators -Bird flocking and Fish Schooling – anatomy of a particle-
+equations based on velocity and positions -PSO topologies - control parameters– GA
+and PSO algorithms for solving ELD problem.
+UNIT-III:
+Artificial Bee Colony Algorithm and Differential Evolution: Artificial bee colony (ABC)
+algorithms-binary ABC algorithms – ACO and ABC algorithms for solving Economic
+Dispatch of thermal units. The Motivation for Differential Evolution (DE), Introduction to
+Parameter Optimization, Single-Point, Derivative-Based Optimization, Local Versus
+Global Optimization, Differential Mutation, Recombination, Selection, Benchmarking
+Differential Evolution, DE Versus Other Optimizers, DE on Parallel Processors
+UNIT-IV:
+Shuffled Frog-Leaping Algorithm and Bat Optimization Algorithm: Bat Algorithm-
+Echolocation of bats- Behavior of microbats- Acoustics of Echolocation- Movement
+of Virtual Bats- Loudness and Pulse Emission- Shuffled frog algorithm-virtual population
+of frogs-comparison of memes and genes -memeplex formation- memeplex updation
+- BA and SFLA algorithms for solving ELD and optimal placement and sizing of the DG
+problem.
+UNIT-V:
+Multi Objective Optimization: Multi-Objective optimization Introduction- Concept of
+Pareto optimality - Non-dominant sorting technique-Pareto fronts-best compromise
+solution-min-max method-NSGA-II algorithm and applications.
+TEXT BOOKS:
+1. Recent Advances in Swarm Intelligence an Evolutionary Computation, Xin-She
+Yang, 1st Edition, Springer, 2015
+2. Multi-Objective Optimization using Evolutionary Algorithms, Kalyanmoy Deb, 1st
+Edition, John Wiley & Sons, 2001
+REFERENCES:
+1. Swarm Intelligence-From natural to Artificial Systems, Eric Bonabeau, Marco Dorigo
+and Guy Theraulaz, Oxford University Press, 1999
+2. Swarm Intelligence, James Kennedy and Russel E Eberheart, The Morgan
+Kaufmann Series in Evolutionary Computation, 2001
+3. Artificial Intelligence and Intelligent Systems, N. P. Padhy, Oxford University Press,
+2005
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PC1PL06) ADVANCED CONTROL SYSTEMS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Control Systems, Linear Algebra
+COURSE OBJECTIVES:
+• To cater the knowledge of basic and modern control system for the real time
+analysis and design of control systems
+• To provide adequate knowledge of state space representation and system
+analysis using state space
+• To equip student with the know-how of estimation and controller design
+techniques
+• To provide comprehensive knowledge of optimal control and modern control
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Analyse and design controllers for multivariable systems
+CO-2: Apply state space techniques for linear system analysis
+CO-3: Design estimators and controllers for systems using state space models
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 - 2 - 3 2
+CO-2 1 - 2 1 3 2
+CO-3 3 - 2 - 3 2
+UNIT-I:
+Multivariable Systems & State Space Representation: Introduction to multivariable
+systems, SISO, MIMO Systems. Process interactions and control loop interactions.
+Pairing of controlled and manipulated Variables. Relative gain array, structure
+selection. Decoupler. PID controller design for MIMO systems.
+State Space Representation of physical systems, Transfer function to state space
+representation, Phase variable form, Canonical Forms – Controllable Canonical Form,
+Observable Canonical Form, Jordan Canonical Form, State space to Transfer function
+State diagram Representation.
+UNIT-II:
+State Transition Matrix, Controllability and Observability: Stability analysis through state
+space Solution of State Equation, State Transition Matrix; Tests for controllability and
+observability for continuous time systems – Time varying case, time invariant case,
+Principle of Duality, Controllability and observability form and other canonical forms.
+UNIT-III:
+State Feedback Control: Need for state feedback. Design of state feedback control
+through pole placement. State regulator problem. Dynamic programming, Ricati
+equations and the discrete time linear quadratic regulator (LQR). Output regulator
+problem. State and output tracking problem.
+UNIT-IV:
+State Estimation: Separation principle. Design of full order observer and reduced order
+observer. Least squares estimation, weighted Least squares estimation, recursive least
+square estimation. Discrete time Kalman filter. Applications of Kalman filtering. Linear
+quadratic gaussian (LQG).
+UNIT-V:
+Model Predictive Control: Formulation of Minimum time, Minimum energy and
+minimum fuel optimal control problems. Prediction horizon, Model predictive control -
+formulation and implementation. Selection of Design and Tuning Parameters.
+Constrained model predictive control.
+TEXT BOOKS:
+1. Modern Control System Theory, M. Gopal, 2nd Edition, New Age International, 1996
+2. Advanced Control Systems, A. Nagoor Khani, 2nd Edition, RBA Publications, 2014
+3. Process Dynamics and Control, Dale E. Seborg, Thomas F. Edgar, D. A. Mellichamp,
+F. J. Doyle III, 4th Edition, John Wiley & Sons, 2016
+4. Optimal State Estimation: Kalman, H Infinity, and Nonlinear Approaches, Simon,
+Dan, John Wiley & Sons, 2006
+REFERENCES:
+1. Modern Control Engineering, K. Ogata, 3rd Edition, Prentice Hall of India, 1998
+2. Digital Control and State Variable Methods, M. Gopal, Tata McGraw Hill, 1997
+ONLINE RESOURCES:
+1. https://in.mathworks.com/videos/series/understanding-model-predictive-
+control.html
+2. https://in.mathworks.com/videos/series/understanding-kalman-filters.html
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1PS10) INDUSTRIAL LOAD MODELLING AND CONTROL
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Power Systems
+COURSE OBJECTIVES:
+• To understand the energy demand scenario
+• To understand the modeling of load and its ease to study load demand industrially
+• To know electricity pricing models
+• To study reactive power management in Industries
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Acquire knowledge about load control techniques in industries and its
+application
+CO-2: Understand different types of industrial processes and optimize the process
+using tools like LINDO and LINGO
+CO-3: Apply load management to reduced mand of electricity during peak time
+CO-4: Apply different energy saving opportunities in industries
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 2 2 1 1 1
+CO-2 1 1 2 2 1 1
+CO-3 2 2 2 1 1 1
+CO-4 1 1 2 2 1 1
+UNIT-I:
+Electric Energy Scenario, Demand Side Management, Industrial Load Management.
+Load Curve, Load Shaping Objective, Methodologies.
+Barriers: Classification of Industrial Loads, Continuous and Batch processes, Load
+Modeling
+UNIT-II:
+Direct load control, Interruptible load control. Bottom- up approach, Scheduling,
+Formulation of load models, Optimization and control algorithms, Case studies.
+Reactive power management in industry, Controls, Power quality impacts,
+Application of filters, Energy saving in industries.
+UNIT-III:
+Cooling and heating loads, Load profiling, Modeling. Cool storage, Types, Control
+strategies. Optimal operation, Problem formulation, Case studies.
+UNIT-IV:
+Captive power units, Operating and control strategies, Power Pooling, Operation
+models. Energy banking, Industrial Cogeneration.
+UNIT-V:
+Selection of Schemes, Optimal Operating Strategies. Peak load saving, Constraints,
+Problem formulation Case study. Integrated Load management for Industries.
+TEXT BOOKS:
+1. Industrial Load Management – Theory, Practice and Simulations, C. O. Bjork,
+Elsevier, 1989
+2. Load Management Concepts, C. W. Gellings and S. N. Talukdar, IEEE Press, 1986
+REFERENCES:
+1. Physically Based Industrial Load, Y. Manichaikuland F. C. Schweppe, IEEE
+Transactions on PAS, 1981
+2. Least Cost Electricity Utility Planning, H. G. Stoll, Wiley Interscience,1989
+3. Modern Power System Engineering, I. J. Nagarath and D. P. Kothari, Tata McGraw
+Hill, 1995
+4. IEEE Bronze Book, Recommended Practice for Energy Conservation and Cost-
+Effective Planning in Industrial Facilities, IEEE
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1PL09) ARTIFICIAL INTELLIGENCE TECHNIQUES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Control Systems, Power Systems, Electrical Drives
+COURSE OBJECTIVES:
+• To locate soft commanding methodologies, such as artificial neural networks, fuzzy
+logic and genetic algorithms
+• To observe the concepts of feed forward neural networks and about feedback
+neural networks
+• To practice the concept of fuzziness involved in various systems and
+comprehensive knowledge of fuzzy logic control and to design the fuzzy control
+• To analyze genetic algorithm, genetic operations and genetic mutations
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Quote feed forward neural networks and learning and understanding of
+feedback neural networks
+CO-2: Generalize fuzziness involved in various systems and fuzzy set theory
+CO-3: Examine genetic algorithm and applications in electrical engineering
+CO-4: Understand concept of hybrid AI techniques
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 1 1 - 2 1
+CO-2 2 1 1 - 2 1
+CO-3 2 1 1 - 2 1
+CO-4 3 1 2 - 2 1
+UNIT-I:
+Artificial Neural Networks: Introduction to AI, biological foundation to intelligent
+systems. Artificial Neural Network: architecture, learning process, learning rules.
+Training algorithms: LMS algorithm, Back-propagation algorithm. Radial basis network-
+covers theorem, generalized radial basis function networks, estimation of
+regularization parameter.
+UNIT-II:
+Fuzzy Logic: Introduction – Fuzzy versus crisp – Fuzzy sets - Membership function – Basic
+Fuzzy set operations – Properties of Fuzzy sets –Operations on Fuzzy relations – Min Max
+operations - Fuzzification, Membership value assignment, development of rule base
+and decision making system, De-fuzzification to crisp sets, De-fuzzification methods.
+UNIT-III:
+Genetic Algorithm: Introduction-Encoding –Fitness Function-Reproduction operators-
+Genetic Modeling –Genetic operators-Crossover-Single – site crossover-Two point
+crossover –Multi point crossover-Uniform crossover – Matrix crossover-Crossover Rate-
+Inversion & Deletion – Mutation operator – Mutation –Mutation Rate-Bit-wise operators-
+Generational cycle- convergence of Genetic - Problems on optimization-Algorithm.
+UNIT-IV:
+Neuro-Fuzzy Systems: Fuzzy associative memories; Fuzzy rule generation using neural
+net approaches, Fuzzy neural networks; adaptive neuro-fuzzy inference systems
+(ANFIS); neuro-fuzzy control.
+System/process identification using neural networks, system identification using fuzzy
+models: Mamdani Model, Takagi-Sugeno model
+UNIT-V:
+Applications of AI Techniques: Control and Process Monitoring, fault diagnosis and
+load forecasting, Function Approximation, – Load flow studies – Economic load
+dispatch – Load frequency control –Single area system and two area system – Position
+and speed control of DC and AC Motors.
+TEXT BOOKS:
+1. An Introduction to ANN, J. M. Zurada, Jaico Publishing House
+2. Neural Networks, Simon Haykins, Prentice Hall
+3. Neural Networks, Fuzzy Logic & Genetic Algorithms, S. Rajasekaran and G. A. V.
+Pai, PHI, 2003
+REFERENCES:
+1. Neural Network & Fuzzy System, Bart Kosko, Prentice Hall, 1992
+2. Neural Computing Theory & Practice, P. D. Wasserman, Van Nostrand, Reinhold,
+1989
+3. Fuzzy Sets, Uncertainty and Information, G. J. Klir and T. A. Folger, PHI, 1994
+4. Genetic Algorithms. D. E. Goldberg, Addison Wesley 1999
+5. Neural Networks, Satish Kumar, Tata McGraw Hill
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1PS11) SWARM INTELLIGENCE TECHNIQUES IN POWER SYSTEMS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Artificial Intelligence Techniques in Electrical Engineering
+COURSE OBJECTIVES:
+• To understand evolutionary algorithms like GA, PSO, Ant Colony and Bee Colony
+etc.
+• To apply these evolutionary algorithms to solve power systems problems
+• To also able to understand solution of multi-Objective optimization using these
+algorithms
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Discriminate the capabilities of bio-inspired system and conventional methods
+in solving optimization problems
+CO-2: Examine the importance of exploration and exploitation of swarm intelligent
+system to attain near global optimal solution
+CO-3: Distinguish the functioning of various swarm intelligent systems
+CO-4: Employ various bio-inspired algorithms for power systems engineering
+applications
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 2 1 - 2 2
+CO-2 3 2 2 - 3 2
+CO-3 3 2 2 - 3 2
+CO-4 3 2 2 - 3 2
+UNIT-I:
+Fundamentals of Soft Computing Techniques: Definition, Classification of optimization
+problems, Unconstrained and constrained optimization optimality condition,
+Introduction to intelligent systems, Soft computing techniques, Conventional
+computing versus swarm computing, Classification of meta-heuristic techniques,
+Single solution based and population based algorithms, Exploitation and exploration
+in population based algorithms, Properties of Swarm
+intelligentSystems,Applicationdomain,Discreteandcontinuousproblems,Singleobjecti
+veandmulti-objectiveproblems.
+UNIT-II:
+Genetic Algorithm & Particle Swarm Optimization: Genetic algorithms, Genetic
+algorithm versus Conventional Optimization Techniques, Genetic representation sand
+selection mechanisms: Genetic operators, Different types of crossover and mutation
+operators, Bird flocking and Fish Schooling-anatomy of a particle, Equations based on
+velocity and positions, PSO topologies, Control parameters, GA and PSO algorithms
+for solving ELD problems.
+UNIT-III:
+Ant Colony Optimization & Artificial Bee Colony Algorithms: Biological ant colony
+system, Artificial ants and assumptions, Stigmergic communications, Pheromone
+updating, Local – global – pheromone evaporation, Ant colony system, ACO models,
+Touring ant colony system, Max-min ant system, Concept of elasticants, Task
+partitioning in honeybees, Balancing for agers and receivers, Artificial bee colony
+(ABC) algorithms, Binary ABC algorithms, ACO and ABC algorithms for solving
+Economic Dispatch of thermal units.
+UNIT-IV:
+Shuffled Frog – Leaping Algorithm & Bat Optimization Algorithm: Bat algorithm,
+Echolocation of bats, Behavior of micro bats, Acoustics of echolocation, Movement
+of Virtual bats, Loudness and pulse Emission, Shuffled frog algorithm, Virtual population
+of frogs, Comparison of memes and genes, Memeplex formation, Memeplex
+updation, BA and SFLA algorithms for solving ELD and optimal placement and sizing
+of the DG problem.
+UNIT-V:
+Multi objective Optimization: Multi-Objective optimization introduction, Concept of
+pareto optimality, non-dominant sorting technique, Pareto fronts, best compromise
+solution, Min-max method, NSGA-II algorithm and applications to power systems.
+TEXT BOOKS:
+1. Recent Advances in Swarm Intelligence and Evolutionary Computation, Xin-She
+Yang, Springer, 2015
+2. Multi – Objective Optimization using Evolutionary Algorithms, Kalyanmoy Deb, John
+Wiley & Sons, 2001
+REFERENCES:
+1. Swarm Intelligence, James Kennedy and Russel Eeber Heart, The Morgan
+Kaufmann Series in Evolutionary Computation, 2001
+2. Swarm Intelligence-From natural to Artificial Systems, Eric Bonabeau, Marco Dorigo
+and Guy Theraulaz, Oxford University Press, 1999
+3. Genetic Algorithms in Search, David Goldberg, Optimization and Machine
+Learning, Pearson Education, 2007
+4. Swarm Optimization and Intelligence: Advances and Applications, Konstantinos E.
+Parsopoulos and Michael N. Vrahatis, Particle Information Science Reference, IGI
+Global, 2010
+5. Artificial Intelligence and Intelligent Systems, N. P. Padhy, Oxford University Press,
+2005
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1PS12) POWER SYSTEM TRANSIENTS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Power Systems, High Voltage Engineering
+COURSE OBJECTIVES:
+• To learn the reasons for occurrence of transients in a power system
+• To understand the change in parameters like voltage & frequency during
+transients
+• To know about the lightning phenomenon and its effect on power system
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Get the knowledge of various transients that could occur in power system and
+their mathematical formulation
+CO-2: Design various protective devices in power system for protecting equipment
+and personnel
+CO-3: Coordinating the insulation of various equipment’s in power system
+CO-4: Model the power system for transient analysis
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 2 2 2 2 2
+CO-2 1 1 - 1 1 1
+CO-3 - 2 1 2 2 3
+CO-4 3 2 1 2 - 3
+UNIT-I:
+Analysis of Electrical Transients: Review and importance of study of transients
+Fundamental circuit analysis of electrical transients, Laplace Transform method of
+solving simple Switching transients, Damping circuits-Abnormal switching transients,
+Three-phase circuits and transients, Computation of power system transients.
+UNIT-II:
+Over Voltages and Protection: Lightning, switching and temporary over voltages,
+Lightning, Physical phenomena of lightning, Protective devices, Protection of system
+against over voltages, lightning arresters, substation earthling
+UNIT-III:
+Transients in Power Systems: Interaction between lightning and power system,
+Influence of tower footing resistance and Earth Resistance - closing andre-closing of
+lines, line dropping, load rejection – over voltages induced by faults.
+UNIT-IV:
+Travelling Waves on Transmission Lines: Switching HVDC line, travelling waves on
+transmission line, Circuits with distributed Parameters Wave Equation, Reflection,
+Refraction, Behavior of Travelling waves at the line terminations, Lattice Diagrams –
+Attenuation and Distortion, Multi-conductor system, and Velocity wave.
+UNIT-V:
+Insulation Co-ordination & Computation of Power System Transients: Principle of
+insulation co-ordination in AirInsulated substation (AIS) and Gas Insulated Substation
+(GIS), Co-ordination between insulation and protection level, Statistical approach.
+Principle of digital computation – Matrix method of solution, Modal analysis- Z
+transform- Computation using EMTP.
+TEXT BOOKS:
+1. Electrical Transients in Power System, Allan Greenwood, Wiley & Sons, 1991
+2. Electromagnetic Transients in Power System, Pritindra Chowdhari, John Wiley &
+Sons, 1996
+3. Transient in Power Systems, Harold A. Peterson, McGraw Hill, 1966
+REFERENCES:
+1. IEEE Guide for Safety in AC Substation Grounding, IEEE Standard 80, 2000
+2. Working Group 33/13-09, Very Fast Transient Phenomena Associated with Gas
+Insulated System, CIGRE, 33-13, pp. 1-2, 1988
+3. Extra High Voltage AC Transmission Engineering, Rakosh Das Begamudre, 2nd
+Edition, New Age International, 1990
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PC2PS02) POWER SYSTEM PRACTICE LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE PRE-REQUISITES: Power System Analysis and Power System Protection
+COURSE OBJECTIVES:
+• To find equivalent circuit of 3-winding transformer
+• To outline sub-transient reactance of a salient polo synchronous machine
+• To test the characteristics of OC, UV/OV, negative sequence relays
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Draw the equivalent circuit of 3-winding transformer
+CO-2: Review sequence impedances of salient pole synchronous machine and 3-ph
+transformer
+CO-3: Analyze the characteristics of OC, UV/OV
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 2 2 3 1 2
+CO-2 2 1 3 3 2 3
+CO-3 3 3 1 3 3 2
+LIST OF EXPERIMENTS:
+1. Determination of Sequence Impedances of a Cylindrical Rotor Synchronous
+Machine
+2. Determination of Equivalent circuit of a Three winding Transformer
+3. Determination of Sequence Impedances of Three Phase Transformer
+4. Characteristics of IDMT Electromagnetic Over Current Relay
+5. Differential protection on Single Phase Transformer
+6. Characteristics of Microprocessor based Over Voltage / Under Voltage Relay.
+7. Determination of string efficiency of a suspension string insulator
+8. Performance and Testing of Generator Protection System.
+9. Performance and Testing of Transformer Protection System.
+10. Performance and Testing of Transmission Line Model.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PC2PS03) POWER SYSTEM DYNAMICS LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE PRE-REQUISITES: Power Electronics and Flexible AC Transmission Systems
+COURSE OBJECTIVES:
+• To study different types of compensators
+• To develop various models of compensators
+• To apply Power electronics to various systems
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Analyze various types of variable Impedance type FACTS Controllers
+CO-2: Analyze converter based FACTS Controllers
+CO-3: Modelling and simulation of transmission lines and Controllers
+CO-4: Transient stability and voltage stability Improvement of Power Systems using
+FACTS controllers
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 2 2 2 1 1
+CO-2 2 3 3 2 2 2
+CO-3 2 3 3 2 2 2
+CO-4 1 3 2 2 1 1
+LIST OF EXPERIMENTS:
+1. Modelling and simulation of medium and long transmission lines
+2. Study and simulation of Thyristor Controlled Reactor with its waveform
+3. Modelling and simulation of FC-TCR type SVC
+4. Modelling and simulation of TSC-TCR type SVC
+5. Simulation of PWM based VSC
+6. Simulation of three level voltage sourced converter
+7. Modelling and Simulation of TCSC Controllers
+8. Load frequency control of two area power system using simulation
+9. Steady state and Dynamic stability study of SMIB test system
+10. Simulation of Phillips Heffron model with AVR and PSS.
+Note: The above experiments are to be simulated using suitable simulation software
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PW4PS02) MINI-PROJECT
+TEACHING SCHEME
+L T/P C CIE SEE TOTAL
+0 4 2 40 60 100
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the formulated industry / technical / societal problems
+CO-2: Analyze and / or develop models for providing solution to industry / technical / societal
+problems
+CO-3: Interpret and arrive at conclusions from the project carried out
+CO-4: Demonstrate effective communication skills through oral presentation
+CO-5: Engage in effective written communication through project report
+COURSE OUTLINE:
+• A student shall undergo a mini-project during II semester of the M.Tech. programme.
+• A student, under the supervision of a faculty member, shall collect literature on an allotted
+project topic of his / her choice, critically review the literature, carry out the project work,
+submit it to the department in a prescribed report form and shall make an oral presentation
+before the departmental Project Review Committee.
+• Evaluation of the mini-project shall consist of CIE and SEE and shall be done by a Project
+Review Committee (PRC) consisting of the Head of the Department, faculty supervisor and
+a senior faculty member of the specialization / department.
+• CIE shall be carried out for 40 marks on the basis of review presentation as per the calendar
+dates and evaluation format.
+• SEE shall be carried out at the end of semester fpr 60 marks on the basis of oral presentation
+and submission of mini-project report.
+• Prior to the submission of mini-project report to the PRC, its soft copy shall be submitted to
+the PG Coordinator for PLAGIARISM check.
+• The mini-project report shall be accepted for submission to the PRC only upon meeting the
+prescribed similarity index of less than 25%.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22MN6HS02) ANCIENT WISDOM
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE-I SE-II SEE TOTAL
+2 0 0 50 50 - 100
+COURSE OBJECTIVES:
+• To introduce the contribution from Ancient Indian system & tradition to modern
+science & Technology
+• To trace, identify and develop the ancient knowledge systems
+• To introduce the sense of responsibility, duties and participation of individual for
+establishment of fearless society
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Familiarize learners with major sequential development in Indian science,
+engineering and technology
+CO-2: Understand eco-friendly, robust and scientific planning and architecture system
+of ancient India
+CO-3: Trace, identify, practice and develop the significant Indian mathematic and
+astronomical knowledge
+CO-4: Understand the importance of Indian aesthetics in individual realization of the
+truth arises by realizing the harmony within
+UNIT-I:
+Indian Science & Technology: Indian S & T Heritage, sixty-four art forms and
+occupational skills (64 Kalas)
+Ancient Architecture:
+Scientific Achievements though Ancient Architect: Musical Pillars of Vitthal temple,
+Sundial of konark temple, construction of eight shiva temple in straight line from
+Kedarnath to rameshwaram at longitude 79oE 41’54, Veerbhadra temple with 70
+hanging pillars
+UNIT-II:
+Foundation Concept for Science and Technology: The Introduction to Ancient
+Mathematics & Astronomy Introduction to Brief introduction of inception of
+Mathematics & Astronomy from vedic periods. Details of different authors who has
+given mathematical & astronomical sutra (e.g. arytabhatta, bhaskara, brahmagupta,
+varamahira, budhyana, yajanvlkya, panini, pingala, 22 bharat muni, sripati,
+mahaviracharya, madhava, Nilakantha somyaji, jyeshthadeva, bhaskara-II, shridhara
+Number System and Units of Measurement, concept of zero and its importance, Large
+numbers & their representation, Place Value of Numerals, Decimal System,
+Measurements for time, distance and weight, Unique approaches to represent
+numbers (Bhūta Saṃkhya System, Kaṭapayādi System), Pingala and the Binary system,
+Knowledge Pyramid
+Indian Mathematics, Great Mathematicians and their contributions, Arithmetic
+Operations, Geometry (Sulba Sutras, Aryabhatiya-bhasya), value of 𝜋, Trigonometry,
+Algebra, Chandah Sastra of Pingala, Indian Astronomy, celestial coordinate system,
+Elements of the Indian Calendar Aryabhatiya and the Siddhantic Tradition Pancanga
+– The Indian Calendar System
+UNIT-III:
+Humanities & Social Sciences: Health, Wellness & Psychology, Ayurveda Sleep and
+Food, Role of water in wellbeing Yoga way of life Indian approach to Psychology, the
+Triguṇa System Body-Mind-IntellectConsciousness Complex. Governance, Public
+Administration & Management reference to ramayana, Artha Sastra, Kauṭilyan State
+UNIT-IV:
+Aspiration and Purpose of Individual and Human Society: Aims of Human life; at
+individual level and societal level. At societal level; Four purusarthas Dharma, Artha,
+Kama, Moksha.
+Individual Level:
+Program for Ensuring Human Purpose:
+Fundamental Concept of Nitishastra: Satyanishtha Aur Abhiruchi (Ethics, Integrity &
+aptitude). The true nature of self; Shiksha Valli, Bhrigu Valli (concept of Atman-
+Brahman (self, soul).
+The True Constitution of Human: Ananda Valli (Annamaya Kosha, Pranamaya Kosha,
+Manomaya Kosha, Vijnanamaya Kosha, Anandamaya Kosha). The four states of
+consciousness (Waking state, Dreaming state, Deep Sleep State, Turiya the fourth
+state), Consciousness (seven limbs and nineteen mouths), Prajna, Awarness. The Life
+Force Prana (Praana-Apaana-Vyaana-Udaana- Samaana
+Ancient Indian Science (Ayurveda & Yoga)
+Ayurveda for Life, Health and Well-being: Introduction to Ayurveda: understanding
+Human body and Pancha maha bhuta, the communication between body & mind,
+health
+Introduction to Yoga: Definition, Meaning and objectives of Yoga, Relevance of yoga
+in modern age. the six cleansing procedures of Yoga, understanding of Indian
+psychological concept, consciousness, tridosha & triguna.
+UNIT-V:
+Five Important Slokas for Enlightenment
+Gayatri Mantram, Santi Mantram: Asatoma Sadgamaya, Geeta (Yada Yadahi
+Dharmasya, Glanirbhavati Bharata), Amanitwam Adambitwam..,
+Karmanyevadikarastu… Maa phaleshukadachana
+TEXT BOOKS:
+1. Textbook on Indian Knowledge Systems, Prof. B Mahadevan, IIM Bengaluru
+2. Indian Knowledge Systems, Kapur K. and Singh A. K., 2005
+REFERENCES:
+1. Tatvabodh of Sankaracharya, Central Chinmay Mission Trust, Bombay, 1995
+2. Value and Distribution System in India, B. L. Gupta, Gyan Publication House
+3. Ancient Indian Culture and Civilization, Reshmi Ramdhoni, Star Publication, 2018
+4. Ancient Indian Society, Maharaj Swami Chidatmanjee, Anmol Publication
+5. Ancient Indian Classical Music, Lalita Ramkrishna, Shubhi Publications
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22PE1PL12) CONTROL AND INTEGRATION OF RENEWABLE ENERGY SOURCES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To get the knowledge on dynamic and static energy conversion technologies
+• To control and integration on renewable energy systems with grid
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand different renewable energy sources and storage devices
+CO-2: Model and simulate renewable energy sources
+CO-3: Analyze and simulate control strategies for grid connected and off-grid
+systems
+CO-4: Develop converters to comply with grid standards to obtain grid integration
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 2 2 3 3 2
+CO-2 2 3 2 1 2 2
+CO-3 3 3 2 2 3 3
+CO-4 3 3 3 2 3 2
+UNIT-I:
+Introduction: Electric grid, Utility ideal features, Supply guarantee, power quality,
+Stability and cost; Importance & Effects of Renewable Energy penetration into the
+grid, Boundaries of the actual grid configuration, Consumption models and patterns.
+UNIT-II:
+Dynamic Energy Conversion Technologies: Introduction, types of conventional and
+nonconventional dynamic generation technologies, principle of operation and
+analysis of reciprocating engines, gas and micro turbines, hydro and wind-based
+generation technologies.
+UNIT-III:
+Static Energy Conversion Technologies: Introduction, types of conventional and
+nonconventional static generation technologies; Principle of operation and analysis
+of fuel cell, photovoltaic systems and wind generation technologies; MPPT techniques
+and its classifications, principle of operation and partial shading effects; Storage
+Technologies - batteries, fly wheels, super capacitors and ultra-capacitors.
+UNIT-IV:
+Control Issues and Challenges: Linear and nonlinear controllers, predictive controllers
+and adaptive controllers, Load frequency and Voltage Control, PLL, Modulation
+Techniques, Control of Diesel, PV, wind and fuel cell based generators, Dimensioning
+of filters, Fault-ride through Capabilities.
+UNIT-V:
+Integration of Energy Conversion Technologies: Introduction & importance, sizing,
+Optimized integrated systems, Interfacing requirements, Distributed versus Centralized
+Control, Grid connected Photovoltaic systems –classifications, operation, merits &
+demerits; Islanding Operations, stability and protection issues, load sharing, operation
+& control of hybrid energy systems, Solar Photovoltaic applications. IEEE & IEC codes
+and standards for renewable energy grid integrations.
+TEXT BOOKS:
+1. Renewable and Efficient Electric Power Systems, G. Masters, 2nd Edition, IEEE-John
+Wiley & Sons, 2013
+2. Microgrids and Active Distribution Networks, S. Chowdhury, S. P. Chowdhury, P.
+Crossley, IET Power Electronics Series, 2012
+3. Integration and Control of Renewable Energy in Electric Power System, Ali Keyhani
+Mohammad Marwali and Min Dai, 2nd Edition, John Wiley & Sons, 2010
+REFERENCES:
+1. Fundamentals, technologies & Applications, Chetan Singh Solanki, Solar
+Photovoltaic, 3rd Edition, PHI Publishers, 2019
+2. Control of Power Inverters in Renewable Energy and Smart Grid Integration, Quing
+Chang Zhong, 1St Edition, IEEE-John Wiley & Sons, 2013
+3. Power Conversion and Control of Wind Energy Systems, Bin Wu, Yongqiang Lang,
+Navid Zargari, 1St Edition, IEEE-John Wiley & Sons, 2011
+4. Report on Large Scale Grid Integration of Renewable Energy Sources, Way
+Forward Central Electricity Authority, GoI, 2011
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22PE1PL14) ENERGY CONSERVATION AND AUDITING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Energy Systems and Power Systems
+COURSE OBJECTIVES:
+• To have acquaintance with energy conservation act and to understand energy
+management principles
+• To use energy efficient technologies like energy efficient motors and transformers
+• To understand the methods of energy audits
+• To know the operation of energy audit equipment
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the current energy scenario and importance of energy
+conservation
+CO-2: Implement different energy management strategies
+CO-3: Apply various electrical energy efficient technologies
+CO-4: Carry out energy audits in industrial and lighting sectors
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 - 2 - 2 1 1
+CO-2 2 3 1 3 2 2
+CO-3 1 3 2 3 2 2
+CO-4 2 2 - 3 2 2
+UNIT–I:
+Energy Scenario and Energy Management: Energy Conservation and its importance,
+long term energy scenario, energy pricing, reforms in energy sector, energy security,
+salient features of Energy Conservation Act-2001.
+Principles of Energy management, Qualities and Functions of energy manager,
+checklist for top management, questionnaire
+UNIT–II:
+Principles of Energy Audit: Energy audit- concept and definitions, types of audit,
+energy index, cost index, pie charts, Sankey diagrams, load profiles, Energy,
+conservation schemes- Energy audit of process industries and thermal power station-
+energy saving potential, calculation of simple payback method, net present worth
+method
+UNIT–III:
+Energy Efficiency in Electrical Systems: Electricity billing/tariff, electrical Load
+management, Maximum Demand Control, Power factor improvement, its benefits,
+selection and location of capacitors, Automatic Power Factor controllers
+UNIT–IV:
+Electrical Energy Efficient Technologies: Energy efficient motors, factors affecting
+efficiency, loss, distribution, constructional details, characteristics - variable speed,
+variable duty cycle systems, RMS hp- voltage variation-voltage unbalance- over
+motoring, motor energy audit
+Soft starters with energy saver-comparison with conventional starters, variable speed
+drives, energy efficient transformers, use of amorphous core, electronic ballast, use of
+low frequency induction motors
+UNIT–V:
+Energy Audit in Illumination and Energy Audit instruments: Design and practice of
+good lighting system, energy efficient lighting control, light energy audit, use of CFL,
+Energy audit instruments: watt-meter, data loggers, thermocouples, pyrometers, flux
+meters, tongue testers
+Case studies: Energy audit in Transmission and Distribution Systems
+TEXT BOOKS:
+1. Energy Management, W. R. Murphy & G. Mckay, Butterworth-Heinemann
+2. Energy Management, Paul O’ Callaghan, 1st Edition, McGraw Hill, 1998
+REFERENCES:
+1. Energy Efficient Electric Motors, John C. Andreas, 2nd Edition, Marcel Dekker, 1995
+2. Energy Management Handbook, W. C. Turner, John Wiley and Sons
+3. Energy Management and Good Lighting Practice: Fuel Efficiency, Booklet, EEO
+4. Guide Books for National Certification Examination for Energy Manager/Energy
+Auditor Books 1 and 3
+5. Utilization of Electrical Energy and Conservation, S. C. Thripathy, McGraw Hill, 1991
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22PE1PL13) ENERGY STORAGE TECHNOLOGIES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand non electrical storage technologies available
+• To understand electro chemical secondary batteries characteristics
+• To understand efficiency improvement techniques in storage systems
+• To appreciate various applications of storage systems
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Learn mechanical, magnetic and electrostatic storage systems
+CO-2: Enumerate merits and demerits of various secondary batteries
+CO-3: Study characteristics of lead acid batteries
+CO-4: Improve the efficiency of storage systems
+CO-5: Apply knowledge on storage technologies in EV and Power systems
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 3 3 1 3 1
+CO-2 2 2 2 1 1 1
+CO-3 1 2 1 3 1 2
+CO-4 1 1 1 2 3 3
+CO-5 3 3 3 3 3 3
+UNIT-I:
+Non Electrical Storage Systems: Flywheel, Energy Relations, Flywheel System
+Components, Benefits of Flywheel over Battery, Superconducting Magnet Energy
+Storage, Compressed Air Energy storage, Overview Thermal Energy Storage.
+Capacitor bank storage, Comparison of storage Technologies.
+Electro Chemical Storage: History, General battery concepts- Types of Batteries-
+Primary, seconday- Battery Vs Cell, Nickel-Cadmium -Nickel-Metal Hydride, Nickel
+hydrogen, Lithium-Ion- Lithium-Polymer, Fuel cells.
+UNIT-II:
+Charging Technologies and Testing: Discharge Characteristics, Charging-Importance-
+characteristics-charge acceptance-over charging, Types of charging- Constant
+voltage charging- Constant current charging- Taper charging-special charging-
+Charging power sources, storage, Testing, safety.
+UNIT–III:
+Specifications and Characteristics: Domains of applications of Energy storage- Starter-
+Traction-stationary-mobile or nomadic, Review of storage requirements, Definitions of
+characteristics, Terminology of States, Battery Design, Battery Charging, Charge
+Regulators, Battery Management, General Equivalent Electrical Circuit, Performance
+Characteristics.
+UNIT–IV:
+Efficiency Improvement Methods: Hybrid Electrical Energy storage– Design
+Considerations- Architecture- Charge management- components Modeling of Power
+Conversion, Reconfigurable EES Array Architecture, Cycle Efficiency and Capacity
+Utilization of EES Bank, General Bank Reconfiguration Architecture, Dynamic
+Reconfiguration Algorithm, Cycle Efficiency and Capacity Utilization Improvement.
+UNIT–V:
+Storage Applications: Electric Vehicle application- Regenerative Brake- PV module
+assistance-Storage bank reconfiguration- Overall cost analysis, Energy storage in
+Transient regimes of Power system-Problem formulation-modeling- steady tate stability
+analysis with storage-storage Parameters to ensure transient stability, Battery rating
+calculations for standalone system.
+TEXT BOOKS:
+1. Energy Storage for Power Systems, A. Ter-Gazarian, Peter Peregrinus, 1994
+2. Design and Management of Energy-Efficient Hybrid Electrical Energy Storage
+Systems, Younghyun Kim, Naehyuck Chang, Springer, 2014
+3. Rechargeable Batteries Applications Handbook, EDN Series for Design Engineers,
+Elsevier
+REFERENCES:
+1. Lithium Batteries and Other Electrochemical Storage Systems, Christian Glaize,
+Sylvie Geniès
+2. Wind and Solar Power Systems, Mukund R. Patel, 2nd Edition, CRC Press, 2006
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22PE1PS13) GAS INSULATED SUBSTATION
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Switch Gear and Protection
+COURSE OBJECTIVES:
+• To know the egis concepts and principles
+• To distinguish air insulated and gas insulated substations
+• To demonstrate the design and constructional aspects of GIS
+• To analyze transient phenomenon, problems and diagnostic methods in GIS
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Know the advantages of GIS systems over air insulated systems
+CO-2: Observe constructional design features of GIS design
+CO-3: Discriminate the problems and design diagnostic methods of GIS
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 - 3 3 - - -
+CO-2 2 2 3 3 - 1
+CO-3 3 2 3 3 3 3
+UNIT–I:
+Introduction to GIS and Properties of SF6: Characteristics of GIS- Introduction to SF6,
+Physical properties, Chemical properties, Electrical properties, Specification of SF6gas
+for GIS application, Handling of SF6gas before use, Safe handling of Sf6gas in electrical
+equipment, Equipment for handling theSF6Gas, SF6and environment.
+UNIT–II:
+Layout of GIS Stations: Advancement of GIS station, Comparison with Air Insulated
+Substation, Economics of GIS, User Requirements for GIS, Main Features for GIS,
+Planning and Installation components of a GIS station.
+UNIT–III:
+Design and Construction of GIS Station: Introduction, Rating of GIS components,
+Design Features, Estimation of different types of Electrical Stresses, Design Aspects of
+GIS components, Insulation Design for Components, Insulation Design for GIS, Thermal
+Considerations in the Design of GIS, Effect of Very Fast Transient Over-voltages (VFTO)
+on the GIS design, Insulation Coordination systems, Gas handling and Monitoring
+System Design.
+UNIT-IV:
+Fast Transient Phenomena in GIS: Introduction, Disconnector Switching in Relation to
+Very fast Transients-Origin of VFTO, Propagation and Mechanism of VFTO, VFTO
+Characteristics, Effects of VFTO, Testing of GIS for VFTO.
+UNIT–V:
+Special Problems in GIS and GIS Diagnostics: Introduction, Particles their effects and
+their control, Insulating Spacers and their Reliability, SF6 Gas Decomposition,
+Characteristics of imperfections in insulation, Insulation Diagnostic methods, PD
+Measurement and UHF Method.
+TEXT BOOKS:
+1. Gas Insulated Substations, M. S. Naidu, IK International
+2. Gas Insulated Substations, Hermann J. Koch, Wiley-IEEE Press, 2014
+REFERENCES:
+1. Dielectric materials and Electrostatics, Olivier Gallot-Lavellee, Wiley-IEEE Press
+2. Dielectric Materials for Electrical Engineering, Jaun Martinez, Wiley-IEEE Press
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22PC1CP05) INTERNET OF THINGS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To introduce the terminology, technology, concept of M2M (machine to
+machine) and its applications
+• To introduce the Python scripting language which issued in many IoT devices
+• To introduce the IOT in different domains, system management with NETCONF-
+YANG
+• To introduce the hardware and working principles of various sensors used for IoT
+• To introduce the Raspberry PI platform, design and implementation of web
+application Frame work used in IoT applications
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understanding the physical and logical design of the Internet of Things, IoT &
+M2M
+CO-2: Analyzing various applications of Internet of Things in various domain, NETCONF-
+YANG
+CO-3: Creating logical design of IoT Systems using Python
+CO4: Understanding the hardware and working principles of various sensors used for
+IoT,
+CO5: Creating web application framework design using Raspberry PI plat form and
+RESTful web API
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 2 1 2 2 3
+CO-2 3 1 2 2 3 3
+CO-3 1 1 2 2 2 3
+CO-4 2 2 2 2 2 2
+CO-5 1 2 3 3 2 2
+UNIT–I:
+Introduction to Internet of Things –Definition and Characteristics of IoT, Physical Design
+of IoT –IoT Protocols, IoT communication models, IoT Communication APIs, IoT enabled
+Technologies –Wireless Sensor Networks, Cloud Computing, Bigdata analytics,
+Communication protocols, Embedded Systems, IoT Levels and Templates.
+IOT and M2M: Introduction, M2M, Difference between IOT and M2M, SDN and NFV for
+IOT
+UNIT–II:
+Domain Specific IoTs: Home, City, Environment, Energy, Retail, Logistics, Agriculture,
+Industry, health and Lifestyle
+System Management with NETCONF-YANG: Software defined Networking, Network
+Function Virtualization, Need for IOT Systems Management, Simple Network
+Management Protocol, Limitations of SNMP, Network Operator Requirements,
+NETCONF, YANG, IOT Systems management with NETCONF-YANG
+UNIT–III:
+Introduction To Python: Language features of Python, Data types, data structures,
+Control of flow, functions, modules, packaging, file handling, data/time operations,
+classes, Exception handling Python packages -JSON,XML, HTTPLib, URLLib, SMTPLib
+UNIT-IV:
+IoT Physical Devices and Endpoints: Introduction to Raspberry Pi- Installation,
+Interfaces (serial, SPI, I2C), and Programming – Python program with Raspberry PI with
+focus on interfacing external gadgets, controlling output, reading input from pins. IoT
+Physical Servers and Cloud Offerings – Introduction to Cloud Storage models and
+communication APIs Webserver – Web server for IoT, Cloud for IoT, Python web
+application framework designing a RESTful web API
+UNIT-V:
+Controlling Hardware: Connecting LED, Buzzer, Switching High Power devices with
+transistors, Controlling AC Power devices with Relays, Controlling servo motor, speed
+control of DC Motor, Using unipolar and bipolar Stepper motors
+Digital input- Sensing push switch, pull-up and pull-down resistors, Rotary encoder,
+Using keypad, Using RTC Sensors: Light sensor, temperature sensor with thermistor,
+voltage sensor, ADC and ADC, Temperature and Humidity Sensor DHT11, Read Switch,
+Distance Measurement with ultrasound sensor
+TEXT BOOKS:
+1. Internet of Things - A Hands-on Approach, Arshdeep Bahga and Vijay Madisetti,
+Universities Press, 2015
+2. Getting Started with Raspberry Pi, Matt Richardson & Shawn Wallace, O'Reilly
+(SPD), 2014
+3. Raspberry Pi Cookbook, Software and Hardware Problems and Solutions, Simon
+Monk, O'Reilly (SPD), 2016
+REFERENCES:
+1. Designing the Internet of Things, Adrian McEwen, Hakim Cassimally, Wiley, 2014
+2. The Internet of Things, Samuel Greengard, MIT Press, Cambridge, 2015
+3. Internet of Things: Principles and Paradigms, Rajkumar Buyya, Amir Vahid Dastjerdi,
+Morgan Kaufman, 2016
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22OE1CN01) BUSINESS ANALYTICS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the role of business analytics within an organization and to analyze
+data using statistical and data mining techniques and understand relationships
+between the underlying business processes of an organization
+• To gain an understanding of how managers use business analytics to formulate
+and solve business problems and to support managerial decision making and to
+become familiar with processes needed to develop, report, and analyze business
+data
+• To use decision-making tools/Operations research techniques and to manage
+business process using analytical and management tools
+• To analyze and solve problems from different industries such as manufacturing,
+service, retail, software, banking and finance, sports, pharmaceutical, aerospace
+etc.
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply knowledge of data analytics
+CO-2: Think critically in making decisions based on data and deep analytics
+CO-3: Use technical skills in predicative and prescriptive modeling to support business
+decision-making
+CO-4: Translate data into clear, actionable insights
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 - 1 - 1 1
+CO-2 3 - 2 - 1 2
+CO-3 2 1 1 - 1 1
+CO-4 1 2 1 - 1 1
+UNIT-I:
+Business Analytics: Overview of Business analytics, Scope of Business analytics, Business
+Analytics Process, Relationship of Business Analytics Process and organization,
+competitive advantages of Business Analytics.
+Statistical Tools: Statistical Notation, Descriptive Statistical methods, Review of
+probability distribution and data modelling, sampling and estimation methods
+overview.
+UNIT-II:
+Trendiness and Regression Analysis: Modelling Relationships and Trends in Data,
+simple Linear Regression. Important Resources, Business Analytics Personnel, Data and
+models for Business analytics, problem solving, Visualizing and Exploring Data Business
+Analytics Technology.
+UNIT-III:
+Organization Structures of Business analytics, Team management, Management
+Issues, Designing Information Policy, Outsourcing, Ensuring Data Quality, Measuring
+contribution of Business analytics, Managing Changes.
+Descriptive Analytics, predictive analytics, predicative Modelling, Predictive analytics
+analysis, Data Mining, Data Mining Methodologies, Prescriptive analytics and its step
+in the business analytics Process, Prescriptive Modelling, nonlinear Optimization.
+UNIT-IV:
+Forecasting Techniques: Qualitative and Judgmental Forecasting, Statistical
+Forecasting Models, Forecasting Models for Stationary Time Series, Forecasting Models
+for Time Series with a Linear Trend, Forecasting Time Series with Seasonality,
+Regression Forecasting with Casual Variables, Selecting Appropriate Forecasting
+Models.
+Monte Carlo Simulation and Risk Analysis: Monte Carle Simulation Using Analytic
+Solver Platform, New-Product Development Model, Newsvendor Model, Overbooking
+Model, Cash Budget Model.
+UNIT-V:
+Decision Analysis: Formulating Decision Problems, Decision Strategies without
+Outcome Probabilities, Decision Trees, The Value of Information, Utility and Decision
+Making.
+Recent trends in Embedded and collaborative business intelligence, Visual data
+recovery, Data Storytelling and Data journalism.
+TEXT BOOKS:
+1. Business Analytics-Principles, Concepts, and Applications, Marc J. Schniederjans,
+Dara G. Schniederjans, Christopher M. Starkey, Pearson
+2. Business Analytics, James Evans, Pearson Education
+3. Business Analytics, Purba Halady Rao, PHI, 2013
+REFERENCES:
+1. Business Analytics for Managers: Taking Business Intelligence Beyond Reporting,
+Gert H. N. Laursen, Jesper Thorlund, 2nd Edition, Wiley Publications
+2. Business Analytics: Data Analysis & Decision Making, S. Christian Albright, Wayne L.
+Winston, 5th Edition, 2015
+3. Business Intelligence Guidebook: From Data Integration to Analytics, Rick Sherman
+Elsevier, 2014
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22OE1AM01) INDUSTRIAL SAFETY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Elements of Mechanical, Civil, Electrical and Industrial
+Engineering
+COURSE OBJECTIVES:
+• To achieve an understanding of principles, various functions and activities of safety
+management
+• To communicate effectively information on Health safety and environment
+facilitating collaboration with experts across various disciplines so as to create and
+execute safe methodology in complex engineering activities
+• To anticipate, recognize, and evaluate hazardous conditions and practices
+affecting people, property and the environment, develop and evaluate
+appropriate strategies designed to mitigate risk
+• To develop professional and ethical attitude with awareness of current legal issues
+by rendering expertise to wide range of industries
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply risk management principles to anticipate, identify, evaluate and control
+physical, chemical, biological and psychosocial hazards
+CO-2: Communicate effectively on health and safety matters among the employees
+and with society at large
+CO-3: Demonstrate the use of state of the art occupational health and safety
+practices in controlling risks of complex engineering activities and understand their
+limitations
+CO-4: Interpret and apply legislative / legal requirements, industry standards, and best
+practices in accident prevention programmes in a variety of workplaces
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 3 2 2 3 1
+CO-2 - - - - 2 3
+CO-3 3 1 2 1 - -
+CO-4 - 2 - 1 - 2
+UNIT-I:
+Safety Management: Evaluation of modern safety concepts – Safety management
+functions – safety organization, safety department – safety committee, safety audit -
+performance measurements and motivation – employee participation in safety and
+productivity.
+UNIT-II:
+Operational Safety: Hot metal Operation – Boiler, pressure vessels – heat treatment
+shop - gas furnace operation-electroplating-hot bending pipes – Safety in welding
+and cutting. Cold-metal Operation- Safety in Machine shop- metal cutting – shot
+blasting, grinding, painting – power press and other machines.
+Safe Handling and Storage: Material Handling, Compressed Gas Cylinders, Corrosive
+Substances, Hydrocarbons, Waste Drums and Containers
+UNIT-III:
+Safety Measures: Layout design and material handling - Use of electricity –
+Management of toxic gases and chemicals – Industrial fires and prevention – Road
+safety– Safety of sewage disposal and cleaning – Control of environmental pollution
+– Managing emergencies in industrial hazards.
+UNIT-IV:
+Accident Prevention: Human side of safety – personal protective equipment – Causes
+and cost of accidents. Accident prevention programmes - Specific hazard control
+strategies - HAZOP – Training and development of employees – First Aid – Fire fighting
+devices – Accident reporting investigation.
+UNIT-V:
+Safety, Health, Welfare & Laws: Safety and health standards – Industrial hygiene –
+occupational diseases prevention - Welfare facilities – History of legislations related to
+safety–pressure vessel act- Indian boiler act- The environmental protection act –
+Electricity act - Explosive act.
+TEXT BOOKS:
+1. Safety Management, John V. Grimaldi and Rollin H. Simonds, All India Travellers
+Bookseller, 1989
+2. Safety Management in Industry, Krishnan N. V., Jaico Publishing House, 1996
+REFERENCES:
+1. Occupational Safety Manual, BHEL
+2. Industrial Safety and The Law, P. M. C. Nair Publishers
+3. Managing Emergencies in Industries, Loss Prevention of India Ltd., Proceedings,
+1999
+4. Safety Security and Risk Management, U. K. Singh & J. M. Dewan, A. P. H. Publishing
+Company, 1996
+5. Industrial Safety Management: Hazard Identification and Risk Control, L. M.
+Deshmukh, McGraw Hill, 2005
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22OE1AM02) OPERATIONS RESEARCH
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To analyze linear programming models in practical and their practical use
+• To apply the transportation, assignment and sequencing models and their solution
+methodology for solving problems
+• To apply inventory and queuing, inventory models and their solution methodology
+for solving problems
+• To evaluate the simulation models
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Evaluate the problems using linear programming
+CO-2: Analyze assignment, transportation problems
+CO-3: Apply inventory and queuing problems for real time problems
+CO-4: Model the real-world problem and simulate it
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 3 3 2 - -
+CO-2 1 3 3 3 - -
+CO-3 1 3 3 3 - -
+CO-4 1 3 3 3 - -
+UNIT-I:
+Introduction to Operations Research: Definitions of OR, Characteristics of OR, Scope
+of OR, Classification of Optimization Techniques, models in OR, General L.P
+Formulation, Graphical solution, Simplex Techniques.
+Allocation: Linear Programming Problem Formulation- Graphical solution-Simplex
+method-Artificial variables technique-Two phase method, Big-M Method-Duality
+Principle.
+UNIT-II:
+Transportation Problem: Formulation-Optimal solution-unbalanced transportation
+problem-Degeneracy. Assignment problem-Formulation-Optimal solution-Variations
+of Assignment Problem-Travelling Salesman Problem.
+Sequencing: Introduction-Flow Shop sequencing-n jobs through two machines-n jobs
+through three machines-Job shop sequencing-two jobs through m machines.
+UNIT-III:
+Waiting Lines: Introduction-Single channel-Poisson arrivals-exponential service times-
+with infinite population and finite population models-Multichannel-Poisson arrivals-
+exponential service times with infinite population single channel Poisson arrivals.
+UNIT-IV:
+Inventory Models: Deterministic inventory, models - Probabilistic inventory control
+models
+UNIT-V:
+Simulation: Definition-Types of simulation models-phases of simulation-applications of
+simulation Inventory and Queuing problems-Advantages and Disadvantages-Brief
+Introduction of Simulation Languages.
+TEXT BOOKS:
+1. Operations Research, S. D. Sharma, Kedarnath Ramnath, Meerut
+2. Engineering Optimization, S. S. Rao, New Age International, 2014
+3. Introduction to Genetic Algorithms, S. N. Sivanandam, Springer
+REFERENCES:
+1. Operations Research-An Introduction, H. A. Taha, PHI, 2008
+2. Principles of Operations Research, H. M. Wagner, PHI, 1982
+3. Introduction to Optimization: Operations Research, J. C. Pant, Jain Brothers, 2008
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22OE1AM03) ENTREPRENEURSHIP AND START-UPS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To motivate the engineers to inculcate the skills thereof in any professional role and
+to consider intrapreneurship or entrepreneurship as career choices for personal
+and societal growth
+• To understand different Theories of Entrepreneurship and their Classification
+• To create Feasibility Reports, Business, Project Plans and resolve Operational
+problems
+• To understand the roles of Family, non-family entrepreneurs and learning about
+Startups’ Opportunities, Corporate Legal and Intellectual Property related issues
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the role of an entrepreneur in the economic development and
+discover societal problems as entrepreneurial opportunities and ideate to develop
+solutions through systematic and creative approaches to innovation and business
+strategy
+CO-2: Learn different Theories of entrepreneurship, the role of Family and Non-Family
+entrepreneurs and problem-solving skills
+CO-3: Create Marketing, Financial Plans and evaluate Structural, Financial and
+Managerial Problems
+CO-4: Apply lean methodology to startup ideas using Business Model Canvas and be
+able to create Business Plans through establishing business incubators. Understand
+Corporate Legal and Intellectual Property related matters
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 1 3 2 - 3
+CO-2 1 - - - - 2
+CO-3 1 - - - - 2
+CO-4 - - - 1 - -
+UNIT-I:
+Entrepreneurship: Definition of Entrepreneur, Entrepreneurial motivation and barriers;
+Internal and external factors; Types of entrepreneurs, Personality and Skill Set of an
+Entrepreneur, Entrepreneurship as a career for engineers, scientists, and technologists.
+UNIT-II:
+Theories of Entrepreneurship: Classification of entrepreneurship. Creativity and
+Innovation: Creative Problems Solving, Creative Thinking, Lateral Thinking, Views of De
+Bono, Khandwala and others, Creative Performance in terms of motivation and skills.
+Family and Non-Family Entrepreneurs: Role of Professionals, Professionalism vs. family
+entrepreneurs, Role of Woman entrepreneur, Sick industries, Reasons for Sickness,
+Remedies for Sickness, Role of BIFR in revival, Bank Syndications.
+UNIT-III:
+Creativity and Entrepreneurial Plan: Idea Generation, Screening and Project
+Identification, Creative Performance, Feasibility Analysis: Economic, Marketing,
+Financial and Technical; Project Planning, Evaluation, Monitoring and Control,
+segmentation, Targeting and positioning of Product, Role of SIDBI in Project
+Management.
+UNIT-IV:
+Operation Problems: Incubation and Take-off, Problems encountered Structural,
+Financial and Managerial Problems, Types of Uncertainty. Institutional support for new
+ventures: Supporting organizations; Incentives and facilities; Financial Institutions and
+Small-scale Industries, Govt. Policies for SSIs.
+UNIT-V:
+Startups’ Opportunity Assessment, Business Models, Entrepreneur talk, Clinical/
+Regulatory, Sector Specific Group Briefing by Advisory Committee, Corporate Legal
+and Intellectual Property, Pitching, Payers and Reimbursement, Pitch practice,
+Investors, Mistakes I Won’t Repeat, Business Development and Exits, Finance,
+Budgeting, Team Building, Opportunities in Telangana State and India – incubators,
+schemes, accelerators.
+TEXT BOOKS:
+1. Understanding Enterprise: Entrepreneurship and Small Business, Bridge S. et al.,
+Palgrave, 2003
+2. Holt- Entrepreneurship: New Venture Creation, Prentice Hall, 1998
+3. Entrepreneurship Development, Robert D. Hisrich, Michael P. Peters, Tata McGraw
+Hill
+REFERENCES:
+1. New Venture Creation: An Innovator’s Guide to Entrepreneurship, Marc H. Meyer
+and Frederick G. Crane, 2nd Edition, Sage Publications
+2. Technology Ventures: From Idea to Enterprise, Byers, Dorf, Nelson
+3. Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist - Feld,
+Mendelson, Costolo
+4. Breakthrough Entrepreneurship, Burgstone and Murphy
+5. Business Model Generation, Alexander Osterwalder
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22OE1PL01) WASTE TO ENERGY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To create awareness in students of energy conservation
+• To identify the use of different types of Bio waste energy resources
+• To understand different types of bio waste energy conservations
+• To detect different waste conversion into different forms of energy
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Find different types of energy from waste to produce electrical power
+CO-2: Estimate the use of bio waste to produce electrical energy
+CO-3: Understanding different types of bio waste and its energy conversions
+CO-4: Analyze the bio waste utilization and to avoid the environmental pollution
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 2 3 1 2 1
+CO-2 3 3 3 3 2 3
+CO-3 3 2 3 2 2 3
+CO-4 3 3 3 3 2 3
+UNIT-I:
+Introduction to Energy From Waste: Classification of waste as fuel, Agro based, Forest
+residue, Industrial waste, MSW (Municipal solid waste) – Conversion devices –
+Incinerators, Gasifiers, Digestors. Urban waste to energy conversion, Biomass energy
+Programme in India.
+UNIT-II:
+Biomass Pyrolysis: Pyrolysis – Types, slow fast – Manufacture of charcoal – Methods -
+Yields and application – Manufacture of pyrolytic oils and gases, yields and
+applications.
+UNIT-III:
+Biomass Gasification: Gasifiers – Fixed bed system – Downdraft and updraft gasifiers –
+Fluidized bed gasifiers – Design, construction and operation – Gasifier burner
+arrangement for thermal heating – Gasifier engine arrangement and electrical
+power.
+UNIT-IV:
+Biomass Combustion: Biomass stoves – Improved chullahs, types, some exotic designs,
+Fixed bed combustors, Types, inclined grate combustors, Fluidized bed combustors,
+Design, construction and operation - Operation of all the above biomass combustors.
+UNIT-V:
+Biogas: Properties of biogas (Calorific value and composition) - Biogas plant
+technology and status - Bio energy system - Design and constructional features -
+Biomass resources and their classification - Biomass conversion processes - Thermo
+chemical conversion - Direct combustion - biomass gasification - pyrolysis and
+liquefaction - biochemical conversion - anaerobic digestion.
+Types of biogas Plants – Applications - Alcohol production from biomass - Bio diesel
+production - Urban waste to energy conversion - Biomass energy programme in India.
+TEXT BOOKS:
+1. Biogas Technology-Transfer and Diffusion, M. M. EL-Halwagi, Elsevier Applied
+Science Publisher, 1984
+2. Introduction to Biomass Energy Conversions, Sergio Capareda
+REFERENCES:
+1. Non-Conventional Energy, Desai Ashok V., Wiley Eastern Ltd., 1990
+2. Biogas Technology - A Practical Hand Book, Khandelwal K. C. and Mahdi S. S., Vol.
+I & II, Tata McGraw Hill, 1983
+3. Food, Feed and Fuel from Biomass, Challal D. S., IBH Publishing, 1991
+4. Biomass Conversion and Technology, C. Y. WereKo-Brobby and E. B. Hagan, John
+Wiley & Sons, 1996

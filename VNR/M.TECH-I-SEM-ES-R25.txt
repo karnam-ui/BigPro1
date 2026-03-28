@@ -1,0 +1,1157 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/syllabus-books/Mtech-R25/M.TECH-I-SEM-ES-R25.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. I YEAR COURSE STRUCTURE AND SYLLABUS
+(EMBEDDED SYSTEMS)
+I SEMESTER R25
+Course
+Course Type Name of the Course L T P Credits
+Code
+Professional
+25PC1VS01 RTL Simulation and Synthesis 3 0 0 3
+Core-I
+Professional Processors for Embedded
+25PC1ES01 3 0 0 3
+Core-II System Design
+Professional Programming Languages for
+25PC1ES02 3 0 0 3
+Core-III Embedded Software
+Advanced Computer
+25PE1ES01
+Architectures
+Wireless Communication and
+25PE1ES02
+Networks
+Professional
+25PE1ES03 Sensors and Actuators 3 0 0 3
+Elective-I
+Principles of Quantum
+25PE1VS03
+Computing
+Advanced Engineering
+25PE1MT01
+Mathematics
+25PE1ES04 Advanced RISC Architectures
+25PE1ES05 Automotive Embedded Systems
+Communication Buses and
+Professional 25PE1ES06 3 0 0 3
+Interface
+Elective-II
+Advanced Digital Signal
+25PE1ES07
+Processing
+Statistical Modelling and
+25PE1ES08
+Optimization Techniques
+Professional RTL Simulation and Synthesis
+25PC2VS01 0 0 2 1
+Core Lab-I Laboratory
+Professional Processors for Embedded
+25PC2ES01 0 0 2 1
+Core Lab-II System Design Laboratory
+Communication English for Academic and
+25SD5EN01 0 0 2 1
+Skills Research Writing
+Project 25PW4ES01 Technical Seminar 0 0 4 2
+Mandatory 25MN6HS01 Research Methodology and IPR 2 0 0 0
+Total 17 0 10 20
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. I YEAR COURSE STRUCTURE AND SYLLABUS
+(EMBEDDED SYSTEMS)
+II SEMESTER R25
+Course
+Course Type Name of the Course L T P Credits
+Code
+Professional Embedded Real Time Operating
+25PC1ES03 3 0 0 3
+Core-IV Systems
+Professional
+25PC1ES04 IoT System Design 3 0 0 3
+Core-V
+Professional Machine Learning and Deep
+25PC1ES05 3 0 0 3
+Core-VI learning
+25PE1ES09 GPU Architectures
+Network Security and
+25PE1ES10
+Cryptography
+Professional
+25PE1ES11 Hardware Software Co-Design 3 0 0 3
+Elective-III
+25PE1ES12 Embedded Networking
+25PE1ES13 Human-Machine Interface
+25PE1ES14 Wireless Adhoc Networks
+Hardware Accelerators for
+25PE1ES15
+Machine Learning Models
+Professional 25PE1ES16 Image and Video Processing 3 0 0 3
+Elective-IV
+25PE1ES17 Digital Control Systems
+25PE1CP15 Cloud Computing
+Professional Embedded Real Time Operating
+25PC2ES02 0 0 2 1
+Core Lab-III Systems Laboratory
+Professional IoT and ML Applications
+25PC2ES03 0 0 2 1
+Core Lab-IV Laboratory
+Industry
+25SD5ES01 Industry Engagement 0 0 2 1
+Engagement
+Project 25PW4ES02 Mini-Project 0 0 4 2
+Mandatory 25MN6HS02 Ancient Wisdom 2 0 0 0
+Total 17 0 10 20
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. II YEAR COURSE STRUCTURE AND SYLLABUS
+(EMBEDDED SYSTEMS)
+III SEMESTER R25
+Course Course
+Name of the Course L T P Credits
+Type Code
+25PE1ES19 Machine Learning for Robotics
+25PE1CP20 Edge Computing
+Professional Embedded Biomedical
+25PE1ES20 3 0 0 3
+Elective-V Applications
+Introduction to Industry 4.0 and
+25PE1ES21
+Industrial Internet of Things
+25PE1ES22 Artificial Intelligence
+25OE1CN01 Business Analytics
+25OE1AM01 Industrial Safety
+Open
+25OE1AM02 Operations Research 3 0 0 3
+Elective
+25OE1AM03 Entrepreneurship and Startups
+25OE1PS01 Waste to Energy
+Project 25PW4ES03 Project Part - I 0 0 16 8
+Total 6 0 16 14
+IV SEMESTER R25
+Course Course
+Name of the Course L T P Credits
+Type Code
+Project 25PW4ES04 Project Part - II 0 0 28 14
+Total 0 0 28 14
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC1VS01) RTL SIMULATION AND SYNTHESIS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Basic Concepts of Digital Systems
+COURSE OBJECTIVES:
+To introduce Verilog HDL for the design and functionality verification of a digital circuit
+To understand the design of data path and control circuits for sequential machines
+To understand the ASIC design flow and static timing analysis
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Develop the Verilog HDL to design a digital circuit
+CO-2: Design and implementation of digital circuit with FSM
+CO-3: Understand the ASIC design flow and Static Timing Analysis of digital circuit
+CO-4: Analyze the Timing of digital circuit
+CO-5: Verify the functionality of the digital designs using PLDs
+UNIT-I:
+Verilog HDL: Importance of HDLs, Lexical Conventions of Verilog HDL,
+Gate Level Modeling: Built in primitive gates, switches, gate delays,
+Data Flow Modeling: Continuous and implicit continuous assignment, delays,
+Behavioral Modeling: Procedural constructs, Control and repetition Statements,
+delays, function and tasks.
+UNIT-II:
+Synthesis of Combinational and Sequential logic: Introduction to synthesis, Synthesis of
+combinational logic, Synthesis of sequential logic with latches– Synthesis of three-state
+devices and bus interfaces, Synthesis of sequential logic with flip-flops, Registered
+logic, State encoding, Resets, Synthesis of gated clocks and clock enables,
+Anticipating the results of synthesis, Synthesis of loops, Design traps to avoid, Divide
+and Conquer: partitioning a design
+UNIT-III:
+Design and Synthesis of Datapath Controllers: Partitioned sequential machines, Design
+example: Binary counter, Design and synthesis of a RISC stored-program machine,
+Processor, ALU, Controller, Instruction Set, Controller Design and Program Execution,
+UART– Operation, Transmitter, Receiver.
+UNIT-IV:
+Programmable Logic Devices– Storage Devices: Programmable Logic Devices,
+Storage Devices, Programmable Logic Array (PLA) Programmable Array Logic (PAL),
+Programmability of PLDs, Complex PLDs, Introduction to Altera and Xilinx FPGAs,
+Algorithms and Architectures for Digital Processors: Algorithms, Nested loop programs
+and data flow graphs, Design Example of Pipelined Adder, Pipelined FIR Filter, Circular
+buffers, Asynchronous FLFOs- Synchronization across Clock Domains. (Content
+added)
+UNIT-V:
+Postsynthesis Tasks: Postsynthesis Design Validation, Postsynthesis Timing Verification,
+Elimination of ASIC Timing Violations, False Paths, System Tasks for Timing Verification,
+Boundary Scan and ITAG Ports, JTAG Modes of Operation. (Content added)
+TEXT BOOKS:
+1. Michael D. Ciletti, Advanced Digital Design with the VERILOG HDL, 2nd Edition,
+Pearson Education, 2010.
+2. A Guide to Digital Design and Synthesis, Samir Palnitkar, Verilog HDL, 2nd Edition,
+2003
+REFERENCES:
+1. Verilog HDL Synthesis A Practical Primer by Bhasker J, 1st edition, 1998
+2. Field Programmable Gate Arrays, Stephen D. Brown, Robert J. Francis, Jonathan
+Rose, Zvonko G. Vranesic, 2nd Edition, Springer, 1992
+3. Field Programmable Gate Arrays, John V. Old Field, Richrad C. Dorf, Wiley, 2008
+4. Designing with FPGAs & CPLDs, Bob Zeidman, CMP Books, 2002
+5. Digital System Design using VHDL, Charles H.Roth, Jr, Lizy Kurain John, Third edition
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC1ES01) PROCESSORS FOR EMBEDDED SYSTEM DESIGN
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Microprocessor and Micro Controllers, Computer
+Organization
+COURSE OBJECTIVES:
+• To introduce foundational knowledge of embedded systems, including their
+unique characteristics, hardware components, microcontrollers, and application-
+specific design principles.
+• To develop proficiency in firmware design and hardware–software interaction,
+emphasizing the use of APIs, interfacing techniques, and real-time system
+considerations.
+• To apply embedded system concepts by demonstrating awareness of ARM Cortex
+processor architecture and utilizing peripheral interfacing techniques for practical
+system design and analysis.
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the fundamentals, classification, applications, and key attributes of
+embedded systems.
+CO-2: Identify and integrate processors, memory, sensors, actuators, and
+communication interfaces for designing typical embedded systems.
+CO-3: Design and analyze embedded firmware and apply suitable design
+approaches and development languages.
+CO-4: Expected to understand the role of a real-time operating System in Embedded
+Design.
+CO-5: Aware of ARM Cortex processor architecture and its interfacing aspects.
+UNIT-I:
+Introduction to Embedded Systems: Definition of Embedded System, Embedded
+Systems Vs General Computing Systems, History of Embedded Systems, Classification,
+Major Application Areas, Purpose of Embedded Systems, Characteristics and Quality
+Attributes of Embedded Systems.
+UNIT-II:
+Typical Embedded System: Core of the Embedded System: General Purpose and
+Domain Specific Processors, ASICs, PLDs, Commercial Off-The-Shelf Components
+(COTS), Memory: ROM, RAM, Memory according to the type of Interface, Memory
+Shadowing, Memory selection for Embedded Systems, Sensors and Actuators,
+Communication Interface: Onboard and External Communication Interfaces.
+UNIT-III:
+Embedded Firmware: Reset Circuit, Brown-out Protection Circuit, Oscillator Unit, Real
+Time Clock, Watchdog Timer, Embedded Firmware Design Approaches and
+Development Languages.
+UNIT-IV:
+RTOS Based Embedded System Design: Operating System Basics, Types of Operating
+Systems, Tasks, Process and Threads, Multiprocessing and Multitasking, Task
+Scheduling.
+UNIT-V:
+Embedded System Architecture with ARM Processor: Evolution of ARM Processor,
+Cortex M3: Architecture, Thumb-2technology and Instruction Set Architecture,
+Applications, Characteristics, Registers, Operation modes, built-in Nested Vector
+Interrupt controller, Memory Map, Bus Interface, Memory protection unit, Instruction
+set, Interrupts and Exceptions, Pipeline.
+TEXT BOOKS:
+1. Introduction to Embedded Systems - Shibu K.V, Mc Graw Hill.
+2. The Definitive Guide to ARM Cortex-M3, Joseph Yiu, 2nd Edition, Elsevier, 2010
+REFERENCES:
+1. Embedded Systems - Raj Kamal, TMH.
+2. Embedded System Design - Frank Vahid, Tony Givargis, John Wiley.
+3. Embedded Systems – Lyla, Pearson, 2013
+4. An Embedded Software Primer - David E. Simon, Pearson Education.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC1ES02) PROGRAMMING LANGUAGES FOR EMBEDDED SOFTWARE
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: C Programming
+COURSE OBJECTIVES:
+• To develop skills in embedded system programming
+• To provide the ability of identifying the choice of programming language for
+embedded systems
+• To differentiate interpreted languages from compiled languages
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Develop an embedded C application of moderate complexity
+CO-2: Appreciate the algorithms developed in C++ and their analysis
+CO-3: Develop and test the programs using python
+UNIT-I:
+Embedded ‘C’ Programming: Bitwise operations, Dynamic memory allocation, OS
+services, Linked stack and queue, Sparse matrices, Binary tree, Interrupt handling in C,
+Code optimization issues, Writing LCD drives, LED drivers, Drivers for serial port
+communication, Embedded Software Development Cycle and Methods (Waterfall,
+Agile)
+UNIT-II:
+Embedded CPP Programming: Introduction to Object Oriented Programming, ‘cin’,
+‘cout’, formatting and I/O manipulators, new and delete operators, Defining a class,
+data members and methods, ‘this’ pointer, constructors, destructors, friend function,
+dynamic memory allocation
+UNIT-III:
+Overloading and Inheritance: Need of operator overloading, overloading the
+assignment, overloading using friends, type conversions, single inheritance, base and
+derived classes, friend classes, types of inheritance, hybrid inheritance, multiple
+inheritance, virtual base class, polymorphism, virtual functions
+UNIT-IV:
+Templates: Function template and class template, member function templates and
+template arguments, Exception Handling: syntax for exception handling code: try-
+catch- throw, Multiple Exceptions.
+UNIT-V:
+Embedded Python: PYTHON-syntax, statements, functions, Built-in-functions and
+Methods, Modules in PYTHON, Exception Handling.
+TEXT BOOKS:
+1. Embedded C, Michael J. Pont, 2nd Edition, Pearson Education, 2008
+2. Data Structures via C++, Michael Berman, Oxford University Press, 2002
+3. Core Python Programming, Chun, Pearson Education
+REFERENCES:
+1. Algorithms in C++, Robert Sedgewick, Addison Wesley, 1999
+2. Operating System Concepts, Abraham Silberschatz, Peter B., Greg Gagne, John
+Willey & Sons, 2005
+3. Programming Python, M. Lutz, SPD
+4. Guide to Programming with Python, M. Dawson, Cengage Learning
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1ES01) ADVANCED COMPUTER ARCHITECTURES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the fundamental of computer design
+• To know the pipelines and parallelism concepts
+• To know the issues in interconnect networks
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Familiarize the instruction set, memory addressing of Computer
+CO-2: Handle the issues in pipelining
+CO-3: Analyse different software approaches in parallelism
+CO-4: Understand the mechanism of multi-processor and thread level parallelism.
+CO-5: Familiarize the practical issues in inter network
+UNIT-I:
+Fundamentals of Computer Design: Fundamentals of Computer design, Changing
+faces of computing and task of computer designer, Technology trends, Cost price
+and their trends, measuring and reporting performance, quantitative principles of
+computer design, Amdahl’s law. Instruction set principles and examples- Introduction,
+classifying instruction set- memory addressing- type and size of operands, operations
+in the instruction set.
+UNIT-II:
+Pipelines: Introduction, basic RISC instruction set, Simple implementation of RISC
+instruction set, Classic five stage pipe line for RISC processor, Basic performance issues
+in pipelining, Pipeline hazards, Reducing pipeline branch penalties.
+Memory Hierarchy Design: Introduction, review of ABC of cache, Cache
+performance, Reducing cache miss penalty, Virtual memory.
+UNIT-III:
+Instruction Level Parallelism the Hardware Approach: Instruction-Level parallelism,
+Dynamic scheduling, Dynamic scheduling using Tomasulo’s approach, Branch
+prediction, high performance instruction delivery- hardware based speculation.
+ILP Software Approach: Basic compiler level techniques, static branch prediction,
+VLIW approach, Exploiting ILP, Parallelism at compile time, Cross cutting issues -
+Hardware verses Software.
+UNIT-IV:
+Multi Processors and Thread Level Parallelism: Multi Processors and Thread level
+Parallelism- Introduction, Characteristics of application domain, Systematic shared
+memory architecture, Distributed shared – memory architecture, Synchronization.
+UNIT-V:
+Inter Connection and Networks: Introduction, Interconnection network media,
+Practical issues in interconnecting networks, Examples of inter connection, Cluster,
+Designing of clusters.
+Intel Architecture: Intel IA- 64 ILP in embedded and mobile markets Fallacies and pit
+falls
+TEXT BOOKS:
+1. Computer Architecture: A Quantitative Approach, John L. Hennessy, David A.
+Patterson, 3rd Edition, Elsevier
+2. Microprocessor Architecture, Programming, and Applications with the
+8085Ramesh S. Gaonkar Pub: Penram International
+3. Modern Processor Design: Fundamentals of Super Scalar Processors, John P. Shen
+and Miikko H. Lipasti, 2002, Beta Edition, McGraw-Hill
+REFERENCES:
+1. Computer Architecture and Parallel Processing, Kai Hwang, Faye A.Brigs., Mc
+Graw Hill
+2. Advanced Computer Architecture - A Design Space Approach, DezsoSima,
+Terence Fountain, Peter Kacsuk, Pearson Education
+3. Computer Organization and Architecture – William Stallings Sixth Edition, Pearson
+4. Structured Computer Organization – Andrew S. Tanenbaum, 4th Edition PHI
+5. Fundamentals of Computer Organization and Design - Sivaraama Dandamudi
+Springer Int. Edition
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1ES02) WIRELESS COMMUNICATION AND NETWORKS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Principles of Communication Systems, Computer Networks
+COURSE OBJECTIVES:
+• To build understanding of the fundamental concepts of wireless communications
+and networks
+• To learn mathematical modeling of a wireless communication channel
+• To build basic concepts in designing transmitter and receiver of a wireless
+communication system
+• To learn different wireless communication network standards
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Analyze issues in various propagation models.
+CO-2: Basic design techniques of a wireless communication transmitter and receiver.
+CO-3: Basic implementation of algorithms related to wireless communication
+concepts
+CO-4: Analyze design issues of wireless communication networks standards
+UNIT-I:
+The Cellular Concept-System Design Fundamentals: Introduction, Frequency Reuse,
+Channel Assignment Strategies, Handoff Strategies- Prioritizing Handoffs, Practical
+Handoff Consideration, Interference and system capacity – Co channel Interference
+and system capacity, Channel planning for Wireless Systems, Adjacent Channel
+interference, Power Control for Reducing interference, Trunking and Grade of Service,
+Improving Coverage & Capacity in Cellular Systems- Cell Splitting, Sectoring.
+UNIT-II:
+Mobile Radio Propagation: Large-Scale Path Loss: Introduction to Radio Wave
+Propagation, Free Space Propagation Model, Relating Power to Electric Field, The
+Three Basic Propagation Mechanisms, Reflection-Reflection from Dielectrics, Brewster
+Angle, Reflection from prefect conductors, Ground Reflection (Two-Ray) Model,
+Diffraction-Fresnel Zone Geometry, Knife-edge Diffraction Model, Multiple knife-edge
+Diffraction, Scattering, Outdoor Propagation Models, Indoor Propagation Models,
+Signal penetration into buildings, Ray Tracing and Site Specific Modeling.
+UNIT-III:
+Mobile Radio Propagation Small–Scale Fading and Multipath: Small Scale Multipath
+propagation-Factors influencing small scale fading, Doppler shift, Impulse Response
+Model of a multipath channel- Relationship between Bandwidth and Received
+power, Small-Scale Multipath Measurements, Parameters of Mobile Multipath
+Channels, Types of Small-Scale Fading, Statistical Models for multipath Fading
+Channels, Level crossing and fading statistics, Two-ray Rayleigh Fading Model.
+UNIT-IV:
+Equalization and Diversity: Introduction, Fundamentals of Equalization, Training A
+Generic Adaptive Equalizer, Equalizers in a communication Receiver, Linear
+Equalizers, Non linear Equalization-Decision Feedback Equalization (DFE), Maximum
+Likelihood Sequence Estimation(MLSE) Equalizer, Algorithms for adaptive equalization,
+Diversity Techniques, Practical Space Diversity Consideration-Selection Diversity,
+Feedback or Scanning Diversity, Maximal Ratio Combining, Equal Gain Combining,
+Polarization Diversity, Frequency Diversity, Time Diversity, RAKE Receiver.
+UNIT-V:
+Wireless Networks: Introduction to wireless Networks, Advantages and disadvantages
+of Wireless Local Area Networks, WLAN Topologies, WLAN Standard IEEE 802.11, IEEE
+802.11 Medium Access Control, Comparison of IEEE 802.11 a,b,g and n standards, IEEE
+802.16 and its enhancements, Wireless PANs, Hiper Lan, WLL. 29
+TEXT BOOKS:
+1. Wireless Communications, Principles, Practice – Theodore, S. Rappaport, 2nd
+Edition, PHI, 2002
+2. Wireless Communications, Andrea Goldsmith, Cambridge University Press, 2005
+3. Mobile Cellular Communication, Gottapu Sasibhushana Rao, Pearson Education,
+2012
+REFERENCES:
+1. Principles of Wireless Networks, Kaveh PahLaven and P. Krishna Murthy, PE, 2002
+2. Wireless Digital Communications, Kamilo Feher, PHI, 1999
+3. Wireless Communication and Networking, William Stallings, PHI, 2003
+4. Wireless Communication, Upen Dalal, Oxford University Press
+5. Wireless Communications and Networking, Vijay K. Gary, Elsevier
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1ES03) SENSORS AND ACTUATORS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the operating principles of sensors and transducers
+• To appreciate the applications of various sensors and transducers
+• To develop an application specific automated system using sensors, actuators
+and embedded controllers
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Appreciate the operational features of various sensors and actuators
+CO-2: Explain the working of a sensor-based measurement system
+CO-3: Apply the knowledge of the sensors and actuators in building an application
+specific automated system
+UNIT-I:
+Sensors / Transducers: Principles, Classification, Parameters, Characteristics,
+Environmental Parameters (EP), Characterization
+Mechanical and Electromechanical Sensors: Introduction, Resistive Potentiometer,
+Strain Gauge, Resistance Strain Gauge, Semiconductor Strain Gauges
+Inductive Sensors: Sensitivity and Linearity of the Sensor, Types
+Capacitive Sensors: Electrostatic Transducer, Force/Stress Sensors Using Quartz
+Resonators, Ultrasonic Sensors
+UNIT-II:
+Thermal Sensors: Introduction, Gas thermometric Sensors , Thermal Expansion Type
+Thermometric Sensors, Acoustic Temperature Sensor, Dielectric Constant and
+Refractive Index thermo sensors, Helium Low Temperature Thermometer, Nuclear
+Thermometer, Magnetic Thermometer, Resistance Change Type Thermometric
+Sensors, Thermo emf Sensors, Junction Semiconductor Types, Thermal Radiation
+Sensors, Quartz Crystal Thermoelectric Sensors, NQRT Thermometry, Spectroscopic
+Thermometry, Noise Thermometry, Heat Flux Sensors
+UNIT-III:
+Magnetic Sensors: Introduction, Sensors and the Principles Behind, Magneto resistive
+Sensors, Anisotropic Magneto resistive Sensing, Semiconductor Magneto resistors, Hall
+Effect and Sensors, Inductance and Eddy Current Sensors, Angular/Rotary Movement
+Transducers, Synchros, Synchro- resolvers, Eddy Current Sensors, Electromagnetic Flow
+meter, Switching Magnetic Sensors SQUID Sensors
+UNIT-IV:
+Radiation Sensors: Introduction, Basic Characteristics, Types of Photo sensistors/Photo
+detectors, X, ray and Nuclear Radiation Sensors, Fiber Optic Sensors
+Electro Analytical Sensors: Introduction, The Electrochemical Cell, The Cell Potential,
+Standard Hydrogen Electrode (SHE), Liquid Junction and Other Potentials, Polarization,
+Concentration Polarization, Reference Electrodes, Sensor Electrodes, Electro ceramics
+in Gas Media.
+UNIT-V:
+Smart Sensors: Introduction, Primary Sensors, Excitation, Amplification, Filters,
+Converters, Compensation, Information Coding/Processing, Data Communication,
+Standards for Smart
+Sensor Interface, The Automation Sensors
+Applications: Introduction, On-board Automobile Sensors (Automotive Sensors), Home
+Appliance Sensors, Aerospace Sensors, Sensors for Manufacturing, Sensors for
+environmental Monitoring
+TEXT BOOKS:
+1. Sensors and Transducers, D. Patranabis, PHI Learning
+2. Mechatronics, W. Bolton, Pearson Education
+REFERENCES:
+1. Sensors and Actuators, D. Patranabis, 2nd Edition, PHI, 2013
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1VS03) PRINCIPLES OF QUANTUM COMPUTING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the fundamental concepts of quantum mechanics and qubits,
+• To explore multi-qubit systems, quantum protocols, measurement techniques, and
+quantum entanglement principles.
+• To learn key quantum algorithms, quantum circuits, error correction, and practical
+aspects of quantum computation and cryptography.
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the principles of quantum computation qubit
+CO-2: Analyze multi-qubit systems and protocols
+CO-3: Apply quantum measurement and entanglement concepts
+CO-4: Explain quantum parallelism and implement fundamental quantum algorithms.
+CO-5: Design and implement quantum algorithms and circuits
+UNIT-I:
+Review of Quantum Mechanics and Motivation for Quantum Computation Qubit: The
+qubit state - matrix and Bloch sphere representation - computational basis unitary
+evolution
+UNIT-II:
+Multi-qubit States - No-cloning theorem - Superdense coding - Pure states to Bell states
+– Bell inequalities. Protocols with multi-qubits: Swapping - Teleportation - gates: CNOT
+- Toffoli gate - NAND - FANOUT - Walsh Hadamard.
+UNIT-III:
+Measurement: Projective operators - General, Projective and POVM measure,
+Ensemble: Density operators - pure and mixed ensemble - time evolution – post
+measurement density operator. Composite systems: Partial trace - Reduced density
+operator - Schmidt decomposition, Purification bipartite entanglement.
+UNIT-IV:
+Quantum Computing: Classical computing using qubits - Quantum parallelism -
+Deutsch's algorithm - Deutsch Josza algorithm.
+UNIT-V:
+Quantum Circuits: Basic gates - ABC decomposition - Gray codes - Universal gates -
+Principle of deferred and implicit measurements - Quantum Fourier transform -
+applications: phase estimation, order finding - factoring, discrete logarithm and
+hidden subgroup problems - Role of prime factoring in classical cryptography - search
+algorithms. Quantum error correcting codes, Physical realization of qubits.
+TEXT BOOKS:
+1. M. A. Nielsen and I. L. Chuang, Quantum Computation and Quantum Information,
+Cambridge University Press, 2010, 10th Anniversary Edition
+2. Chris Bernhardt, Quantum Computing for Everyone, The MIT Press, 2019.
+3. Ray LaPierre, Introduction to Quantum Computing, Springer, 2021.
+REFERENCES:
+1. Quantum Theory: Concepts and Methods, Asher Peres, Kluwer Academic
+Publishers, 1993.
+2. Fundamentals of Quantum Computing: Theory and Practice, Venkateswaran
+Kasirajan, Springer, 2021.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1MT01) ADVANCED ENGINEERING MATHEMATICS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To equip with foundational and advanced techniques in numerical analysis, linear
+algebra, and optimization for solving engineering and scientific problems.
+• To develop the ability to model and analyze stochastic processes and apply
+Markov chains in real-world scenarios.
+• To understand and apply Fourier analysis and transforms in signal processing and
+system analysis.
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Analyze and solve both linear & non-linear engineering problems whose
+solutions are not found in the closed form.
+CO-2: Analyze and solve stochastic engineering & industrial problems.
+CO-3: Analyze the solution & examine its stability in operator theory.
+CO-4: Optimize & solve real life problems.
+CO-5: Solve image processing & signal processing problems.
+UNIT-I:
+Numerical Analysis: Use of Interpolation formulae of Stirling, Bessel’s, Spline. Solutions
+of system of linear simultaneous equations using SOR algorithm, Newton’s method [up
+to two variables]
+UNIT-II:
+Stochastic Process: Random processes, Random walk, Markov process with special
+emphasis on Markov chain.
+UNIT-III:
+Linear Algebra: Vector spaces, linear transformations, Eigenvalues, Eigenvectors,
+some applications of Eigen value & Eigen vector problems.
+UNIT-IV:
+Optimization Techniques: Calculus of several variables, Implicit function theorem,
+Nature of singular points, Necessary and sufficient conditions for optimization,
+Constrained Optimization, Lagrange multipliers, Gradient method – steepest descent
+method.
+UNIT-V:
+Fourier series and Transform: Fourier series, integrals and transforms and their
+properties. One dimensional Fourier transform, Convolution theorem, Parseval’s
+formula, Introduction to 2-dimensional Fourier transform.
+TEXT BOOKS:
+1. Kreyzig, ‘Advanced Engineering Mathematics’
+2. I.N. Herstein, "Topics in Algebra", Vani Educational Books, India 1986
+3. S. S. Shastri, Numerical Methods
+4. I.N. Sneddon, Fourier Transform
+5. J. Medhi, Stochastic Processes
+REFERENCES:
+1. Sen, M. K. and Malik, D. F.-Fundamental of Abstract Algebra, Mc. Graw Hill
+2. Khanna, V. K. and Bhambri, S. K.- Course of Abstract Algebra, Vikash Pub.
+3. Scarborough, J. B.-Numerical Mathematical Analysis, Oxford University Press
+4. Rao, S. S.-Optimization Theory and Application, Wiley Eastern Ltd., New Delhi
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1ES04) ADVANCED RISC ARCHITECTURES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To provide a solid foundation in processor design principles, including instruction
+pipelining, memory organization, and performance optimization.
+• To develop proficiency in the RISC-V ISA and hands-on skills using the VEGA
+THEJAS32 microcontroller for system-level design and embedded programming.
+• To enable students to analyze and address pipeline hazards, cache optimization,
+and real-world challenges in modern processor architectures.
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply the Instruction pipeline concept in IC design
+CO-2: Analyze the Hazards and Performance issues in Pipelining
+CO-3: Evaluate the Optimization techniques in Cache memory
+CO-4: Create IC designs using RISC-V Instruction set Architecture
+CO-5: Create an application using VEGA THEJAS32 Microcontroller
+UNIT-I:
+Fundamental techniques of computer design: RISC and CISC architectures –
+Computer arithmetic – Comparison of RISC and CISC architectures. Verilog:
+Introduction and review of basic designs using Verilog. MIPS processor: Introduction to
+MIPS features – MIPS instruction set – Logical design of MIPS data path – Control unit
+and instruction decoder.
+UNIT-II:
+Processor Pipelining: Basics of Pipelining, Classic five stage pipelining in RISC processor,
+Performance issues in pipelining, Pipeline Hazards (Structural hazards, Data Hazards,
+Control Hazards), Data forwarding and bypassing techniques, Branch prediction
+technique: Static and Dynamic branch prediction.
+UNIT-III:
+Memory hierarchy: Memory hierarchy, Locality of REFERENCES, Cache memory
+principles, Types of caches (Virtual and Physical cache), Cache architecture, Direct
+mapped, set associative and fully associative caches, Block Replacement
+Techniques and Write Strategy, Design Concepts in Cache Memory. Basic and
+Advanced Optimization Techniques in Cache Memory.
+UNIT-IV:
+RISC-V Architecture: RISC-V Instruction Set Architecture, Registers – General Purpose
+Registers, Control and Status Registers, Operating Modes, Programmers’ Model for
+Base Integer ISA, Base Instruction Formats, Exceptions, Traps, and Interrupts, Machine-
+Level CSRs misa, mhartid, mstatus, mtvec medeleg and mideleg, mip and mie, mepc,
+mcause, mtval.
+UNIT-V:
+VEGA THEJAS32 Microcontroller: Functional Bock diagram, CPU, Memory Mapped
+input output and Interrupts Project using ARIES Development board.
+TEXT BOOKS:
+1. Computer Architecture, A quantitative approach by John L Hennessy and David
+A Patterson Fifth Edition.
+2. Computer organization and architecture, designing for performance, William
+Stallings Eight Edition.
+REFERENCES:
+1. Georg Hager, Gerhard Wellein, Introduction to High Performance Computing for
+Scientists and Engineers, Chapman & Hall / CRC Computational Science series,
+2011.
+2. The RISC-V Reader by David A Patterson and Andrew Waterman First Edition.
+3. The RISC-V Instruction Set Manual Volume I: User-Level ISA Version 2.1
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1ES05) AUTOMOTIVE EMBEDDED SYSTEMS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To provide a comprehensive understanding of embedded system architectures,
+communication protocols, and standards such as AUTOSAR in modern vehicles.
+• To develop skills in model-based development, software reuse, and integration of
+intelligent vehicle technologies with emphasis on safety and reliability.
+• To bridge theory and practice by preparing students to design, implement, and
+optimize automotive embedded systems for real-world applications.
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand and analyze the structure, requirements, and standardized
+architecture of in-vehicle embedded systems including AUTOSAR.
+CO-2: Explain the role of intelligent technologies and communication protocols in
+modern vehicles.
+CO-3: Explain and Analyze FlexRay and CAN protocols.
+CO-4: Apply principles of software product-line engineering and variability modeling.
+CO-5: Demonstrate an understanding of automotive architecture description
+languages and model-based development techniques.
+UNIT-I:
+Vehicle Functional Domains and Their Requirements: General Context, Functional
+Domains: Power Train Domain, Chassis, Domain, Body Domain, Multimedia, Telematic,
+and HMI, Active/Passive Safety, Diagnostic. Standardized Components, Models, and
+Processes: In-Vehicle Networks and Protocols, Operating Systems, Middleware,
+Architecture Description Languages for Automotive Applications. Certification Issue
+of Safety-Critical In-Vehicle Embedded Systems.
+Application of the AUTOSAR Standard: Motivation: Shortcomings in Former Software
+Structures, Setting up AUTOSAR, Main Objectives of AUTOSAR, Working Methods in
+AUTOSAR. Mainstay of AUTOSAR-AUTOSAR Architecture: AUTOSAR Concept, Layered
+Software Architecture. Main Areas of AUTOSAR Standardization: BSW and RTE: BSW,
+BSW Conformance Classes, RTE. Main Areas of AUTOSAR Standardization-
+Methodology and Templates: Objectives of the Methodology, Description of the
+Methodology, AUTOSAR Models, Templates, and Exchange Formats, System
+Configuration, ECU Configuration, Implementation to Existing Development Processes
+and Tooling. AUTOSAR in Practice-Conformance Testing. AUTOSAR in Practice-
+Migration to AUTOSAR ECU. AUTOSAR in Practice-Application of OEM–Supplier
+Collaboration. AUTOSAR in Practice: Demonstration of AUTOSAR-Compliant ECUs:
+Description of the Demonstrator, Concepts Shown by the Demonstrator.
+UNIT-II:
+Intelligent Vehicle Technologies: Introduction: Road Transport and Its Evolution: Such
+a Wonderful Product, Safety Problems, Congestion Problem, Energy and Emissions.
+New Technologies: Sensor Technologies, Sensor Fusion, Wireless Network Technologies,
+Intelligent Control Applications, Latest Driving Assistance. Dependability Issues:
+Introduction, Fail-Safe Automotive Transportation Systems, Intelligent Autodiagnostic.
+Fully Autonomous Car-Dream or Reality?: Automated Road Vehicles, Automated
+Road Network, Automated Road Management, Deployment Paths.
+Embedded Automotive Protocols: Automotive Communication Systems-
+Characteristics and Constraints: From Point-to-Point to Multiplexed Communications,
+Car Domains and Their Evolution, Different Networks for Different Requirements, Event-
+Triggered versus Time-Triggered. In-Car Embedded Networks: Priority Buses, TT
+Networks, Low-Cost Automotive Networks, Multimedia Networks. Middleware Layer:
+Rationale for a Middleware, Automotive MWs Prior to AUTOSAR, AUTOSAR. Open Issues
+for Automotive Communication Systems: Optimized Networking Architectures, System
+Engineering.
+UNIT-III:
+FlexRay Protocol: Introduction: Event-Driven versus Time-Driven Communication,
+Objectives of FlexRay, History of FlexRay. FlexRay Communication: Frame Format,
+Communication Cycle, Static Segment, Dynamic Segment. FlexRay Protocol: Protocol
+Architecture, Protocol Wakeup and Startup, Wakeup, Clock Synchronization, Fault-
+Tolerance Mechanisms. FlexRay Application: FlexRay Implementation, FlexRay Tool
+Support. Impact on Development, Verification of FlexRay.
+Dependable Automotive CAN Networks: Introduction: Main Requirements of
+Automotive Networking, Networking Technologies, CAN Features and Limitations.
+Data Consistency Issues: Management of Transient Channel Faults in CAN,
+Impairments to Data Consistency, On the Probability of the Data Inconsistency
+Scenarios, Solutions to Really Achieve Data, Consistency over CAN. CANcentrate and
+ReCANcentrate-Star Topologies for CAN: Rationale, CANcentrate and
+ReCANcentrate Basics, Other Considerations. CANEL: Clock Synchronization, Data
+Consistency, Error Containment, Support for Fault Tolerance, CANELy Limitations. FTT-
+CAN-Flexible Time-Triggered Communication on CAN: FTT System Architecture, Dual-
+Phase Elementary Cycle, SRDB, Main Temporal Parameters within the EC, Fault-
+Tolerance Features, Accessing the Communication Services. FlexCAN-A Deterministic,
+Flexible, and Dependable Architecture for Automotive Networks: Control System
+Transactions, FlexCAN Architecture, How FlexCAN Addresses CAN Limitations,
+FlexCAN Applications and Summary. Other Approaches to Dependability in CAN:
+TTCAN, Fault-Tolerant Time-Triggered Communication Using CAN, TCAN, ServerCAN,
+Fault-Tolerant Clock Synchronization Over CAN.
+UNIT-IV:
+Product Lines in Automotive Electronics: Characteristics of Automotive Product Lines:
+Basic Concepts of Software Product Lines, Characteristics and Needs of Automotive
+Electronics with Respect to Product-Line Engineering. Basic Terminolog: Software
+Product Lines, Variability, Feature Modeling as a Form of Variability Modeling,
+Discussion-Feature Modeling for the Automotive Domain. Global Coordination of
+Automotive Product-Line Variability: Coordination of Small- to Medium-Sized Product
+Lines, Coordination of Highly Complex Product Lines. Artifact-Level Variability: Basic
+Approach, Difficulties Related to Artifact-Local Variability, Representing Variability in
+ECU, Requirements Specifications, Evaluation of Representations, Mapping
+Representations to a Common Basis.
+Reuse of Software in Automotive Electronics: Reuse of Software-A Challenge for
+Automotive OEMs. Requirements for the Reuse of Software in the Automotive Domain.
+Supporting the Reuse of Application Software Components in Cars: Processes,
+Development of Modularized Automotive Software Components, Function
+Repository, Development of an In-Vehicle Embedded System. Application Example.
+UNIT-V:
+Automotive Architecture Description Languages: Introduction. Engineering
+Information Challenges: Reducing Cost and Lead Time, Development Organization
+and Information Exchange, Product Complexity, Quality and Safety, Concurrent
+Engineering, Reuse and Product Line Architectures, Analysis and Synthesis,
+Prototyping. State of Practice: Model-Based Design, Tools, Problems beyond Model-
+Based Design. ADL as a Solution: General Aspects on an Automotive ADL, What Needs
+to Be Modeled. Existing ADL Approaches: Forsoft Automotive, SysML, Architecture and
+Analysis Description Language, Modeling and Analysis of Real-Time and Embedded
+Systems, AUTOSAR Modeling, EAST-ADL.
+Model-Based Development of Automotive Embedded Systems: Introduction: What Is
+MBD?Motivating MBD for Automotive Embedded Systems: Role of MBD in Automotive
+Embedded Systems Development, MBD Means, Driving Factors for MBD, Potential
+Benefits of MBD Approaches. Context, Concerns, and Requirements: Contextual
+Requirements on MBD, Product Concerns Addressed by MBD Efforts. MBD Technology:
+Modeling Languages: Abstractions, Relations, and Behavior, Analysis Techniques,
+Synthesis Techniques, Tools. State of the Art and Practice: Automotive State of
+Practices, Research and Related Standardization Efforts. Guidelines for Adopting MBD
+in Industry: Strategic Issues, Adopting MBD: Process and Organizational
+Considerations, Desired Properties of MBD Technologies, Common Arguments against
+MBD and Pitfalls.
+TEXT BOOKS:
+1. N. Navet and F. Simonot-Lion, Eds., Automotive Embedded Systems Handbook.
+Boca Raton, FL, USA: CRC Press, 2008.
+2. William B Ribbens, Understanding Automotive Electronics: An Engineering
+Perspective, Seventh Edition, Elsevier, 2012.
+3. Feiler, P. H., Gluch, D. P., & Hudak, J. J. (2012). Model-Based Engineering with AADL:
+An Introduction to the SAE Architecture Analysis & Design Language. Addison-
+Wesley/SAE International.
+REFERENCES:
+1. Ola Larses, Architecting and Modeling Automotive Embedded Systems, KTH, 2005
+2. AUTOSAR. (2025). Standards of AUTOSAR. Retrieved from
+https://www.autosar.org/standards
+3. Vlacic, L., Parent, M., & Harashima, F. (2001). Intelligent Vehicle Technologies:
+Theory and Applications. Elsevier Science.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1ES06) COMMUNICATION BUSES AND INTERFACES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To know how to select the suitable Buses for different applications
+• To know the architecture of CAN and applications
+• To understand the use of PCIe, USB etc.,
+• To know the serial communication protocol
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand serial communication interfaces like RS-232, RS-485, I²C, and SPI,
+including their signals and applications.
+CO-2: Explain CAN protocol architecture, data transmission, error detection, and its
+applications.
+CO-3: Describe PCI Express architecture, configuration, protocols, and its evolution.
+CO-4: Understand USB architecture, transfer types, enumeration, and device drivers.
+CO-5: Analyze SFPDP protocol architecture, operation, transmission media, and
+applications.
+UNIT-I:
+Serial Communication-Physical interface, Data and Control signals, Features,
+Limitations and Applications of RS-232, RS-485, I²C (Inter-Integrated Circuit), SPI (Serial
+Peripheral Interface)
+UNIT-II:
+CAN – Architecture, Node Structure, Data transmission mechanisms, CAN Layers,
+Frame formats, Error detection and fault confinement, Applications in automotive and
+industrial systems
+UNIT-III:
+PCI Express(PCIe) - PCIe evolution and revisions, Architecture, Configuration space
+and registers, Hardware protocols, Applications
+UNIT-IV:
+USB – Hosts and Devices, Transfer types, Enumeration process, Descriptor types and
+contents, Device drivers
+UNIT-V:
+Data Streaming Serial Communication Protocol - Serial Front Panel Data Port (SFPDP)
+- Architecture and Operation, Transmission Media, Protocol Features, Applications
+TEXT BOOKS:
+1. Serial Port Complete - COM Ports, USB Virtual Com Ports, and Ports for Embedded
+Systems, Jan Axelson, 2nd Edition, Lakeview Research
+2. USB Complete, Jan Axelson, Penram Publications 3. PCI Express Technology, Mike
+Jackson, Ravi Budruk, Mindshare Press
+REFERENCES:
+1. A Comprehensible Guide to Controller Area Network, Wilfried Voss, 2nd Edition,
+Copperhill Media Corporation, 2005
+2. Serial Front Panel Draft Standard VITA 17.1 –200x
+3. Technical REFERENCES http://www.pcisig.com/www.pcisig.com,
+4. http://www.usb.org/www.usb.org onwww.can-cia.org,
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1ES07) ADVANCED DIGITAL SIGNAL PROCESSING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Knowledge of Digital Filter Design techniques, Digital Signal
+Processing techniques
+COURSE OBJECTIVES:
+• To introduce the principles of Multi-rate digital signal processing and its
+implementation
+• To provide ability to compute the power spectrum of the given discrete signal
+• To understand various sources of errors affecting the performance of a DSP system
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Appreciate the design of multi rate DSP systems
+CO-2: Explain the non-parametric methods of power spectrum estimation of the given
+signal
+CO-3: Explain the parametric methods of power spectrum estimation of the given
+signal
+CO-4: Design of optimum linear filters for signals corrupted with additive noise
+CO-5: Appreciate the applications of adaptive signal processing
+UNIT-I:
+Review of DFT, FFT, IIR Filters, FIR Filters: Multi-rate Signal Processing: Introduction,
+Decimation by a factor D, Interpolation by a factor I, Sampling rate conversion by a
+rational factor I/D, Multistage Implementation of Sampling Rate Conversion, Filter
+design &Implementation for sampling rate conversion, Applications of Multi-rate
+Signal Processing.
+UNIT-II:
+Non-Parametric Methods of Power Spectral Estimation: Estimation of spectra from
+finite duration observation of signals, Non-parametric Methods: Bartlett, Welch &
+Blackman & Tukey methods, Comparison of all Non-Parametric methods
+UNIT-III:
+Parametric Methods of Power Spectrum Estimation: Autocorrelation & Its Properties,
+Relation between auto correlation & model parameters, AR Models - Yule-Waker &
+Burg Methods, MA & ARMA models for power spectrum estimation.
+UNIT-IV:
+Linear Prediction and Optimum Linear Filters: Forward and Backward Linear Prediction
+– Forward Linear Prediction, Backward Linear Prediction, Optimum reflection
+coefficients for the Lattice Forward and Backward Predictors. Solution of the Normal
+Equations: Levinson Durbin Algorithm, Schur Algorithm. Properties of Linear Prediction
+Filters. FIR Wiener Filter, Orthogonality Principle in Linear Mean -Square Estimation.
+UNIT-V:
+Adaptive Filters: Gradient search Approach, Least Mean Square Algorithm, Recursive
+Least Squares, Kalman Filters Innovations Process, Estimation of the State Using the
+Innovations Process, Kalman Filter as the Unifying Basis for RLS Filters. Applications of
+Adaptive Filters- System Identification or System Modelling, Adaptive Channel
+Equalization, Echo Cancellation in Data Transmission over Telephone Channels,
+Adaptive Noise Cancelling.
+TEXT BOOKS:
+1. Digital Signal Processing: Principles, Algorithms & Applications, J. G. Proakis & D. G.
+Manolokis, 4th Ed., PHI, 2001
+2. Adaptive Filter Theory, S. Haykin Pearson, 2003
+3. DSP–A Practical Approach, Emmanuel C. I. feacher, Barrie. W. Jervis, 2nd Ed.,
+Pearson Education, 2008
+REFERENCES:
+1. Modern Spectral Estimation: Theory & Application, S. M. Kay, 1988, PHI
+2. Multirate Systems and Filter Banks, P. P. Vaidyanathan, Pearson Education, 1993
+3. Digital Signal Processing, S. Salivahanan, A. Vallavaraj, C.Gnanapriya, 2000, TMH
+4. Multirate Systems and Filter Banks, P. P. Vaidyanathan, Pearson Education, 1993
+5. Digital Signal Processing, S. Salivahanan, A. Vallavaraj, C.Gnanapriya, 2000, TMH
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1ES08) STATISTICAL MODELLING AND OPTIMIZATION TECHNIQUES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To provide a strong foundation in statistical models, regression analysis, and
+hypothesis testing for data-driven decision making.
+• To develop analytical skills in formulating and solving optimization problems using
+linear programming and advanced numerical techniques.
+• To enable students to apply constrained and unconstrained optimization methods
+for solving real-world engineering and research problems.
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the concepts of statistics and probability
+CO-2: Design and Analyse statistical models
+CO-3: Understand the optimization and linear programming techniques
+CO-4: Solve constrained and unconstrained optimization problems
+CO-5: Interpret the results of various statistical and optimization algorithms.
+UNIT-I:
+Introduction to Statistical Models and Analysis: An overview of basic probability,
+Sampling, distributions, linear statistical models, Least squares estimation, Gauss
+Markov Theorem, Properties of the estimates, Statistical experiments and significance
+testing: Z test, T Test, Anova Test, Chi Square Test, F Test.
+UNIT-II:
+Regression and Prediction: Regression, Different types models for Regression,
+Procedures, Model Selection, Prediction using regression; multiple linear regression:
+inference technique for the general linear model, generalized linear models:
+inference procedures, Classification, Naïve Bayes, logistic regression and lag linear
+models; Nonparametric Regression, introduction to non-linear modelling: Least
+squares and estimation of parameters.
+UNIT-III:
+Optimization and Linear Programming: Types and size of problems, Iterative algorithms
+and convergence, Basic properties of Linear programs, Convex sets, simplex method,
+Duality, Interior point methods, Transportation and Network flow problems.
+UNIT-IV:
+Unconstrained Problems: Basic properties and solutions of Algorithms, Basic Descent
+methods, Conjugate Direction Methods, Quasi-Newton Methods.
+UNIT-V:
+Constrained Minimization: Constrained Minimization conditions, Primal methods,
+penalty and Barrier methods, Dual cutting plane methods.
+TEXT BOOKS:
+1. Peter Bruce, Andrew Bruce, Practical statistics for data scientists, O’Reilly, 2020, 2nd
+Edition
+2. David G. Luenberger, Yinyu Ye, Linear and Nonlinear Programming, Springer, 2008,
+3rd Edition
+REFERENCES:
+1. Dobson, A. J. and Barnett, A. G., An Introduction to Generalised Linear Models,
+Chapman and Hall/CRC, 2008, 3rd Edition
+2. Krzanowski, W. J., An Introduction to Statistical Modelling, Wiley, 2010.
+3. EDWIN K. P. CHONG STANISLAW H. ZAK, An Introduction to Optimization, WILEY
+INTERSCIENCE, 2013, 4th Edition.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC2VS01) RTL SIMULATION AND SYNTHESIS LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE PRE-REQUISITES: Digital Concepts, Programming Knowledge
+COURSE OBJECTIVES:
+• To provide familiarity with hardware description language Verilog HDL for
+modelling of combinational and sequential circuits
+• To understand the role of functional simulator in the validating the functionality of
+designed circuits
+• To understand the synthesis of a designed digital circuit
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply CAD tools for the design of digital circuits
+CO-2: Appreciate the process of synthesizing a given digital circuit
+CO-3: Implement the specified digital circuits using FPGA
+CO-4: Develop the VLSI applications using Verilog HDL
+CO-5: Generate the netlist files and analyze the device utilization summary
+LIST OF EXPERIMENTS:
+Implementing the below designs on FPGA kits.
+1. Basic Logic Gates
+2. 4-bit Adder/Subtractor
+3. 4x1 Multiplexer and 1x4 Demultiplexer
+4. 2 to 4 Decoder and 4 to 2 encoder
+5. 2-bit Comparator Design (2-bit or 4-bit):
+6. Interfacing Seven Segment Display with FPGA
+7. Clocked Latches and Flip Flops
+8. Shift register that shifts input bits left or right on each clock pulse.
+9. 4-bit Synchronous Counter
+10. Sequence Detector using Moore or Mealy FSMs
+11. ALU Supporting Basic Operations (ADD, SUB, AND, OR, NOT)
+12. Traffic Light Controller using FSM
+13. PWM Signal Generation
+14. Real-Time Clock Design and Display using FPGA
+15. Serial Input with UART Receiver (Basic)
+16. Digital Filters (FIR/IIR)
+17. LED Blinking
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC2ES01) PROCESSORS FOR EMBEDDED SYSTEM DESIGN LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To provide familiarity with the basic concepts of embedded system design flow
+• To develop the ability to design microcomputer-based embedded systems
+• To learn microcomputer interfacing from both hardware and software perspective
+• To understand the embedded system programming concepts and apply for
+designing and developing embedded solutions
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply ARM instructions set to write assembly language programs
+CO-2: Develop assembly language and high-level language programming skills for
+ARM controllers based embedded systems
+CO-3: Analyze usage of various on-chip resources like GPIO, Interrupts, ADC, PWM,
+timers
+CO-4: Demonstrate the knowledge in designing embedded systems
+LIST OF EXPERIMENTS:
+PART A:
+Conduct the following experiments by writing Assembly Language Program (ALP)
+using ARM Cortex M3 Registers using an evaluation board/simulator and the required
+software tool.
+1. Write an ALP to multiply two 16-bit binary numbers.
+2. Write an ALP to find the sum of first 10 integer numbers.
+3. Write an ALP to find factorial of a number.
+4. Write an ALP to add an array of 16-bit numbers and store the 32-bit result in Internal
+RAM.
+5. Write an ALP to add two 64-bit numbers.
+6. Write an ALP to find the largest/smallest number in an array of 32 numbers.
+7. Write an ALP to arrange a series of 32-bit numbers in ascending/descending order.
+PART B:
+Experiments to be carried out on Cortex-M3 development boards
+1. Blink an LED with software delay.
+2. Blink an LED with delay generated using the SysTick timer.
+3. System clock real time alteration using the PLL modules.
+4. Using the Internal PWM module of ARM controller generate PWM and vary its duty
+cycle.
+5. Control an LED using switch by polling method.
+6. Control an LED using switch by interrupt method.
+7. Display “Hello World” message using Internal UART.
+8. Take analog readings on rotation of rotary potentiometer connected to an ADC
+channel.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25SD5EN01) ENGLISH FOR ACADEMIC AND RESEARCH WRITING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE PRE-REQUISITES: Undergraduate level English Proficiency
+COURSE OBJECTIVES:
+• To equip with an understanding of the mechanics and conventions of academic
+and research writing, including cohesion and coherence, to produce texts that
+demonstrate precision and clarity
+• To enable to present focused, logical arguments that support a thesis
+• To empower to find, analyze, evaluate, summarize, and synthesize appropriate
+source material for literature review
+• To enable to use appropriate language to analyze and interpret the data, and
+prepare an outline
+• To enable to become adept in the requirements and specifications of standard
+writing to produce academic and research papers
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply knowledge of academic language features and text structure, and
+ensure cohesion and coherence as connected to various text types
+CO-2: Demonstrate the use of writing process strategies through outlining, reviewing,
+composing, and revising
+CO-3: Evaluate sources and use summary, analysis, synthesis, and integration to
+construct a literature review on a topic chosen by the student
+CO-4: Prepare an outline for Research Articles and Thesis
+CO-5: Apply standard documentation style to produce academic and research
+papers that meet the demands of specific genres, purposes, and audiences
+UNIT-I:
+1. Features of Academic Writing: Word Order, Breaking up long Sentences,
+Structuring Paragraphs and sentences, Being concise and removing redundancy,
+Avoiding Ambiguity and Vagueness, Hedging
+2. Planning & Preparation of Research paper, Factors Influencing Effective Writing:
+Mechanics of Writing, Purpose of Writing, Understanding the Target Reader,
+Organization- Cohesion, and Coherence
+UNIT-II:
+1. Academic Writing Forms:
+a) Analyzing arguments; Building an argument
+b) Making a Counter Argument- Managing tone and tenor
+1. Types of Research: Primary and Secondary Research
+2. Review of Literature
+3. Research Design: Statement of the Problem, Writing A Title, Writing an Abstract,
+Keywords & Introduction, Writing Hypotheses, Developing Objectives, Research
+Tools, Writing Reports and Writing Proposal.
+UNIT-III:
+1. Criteria of Good Research- Avoiding Plagiarism
+2. Data Interpretation, Writing to the Point
+3. Preparing an outline for Research Articles & Research Reports
+UNIT-IV:
+1. Reference Skills:
+a) Paraphrasing (Change of parts of speech, word order, synonyms, using the passive
+form)
+b) Summarizing (Steps in summarizing)
+2. Inserting references
+UNIT-V:
+1. Assessment of Technical Reports
+2. Writing Research Article Reviews: Writing Article & Book Review
+TEXT BOOKS:
+1. A Course in Academic Writing, Gupta R., Orient BlackSwan, 2010
+2. Academic Writing: Exploring Processes and Strategies, Leki I., CUP, 1998
+3. Writing Up Research: Experimental Research Report Writing for Students of English,
+Weissberg R., & Buker S. Englewood Cliffs, Prentice Hall, 1990
+REFERENCES:
+1. English Academic Writing for Students and Researchers, Yakhontova T., 2003
+2. Inside Track: Successful Academic Writing Gillett, A., Hammond A., Martala M.
+Essex: Pearson Education 2009
+3. English for Academic Research: Writing Exercises, Wallwork, Springer, 2013
+4. The MLA Handbook for Writers of Research Papers, 7th Edition, Modern Language
+Association
+5. Academic Writing for Graduate Students: A Course for Non-Native Speakers of
+English, Swales J. M. & Feak C. B. AnnArbor: University of Michigan Press, 1994
+ONLINE RESOURCES:
+1. Using Sources Video Lecture
+2. https://www.coursera.org/lecture/advanced-writing/using-sources-video-lecture-
+i719P
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25MN6HS01) RESEARCH METHODOLOGY AND IPR
+TEACHINGSCHEME EVALUATION SCHEME
+L T/P C SE-I SE-II SEE TOTAL
+2 0 0 50 50 - 100
+COURSE OBJECTIVES:
+• To understand the research problem
+• To know the literature studies, plagiarism and ethics
+• To get the knowledge about technical writing
+• To analyze the nature of intellectual property rights and new developments
+• To know the patent rights
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand research problem formulation
+CO-2: Analyze research related information & Follow research ethics
+CO-3: Understand that today’s world is controlled by Computer, Information
+Technology, but tomorrow world will be ruled by ideas, concept, and creativity
+CO-4: Understanding that when IPR would take such important place in growth of
+individuals & nation, it is needless to emphasis the need of information about
+Intellectual Property Right to be promoted among students in general & engineering
+in particular
+CO-5: Understand that IPR protection provides an incentive to inventors for further
+research work and investment in R & D, which leads to creation of new and better
+products, and in turn brings about, economic growth and social benefits
+UNIT-I:
+Meaning of research problem, Sources of research problem, Criteria Characteristics
+of a good research problem, Errors in selecting a research problem, Scope and
+objectives of research problem.
+Approaches of investigation of solutions for research problem, data collection,
+analysis, interpretation, Necessary instrumentations
+UNIT-II:
+Effective literature studies approaches, analysis, Plagiarism, Research ethics
+UNIT-III:
+Effective technical writing, how to write report, Paper Developing a Research
+Proposal, Format of research proposal, a presentation and assessment by a review
+committee
+UNIT-IV:
+Nature of Intellectual Property: Patents, Designs, Trade and Copyright. Process of
+Patenting and Development: technological research, innovation, patenting,
+development. International Scenario: International cooperation on Intellectual
+Property. Procedure for grants of patents, Patenting under PCT.
+UNIT-V:
+Patent Rights: Scope of Patent Rights. Licensing and transfer of technology. Patent
+information and databases. Geographical Indications. New Developments in IPR:
+Administration of Patent System.
+New developments in IPR; IPR of Biological Systems, Computer Software etc.
+Traditional knowledge Case Studies, IPR and IITs
+TEXT BOOKS:
+1. Research Methodology: An Introduction for Science & Engineering Students, Stuart
+Melville and Wayne Goddard
+2. Research Methodology: An Introduction, Wayne Goddard and Stuart Melville
+3. Research Methodology: A Step-by-Step Guide for Beginners, Ranjit Kumar, 2nd
+Edition
+REFERENCES:
+1. Resisting Intellectual Property, Halbert, Taylor & Francis, 2007
+2. Industrial Design, Mayall, McGraw-Hill, 1992
+3. Product Design, Niebel, McGraw-Hill, 1974
+4. Intellectual Property in New Technological Age, Robert P. Merges, Peter S. Menell,
+Mark A. Lemley, 2016
+5. Intellectual Property Rights Under WTO, T. Ramappa, S. Chand, 2008

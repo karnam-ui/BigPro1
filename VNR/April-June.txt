@@ -1,0 +1,583 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/eiedept/News-Letter/2023/April-June.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+EIE Times
+April to June 2023
+- Measure the power of Instrumentation -
+Volume 08 Issue 02
+Department of Electronics and Instrumentation Engineering
+EDITORIAL BOARD
+Chief Editor
+Editorial
+Automation-Boon or Bane
+Every coin has two sides. So does the enhancement in
+technology. When one side offers opportunities and confidence,
+the other plunges its harder truth in the fear of losing existing
+opportunities along with the white collar jobs. The Indian economy
+is in transition with the on-going impact of automation on the
+Dr.S.Senthilkumar
+employment of certain population which are involved in industrial
+Assistant Professor
+control and services sector. Though automation leads to creation
+Associate Editor of various new jobs(which are in need of high experience),the
+destruction of the jobs which are high in number with the present
+economic situation is even more concerning. Under controlled
+scenarios automation reduces the cost of a firm, leads to reduced
+corruption and bureaucratic discretion. It also increases the social
+economic infrastructural level which in turn attracts high range
+investments developing the country’s national and international
+standards. Automation becomes a problem when higher number of
+jobs is at stake. The requirement of new jobs is freelancing at
+nature thus pressuring abnormal situations among employees. As
+Mr.K.Vijay Chandra we can clearly integrate the changes brought by this developing
+Assistant Professor side of technology, let’s hope for the right mix of solution to be
+brought in the varied interests of the economy as a whole.
+Students Associates
+K.Sri Nithya (16071A1023)
+K.Sreya (16071A1019)
+Kiran Verma (16071A1021)
+E
+N e
+I
+w
+E
+s l e
+T
+t
+i
+t e
+m
+r
+e s
+Page 2
+Message from HOD
+Factual content and procedures that constitute the knowledge base
+of the discipline around the big ideas of the domain, links new knowledge to
+what is already known by presenting concepts in a conceptually and logically
+sequenced order that builds upon previous learning within and across grade
+levels. The vision of the department is to be well known department that will
+serve as a source of knowledge and expertise in the field of Instrumentation for
+the society by rendering value added education to the students. The
+department’s mission is to impart dynamic education and develop engineers,
+technocrats, and researchers to provide services and leadership for
+development of the nation. To bridge the gap between industry and academia, faculty members connect to
+industries through i- Connect activities like industrial visits, expert lectures, sponsored projects, workshops,
+training, MOUs with renowned industries. It provides internship and placement opportunities for
+students. Dr. R. Manjula Sree
+HOD: EIE
+Students Achievements
+Certificate Courses:
+No of
+Targ Dates & Particip-
+Title of Certificate eted Duration of Course ants to
+Pre-requisite Benefits
+Course stude the Course Fee Rs. whom
+nts (no. of days) certificate
+issued
+Looking for career into
+6000/-
+Problem Solving and IT sector, gain strong Sept 2022 to
+C language 128 per 47
+Advanced Algorithms coding skills and get April 2023
+student
+Industry ready
+Simple For the benefit of 26th June 2023
+JAVA-full Stack 18 - 18
+programming Placements to August 2023
+NPTEL
+Awards / Participated/Course
+S.No Name of the Student Roll Number Dept.
+completed
+NPTEL -Introduction to Internet
+1 NAGA SAI SURYA TEJ YEDLA 21071A10A3 EIE
+of Things
+NPTEL -Data analytics with
+2 ATELI SRIKANTH 20071A1004 EIE
+python
+4 PISKA RAMYASRI 21071A10B1 EIE NPTEL - INTRODUCTION TO IOT
+5 M.Meghana 20071A1036 EIE NPTEL- DBMS course.
+6 Thangella Thrisha 20071A10B7 EIE NPTEL -cloud computing
+NPTEL- Programming In Modern
+7 M.Rohan Sai Venkat 20071A10A7 EIE
+C++
+“Don’t follow the crowd, let the crowd follow you” - Margaret Thatcher-
+➢
+E
+N e
+I
+w
+E
+s l e
+T
+t
+i
+t e
+m
+r
+e s
+Page 3
+Students sponsored for Seminars/Workshops/Training Programmes/Guest Lectures/Motivational
+Lectures/Career Vision and Awareness Programmes/Sports conducted in the Institute/Outside the
+Institute
+Particulars of No. of
+Beneficiaries Date Impact of Program
+the Event Participants
+Training Program Students will learn about 5
+From 24th
+on Web Web Frame works &
+March to July
+Technologies in II Year EIE Students 115 Technologies for Website
+2023 (Every
+association with Development in Front-end &
+Friday)
+Dept. of CSE Back-end
+Projects displayed on
+I Year EIE Students 4
+Footstep Power Generator
+Batch-1: Project display on
+Personalized Health
+15th April Monitoring
+2023 Batch-2: Project display on
+Hospital Software
+II Year EIE Students 12
+Batch-3: Project display on
+Alcohol Detection Engine
+Locking
+Batch 4: Project display on
+Air Purifier
+Batch-1: Project display on
+Traffic Density
+Open House Measurement using RADAR
+Batch-2: Project display on
+III Year EIE Students 12 Face Recognition system
+using Raspberry Pi
+Batch-3: Project display on
+Smart Helmet to avoid
+Accidents
+Batch-1: Project display on
+LoRa based CO2 Monitoring
+System for contagion
+Prevention by Controlled
+Ventilation
+IV Year EIE Students 10 Batch-2: Project display on
+Hand Gesture Robotic Arm
+Controlled using Arduino
+Batch-3: Project display on
+Autonomous Self Balancing
+Bicycle
+Lecture is about artificial
+intelligence that Develop
+17th April
+ground breaking models
+Guest Lecture on 2023 that unlock insights from
+Generative AI for III Year EIE Students 105 vast multimodal data sets.
+Lifesciences Improve understanding of
+disease biology and
+accelerate timelines for
+drug.
+“Every time you have to speak, you are auditioning for leadership.” - James Humes
+-
+Page 2
+E
+N e
+I
+w
+E
+s l e
+T
+t
+i
+t e
+m
+r
+e s
+E
+N e
+I
+w
+E
+s l e
+T
+t
+i
+t e
+m
+r
+e s
+Page 4
+Particulars of No. of
+Beneficiaries Date Impact of Program
+the Event Participants
+40 hours
+Problem Solving M/s Code Evolve and Excel
+(Sept 2022
+and Advanced III Year EIE students 47 Private Limited (Smart
+to April
+Algorithms Interviews)
+2023)
+Lecture covers Space
+Guest Lecture on instrumentation (systems)
+Space 29th April engineering covers a key
+II Year EIE Students 110
+Instrumentation 2023 research topic within the
+and Satellite Design chair Space Systems
+Engineering and beyond
+Unlock your
+potential and Ignite
+your passion for Attended session on RISE
+03rd May
+learning with II Year EIE Students 10 Summer program at
+2023
+centella academy’s VNRVJIET Auditorium.
+RISE Summer
+program
+online event on
+school of startup
+Ignite young Indian
+to innovate as part
+Attended online session
+of the National
+11th May attended by I Year students,
+Technology week I year EIE students 45
+2023 Director sir and few faculty
+by Sri. Narender
+members.
+Modiji, Prime
+Minister, India. at
+Pragathi bhavan,
+New Delhi.
+➢ Students Placement
+S.No Name Roll.NO Company
+1 Praneetha 19071A1099 Square yards - Job
+2 C.Karthik Goud 20075A1011 Square yards (Job)
+3 Deepthi yamsani 19071A10A6 Mediamint
+4 Yerramsetti sai lohitha 19071A10B0 Square yards
+5 Nandini Tanuku 19071A1046 Audree Infotech
+6 Sunnapu Sudheer Kumar 19071A1045 Audree Infotech
+7 V.Yashwanth Sena 19071A1052 LTI
+“Be the change that you want to see in the world” - Mahatma Gandhi -
+E
+N e
+I
+w
+E
+s l e
+T
+t
+i
+t e
+m
+r
+e s
+Page 5
+Events Organized
+➢ An online event attended by I year students, Director sir and Faculty members on “school of startup
+Ignite young Indian to innovate”, as part of the National Technology week by Sri. Narender Modiji,
+Prime Minister, India. at Pragathi bhavan, New Delhi. on 11-5-2023.
+➢ Department of Electronics & Instrumentation Engineering organized Panel Discussion on
+“Charting the Right Career Choice in Electronics and Instrumentation Engineering”, by using google
+meet link with parents who came for Admission enquiry. on 24-05-2023 at 3:00pm
+“Reading Is To The Mind, As Exercise Is To The Body.” - Brian Tracy -
+“Failure will never overtake us if our determination to succeed is strong enough.”
+- Mahatma Gandhi
+E
+N e
+I
+w
+E
+s l e
+T
+t
+i
+t e
+m
+r
+e s
+Page 6
+Faculty Participation
+➢ Mr.P.V.Gopi Kumar,Assistant Professor, attended and presented paper at 12th
+International
+➢ Conference on Advances in Signal Processing and Communication – SPC 2023 on 31st
+March 2023
+➢ Ch.Venkanna, Asst.Professor, attended One-week international workshop on “Technical
+Writing using LaTeX”, organized by VIT- AP University, from 30th March to 5th April
+2023.
+➢ Ms.S.S Bharathi Sagi, Asst.Professor, attended 2 day workshop on Business Intelligence
+using Power BI organized by Skill Nation online mode during 8th-9th April 2023.
+➢ Faculty Interaction Session is conducted with Dr. Bhattacharya, Adjunct Professor,
+VNRVJIET regarding Research, Funding, Consultancy, and Patents. in Embedded Systems
+Lab (P-103) on 12-04-2023 (today) at 3:00pm to 5:00pm.
+The following faculty members attended the session are.
+Dr.R.Manjula Sri Prof & Head
+Mr.G.Vamsi Krishna Asst.Professor
+Dr.M.Sreedhar Professor
+Ms.Jyothirmai Joshi Asst.Professor
+Dr.S.Pranavanand Assoc.Profesor
+Ms. D.Srilaxmi Asst.Professor
+Dr.K.Sudha Rani Assoc. Professor
+Mr.S.Bhargav Asst.Professor
+Dr.M.Hari Krishna Assoc.Professsor
+Dr.B.Rajashekara Reddy Asst.Professor
+Dr.V.Nageshwar Assoc.Professor
+Dr. S.Senthil Kumar Asst.Professor
+➢ Dr.C.Kiran, Assoc. Professor, attended a course on “Engineering Education Research”,
+conducted by zoom Tech. IUCEE during 1st ,15th & 29th April 2023.
+➢ Dr.C.Kiran, Assoc. Professor, attended a mini course on “Prompt Engineering”, conducted
+by zoom Tech. IUCEE during 3rd ,10th & 17th April 2023.
+E
+N e
+I
+w
+E
+s l e
+T
+t
+i
+t e
+m
+r
+e s
+Page 7
+➢ Dr.C.Kiran, Assoc. Professor, attended a course on “Engineering Ethics”, conducted by zoom Tech.
+IUCEE during 6th,13th & 20th April 2023.
+➢ Mr.A.Adhitya Kashyap, Asst.Professor, attended and presented paper International Conference on
+Advances in Electronics, Communication, Computing and intelligent information systems
+(ICAECIS-2023) during 19th-21st April 2023.
+➢ Dr.M.Hari Krishna,Assoc.Professor, & Ms.J.Jyothirmai, Asst.Professor, attended 2nd International
+Conference on Emerging Trends in Engineering (ICETE) at university college of Engineering(A)
+Osmania University, Hyderabad during 28th-30th April 2023.
+➢ Dr.V.Nageshwar, Ms.P.Sampurna Lakshmi, Ms.D.Swetha & Ms. S.S. Bhrathi Sagi attended Guest
+lecture on Space Instrumentation and Satellite Design by Dr. S.M.Ahmed, Principal payload
+Scientist, at XDLINX Labs on 29-04-2023 in B-Block Seminar Hall.
+➢ Mr.S.Bhargav, Asst. professor attended one day lecture on Academics and Industry perspective on
+CHATGPT by Prof. Atul Negi, Dean, School of computer and Information Sciences, University of
+Hyderabad and Mr. Bharat Ankinepally, CTO, WeXL Technologies. Organised by Swecha Telangana
+in association with IEEE Educational Society, at CSE Dept. Seminar Hall, OU College of Engineering,
+Hyderabad on 03rd June 2023.
+Faculty Achievements
+➢ 9 faculty members have registered for Swayam NPTEL Courses and are in progress.
+➢ Dr.R.Manjula Sri, Professor & Head, completed NPTEL course on Python for Data Science with Elite
+Certification.
+➢ Dr. Chakravartula Kiran, Assoc.Professor, got Certificate of Appreciation for presentation on the
+topic “Design Thinking, Critical Thinking & Innovation Design”, on world Creative & Innovation
+Day organized by Institutions Innovation Council (IIC) at Bapatla College of Pharma, Bapatla. On
+27th Feb 2023.
+“You don’t get any medal for trying something, you get medals for results."
+-Bill Parcells
+EIE Times
+Page 8
+Newsletter Page 8
+➢ Dr.S.Pranavanand, Assoc. Professor, got Certificate of Appreciation for contribution as reviewer in
+2nd International Conference on Emerging Trends in Engineering (ICETE) at University college of
+Engineering(A) Osmania University, Hyderabad. During 28th-30th April 2023
+{{{
+Research and Development (R & D)
+Journals
+Date/
+Faculty Name, List of Authors Conference in Volume Month
+Designation & in the order that Full Title of the which the Issue, & ISSN No. / Indexe
+appears on the Paper Paper ISBN No. d
+Department Year of
+paper Published Page Nos.
+Publica-
+tion
+Flow
+Dr.M. Volume 09
+Dr.Malleti.Sree Measurement
+Sreedhar, Zeichen Issue 04, April 0932-
+dhar, Using Video UGC
+Professor , Journal pp. 189- 2023 4747
+Dr.K.Sirisha Processing
+EIE 197
+Technique
+Indonesian
+An efficient
+Srilaxmi Dasari, Journal of
+machine learning
+Dr.R.Manjula Boo Electrical Volume 30,
+approach for April 2502-
+Sri, Professor Poonguzhali, Engineering Issue. 01, Scopus
+classification of 2023 4752
+& Head, EIE Manjula Sri and pp. 81-88
+diabetic
+Rayudu Computer
+retinopathy stages
+Science
+Measurement of
+Creatinine
+Dr.M. Dr.Malleti.Sree Journal of Volume 29,
+clearance and its
+Sreedhar, dhar, High Issue 4, April 1006-
+effect on renal UGC
+Professor , Dr.A.Bhujangar Technology pp.257- 2023 6748
+systemusing BS-
+EIE ao Letters 266
+300
+“Failure will never overtake us if our determination to succeed is strong enough.”
+- Mahatma Gandhi
+E
+N e
+I
+w
+E
+s l e
+T
+t
+i
+t e
+m
+r
+e s
+Page 9
+Dr. Srinivasa
+Babu Kasturi,
+Dr. D. Ganesh,
+Prediction of
+Dr.K.Sudha Dr. S. Vol,12(Spe
+Toxinsin Chemical
+Rani, Hrushikesava European cial Issue
+Industry by April 2063-
+Associate Raju, Chemical 4), Scopus
+implementing 2023 5346
+Professor & Dr.K.Sudha Bulletin pp.1229-
+Machine Learning
+EIE Rani, Dr. M. 1239
+Algorithms
+Rajkumar,
+Jangam Bala
+Srinivasa rao
+DR. Surya
+Prasada Rao
+Borra,
+DR.M.V.Ganesw Unhealthy Plant
+Journal of
+ara Rao, DR Region Detection Vol.101.
+Theoretical
+Dr K.Vidya P.ravi kumar, . In Plant Leaves Issue No 8, April 1992-
+and Applied Scopus
+Sagar DR.Srinu Pyla, Using Adaptive pp.3133- 2023 8645
+Information
+DR.K. Vidya Genetic 3137
+Technology
+Sagar DR A Algorithms
+Geetha Devi,
+Koteswara Rao
+Kodepogu
+Srilaxmi
+Dasari,Boo. Binary
+Poonguzhali, Classification of Special
+European
+Manjulasri Diabetic Issue 01, May 2063-
+Ms.D.Srilaxmi Chemical Scopus
+Rayudu Retinopathy using pp.2276- 2023 5346
+Bulletin
+K. Muthu Random Forest 2284
+kumar R. Classifier
+Dhanalakshmi
+Gangolu International
+Yedukondalu, Ensemble Deep Journal of
+ISSN:21
+Jyothirmai Learning Models Intelligent Vol:
+Ms.Jyothirmai June 47-
+Joshi, Krishan for Collaborative systems and 11(6s), Scopus
+Joshi 2023 679921
+Dev Nidumolu, Filtering applications 358–369
+47-
+Adapa Gopi, G. Recommendations in
+Rajavikram Engineering
+“Every time you have to speak, you are auditioning for leadership.” - James Humes
+-
+“Reading Is To The Mind, As Exercise Is To The Body.” - Brian Tracy -
+E
+N e
+I
+w
+E
+s l e
+T
+t
+i
+t e
+m
+r
+e s
+Page 10
+Conferences
+Date/
+Faculty Name, List of Authors
+Volume Month &
+Designation & in the order Conference in which the
+Full title of the paper Issue, Year of
+Department that appears on paper published
+Page Nos. publica-
+the paper
+tion
+Enhancing Error
+Detection and Correction
+Mr. P V 12th International
+Mr.P.V.Gopi of
+Gopikumar , Conference on
+Kumar Manifold Cell Fluster 31st
+Dr. R Advances in Signal
+Assistant upsets in Memories for ---- March
+Manikandan , Processing and
+Professor, Space 2023
+Dr. C Ravi Communication – SPC
+EIE Missions using Flexible
+Shankar Reddy 2023
+Unequal Error Control
+(FUEC) Technique
+International Conference
+Palash Dahake,
+on
+A.Adithya Enhanced Smith
+Mr.A.Adhitya Advances in Electronics,
+Kashyap, predictor based
+Kashyap Communication, April
+A.Seshagiri Fractional filter ----
+Asst.Professo Computing and 2023
+Rao, IMC-PI Controller design
+r, EIE intelligent information
+G Uday Bhaskar for FOPTD processes
+systems
+Babu
+(ICAECIS-2023)
+2nd International
+Dr. Malini Conference on Emerging
+Dr.M.Hari
+Mudigonda, Electrooculogram Based Trends in Engineering
+Krishna April
+Dr.M.Hari Wheelchair Control in (ICETE) at university ----
+Assoc.Profess 2023
+Krishna Real-Time college of Engineering(A)
+or, EIE
+Osmania University,
+Hyderabad.
+2nd International
+Kaparthi Uday
+Design and Develop an Conference on Emerging
+Dr.M.Hari Dr. Malini
+IPG System Without Trends in Engineering
+Krishna Mudigonda, April
+Using an Occlusive Cuff (ICETE) at university ----
+Assoc.Profess Dr.M.Hari 2023
+to detect Deep Vein college of Engineering(A)
+or, EIE Krishna
+Thrombosis Osmania University,
+Hyderabad.
+Chapala Sara
+Grace, M. 2nd International
+Sreeja, M. Conference on Emerging
+Dr.M.Hari
+Deepika, Unique Contactless Trends in Engineering
+Krishna April
+Dr.M.Hari Device to Detect Veins (ICETE) at university ----
+Assoc.Profess 2023
+Krishna, Dr. and Heart Rate college of Engineering(A)
+or, EIE
+Harish Osmania University,
+Kuchulakanti Hyderabad.
+

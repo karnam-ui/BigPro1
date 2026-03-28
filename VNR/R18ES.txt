@@ -1,0 +1,1989 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/mtechsyl/R18ES.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+
+VNRVJIET M.TECH. ES R18 CURRICULUM 2
+VISION OF TH E INSTITUTE
+To be a World Class University providing value-
+based education, conducting interdisciplinary
+research in cutting edge technologies leading to
+sustainable development of the nation
+MISSION OF T HE INSTITUTE
+➢ To produce technically competent and socially
+responsible engineers, managers and
+entrepreneurs, who will be future ready.
+➢ To involve students and faculty in innovative
+research projects linked with industry, academic
+and research institutions in India and abroad.
+➢ To use modern pedagogy for improving the
+teaching-learning process.
+VNRVJIET M.TECH. ES R18 CURRICULUM 3
+DEPARTMENT OF
+ELECTRONICS
+AND
+COMMUNICATION
+ENGINEERING
+VNRVJIET M.TECH. ES R18 CURRICULUM 4
+VISION OF THE DEPARTMENT
+A resource centre of academic excellence for
+imparting technical education with high pattern of
+discipline through dedicated staff which shall set
+global standards, making National and
+International students technologically superior and
+ethically strong, who in turn shall improve the
+quality of life.
+MISSION OF TH E DEPARTMENT
+➢ To provide quality education in the domain of
+Electronics and Communication Engineering
+through effective learner centric process.
+➢ To provide industry specific best of breed
+laboratory facilities beyond curriculum to
+promote diverse collaborative research for
+meeting the changing industrial and societal
+needs.
+VNRVJIET M.TECH. ES R18 CURRICULUM 5
+M.TECH.
+(EMBEDDED SYSTEMS)
+VNRVJIET M.TECH. ES R18 CURRICULUM 6
+M.TECH. (ES)
+PROGRAM EDUCATIONAL OBJECTIVES
+PEO-I: Apply the acquired knowledge to solve engineering problems to
+suit multidisciplinary situations.
+PEO-II: Undertake research and development projects in the field of
+Embedded Systems.
+PEO-III: Continue the personal development through professional study
+and self learning.
+VNRVJIET M.TECH. ES R18 CURRICULUM 7
+M.TECH. (ES)
+PROGRAM OUTCOMES
+PO-1: Demonstrate their professional, ethical and social responsibilities
+and contribute their part for addressing various global issues.
+PO-2: Apply the acquired knowledge from undergraduate engineering
+and other disciplines to identify, formulate and present solutions to
+technical problems related to various areas of Embedded Systems.
+PO-3: Learn advanced technologies and analyze complex problems in
+the fields of Embedded System design along with the fundamental
+concepts of engineering.
+PO-4: Addressing specific problems in the field of Embedded System in
+the form of mini projects, analysis, and interpretation of data and
+synthesis of information to provide valid conclusions by considering
+societal and environmental factors in the core areas of expertise.
+PO-5: Plan and conduct systematic study on a significant research topic
+effective to the societal, health, legal and environmental issues in the field
+of Embedded Systems.
+PO-6: Use the techniques, skills, modern Integrated Development
+Environment (IDE) tools, Operating systems, software and equipment
+necessary to evaluate and analyze the systems in Real time environments.
+PO-7: Ability to manage team effectively and become good leaders.
+PO-8: Understand the scenario of global business.
+PO-9: Demonstrate effective oral and written communication skills in
+accordance with technical standards.
+VNRVJIET M.TECH. ES R18 CURRICULUM 8
+PO-10: Develop confidence and motivation for self education and
+imbibe professional values for lifelong learning.
+PO-11: Understand and commit to professional ethics, social
+responsibilities and norms of engineering practice.
+PO-12: Become knowledgeable about contemporary developments by
+self learning.
+VNRVJIET M.TECH. ES R18 CURRICULUM 9
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. I YEAR COURSE STRUCTURE AND SYLLABUS
+(EMBEDDED SYSTEMS)
+I SEMESTER R18
+Course Type Course Code Name of the Course L T P Credits
+Professional
+18PC1VS01 Simulation and Synthesis with PLDs 3 0 0 3
+Core-I
+Professional Processors for Embedded System
+18PC1ES01 3 0 0 3
+Core-II Design
+Professional Programming Languages for
+18PC1ES02 3 0 0 3
+Core-III Embedded Software
+18PE1ES01 Artificial Intelligence
+Professional
+18PE1ES02 Internet of Things 3 0 0 3
+Elective-I
+Communication Buses and
+18PE1ES03
+Interfaces
+18PE1ES04 Parallel Processing
+Professional Advanced Communication
+18PE1ES05 3 0 0 3
+Elective-II Networks
+18PE1VS03 Advanced Digital Signal Processing
+Professional Simulation and Synthesis with PLDs
+18PC2VS01 0 0 3 1.5
+Core Lab-I Laboratory
+Professional Processors for Embedded System
+18PC2ES01 0 0 3 1.5
+Core Lab-II Design Laboratory
+Project 18PW4ES01 Technical Seminar 0 0 4 2
+Audit 18AU5CS01 Research Methodology and IPR 2 0 0 0
+Total 17 0 10 20
+VNRVJIET M.TECH. ES R18 CURRICULUM 10
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. I YEAR COURSE STRUCTURE AND SYLLABUS
+(EMBEDDED SYSTEMS)
+II SEMESTER R18
+Course Type Course
+Name of the Course L T P Credits
+Code
+Professional
+18PC1ES03 System Design with Embedded Linux 3 0 0 3
+Core-IV
+Professional
+18PC1ES04 Wireless and Mobile Communications 3 0 0 3
+Core-V
+Professional
+18PC1CP03 Machine Learning 3 0 0 3
+Core-VI
+18PE1ES06 SOC and NOC Architecture
+Professional
+18PE1ES07 Network Security and Cryptography 3 0 0 3
+Elective-III
+18PE1ES08 Advanced Computer Architecture
+18PE1VS08 Image and Video Processing
+Professional
+18PE1ES09 Sensors and Actuators 3 0 0 3
+Elective-IV
+18PE1ES10 High Performance Networks
+Professional System Design with Embedded Linux
+18PC2ES02 0 0 3 1.5
+Core Lab-III Laboratory
+Professional Machine Learning and Wireless
+18PC2ES03 0 0 3 1.5
+Core Lab-IV Communication Laboratory
+Project 18PW4ES02 Mini-Project 0 0 4 2
+English for Academic and Research
+Audit 18AU5EN01 2 0 0 0
+Writing
+Total 17 0 10 20
+VNRVJIET M.TECH. ES R18 CURRICULUM 11
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. II YEAR COURSE STRUCTURE AND SYLLABUS
+(EMBEDDED SYSTEMS)
+III SEMESTER R18
+Course Course Credits
+Name of the Course L T P
+Type Code
+18OE1MT01 Selected Topics in Mathematics
+Professional
+18PE1ES11 Wireless Sensor Networks 3 0 0 3
+Elective-V
+18PE1VS09 Memory Technologies
+18OE1CN01 Business Analytics
+18OE1AM01 Industrial Safety
+Open
+18OE1AM02 Operations Research 3 0 0 3
+Elective
+18OE1AM03 Composite Materials
+18OE1PS01 Waste to Energy
+Project 18PW4ES03 Project Part - I 0 0 16 8
+Total 6 0 16 14
+IV SEMESTER R18
+Course Course Credits
+Name of the Course L T P
+Type Code
+Project 18PW4ES04 Project Part - II 0 0 28 14
+Total 0 0 28 14
+VNRVJIET M.TECH. ES R18 CURRICULUM 12
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (ES) L T/P C
+3 0 3
+(18PC1VS01) SIMULATION AND SYNTHESIS WITH PLDs
+COURSE PRE-REQUISITES: Basic Concepts of Digital Systems
+COURSE OBJECTIVES:
+• To introduce Verilog HDL for the design and functionality verification of a digital circuit
+• To understand the design of data path and control circuits for sequential machines
+• To introduce the concept of realizing a digital circuit using PLDs
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Develop the Verilog HDL to design a digital circuit
+CO-2: Appreciate the analysis of finite state machine of a controlling circuit
+CO-3: Understand the Static Timing Analysis and clock issues in digital circuits
+CO-4: Verify the functionality of the digital designs using PLDs
+UNIT-I:
+Verilog HDL: Importance of HDLs, Lexical Conventions of Verilog HDL
+Gate Level Modeling: Built in primitive gates, switches, gate delays
+Data Flow Modeling: Continuous and implicit continuous assignment, delays
+Behavioral Modeling: Procedural constructs, Control and repetition Statements, delays,
+function and tasks.
+UNIT-II:
+Digital Design: Design of BCD Adder, State graphs for control circuits, shift and add multiplier,
+Binary divider.
+FSM and SM Charts: Finite state diagram, Implementation of sequence detector using FSM,
+State machine charts, Derivation of SM Charts, Realization of SM Chart, Implementation of
+Binary Multiplier.
+UNIT-III:
+ASIC Design Flow: Simulation, simulation types, Synthesis, synthesis methodologies, translation,
+mapping, optimization, Floor planning, Placement, routing, Clock tree synthesis, Physical
+verification.
+UNIT-IV:
+Static Timing Analysis: Timing paths, Meta-stability, Clock issues, Need and design strategies
+for multi-clock domain designs, setup and hold time Violations, steps to remove Setup and
+hold time violations.
+UNIT-V:
+Digital Design using PLD’s: ROM, PLA, PAL- Registered PAL’s, Configurable PAL’s, GAL. CPLDs:
+Features, programming and applications using complex programmable logic devices, Altera
+Max - 7000 series and Altera FLEX logic- 10000 series CPLD.
+UNIT-VI:
+FPGAs: Field Programmable gate arrays Logic blocks, routing architecture, design flow,
+technology mapping for FPGAs, Spartan3E, Spartan XC6SLX45, Spartan 6 LX45 FPGA, Zynq-
+7000, Architectures and their speed performance.
+TEXT BOOKS:
+1. Verilog HDL, A Guide to Digital Design and Synthesis, Samir Palnitkar, 2nd Edition, 2003
+2. Fundamentals of Logic Design, Charles H. Roth, 5th Edition, Cengage Learning, 2010
+VNRVJIET M.TECH. ES R18 CURRICULUM 13
+3. Verilog HDL Synthesis-A Practical Primer, Bhasker J., 1st Edition, 1998
+REFERENCES:
+1. Modern Digital Electronics, P. Jain, 3rd Edition, TMH, 2003
+2. Data Sheets for CPLD & FPGA Architectures, 1996
+3. Digital Principles and Design, Donald D. Givone TMH, 2016
+4. Designing with FPGAs & CPLDs, Bob Zeidman, CMP Books, 2002
+5. Modern Digital Design, Richard S. Sandige, MGH International Edition, 1990
+VNRVJIET M.TECH. ES R18 CURRICULUM 14
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (ES) L T/P C
+3 0 3
+(18PC1ES01) PROCESSORS FOR EMBEDDED SYSTEM DESIGN
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To introduce modern embedded systems and their programming
+• To introduce the concept of integrating hardware and software for microcontroller
+application systems
+• To implement software approach on an embedded platform to solve the predefined
+problems
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Outline various building blocks of an embedded system and applications of
+embedded systems
+CO-2: Compare and select the application specific ARM processor core based SoC for an
+embedded system
+CO-3: Identify and characterize the architecture of Programmable DSP Processors
+CO-4: Develop the task specific applications on ARM processor core and DSP processor-
+based platform
+UNIT-I:
+Overview of Embedded Systems: Embedded Systems-Core Components, Design challenges,
+Applications Embedded Processor Architecture and Organization, RISC vs CISC, Embedded
+Memory Technologies, I/O and Memory Maps, Modern Processor Instruction Set Features,
+Interrupts and Exceptions, Power saving modes, Embedded C and assembly language
+programming, Writing portable Embedded Software,
+UNIT-II:
+ARM Cortex-M3 Processor: Applications, Programming model – Registers, Operation modes,
+Exceptions and Interrupts, Reset Sequence, Instruction Set, Unified Assembler Language,
+Memory Maps, Memory Access Attributes, Permissions, Bit-Band Operations, Unaligned and
+Exclusive Transfers. Pipeline, Bus Interfaces
+UNIT-III:
+Exceptions, Types, Priority, Vector Tables, Interrupt Inputs and Pending behaviour, Fault
+Exceptions, Supervisor and Pendable Service Call, Nested Vectored Interrupt Controller, Basic
+Configuration, SYSTICK Timer, Interrupt Sequences, Exits, Tail Chaining, Interrupt Latency.
+UNIT-IV:
+LPC 17xx Microcontroller: Internal memory, GPIOs, Timers, ADC, UART and other serial
+interfaces, PWM, RTC, WDT
+UNIT-V:
+Programmable DSP (P-DSP) Processors: Multiplier and Multiplier Accumulator (MAC), Multi
+port memory, Modified bus structures and Memory Access Schemes in P-DSPS, VLIW
+architecture, Pipelining, On-chip Peripherals
+UNIT-VI:
+TMS320C6000 series, architecture study, Central processing UNIT and data paths, Functional
+UNITs and its operations, Addressing modes in C6X, memory architecture, Peripherals,
+Assembly Instructions for arithmetic, logical operations
+VNRVJIET M.TECH. ES R18 CURRICULUM 15
+TEXT BOOKS:
+1. Real Time Concepts for Embedded Systems, Qing Li, Caroline Yao, CRC Press
+2. The Definitive Guide to ARM Cortex-M3, Joseph Yiu, 2nd Edition, Elsevier
+3. Digital Signal Processors: Architecture, Programming and Applications, Venkatramani B.
+and Bhaskar M., 2nd Edition, TMH
+REFERENCES:
+1. Designing Embedded Hardware, John Catsoulis, 2nd Edition, O'Reilly Media
+2. ARM System Developer's Guide: Designing and Optimizing, Sloss Andrew N, Symes
+Dominic, Wright Chris, Morgan Kaufman Publication
+3. ARM System-on-Chip Architecture, Steve Furber, Pearson Education
+4. Embedded System Design, Frank Vahid and Tony Givargis, Wiley
+5. Technical References and user manuals on www.arm.com, NXP Semiconductor
+www.nxp.com and Texas Instruments www.ti.com
+VNRVJIET M.TECH. ES R18 CURRICULUM 16
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (ES) L T/P C
+3 0 3
+(18PC1ES02) PROGRAMMING LANGUAGES FOR EMBEDDED SOFTWARE
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To develop skills in embedded system programming
+• To provide the ability of identifying the choice of programming language for embedded
+systems
+• To differentiate interpreted languages from compiled languages
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Develop an embedded C application of moderate complexity
+CO-2: Appreciate the algorithms developed in C++ and their analysis
+CO-3: Develop and test the programs using application specific scripting languages
+UNIT-I:
+Embedded ‘C’ Programming: Bitwise operations, Dynamic memory allocation, OS services,
+Linked stack and queue, Sparse matrices, Binary tree, Interrupt handling in C, Code
+optimization issues, Writing LCD drives, LED drivers, Drivers for serial port communication,
+Embedded Software Development Cycle and Methods (Waterfall, Agile)
+UNIT-II:
+Object Oriented Programming: Introduction to procedural, modular, object-oriented and
+generic programming techniques, Limitations of procedural programming, objects, classes,
+data members, methods, data encapsulation, data abstraction and information hiding,
+inheritance, polymorphism
+UNIT-III:
+CPP Programming: ‘cin’, ‘cout’, formatting and I/O manipulators, new and delete operators,
+Defining a class, data members and methods, ‘this’ pointer, constructors, destructors, friend
+function, dynamic memory allocation
+UNIT-IV:
+Overloading and Inheritance: Need of operator overloading, overloading the assignment,
+overloading using friends, type conversions, single inheritance, base and derived classes,
+friend classes, types of inheritance, hybrid inheritance, multiple inheritance, virtual base class,
+polymorphism, virtual functions,
+UNIT-V:
+Templates: Function template and class template, member function templates and
+template arguments, Exception Handling: syntax for exception handling code: try-catch-
+throw, Multiple Exceptions.
+UNIT-VI:
+Scripting Languages: Introduction to Scripting Languages – PERL, Python, TCL, Shell Scripting.
+Python: PYTHON-syntax, statements, functions, Built-in-functions and Methods, Modules in
+PYTHON, Exception Handling.
+TEXTBOOKS:
+1. Embedded C, Michael J. Pont, 2nd Edition, Pearson Education, 2008
+2. Learning Perl, Randal L. Schwartz, 6th Edition, O’Reilly Publications, 2011
+3. Data Structures via C++, Michael Berman, Oxford University Press, 2002
+VNRVJIET M.TECH. ES R18 CURRICULUM 17
+REFERENCES:
+1. Algorithms in C++, Robert Sedgewick, Addison Wesley Publishing Company, 1999
+2. Operating System Concepts, Abraham Silberschatz, Peter B, Greg Gagne, John Willey &
+Sons, 2005
+3. Programming PYTHON, M. Lutz, SPD
+4. Core PYTHON Programming, Chun, Pearson Education
+5. Guide to Programming with PYTHON, M. Dawson, Cengage Learning
+VNRVJIET M.TECH. ES R18 CURRICULUM 18
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (ES) L T/P C
+3 0 3
+(18PE1ES01) ARTIFICIAL INTELLIGENCE
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To make students conversant with fundamentals of AI with the help of a running
+applications connecting all the covered topics
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understand the difference between optimal reasoning versus human like reasoning
+CO-2: Gain the in-depth knowledge of the notions of state space representation, exhaustive
+search, heuristic search along with the time and space complexities
+CO-3: Understand different knowledge representation techniques and fuzzy logic for artificial
+intelligence
+CO-4: Learn the applications of Al: namely Game Playing, Theorem Proving, Expert Systems,
+Machine Learning and Natural. Language Processing
+UNIT-I:
+Introduction to AI: AI Problems and Underlying Assumption, various AI Techniques, level of
+the model, criteria for success, some general REFERENCES:.
+UNIT-II:
+Problems, State Space Search & Heuristic Search Techniques - Defining the Problems as a
+State Space Search, Production Systems, Production Characteristics, Production System
+Characteristics, and issues in the Design of Search Programs, Additional Problems. Generate-
+and-Test, Hill Climbing, Best-First Search, Problem Reduction, Constraint Satisfaction, Means-
+Ends Analysis.
+UNIT-III:
+Knowledge Representation: Representations and Mappings, Approaches to Knowledge
+Representation. Using Predicate Logic: Representation Simple Facts in Logic, Representing
+Instance and ISA Relationships, Computable Functions and Predicates, Resolution.
+Representing Knowledge Using Rules: Procedural Versus Declarative Knowledge, Logic
+Programming, Forward Versus Backward Reasoning.
+UNIT-IV:
+Symbolic Reasoning Under Uncertainty: Introduction to Non monotonic Reasoning, Logics for
+Non-monotonic Reasoning. Statistical Reasoning: Probability and Bays’ Theorem, Certainty
+Factors and Rule-Base Systems, Bayesian Networks, Dempster Shafer Theory, Fuzzy Logic.
+UNIT-V:
+Game Playing Overview, And Example Domain: Overview, MiniMax, Alpha-Beta Cut-off,
+Refinements, Iterative deepening, The Blocks World, Components of a Planning System, Goal
+Stack Planning, Nonlinear Planning Using Constraint Posting, Hierarchical Planning, Reactive
+Systems, Other Planning Techniques. Understanding AI as constraint satisfaction.
+UNIT-VI:
+Natural Language Processing: Introduction, Syntactic Processing, Semantic Analysis,
+Semantic Analysis, Discourse and Pragmatic Processing, Spell Checking.
+Connectionist Models: Introduction- Hopfield Network, Learning in Neural Network,
+Application of Neural Networks, Recurrent Networks, Distributed Representations,
+Connectionist AI and Symbolic AI.
+VNRVJIET M.TECH. ES R18 CURRICULUM 19
+TEXT BOOKS:
+1. Artificial Intelligence, Saroj Kaushik, Cengage Learning, 2011
+2. Artificial Intelligence: A Modern Approach, Stuart Russel and Peter Norvig, 3rd Edition,
+Prentice Hall, 2009
+REFERENCES:
+1. Artificial Intelligence, Elaine Rich and Kevin Knight, 2nd Edition, Tata McGraw-Hill, 2005
+VNRVJIET M.TECH. ES R18 CURRICULUM 20
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (ES) L T/P C
+3 0 3
+(18PE1ES02) INTERNET OF THINGS
+COURSE PRE-REQUISITES: Concepts of Programming in Java, C/C++, Embedded C, Concepts
+of Wireless Communication and Networking
+COURSE OBJECTIVES:
+• To understand the new paradigm of objects interacting with people, information systems
+and with other objects
+• To introduce various IoT protocols
+• To understand the issues in developing specific real time systems on various IoT platforms.
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Identify and describe different kinds of internet-connected products developed on
+various IoT platforms
+CO-2: Appreciate the challenges involved in establishing user-interaction with connected-
+objects
+CO-3: Develop prototype IoT application using python
+UNIT-I:
+Introduction to Internet of Things: Definition and Characteristics of IoT, Physical Design of IoT –
+IoT Architecture, Smart Objects, Bits and Atoms, IoT enabled Technologies – Wireless Sensor
+Networks, Cloud Computing, Big data analytics, Communication protocols, Embedded
+Systems.
+UNIT-II:
+IoT Standards and Protocols: Infrastructure (ex: 6LowPAN, IPv4/IPv6, RPL); Identification (ex:
+EPC, uCode, IPv6, URIs); Comms / Transport (ex: Wifi, Bluetooth, LoRa); Discovery (ex: Physical
+Web, mDNS, DNS-SD); Data Protocols (ex: MQTT, CoAP, AMQP, Websocket, Node); Device
+Management (ex: TR-069, OMA-DM); Semantic (ex: JSON-LD, Web Thing Model); Multi-layer
+Frameworks (ex: Alljoyn, IoTivity, Weave, Homekit).
+UNIT-III:
+Introduction to Python: Language features of Python, Data types, data structures, Control of
+flow, functions, modules, packaging, file handling, data/time operations, classes, Exception
+handling Python packages - JSON, XML, HTTPLib, URLLib, SMTPLib
+UNIT-IV:
+IoT Physical Devices and Endpoints: Introduction to Raspberry PI-Interfaces (serial, SPI, I2C)
+Programming – Python program with Raspberry PI with focus of interfacing external gadgets,
+controlling output, and reading input from pins.
+UNIT-V:
+IoT Platforms: Introduction to IoT Platforms (AWS IoT, IBM Watson, ARM Mbed ), Cloud Storage
+models and communication APIs, Python web application framework Designing a RESTful
+web API.
+UNIT-VI:
+Iot Applications and Issues: Combination scenarios, Breaking assumptions: - Home, City,
+Environment, Energy, Retail, Logistics, Agriculture, Industry, health and Lifestyle with Case
+Studies
+VNRVJIET M.TECH. ES R18 CURRICULUM 21
+TEXT BOOKS:
+1. Internet of Things - A Hands-on Approach, Arshdeep Bahga and Vijay Madisetti,
+Universities Press, 2015, ISBN: 9788173719547
+2. Internet of Things: Converging Technologies for Smart Environments and Integrated
+Ecosystems, Dr. Ovidiu Vermesan, Dr. Peter Friess, River Publishers, 2007
+3. Building the Internet of Things. Sara Cordoba, WimerHazenberg, Menno Huisman. BIS
+Publishers. 2011
+REFERENCES:
+1. Designing the Internet of Things, Adrian Mcewen, Hakin Cassimally, 2015
+2. The Internet of Things: Key Applications and Protocols, Olivier Hersent, David Boswarthick,
+Omar Elloumi, 2012
+3. Getting Started with Raspberry Pi, Matt Richardson & Shawn Wallace, O'Reilly (SPD), 2014,
+ISBN: 9789350239759
+4. Securing the Internet of Things: A Standardization Perspective, Keoh, Sye Loong, Sahoo
+Subhendu Kumar, and Hannes Tschofenig, Internet of Things Journal, IEEE 1.3 (2014): 265-
+275
+VNRVJIET M.TECH. ES R18 CURRICULUM 22
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (ES) L T/P C
+3 0 3
+(18PE1ES03) COMMUNICATION BUSES AND INTERFACES
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To understand serial communication protocols
+• To know about basic elements of a embedded network and building such networks
+• To understand the principles of embedded networking design choices
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Select the application specific serial bus
+CO-2: Develop APIs for configuration, reading and writing data onto serial bus
+CO-3: Appreciate the principles of interfacing peripherals with the desired serial bus
+UNIT-I:
+Introduction: Serial/ Parallel Communication – Serial communication protocols - Physical
+interface, Data and Control signals, features of RS232 standard – RS485.
+UNIT-II:
+Synchronous Serial Protocols: Serial Peripheral Interface (SPI) – Inter Integrated Circuits (I2C)-
+Fire wire. Limitations and Applications of RS232, RS485, I2C, SPI.
+UNIT-III:
+PC Parallel Port Programming: ISA/PCI Bus protocols- Block Diagrams, Latest Generations,
+Read and Write Operations , PCIe - Revisions, Configuration space, Hardware protocols,
+applications.
+UNIT-IV:
+CAN Bus: Introduction - Architecture, Data transmission, Layers, Frame formats, Bit stuffing –
+Types of errors –Nominal Bit Timing – applications with CAN.
+UNIT-V:
+USB Bus: Introduction – Speed Identification on the bus – USB States – USB bus
+communication- Packets –Data flow types –Transfer types, enumeration, Descriptor types
+and contents, Device driver.
+UNIT-VI:
+Data Streaming Serial Communication Protocol: Serial Front Panel Data Port (SFPDP) -
+Specifications- speeds – Communication Range-SFPDP using fiber optic and copper cable.
+TEXT BOOKS:
+1. Serial Port Complete - COM Ports, USB Virtual Com Ports, and Ports for Embedded
+Systems, Jan Axelson, 2nd Edition, Lakeview Research
+2. Embedded Systems Design: A Unified Hardware/Software Introduction, Frank Vahid, Tony
+Givargis, John & Wiley Publications, 2002
+REFERENCES:
+1. Advanced PIC microcontroller Projects in C: From USB to RTOS with the PIC18F Series,
+Dogan Ibrahim, Elsevier 2008
+2. USB Complete, Jan Axelson, Penram Publications
+3. PCI Express Technology, Mike Jackson, Ravi Budruk, Mindshare Press
+VNRVJIET M.TECH. ES R18 CURRICULUM 23
+4. A Comprehensible Guide to Controller Area Network, Wilfried Voss, Copperhill Media
+Corporation, 2nd Edition, 2005
+5. Serial Front Panel Draft Standard VITA 17.1 – 200x
+www.can-cia.org, www.pcisig.com, www.usb.org
+VNRVJIET M.TECH. ES R18 CURRICULUM 24
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (ES) L T/P C
+3 0 3
+(18PE1ES04) PARALLEL PROCESSING
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To provide an overview of concepts and issues of parallel architectures, models,
+algorithms and software
+• To provide a foundation and context from which current research in Parallel
+Computation can be understood
+• To introduce the principles of developing efficient parallel algorithms
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Identify limitations of different architectures of computer
+CO-2: Analyze quantitatively the performance parameters for different computer
+architectures
+CO-3: Investigate software issues related to different computer architectures
+UNIT-I:
+Overview of Parallel Processing and Pipelining, Performance analysis, Scalability.
+UNIT-II:
+Principles and implementation of Pipelining, Classification of pipelining processors, Advanced
+pipelining techniques, Software pipelining.
+UNIT-III:
+Parallel algorithms for multiprocessors- Classification and performance of parallel algorithms,
+operating systems for multiprocessors systems, Message passing libraries for parallel
+programming interface, PVM (in distributed memory system), Message Passing Interfaces
+(MPI).
+UNIT-IV:
+Multithreaded Architecture, Multithreaded processors, Latency hiding techniques, Principles
+of multithreading, Issues and solutions.
+UNIT-V:
+Parallel Programming Techniques: Message passing program development, Synchronous
+and asynchronous message passing, Shared Memory Programming, Data Parallel
+Programming, Parallel Software Issues.
+UNIT-VI:
+Operating systems for multiprocessors systems, customizing applications on parallel
+processing platforms.
+TEXT BOOKS:
+1. Computer Architecture and Parallel Processing, Kai Hwang, Faye A. Briggs, MGH
+International Edition, 2009
+2. Advanced Computer Architecture, Kai Hwang, TMH, 2007
+3. Computer Organization and Architecture, Designing for Performance, William Stallings,
+Sixth Edition, Prentice Hall, 2003
+REFERENCES:
+1. Scalable Parallel Computing, Kai Hwang, Zhiwei Xu
+VNRVJIET M.TECH. ES R18 CURRICULUM 25
+2. High-Performance Computer Architecture, MGH Harold S. Stone, Addison-Wesley, 1993
+VNRVJIET M.TECH. ES R18 CURRICULUM 26
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (ES) L T/P C
+3 0 3
+(18PE1ES05) ADVANCED COMMUNICATION NETWORKS
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To introduce the analyse of various advanced communication networks
+• To introduce the principles of designing innovative network topologies and their
+simulation
+• To provide the ability in designing and maintenance of communication networks
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understand advanced concepts in Communication Networking
+CO-2: Appreciate the designing and developing of protocols for Communication
+Networks
+CO-3: Understand the mechanisms in Quality of Service in communication networking
+CO-4: Explain the principles of Optimising the Network Design
+UNIT–I:
+Overview of Internet-Concepts, challenges and history. Overview of ATM. TCP/IP Congestion
+and Flow Control in Internet-Throughput analysis of TCP congestion control. TCP for high
+bandwidth delay networks. Fairness issues in TCP.
+UNIT-II:
+Real Time Communications over Internet. Adaptive applications. Latency and throughput
+issues. Integrated Services Model (intServ). Resource reservation in Internet. RSVP.;
+Characterization of Traffic by Linearly Bounded Arrival Processes (LBAP). Leaky bucket
+algorithm and its properties.
+UNIT-III:
+Packet Scheduling Algorithms-requirements and choices. Scheduling guaranteed service
+connections. GPS, WFQ and Rate proportional algorithms. High speed scheduler design.
+Theory of Latency Rate servers and delay bounds in packet switched networks for LBAP
+traffic.; Active Queue Management - RED, WRED and Virtual clock. Control theoretic analysis
+of active queue management.
+UNIT-IV:
+IP address lookup-challenges, Packet classification algorithms and Flow Identification- Grid of
+Tries, Cross producting and controlled prefix expansion algorithms.
+UNIT-V:
+Admission control in Internet. Concept of Effective bandwidth. Measurement based
+admission control. Differentiated Services in Internet (DiffServ). DiffServ architecture and
+framework.
+UNIT-VI:
+IPV4, IPV6, IP tunneling, IP switching and MPLS, Overview of IP over ATM and its evolution to IP
+switching. MPLS architecture and framework. MPLS Protocols. Traffic engineering issues in
+MPLS.
+TEXT BOOKS:
+1. High Performance Communications Networks, Jean Wairand and PravinVaraiya, 2nd
+Edition, 2000
+VNRVJIET M.TECH. ES R18 CURRICULUM 27
+2. Communication Networking: An Analytical Approach, Morgan Kaufman Publishers, 2004
+3. Computer Network Technology, D. S. Gaikwad and N. D. Lambe
+REFERENCES:
+1. Network Calculus A Theory of Deterministic Queueing Systems for the Internet, Jean Le
+Boudec and Patrick Thiran, Springer Veriag, 2001
+2. Internet QoS, Zhang Wang, Morgan Kaufman, 2001
+3. ATM Network Performance, George Kesidis, Kluwer Academic, Research Papers, 2005
+4. Advance Computer Networks, Deepak Tyagi
+5. Advance Computer Networks, Sona Kumar and G. Shobha
+VNRVJIET M.TECH. ES R18 CURRICULUM 28
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (ES) L T/P C
+3 0 3
+(18PE1VS03) ADVANCED DIGITAL SIGNAL PROCESSING
+COURSE PRE-REQUISITES: Knowledge of Digital Filter Design techniques, Digital Signal
+Processing techniques
+COURSE OBJECTIVES:
+• To introduce the principles of Multi-rate digital signal processing and its implementation
+• To provide ability to compute the power spectrum of the given discrete signal
+• To understand various sources of errors affecting the performance of a DSP system
+• To understand the necessity of adaptive signal processing
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Appreciate the design of multi rate DSP systems
+CO-2: Explain the methods of power spectrum estimation of the given signal
+CO-3: Comprehend the effect of data word length on the performance of a DSP system
+CO-4: Appreciate the applications of adaptive signal processing
+UNIT-I:
+Review of DFT, FFT, IIR Filters, FIR Filters: Multi-rate Signal Processing: Introduction, Decimation
+by a factor D, Interpolation by a factor I, Sampling rate conversion by a rational factor I/D,
+Multistage Implementation of Sampling Rate Conversion, Filter design &Implementation for
+sampling rate conversion, Applications of Multi-rate Signal Processing.
+UNIT-II:
+Non-Parametric Methods of Power Spectral Estimation: Estimation of spectra from finite
+duration observation of signals, Non-parametric Methods: Bartlett, Welch & Blackman &
+Tukey methods, Comparison of all Non-Parametric methods
+UNIT-III:
+Linear Prediction and Optimum Linear Filters: Forward and Backward Linear Prediction –
+Forward Linear Prediction, Backward Linear Prediction, Optimum reflection coefficients for
+the Lattice Forward and Backward Predictors. Solution of the Normal Equations: Levinson
+Durbin Algorithm, Schur Algorithm. Properties of Linear Prediction Filters. FIR Wiener Filter,
+Orthogonality Principle in Linear Mean -Square Estimation.
+UNIT-IV:
+Parametric Methods of Power Spectrum Estimation: Autocorrelation & Its Properties, Relation
+between auto correlation & model parameters, AR Models - Yule-Waker & Burg Methods, MA
+& ARMA models for power spectrum estimation.
+UNIT-V:
+Finite Word Length Effects: Analysis of finite word length effects in Fixed-point DSP systems –
+Fixed, Floating Point Arithmetic – ADC quantization noise & signal quality – Finite word length
+effect in IIR digital Filters – Finite word-length effects
+UNIT-VI:
+Adaptive Filters: Gradient search Approach, Least Mean Square Algorithm, Recursive Least
+Squares, Kalman Filters Innovations Process, Estimation of the State Using the Innovations
+Process, Kalman Filter as the Unifying Basis for RLS Filters, Variations of the Kalman Filter.
+Applications of Adaptive Filters- System Identification or System Modelling, Adaptive Channel
+Equalization, Echo Cancellation in Data Transmission over Telephone Channels, Adaptive
+Noise Cancelling.
+VNRVJIET M.TECH. ES R18 CURRICULUM 29
+TEXT BOOKS:
+1. Digital Signal Processing: Principles, Algorithms & Applications, J. G. Proakis & D. G.
+Manolokis, 4th Ed., PHI, 2001
+2. Adaptive Filter Theory, S. Haykin Pearson, 2003
+3. DSP – A Practical Approach, Emmanuel C. I. Feacher, Barrie. W. Jervis, 2nd Ed., Pearson
+Education, 2008
+REFERENCES:
+1. Modern Spectral Estimation: Theory & Application, S. M. Kay, 1988, PHI
+2. Multirate Systems and Filter Banks, P. P. Vaidyanathan, Pearson Education, 1993
+3. Digital Signal Processing, S. Salivahanan, A. Vallavaraj, C. Gnanapriya, 2000, TMH
+VNRVJIET M.TECH. ES R18 CURRICULUM 30
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (ES) L T/P C
+0 3 1.5
+(18PC2VS01) SIMULATION AND SYNTHESIS WITH PLDs LABORATORY
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To provide familiarity with hardware description language Verilog HDL for modelling of
+combinational and sequential circuits
+• To understand the role of functional simulator in the validating the functionality of
+designed circuits
+• To understand the Synthesis of a designed digital circuits
+• To introduce the process of implementation of digital circuits on FPGA kits
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Apply CAD tools for the design of digital circuits
+CO-2: Appreciate the process of synthesizing a given digital circuits
+CO-3: Implement the specified digital circuits using FPGA
+LIST OF EXPERIMENTS:
+Implementation of the following designs on FPGA using Verilog HDL:
+1. 8:1 Mux/Demux, Full Adder, 8-bit Magnitude comparator, Encoder/decoder, Priority
+encoder, Parity generator
+2. Code converters
+3. D-FF,4-bitShiftregisters(SISO,SIPO,PISO,bidirectional),3-bitSynchronous Counters.
+4. Sequence generator/detectors, Synchronous FSM – Mealy and Moore machines.
+5. Vending machines - Traffic Light controller, ATM, elevator control.
+6. PCI Bus & Arbiter.
+7. Single and Dual portSRAM
+8. Arithmetic circuits like serialadder/subtractor,paralleladder/subtractor, serial/parallel
+multiplier
+VNRVJIET M.TECH. ES R18 CURRICULUM 31
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (ES) L T/P C
+0 3 1.5
+(18PC2ES01) PROCESSORS FOR EMBEDDED SYSTEM DESIGN LABORATORY
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To introduce the principles involved in the design and implementation of embedded
+systems
+• To provide familiarity with the basic concepts and terminology of the target area, the
+embedded systems design flow
+• To introduce the embedded system architecture
+• To introduce the methods of executive device control and testing
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Install, configure and utilize tool sets for developing applications based on ARM
+processor core and DSP processor
+CO-2: Develop prototype codes using commonly available on and off chip peripherals on
+the Cortex M3 and DSP development boards
+LIST OF EXPERIMENTS:
+Part A) Experiments to be carried out on Cortex-M3 development boards and using GNU
+tool-chain
+1. Blink an LED with software delay, delay generated using the SysTick timer.
+2. System clock real time alteration using the PLL modules.
+3. Control intensity of an LED using PWM implemented in software and hardware.
+4. Control an LED using switch by polling method, by interrupt method and flash the LED
+once every five switch presses.
+5. UART Echo Test.
+6. Take analog readings on rotation of rotary potentiometer connected to an ADC
+channel.
+7. Temperature indication on an RGB LED.
+8. Mimic light intensity sensed by the light sensor by varying the blinking rate of an LED.
+9. Evaluate the various sleep modes by putting core in sleep and deep sleep modes.
+10. System reset using watchdog timer in case something goes wrong.
+11. Sample sound using a microphone and display sound levels on LEDs.
+Part B) Experiments to be carried out on DSP C6713 evaluation kits and using Code Composer
+Studio (CCS)
+1. To develop an assembly code and C code to compute Euclidian distance between any
+two points
+2. To develop C code for generating waveforms like sine, square, triangular etc.
+3. To develop assembly and C code for implementation of convolution operation
+4. To design and implement filters in C to enhance the features of given input
+sequence/signal
+VNRVJIET M.TECH. ES R18 CURRICULUM 32
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (ES) L T/P C
+0 4 2
+(18PW4ES01) TECHNICAL SEMINAR
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Identify a research topic related to advanced/state-of-the-art technologies
+CO-2: Collect the literature and comprehend/analyze critically the technological
+advancements
+CO-3: Engage in effective oral communication through presentation of seminar
+CO-4: Engage in effective written communication through report
+COURSE OUTLINE:
+• A student shall present a seminar on a technical topic during I semester of the M.Tech.
+programme.
+• A student, under the supervision of a faculty member, shall collect literature on a
+technical topic of his / her choice, critically review the literature and submit it to the
+Seminar Review Committee (SRC) in a prescribed report form.
+• The SRC shall consist of Head of the Department, faculty supervisor and a senior faculty
+member of the specialization / department.
+• Student shall make an oral presentation before the SRC after clearing the plagiarism
+check.
+• Prior to the submission of seminar report to the SRC, its soft copy shall be submitted to the
+PG Coordinator for PLAGIARISM check.
+• The report shall be accepted for submission to the SRC only upon meeting the prescribed
+similarity index.
+VNRVJIET M.TECH. ES R18 CURRICULUM 33
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (ES) L T/P C
+2 0 0
+(18AU5CS01) RESEARCH METHODOLOGY AND IPR
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To introduce the characteristics of a good research problem
+• To choose appropriate approaches of investigation of solutions for research problem
+• To familiarize with basic Intellectual Property Rights
+• To understand different Patent Rights
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understand research problem formulation, analyze research related information and
+follow research ethics
+CO-2: Realize the importance of ideas, concept, and creativity in the present-day context
+CO-3: Recognize that when IPR would take such important place in growth of individuals
+and nation, it is needless to emphasize the need of information about IPR to be promoted
+among students in general and engineering in particular
+CO-4: Appreciate IPR protection which leads to creation of new and better products, and
+in turn brings about, economic growth and social benefits
+UNIT-I:
+Introduction: Meaning of research problem, Sources of research problem, Criteria
+Characteristics of a good research problem, Errors in selecting a research problem, Scope
+and objectives of research problem.
+Approaches of investigation of solutions for research problem, data collection, analysis,
+interpretation, necessary instrumentations.
+UNIT-II:
+Literature Survey: Effective literature studies approaches, analysis. Plagiarism, Research
+ethics.
+UNIT-III:
+Effective Technical Writing: How to write report, Paper. Developing a Research Proposal,
+Format of research proposal, a presentation and assessment by a review committee
+UNIT-IV:
+Nature of Intellectual Property: Patents, Designs, Trade and Copyright. Process of
+Patenting and Development: technological research, innovation, patenting, development.
+International Scenario: International cooperation on Intellectual Property. Procedure for
+grants of patents, Patenting under PCT.
+UNIT-V:
+Patent Rights: Scope of Patent Rights. Licensing and transfer of technology. Patent
+information and databases. Geographical Indications.
+UNIT-VI:
+New Developments in IPR: Administration of Patent System. New developments in IPR; IPR of
+Biological Systems, Computer Software etc. Traditional knowledge Case Studies, IPR.
+TEXT BOOKS:
+1. Research Methodology: An Introduction for Science & Engineering Students, Stuart
+Melville and Wayne Goddard
+VNRVJIET M.TECH. ES R18 CURRICULUM 34
+2. Research Methodology: An Introduction, Wayne Goddard and Stuart Melville
+3. Resisting Intellectual Property, Halbert, Taylor & Francis Ltd ,2007
+REFERENCES:
+1. Research Methodology: A Step-by-Step Guide for Beginners, Ranjit Kumar, 2nd Edition
+2. Research Methodology: Methods and Techniques, C. R. Kothari and Gaurav Garg, New
+Age International Publishers
+3. Intellectual Property in New Technological Age, Robert P. Merges, Peter S. Menell, Mark
+A. Lemley, 2016
+4. Intellectual Property Rights Under WTO, T. Ramappa, S. Chand, 2008
+VNRVJIET M.TECH. ES R18 CURRICULUM 35
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (ES) L T/P C
+3 0 3
+(18PC1ES03) SYSTEM DESIGN WITH EMBEDDED LINUX
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To provide a basic understanding of the Linux OS and the Eclipse IDE framework
+• To understand the complexities of Embedded Linux Distributions in embedded systems
+• To understand the process of configuring, booting and testing the Embedded Linux
+distributions and applications running on Embedded Linux target systems
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Appreciate the principles of the embedded Linux development model
+CO-2: Develop the code for profile applications and drivers in embedded Linux
+CO-3: Appreciate and create Linux BSP for a hardware platform
+UNIT-I:
+Introduction to Real Time Operating Systems: Characteristics of RTOS, Tasks Specifications
+and types, Real-Time Scheduling Algorithms, Concurrency, Inter-process Communication
+and Synchronization mechanisms, Priority Inversion, Inheritance and Ceiling.
+Embedded Linux Vs Desktop Linux, Embedded Linux Distributions, System calls, Static and
+dynamic libraries, Cross tool chains
+UNIT-II:
+Embedded Linux Architecture, Kernel Architecture – HAL, Memory manager, Scheduler, File
+System, I/O and Networking subsystem, IPC, User space, Start-up sequence
+UNIT-III:
+Board Support Package Embedded Storage: MTD, Architecture, Drivers, Embedded File
+System Embedded Device Drivers: Communication between user space and kernel space
+drivers, Character and Block Device Drivers, Interrupt handling, Kernel modules
+Embedded Drivers: Serial, Ethernet, I2 C, USB, Timer, Kernel Modules
+UNIT-IV:
+Porting Applications Real-Time Linux: Linux and Real time, Programming, Hard Real-time Linux
+UNIT-V:
+Building and Debugging: Bootloaders, Kernel, Root file system, Device Tree
+UNIT-VI:
+Embedded Linux Application Development, POSIX Thread programming, Semaphores,
+Mutes, Shared Memory, Message Queues, Case study on bringing up U-Boot, Linux Kernel
+and Root FS for popular Embedded Linux boards such as Beaglebone, Raspberry Pi
+TEXT BOOKS:
+1. Mastering Embedded Linux Programming, Chris Simmonds, Second Edition, PACKT
+Publications Limited.
+2. Building Embedded Linux Systems, Karim Yaghmour, O'Reilly & Associates
+3. Embedded Linux System Design and Development, P. Raghavan, Amol Lad, Sriram
+Neelakandan, Auerbach Publications
+REFERENCES:
+1. Embedded Linux Primer: A Practical Real World Approach, Christopher Hallinan, 2nd
+VNRVJIET M.TECH. ES R18 CURRICULUM 36
+Edition, Prentice Hall, 2010
+2. Exploring Beaglebone: Tools and Techniques for Building with Embedded Linux, Derek
+Molloy, 1st Edition, Wiley, 2014
+VNRVJIET M.TECH. ES R18 CURRICULUM 37
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (ES) L T/P C
+3 0 3
+(18PC1ES04) WIRELESS AND MOBILE COMMUNICATIONS
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To understand the principles of advanced multiple access techniques
+• To provide the understanding of diversity reception techniques
+• To provide an ability to understand principles of digital cellular systems
+• To provide the ability to synthesize and analyze wireless communication systems over a
+stochastic fading channel
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Explain the frequency-reuse concept in mobile communications, and its effects on
+interference, system capacity, handoff techniques
+CO-2: Distinguish various multiple-access techniques for mobile communications
+CO-3: Analyze path loss and interference for wireless telephony and their influences on a
+Mobile communication system’s performance
+CO-4: Appreciate functionality of CDMA system
+CO-5: Appreciate the developments in wireless technology
+UNIT-I:
+Cellular Communication Fundamentals: Cellular system design, Frequency reuse, cell
+splitting, handover concepts, Co channel and adjacent channel interference, interference
+reduction techniques and methods to improve cell coverage, Frequency management and
+channel assignment. GSM architecture and interfaces, GSM architecture details, GSM
+subsystems, GSM Logical Channels, Data Encryption in GSM, Mobility Management, Call
+Flows in GSM.2.5 G Standards: High speed Circuit Switched Data (HSCSD), General Packet
+Radio Service (GPRS), 2.75 G Standards: EDGE.
+UNIT-II:
+Spectral Efficiency Analysis Based on Calculations for Multiple Access Technologies: TDMA,
+FDMA and CDMA, Comparison of these technologies based on their signal separation
+techniques, advantages, disadvantages and application areas. Wireless network planning
+(Link budget and power spectrum calculations).
+UNIT-III:
+Mobile Radio Propagation: Large Scale Path Loss, Free Space Propagation Model, Reflection,
+Ground Reflection (Two-Ray) Model, Diffraction, Scattering, Practical Link Budget Design
+using Path Loss Models, Outdoor Propagation Models, Indoor Propagation Models, Signal
+Penetration into Buildings. Small Scale Fading and Multipath Propagation, Impulse Response
+Model, Multipath Measurements, Parameters of Multipath channels, Types of Small Scale
+Fading: Time Delay Spread; Flat, Frequency selective, Doppler Spread; Fast and Slow fading.
+UNIT-IV:
+Equalization, Diversity: Equalizers in a communications receiver, Algorithms for Adaptive
+equalization, diversity techniques, space, polarization, frequency diversity, Interleaving.
+UNIT-V:
+Code Division Multiple Access: Introduction to CDMA technology, IS 95 system Architecture,
+Air Interface, Physical and logical channels of IS 95, Forward Link and Reverse link operation,
+Physical and Logical channels of IS 95 CDMA, IS 95 CDMA Call Processing, soft Handoff,
+Evolution of IS 95 (CDMA One) to CDMA 2000, CDMA 2000 layering structure and channels.
+VNRVJIET M.TECH. ES R18 CURRICULUM 38
+UNIT-VI:
+Higher Generation Cellular Standards: 3G Standards: evolved EDGE, enhancements in 4G
+standard, Architecture and representative protocols, call flow for LTE, VoLTE, UMTS,
+introduction to 5G.
+TEXT BOOKS:
+1. Mobile Cellular Telecommunications, W. C. Y. Lee, McGraw Hill, 2nd Edition, 1989
+2. Wireless Communications, Theodore. S. Rapport, Pearson Education, 2nd Edition, 2002
+3. Mobile Cellular Communication, Gottapu Sashi Bhushana Rao, Pearson, 2012
+REFERENCES:
+1. Principle and Application of GSM, V.K. Garg, J.E. Wilkes, 5th Edition, Pearson Education,
+2008
+2. IS-95 CDMA & CDMA 2000, V.K. Garg, 4th Edition, Pearson Education, 2009
+3. Wireless Communications Principles and Practice, T. S. Rappaport, 2nd Edition, PHI, 2002
+4. Mobile Cellular Telecommunications Analog and Digital Systems, William C. Y. Lee, 2nd
+Edition, TMH, 1995
+5. A GSM System Engineering, Asha Mehrotra, Artech House Publishers Bosten, London, 1997
+VNRVJIET M.TECH. ES R18 CURRICULUM 39
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (ES) L T/P C
+3 0 3
+(18PC1CP03) MACHINE LEARNING
+COURSE PRE-REQUISITES: Statistics and Linear Algebra
+COURSE OBJECTIVE
+• To learn the concept of how to learn patterns and concepts from data
+• To design and analysis various machine learning algorithms and techniques with a
+modern outlook focusing on recent advances
+• Explore supervised and unsupervised learning paradigms of machine learning
+• To explore Deep learning technique and various feature extraction strategies
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understand wide variety of learning algorithms
+CO-2: Compare and contrast pros and cons of various machine learning techniques and to
+get an insight of when to apply a particular machine learning approach
+CO-3: Mathematically analyze various machine learning approaches and paradigms
+CO-4: Apply machine learning algorithms to solve problems of moderate complexity
+UNIT-I:
+Introduction: Basic definitions, types of learning, hypothesis space and inductive bias,
+evaluation, cross-validation, Over fitting and Under fitting,
+UNIT-II:
+Supervised Learning (Regression/Classification):
+Basic Methods: Distance-based methods, Nearest-Neighbours, Decision Trees, Bayes Rule
+&Naive Bayes
+Linear Models: Linear Regression, Logistic Regression
+Support Vector Machines, Nonlinearity and Kernel Methods
+UNIT-III:
+Unsupervised Learning:
+Clustering: K-means, adaptive hierarchical clustering
+Generative Model: Gaussian Mixture Model
+Dimensionality Reduction: PCA and kernel PCA
+UNIT-IV:
+Evaluating Machine Learning algorithms and Model Selection, Introduction to Statistical
+Learning Theory, Ensemble Methods (Boosting, Bagging, Random Forests)
+UNIT-V:
+Sparse Modeling and Estimation, Modeling Sequence/Time-Series Data, Deep Learning and
+Feature Representation Learning
+UNIT-VI:
+Other Topics in Machine Learning- Semi-supervised Learning, Active Learning, Reinforcement
+Learning, Collaborative filtering-based Recommendation Systems.
+TEXT BOOKS:
+1. Machine Learning: A Probabilistic Perspective, Kevin Murphy, MIT Press, 2012
+2. The Elements of Statistical Learning, Trevor Hastie, Robert Tibshirani, Jerome Friedman,
+Springer, 2009
+3. Pattern Recognition and Machine Learning, Christopher Bishop, Springer, 2007
+VNRVJIET M.TECH. ES R18 CURRICULUM 40
+REFERENCES:
+1. Machine Learning, Tom Mitchell, First Edition, McGraw-Hill, 1997
+2. Introduction to Machine Learning, Ethem Alpaydin, Second Edition, MIT Press, 2010
+VNRVJIET M.TECH. ES R18 CURRICULUM 41
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (ES) L T/P C
+3 0 3
+(18PE1ES06) SOC AND NOC ARCHITECTURE
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To understand the principles of system on chip design and its applications
+• To introduce the design principles of NOC
+• To understand the various computation models of SOC and NOC design
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Appreciate the design of a system architecture for the given performance indicators
+such as Power, Performance, Area
+CO-2: Differentiate and explain the principles of SOC and NOC design
+CO-3: Explain the role of system-level design and performance metrics in choosing a
+SOC/NOC design
+UNIT-I:
+Introduction to SoC Design. Multiprocessor SOC and Network on Chip. Low-Power SoC
+Design.
+UNIT-II:
+System Design: Co-Design using System Models Validation and Verification,
+Hardware/Software Co-Design Application Analysis, Synthesis.
+UNIT-III:
+Communication System: Separation of Computation and Communication. Communication-
+Centric SOC Design, Communication Synthesis. Network-Based Design, Network on Chip,
+Architecture of NOC.
+UNIT-IV:
+NOC Topology & Protocol Design: Analysis Methodology, NoC Topology, Energy Exploration,
+NOC Protocol Design.
+UNIT-V:
+Low-Power Design for NOC: Low-Power Signalling, On-Chip Serialization, Low-Power Clocking,
+Low-Power Channel Coding, Low-Power Switch, Low-Power Network on Chip Protocol.
+UNIT-VI:
+Example SOC/NOC Designs: Real Chip Implementation, Industrial Implementations, Intel’s
+Tera-FLOP 80-Core NOC, Intel’s Scalable Communication Architecture, Design case studies.
+TEXT BOOKS:
+1. Low Power NoC for High Performance SoC Design, Hoi-Junyoo, Kangmin Lee, Jun
+Kyoungkim, CRC Press, 2008
+2. A Platform-Centric Approach to System-on-Chip (SOC) Design, Vijay K. Madisetti,
+Chonlameth Arpikanondt, Springer, 2005
+VNRVJIET M.TECH. ES R18 CURRICULUM 42
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (ES) L T/P C
+3 0 3
+(18PE1ES07) NETWORK SECURITY AND CRYPTOGRAPHY
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To understand basic principles of Cryptography
+• To introduce the concept of providing Confidentiality and Authentication for the data
+and systems
+• To understand the principals involved in network security
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Explain modular arithmetic fundamentals and apply to public key cryptographic
+algorithms
+CO-2: Appreciate various network security protocols
+CO-3: Explore the attacks and countermeasures associated with E-mail, IP, transport-level
+and web security and System security
+UNIT-I:
+Introduction To Network Security and Cryptography: Need for security, security services,
+Attacks, OSI Security Architecture, Model for Network security, Classical Encryption
+Techniques, Cryptanalysis of Classical Encryption Techniques.
+UNIT-II:
+Private-Key (Symmetric) Cryptography: Block Ciphers, Stream Ciphers, Data Encryption
+Standard (DES), Block Cipher Design Principles and Modes of Operation, Advanced
+Encryption Standard (AES), Triple DES, RC5, IDEA, Linear and Differential Cryptanalysis,
+Placement of Encryption Function, Traffic Confidentiality.
+UNIT-III:
+Introduction to Number Theory: Fermat’s and Euler’s Theorem, The Chinese Remainder
+Theorem, Euclidean Algorithm, Extended Euclidean Algorithm, and Modular Arithmetic.
+Public-Key (Asymmetric) Cryptography- RSA, Key Distribution and Management, Diffie-
+Hellman Key Exchange, Elliptic Curve Cryptography.
+UNIT-IV:
+Authentication Standards: Digital Signatures, Digital Signature Standards, Authentication
+Protocols, Message Authentication Code, Hash functions, MD5 message digest algorithm,
+Secure Hash algorithm, RIPEMD-160, HMAC, Kerberos authentication, X.509 Authentication
+Service.
+UNIT-V:
+Electronic Mail Security: Pretty Good Privacy (PGP), S/MIME. IP security- Architecture,
+Authentication Header, Encapsulating Security Payload, Key Management. Web Security -
+Secure Socket Layer, Transport Layer Security, Secure Electronic Transaction.
+UNIT-VI:
+System Security: Intruders, Intrusion Detection, Password Management, Worms, viruses,
+Trojans, Virus Countermeasures, Firewalls, Firewall Design Principles, Trusted Systems.
+TEXT BOOKS:
+1. Cryptography and Network Security – Principles and Practices, William Stallings, Prentice
+Hall of India, Fourth Edition, 2005
+VNRVJIET M.TECH. ES R18 CURRICULUM 43
+2. Cryptography and Network Security, Behrouz A. Forouzan, Second Edition, McGraw Hill
+Education, 2007
+REFERENCES:
+1. Cryptography: Theory and Practice (Discrete Mathematics and Its Applications), D. R.
+Stinson, 3rd Edition, CRC Press
+2. Cryptography and Network Security, Atul Kahate, 2nd Edition, Tata McGraw Hill, 2008
+3. Applied Cryptography: Protocols, Algorithms, and Source Code in C, B. Schneier, 2nd
+Edition, John Wiley & Sons
+4. Network Security & Cryptography, Bernard Menezes, 1st Edition, Cengage Learning,
+Delhi, 2011
+VNRVJIET M.TECH. ES R18 CURRICULUM 44
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (ES) L T/P C
+3 0 3
+(18PE1ES08) ADVANCED COMPUTER ARCHITECTURE
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To understand the concepts of parallelism and pipelining with reference to computer
+architecture
+• To introduce about the issues in vector and array processors
+• To understand the concepts of multithreading and multiprocessor
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understand the concept of parallelism and pipelining their design aspects and
+challenges with respect to computer architecture
+CO-2: Appreciate the various issues involved in vector and array processors
+CO-3: Understand the high performance scalable multithreaded and multiprocessor systems
+UNIT-I:
+Parallel Processing and Pipelining Processing- Architectural Classification, Applications of
+parallel processing, Instruction level Parallelism and Thread Level Parallelism, Explicitly Parallel
+Instruction Computing (EPIC) Architecture
+UNIT-II:
+Pipeline Architecture-Principles and implementation of Pipelining, Classification of pipelining
+processors, Design aspect of Arithmetic and Instruction pipelining, Pipelining hazards and
+resolving techniques, Data buffering techniques, Advanced pipelining techniques, Software
+pipelining, VLIW (Very Long Instruction Word) processor.
+UNIT-III:
+Vector and Array Processor- Issues in Vector Processing, Vector performance modelling, SIMD
+Computer Organization, Static Vs Dynamic network, Parallel Algorithms for Array Processors:
+Matrix Multiplication.
+UNIT-IV:
+Multiprocessor Architecture - Loosely and Tightly coupled multiprocessors, Inter Processor
+communication network, Time shared bus, Multiport Memory Model, Memory contention and
+arbitration techniques, Cache coherency and bus snooping, Massively Parallel Processors
+(MPP).
+UNIT-V:
+Multithreaded Architecture- Multithreaded processors, Latency hiding techniques, Principles
+of multithreading, Issues and solutions, Parallel Programming Techniques: Message passing
+program development.
+UNIT-VI:
+VLIW processors, Case study: Superscalar Architecture- Pentium, Intel Itanium Processor, Ultra
+SPARC, MIPS on FPGA, Vector and Array Processor, FFT Multiprocessor Architecture
+VNRVJIET M.TECH. ES R18 CURRICULUM 45
+TEXT BOOKS:
+1. Computer Architecture and Parallel Processing, Kai Hwang, Faye A. Briggs, McGraw Hill
+Education, 2012
+2. Advanced Computer Architecture, Kai Hwang, McGraw Hill Education, 1993
+3. Computer Organization and Architecture, Designing for Performance, William Stallings,
+Prentice Hall, 6th Edition, 2006
+REFERENCES:
+1. Scalable Parallel Computing, Kai Hwang, McGraw Hill Education, 1998
+2. High-Performance Computer Architecture, Harold S. Stone, Addison-Wesley, 1993
+VNRVJIET M.TECH. ES R18 CURRICULUM 46
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (ES) L T/P C
+3 0 3
+(18PE1VS08) IMAGE AND VIDEO PROCESSING
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To introduce the fundamental differences between image and video processing
+• To understand various filtering operations essential for image/video processing
+• To introduce the concept of compression with reference to image and video
+• To introduce the principles of multi-dimensional estimation with reference to a video
+signal
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understand the fundamentals of digital image processing
+CO-2: Appreciate the advantages of compression in image /video processing
+CO-3: Understand the concepts of video formation, sampling and representation
+CO-4: Understand the principles of motion estimation in a video
+UNIT-I:
+Fundamentals of Image Processing: Basic steps of Image processing system sampling and
+quantization of an Image – Basic relationship between pixels
+Image Transforms: 2 – D Discrete Fourier Transform, Discrete Cosine Transform (DCT),
+Introduction to wavelet Transform, Continuous wavelet Transform, Discrete wavelet
+Transform, Filter banks
+UNIT-II:
+Image Enhancement:
+Spatial Domain Methods: Histogram Processing, Fundamentals of Spatial Filtering, Smoothing
+Spatial filters, Sharpening Spatial filters
+Frequency Domain Methods: Basics of filtering in frequency domain, image smoothing,
+image sharpening, selective filtering
+UNIT-III:
+Segmentation: Segmentation concepts, Point, Line and Edge Detection, Edge Linking using
+Hough Transform, Thresholding, Region Based segmentation.
+Morphological Image Processing
+Dilation and Erosion, Opening and closing, the hit or miss Transformation, Overview of Digital
+Image Watermarking Methods
+UNIT-IV:
+Image Compression: Image compression fundamentals – Coding Redundancy, Spatial and
+Temporal Redundancy. Compression Models: Lossy and Lossless, Huffmann Coding,
+Arithmetic Coding, LZW Coding, Run Length Coding, Bit Plane Coding, Transform Coding,
+Predictive Coding, Wavelet Coding, Wavelet Based Image Compression, JPEG standards.
+Image Restoration: Degradation Models, PSF, Circulant and Block - Circulant Matrices,
+Deconvolution, Restoration Using Inverse Filtering, Wiener Filtering.
+UNIT-V:
+Basic Steps of Video Processing: Analog video, Digital Video, Time varying Image Formation
+Models: 3D Motion Models, Geometric Image Formation, Photometric Image Formation,
+Sampling of Video Signals, Filtering Operations
+VNRVJIET M.TECH. ES R18 CURRICULUM 47
+UNIT-VI:
+2-D Motion Estimation: Optical Flow, General Methodologies, Pixel Based Motion Estimation,
+Block Matching Algorithm, Mesh based Motion Estimation, Global Motion Estimation, Region
+based Motion Estimation, Multi Resolution Motion Estimation. Waveform based Coding, Block
+based Transform Coding, Predictive Coding, Application of Motion Estimation in video
+Coding.
+TEXT BOOKS:
+1. Digital Image Processing, Gonzaleze and Woods,3rd Ed., Pearson
+2. Video Processing and Communication, Yao Wang, Joern Ostermann and Ya-Qin Zhang, I
+Ed., Prentice Hall
+REFERENCES:
+1. Digital Video Processing, M. Tekalp, Prentice Hall International
+VNRVJIET M.TECH. ES R18 CURRICULUM 48
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (ES) L T/P C
+3 0 3
+(18PE1ES09) SENSORS AND ACTUATORS
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To provide the ability to understand the operating principles of sensors and transducers
+• To appreciate the applications of various sensors and transducers
+• To provide the ability to develop an application specific automated system using
+sensors, actuators and embedded controllers
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Appreciate the operational features of various sensors and actuators
+CO-2: Explain the working of a sensor-based measurement system
+CO-3: Apply the knowledge of the sensors and actuators in building an application specific
+automated system
+UNIT-I:
+Sensors / Transducers: Principles, Classification, Parameters, Characteristics, Environmental
+Parameters (EP), Characterization
+Mechanical and Electromechanical Sensors: Introduction, Resistive Potentiometer, Strain
+Gauge, Resistance Strain Gauge, Semiconductor Strain Gauges
+Inductive Sensors: Sensitivity and Linearity of the Sensor, Types
+Capacitive Sensors: Electrostatic Transducer, Force/Stress Sensors Using Quartz Resonators,
+Ultrasonic Sensors
+UNIT-II:
+Thermal Sensors: Introduction, Gas thermometric Sensors , Thermal Expansion Type
+Thermometric Sensors, Acoustic Temperature Sensor, Dielectric Constant and Refractive
+Index thermo sensors, Helium Low Temperature Thermometer, Nuclear Thermometer,
+Magnetic Thermometer, Resistance Change Type Thermometric Sensors, Thermo emf Sensors,
+Junction Semiconductor Types, Thermal Radiation Sensors, Quartz Crystal Thermoelectric
+Sensors, NQRT Thermometry, Spectroscopic Thermometry, Noise Thermometry, Heat Flux
+Sensors
+UNIT-III:
+Magnetic Sensors: Introduction, Sensors and the Principles Behind, Magneto resistive Sensors,
+Anisotropic Magneto resistive Sensing, Semiconductor Magneto resistors, Hall Effect and
+Sensors, Inductance and Eddy Current Sensors, Angular/Rotary Movement Transducers,
+Synchros, Synchro- resolvers, Eddy Current Sensors, Electromagnetic Flow meter, Switching
+Magnetic Sensors SQUID Sensors
+UNIT-IV:
+Radiation Sensors: Introduction, Basic Characteristics, Types of Photo sensistors/Photo
+detectors, X, ray and Nuclear Radiation Sensors, Fiber Optic Sensors
+Electro Analytical Sensors: Introduction, The Electrochemical Cell, The Cell Potential,
+Standard Hydrogen Electrode (SHE), Liquid Junction and Other Potentials, Polarization,
+Concentration Polarization, Reference Electrodes, Sensor Electrodes, Electro ceramics in Gas
+Media.
+UNIT-V:
+Smart Sensors: Introduction, Primary Sensors, Excitation, Amplification, Filters, Converters,
+Compensation, Information Coding/Processing, Data Communication, Standards for Smart
+VNRVJIET M.TECH. ES R18 CURRICULUM 49
+Sensor Interface, The Automation Sensors ,
+Applications: Introduction, On-board Automobile Sensors (Automotive Sensors), Home
+Appliance Sensors, Aerospace Sensors, Sensors for Manufacturing, Sensors for environmental
+Monitoring
+UNIT-VI:
+Pneumatic and Hydraulic Actuation Systems: Actuation systems, Pneumatic and hydraulic
+systems, Directional Control valves, Pressure control valves, Cylinders, Servo and proportional
+control valves, Process control valves, Rotary actuators.
+Mechanical Actuation Systems: Types of motion, Kinematic chains, Cams, Gears, Ratchet
+and pawl, Belt and chain drives, Bearings, Mechanical aspects of motor selection.
+Electrical Actuation Systems: Electrical systems, Mechanical switches, Solid state switches
+Solenoids, D.C. Motors, A.C. motors, Stepper motors.
+TEXT BOOKS:
+1. Sensors and Transducers, D. Patranabis, PHI Learning Private Limited
+2. Mechatronics, W. Bolton, Pearson Education Limited
+REFERENCES:
+1. Sensors and Actuators, D. Patranabis, 2nd Ed., PHI, 2013
+VNRVJIET M.TECH. ES R18 CURRICULUM 50
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (ES) L T/P C
+3 0 3
+(18PE1ES10) HIGH PERFORMANCE NETWORKS
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To introduce the evolution of communication networks and ways of enhancing their
+performance
+• To understand the layered structure of communication networks
+• To introduce the concepts of VOIP and VPN networks
+• To introduce the concepts of the Network Security and Network Management
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Appreciate various services offered by communication networks
+CO-2: Understand the various issues in the design of VOIP and VPN networks
+CO-3: Understand the statistics associated with the network traffic
+CO-4: Appreciate the functionalities of various layers of a communication network and
+various stages of network management
+UNIT-I:
+Types of Networks, Network design issues, Data in support of network design. Network design
+tools, protocols and architecture. Streaming stored Audio and Video, Best effort service,
+protocols for real time interactive applications, beyond best effort, scheduling and policing
+mechanism, integrated services, and RSVP-differentiated services.
+UNIT-II:
+VoIP system architecture, protocol hierarchy, Structure of a voice endpoint, Protocols for the
+transport of voice media over IP networks. Providing IP quality of service for voice, signalling
+protocols for VoIP, PSTN gateways, VoIP applications.
+UNIT-III:
+VPN-Remote-Access VPN, site-to-site VPN, Tunnelling to PPP, Security in VPN. MPLS operation,
+Routing, Tunneling and use of FEC, Traffic Engineering, MPLS based VPN, overlay networks-
+P2P connections.
+UNIT-IV:
+Traffic Modelling: Little’s theorem, Need for modelling, Poisson modelling, Non-poison models,
+Network performance evaluation.
+UNIT-V:
+Network Security and Management: Principles of cryptography, Authentication, integrity, key
+distribution and certification, Access control and fire walls, attacks and counter measures,
+security in many layers.
+UNIT-VI:
+Infrastructure for network management, Internet standard management framework – SMI,
+MIB, SNMP, Security and administration, ASN.
+TEXT BOOKS:
+1. High-Speed Networks: TCP/IP and ATM Design Principles, Stallings W., Prentice Hall, 1998
+2. Communication Networks, Leon Garcia, Widjaja, 7th Reprint TMH, 2002
+3. Network Security, Essentials, William Stalling, 4th Edition, Pearson Education Asia
+Publication, 2011
+VNRVJIET M.TECH. ES R18 CURRICULUM 51
+REFERENCES:
+1. Telecommunications Network Design Algorithms, Kershenbaum A., Tata McGraw Hill, 1993
+2. Computer Networks: A System Approach, Larry Peterson & Bruce David, Morgan
+Kaufmann, 2003
+3. IP Telephony: The Integration of Robust VoIP Services, Douskalis B.,Pearson Ed. Asia, 2000
+4. High-Performance Communication Networks, Warland J., Varaiya P., Morgan Kaufmann,
+1996
+VNRVJIET M.TECH. ES R18 CURRICULUM 52
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (ES) L T/P C
+0 3 1.5
+(18PC2ES02) SYSTEM DESIGN WITH EMBEDDED LINUX LABORATORY
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To introduce the principles involved in the development of Linux based systems
+• To understand the concepts programmable real time embedded system
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Demonstrate the difference between process and thread with reference to an
+embedded operating system
+CO-2: Develop coding using system calls
+CO-3: Appreciate the necessity of Inter Process Communication and synchronization
+mechanisms
+CO-4: Apply the concept of RTOS in the design of real time systems
+LIST OF EXPERIMENTS:
+Develop a program in Embedded Linux for the following:
+1. Create new process using fork ().
+2. Communicate between parent and child process using pipes and FIFOs.
+3. Develop a program using system calls that is similar to ‘cp’ command.
+4. Create a new thread using POSIX Thread library
+5. Develop a program to demonstrate the use of synchronizing access to shared resource
+using semaphores. (POSIX Thread based)
+6. Develop a program to demonstrate the use of synchronizing access to shared resource
+using mutex (POSIX Thread based)
+7. Develop a program to communicate between processes using message queue.
+8. Develop a program to demonstrate the use of signaling semaphore for sending event
+from one thread to another. (POSIX Thread based)
+VNRVJIET M.TECH. ES R18 CURRICULUM 53
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (ES) L T/P C
+0 3 1.5
+(18PC2ES03) MACHINE LEARNING AND WIRELESS COMMUNICATION LABORATORY
+COURSE OBJECTIVES:
+• To learn the principles of patterns with reference to data
+• To introduce the applications of machine learning algorithms and techniques
+• To explore supervised and unsupervised learning paradigms of machine learning
+• To understand the modelling of fading communication channels
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Appreciate the machine learning algorithms and their comparison
+CO-2: Understand the Mathematical analysis
+CO-3: Apply machine learning algorithms to solve problems of moderate complexity
+CO-4: Appreciate the effect of fading on the performance of communication channel
+MACHINE LEARNING:
+WEEK 1: Import or Export data, Data Visualization and Data shaping.
+WEEK 2: Outlier Detection, Data Cleaning
+WEEK 3: Classification of Data using Decision Trees.
+WEEK 4: Implementing Naive Bayes Algorithm.
+WEEK 5: Implementation of K Nearest-Neighborhood Algorithm.
+WEEK 6: Implementation of K Means Algorithm.
+WEEK 7: Implementation of Support Vector Machine (SVM) Algorithm.
+WEEK 8: Implementation of Ensemble Learning.
+WIRELESS COMMUNICATION:
+WEEK 9: Implementation of collaborative filtering algorithm for recommender system.
+WEEK 10: Free Space Propagation – Path Loss Model
+WEEK 11: Outdoor Propagation – Okumura Model
+WEEK 12: Outdoor Propagation – Hata Model
+TEXT BOOKS:
+1. Machine Learning With R, Brett Lantz, Second Edition, Packt Publishing, 2015
+VNRVJIET M.TECH. ES R18 CURRICULUM 54
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (ES) L T/P C
+0 4 2
+(18PW4ES02) MINI-PROJECT
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understand the formulated industry / technical / societal problems
+CO-2: Analyze and / or develop models for providing solution to industry / technical /
+societal problems
+CO-3: Interpret and arrive at conclusions from the project carried out
+CO-4: Demonstrate effective communication skills through oral presentation
+CO-5: Engage in effective written communication through project report
+COURSE OUTLINE:
+• A student shall undergo a mini-project during II semester of the M.Tech. programme.
+• A student, under the supervision of a faculty member, shall collect literature on an
+allotted project topic of his / her choice, critically review the literature, carry out the mini-
+project, submit it to the department in a prescribed report form.
+• Evaluation of the mini-project shall be done by a Project Review Committee (PRC)
+consisting of the Head of the Department, faculty supervisor and a senior faculty
+member of the specialization / department.
+• Prior to the submission of mini-project report to the PRC, its soft copy shall be submitted to
+the PG Coordinator for PLAGIARISM check.
+• The mini-project report shall be accepted for submission to the PRC only upon meeting
+the prescribed similarity index.
+VNRVJIET M.TECH. ES R18 CURRICULUM 55
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (ES) L T/P C
+2 0 0
+(18AU5EN01) ENGLISH FOR ACADEMIC AND RESEARCH WRITING
+COURSE OBJECTIVES:
+• To understand the usage of appropriate vocabulary (Formal, Informal, Gender Insensitive
+etc.)
+• To understand the features and processes of academic writing
+• To identify the resources
+• To understand standard documentation styles
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Use appropriate vocabulary (Formal, Informal, Slang, Gender Insensitive etc.)
+CO-2: Employ processes of academic writing
+CO-3: Identify the resources
+CO-4: Understand standard documentation styles
+UNIT- I:
+Introduction to Research:
+i. Identifying the topic
+ii. Identifying Sources; Finding Sources
+iii. Defining the broad area; Defining the specific area; Difference between a broad
+area and specific area
+iv. Choosing a topic
+v. Mechanics of Writing – Language, Tone, Style, Ethics
+UNIT-II:
+Referencing & Library Skills:
+i. Literature Survey
+ii. Writing Objectives
+iii. Hypothesis
+iv. Methodology
+v. Prospects for Future Research
+UNIT-III:
+Academic Writing Skills:
+i. Paraphrasing
+ii. Summarizing
+iii. Quoting
+iv. Rewriting
+v. Expansion
+UNIT-IV:
+Kinds of Academic Writing:
+i. Essays
+ii. Reports
+iii. Reviews
+iv. SOPs
+v. Abstracts
+vi. Proposals
+UNIT-V:
+Research Process:
+i. Selection of Topic
+VNRVJIET M.TECH. ES R18 CURRICULUM 56
+ii. Formulation of Hypothesis
+iii. Collection of Data
+iv. Analysis of Data
+v. Interpretation of Data
+vi. Presentation of Data
+UNIT-VI:
+i. Title
+ii. Abstract
+iii. Introduction
+iv. Literature Survey
+v. Methodology
+vi. Discussion
+vii. Findings/Results
+viii. Conclusion
+ix. Documenting Sources
+TEXT BOOKS:
+1. Writing for Science, Goldbort R., Yale University Press (available on Google Books), 2006
+2. Handbook of Writing for the Mathematical Sciences, Highman N., SIAM. Highman’s Book,
+1998
+REFERENCES:
+1. How to Write and Publish a Scientific Paper, Day R., Cambridge University Press, 2006
+2. English for Writing Research Papers, Adrian Wall Work, Springer New York Dordrecht
+Heidelberg London, 2011
+3. MLA Handbook for Research
+VNRVJIET M.TECH. ES R18 CURRICULUM 57
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester (ES) L T/P C
+3 0 3
+(18OE1MT01) SELECTED TOPICS IN MATHEMATICS
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To demonstrate accurate and efficient use of specific techniques from the mathematical
+sciences
+• To demonstrate capacity for mathematical reasoning through analyzing, proving and
+explaining concepts from the mathematical sciences
+• To formulate and solve some of problems in natural sciences and engineering by using
+probabilistic setup
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Characterize and represent data collected from experiments using statistical methods
+CO-2: Model physical process/systems with multiple variables towards parameter estimation
+and prediction
+CO-3: Represent systems/architectures using graphs and tree towards optimized objective
+UNIT-I:
+Probability and Statistics: Conditional probability, Bayes Theorem and independent events.
+Random Variables: Discrete, continuous and mixed random variables, probability mass,
+probability density and cumulative distribution functions, mathematical expectation,
+moments, moment generating function, Chebyshev inequality.
+UNIT-II:
+Special Distributions: uniform, Binomial, Geometric, Poisson, Exponential, Gamma, Normal
+distributions-Pseudo random sequence generation with given distribution, Functions of a
+Random Variable
+UNIT-III:
+Joint Distributions: Joint, marginal and conditional distributions, product moments,
+correlation, independence of random variables, bi-variate normal distribution.- Stochastic
+Processes: Definition and classification of stochastic processes, Poisson process - Norms,
+Statistical methods for ranking data
+UNIT-IV:
+Multivariate Data Analysis- Linear and non-linear models, Regression Prediction and
+Estimation, Design of Experiments – factorial method - Response surface method
+UNIT-V:
+Graphs and Trees: Graphs: Basic terminology, multi graphs and weighted graphs, paths and
+circuits, shortest path Problems, Euler and Hamiltonian paths and circuits, factors of a graph,
+planar graph and Kuratowski’s graph and theorem, independent sets, graph coloring
+UNIT-VI:
+Trees: Rooted trees, path length in rooted trees, binary search trees, spanning trees and cut
+set, theorems on spanning trees, cut sets , circuits, minimal spanning trees, Kruskal’s and
+Prim’s algorithms for minimal spanning.
+REFERENCES:
+1. Probability and Random Process with Applications to Signal Processing, Henry Stark, John
+W. Woods, 3rd Edition, Pearson Education, 2003
+VNRVJIET M.TECH. ES R18 CURRICULUM 58
+2. Elements of Discrete Mathematics, C. L. Liu, 2nd Edition, Tata McGraw-Hill, 1999
+3. Introduction to Linear Regression Analysis, Douglas C. Montgomery, E. A. Peck and G. G.
+Vining, John Wiley and Sons, 2001
+4. Design and Analysis of Experiments, Douglas C. Montgomery, John Wiley and Sons, 2001
+5. Random Phenomena: Fundamentals of Probability and Statistics for Engineers, B. A.
+Ogunnaike, CRC Press, 2010
+VNRVJIET M.TECH. ES R18 CURRICULUM 59
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester (ES) L T/P C
+3 0 3
+(18PE1ES11) WIRELESS SENSOR NETWORKS
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES
+• To introduce WSN technology and supporting protocols, with an emphasis on
+standardized sensor systems
+• To introduce medium access control protocols and various issues in a physical layer
+• To understand the key routing protocols for sensor networks and their design issues
+• To understand sensor management in networks and design requirements
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Appreciate various design issues of wireless sensor networks
+CO-2: Understand the hardware details of different types of sensors and select the
+application specific sensor
+CO-3: Understand radio standards and communication protocols to be used for wireless
+sensor networks
+UNIT-I:
+Introduction and overview of sensor network architecture and its applications, sensor
+network comparison with Ad Hoc Networks, Sensor node architecture with hardware and
+software details.
+UNIT-II:
+Hardware: Examples like mica2, micaZ, telosB, cricket, Imote2, tmote, btnode, and Sun SPOT,
+Software (Operating Systems): TinyOS, MANTIS, Contiki, and RetOS.
+UNIT-III:
+Programming Tools: C, nesC. Performance comparison of wireless sensor networks simulation
+and experimental platforms like open source (ns-2) and commercial (QualNet, Opnet)
+UNIT-IV:
+Overview of Sensor Network Protocols (Details of atleast 2 important protocol per layer):
+Physical, MAC and routing/ Network layer protocols, node discovery protocols, multi- hop
+and cluster based protocols, Fundamentals of 802.15.4, Bluetooth, BLE (Bluetooth low
+energy), UWB.
+UNIT-V:
+Data Dissemination and Processing: Differences compared with other database
+management systems, data storage; query processing.
+UNIT-VI:
+Specialized Features: Energy preservation and efficiency; security challenges; Fault
+tolerance, Issues related to Localization, connectivity and topology, Sensor deployment
+mechanisms; coverage issues; sensor Web; sensor Grid, Open issues for future research, and
+Enabling technologies in wireless sensor network.
+TEXT BOOKS:
+1. Wireless Sensor Networks Technology, Protocols, and Applications, Kazem Sohraby, Daniel
+Minoli, Taieb Znati, John Wiley & Sons, 2007
+2. Protocols and Architectures for Wireless Sensor Networks, H. Karl and A. Willig, John Wiley
+& Sons, India, 2012
+VNRVJIET M.TECH. ES R18 CURRICULUM 60
+3. Wireless Sensor Networks, C. S. Raghavendra, K. M. Sivalingam, and T. Znati, Editors, 1st
+Indian Reprint, Springer Verlag, 2010
+REFERENCES:
+1. Wireless Sensor Networks: An Information Processing Approach, F. Zhao and L. Guibas, 1st
+Indian Reprint, Morgan Kaufmann, 2013
+2. Wireless Sensor Network and Applications, Yingshu Li, My T. Thai, Weili Wu, Springer Series
+on Signals and Communication Technology, 2008
+3. Principles of Mobile Communications, Gordon L. Stuber, Springer International, 2nd Edition,
+2001
+VNRVJIET M.TECH. ES R18 CURRICULUM 61
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester (ES) L T/P C
+3 0 3
+(18PE1VS09) MEMORY TECHNOLOGIES
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To introduce the concepts of memory and its classification
+• To understand the issues associated with the selection of application specific memory
+unit
+• To introduce the recent advancements in the design of semiconductor memories
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Select architecture and design semiconductor memory circuits and subsystems
+CO-2: Identify various fault models, modes and mechanisms in semiconductor memories and
+their testing procedures.
+CO-3: Knowhow of the state-of-the-art memory chip design
+UNIT I:
+Random Access Memory Technologies: Static Random Access Memories (SRAMs), SRAM Cell
+Structures, MOS SRAM Architecture, MOS SRAM Cell and Peripheral Circuit operation, Bipolar
+SRAM technologies, Advanced SRAM Architectures and technologies, Application Specific
+SRAMs.
+UNIT II:
+Dynamic Random Access Memory: DRAM technology Development, MOS DRAM Cell theory
+and advanced cell structures, Bi-CMOS DRAM, Error Failures in DRAM, Advanced DRAM
+Design and Architecture, Application Specific DRAMs. SRAM and DRAM Memory controllers.
+UNIT III:
+Non-Volatile Memories: Masked ROMs, High Density ROM, PROMs, Bipolar ROM, CMOS
+PROM, EEPROMs, Floating Gate EPROM Cell, One time programmable EPROM, EEPROM
+technology and architecture, Non-volatile SRAM, Flash Memories.
+UNIT IV:
+Semiconductor Memory Reliability and Radiation Effects: General Reliability Issues, RAM
+Failure modes and mechanism, Non-volatile Memory reliability, reliability modeling and
+failure rate prediction. Design for reliability, Reliability Test structures, screening and
+qualification, Radiation Effects, Single Event Phenomenon (SEP), Radiation Hardening
+Techniques, process and design issues. Radiation Hardened Memory Characteristics,
+Radiation Hardness Assurance and Testing.
+UNIT V:
+Advanced Memory Technologies and High-density Memory Packing Technologies
+Ferroelectric Random Access Memories (FRAMs), Gallium Arsenide (GaAs) FRAMs, Analog
+Memories, Magneto Resistive Random Access Memories (MRAMs), Experimental Memory
+Devices.
+UNIT VI:
+Memory Hybrids (2D & 3D), Memory Stacks, Memory MCM Testing and Reliability Issues,
+Memory Cards, High Density Memory Packaging.
+TEXT BOOKS:
+1. Advanced Semiconductor Memories: Architectures, Designs and Applications, Ashok K.
+VNRVJIET M.TECH. ES R18 CURRICULUM 62
+Sharma, Wiley-IEEE Press, 2002 (ISBN: 978-0-471-20813-6)
+2. VLSI Memory Chip Design, KiyooItoh, Springer Series, 2001 (ISBN: 978-3-662-04478-0)
+REFERENCES:
+1. Semiconductor Memories: Technology, Testing and Reliability, Ashok K. Sharma, Wiley-
+Blackwell, Sep 2002
+2. Modern Semiconductor Devices for Integrated Circuits, Chenming C. Hu, 1st Edition,
+Pearson, April 2009
+VNRVJIET M.TECH. ES R18 CURRICULUM 63
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester (ES) L T/P C
+3 0 3
+(18OE1CN01) BUSINESS ANALYTICS
+COURSE OBJECTIVES:
+• To understand the role of business analytics within an organization and to analyze data
+using statistical and data mining techniques and understand relationships between the
+underlying business processes of an organization
+• To gain an understanding of how managers use business analytics to formulate and solve
+business problems and to support managerial decision making and to become familiar
+with processes needed to develop, report, and analyze business data
+• To use decision-making tools/Operations research techniques and to manage business
+process using analytical and management tools
+• To analyze and solve problems from different industries such as manufacturing, service,
+retail, software, banking and finance, sports, pharmaceutical, aerospace etc.
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Apply knowledge of data analytics
+CO-2: Think critically in making decisions based on data and deep analytics
+CO-3: Use technical skills in predicative and prescriptive modeling to support business
+decision-making
+CO-4: Translate data into clear, actionable insights
+UNIT-I:
+Business Analytics: Overview of Business analytics, Scope of Business analytics, Business
+Analytics Process, Relationship of Business Analytics Process and organization, competitive
+advantages of Business Analytics.
+Statistical Tools: Statistical Notation, Descriptive Statistical methods, Review of probability
+distribution and data modelling, sampling and estimation methods overview.
+UNIT-II:
+Trendiness and Regression Analysis: Modelling Relationships and Trends in Data, simple
+Linear Regression. Important Resources, Business Analytics Personnel, Data and models for
+Business analytics, problem solving, Visualizing and Exploring Data Business Analytics
+Technology.
+UNIT-III:
+Organization Structures of Business analytics, Team management, Management Issues,
+Designing Information Policy, Outsourcing, Ensuring Data Quality, Measuring contribution of
+Business analytics, Managing Changes.
+Descriptive Analytics, predictive analytics, predicative Modelling, Predictive analytics
+analysis, Data Mining, Data Mining Methodologies, Prescriptive analytics and its step in the
+business analytics Process, Prescriptive Modelling, nonlinear Optimization.
+UNIT-IV:
+Forecasting Techniques: Qualitative and Judgmental Forecasting, Statistical Forecasting
+Models, Forecasting Models for Stationary Time Series, Forecasting Models for Time Series
+with a Linear Trend, Forecasting Time Series with Seasonality, Regression Forecasting with
+Casual Variables, Selecting Appropriate Forecasting Models.
+Monte Carlo Simulation and Risk Analysis: Monte Carle Simulation Using Analytic Solver
+Platform, New-Product Development Model, Newsvendor Model, Overbooking Model, Cash
+Budget Model.
+VNRVJIET M.TECH. ES R18 CURRICULUM 64
+UNIT-V:
+Decision Analysis: Formulating Decision Problems, Decision Strategies without Outcome
+Probabilities, Decision Trees, The Value of Information, Utility and Decision Making.
+UNIT-VI:
+Recent trends in Embedded and collaborative business intelligence, Visual data recovery,
+Data Storytelling and Data journalism.
+TEXT BOOKS:
+1. Business Analytics-Principles, Concepts, and Applications, Marc J. Schniederjans, Dara G.
+Schniederjans, Christopher M. Starkey, Pearson FT Press
+2. Business Analytics, James Evans, Pearson Education
+3. Business Analytics, Purba Halady Rao, PHI, 2013
+REFERENCES:
+1. Business Analytics for Managers: Taking Business Intelligence Beyond Reporting, Gert H. N.
+Laursen, Jesper Thorlund, 2nd Edition, Wiley Publications
+2. Business Analytics: Data Analysis & Decision Making, S. Christian Albright, Wayne L.
+Winston 5th Edition, 2015
+3. Business Intelligence Guidebook: From Data Integration to Analytics, Rick Sherman
+Elsevier, 2014
+VNRVJIET M.TECH. ES R18 CURRICULUM 65
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester (ES) L T/P C
+3 0 3
+(18OE1AM01) INDUSTRIAL SAFETY
+COURSE PRE-REQUISITES: Elements of Mechanical, Civil, Electrical and Industrial Engineering
+COURSE OBJECTIVES:
+• To achieve an understanding of principles, various functions and activities of safety
+management
+• To communicate effectively information on Health safety and environment facilitating
+collaboration with experts across various disciplines so as to create and execute safe
+methodology in complex engineering activities
+• To anticipate, recognize, and evaluate hazardous conditions and practices affecting
+people, property and the environment, develop and evaluate appropriate strategies
+designed to mitigate risk
+• To develop professional and ethical attitude with awareness of current legal issues by
+rendering expertise to wide range of industries
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Apply risk management principles to anticipate, identify, evaluate and control
+physical, chemical, biological and psychosocial hazards
+CO-2: Communicate effectively on health and safety matters among the employees and
+with society at large
+CO-3: Demonstrate the use of state-of-the-art occupational health and safety practices in
+controlling risks of complex engineering activities and understand their limitations
+CO-4: Interpret and apply legislative / Legal requirements, industry standards, and best
+practices in accident prevention programmes in a variety of workplaces
+UNIT-I:
+Safety Management: Evaluation of modern safety concepts – Safety management functions
+– safety organization, safety department – safety committee, safety audit - performance
+measurements and motivation – employee participation in safety and productivity.
+UNIT-II:
+Operational Safety: Hot metal Operation – Boiler, pressure vessels – heat treatment shop - gas
+furnace operation-electroplating-hot bending pipes – Safety in welding and cutting. Cold-
+metal Operation- Safety in Machine shop-Cold bending and chamfering of pipes – metal
+cutting – shot blasting, grinding, painting – power press and other machines
+UNIT-III:
+Safety Measures: Layout design and material handling - Use of electricity – Management of
+toxic gases and chemicals – Industrial fires and prevention – Road safety– Safety of sewage
+disposal and cleaning – Control of environmental pollution – Managing emergencies in
+industrial hazards.
+UNIT-IV:
+Accident Prevention: Human side of safety – personal protective equipment – Causes and
+cost of accidents. Accident prevention programmes - Specific hazard control strategies -
+HAZOP – Training and development of employees – First Aid – Firefighting devices – Accident
+reporting investigation.
+UNIT-V:
+Safety, Health, Welfare & Laws: Safety and health standards – Industrial hygiene –
+occupational diseases prevention - Welfare facilities – History of legislations related to safety–
+VNRVJIET M.TECH. ES R18 CURRICULUM 66
+pressure vessel act- Indian boiler act- The environmental protection act – Electricity act -
+Explosive act.
+UNIT-VI:
+Safe Handling and Storage: Material Handling, Compressed Gas Cylinders, Corrosive
+Substances, Hydrocarbons, Waste Drums and Containers
+TEXT BOOKS:
+1. Safety Management, John V. Grimaldi and Rollin H. Simonds, All India Travellers
+Bookseller, New Delhi, 1989.
+2. Safety Management in Industry, Krishnan N. V., Jaico Publishing House, 1996.
+REFERENCES:
+1. Occupational Safety Manual, BHEL
+2. Industrial Safety and The Law, P. M. C. Nair Publisher’s, Trivandrum
+3. Managing Emergencies in Industries, Loss Prevention of India Ltd., Proceedings, 1999
+4. Safety Security and Risk Management, U. K. Singh & J. M. Dewan, A. P. H. Publishing
+Company, New Delhi, 1996
+5. Industrial Safety Management: Hazard Identification and Risk Control, L. M. Deshmukh,
+McGraw-Hill Education (India) Private Limited, 2005
+VNRVJIET M.TECH. ES R18 CURRICULUM 67
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester (ES) L T/P C
+3 0 3
+(18OE1AM02) OPERATIONS RESEARCH
+COURSE PRE-REQUISITES: Mathematics, Industrial Engineering
+COURSE OBJECTIVES:
+• To analyze linear programming models in practical and their practical use
+• To apply the transportation, assignment and sequencing models and their solution
+methodology for solving problems
+• To apply the theory of games, replacement, inventory and queuing models and their
+solution methodology for solving problems
+• To evaluate the dynamic programming and simulation models
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Apply and solve the dynamic programming problems
+CO-2: Apply the concept of non-linear programming
+CO-3: Carry out sensitivity analysis
+CO-4: Model the real-world problem and simulate it
+UNIT-I:
+Introduction to Operations Research-Definitions of OR, Characteristics of OR, Scope of OR,
+Classification of Optimization Techniques, models in OR, General L.P Formulation, Graphical
+solution, Simplex Techniques.
+UNIT-II:
+Revised simplex method - duality theory - dual simplex method – sensitivity or post optimality
+analysis - parametric programming
+UNIT-III:
+Nonlinear programming problem - Kuhn-Tucker condition, min cost flow problem - max flow
+problem - CPM/PERT
+UNIT-IV:
+Scheduling and sequencing, Inventory models, deterministic inventory, models - Probabilistic
+inventory control models - Geometric Programming.
+UNIT-V:
+Waiting line Models, Single and Multi-channel Problems, Dynamic Programming, Game
+Theory, Simulation.
+UNIT-VI:
+Introduction to Genetic Algorithms, Operators, applications to engineering optimization,
+Problems.
+TEXT BOOKS:
+1. Operations Research, S. D. Sharma, Kedarnath Ramnath, Meerut, New Delhi
+2. Engineering Optimization, S. S. Rao, New Age International Publications, 2014
+3. Introduction to Genetic Algorithms, S. N. Sivanandam, Springer
+REFERENCES:
+1. Operations Research-An Introduction, H. A. Taha, PHI, 2008
+2. Principles of Operations Research, H. M. Wagner, PHI, Delhi, 1982
+3. Introduction to Optimization: Operations Research, J. C. Pant, Jain Brothers, Delhi, 2008
+VNRVJIET M.TECH. ES R18 CURRICULUM 68
+4. Operations Research, Hitler Liebermann McGraw-Hill Pub., 2009
+5. Operations Research, Pannerselvam, Prentice Hall of India, 2010
+VNRVJIET M.TECH. ES R18 CURRICULUM 69
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester (ES) L T/P C
+3 0 3
+(18OE1AM03) COMPOSITE MATERIALS
+COURSE PRE-REQUISITES: Maths, Physics, Chemistry, Engineering Mechanics, Mechanics of
+Solids
+COURSE OBJECTIVES:
+• To understand composite materials and their properties, relationship between them and
+manufacturing methods
+• To understand the principles of material science applied to composite materials
+• To study the equations to analyze problems by making good assumptions and learn
+systematic engineering methods to solve practical composite mechanics problems
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Apply fundamental knowledge of mathematics to modeling and analysis of
+composite materials
+CO-2: Understand the manufacturing methods of various composite materials
+CO-3: Analyze the failure modes of composites
+UNIT-I:
+Introduction: Definition – Classification and characteristics of Composite materials.
+Advantages and application of composites. Functional requirements of reinforcement and
+matrix. Effect of reinforcement (size, shape, distribution, volume fraction) on overall
+composite performance.
+UNIT-II:
+Reinforcements: Preparation-layup, curing, properties and applications of glass fibers, carbon
+fibers, Kevlar fibers and Boron fibers. Properties and applications of whiskers, particle
+reinforcements.
+Mechanical Behavior of Composites: Rule of mixtures, Inverse rule of mixtures. Isostrain and
+Isostress conditions.
+UNIT-III:
+Manufacturing of Metal Matrix Composites: Casting – Solid State diffusion technique,
+Cladding – Hot isostatic pressing. Properties and applications.
+Manufacturing of Ceramic Matrix Composites: Liquid Metal Infiltration – Liquid phase
+sintering. Manufacturing of Carbon – Carbon composites: Knitting, Braiding, Weaving.
+Properties and applications.
+UNIT-IV:
+Manufacturing of Polymer Matrix Composites: Preparation of Moulding compounds and
+prepregs – hand layup method – Autoclave method – Filament winding method –
+Compression moulding – Reaction injection moulding. Properties and applications,
+Introduction to Machining of Composites.
+UNIT-V:
+Elastic Behavior of Laminate: Basic assumptions, Strain-displacement relations, Stress-strain
+relation of layer within a laminate, Force and moment resultant, General load–deformation
+relations, Analysis of different types of laminates
+UNIT-VI:
+Strength: Laminar Failure Criteria-strength ratio, maximum stress criteria, maximum strain
+criteria, interacting failure criteria, hygrothermal failure. Laminate first ply failure-insight
+VNRVJIET M.TECH. ES R18 CURRICULUM 70
+strength; Laminate strength-ply discount truncated maximum strain criterion; strength design
+using caplet plots; stress concentrations.
+TEXT BOOKS:
+1. Material Science and Technology, Vol. 13–Composites, R. W. Cahn – VCH, West Germany
+2. Analysis and Performance of Fiber Composites, Third Edition, B. D. Agarwal, Wiley
+Publishers
+REFERENCES:
+1. Mechanics of Composite Materials, Second Edition. Robert M. Jones, Scripta Book
+Company
+2. Materials Science and Engineering-An Introduction, W. D. Callister Jr., Adapted by R. Bala
+Subramaniam, John Wiley & Sons, NY, Indian Edition, 2007
+3. Composite Materials, K. K. Chawla
+4. Composite Materials Science and Applications, Deborah D. L. Chung
+5. Composite Materials Design and Applications, Danial Gay, Suong V. Hoa and Stephen
+W. Tasi
+VNRVJIET M.TECH. ES R18 CURRICULUM 71
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester (ES) L T/P C
+3 0 3
+(18OE1PS01) WASTE TO ENERGY
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To create awareness in students of energy conservation
+• To identify the use of different types of Bio waste energy resources
+• To understand different types of bio waste energy conservations
+• To detect different waste conversion into different forms of energy
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO1: Find different types of energy from waste to produce electrical power
+CO2: Estimate the use of bio waste to produce electrical energy
+CO3: Understand different types of bio waste and its energy conversions
+CO4: Analyze the bio waste utilization to avoid the environmental pollution
+UNIT-I:
+Introduction to Energy from Waste: Classification of waste as fuel, Agro based, Forest residue,
+Industrial waste, MSW (Municipal solid waste) – Conversion devices – Incinerators, Gasifiers,
+Digestors
+UNIT-II:
+Biomass Pyrolysis: Pyrolysis – Types, slow fast – Manufacture of charcoal – Methods - Yields
+and application – Manufacture of pyrolytic oils and gases, yields and applications.
+UNIT-III:
+Biomass Gasification: Gasifiers – Fixed bed system – Downdraft and updraft gasifiers –
+Fluidized bed gasifiers – Design, construction and operation – Gasifier burner arrangement for
+thermal heating – Gasifier engine arrangement and electrical power – Equilibrium and
+kinetic consideration in gasifier operation.
+UNIT-IV:
+Biomass Combustion: Biomass stoves – Improved chullahs, types, some exotic designs, Fixed
+bed combustors, Types, inclined grate combustors, Fluidized bed combustors, Design,
+construction and operation - Operation of all the above biomass combustors.
+UNIT-V:
+Biogas: Properties of biogas (Calorific value and composition) - Biogas plant technology and
+status - Bio energy system - Design and constructional features - Biomass resources and their
+classification - Biomass conversion processes - Thermo chemical conversion - Direct
+combustion - biomass gasification - pyrolysis and liquefaction - biochemical conversion -
+anaerobic digestion.
+UNIT-VI:
+Types of biogas Plants – Applications - Alcohol production from biomass - Bio diesel
+production - Urban waste to energy conversion - Biomass energy programme in India.
+TEXT BOOKS:
+1. Biogas Technology-Transfer and Diffusion, M. M. EL-Halwagi, Elsevier Applied Science
+Publisher, New York, 1984
+2. Introduction to Biomass Energy Conversions, Sergio Capareda
+VNRVJIET M.TECH. ES R18 CURRICULUM 72
+REFERENCES:
+1. Non-Conventional Energy, Desai Ashok V., Wiley Eastern Ltd., 1990
+2. Biogas Technology - A Practical Handbook, Khandelwal, K. C. and Mahdi, S. S., Vol. I & II,
+Tata McGraw-Hill Publishing Co. Ltd., 1983
+3. Food, Feed and Fuel from Biomass, Challal, D. S., IBH Publishing Co. Pvt. Ltd., 1991
+4. Biomass Conversion and Technology, C. Y. WereKo-Brobby and E. B. Hagan, John Wiley &
+Sons, 1996
+VNRVJIET M.TECH. ES R18 CURRICULUM 73
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester (ES) L T/P C
+0 16 8
+(18PW4ES03) PROJECT PART-I
+M.Tech. IV Semester (ES) L T/P C
+0 28 14
+(18PW4ES04) PROJECT PART-II
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Identify and formulate the problem (Industry/technical/societal)
+CO-2: Analyze, design and develop a solution to industry/technical/societal problems
+CO-3: Implement and execute the solution
+CO-4: Demonstrate effective communication skills through oral presentation
+CO-5: Engage in effective written communication through project report
+COURSE OUTLINE:
+• M.Tech. project work shall be for a minimum duration of 40 weeks spread over two
+semesters i.e., Project Part-I in III semester and Project Part-II in IV semester.
+• A student shall be permitted to register for the major project after satisfying the
+attendance requirement in all the courses, i.e., theory and practical courses.
+• Project reviews namely Project Review I and Project Review II in III semester and Project
+Review III and Project Pre-submission Seminar in IV semester shall be conducted during
+the course of Project work.
+• A Project Review Committee (PRC) consisting of the Head of the Department as
+Chairperson and PG Coordinator, Project Supervisor and one senior faculty member of
+the Department offering the M. Tech. programme as members shall evaluate the
+progress of project work.
+• In Project Review I, a student, in consultation with his Project Supervisor, shall present the
+title, objective and plan of action of his/her project work to the PRC for approval within
+four weeks from the commencement of III semester.
+• A student can initiate the project work only after obtaining the approval of the PRC.
+• The work on the project shall be initiated at the beginning of the III semester.
+• Project Review II shall be conducted and evaluated at the end of the III semester.
+• Project Review III shall be conducted during IV semester to examine the overall progress
+of the project work.
+• A project pre-submission seminar shall be conducted to decide whether or not the
+project is eligible for final submission.
+• After approval from the PRC, a soft copy of the thesis shall be submitted for PLAGIARISM
+check to the Examination Branch.
+• At the end of IV semester upon fulfilling the above conditions, project viva-voce shall be
+conducted.
+• A student shall submit project progress in prescribed report format during each of the
+project reviews.

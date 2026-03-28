@@ -1,0 +1,2417 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/syllabus-books/MCA-R25-I-&-II-Year-Syllabus.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+MASTER OF COMPUTER APPLICATIONS
+CBCS R25 ACADEMIC REGULATIONS
+AND CURRICULUM
+DEPARTMENT OF
+MASTER OF
+COMPUTER
+APPLICATIONS
+(MCA)
+1
+VISION OF THE DEPARTMENT
+To impart quality technical education that fosters
+critical thinking, dynamism and innovation to
+transform students into globally competitive IT
+Professionals
+MISSION OF TH E DEPARTMENT
+➢ To provide quality education through innovation
+teaching and learning process that yields
+advancements in state-of-the-art Master of
+Computer Applications.
+➢ To provide a learning environment that promotes
+quality research.
+➢ To inculcate the spirit of ethical values
+contributing to the welfare of the society.
+2
+MASTER OF COMPUTER APPLICATIONS
+(MCA)
+3
+MCA
+PROGRAM EDUCATI ONAL OBJECTIVES
+PEO-I: To provide graduates with the computing skills essential to excel in
+IT and connected fields.
+PEO-II: To make students to analyse and resolve complex problems using
+multidisciplinary and modernized tools.
+PEO-III: To develop competence, ethical attitudes, and effective
+communication skills for lifetime learning and collaboration.
+PEO-IV: To foster a responsiveness of societal, legal, environmental, and
+ethical issues in computing domain.
+4
+MCA
+PROGRAM OUTCOMES
+PO-1: Apply knowledge of mathematics, programming logic and coding
+fundamentals for solution architecture and problem solving.
+PO-2: Identify, review, formulate and analyse problems for primarily
+focussing on customer requirements using critical thinking frameworks.
+PO-3: Design, develop and investigate problems with as an innovative
+approach for solutions incorporating ESG/SDG goals.
+PO-4: Select, adapt and apply modern computational tools such as
+development of algorithms with an understanding of the limitations
+including human biases.
+PO-5: Function and communicate effectively as an individual or a team
+leader in diverse and multidisciplinary groups. Use methodologies such as
+agile.
+PO-6: Use the principles of project management such as scheduling, work
+breakdown structure and be conversant with the principles of Finance for
+profitable project management.
+PO-7: Commit to professional ethics in managing software projects with
+financial aspects. Learn to use new technologies for cyber security and
+insulate customers from malware.
+PO-8: Change management skills and the ability to learn, keep up with
+contemporary technologies and ways of working.
+5
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+MCA I YEAR COURSE STRUCTURE AND SYLLABUS
+I SEMESTER R25
+Course
+Course Type Name of the Course L T P Credits
+Code
+Professional Mathematical Foundations of
+25PC1CA01 3 0 0 3
+Core-I Computer Science
+Professional C Programming and Data
+25PC1CA02 3 1 4 4
+Core-II Structures
+Professional
+25PC1CA03 Python Programming 3 0 0 3
+Core-III
+Professional
+25PC1CA04 Database Management Systems 3 0 0 3
+Core-IV
+Professional Accounting and Financial
+25PC1MG01 3 0 0 3
+Core-V Management
+Professional C Programming and Data
+25PC2CA01 0 0 2 1
+Core Lab-I Structures Laboratory
+Professional
+25PC2CA02 Python Programming Laboratory 0 0 2 1
+Core Lab-II
+Professional Database Management Systems
+25PC2CA03 0 0 4 2
+Core Lab-III Laboratory
+Total 15 1 12 20
+II SEMESTER R25
+Course
+Course Type Name of the Course L T P Credits
+Code
+Professional
+25PC1CA05 Java Programming 3 0 0 3
+Core-VI
+Professional
+25PC1CA06 Operating Systems 3 0 0 3
+Core-VII
+Professional
+25PC1CA07 Computer Networks 3 0 0 3
+Core-VIII
+Professional
+25PC1CA08 Data Mining 3 0 0 3
+Core-IX
+Professional
+25PC1CA09 Software Engineering 3 0 0 3
+Core-X
+Professional
+25PC2CA04 Java Programming Laboratory 0 0 4 2
+Core Lab-IV
+Professional
+25PC2CA05 Operating Systems Laboratory 0 0 3 1.5
+Core Lab-V
+Professional
+25PC2CA06 Computer Networks Laboratory 0 0 3 1.5
+Core Lab-VI
+Total 15 0 10 20
+6
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+MCA II YEAR COURSE STRUCTURE AND SYLLABUS
+III SEMESTER R25
+Course Type Course Code Name of the Course L T P Credits
+Professional
+25PC1CA10 Enterprise Cloud Concepts 3 0 0 3
+Core-XI
+Professional
+25PC1CA11 Full Stack Development 3 0 0 3
+Core-XII
+Professional
+25PC1CA12 Machine Learning 3 0 0 3
+Core-XIII
+25PE1CA01 Artificial Intelligence
+25PE1CA02 Information Retrieval systems
+Professional
+3 0 0 3
+Elective-I
+25PE1CA03 Ad-hoc and Sensor Networks
+25PE1CA04 Design and Analysis of Algorithms
+25PE1CA05 Cyber Security
+25PE1CA06 Mobile Computing
+Professional 3 0 0 3
+Elective-II 25PE1CA07 Software Testing Methodologies
+25PE1CA08 Computer Architecture
+Professional Enterprise Cloud Concepts
+25PC2CA07 0 0 3 1.5
+Core Lab-VII Laboratory
+Professional
+25PC2CA08 Full Stack Development Laboratory 0 0 3 1.5
+Core Lab-VIII
+Professional
+25PC2CA09 Machine Learning Laboratory 0 0 4 2
+Core Lab-IX
+Total 15 0 10 20
+7
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+MCA II YEAR COURSE STRUCTURE AND SYLLABUS
+IV SEMESTER R25
+Course
+Course Type Name of the Course L T P Credits
+Code
+25PE1CA09 Internet of Things
+25PE1CA10 Mobile Application Development
+Professional
+3 0 0 3
+Elective-III
+25PE1CA11 Big Data Analytics
+25PE1CA12 Design Patterns
+25OE1CA01 E-Commerce
+25OE1CA02 Cyber Laws and Ethics
+Open
+3 0 0 3
+Elective
+25OE1CA03 Management Information System
+25OE1CA04 Entrepreneurship
+Seminar 25PW4CA01 Seminar 0 0 4 2
+Project 25PW4CA02 Project Work Review 0 0 4 2
+Project 25PW4CA03 Project Viva-Voce 0 0 20 10
+Total 6 0 28 20
+8
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA I Semester
+(25PC1CA01) MATHEMATICAL FOUNDATIONS OF COMPUTER SCIENCE
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Knowledge of Mathematics
+COURSE OBJECTIVES:
+• To learn the elementary discrete mathematics for computer science and
+engineering
+• To learn formal logic notation, methods of proof, induction, sets, relations, graph
+theory, permutations and combinations, counting principles; recurrence relations
+and generating functions
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand and construct precise mathematical proofs
+CO-2: Use logic and set theory to formulate precise statements
+CO-3: Analyze and solve counting problems on finite and discrete structures
+CO-4: Describe and manipulate sequences
+CO-5: Apply graph theory in solving computing problems
+UNIT-I:
+The Foundations Logic and Proofs: Propositional Logic, Applications of
+Propositional Logic, Propositional Equivalence, Predicates and Quantifiers, Nested
+Quantifiers, Rules of Inference, Introduction to Proofs, Proof Methods and Strategy.
+UNIT-II:
+Basic Structures, Sets, Functions, Sequences, Sums, Matrices and Relations: Sets,
+Functions, Sequences & Summations, Cardinality of Sets and Matrices Relations,
+Relations and Their Properties, n-ary Relations and Their Applications, Representing
+Relations, Closures of Relations, Equivalence Relations, Partial Orderings.
+UNIT-III:
+Algorithms, Induction and Recursion: Algorithms, The Growth of Functions,
+Complexity of Algorithms.
+Induction and Recursion: Mathematical Induction, Strong Induction and Well-
+Ordering, Recursive Definitions and Structural Induction, Recursive Algorithms,
+Program Correctness.
+UNIT-IV:
+Discrete Probability and Advanced Counting Techniques: An Introduction to
+Discrete Probability. Probability Theory, Bayes’ Theorem, Expected Value and
+Variance.
+Advanced Counting Techniques: Recurrence Relations, Solving Linear Recurrence
+Relations, Divide-and-Conquer Algorithms and Recurrence Relations, Generating
+Functions, Inclusion-Exclusion, Applications of Inclusion-Exclusion.
+9
+UNIT-V:
+Graphs: Graphs and Graph Models, Graph Terminology and Special Types of
+Graphs, Representing Graphs and Graph Isomorphism, Connectivity, Euler and
+Hamilton Paths, Shortest-Path Problems, Planar Graphs, Graph Coloring.
+Trees: Introduction to Trees, Applications of Trees, Tree Traversal, Spanning Trees,
+Minimum Spanning Trees
+TEXT BOOKS:
+1. Discrete Mathematical Structures with Applications to Computer Science: J. P.
+Tremblay, R. Manohar, 1st Edition, McGraw-Hill
+2. Discrete Mathematics for Computer Scientists & Mathematicians, Joe l. Mott,
+Abraham Kandel, Teodore P. Baker, 2nd Edition, Prentice Hall of India
+REFERENCES:
+1. Discrete and Combinatorial Mathematics - An Applied Introduction: Ralph P.
+Grimaldi, 5th Edition, Pearson Education
+2. Discrete Mathematical Structures: Thomas Kosy, Tata McGraw-Hill
+10
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA I Semester
+(25PC1CA02) C PROGRAMMING AND DATA STRUCTURES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 1 4 30 5 5 60 100
+COURSE PRE-REQUISITES: Analytical Skills and Logical Reasoning
+COURSE OBJECTIVES:
+• To learn the basics of computers and program development
+• To learn the various concepts of C programming language
+• To learn searching and sorting algorithms
+• To understand data structures such as stacks and queues
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Develop C programs for computing and real-life applications using basic
+elements like control statements, arrays, functions, pointers and strings; and data
+structures like stacks, queues and linked lists
+CO-2: Elementary concepts on arrays, functions, structures and files
+CO-3: Implement searching and sorting algorithms
+CO-4: Analyze the data structures like stacks, queues and linked lists
+UNIT-I:
+Introduction to Computers: Computer Systems, Computing Environments, Computer
+Languages, Creating and running programs, Software Development Method,
+Algorithms, Pseudo code, flow charts, applying the software development method.
+Introduction to C Language: Background, Simple C programs, Identifiers, Basic data
+types, Variables, Constants, Input / Output, Operators. Expressions, Precedence and
+Associativity, Expression Evaluation, Type conversions, Bit wise operators, Statements,
+Simple C Programming examples.
+UNIT-II:
+Statements: if and switch statements, Repetition statements – while, for, do-while
+statements, Loop examples, other statements related to looping – break, continue, go
+to, Simple C Programming examples.
+Designing Structured Programs: Functions, basics, user defined functions, inter function
+communication, Scope, Storage classes-auto, register, static, extern, scope rules, type
+qualifiers, recursion- recursive functions, Pre-processor commands, example C
+programs
+UNIT-III:
+Arrays and Strings: Concepts, using arrays in C, inter function communication, array
+applications, two – dimensional arrays, multidimensional arrays, C program examples.
+Concepts, C Strings, String Input / Output functions, arrays of strings, string manipulation
+functions, string / data conversion, C program examples.
+Pointers: Introduction (Basic Concepts), Pointers for inter function communication,
+pointers to pointers, compatibility, memory allocation functions, array of pointers,
+programming applications, pointers to void, pointers to functions, command –line
+11
+arguments.
+UNIT-IV:
+Derived Types: Structures – Declaration, definition and initialization of structures,
+accessing structures, nested structures, arrays of structures, structures and functions,
+pointers to structures, self-referential structures, unions, typedef, bit fields, enumerated
+types, C programming examples.
+Input and Output: Concept of a file, streams, standard input / output functions,
+formatted input / output functions, text files and binary files, file input / output
+operations, file status functions (error handling), C program examples.
+UNIT-V:
+Sorting and Searching: selection sort, bubble sort, insertion sort, linear and binary
+search methods.
+Data Structures: Introduction to Data Structures, abstract data types, Linear list – singly
+linked list implementation, insertion, deletion and searching operations on linear list,
+Stacks-Operations, array and linked representations of stacks, stack applications,
+Queues-operations, array and linked representations.
+TEXT BOOKS:
+1. C Programming & Data Structures, B. A. Forouzan and R. F. Gilberg, 3rd Edition,
+Cengage Learning
+2. Problem Solving and Program Design in C, J. R. Hanly and E. B. Koffman, 5th Edition,
+Pearson Education
+3. The C Programming Language, B. W. Kernighan and Dennis M. Ritchie, Prentice-
+Hall of India /Pearson Education
+REFERENCES:
+1. C for Engineers and Scientists, H. Cheng, McGraw-Hill International Edition
+2. Data Structures using C, A. M. Tanenbaum, Y. Langsam and M. J. Augenstein,
+Pearson Education / Prentice-Hall of India
+3. C Programming & Data Structures, P. Dey, M. Ghosh, R. Theraja, Oxford University
+Press
+12
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA I Semester
+(25PC1CA03) PYTHON PROGRAMMING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Analytical Skills and Logical Reasoning
+COURSE OBJECTIVES:
+• To learn syntax and semantics and create functions in Python
+• To handle strings and files in Python
+• To understand lists, dictionaries and regular expressions in Python
+• To build web services and introduce network programming in Python
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Demonstrate proficiency in handling Strings and File Systems
+CO-2: Create, run and manipulate Python programs using core data structures like
+Lists, Dictionaries and use Regular Expressions
+CO-3: Interpret the concepts of GUI Programming as used in Python
+CO-4: Implement applications related to Network Programming, Web Services in
+Python
+UNIT-I:
+Python: Basics, Objects- Python Objects, Standard Types, Other Built-in Types, Internal
+Types, Standard Type Operators, Standard Type Built-in Functions, Categorizing the
+Standard Types, Unsupported Types
+Numbers: Introduction to Numbers, Integers, Floating Point Real Numbers, Complex
+Numbers, Operators, Built- in Functions, Related Modules
+Sequences: Strings, Lists, and Tuples, Mapping and Set Types
+UNIT-II:
+Functions: Calling Functions, Creating Functions, Passing Functions, Formal Arguments,
+Variable-Length Arguments, Functional Programming, Variable Scope, Recursion.
+Explore Numpy,Pandas libraries.
+Modules: Modules and Files, Namespaces, Importing Modules, Importing Module
+Attributes, Module Built-in Functions, Packages, Other Features of Modules.
+UNIT-III:
+Files: File Objects, File Built-in Function, File Built-in Methods, File Built-in Attributes,
+Standard Files, Command- line Arguments, File System, File Execution, Persistent
+Storage Modules, Related Modules
+Exceptions: Exceptions in Python, Detecting and Handling Exceptions, Context
+Management, Exceptions as Strings, Raising Exceptions, Assertions, Standard
+Exceptions, Creating Exceptions, Exceptions and the sys Module, Related Modules,
+Modules and Files, Namespaces, Importing Modules, Importing Module Attributes,
+Module Built-in Functions, Packages, Other Features of Modules
+13
+UNIT-IV:
+Regular Expressions: Introduction, Special Symbols and Characters, REs and Python
+Multithreaded Programming: Introduction, Threads and Processes, Python, Threads,
+and the Global Interpreter Lock, Thread Module, Threading Module, Related Modules
+UNIT-V:
+GUI Programming: Introduction, Tkinter and Python Programming, Brief Tour of Other
+GUIs, Related Modules
+Other GUIs Web Programming: Introduction, WebSurfing with Python, Creating Simple
+Web Clients, Advanced Web Clients, CGI-Helping Servers Process Client Data, Building
+CGI Application, Advanced CGI, Web (HTTP) Servers
+TEXT BOOK:
+1. Core Python Programming, Wesley J. Chun, 2nd Edition, Pearson
+REFERENCES:
+1. Python for Programmers, Paul Deitel, Harvey Deitel, Pearson
+2. Think Python, Allen Downey, Green Tea Press
+3. Introduction to Python, Kenneth A. Lambert, Cengage
+4. Python Programming: A Modern Approach, Vamsi Kurama, Pearson
+5. Learning Python, Mark Lutz, O’Reilly
+14
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA I Semester
+(25PC1CA04) DATABASE MANAGEMENT SYSTEMS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Data Structures
+COURSE OBJECTIVES:
+• To understand the basic concepts and the applications of database systems
+• To understand concepts of ER model and model the data base for the given
+scenarios and prepare the database through normalization
+• To know the features of various models of data and query representations
+• To master the basics of SQL and construct queries using SQL
+• To introduce the concepts and protocols related to transaction management
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Gain knowledge of fundamentals of DBMS, database design and normal forms
+CO-2: Master the basics of SQL for retrieval and management of data
+CO-3: Acquire the basics of transaction processing and concurrency control
+CO-4: Familiarize with database storage structures and access techniques
+UNIT-I:
+Database System Applications: A Historical Perspective, File Systems versus a DBMS,
+the Data Model, Levels of Abstraction in a DBMS, Data Independence, Structure of a
+DBMS.
+Introduction to Database Design: Database Design and ER Diagrams, Entities,
+Attributes, and Entity Sets, Relationships and Relationship Sets, Additional Features of
+the ER Model, Conceptual Design with the ER Model
+UNIT-II:
+Introduction to the Relational Model: Integrity constraint over relations, enforcing
+integrity constraints, querying relational data, logical database design, introduction to
+views, destroying/altering tables and views. Relational Algebra, Tuple relational
+Calculus, Domain relational calculus.
+UNIT-III:
+SQL: QUERIES, CONSTRAINTS, TRIGGERS: form of basic SQL query, UNION, INTERSECT,
+and EXCEPT, Nested Queries, aggregation operators, complex integrity constraints in
+SQL, Introduction to PLSQL: Procedures, cursors, triggers and active databases,
+Introduction to NoSQL.
+Schema Refinement: Problems caused by redundancy, decompositions, problems
+related to decomposition, reasoning about functional dependencies, FIRST, SECOND,
+THIRD normal forms, BCNF, lossless join decomposition, multivalued dependencies,
+FOURTH normal form.
+UNIT-IV:
+Transaction: Concept, Transaction State, Implementation of Atomicity and Durability,
+15
+Concurrent Executions, Serializability, Recoverability, Implementation of Isolation,
+testing for serializability, Lock Based Protocols, Timestamp Based Protocols, Validation-
+Based Protocols, Multiple Granularity, Recovery and Atomicity, Log–Based Recovery,
+Recovery with Concurrent Transactions.
+UNIT-V:
+Data on External Storage, File Organization and Indexing: Cluster Indexes, Primary and
+Secondary Indexes, Index data Structures, Hash Based Indexing: static and dynamic
+hashing, Comparison of File Organizations, Tree based Indexing -B+ Trees: A Dynamic
+Index Structure.
+TEXT BOOKS:
+1. Database System Concepts, Silberschatz, Korth, 5th Edition, McGraw-Hill
+2. Database Management Systems, Raghurama Krishnan, Johannes Gehrke, Tata
+McGraw-Hill
+3. Database Systems Design, Implementation, and Management, Peter Rob & Carlos
+Coronel, 7th Edition
+REFERENCES:
+1. Fundamentals of Database Systems, Elmasri Navrate, Pearson Education
+2. Introduction to Database Systems, C. J. Date, Pearson Education
+3. Oracle for Professionals, The X Team, S. Shah and V. Shah, SPD
+4. Database Systems Using Oracle: A Simplified Guide to SQL and PL/SQL, Shah,
+Prentice-Hall of India
+5. Fundamentals of Database Management Systems, M. L. Gillenson, Wiley Student
+Edition
+16
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA I Semester
+(25PC1MG01) ACCOUNTING AND FINANCIAL MANAGEMENT
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To learn Financial Management and Accounting
+• To learn different types of costing
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Prepare balance sheets of budget
+CO-2: Manage finances of a firm/company
+CO-3: Understand computerized accounting
+UNIT-I:
+Introduction to Accounting: Principles, concepts, conventions, double entry system of
+accounting, introduction of basic books of accounts ledgers.
+Preparation of Trial Balance: Final accounts - company final accounts.
+UNIT-II:
+Financial Management: Meaning and scope, role, objectives of time value of money
+- over capitalization under capitalization - profit maximization - wealth maximization -
+EPS maximization.
+Ratio Analysis: Advantages - limitations - Fund flow analysis - meaning, importance,
+preparation and interpretation of Funds flow and cash flow statements-statement.
+UNIT-III:
+Costing: Nature and importance and basic principles. Absorption costing vs. marginal
+costing - Financial accounting vs. cost accounting vs. management accounting.
+Marginal Costing and Break-even Analysis: Nature, scope and importance - practical
+applications of marginal costing, limitations and importance of cost - volume, profit
+analysis.
+UNIT-IV:
+Standard Costing and Budgeting: Nature, scope and computation and analysis -
+materials variance, labor variance and sales variance - budgeting - cash budget,
+sales budget - flexible Budgets, master budgets.
+UNIT-V:
+Introduction to Computerized Accounting System: coding logic and codes, master
+files, transaction files, introduction documents used for data collection, processing of
+different files and Outputs obtained.
+TEXT BOOKS:
+1. Financial Management and Policy, Van Horne, James C., 12th Edition, Pearson
+Education
+2. Financial Accounting, S. N. Maheshwari, Sultan Chand Company
+17
+3. Financial Management, S. N. Maheshwari, Sultan Chand Company
+18
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA I Semester
+(25PC2CA01) COMPUTER PROGRAMMING AND DATA STRUCTURES LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE PRE-REQUISITES: Analytical Skills and Logical Reasoning
+COURSE OBJECTIVES:
+• To know the various concepts of C programming language
+• To introduce searching and sorting algorithms
+• To provide an understanding of data structures such as stacks and queues
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Develop C programs for computing and real-life applications using basic
+elements like control statements, arrays, functions, pointers and strings; and data
+structures like stacks, queues and linked lists
+CO-2: Elementary concepts on arrays, functions, structures and files
+CO-3: Implement searching and sorting algorithms
+CO-4: Analyze the data structures like stacks, queues and linked lists
+LIS TOF PROGRAMS/EXERCISES:
+WEEK 1:
+1. Write a C program to find the sum of individual digits of a positive integer.
+2. Fibonacci sequence is defined as follows: the first and second terms in the
+sequence are 0 and 1. Subsequent terms are found by adding the preceding two
+terms in the sequence. Write a C program to generate the first n terms of the
+sequence.
+3. Write a C program to generate all the prime numbers between 1 and n, where n is
+a value supplied by the user.
+4. Write a C program to find the roots of a quadratic equation.
+WEEK 2:
+1. Write a C program to find the factorial of a given integer.
+2. Write a C program to find the GCD (greatest common divisor) of two given
+integers.
+3. Write a C program to solve Towers of Hanoi problem.
+4. Write a C program, which takes two integer operands and one operator from the
+user, performs the operation and then prints the result. (Consider the operators +,-
+,*, /, % and use Switch Statement)
+WEEK 3:
+1. Write a C program to find both the largest and smallest number in a list of integers.
+2. Write a C program that uses functions to perform the following:
+a) Addition of Two Matrices
+b) Multiplication of Two Matrices
+19
+WEEK 4:
+1. Write a C program that uses functions to perform the following operations:
+a) To insert a sub-string in to a given main string from a given position.
+b) To delete n Characters from a given position in a given string.
+2. Write a C program to determine if the given string is a palindrome or not
+3. Write a C program that displays the position or index in the string S where the string
+T begins, or – 1 if S doesn’t contain T.
+4. Write a C program to count the lines, words and characters in a given text.
+WEEK 5:
+1. Write a C program to generate Pascal’s triangle.
+2. Write a C program to construct a pyramid of numbers.
+3. Write a C program to read in two numbers, x and n, and then compute the sum of
+this geometric progression:
+a) 1+x+x2+x3+ +xn
+b) For example: if n is 3 and x is 5, then the program computes 1+5+25+125. Print x,
+n, the sum, and perform error checking. For example, the formula does not
+make sense for negative exponents – if n is less than 0. Have your program print
+an error message if n<0, then go back and read in the next pair of numbers of
+without computing the sum. Are any values of x also illegal? If so, test for them
+too.
+WEEK 6:
+1. 2’s complement of a number is obtained by scanning it from right to left and
+complementing all the bits after the first appearance of a 1. Thus 2’s complement
+of 11100 is 00100. Write a C program to find the 2’s complement of a binary
+number.
+2. Write a C program to convert a Roman numeral to its decimal equivalent.
+WEEK 7:
+1. Write a C program that uses functions to perform the following operations:
+a) Reading a complex number
+b) Writing a complex number
+c) Addition of two complex numbers
+d) Multiplication of two complex numbers (Note: represent complex number using
+a structure.)
+WEEK 8:
+1. i) Write a C program which copies one file to another.
+ii) Write a C program to reverse the first n characters in a file. (Note: The file name
+and n are specified on the command line.)
+2. i) Write a C program to display the contents of a file.
+ii) Write a C program to merge two files into a third file (i. e., the contents of the first
+file followed by those of the second are put in the third file)
+WEEK 9:
+1. Write a C program that uses functions to perform the following operations on singly
+linked list.:
+i) Creation ii) Insertion iii) Deletion iv) Traversal
+20
+WEEK 10:
+1. Write C programs that implement stack (its operations) using
+i) Arrays ii) Pointers
+2. Write C programs that implement Queue (its operations) using
+i) Arrays ii) Pointers
+WEEK 11:
+1. Write a C program that implements the following sorting methods to sort a given
+list of integers in ascending order
+i) Bubble sort ii) Selection sort
+WEEK 12:
+1. Write C programs that use both recursive and non-recursive functions to perform
+the following searching operations for a Key value in a given list of integers:
+i) Linear search ii) Binary search
+TEXT BOOKS:
+1. C Programming & Data Structures, B. A. Forouzan and R. F. Gilberg, 3rd Edition,
+Cengage Learning
+2. Problem Solving and Program Design in C, J. R. Hanly and E. B. Koffman, 5th Edition,
+Pearson Education
+3. The C Programming Language, B. W. Kernighan and Dennis M. Ritchie, Prentice-
+Hall of India/Pearson Education
+REFERENCES:
+1. C for Engineers and Scientists, H. Cheng, McGraw-Hill International Edition
+2. Data Structures using C – A. M. Tanenbaum, Y. Langsam and M. J. Augenstein,
+Pearson Education / Prentice-Hall of India
+3. C Programming & Data Structures, P. Dey, M. Ghosh, R. Thereja, Oxford University
+Press
+21
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA I Semester
+(25PC2CA02) PYTHON PROGRAMMING LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To install and run the Python interpreter
+• To learn control structures
+• To Understand Lists, Dictionaries in python
+• To Handle Strings and Files in Python
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Develop the application specific codes using python
+CO-2: Understand Strings, Lists, Tuples and Dictionaries in Python
+CO-3: Verify programs using modular approach, file I/O, Python standard library
+CO-4: Explore Numpy, Pandas and Keras libraries using Python
+LIST OF EXERCISES/PROGRAMS:
+WEEK 1:
+1. i) Use a web browser to go to the Python website http://python.org. This page
+contains information about Python and links to Python-related pages, and it gives
+you the ability to search the Python documentation.
+2. Start the Python interpreter and type help() to start the online help utility.
+3. Start a Python interpreter and use it as a Calculator. 3.
+4. Write a program to calculate compound interest when principal, rate and number
+of periods are given.
+5. Given coordinates (x1, y1), (x2, y2) find the distance between two points
+6. Read name, address, email and phone number of a person through keyboard and
+print the details.
+WEEK 2:
+1. Print the below triangle using for loop.
+5
+4 4
+3 3 3
+2 2 2 2
+1 1 1 1 1
+2. Write a program to check whether the given input is digit or lowercase character
+or uppercase character or a special character (use 'if-else-if' ladder)
+3. Python Program to Print the Fibonacci sequence using while loop
+4. Python program to print all prime numbers in a given interval (use break)
+WEEK 3:
+1. i) Write a program to convert a list and tuple into arrays.
+ii) Write a program to find common values between two arrays.
+2. Write a function called gcd that takes parameters a and b and returns their
+22
+greatest common divisor.
+3. Write a function called palindrome that takes a string argument and returnsTrue if
+it is a palindrome and False otherwise. Remember that you can use the built-in
+function len to check the length of a string.
+WEEK 4:
+1. Write a function called is_sorted that takes a list as a parameter and returns True if
+the list is sorted in ascending order and False otherwise.
+2. Write a function called has_duplicates that takes a list and returns True if there is
+any element that appears more than once. It should not modify the original list.
+i). Write a function called remove_duplicates that takes a list and returns a new
+list with only the unique elements from the original. Hint: they don’t have to be in
+the same order.
+ii). The wordlist I provided, words.txt, doesn’t contain single letter words. So you
+might want to add “I”, “a”, and the empty string.
+iii). Write a python code to read dictionary values from the user. Construct a
+function to invert its content. i.e., keys should be values and values should be keys.
+3. i) Add a comma between the characters. If the given word is 'Apple', it should
+become 'A,p,p,l,e'
+ii) Remove the given word in all the places in a string?
+iii) Write a function that takes a sentence as an input parameter and replaces the
+first letter of every word with the corresponding upper case letter and the rest of
+the letters in the word by corresponding letters in lower case without using a built-
+in function?
+4. Writes a recursive function that generates all binary strings of n-bit length
+WEEK 5:
+1. i) Write a python program that defines a matrix and prints
+ii) Write a python program to perform addition of two square matrices
+iii) Write a python program to perform multiplication of two square matrices
+2. How do you make a module? Give an example of construction of a module using
+different geometrical shapes and operations on them as its functions.
+3. Use the structure of exception handling all general purpose exceptions.
+WEEK 6:
+1. a. Write a function called draw_rectangle that takes a Canvas and a Rectangle
+as arguments and draws a representation of the Rectangle on the Canvas.
+b. Add an attribute named color to your Rectangle objects and modify
+draw_rectangle so that it uses the color attribute as the fill color.
+c. Write a function called draw_point that takes a Canvas and a Point as
+arguments and draws a representation of the Point on the Canvas.
+d. Define a new class called Circle with appropriate attributes and instantiate a
+few Circle objects. Write a function called draw_circle that draws circles on the
+canvas.
+2. Write a Python program to demonstrate the usage of Method Resolution Order
+(MRO) in multiple levels of Inheritances.
+3. Write a python code to read a phone number and email-id from the user and
+validate it for correctness.
+WEEK 7:
+1. Write a Python code to merge two given file contents into a third file.
+23
+2. Write a Python code to open a given file and construct a function to check for
+given words present in it and display on found.
+3. Write a Python code to Read text from a text file, find the word with most number
+of occurrences
+4. Write a function that reads a file file1 and displays the number of words, number of
+vowels, blank spaces, lower case letters and uppercase letters.
+WEEK 8:
+1. Import NumPy, Pandas and Keras and explore their functionalities.
+2. Install NumPy package and explore it.
+3. Install Pandas package and explore it.
+4. Install Keras package and explore it.
+TEXT BOOKS:
+1. Supercharged Python: Take Your Code to The Next Level, Overland
+2. Learning Python, Mark Lutz, O'Reilly
+3. Python Programming: A Modern Approach, Vamsi Kurama, Pearson
+REFERENCES:
+1. Python Programming: Modular Approach with Graphics, Database, Mobile, and
+Web Applications, Sheetal Taneja, Naveen Kumar, Pearson
+2. Programming with Python, A User’s Book, Michael Dawson, Cengage Learning,
+India Edition
+3. Think Python, Allen Downey, Green Tea Press
+4. Core Python Programming, W. Chun, Pearson
+5. Introduction to Python, Kenneth A. Lambert, Cengage
+24
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA I Semester
+(25PC2CA03) DATABASE MANAGEMENT SYSTEMS LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 2 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To introduce ER data model, database design and normalization
+• To learn SQL basics for data definition and data manipulation
+• To develop procedures for querying multiple tables
+• To understand the concepts of PL/SQL
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Design database schema for a given application and apply normalization
+CO-2: Acquire skills in using SQL commands for data definition and data manipulation
+CO-3: Apply integrity constraints for creating consistent RDBMS environment
+CO-4: Applying PL/SQL for processing database
+CO-5: Develop solutions for database applications using procedures, cursors and
+triggers
+LIST OF EXPERIMENTS:
+1. Concept design with E-R Model
+2. Relational Model
+3. Normalization
+4. Practicing DDL and DML commands
+5. Practice DDL and DML commands on a Relational Database, specifying the
+Integrity constraints. (Primary Key, Foreign Key, CHECK, NOTNULL)
+6. A. Querying (using ANY, ALL, UNION, INTERSECT, JOIN)
+B. Nested, Correlated subqueries
+7. Queries using Aggregate functions, GROUP BY, HAVING and Creation and
+dropping of Views.
+8. Implementation of PL/SQL concepts
+9. Triggers (Creation of insert trigger, delete trigger, update trigger)
+10. Procedures
+11. Usage of Cursors
+TEXT BOOKS:
+1. Database Management Systems, Raghurama Krishnan, Johannes Gehrke, 3rd
+Edition, Tata McGraw-Hill
+2. Database System Concepts, Silberschatz, Korth, 5th Edition, McGraw-Hill
+3. Database Systems design, Implementation, and Management, Peter Rob & Carlos
+Coronel, 7th Edition
+REFERENCES:
+1. Fundamentals of Database Systems, Elmasri Navrate, Pearson Education
+2. Introduction to Database Systems, C. J. Date, Pearson Education
+3. Oracle for Professionals, The X Team, S. Shah and V. Shah, SPD
+25
+4. Database Systems Using Oracle: A Simplified guide to SQL and PL/SQL, Shah,
+Prentice-Hall of India
+5. Fundamentals of Database Management Systems, M. L. Gillenson, Wiley Student
+Edition
+26
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA II Semester
+(25PC1CA05) JAVA PROGRAMMING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To introduce object-oriented programming principles and apply them in solving
+problems
+• To introduce the implementation of packages and interfaces
+• To introduce the concepts of exception handling and multithreading
+• To introduce the design of Graphical User Interface using swing controls
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Solve real world problems using OOP techniques
+CO-2: Solve problems using java collection framework and I/O classes
+CO-3: Develop multithreaded applications with synchronization
+CO-4: Design GUI based applications
+UNIT-I:
+Foundations of Java: History of Java, Java Features, Variables, Data Types, Operators,
+Expressions, Control Statements. Elements of Java - Class, Object, Methods,
+Constructors and Access Modifiers, Generics, Inner classes, String class and
+Annotations.
+OOP Principles: Encapsulation – concept, setter and getter method usage, this
+keyword. Inheritance - concept, Inheritance Types, super keyword. Polymorphism –
+concept, Method Overriding usage and Type Casting. Abstraction – concept,
+abstract keyword and Interface.
+UNIT-II:
+Exception Handling: Exception and Error, Exception Types, Exception Handler,
+Exception Handling Clauses – try, catch, finally, throws and the throw statement, Built-
+in Exceptions and Custom Exceptions.
+Files and I/O Streams: The file class, Streams, The Byte Streams, Filtered Byte Streams,
+The Random-Access File class.
+UNIT-III:
+Packages: Defining a Package, CLASSPATH, Access Specifiers, importing packages.
+Few Utility Classes - String Tokenizer, BitSet, Date, Calendar, Random, Formatter,
+Scanner.
+Collections: Collections overview, Collection Interfaces, Collections Implementation
+Classes, Sorting in Collections, Comparable and Comparator Interfaces.
+UNIT-IV:
+Multithreading: Process and Thread, Differences between thread-based multitasking
+and process-based multitasking, Java thread life cycle, creating threads, thread
+priorities, synchronizing threads, inter thread communication.
+Java Database Connectivity: Types of Drivers, JDBC architecture, JDBC Classes and
+27
+Interfaces, Basic steps in Developing JDBC Application, Creating a New Database
+and Table with JDBC.
+UNIT-V:
+GUI Programming with Swing: Introduction, limitations of AWT, MVC architecture,
+components, containers, Layout Manager Classes, Simple Applications using AWT and
+Swing.
+Event Handling: The Delegation event model- Events, Event sources, Event Listeners,
+Event classes, Handling mouse and keyboard events, Adapter classes.
+TEXT BOOKS:
+1. Java The Complete Reference, Herbert Schildt, 9th Edition, McGraw-Hill Education
+2. Understanding Object-Oriented Programming with Java, T. Budd, Pearson
+Education
+3. Java Programming for Core and Advanced Learners, Sagayaraj, Dennis, Karthik
+and Gajalakshmi, University Press
+REFERENCES:
+1. An Introduction to Programming and OO Design Using Java, J. Nino and F. A.
+Hosch, John Wiley
+2. Introduction to Java Programming, Y. Daniel Liang, Pearson Education
+3. Object Oriented Programming through Java, P. Radha Krishna, University Press
+4. Programming in Java, S. Malhotra, S. Chaudhary, 2nd Edition, Oxford Univ. Press
+5. Java Programming and Object-Oriented Application Development, R. A. Johnson,
+Cengage Learning
+28
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA II Semester
+(25PC1CA06) OPERATING SYSTEMS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Computer Programming and Data Structures, Computer
+Organization and Architecture
+COURSE OBJECTIVES:
+• To introduce operating system concepts (i.e., processes, threads, scheduling,
+synchronization, deadlocks, memory management, file and I/O subsystems and
+protection)
+• To introduce the issues to be considered in the design and development of
+operating system
+• To introduce basic Unix commands, system call interface for process
+management, interprocess communication and I/O in Unix
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Control access to a computer and the files that may be shared
+CO-2: Demonstrate the knowledge of the components of computers and their
+respective roles in computing
+CO-3: Recognize and resolve user problems with standard operating environments
+CO-4: Gain practical knowledge of how programming languages, operating systems,
+and architectures interact and how to use each effectively
+UNIT-I:
+Operating System: Introduction, Structures - Simple Batch, Multiprogrammed, Time-
+shared, Personal Computer, Parallel, Distributed Systems, Real-Time Systems, System
+components, Operating System services, System Calls
+Process: Process concepts and scheduling, Operations on processes, Cooperating
+Processes, Threads
+UNIT-II:
+CPU Scheduling: Scheduling Criteria, Scheduling Algorithms, Multiple -Processor
+Scheduling. System call interface for process management-fork, exit, wait, waitpid,
+exec
+Deadlocks: System Model, Deadlocks Characterization, Methods for Handling
+Deadlocks, Deadlock Prevention, Deadlock Avoidance, Deadlock Detection, and
+Recovery from Deadlock
+UNIT-III:
+Process Management and Synchronization: The Critical Section Problem,
+Synchronization Hardware, Semaphores, and Classical Problems of Synchronization,
+Critical Regions, Monitors
+Interprocess Communication Mechanisms: IPC between processes on a single
+computer system, IPC between processes on different systems, using pipes, FIFOs,
+message queues, shared memory.
+29
+UNIT-IV:
+Memory Management and Virtual Memory: Logical versus Physical Address Space,
+Swapping, Contiguous Allocation, Paging, Segmentation, Segmentation with Paging,
+Demand Paging, Page Replacement, Page Replacement Algorithms.
+UNIT-V:
+File System Interface and Operations: Access methods, Directory Structure, Protection,
+File System Structure, Allocation methods, Free-space Management. Usage of open,
+create, read, write, close, lseek, stat, ioctl system calls.
+TEXT BOOKS:
+1. Operating System Principles, Abraham Silberchatz, Peter B. Galvin, Greg Gagne 7th
+Edition, John Wiley
+2. Advanced Programming in the UNIX Environment, W. R. Stevens, Pearson
+Education
+3. Operating Systems- A Concept based Approach, D. M. Dhamdhere, 2nd Edition,
+Tata McGraw-Hill
+REFERENCES:
+1. Operating Systems- Internals and Design Principles, William Stallings, 5th Edition,
+Pearson Education/Prentice-Hall of India, 2005
+2. Operating System A Design Approach, Crowley, Tata McGraw-Hill
+3. Modern Operating Systems, Andrew S. Tanenbaum, 2nd Edition, Pearson/Prentice-
+Hall of India
+4. UNIX Programming Environment, Kernighan and Pike, Prentice-Hall of India/
+Pearson Education
+5. UNIX Internals -The New Frontiers, U. Vahalia, Pearson Education
+30
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA II Semester
+(25PC1CA07) COMPUTER NETWORKS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Programming for Problem Solving, Data Structures
+COURSE OBJECTIVES:
+• To equip with a general overview of the concepts and fundamentals of computer
+networks
+• To familiarize with the standard models for the layered approach to
+communication between machines in a network and the protocols of the various
+layers
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Gain the knowledge of the basic computer network technology
+CO-2: Gain the knowledge of the functions of each layer in the OSI and TCP/IP
+reference model
+CO-3: Obtain the skills of subnetting and routing mechanisms
+CO-4: Familiarize with the essential protocols of computer networks, and how they can
+be applied in network design and implementation
+UNIT-I:
+Network hardware, Network software, OSI, TCP/IP reference model, Example
+Networks: ARPANET, Internet. Physical Layer: Guided Transmission media: twisted pairs,
+coaxial cable, fiber optics, Wireless Transmission. Data link layer: Design issues, framing,
+Error detection and correction.
+UNIT-II:
+Elementary data link Protocols: simplex protocol, A simplex stop and wait protocol for
+an error-free channel, A simplex stop and wait protocol for noisy channel.
+Sliding Window Protocols: A one-bit sliding window protocol, A protocol using Go-
+Back-N, A protocol using Selective Repeat, Example data link protocols.
+Medium Access Sublayer: The channel allocation problem, Multiple access protocols:
+ALOHA, Carrier sense multiple access protocols, collision free protocols. Wireless LANs,
+Data link layer switching.
+UNIT-III:
+Network Layer: Design issues, Routing algorithms: shortest path routing, Flooding,
+Hierarchical routing, Broadcast, Multicast, distance vector routing, Congestion Control
+Algorithms, Quality of Service, Internetworking, The Network layer in the internet.
+UNIT-IV:
+Transport Layer: Transport Services, Elements of Transport protocols, Connection
+management, TCP and UDP protocols.
+31
+UNIT-V:
+Application Layer: Domain name system, SNMP, Electronic Mail; the World WEB, HTTP,
+Streaming audio and video, Modern Software Supply-Chain and Security Integration,
+Introduction to DevSecOps concepts in networked environments, Overview of
+software scanning tools (SAST, DAST, SCA), Black Duck – Software Composition Analysis
+for open-source dependencies, CI/CD Pipeline and Scanner Development, Security
+best practices for modern web, cloud, and API-based applications.
+TEXT BOOKS:
+1. Computer Networks, Andrew S. Tanenbaum, David J. Wetherall, 5th Edition, Pearson
+Education/Prentice-Hall of India
+2. Implementing DevOps Practices: Understand Application Security Testing and
+Secure Coding By Integrating SAST and DAST, Vandana Verma Sehgal, 1st Edition,
+Packt Publishing, 2023
+REFERENCES:
+1. An Engineering Approach to Computer Networks, S. Keshav, 2nd Edition, Pearson
+Education
+2. Data Communications and Networking, Behrouz A. Forouzan, 3rd Edition, Tata
+McGraw-Hill
+32
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA II Semester
+(25PC1CA08) DATA MINING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Database Management Systems
+COURSE OBJECTIVES:
+• To learn data mining concepts, understand association rules mining
+• To discuss classification algorithms, learn how data is grouped using clustering
+techniques
+• To develop the abilities of critical analysis to data mining systems and applications
+• To implement practical and theoretical understanding of the technologies for data
+mining
+• To understand the strengths and limitations of various data mining models
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Perform the preprocessing of data and apply mining techniques on it
+CO-2: Identify the association rules, classification and clusters in large data sets
+CO-3: Solve real world problems in business and scientific information using data
+mining
+CO-4: Classify web pages, extracting knowledge from the web
+UNIT-I:
+Introduction to Data Mining: Introduction, What is Data Mining, Definition, KDD,
+Challenges, Data Mining Tasks, Data Pre-processing, Data Cleaning, Missing data,
+Dimensionality Reduction, Feature Subset Selection, Discretization and Binarization,
+Data Transformation; Measures of Similarity and Dissimilarity- Basics.
+UNIT-II:
+Association Rules: Problem Definition, Frequent Item Set Generation, The APRIORI
+Principle, Support and Confidence Measures, Association Rule Generation; APRIOIRI
+Algorithm, The Partition Algorithms, FP-Growth Algorithms, Compact Representation of
+Frequent Item Set- Maximal Frequent Item Set, Closed Frequent Item Set.
+UNIT-III:
+Classification: Problem Definition, General Approaches to solving a classification
+problem, Evaluation of Classifiers, Classification techniques, Decision Trees-Decision
+tree Construction, Methods for Expressing attribute test conditions, Measures for
+Selecting the Best Split, Algorithm for Decision tree Induction; Naive-Bayes Classifier,
+Bayesian Belief Networks; K- Nearest neighbor classification-Algorithm and
+Characteristics.
+UNIT-IV:
+Clustering: Problem Definition, Clustering Overview, Evaluation of Clustering
+Algorithms, Partitioning Clustering- K-Means Algorithm, K-Means - Additional issues,
+PAM Algorithm; Hierarchical Clustering-Agglomerative Methods and divisive methods,
+33
+Basic Agglomerative Hierarchical Clustering Algorithm, Specific techniques, Key Issues
+in Hierarchical Clustering, Strengths and Weakness; Outlier Detection.
+UNIT-V:
+Web and Text Mining: Introduction, web mining, web content mining, web structure
+mining, we usage mining, Text mining –unstructured text, episode rule discovery for
+texts, hierarchy of categories, text clustering.
+TEXTBOOKS:
+1. Data Mining- Concepts and Techniques, Jiawei Han, Micheline Kamber, 3rd Edition,
+Morgan Kaufmann, 2006
+2. Introduction to Data Mining, Pang-Ning Tan, Vipin Kumar, Michael Steinbanch,
+Pearson Education
+3. Data Mining Techniques and Applications, Hongbo Du, Cengage India
+REFERENCES:
+1. Data Mining Techniques, Arun K. Pujari, 3rd Edition, Universities Press
+2. Data Mining Principles & Applications, T. V Sveresh Kumar, B. Esware Reddy,
+Jagadish S. Kalimani, Elsevier
+3. Data Mining, Vikaram Pudi, P. Radha Krishna, Oxford University Press
+34
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA II Semester
+(25PC1CA09) SOFTWARE ENGINEERING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To provide an understanding of the working knowledge of the techniques for
+estimation, design, testing and quality management of large software
+development projects
+• To inculcate process models, software requirements, software design, software
+testing, software process/product metrics, risk management, quality management
+and UML diagrams
+• To learn the importance software quality assurance.
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Translate end-user requirements into system and software requirements, using
+e.g. UML, and structure the requirements in a Software Requirements Document (SRD)
+CO-2: Identify and apply appropriate software architectures and patterns to carry out
+high level design of a system and be able to critically compare alternative choices
+CO-3: Experience and/or awareness of testing problems and will be able to develop
+a simple testing report
+UNIT-I:
+Introduction to Software Engineering: The evolving role of software, changing nature
+of software, software myths.
+A Generic View of Process: Software engineering- a layered technology, a process
+framework, the Capability Maturity Model Integration (CMMI)
+Process Models: The waterfall model, Spiral model and Agile methodology
+UNIT-II:
+Software Requirements: Functional and non-functional requirements, user
+requirements, system requirements, interface specification, the software requirements
+document.
+Requirements Engineering Process: Feasibility studies, requirements elicitation and
+analysis, requirements validation, requirements management.
+UNIT-III:
+Design Engineering: Design process and design quality, design concepts, the design
+model.
+Creating an Architectural Design: software architecture, data design, architectural
+styles and patterns, architectural design, conceptual model of UML, basic structural
+modeling, class diagrams, sequence diagrams, collaboration diagrams, use case
+diagrams, component diagrams.
+UNIT-IV:
+Testing Strategies: A strategic approach to software testing, test strategies for
+conventional software, black-box and white-box testing, validation testing, system
+35
+testing, the art of debugging.
+Metrics for Process and Products: Software measurement, metrics for software quality.
+UNIT-V:
+Risk Management: Reactive Vs proactive risk strategies, software risks, risk
+identification, risk projection, risk refinement, RMMM
+Quality Management: Quality concepts, software quality assurance, software reviews,
+formal technical reviews, statistical software quality assurance, software reliability, the
+ISO 9000 quality standards.
+TEXT BOOKS:
+1. Software Engineering, A Practitioner’s Approach, Roger S. Pressman, 6th Edition,
+McGraw-Hill International Edition
+2. Software Engineering, Sommerville, 7th Edition, Pearson Education
+REFERENCES:
+1. The Unified Modeling Language User Guide, Grady Booch, James Rambaugh, Ivar
+Jacobson, Pearson Education
+2. Software Engineering, An Engineering Approach, James F. Peters, Witold Pedrycz,
+John Wiley
+3. Software Engineering Principles and Practice, Waman S. Jawadekar, McGraw-Hill
+Companies
+4. Fundamentals of Object-Oriented Design using UML, Meiler Page-Jones, Pearson
+Education
+36
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA II Semester
+(25PC2CA04) JAVA PROGRAMMING LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 4 2 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To understand OOP principles
+• To understand the Exception Handling mechanism
+• To understand Java collection framework
+• To understand multithreaded programming
+• To understand swing controls in Java
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Write the programs for solving real world problems using Java OOP principles
+CO-2: Write programs using Exceptional Handling approach
+CO-3: Write multithreaded applications
+CO-4: Write GUI programs using swing controls in Java
+LIST OF EXPERIMENTS:
+1. Use Eclipse or Net bean platform and acquaint yourself with the various menus.
+Create a test project, add a test class, and run it. See how you can use auto
+suggestions, auto fill. Try code formatter and code refactoring like renaming
+variables, methods, and classes. Try debug step by step with a small program of
+about 10 to 15 lines which contains at least one if else condition and a for loop.
+2. Write a Java program to demonstrate the OOP principles. [i.e., Encapsulation,
+Inheritance, Polymorphism and Abstraction]
+3. Write a Java program to handle checked and unchecked exceptions. Also,
+demonstrate the usage of custom exceptions in real time scenario.
+4. Write a Java program on Random Access File class to perform different read and
+write operations.
+5. Write a Java program to demonstrate the working of different collection classes.
+[Use package structure to store multiple classes].
+6. Write a program to synchronize the threads acting on the same object. [Consider
+the example of any reservations like railway, bus, movie ticket booking, etc.]
+7. Write a program to perform CRUD operations on the student table in a database
+using JDBC.
+8. Write a Java program that works as a simple calculator. Use a grid layout to
+arrange buttons for the digits and for the +, -,*, % operations. Add a text field to
+display the result. Handle any possible exceptions like divided by zero.
+37
+9. Write a Java program that handles all mouse events and shows the event name
+at the center of the window when a mouse event is fired. [Use Adapter classes]
+38
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA II Semester
+(25PC2CA05) OPERATING SYSTEMS LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 3 1.5 10 10 10 10 60 100
+COURSE PRE-REQUISITES: Programming for Problem Solving, Computer Organization
+and Architecture, and co-requisite on Operating Systems
+COURSE OBJECTIVES:
+• To provide an understanding of the design aspects of operating system concepts
+through simulation
+• To Introduce basic Unix commands, system call interface for process
+management, interprocess communication and I/O in Unix
+• To understand file management and memory management techniques
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Simulate CPU scheduling algorithms
+CO-2: Implement C programs using Unix system calls
+CO-3: Simulate memory management, file management techniques and Page
+replacement policies
+LIST OF EXPERIMENTS:
+1. Write C programs to simulate the following CPU Scheduling algorithms
+a) FCFS b) SJF c) Round Robin d) priority
+2. Write programs using the I/O system calls of UNIX/LINUX operating system (open,
+read, write, close, fcntl, seek, stat, opendir, readdir)
+3. Write a C program to simulate Bankers Algorithm for Deadlock Avoidance and
+Prevention.
+4. Write a C program to implement the Producer-Consumer problem using
+semaphores using UNIX/ LINUX system calls.
+5. Write C programs to illustrate the following IPC mechanisms
+a) Pipes b) FIFOs c) Message Queues d) Shared Memory
+6. Write C programs to simulate the following memory management techniques
+a) Paging b) Segmentation
+7. Write C programs to simulate Page replacement policies
+a) FCFS b) LRU c) Optimal
+TEXT BOOKS:
+1. Operating System Principles, Abraham Silberchatz, Peter B. Galvin, Greg Gagne
+7th Edition, John Wiley
+39
+2. Advanced Programming in The Unix Environment, W. R. Stevens, Pearson
+Education
+3. Operating Systems: A Modern Perspective, Gary J. Nutt
+40
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA II Semester
+(25PC2CA06) COMPUTER NETWORKS LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 3 1.5 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To understand the working principle of various communication protocols
+• To understand the network simulator environment and visualize a network topology
+and observe its performance
+• To analyze the traffic flow and the contents of protocol frames
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Implement data link layer farming methods
+CO-2: Analyze error detection and error correction codes
+CO-3: Implement and analyze routing and congestion issues in network design
+CO-4: Implement Encoding and Decoding techniques used in presentation layer
+CO-5: To be able to work with different network tools
+LIST OF EXPERIMENTS:
+1. Implement the data link layer framing methods such as character, character-
+stuffing and bit stuffing.
+2. Write a program to compute CRC code for the polynomials CRC-12, CRC-16 and
+CRC CCIP
+3. Develop a simple data link layer that performs the flow control using the sliding
+window protocol, and loss recovery using the Go-Back-N mechanism.
+4. Implement Dijsktra’s algorithm to compute the shortest path through a network
+5. Take an example subnet of hosts and obtain a broadcast tree for the subnet.
+6. Implement distance vector routing algorithm for obtaining routing tables at each
+node.
+7. Implement data encryption and data decryption
+8. Write a program for congestion control using Leaky bucket algorithm.
+9. Write a program for frame sorting techniques used in buffers.
+10. Wireshark
+i. Packet Capture Using Wire shark
+ii. Starting Wire shark
+iii. Viewing Captured Traffic
+iv. Analysis and Statistics & Filters.
+11. How to run Nmap scan
+12. Operating System Detection using Nmap
+13. Do the following using NS2 Simulator
+i. NS2 Simulator: Introduction
+ii. Simulate to Find the Number of Packets Dropped
+iii. Simulate to Find the Number of Packets Dropped by TCP/UDP
+iv. Simulate to Find the Number of Packets Dropped due to Congestion
+v. Simulate to Compare Data Rate & Throughput.
+vi. Simulate to Plot Congestion for Different Source/Destination
+41
+vii. Simulate to Determine the Performance with respect to Transmission of Packets
+42
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA III Semester
+(25PC1CA10) ENTERPRISE CLOUD CONCEPTS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To know significance of cloud computing and its fundamental concepts and
+models
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand importance of cloud architecture
+CO-2: Illustrating the fundamental concepts of cloud security
+CO-3: Analyze various cloud computing mechanisms
+CO-4: Understanding the architecture and working of cloud computing
+UNIT-I:
+Understanding Cloud Computing: Origins and influences, Basic Concepts and
+Terminology, Goals and Benefits, Risks and Challenges.
+Fundamental Concepts and Models: Roles and Boundaries, Cloud Characteristics,
+Cloud Delivery Models, Cloud Deployment Models.
+UNIT-II:
+Cloud-Enabling Technology: Broadband Networks and Internet Architecture, Data
+Center Technology, Virtualization Technology
+Cloud Computing Mechanisms, Cloud Infrastructure Mechanisms: Logical Network
+Perimeter, Virtual Server, Cloud Storage Device, Cloud Usage Monitor, Resource
+Replication
+UNIT-III:
+Cloud Management Mechanisms: Remote Administration System, Resource
+Management System, SLA Management System, Billing Management System, Case
+Study Example
+Cloud Computing Architecture
+Fundamental Cloud Architectures: Workload Distribution Architecture, Resource
+Pooling Architecture, Dynamic Scalability Architecture, Elastic Resource Capacity
+Architecture, Service Load Balancing Architecture, Cloud Bursting Architecture, Elastic
+Disk Provisioning Architecture, Redundant Storage Architecture, Case Study Example
+UNIT-IV:
+Cloud-Enabled Smart Enterprises: Introduction, Revisiting the Enterprise Journey,
+Service-Oriented Enterprises, Cloud Enterprises, Smart Enterprises, The Enabling
+Mechanisms of Smart Enterprises
+Cloud-Inspired Enterprise Transformations: Introduction, The Cloud Scheme for
+Enterprise Success, Elucidating the Evolving Cloud Idea, Implications of the Cloud on
+Enterprise Strategy, Establishing a Cloud- Incorporated Business Strategy
+43
+UNIT-V:
+Transitioning to Cloud-Centric Enterprises: The Tuning Methodology, Contract
+Management in the Cloud
+Cloud-Instigated IT Transformations: Introduction, Explaining Cloud Infrastructures, A
+Briefing on Next- Generation Services, Service Infrastructures, Cloud Infrastructures,
+Cloud Infrastructure Solutions, Clouds for Business Continuity, The Relevance of Private
+Clouds, The Emergence of Enterprise Clouds
+TEXT BOOKS:
+1. Cloud Computing: Concepts, Technology & Architecture, Erl Thomas, Puttini
+Ricardo, Mahmood Zaigham, 1st Edition
+2. Cloud Enterprise Architecture, Pethuru Raj, CRC Press
+REFERENCE:
+1. The Enterprise Cloud, James Bond, O'Reilly Media
+44
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA III Semester
+(25PC1CA11) FULL STACK DEVELOPMENT
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To learn the core concepts of both the frontend and backend programming
+course
+• To get familiar with the latest web development technologies
+• To learn all about databases.
+• To learn complete web development process
+• To provide an in-depth study of the various web development tools
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Develop a fully functioning website and deploy on a web server
+CO-2: Gain Knowledge about the front-end and back-end Tools
+CO-3: Find and use code packages based on their documentation to produce
+working results in a project
+CO-4: Create web pages that function using external data
+UNIT-I:
+Web Development Basics: Web development Basics - HTML & Web servers Shell - UNIX
+CLI Version control - Git & Github HTML, CSS
+UNIT-II:
+Frontend Development: Javascript basics OOPS Aspects of JavaScript Memory usage
+and Functions in JS AJAX for data exchange with server jQuery Framework jQuery
+events, UI components etc. JSON data format.
+UNIT-III:
+REACT JS: Introduction to React React Router and Single Page Applications React
+Forms, Flow Architecture and Introduction to Redux More Redux and Client-Server
+Communication
+UNIT-IV:
+Java Web Development: JAVA PROGRAMMING BASICS, Model View Controller (MVC)
+Pattern MVC Architecture using Spring RESTful API using Spring Framework Building an
+application using Maven
+UNIT-V:
+Databases & Deployment: Relational schemas and normalization Structured Query
+Language (SQL) Data persistence using Spring JDBC Agile development principles
+and deploying application in Cloud
+TEXT BOOKS:
+1. Web Design with HTML, CSS, JavaScript and JQuery Set, Jon Duckett
+2. Professional JavaScript for Web Developers, Nicholas C. Zakas
+45
+3. Learning PHP, MySQL, JavaScript, CSS & HTML5: A Step-by-Step Guide to Creating
+Dynamic Websites, Robin Nixon
+REFERENCES:
+1. Full Stack JavaScript: Learn Backbone.js, Node.js and MongoDB, Azat Mardan
+2. Full-Stack JavaScript Development, Eric Bush
+3. Mastering Full Stack React Web Development, Tomasz Dyl, Kamil Przeorski, Maciej
+Czarnecki, 2017
+46
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA III Semester
+(25PC1CA12) MACHINE LEARNING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To introduce basic concepts and techniques of machine learning
+• To understand Supervised and Unsupervised learning techniques
+• To study the various probability-based learning techniques
+• To understand graphical models of machine learning algorithms
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Distinguish between, supervised, unsupervised and semi-supervised learning
+CO-2: Apply the apt machine learning strategy for any given problem
+CO-3: Suggest supervised, unsupervised or semi-supervised learning algorithms for any
+given problem
+CO-4: Design systems that use the appropriate graph models of machine learning
+CO-5: Modify existing machine learning algorithms to improve classification efficiency
+UNIT-I:
+Introduction: Learning – Types of Machine Learning – Supervised Learning – The Brain
+and the Neuron – Design a Learning System – Perspectives and Issues in Machine
+Learning – Concept Learning Task – Concept Learning as Search – Finding a Maximally
+Specific Hypothesis – Version Spaces and the Candidate Elimination Algorithm – Linear
+Discriminants: – Perceptron – Linear Separability – Linear Regression.
+UNIT-II:
+Linear Models: Multi-layer Perceptron– Going Forwards – Going Backwards: Back
+Propagation Error – Multi-layer Perceptron in Practice – Examples of using the MLP –
+Overview – Deriving Back-Propagation – Radial Basis Functions and Splines – Concepts
+– RBF Network – Curse of Dimensionality – Interpolations and Basis Functions – Support
+Vector Machines
+UNIT-III:
+Tree and Probabilistic Models: Learning with Trees – Decision Trees – Constructing
+Decision Trees – Classification and Regression Trees – Ensemble Learning – Boosting –
+Bagging – Different ways to Combine Classifiers – Basic Statistics – Gaussian Mixture
+Models – Nearest Neighbor Methods – Unsupervised Learning – K means Algorithms
+UNIT-IV:
+Dimensionality Reduction and Evolutionary Models: Dimensionality Reduction – Linear
+Discriminant Analysis – Principal Component Analysis – Factor Analysis – Independent
+Component Analysis – Locally Linear Embedding – Isomap – Least Squares
+Optimization – Evolutionary Learning – Genetic algorithms – Genetic Offspring: -
+Genetic Operators – Using Genetic Algorithms – Reinforcement Learning – Overview –
+Getting Lost Example
+47
+UNIT-V:
+Graphical Models: Markov Chain Monte Carlo Methods – Sampling – Proposal
+Distribution – Markov Chain Monte Carlo – Graphical Models – Bayesian Networks –
+Markov Random Fields – Hidden Markov Models – Tracking Methods
+TEXT BOOKS:
+1. Machine Learning – An Algorithmic Perspective, Stephen Marsland, 2nd Edition,
+Chapman and Hall/ CRC Machine Learning and Pattern Recognition Series, 2014
+2. Machine Learning, Tom M. Mitchell, 1st Edition, McGraw-Hill Education, 2013
+REFERENCES:
+1. Machine Learning: The Art and Science of Algorithms that Make Sense of Data,
+Peter Flach, 1st Edition, Cambridge University Press, 2012
+2. Machine Learning – Hands on for Developers and Technical Professionals, Jason
+Bell, 1st Edition, Wiley, 2014
+3. Introduction to Machine Learning, (Adaptive Computation and Machine Learning
+Series), Ethem Alpaydin, 3rd Edition, MIT Press, 2014
+48
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA III Semester
+(25PE1CA01) ARTIFICIAL INTELLIGENCE
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Computer Programming and Data Structures, Advanced
+Data Structures, Design and Analysis of Algorithms, Mathematical Foundations of
+Computer Science, Linear Algebra, Data Structures and Algorithms and Probability
+COURSE OBJECTIVES:
+• To learn the distinction between optimal reasoning Vs. human like reasoning
+• To understand the concepts of state space representation, exhaustive search,
+heuristic search together with the time and space complexities
+• To learn different knowledge representation techniques
+• To understand the applications of AI, namely game playing, theorem proving, and
+machine learning
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Formulate an efficient problem space for a problem expressed in natural
+language
+CO-2: Select a search algorithm for a problem and estimate its time and space
+complexities
+CO-3: Representing knowledge using the appropriate technique for a given problem
+CO-4: Apply AI techniques to solve problems of game playing, and machine learning
+CO-5: Apply AI techniques in various applications
+UNIT-I:
+Problem Solving by Search-I: Introduction to AI, Intelligent Agents
+Problem Solving by Search – II: Problem-Solving Agents, Searching for Solutions,
+Uninformed Search Strategies: Breadth-first search, Uniform cost search, Depth-first
+search, Iterative deepening Depth-first search, Bidirectional search, Informed
+(Heuristic) Search Strategies: Greedy best-first search, A* search, Heuristic Functions,
+Beyond Classical Search: Hill-climbing search, Simulated annealing search.
+UNIT-II:
+Problem Solving by Search-II: Games, Optimal Decisions in Games, Alpha–Beta
+Pruning, Imperfect Real-Time Decisions.
+Constraint Satisfaction Problems: Defining Constraint Satisfaction Problems, Constraint
+Propagation, Backtracking Search for CSPs, Local Search for CSPs, The Structure of
+Problems.
+UNIT-III:
+Propositional Logic: Knowledge-Based Agents, The Wumpus World, Logic,
+Propositional Logic, Propositional Theorem Proving: Inference and proofs, Proof by
+resolution, Horn clauses and definite clauses, Forward and backward chaining,
+Effective Propositional Model Checking, Agents Based on Propositional Logic.
+Logic and Knowledge Representation First-Order Logic: Representation, Syntax and
+49
+Semantics of First-Order Logic, Using First-Order Logic, Knowledge Engineering in First-
+Order Logic.
+Inference in First-Order Logic: Propositional vs. First-Order Inference, Unification and
+Lifting, Forward Chaining, Backward Chaining, Resolution.
+UNIT-IV:
+Knowledge Representation: Ontological Engineering, Categories and Objects, Events.
+Mental Events and Mental Objects, Reasoning Systems for Categories, Reasoning with
+Default Information.
+Planning - Classical Planning: Definition of Classical Planning, Algorithms for Planning
+with State-Space Search, Planning Graphs, other Classical Planning Approaches,
+Analysis of Planning approaches.
+Learning: Forms of Learning, Supervised Learning, Learning Decision Trees.
+UNIT-V:
+Knowledge in Learning: Logical Formulation of Learning, Knowledge in Learning,
+Explanation-Based Learning, Learning Using Relevance Information, Inductive Logic
+Programming. Introduction to Generative AI and its applications. Introduction to
+Agentic AI, Definition of Agents, Agent Architecture.
+TEXT BOOKS:
+1. Artificial Intelligence: A Modern Approach, Stuart Russell and Peter Norvig, 3rd
+Edition, Pearson Education
+2. Generative AI for Everyone: Understanding the Essentials and Applications of this
+Breakthrough Technology
+3. Large Language Models: A Deep Dive Bridging Theory and Practice, Uday Kamath,
+Kevin Keenan, Garrett Somers, Sarah Sorenson, Springer
+REFERENCES:
+1. Artificial Intelligence, E. Rich and K. Knight, 3rd Edition, Tata McGraw-Hill
+2. Artificial Intelligence, Patrick Henry Winston, 3rd Edition, Pearson Education
+3. Artificial Intelligence, Shivani Goel, Pearson Education
+4. Artificial Intelligence and Expert Systems, Patterson, Pearson Education
+50
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA III Semester
+(25PE1CA02) INFORMATION RETRIEVAL SYSTEMS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Data Structures
+COURSE OBJECTIVES:
+• To learn the important concepts and algorithms in information retrieval systems
+• To understand the data/file structures that are necessary to design, and implement
+information retrieval systems
+• To understand the Multimedia Information Retrieval
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply IR principles to locate relevant information large collections of data
+CO-2: Design different document clustering algorithms
+CO-3: Implement retrieval systems for web search tasks
+CO-4: Design an Information Retrieval System for web search tasks
+UNIT-I:
+Introduction to Information Retrieval Systems: Definition of Information Retrieval
+System, Objectives of Information Retrieval Systems, Functional Overview, Relationship
+to Database Management Systems, Digital Libraries and Data Warehouses
+Information Retrieval System Capabilities: Search Capabilities, Browse Capabilities,
+Miscellaneous Capabilities
+UNIT-II:
+Cataloging and Indexing: History and Objectives of Indexing, Indexing Process,
+Automatic Indexing, Information Extraction
+Data Structure: Introduction to Data Structure, Stemming Algorithms, Inverted File
+Structure, N-Gram Data Structures, PAT Data Structure, Signature File Structure,
+Hypertext and XML Data Structures, Hidden Markov Models
+UNIT-III:
+Automatic Indexing: Classes of Automatic Indexing, Statistical Indexing, Natural
+Language, Concept Indexing, Hypertext Linkages
+Document and Term Clustering: Introduction to Clustering, Thesaurus Generation, Item
+Clustering, Hierarchy of Clusters
+UNIT-IV:
+User Search Techniques: Search Statements and Binding, Similarity Measures and
+Ranking, Relevance Feedback, Selective Dissemination of Information Search,
+Weighted Searches of Boolean Systems, Searching the INTERNET and Hypertext
+Information Visualization: Introduction to Information Visualization, Cognition and
+Perception, Information Visualization Technologies
+UNIT-V:
+51
+Text Search Algorithms: Introduction to Text Search Techniques, Software Text Search
+Algorithms, Hardware Text Search Systems
+Multimedia Information Retrieval: Spoken Language Audio Retrieval, Non-Speech
+Audio Retrieval, Graph Retrieval, Image Retrieval, Video Retrieval
+TEXT BOOK:
+1. Information Storage and Retrieval Systems – Theory and Implementation, Gerald
+J. Kowalski, Mark T. Maybury, 2nd Edition, Springer
+2. Introduction to Information Retrieval, Christopher D. Manning, Prabhakar
+Raghavan, and Hinrich Schütze, 1st Edition, Cambridge University Press
+REFERENCES:
+1. Information Retrieval Data Structures and Algorithms, Frakes, W. B., Ricardo Baeza-
+Yates, Prentice Hall, 1992
+2. Information Storage & Retrieval, Robert Korfhage, John Wiley & Sons
+3. Modern Information Retrieval, Yates and Neto Pearson Education
+52
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA III Semester
+(25PE1CA03) AD-HOC AND SENSOR NETWORKS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Computer Networks, Distributed Systems, Mobile Computing
+COURSE OBJECTIVES:
+• To understand the concepts of sensor networks
+• To understand the MAC and transport protocols for Ad hoc networks
+• To understand the security of sensor networks
+• To understand the applications of Ad hoc and sensor networks
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand challenges of MANETs and routing in MANETs in ad hoc and wireless
+sensor networks (ASN)
+CO-2: Analyze data transmission and geocasting in ad hoc and wireless sensor
+networks (ASN)
+CO-3: Understand basics of Wireless, Sensors and Lower Layer Issues and Upper Layer
+Issues of WSN
+UNIT-I:
+Introduction to Ad Hoc Networks: Characteristics of MANETs, Applications of MANETs
+and Challenges of MANETs.
+Routing in MANETs: Criteria for classification, Taxonomy of MANET routing algorithms,
+Topology-based routing algorithms- Proactive: DSDV, WRP; Reactive: DSR, AODV,
+TORA;
+Hybrid: ZRP; Position- based routing algorithms- Location Services-DREAM, Quorum-
+based, GLS; Forwarding.
+Strategies: Greedy Packet, Restricted Directional Flooding-DREAM, LAR; Other routing
+algorithms-QoS Routing, CEDAR.
+UNIT-II:
+Data Transmission: Broadcast Storm Problem, Rebroadcasting Schemes-Simple-
+flooding, Probability-based Methods, Area- based Methods, Neighbour Knowledge-
+based: SBA, Multipoint Relaying, AHBP. Multicasting: Tree-based: AMRIS, MAODV;
+Mesh-based: ODMRP, CAMP; Hybrid: AMRoute, MCEDAR and Geocasting: Data-
+transmission Oriented-LBM; Route Creation Oriented-GeoTORA, MGR.
+UNIT-III:
+Geocasting: Data-transmission Oriented-LBM; Route Creation Oriented-GeoTORA,
+MGR. TCP over Ad Hoc TCP protocol overview, TCP and MANETs, Solutions for TCP over
+Ad hoc
+UNIT-IV:
+Basics of Wireless, Sensors and Lower Layer Issues: Applications, Classification of sensor
+networks, Architecture of sensor network, Physical layer, MAC layer, Link layer, Routing
+53
+Layer.
+UNIT-V:
+Upper Layer Issues of WSN: Transport layer, High-level application layer support,
+Adapting to the inherent dynamic nature of WSNs, Sensor Networks and mobile robots.
+TEXT BOOKS:
+1. Ad Hoc and Sensor Networks – Theory and Applications, Carlos Corderio Dharma
+P. Aggarwal, World Scientific Publications, 2006
+2. Wireless Sensor Networks: An Information Processing Approach, Feng Zhao,
+Leonidas Guibas, Elsevier Science, Morgan Kauffman
+REFERENCES:
+1. Ad Hoc Wireless Networks: Architectures and Protocols, C. Siva Ram Murthy, B. S.
+Manoj
+2. Wireless Sensor Networks: Technology, Protocols and Applications, Taieb Znati
+Kazem Sohraby, Daniel Minoli, Wiley
+54
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA III Semester
+(25PE1CA04) DESIGN AND ANALYSIS OF ALGORITHMS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Computer Programming and Data Structures, Mathematical
+Foundations of Computer Science
+COURSE OBJECTIVES:
+• To learn algorithms time complexity and various data structures
+• To learn divide and conquer approach and greedy method, heuristic search
+together with the time and space complexities
+• To learn dynamic programming and backtracking methods
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the algorithms time complexity and various data structures
+CO-2: Apply divide and conquer approach and greedy method based on the
+applications
+CO-3: Analyze the dynamic programming and backtracking techniques
+UNIT-I:
+Introduction to Algorithms: Algorithm Specification, Performance Analysis,
+Randomized Algorithms.
+Elementary Data Structures: Stacks and Queues, Trees, Dictionaries, Priority Queues,
+Sets and Disjoint Set Union, Graphs.
+UNIT-II:
+Divide and Conquer: Binary Search, Finding the Maximum and Minimum, Merge Sort;
+Quick Sort, Selection sort, Strassen's Matrix Multiplication, Convex Hull.
+The Greedy Method: Knapsack Problem, Tree Vertex Splitting, Job Sequencing with
+Deadlines, Minimum-Cost Spanning Trees, Single Source Shortest Paths.
+UNIT-III:
+Dynamic Programming: General Method, Multistage Graphs, All-Pairs Shortest Paths,
+Single-Source Shortest Paths, Optimal Binary Search Trees, 0/1 Knapsack, The Traveling
+Salesperson Problem.
+Basic Traversal and Search Techniques: Techniques for Binary Trees, Techniques for
+Graphs, Connected Components and Spanning Trees, Biconnected Components
+and DFS
+UNIT-IV:
+Back Tracking: General Method, 8-Queens Problem, Sum of Subsets, Graph Coloring,
+Hamiltonian Cycles, Knapsack Problem.
+Branch-Bound: The Method,0/1 Knapsack Problem, Traveling Sales Person.
+UNIT-V:
+NP-Hard and NP-Complete Problems: Basic Concepts, Cook's Theorem, NPHard.
+55
+Graph Problems, NP-Hard Scheduling Problems, NP-Hard Code Generation, Some
+Simplified NP-Hard Problems.
+TEXT BOOKS:
+1. Fundamentals of Computer Algorithms, E. Horowitz, S. Sahni, S. Rajasekaran, 2nd
+Edition, Universities Press, 2007
+2. Design and Analysis of Algorithms, R. Panneerselvam, Prentice-Hall of India, 2007
+REFERENCES:
+1. Design, Analysis and Algorithm, Hari Mohan Pandey, University Science Press, 2009
+2. Introduction to Algorithms, T. H. Cormen, C. E. Leiserson, R. L. Rivert, C. Stein, 3rd
+Edition, Prentice-Hall of India, 2010
+56
+8. VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA III Semester
+(25PE1CA05) CYBER SECURITY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand various types of cyber-attacks and cyber-crimes
+• To learn threats and risks within context of the cyber security
+• To have an overview of the cyber laws & concepts of cyber forensics
+• To study the defensive techniques against these attacks
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Analyze and evaluate the cyber security needs of an organization
+CO-2: Understand Cyber Security Regulations and Roles of International Law
+CO-3: Design and develop a security architecture for an organization
+CO-4: Understand fundamental concepts of data privacy attacks
+UNIT-I:
+Introduction to Cyber Security: Basic Cyber Security Concepts, layers of security,
+Vulnerability, threat, Harmful acts, Internet Governance – Challenges and Constraints,
+Computer Criminals, CIA Triad, Assets and Threat, motive of attackers, active attacks,
+passive attacks, Software attacks, hardware attacks, Cyber Threats-Cyber Warfare,
+Cyber Crime, Cyber terrorism, Cyber Espionage, etc., Comprehensive Cyber Security
+Policy.
+UNIT-II:
+Cyberspace and the Law & Cyber Forensics: Introduction, Cyber Security Regulations,
+Roles of International Law. The INDIAN Cyberspace, National Cyber Security Policy.
+Introduction, Historical background of Cyber forensics, Digital Forensics Science, The
+Need for Computer Forensics, Cyber Forensics and Digital evidence, Forensics Analysis
+of Email, Digital Forensics Lifecycle, Forensics Investigation, Challenges in Computer
+Forensics
+UNIT-III:
+Cybercrime: Mobile and Wireless Devices: Introduction, Proliferation of Mobile and
+Wireless Devices, Trends in Mobility, Credit card Frauds in Mobile and Wireless
+Computing Era, Security Challenges Posed by Mobile Devices, Registry Settings for
+Mobile Devices, Authentication service Security, Attacks on Mobile/Cell Phones,
+Organizational security Policies and Measures in Mobile Computing Era, Laptops.
+UNIT-IV:
+Cyber Security: Organizational Implications: Introduction, cost of cybercrimes and IPR
+issues, web threats for organizations, security and privacy implications, social media
+marketing: security risks and perils for organizations, social computing and the
+associated challenges for organizations
+57
+UNIT-V:
+Privacy Issues: Basic Data Privacy Concepts: Fundamental Concepts, Data Privacy
+Attacks, Data linking and profiling, privacy policies and their specifications, privacy
+policy languages, privacy in different domains- medical, financial, etc
+Cybercrime: Examples and Mini-Cases
+Examples: Official Website of Maharashtra Government Hacked, Indian Banks Lose
+Millions of Rupees, Parliament Attack, Pune City Police Bust Nigerian Racket, e-mail
+spoofing instances. Mini-Cases: The Indian Case of online Gambling, An Indian Case
+of Intellectual Property Crime, Financial Frauds in Cyber Domain.
+TEXT BOOKS:
+1. Cyber Security Understanding Cyber Crimes, Computer Forensics and Legal
+Perspectives, Nina Godbole and Sunit Belpure, Wiley
+2. Computer and Cyber Security: Principles, Algorithm, Applications, and
+Perspectives, B. B. Gupta, D. P. Agrawal, Haoxiang Wang, CRC Press
+REFERENCES:
+1. Cyber Security Essentials, James Graham, Richard Howard and Ryan Otson, CRC
+Press
+2. Introduction to Cyber Security, Chwan-Hwa(john) Wu,J. David Irwin, CRC Press T &
+F Group
+58
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA III Semester
+(25PE1CA06) MOBILE COMPUTING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Computer Networks, Distributed Systems / Distributed
+Operating Systems
+COURSE OBJECTIVES:
+• To understand the concept of mobile computing paradigm, its novel applications
+and limitations, the typical mobile networking infrastructure through a popular GSM
+protocol, the issues and solutions of various layers of mobile networks
+• To learn the concepts of Data synchronization
+• To understand the Mobile Ad hoc Networks
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the concept of mobile computing paradigm, its novel applications
+and limitations
+CO-2: Analyze and develop new mobile applications
+CO-3: Understand the protocols and platforms related to mobile environment
+CO-4: Classify data delivery mechanisms
+UNIT-I:
+Introduction: Mobile Communications, Mobile Computing – Paradigm, Promises/Novel
+Applications and Impediments and Architecture; Mobile and Handheld Devices,
+Limitations of Mobile and Handheld Devices.
+GSM – Services, System Architecture, Radio Interfaces, Protocols, Localization, Calling,
+Handover, Security, New Data Services, GPRS, CSHSD, DECT.
+UNIT-II:
+(Wireless) Medium Access Control (MAC): Motivation for a specialized MAC (Hidden
+and exposed terminals, Near and far terminals), SDMA, FDMA, TDMA, CDMA, Wireless
+LAN/(IEEE 802.11)
+Mobile Network Layer: IP and Mobile IP Network Layers, Packet Delivery and Handover
+Management, Location Management, Registration, Tunneling and Encapsulation,
+Route Optimization, DHCP.
+UNIT-III:
+Mobile Transport Layer: Conventional TCP/IP Protocols, Indirect TCP, Snooping TCP,
+Mobile TCP, Other Transport Layer Protocols for Mobile Networks.
+Database Issues: Database Hoarding &amp; Caching Techniques, Client-Server
+Computing & Adaptation, Transactional Models, Query processing, Data Recovery
+Process & QoS Issues.
+UNIT-IV:
+Data Dissemination and Synchronization: Communications Asymmetry, Classification
+of Data Delivery Mechanisms, Data Dissemination, Broadcast Models, Selective Tuning
+59
+and Indexing Methods, Data Synchronization – Introduction, Software, and Protocols
+UNIT-V:
+Mobile Ad hoc Networks (MANETs): Introduction, Applications & Challenges of a
+MANET, Routing, Classification of Routing Algorithms, Algorithms such as DSR, AODV,
+DSDV, Mobile Agents, Service Discovery.
+TEXT BOOKS:
+1. Mobile Communications, Jochen Schiller, Addison-Wesley, 2nd Edition, 2009
+2. Mobile Computing, Raj Kamal, Oxford University Press, 2007
+3. Fundamentals of Mobile Computing, Pattnaik, Prasant Kumar, Mall, Rajib, 2nd
+Edition, Prentice-Hall of India
+REFERENCE:
+1. Mobile Computing: Technology, Applications and Service Creation, Asoke K.
+Talukder, Hasan Ahmed, Roopa Yavagal, McGraw-Hill Education
+60
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA III Semester
+(25PE1CA07) SOFTWARE TESTING METHODOLOGIES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Software Engineering
+COURSE OBJECTIVES:
+• To know the concepts in software testing such as testing process, criteria, strategies,
+and methodologies
+• To develop skills in software test automation and management using latest tools
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Know the basic concepts of software testing and its essential
+CO-2: Identify the various bugs and correcting them after knowing the consequences
+of the bug
+CO-3: Design and develop the best test strategies in accordance to the development
+model
+CO-4: Perform functional testing using control flow and transaction flow graphs
+UNIT-I:
+Introduction: Purpose of testing, Dichotomies, model for testing, consequences of
+bugs, taxonomy of bugs Flow graphs and Path testing: Basics concepts of path testing,
+predicates, path predicates and achievable paths, path sensitizing, path
+instrumentation, application of path testing.
+UNIT-II:
+Transaction Flow Testing: transaction flows, transaction flow testing techniques.
+Dataflow testing: Basics of dataflow testing, strategies in dataflow testing, application
+of dataflow testing.
+Domain Testing: domains and paths, Nice & ugly domains, domain testing, domains
+and interfaces testing, domains and testability.
+UNIT-III:
+Paths, Path Products and Regular Expressions: path products & path expression,
+reduction procedure, applications, regular expressions & flow anomaly detection.
+Logic Based Testing: overview, decision tables, path expressions, kv charts,
+specifications.
+UNIT-IV:
+State, State Graphs and Transition Testing: state graphs, good & bad state graphs, state
+testing, Testability tips.
+UNIT-V:
+Graph Matrices and Application: Motivational overview, matrix of graph, relations,
+power of a matrix, node reduction algorithm, building tools. (Student should be given
+an exposure to a tool like JMeter or Win- runner).
+61
+TEXT BOOKS:
+1. Software Testing Techniques, Baris Beizer, 2nd Edition, Dreamtech
+2. Software Testing Tools, Dr. K. V. K. K. Prasad, Dreamtech
+REFERENCES:
+1. The Craft of Software Testing, Brian Marick, Pearson Education
+2. Software Testing Techniques, SPD, O’Reilly
+3. Software Testing in the Real World, Edward Kit, Pearson
+4. Effective Methods of Software Testing, Perry, John Wiley
+5. Art of Software Testing, Meyers, John Wiley
+62
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA III Semester
+(25PE1CA08) COMPUTER ARCHITECTURE
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Mathematical Foundations of Computer Science
+COURSE OBJECTIVES:
+• To learn the basics of data representations and register micro-operations
+• To study CPU architecture and Computer Arithmetic algorithms
+• To learn the basics of I/O organization
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply data representation methods
+CO-2: Understand the CPU architecture and write Computer Arithmetic algorithms
+CO-3: Analyze the I/O operations
+UNIT-I:
+Data Representation: Data types, Complements, Fixed and Floating-Point
+representations, and Binary codes.
+Overview of Computer Function and Interconnections: Computer components,
+Interconnection structures, Bus interconnection, Bus structure, and Data transfer.
+UNIT-II:
+Register Transfer Micro operations: Register Transfer Language, Register Transfer, Bus
+and Memory Transfers, Arithmetic, Logic and Shift micro-operations, Arithmetic Logic
+Shift Unit.
+Basic Computer Organization and Design: Instruction Codes, Computer Registers,
+Computer Instructions, Timing and Control, Instruction Cycle, Memory reference
+instruction, Input-Output and Interrupt
+UNIT-III:
+Micro programmed Control: Control memory, Address Sequencing, Microprogram
+example, Design of Control Unit.
+Central Processing Unit: General Register Organization, Stack Organization, Instruction
+formats, Addressing modes, Data Transfer and Manipulation, and Program control.
+Computer Arithmetic: Addition and Subtraction, Multiplication, Division and Floating
+Point Arithmetic Operations
+UNIT-IV:
+Memory Organization: Memory Hierarchy, Main Memory, RAM and ROM, Auxiliary
+memory, Associative memory, Cache memory, Virtual memory, Memory
+Management hardware.
+UNIT-V:
+Input-Output Organization: Peripheral Devices, Input-Output Interface, Asynchronous
+data transfer, Modes of Transfer, Priority Interrupt, Direct Memory Access (DMA), I/O
+63
+Processor, Serial Communication.
+Pipeline Processing: Arithmetic, Instruction and RISC Pipelines.
+Assessing and Understanding Performance: CPU performance and its factors,
+Evaluating performance.
+TEXT BOOKS:
+1. Computer System Architecture, Morris Mano M., 3rd Edition, Pearson Education
+India, 2007
+2. Computer Organization and Architecture, William Stallings, 7th Edition, Prentice-Hall
+of India, 2008
+REFERENCES:
+1. Computer Organization and Design, David A. Patterson, John L. Hennessy, 5th
+Edition, Morgan Kaufmann, 2013
+2. Computer Organization, Carl Hamacher, Zvonko Vranesic, Safwat Zaky, 5th Edition,
+Tata McGraw-Hill Education, 2002
+64
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA III Semester
+(25PC2CA07) ENTERPRISE CLOUD CONCEPTS LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 3 1.5 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To know the significance of cloud computing and its fundamental concepts and
+models
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand importance of cloud architecture
+CO-2: Illustrating the fundamental concepts of cloud security
+CO-3: Analyze various cloud computing mechanisms
+CO-4: Understanding the architecture and working of cloud computing
+LIST OF EXPERIMENTS:
+1. Install Virtualbox/VMware Workstation with different flavors of linux or windows OS
+on top of windows7 or 8.
+2. Install a C compiler in the virtual machine created using virtual box and execute
+Simple Programs
+3. Install Google App Engine. Create a hello world app and other simple web
+applications using Python/Java.
+4. Find a procedure to transfer the files from one virtual machine to another virtual
+machine.
+5. Find a procedure to launch virtual machine using trystack (Online Openstack
+Demo Version)
+6. Install Hadoop single node cluster and run simple applications like word count.
+ONLINE RESOURCES:
+1. https://www.iitk.ac.in/nt/faq/vbox.htm
+2. https://www.google.com/urlsa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ah
+UKEwjqrNG0za73
+AhXZt1YBHZ21DWEQFnoECAMQAQ&url=http%3A%2F%2Fwww.cs.columbia.edu%2
+F~sedwar ds%2Fclasses%2F2015%2F1102-
+fall%2Flinuxvm.pdf&usg=AOvVaw3xZPuF5xVgk-AQnBRsTtHz
+3. https://www.cloudsimtutorials.online/cloudsim/
+4. https://edwardsamuel.wordpress.com/2014/10/25/tutorial-creating-openstack-
+instance-in-trystack/
+5. https://www.edureka.co/blog/install-hadoop-single-node-hadoop-cluster
+65
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA III Semester
+(25PC2CA08) FULL STACK DEVELOPMENT LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 3 1.5 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To implement Forms, inputs and Services using AngularJS
+• To develop a simple web application using Nodejs; Angular JS and Express
+• To implement data models using MongoDB
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Develop a fully functioning website and deploy on a web server
+CO-2: Gain Knowledge about the front end and back-end tools
+CO-3: Find and use code packages based on their documentation to produce
+working results in a project
+CO-4: Create web pages that function using external data
+LIST OF EXPERIMENTS:
+1. Develop a Form and validate using AngularJS
+2. Create and implement modules and controllers in AngularJS
+3. Implement Error Handling in AngularJS
+4. Create and implement Custom directives
+5. Create a simple web application using Express, Node JS and Angular JS
+6. Implement CRUD operations on MongoDB
+7. Create a react application for the student management system having
+registration, login, contact, about pages and implement routing to navigate
+through these pages.
+8. Create a service in react that fetches the weather information from
+openweathermap.org and the display the current and historical weather
+information using graphical representation using chart.js
+9. Create a TO-DO application in react with necessary components and deploy it
+into github.
+a) Develop an express web application that can interact with REST API to perform
+CRUD operations on student data. (Use Postman)
+b) For the above application create authorized end points using JWT (JSON Web
+Token).
+66
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA III Semester
+(25PC2CA10) MACHINE LEARNING LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 4 2 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To have an overview of the various machine learning Techniques and can
+demonstrate them using python
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand modern notions in predictive data analysis
+CO-2: Select data, model selection, model complexity and identify the trends
+CO-3: Understand a range of machine learning algorithms along with their strengths
+and weaknesses
+CO-4: Build predictive models from data and analyze their performance
+LIST OF EXPERIMENTS:
+1. Write a python program to compute Central Tendency Measures: Mean, Median,
+Mode Measure of Dispersion: Variance, Standard Deviation
+2. Study of Python Basic Libraries such as Statistics, Math, Numpy and Scipy
+3. Study of Python Libraries for ML application such as Pandas and Matplotlib
+4. Write a Python program to implement Simple Linear Regression
+5. Implementation of Multiple Linear Regression for House Price Prediction using
+sklearn
+6. Implementation of Decision tree using sklearn and its parameter tuning
+7. Implementation of KNN using sklearn
+8. Implementation of Logistic Regression using sklearn
+9. Implementation of K-Means Clustering
+10. Performance analysis of Classification Algorithms on a specific dataset (Mini
+Project)
+TEXT BOOK:
+1. Machine Learning, Tom M. Mitchell, MGH
+REFERENCE:
+1. Machine Learning: An Algorithmic Perspective, Stephen Marshland, Taylor &
+Francis
+67
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA IV Semester
+(25PE1CA09) INTERNET OF THINGS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To introduce the terminology, technology and its applications
+• To introduce the concept of M2M (machine to machine) with necessary protocols
+• To introduce the Python Scripting Language which is used in many IoT devices
+• To introduce the Raspberry PI platform, that is widely used in IoT applications
+• To introduce the implementation of web-based services on IoT devices
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Interpret the impact and challenges posed by IoT networks leading to new
+architectural models
+CO-2: Compare and contrast the deployment of smart objects and the technologies
+to connect them to the network
+CO-3: Appraise the role of IoT protocols for efficient network communication
+CO-4: Elaborate the need for Data Analytics and Security in IoT
+CO-5: Illustrate different sensor technologies for sensing real world entities and identify
+the applications of IoT in Industry
+UNIT-I:
+Introduction: Introduction to Internet of Things –Definition and Characteristics of IoT,
+Physical Design of IoT – IoT Protocols, IoT communication models, Iot Communication
+APIs
+IoT enabled Technologies – Wireless Sensor Networks, Cloud Computing, Big data
+analytics, Communication protocols, Embedded Systems, IoT Levels and Templates
+Domain Specific IoTs – Home, City, Environment, Energy, Retail, Logistics, Agriculture,
+Industry, health and Lifestyle
+UNIT-II:
+IoT and M2M – Software defined networks, network function virtualization, difference
+between SDN and NFV for IoT
+Basics of IoT System Management with NETCONF, YANG-NETCONF, YANG, SNMP
+NETOPEER
+UNIT-III:
+Introduction to Python: Language features of Python, Data types, data structures,
+Control of flow, functions, modules, packaging, file handling, date/time operations,
+classes, Exception handling
+Python packages - JSON, XML, HTTPLib, URLLib, SMTPLib
+UNIT-IV:
+IoT Physical Devices and Endpoints: Introduction to Raspberry PI-Interfaces (serial, SPI,
+I2C) Programming – Python program with Raspberry PI with focus of interfacing
+external gadgets, controlling output, reading input from pins.
+68
+UNIT-V:
+IoT Physical Servers and Cloud Offerings: Introduction to Cloud Storage models and
+communication APIs Webserver – Web server for IoT, Cloud for IoT, Python web
+application framework Designing a RESTful web API
+TEXT BOOKS:
+1. Internet of Things - A Hands-on Approach, Arshdeep Bahga and Vijay Madisetti,
+Universities Press, 2015
+2. Getting Started with Raspberry Pi, Matt Richardson & Shawn Wallace, O'Reilly
+(SPD), 2014
+69
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA IV Semester
+(25PE1CA10) MOBILE APPLICATION DEVELOPMENT
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Acquaintance with JAVA Programming, DBMS
+COURSE OBJECTIVES:
+• To demonstrate understanding of the fundamentals of Android operating systems
+• To improve skills of using Android software development tools
+• To develop software with reasonable complexity on mobile platform
+• To deploy software to mobile devices
+• To debug programs running on mobile devices
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the working of Android OS practically
+CO-2: Develop Android user interfaces
+CO-3: Develop, deploy and maintain the Android applications
+UNIT-I:
+Introduction to Android Operating System: Android OS design and Features – Android
+development framework, SDK features, Installing and running applications on Android
+Studio, Creating AVDs, Types of Android applications, Best practices in Android
+programming, Android tools
+Android Application Components: Android Manifest file, Externalizing resources like
+values, themes, layouts, Menus etc, Resources for different devices and languages,
+Runtime Configuration Changes
+Android Application Lifecycle: Activities, Activity lifecycle, activity states, monitoring
+state changes
+UNIT-II:
+Android User Interface: Measurements – Device and pixel density independent
+measuring units Layouts – Linear, Relative, Grid and Table Layouts
+User Interface (UI) Components –Editable and non-editable TextViews, Buttons, Radio
+and Toggle Buttons, Checkboxes, Spinners, Dialog and pickers
+Event Handling: Handling clicks or changes of various UI components
+Fragments: Creating fragments, Lifecycle of fragments, Fragment states, Adding
+fragments to Activity, adding, removing and replacing fragments with fragment
+transactions, interfacing between fragments and Activities, Multi-screen Activities
+UNIT-III:
+Intents and Broadcasts: Intent – Using intents to launch Activities, Explicitly starting new
+Activity, Implicit Intents, Passing data to Intents, Getting results from Activities, Native
+Actions, using Intent to dial a number or to send SMS
+Broadcast Receivers: Using Intent filters to service implicit Intents, Resolving Intent filters,
+finding and using Intents received within an Activity
+Notifications: Creating and Displaying notifications, Displaying Toasts
+70
+UNIT-IV:
+Persistent Storage: Files – Using application specific folders and files, creating files,
+reading data from files, listing contents of a directory Shared Preferences – Creating
+shared preferences, saving and retrieving data using Shared Preference
+UNIT-V:
+Database: Introduction to SQLite database, creating and opening a database,
+creating tables, inserting retrieving and deleting data, Registering Content Providers,
+Using content Providers (insert, delete, retrieve and update)
+TEXT BOOKS:
+1. Professional Android 4 Application Development, Reto Meier, Wiley India, (Wrox),
+2012
+2. Android Application Development for Java Programmers, James C Sheusi,
+Cengage Learning, 2013
+REFERENCE:
+1. Beginning Android 4 Application Development, Wei-Meng Lee, Wiley India (Wrox),
+2013
+71
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA IV Semester
+(25PE1CA11) BIG DATA ANALYTICS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To provide the knowledge of Big data Analytics principles and techniques
+• To give an exposure of the frontiers of Big data Analytics
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Explain the foundations, definitions, and challenges of Big Data and various
+Analytical tools
+CO-2: Program using HADOOP and Map reduce, NOSQL
+CO-3: Understand the importance of Big Data in Social Media and Mining
+UNIT-I:
+Getting an Overview of Big Data: What is Big Data? History of Data Management –
+Evolution of Big Data, Structuring Big Data, Elements of Big Data, Big Data Analytics,
+Careers in Big Data, Future of Big Data
+Technologies for Handling Big Data: Distributed and Parallel Computing for Big Data,
+Introducing Hadoop, Cloud Computing and Big Data, In‐ Memory Computing
+Technology for Big Data.
+UNIT-II:
+Understanding Hadoop Ecosystem: Hadoop Ecosystem, Hadoop Distributed File
+System, MapReduce, Hadoop YARN, Hbase, Hive, Pig and Pig Latin, Sqoop,
+ZooKeeper, Flume, Oozie
+Understanding MapReduce Fundamentals and HBase: The MapReduce Framework,
+Techniques to Optimize MapReduce Jobs, Uses of MapReduce, Role of HBase in Big
+Data Processing
+UNIT-III:
+Understanding Analytics and Big Data: Comparing Reporting and Analysis, Types of
+Analytics, Points to Consider during Analysis, Developing an Analytic Team,
+Understanding Text Analytics
+Analytical Approaches and Tools to Analyze Data: Analytical Approaches, History of
+Analytical Tools Introduction to Popular Analytical Tools, Comparing Various Analytical
+Tools, Installing R
+UNIT-IV:
+Data Visualization‐I: Introducing Data Visualization, Techniques Used for Visual Data
+Representation, Types of Data Visualization, Applications of Data Visualization,
+Visualizing Big Data, Tools Used in Data Visualization, Tableau Products
+Data Visualization with Tableau (Data Visualization‐II): Introduction to Tableau
+Software, Tableau Desktop Workspace, Data Analytics in Tableau Public, Using Visual
+Controls in Tableau Public
+72
+UNIT-V:
+Social Media Analytics and Text Mining: Introducing Social Media, Introducing Key
+Elements of Social Media, Introducing Text Mining, Understanding Text Mining Process,
+Sentiment Analysis, Performing Social Media Analytics and Opinion Mining on Tweets
+Mobile Analytics: Introducing Mobile Analytics, Introducing Mobile Analytics Tools,
+Performing Mobile Analytics, Challenges of Mobile Analytics
+TEXT BOOKS:
+1. Big Data, Blackbook, Dreamtech Press, 2015
+2. Big Data Analytics, Seema Acharya, Subhashini Chellappan, Wiley, 2015
+3. Simon Walkowiak, Big Data Analytics with R, Packt Publishing
+REFERENCES:
+1. Big Data, Big Analytics: Emerging Business Intelligence and Analytic Trends for
+Today’s Business, Michael Minelli, Michehe Chambers, 1st Edition, Ambiga Dhiraj,
+Wiley CIO Series, 2013
+2. Hadoop: The Definitive Guide, Tom White, 3rd Edition, O‟Reilly Media, 2012
+3. Big Data Analytics: Disruptive Technologies for Changing the Game, Arvind Sathi,
+1st Edition, IBM Corporation, 2012
+73
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA IV Semester
+(25PE1CA12) DESIGN PATTERNS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand design of patterns and solve design problems
+• To study creational and structural patterns
+• To understand behavioral patterns
+COURSES OUTCOMES: After completion of the course, the student should be able to
+CO-1: Explore types of design patterns
+CO-2: Examine the case study for designing a document editor
+CO-3: Examine the importance of creational and structural patterns
+CO-4: Explore the role of behavioral patterns in the given context
+UNIT-I:
+Introduction: Definition of Design Pattern. Design Patterns in Smalltalk MVC, Describing
+Design Patterns, The Catalog of Design Patterns, Organizing the Catalog, Design of
+Patterns Solve Design Problems, Selection of a Design Pattern, Use of a Design Pattern.
+UNIT-II:
+A Case Study: Designing a Document Editor: Design Problems, Document Structure,
+Formatting, Embellishing the User Interface, Supporting Multiple Look-and-Feel
+Standards, Supporting Multiple Window Systems, User Operations Spelling Checking
+and Hyphenation, Summary
+UNIT-III:
+Creational Patterns: Abstract Factory, Builder, Factory Method, Prototype, Singleton,
+Structural Patterns: Adapter, Bridge, Composite, Decorator, façade, Flyweight, Proxy
+UNIT-IV:
+Behavioral Patterns Part-I: Chain of Responsibility, Command, Interpreter, Iterator,
+Mediator
+UNIT-V:
+Behavioral Patterns Part-II: Memento, Observer, State, Strategy, Template Method,
+Visitor
+TEXT BOOK:
+1. Design Patterns, Erich Gamma, Pearson Education
+REFERENCES:
+1. Pattern’s in JAVA Vol-I, Mark Grand, Wiley DreamTech
+2. Pattern’s in JAVA Vol-II, Mark Grand, Wiley DreamTech
+3. JAVA Enterprise Design Patterns Vol-III, Mark Grand, Wiley DreamTech
+4. Head First Design Patterns, Eric Freeman, O’Reilly, SPD
+74
+5. Design Patterns Explained, Alan Shalloway, Pearson Education
+75
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA IV Semester
+(25OE1CA01) E-COMMERCE
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To identify the major categories and trends of e-commerce applications
+• To identify the essential processes of an e-commerce system
+• To identify several factors and web store requirements needed to succeed in e-
+commerce
+• To discuss the benefits and trade-offs of various e-commerce clicks and bricks
+alternatives
+• To understand the main technologies behind e-commerce systems and how these
+technologies interact
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Identify the business relationships between the organizations and their
+customers
+CO-2: Perform various transactions like payment, data transfer and etc.
+CO-3: Understand the digital library and web marketing strategies
+UNIT-I:
+Electronic Commerce: Frame work, anatomy of E-Commerce applications, E-
+Commerce Consumer applications, E-Commerce organization applications.
+Consumer Oriented Electronic commerce - Mercantile Process Models.
+UNIT-II:
+Electronic Payment Systems: Digital Token-Based, Smart Cards, Credit Cards, Risks in
+Electronic Payment systems. Inter Organizational Commerce - EDI, EDI
+Implementation, Value added networks. Intra Organizational Commerce - work Flow,
+Automation Customization and internal Commerce, Supply chain Management.
+UNIT-III:
+Corporate Digital Library: Document Library, digital Document types, corporate Data
+Warehouses. Advertising and Marketing - Information based marketing, Advertising on
+Internet, on-line marketing process, market research. Consumer Search and Resource
+Discovery - Information search and Retrieval, Commerce Catalogues, Information
+Filtering. Multimedia - key multimedia concepts, Digital Video and electronic
+Commerce, Desktop video processing’s, Desktop video conferencing
+UNIT-IV:
+Web Marketing Strategies: Communicating with Different Market Segments, Beyond
+Market Segmentation: Customer Behavior and Relationship Intensity, Advertising on
+the Web, EMail Marketing, Search Engine Positioning and Domain Names, Selling to
+Businesses Online, Electronic Data Interchange, Supply Chain Management Using
+Internet Technologies, Electronic Marketplaces and Portals
+76
+UNIT-V:
+E-Business Revenue Models: Revenue Models for Online Business, Changing Strategies:
+Revenue Models in Transition, Revenue Strategy Issues for Online Businesses, Creating
+an Effective Business Presence Online, Web Site Usability, Virtual Communities, Mobile
+Commerce, Online Auctions
+TEXT BOOKS:
+1. Frontiers of Electronic Commerce, Kalakata, Whinston, Pearson
+2. E-Business, Gary P. Schneider, Cengage India Learning
+REFERENCES:
+1. E-Commerce Fundamentals and Applications, Hendry Chan, Raymond Lee,
+Tharam Dillon, Elizabeth Chang, John Wiley
+2. E-Commerce, S. Jaiswal, Galgotia
+3. E-Commerce, Efrain Turbon, Jae Lee, David King, H. Michael Chang
+4. Electronic Commerce, Gary P. Schneide, Thomson
+77
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA IV Semester
+(25OE1CA02) CYBER LAWS AND ETHICS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the types of roles they are expected to play in the society as
+practitioners of the engineering profession
+• To develop some ideas of the legal and practical aspects of their profession
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the importance of professional practice, Law and Ethics in their
+personal lives and professional careers
+CO-2: Learn the rights and responsibilities as an employee, team member and a global
+citizen
+CO-3: Understand the information processing and secure program administration
+CO-4: Understand the fundamentals of Organizational and Human security standards
+UNIT-I:
+Introduction to Computer Security: Definition, Threats to security, Government
+requirements, Information Protection and Access Controls, Computer security efforts,
+Standards, Computer Security mandates and legislation, Privacy considerations,
+International security activity.
+UNIT-II:
+Secure System Planning and Administration: Introduction to the orange book, Security
+policy requirements, accountability, assurance and documentation requirements,
+Network Security, The Red book and Government network evaluations.
+UNIT-III:
+Information Security Policies and Procedures: Corporate policies- Tier 1, Tier 2 and Tier3
+policies - process management-planning and preparation-developing policies-asset
+classification policy- developing standards.
+UNIT-IV:
+Information Security: fundamentals-Employee responsibilities- information
+classification- Information handling- Tools of information security- Information
+processing-secure program administration.
+UNIT-V:
+Organizational and Human Security: Adoption of Information Security Management
+Standards, Human Factors in Security- Role of information security professionals.
+TEXT BOOKS:
+1. Computer Security Basics (Paperback), Debby Russell and Sr. G. T Gangemi, 2nd
+Edition, O’ Reilly Media, 2006
+2. Information Security Policies and Procedures: A Practitioner’s Reference, Thomas R.
+78
+Peltier, 2nd Edition Prentice Hall, 2004
+REFERENCES:
+1. Cyber Security and Global Information Assurance: Threat Analysis and Response
+Solutions, Kenneth J. Knapp, IGI Global, 2009
+2. Information Security Fundamentals, Thomas R. Peltier, Justin Peltier and John
+Blackley, 2nd Edition, Prentice Hall, 1996
+3. Cyber Law: The Law of the Internet, Jonathan Rosenoer, Springer-Verlag, 1997
+4. Cyber Security Essentials, James Graham, Averbach Publication, T & F Group
+79
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA IV Semester
+(25OE1CA03) MANAGEMENT INFORMATION SYSTEM
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To introduce Information Systems Models
+• To know the types of Information Systems
+• To learn the scope of ERP Modules etc.
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: To understand different Types of Information Systems
+CO-2: To gain good knowledge of ERP Modules
+CO-3: To learn ERP Implementation and Maintenance
+UNIT-I:
+Introduction to IS Models: Nolan Stage Hypothesis, IS Strategic Grid, Wards Model,
+Earl’s Multiple Methodology, Critical Success Factors, Soft Systems Methodology,
+Socio-Technical Systems Approach (Mumford), System Develop Life Cycle, Prototype
+and End User Computing, Application Packages, Outsourcing, Deciding Combination
+of Methods.
+UNIT-II:
+Types of Information Systems: Transactions Processing System, Knowledge Work
+Systems, Office Automation System, Management Information System, Decision
+Support System, Expert System, Strategic Information System. IS Security, Control and
+Audit - System Vulnerability and Abuse, business value of security and control, Need
+for Security, Methods of minimizing risks, IS Audit, ensuring system quality.
+UNIT-III:
+Induction to ERP: Overview of ERP, MRP, MRPII and Evolution of ERP, Integrated
+Management Systems, Reasons for the growth of ERP, Business Modeling, Integrated
+Data Model, Foundations of IS in Business, Obstacles of applying IT. Advantages and
+limitations of ERP.
+UNIT-IV:
+ERP Modules: Finance, Accounting Systems, Manufacturing and Production Systems,
+Sales and Distribution Systems, Human Resource Systems, Plant Maintenance System,
+Materials Management System, Quality Management System, ERP System Options and
+Selection, ERP proposal Evaluation.
+UNIT-V:
+ERP Implementation and Maintenance: Implementation Strategy Options, Features of
+Successful ERP Implementation, Strategies to Attain Success, User Training, Maintaining
+ERP & IS. Case Studies.
+80
+TEXT BOOK:
+1. Information Systems for Modern Management, R. G. Murdick, J. E. Ross and J. R
+Clagget, 3rd Edition, Prentice-Hall of India, 1994
+2. Managerial Issues of Enterprise Resource Planning Systems, David L. Olson, McGraw
+Hill International Edition, 2009
+3. ERP In Practice, Vaman, Tata McGraw-Hill, 2009
+REFERENCES:
+1. Management Information Systems, C. Laudon and Jane P. Laudon, et al., Pearson
+Education, 2009
+2. ERP (Demystified), Alexis Leon,5th Edition, Tata McGraw-Hill, 2009
+3. Management Information Systems, Gordon B. Davis & Margrethe H. Olson, Tata
+McGraw-Hill, 2009
+4. Management Information Systems, W. S. Jawadekar, Tata McGraw-Hill, 2009
+5. Management Information Systems, James A. Obrein, Tata McGraw-Hill, 2008
+81
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+MCA IV Semester
+(25OE1CA04) ENTREPRENEURSHIP
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To have a comprehensive perspective of inclusive learning, ability to learn and
+implement the Fundamentals of Entrepreneurship
+• To learn management of MSMEs and sick enterprises
+• To learn strategic perspectives in Entrepreneurship
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Learn the basics of Entrepreneurship and entrepreneurial development to
+provide vision for their own Start-up
+CO-2: Understand the marketing and growth of enterprise
+CO-3: Emphasize the Women Entrepreneurship perspectives
+UNIT-I:
+Entrepreneurial Perspectives: Introduction to Entrepreneurship – Evolution - Concept
+of Entrepreneurship - Types of Entrepreneurs - Entrepreneurial Competencies,
+Capacity Building for Entrepreneurs. Entrepreneurial Training Methods - Entrepreneurial
+Motivations - Models for Entrepreneurial Development - The process of Entrepreneurial
+Development.
+UNIT-II:
+New Venture Creation: Introduction, Mobility of Entrepreneurs, Models for Opportunity
+Evaluation; Business plans – Purpose, Contents, Presenting Business Plan, Procedure for
+setting up Enterprises, Central level - Startup and State level – T-Hub, Other Institutions
+initiatives.
+UNIT-III:
+Management of MSMEs and Sick Enterprises: Challenges of MSMEs, Preventing Sickness
+in Enterprises – Specific Management Problems; Industrial Sickness; Industrial Sickness
+in India – Symptoms, process and Rehabilitation of Sick Units.
+UNIT-IV:
+Managing Marketing and Growth of Enterprises: Essential Marketing Mix of Services,
+Key Success Factors in Service Marketing, Cost and Pricing, Branding, New Techniques
+in Marketing, International Trade.
+UNIT-V:
+Strategic perspectives in Entrepreneurship: Strategic Growth in Entrepreneurship, The
+Valuation Challenge in Entrepreneurship, The Final Harvest of New Ventures,
+Technology, Business Incubation, India way – Entrepreneurship; Women Entrepreneurs
+– Strategies to develop Women Entrepreneurs, Institutions supporting Women
+Entrepreneurship in India.
+82
+TEXT BOOKS:
+1. Entrepreneurship Development and Small Business Enterprises, Poornima M.
+Charantimath, 2nd Edition, Pearson, 2014
+2. Entrepreneurship, A South – Asian Perspective, D. F. Kuratko and T. V. Rao, 3rd
+Edition, Cengage, 2012
+REFERENCES:
+1. Entrepreneurship, Arya Kumar, 4th Edition, Pearson 2015
+2. The Dynamics of Entrepreneurial Development and Management, Vasant Desai,
+Himalaya Publishing House
+83
+Vignana Jyothi Nagar, Bachupally,
+Hyderabad, Telangana - 500118
+Website: www.vnrvjiet.ac.in
+Contact us: +91 40 23044363, +91 7989640081 (HO)
+Email: admissions@vnrvjiet.in
+Foreign Admissions contact no. +91 90322 20144
+Foreign Admissions Email: internationaladmissions@vnrvjiet.in
+/vnrvjietofficial /@vnrvjiethyd
+/vnrvjiet.hyd /vnrvjiethyd
+/school/vnrvjiethyd

@@ -1,0 +1,951 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/A19/CE2.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY HYDERABAD
+B.TECH. II YEAR
+(CIVIL ENGINEERING)
+III SEMESTER A19
+Contact
+Course Code Title of the Course L T P/D Hours/ Credits
+Week
+A19BS1MT12 Probability, Statistics and Time Series 3 0 0 3 3
+A19PC1CE01 Strength of Materials - I 3 0 0 3 3
+A19PC1CE02 Fluid Mechanics 3 1 0 4 4
+A19PC1CE03 Building Materials, Construction and Planning 3 0 0 3 3
+A19PC1CE04 Surveying and Geomatics 3 0 0 3 3
+A19PC2CE01 Strength of Materials Laboratory 0 0 3 3 1.5
+A19PC2CE02 Surveying Laboratory 0 0 3 3 1.5
+A19PC3CE01 Computer Aided Civil Engineering Drawing 0 0 2 2 1
+Total 15 1 8 24 20
+IV SEMESTER A19
+Contact
+Course Code Title of the Course L T P/D Hours/ Credits
+Week
+A19PC1CE05 Strength of Materials - II 3 0 0 3 3
+A19PC1CE06 Structural Analysis 3 1 0 4 4
+A19PC1CE07 Concrete Technology 3 0 0 3 3
+A19PC1CE08 Hydraulic Engineering and Hydraulic Machines 3 0 0 3 3
+Elements of Electrical and Electronics
+A19ES1EE07 3 0 0 3 3
+Engineering
+Fluid Mechanics and Hydraulic Machines
+A19PC2CE03 0 0 3 3 1.5
+Laboratory
+A19PC2CE04 Concrete Laboratory 0 0 3 3 1.5
+Elements of Electrical and Electronics
+A19ES2EE06 0 0 2 2 1
+Engineering Laboratory
+Total 15 1 8 24 20
+A19MN6HS03 Gender Sensitization 0 0 2 2 0
+L – Lecture T – Tutorial P – Practical D – Drawing
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. III Semester L T/P/D C
+3 0 3
+(A19BS1MT12) PROBABILITY, STATISTICS AND TIME SERIES
+COURSE PRE-REQUISITES: Permutations and combinations, basic statistics
+COURSE OBJECTIVES:
+• To know elementary ideas in basic probability
+• To learn different types of probability distribution functions
+• To know methods of calculating correlation and regression
+• To know various methods to test the hypothesis
+• To introduce the notion of time series and its utility in engineering applications
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Solve problems involving basic probability
+CO-2: Evaluate statistical parameters of different probability distributions
+CO-3: Calculate correlation, regression, rank correlation coefficients
+CO-4: Apply the knowledge of different probability distributions to Test of Hypothesis
+CO-5: Use Least squares method to compute time series
+UNIT – I:
+Basic Probability: Sample space and events, Probability- The axioms of probability,
+some elementary theorems, conditional probability, Baye’s theorem. Random
+variables - discrete and continuous distributions - Expectation of Discrete Random
+Variables, Moments, Variance of a sum.
+UNIT – II:
+Probability Distributions: Probability distributions: Binomial, Poisson and Normal -
+evaluation of statistical parameters for these three distributions –related properties.
+UNIT – III:
+Correlation and Regression: Coefficient of correlation, regression coefficient, the lines
+of regression, rank correlation
+UNIT – IV:
+Testing of Hypothesis - Large Sample: Sampling distributions, Tests of hypothesis - null
+hypothesis, alternate hypothesis, type I, type II errors, critical region. Inferences
+concerning means and proportions- Large samples- test of hypothesis for single mean
+and difference between the means. Test of hypothesis for the proportions- single and
+difference between the proportions, confidence interval for the mean and
+proportions.
+UNIT – V:
+Tests of Significance - Small Samples: Tests of significance-t distributions, confidence
+interval for the t- distribution, F-distributions and Chi square distributions.
+UNIT – VI:
+Time Series: Time series- utility of time series analysis, components of time series.
+Preliminary adjustments before analyzing time series. Measurement of trend by the
+method of least squares, method of moments.
+TEXT BOOKS:
+1. Advanced Engineering Mathematics, Erwin Kreyszig, 9th Edition, John Wiley & Sons,
+2006
+2. Probability and Statistics for Engineers, Richard A. Johanson, 5th Edition, Prentice-
+Hall, 1995
+3. Introduction to Probability Theory, P. G. Hoel, S. C. Port and C. J. Stone, Universal
+Book Stall, 2003
+REFERENCES:
+1. Statistical Methods, S. P. Gupta, 2011, Sultan Chand and Sons
+2. A Textbook of Engineering Mathematics, N. P. Bali and Manish Goyal, Laxmi
+Publications, 2010
+3. Higher Engineering Mathematics, B. S. Grewal, 35th Edition, Khanna Publishers, 2000
+4. Applied Statistics for Engineers, Jay L. Devore, Nicholas. R. Famum, Jimmy A. Doi,
+3rd Edition, Cengage learning
+5. The Analysis of Time Series -An Introduction, Chris Chatfield, 6th Edition, CRC Press
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. III Semester L T/P/D C
+3 0 3
+(A19PC1CE01) STRENGTH OF MATERIALS – I
+COURSE OBJECTIVES:
+• To define various types of stresses and strains
+• To understand the concept of shear force and bending moment
+• To draw the bending stress and shear stress distribution across various cross-sections
+• To distinguish between various methods of determining the slopes and deflections
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Determine the stresses and strains in determinate and indeterminate systems
+CO-2: Draw the shear force and bending moment diagrams in determinate beams
+CO-3: Apply the bending stress and shear stress formulae for the design of beams
+CO-4: Determine the slopes and deflections due to various types of loads in
+determinate beams
+UNIT – I:
+Simple Stresses and Strains : Mechanical properties of solids – Elasticity, Plasticity,
+Ductility, Brittleness, Malleability, Toughness, Hardness - Stress, Strain - Hooke‟s law –
+Types of Stresses and Strains – Stress-Strain curves for ductile and brittle materials –
+Principle of superposition - Bars of varying sections – Bar of tapering section - Working
+stress – Factor of safety – Lateral Strain – Poisson‟s Ratio - Volumetric Strain – Elastic
+moduli - Relationship between different Elastic moduli.
+UNIT – II:
+Statically Indeterminate Systems: Members subjected to self-weight acting axially and
+their articulation for uniform stress – Equations of Equilibrium and Compatibility –
+Composite bars – Temperature stresses
+Strain Energy: Strain energy due to axial loads - gradually applied, suddenly applied
+and impact loads.
+UNIT – III:
+Shear Force and Bending Moment: Types of supports, loads, beams – Concept of
+shear force and bending moment – Relation between SF, BM and Rate of loading - SF
+and BM diagrams for statically determinate beams – Cantilevers, Simply supported
+beams, Overhanging beams - Point of contra flexure and its significance.
+UNIT – IV:
+Bending Stresses: Theory of Simple bending – Assumptions - Neutral axis – Derivation
+of flexure formula – Section modulus for various sections - Bending stress distribution –
+Strength of a section - Design of simple beam sections.
+UNIT-V:
+Shear Stresses: Derivation of Shear stress formula – Shear stress distribution across depth
+of various beam sections like Rectangular, Circular, Triangular, I and T sections.
+UNIT-VI:
+Deflection of Beams: Slope, Deflection and Radius of curvature – Differential equation
+for the deflection curve of a beam – Slope and Deflection of beams using Successive
+Integration method – Macaulay‟s method – Mohr‟s Moment Area method
+– Conjugate beam method – Application to Cantilever and Simply supported beams.
+TEXT BOOKS:
+1. Mechanics of Materials, R. C. Hibbeler – Pearson Education
+2. Mechanics of Materials, James Gere – Cengage Learning
+REFERENCES:
+1. Strength of Materials, B. C. Punmia, Ashok Jain, Arun Jain - Laxmi Publications
+2. Strength of Materials, R. K. Bansal - Laxmi Publications
+3. Strength of Materials, S. S. Rattan – McGraw-Hill Education (India) Pvt. Ltd
+4. Strength of Materials, R. K. Rajput – S. Chand & Company Ltd
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. III Semester L T/P/D C
+3 0 3
+(A19PC1CE02) FLUID MECHANICS
+COURSE OBJECTIVES:
+• To identify and obtain values of fluid properties and relationship between them
+• To explain the principles of continuity, momentum, and energy as applied to fluid
+motions
+• To apply these principles in the form of mathematical equations
+• To solve these equations as applied to practical fluid mechanics problems
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Define fundamental concepts of fluid mechanics as applied to civil engineering
+and environmental problems
+CO-2: Discuss and derive the fundamental mathematical equations of fluid
+mechanics
+CO-3: Solve the fluid mechanics problems as related to practical civil engineering
+problems of water conveyance in pipes, orifices, mouth pieces, notches and weirs
+CO-4: Evaluate the various assumptions made in the application of equations to avoid
+the common pitfalls
+UNIT – I:
+Properties of Fluid: Basic Concepts and Definitions – Distinction between a fluid and a
+solid; Density, Specific weight, Specific gravity, Kinematic and dynamic viscosity;
+variation of viscosity with temperature, Newton law of viscosity; vapor pressure, boiling
+point, cavitation; surface tension, capillarity, Bulk modulus of elasticity, compressibility.
+Fluid Statics: Fluid Pressure: Pressure at a point, Pascal‟s law, pressure variation
+with temperature, density and altitude, Piezometer, U-Tube Manometer, Single
+Column Manometer, U-Tube Differential Manometer, Micromanometers, Pressure
+gauges; Hydrostatic pressure and force: horizontal, vertical and inclined surfaces;
+Buoyancy and stability of floating bodies.
+UNIT – II:
+Fluid Kinematics: Classification of fluid flow; steady, unsteady, uniform and non-
+uniform flows; Laminar and turbulent flows; One, two and three-dimensional flows;
+Irrotational and rotational flows; Ideal and real flows; Stream line, streak line, path line
+and stream tube; stream function, velocity potential function; Equation of
+acceleration; Convective and local acceleration; One-, two- and three - dimensional
+continuity equations in Cartesian coordinates; Flow net.
+UNIT – III:
+Fluid Dynamics: Surface and body forces; Equations of motion - Euler‟s
+equation; Bernoulli‟s equation – derivation; Energy Principle; Practical applications
+of Bernoulli‟s equation: venturimeter, orifice meter and pitot tube; Momentum
+principle; Forces exerted by fluid flow on pipe bend; Vortex Flow – Free and Forced
+UNIT – IV:
+Flow Measurement: Measurement of velocity by Pilot tube; Discharge through venture
+meter; Discharge through office meter; Discharge through flow nozzle; Flow through
+orifices; Determination of coefficients for an orifice; Flow through mouth piece; Flow
+through rectangular; triangular and trapezoidal notches and weirs; End contractions;
+Velocity of approach; Broad crested weir.
+UNIT – V:
+Analysis of Pipe Flow: Reynolds experiment Classification of Laminar & Turbulent flows.
+Steady laminar flow through circular pipes. Energy losses in pipelines: Minor losses,
+Darcy Weisbach equation; Pipes in series and parallel; Branching of pipes, three
+reservoir problem Total energy line and hydraulic gradient line. Resistance to flow of
+fluid on smooth and rough pipes; Moody‟s diagram.
+UNIT – VI:
+Theory of Boundary Layer: Boundary layer and its growth, Boundary layer thickness,
+displacement, momentum & energy thickness; Characteristics of Boundary layer
+along a thin flat plate, Laminar and Turbulent Boundary layers (no derivations),
+Boundary layer Separation and Control. Flow around submerged objects – Drag and
+Lift – Magnus effect.
+TEXT BOOKS:
+1. Fluid Mechanics and Hydraulic Machines, Modi and Seth, Standard Book House
+2. Fluid Mechanics & Hydraulic Machines - Problems and Solutions, K. Subramanya
+McGraw-Hill Education (I) Pvt. Ltd
+3. Fluid Mechanics and Machineries, C. P. S. Ohja, P. N. Chandramouli, and R.
+Berndtsson
+REFERENCES:
+1. Fluid Mechanics, V. L. Streeter, E. Benjamin Wiley and W. Bedford, McGraw-Hill
+Company
+2. Fluid Mechanics, Frank M. White, Tata McGraw-Hill Pvt. Ltd
+3. Fluid Mechanics and Hydraulics Machines, R. K. Bansal, Laxmi Publications
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. III Semester L T/P/D C
+3 0 3
+(A19PC1CE03) BUILDING MATERIALS, CONSTRUCTION AND PLANNING
+COURSE OBJECTIVES:
+• To list different construction materials, their properties and applications
+• To identify and explain major building components
+• To understand the building bye-laws
+• To explain the services required for different types of buildings
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Define and examine the properties of construction materials and their behavior
+CO-2: Appraise various traditional and emerging building materials
+CO-3: Describe various building components and finishes
+CO-4: Plan a building with appropriate building services
+UNIT – I:
+Stones, Bricks and Tiles: Stones – classification and quarrying – properties – structural
+requirements – dressing of stones; Bricks – composition of Brick earth – manufacturing
+and properties of bricks; Ceramics – Tiles – manufacturing - specifications of tiles.
+UNIT – II:
+Lime, Cement, Wood, Aluminum, Steel and Glass: Lime – ingredients of lime,
+classification, manufacturing; Cement- ingredients of cement; Wood – structure –
+types and properties – seasoning; Aluminum and Steel – composition, material
+properties and behavior; Glass, Fiber reinforced plastic- material properties.
+UNIT – III:
+Building components: Basic Structural and Non- structural components; Foundations
+– types; Damp Proof Course - methods adopted; Lintels – Types; Walls – load bearing
+and non-load bearing walls; Floors - types – mud and muram, wood/timber, marbles,
+tiles, concrete, flag stones, bricks, mosaic, terrazzo floors; Roofs - types – pitched, flat,
+curved, lean-to-roof, coupled roofs, trussed roof – king and queen post trusses; Doors
+– Windows – types.
+UNIT – IV:
+Masonry: Brick Masonry – types – bonds; Stone masonry – types; Composite Masonry
+– reinforced brick, cement concrete.
+Formwork and Finishing: Scaffolding – types; Shoring; Underpinning; Finishes –
+plastering, pointing, painting, claddings – types.
+UNIT – V:
+Building services: Plumbing Services, Water Distribution, Sanitary – Lines & Fittings;
+Ventilators: Functional requirements, systems of ventilators. Air conditioning –
+Essentials; Acoustics – characteristic – absorption – Acoustic design; Fire protection –
+Fire hazards
+UNIT – VI:
+Building planning: Principles of Building Planning, classification of buildings and
+Building bye laws – Building Information System – Green building concepts.
+TEXT BOOKS:
+1. Building Materials, Duggal, New Age International
+2. Building Construction, B. C. Punmia, Ashok Kumar Jain and Arun Kumar Jain, Laxmi
+Publications (P) Ltd., New Delhi
+REFERENCES:
+1. Materials Science and Engineering – An Introduction, William D. Callister, Jr., John
+Wiley and Sons, New York
+2. Engineering Materials, S. C. Rangwala, Charotar Publishing House, Anand
+3. Building Construction, Arora and Bindra, Dhanpat Rai Publications
+Codes:
+1. Building Construction, S. C. Rangwala, Charotar Publishing House, Anand
+2. Building Construction, P. C. Varghese, PHI
+3. National Building Code - 2016
+4. Building bye laws, State and Central Governments and Municipal Corporations
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. III Semester L T/P/D C
+3 0 3
+(A19PC1CE04) SURVEYING AND GEOMATICS
+COURSE OBJECTIVES:
+• To understand methods of measuring horizontal distances using chain and
+compass instruments
+• To evaluate reduced levels and apply in the preparation of contour maps,
+earthwork and reservoir capacity estimation
+• To implement the principles of trigonometry and optics for the determination of
+horizontal and vertical distances
+• To correlate the importance of modern surveying techniques adopted in real
+world situation
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Measure horizontal distance through plane surveying
+CO-2: Prepare contour map and estimate the quantity of earthwork required for road
+and railway constructions
+CO-3: Judge on type of instrument to be used for setting out curves and vertical
+elevations and horizontal distances
+CO-4: Articulates the importance of modern instruments used in geomatics
+UNIT – I:
+Introduction to Surveying: Definition; Classification; Principles of surveying; Errors in
+surveying: Types of errors; Ranging, Principles of chain surveying; Basic definitions.
+Compass Surveying: Prismatic compass; Local attraction; angular measurements
+Bearings.
+UNIT – II:
+Simple Leveling: Basic definitions; Curvature and Refraction; classification of methods
+of leveling; Sources of errors in leveling. Contour; contour interval; Characteristics of
+contours; Methods of plotting of contours; Uses of contour maps.
+Areas and Volumes: Introduction; Simpson’s rule; Boundaries with offsets at irregular
+intervals; coordinate method; planimeter; level section; two level section; trapezoidal
+and prismoidal rule; volume from contour plan; capacity of a reservoir.
+UNIT – III:
+Theodolite Survey & Traversing: Theodolite components parts; basic definitions,
+fundamental lines; measurement of a horizontal angle; repetition and reiteration
+method and measurement of vertical angle.
+Trigonometric Leveling: Base of the object accessible, base of an inclined object
+accessible, reduced level of the elevated points with inaccessible bases.
+UNIT – IV:
+Tacheometric Surveying: Basic systems of tacheometric measurements; Inclined sight
+with staff held vertical; inclined sight with staff held normal to the inclined line of sight.
+Curves: Basic definitions; designation of a curve; relationship between radius and
+degree of curve; types of curve; elements of a simple circular; methods of setting out
+for simple.
+UNIT – V:
+Modern Field Survey Systems: Principle of Electronic Distance measurement; types of
+EDM instruments, total station, parts, accessories – advantages and applications, field
+procedure for total station survey, Errors in Total Station Survey; Global Positioning
+Systems- Segments.
+UNIT – VI:
+Photogrammetry Surveying: Introduction, Basic concepts, perspective geometry of
+aerial photograph, relief and tilt displacements, terrestrial photogrammetry, flight
+planning; Stereoscopy, ground control extension for photographic mapping;
+photographic mapping.
+TEXT BOOKS:
+1. Surveying, Vol. I, II and III, Arora, K. R., Standard Book House, 2015
+2. Elementary Surveying, Charles D. Ghilani, Paul R. Wolf., Prentice Hall, 2012
+3. Surveying, Vol. I & II, Duggal S. K., Tata McGraw-Hill Education, 2013
+REFERENCES:
+1. Surveying I & II, B. C. Punmia, Ashok Kumar Jain, Ashok Kr. Jain, Arun Kr. Jain., Laxmi
+Publications, 2005
+2. Advanced Surveying: Total Station, GIS and Remote Sensing, Madhu N.,
+Sathikumar R. and Satheesh Gobi, Pearson India, 2006
+3. Surveying & Levelling, R. Subramanian, Oxford University Press, New Delhi, 2011
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. III Semester L T/P/D C
+3 0 3
+(A19PC2CE01) STRENGTH OF MATERIALS LABORATORY
+COURSE OBJECTIVES:
+• To conduct the Tension test, Compression test on various materials
+• To conduct the Shear test, Bending test on determinate beams
+• To conduct the Compression test on spring and Hardness test using various
+machines
+• To conduct the Torsion test, Impact test on various materials
+COURSE OUTCOMES: After the completion of the course, students should be able to
+CO-1: Determine the yield stress, ultimate tensile stress, percentage elongation of
+steel, compressive strength of brick and concrete
+CO-2: Determine the ultimate shear stress, modulus of elasticity of steel
+CO-3: Determine the stiffness of the close coiled helical spring and hardness number
+of mild steel, brass, copper and aluminium
+CO-4: Determine the modulus of rigidity and impact strength of steel
+LIST OF EXPERIMENTS:
+1. Uni-axial tension test on mild steel specimen.
+2. Compression test on brick and concrete.
+3. Rockwell hardness test.
+4. Brinell’s hardness test.
+5. Izod impact test.
+6. Bending test on simply supported beam.
+7. Direct shear test.
+8. Compression test on close coiled helical spring.
+9. Charpy impact Test.
+10. Torsion test.
+11. Bending test on cantilever beam.
+12. Bending test on continuous beam.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. III Semester L T/P/D C
+3 0 3
+(A19PC2CE02) SURVERYING LABORATORY
+COURSE OBJECTIVES:
+• To apply the concepts of leveling for determining longitudinal and cross sectional
+profile
+• To develop contour maps through in-direct method of leveling
+• To understand the principles of trigonometric and tacheometric surveying for
+measurement of horizontal and vertical distances
+• To relate the applications of modern instruments in measurement of area,
+contouring and curves
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Construct profile of a given ground to develop contour maps
+CO-2: Determine horizontal and vertical distances of accessible and inaccessible
+points
+CO-3: Appraise the importance of modern instruments in determination of area and
+plotting the same accurately and precisely
+CO-4: Set out simple horizontal curves using modern instruments
+CYCLE – I
+Leveling:
+1. Measurement of elevation of various given points.
+2. Fly Leveling.
+3. Longitudinal Leveling
+4. Cross – sectional Leveling and Plotting of Contours
+Theodolite surveying:
+5. Measurement of horizontal angles and vertical angles.
+6. Distance between two inaccessible points using the principles of tachometer
+surveying.
+7. Distance between two inaccessible points using the principles of trigonometric
+surveying.
+CYCLE – II
+Total Station:
+8. Area Measurement.
+9. Remote Elevation Measurement & Missing Line Measurement.
+10. Longitudinal and Cross Section Profile.
+11. Stake Out.
+12. Contouring
+13. Setting out of a Simple curve.
+REFERENCES:
+1. Surveying I & II, B.C. Punmia, Ashok Kumar Jain, Ashok Kr. Jain, Arun Kr. Jain., Laxmi
+Publications, 2005
+2. Higher Surveying, Chandra A. M., New Age International Publishers, 2007
+3. Plane Surveying, Chandra A. M., New Age International Publ., 2007
+4. Elementary Surveying, Charles D Ghilani, Paul R Wolf., Prentice Hall, 2012
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. III Semester L T/P/D C
+3 0 3
+(A19PC3CE01) COMPUTER AIDED CIVIL ENGINEERING DRAWING
+COURSE OBJECTIVES:
+• To understand various types of conventional signs and brick bonds
+• To draw the plan section and elevation for doors, trusses and staircases
+• To use AutoCAD tools to draw building plans, sections and elevations from a given
+line diagram and specifications
+• To develop working drawings of residential buildings
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Use different AutoCAD Commands to draw Conventional signs and brick
+bonds, Plan, Section and elevation of buildings
+CO-2: Draw section and elevation of panelled doors and trusses
+CO-3: Draw and detail the different components of Stair cases
+CO-4: Draw Electrical layout, Plumbing layout for residential buildings
+LIST OF EXPERIMENTS:
+1. Introduction to Computer Aided Drafting and Conventional Signs
+2. Brick bonds: English bond & Flemish bond – Odd and Even courses
+3. Drawing elevation of a King Post Truss
+4. Drawing elevation and section of a fully panelled door
+5. Developing plan and section of dog-legged staircase
+6. Developing plan of single storied residential building
+7. Developing section and elevation of single storied residential building
+8. Developing plan of two storied residential building
+9. Developing section and elevation of two storied residential building
+10. Development of working drawing of building – Electrical Layout
+11. Development of working drawing of building – Plumbing Layout
+TEXT BOOKS:
+1. Civil Engineering Drawing-I, N. Sreenivasulu, S. Rama Rao, Radiant Publishing House
+2. Civil Engineering Drawing-II, N. Sreenivasulu, Radiant Publishing House
+REFERENCES:
+1. Engineering Graphics, P. J. Sha, S. Chand & Co
+2. Civil Engineering Drawing-I, S. Mahaboob Basha, Falcon Publishers
+3. Building Drawing, M. G. Shah, Tata McGraw-Hill Education
+4. Structural Engineering Drawing, S. Mahaboob Basha, Falcon Publishers
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. IV Semester L T/P/D C
+3 0 3
+(A19PC1CE05) STRENGTH OF MATERIALS – II
+COURSE OBJECTIVES:
+• To determine the stresses on an inclined plane
+• To understand the concept of torsion and different types of springs
+• To distinguish between thin and thick cylinders
+• To find out the crippling load on columns by various formulae
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Determine the principal stresses and strains and design the elements according
+to theories of failure
+CO-2: Analyze the shafts subjected to torsion and determine the deflections in close
+and open coiled helical springs
+CO-3: Determine the various stresses in Thin and Thick cylinders
+CO-4: Determine the crippling loads on columns and evaluate the combined stresses
+UNIT – I:
+Principal Stresses and Strains: Stresses on an inclined plane at a section of a bar under
+axial loading – Compound stresses – Normal and Tangential stresses on an inclined
+plane for biaxial stresses – Two perpendicular stresses accompanied by a state of
+simple shear –Mohr’s Circle of stresses – Principal stresses and strains –
+Analytical and graphical solutions.
+UNIT – II:
+Torsion of Circular Shafts: Theory of pure torsion – Assumptions - Derivation of Torsion
+equation – Torsional moment of resistance – Polar moment of Inertia - Torsional rigidity
+– Shafts in series and parallel - Power transmitted by shafts.
+Springs: Types of springs – Close coiled helical springs under axial pull and axial couple
+– Open coiled helical springs under axial pull and axial couple - Springs in series and
+parallel.
+UNIT – III:
+Thin Cylinders: Thin cylindrical shells - Derivation of formula for longitudinal and
+circumferential stresses - hoop, longitudinal and volumetric strains – changes in
+diameter, length and volume of thin cylinders – Wire wound thin cylinders - Thin
+spherical shells.
+Thick Cylinders: Lame‟s Theory for thick cylinders – Derivation of Lame‟s equations -
+Distribution of hoop and radial stresses across the thickness – Compound cylinders
+UNIT – IV:
+Columns and Struts: Short and Long columns – Euler‟s theorem for long columns
+– Assumptions – Derivation of Euler‟s critical load formulae for various end conditions
+– Equivalent length of a column – Slenderness ratio – Euler‟s critical stress -
+Limitations of Euler‟s theory – Rankine‟s formula – Long columns subjected to eccentric
+loading – Secant formula.
+UNIT – V:
+Direct and Bending Stresses: Stresses under the combined action of axial loading and
+bending moment – Core/Kernel of a section – Middle-Third rule - Determination of
+stresses in Chimneys, Retaining walls and Dams.
+UNIT – VI:
+Theories of Failure: Maximum principal stress theory - Maximum principal strain theory
+– Maximum shear stress theory – Maximum strain energy theory – Maximum shear strain
+energy theory.
+TEXT BOOKS:
+1. Mechanics of Materials, R. C. Hibbeler, Pearson Education
+2. Mechanics of Materials, James Gere, Cengage Learning
+REFERENCES:
+1. Strength of Materials, B. C. Punmia, Ashok Jain, Arun Jain, Laxmi Publications
+2. Strength of Materials, R. K. Bansal, Laxmi Publications
+3. Strength of Materials, S. S. Rattan, McGraw-Hill Education (India) Pvt. Ltd.
+4. Strength of Materials, R. K. Rajput, S. Chand & Company Ltd.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. IV Semester L T/P/D C
+3 0 3
+(A19PC1CE06) STRUCTURAL ANALYSIS
+COURSE OBJECTIVES:
+• To differentiate between statically determinate and indeterminate structures
+• To solve the statically indeterminate structures by applying the principles of
+equilibrium and compatibility of deformations
+• To analyze the statically determinate beams, arches and frames
+• To draw the Influence line diagrams for various types of moving loads on beams
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Analyze statically indeterminate beams and can sketch SFD and BMD
+CO-2: Analyze statically determinate and indeterminate trusses
+CO-3: Calculate the slopes and deflections in beams and trusses
+CO-4: Evaluate the maximum SF and BM due to various types of moving loads
+UNIT – I:
+Pin Jointed Plane Frames: Types of frames – Assumptions - Analysis of pin jointed frames
+by Method of joints, Method of sections.
+UNIT – II:
+Three Hinged Arches: Elastic theory of arches – Eddy‟s theorem – Determination of
+horizontal thrust, bending moment, normal thrust and radial shear – Supports at
+different levels – Effect of temperature.
+UNIT – III:
+Energy Theorems: Strain energy due to bending moment – Castigliano‟s first theorem
+– Deflection of simple beams and pin jointed trusses.
+Castigliano‟s second theorem – Analysis of indeterminate beams and trusses with
+single degree of indeterminacy.
+UNIT – IV:
+Propped Cantilevers: Introduction to statically indeterminate beams – Analysis of
+propped cantilevers – shear force and bending moment diagrams
+Fixed Beams: Analysis of Fixed beams – Effect of sinking of support, rotation of support
+- Shear force and bending moment diagrams.
+UNIT – V:
+Continuous Beams: Clapeyron‟s theorem of three moments - Analysis of continuous
+beams with constant and varying moment of inertia – Effect of sinking of supports –
+Shear force and bending moment diagrams.
+UNIT – VI:
+Influence Lines: Definition of influence line for reaction, SF and BM - load position for
+maximum SF and BM at a section - single point load, udl longer than the span, udl
+shorter than the span, two points loads with fixed distance between them and several
+point loads.
+Moving Loads: Absolute maximum SF and BM due to single concentrated load, udl
+longer than the span, udl shorter than the span, two point loads with fixed distance
+between them and several point loads - Equivalent uniformly distributed load.
+TEXT BOOKS:
+1. Structural Analysis, Devdas Menon, Narosa Publishers
+2. Structural Analysis, R. C. Hibbeler, Pearson Education
+REFERENCES:
+1. Theory of Structures, S. P. Timoshenko, D. H. Young, McGraw-Hill International
+Edition
+2. Analysis of Structures, V. N. Vazirani, M. M. Ratwani and S. K. Duggal, Khanna
+Publishers
+3. Theory of Structures, B. C. Punmia, Ashok Kumar Jain, A. K. Jain, Laxmi Publications
+4. Basic Structural Analysis, K. U. Muthu, Azmi Ibrahim, M. Vijayanand and M.
+Janardhana, I. K. International Publishing House
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. IV Semester L T/P/D C
+3 0 3
+(A19PC1CE07) CONCRETE TECHNOLOGY
+COURSE OBJECTIVES:
+• To use different types of cements as per their properties for different field
+applications
+• To design economic concrete mix proportion for different exposure conditions and
+intended purposes
+• To supervise various concreting operations
+• To conduct field and laboratory tests on concrete in fresh and hardened state
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Determine the properties of concrete ingredients by conducting different tests
+CO-2: Use various chemical and mineral admixtures to design cement based
+materials with tailor-made properties
+CO-3: Use advanced laboratory techniques to characterize cement based materials
+CO-4: Perform mix designs to develop special concretes and evaluate their properties
+UNIT – I:
+Cement: Manufacture of Portland Cement, Basic cement chemistry, Hydration of
+cement, Heat of hydration - Tests on cement – Fineness, consistency, setting times,
+soundness and strength - Types of cements – Ordinary Portland Cement, Rapid-
+hardening cement, Low-heat portland cement, Sulfate resisting cement, Portland
+pozzolan cement, White and coloured portland cement, High-alumina cement.
+UNIT – II:
+Aggregates: Classification of aggregates – size, shape and texture, Mechanical
+properties of aggregates – bond, strength, toughness and hardness - Physical
+properties specific gravity, bulk density, porosity and absorption, moisture content,
+bulking of sand, Sieve analysis, Grading curves, Fineness modulus, Grading
+requirements, Maximum aggregate size, Gap graded aggregate, Quality of water for
+mixing and curing of concrete.
+UNIT – III:
+Admixtures and Fresh Concrete: Admixtures – plasticizers, superplasticizers, retarders,
+accelerators, air-entraining admixtures, pozzolanic admixtures, Fresh concrete –
+workability, factors affecting workability, cohesion and segregation, bleeding,
+Workability tests – slump, compaction factor, vee bee test, Setting time of concrete,
+Effect of time and temperature on workability.
+UNIT – IV:
+Strength, Elasticity, Creep and Shrinkage of Concrete: Water/cement ratio, Gel/space
+ratio, Maturity concept of concrete, Factors affecting strength of concrete, Relation
+between tensile and compressive strength, bond to reinforcement. Elasticity, Factors
+influencing modulus of elasticity, Poisson‟s ratio, Creep, Factors influencing creep,
+Effects of creep, Shrinkage, Factors influencing shrinkage, Types and effects of
+cracking.
+UNIT – V:
+Testing and Conformity: Strength tests – compressive strength, tensile strength, Test
+cores, Accelerated curing, Schmidt hammer, Penetration resistance, Pull-out test,
+Ultrasonic pulse velocity test, Variability of strength, acceptance and conformity.
+UNIT – VI:
+Concrete Mix Design and Special Concretes: Factors in the choice of mix proportions,
+Concrete mix design as per IS 10262, Special concretes – Introduction to light weight
+concrete, Aerated concrete, No-fines concrete, Recycled aggregate concrete, Fibre
+reinforced concrete, Ferrocement, Roller compacted concrete, High performance
+concrete, Self-consolidating concrete.
+TEXT BOOKS:
+1. Concrete Technology, A. M. Neville and J. J. Brooks, Prentice Hall Publication
+2. Concrete Technology, M. S. Shetty, S. Chand & Co. Publication
+REFERENCES:
+1. Concrete Technology, A. R. Santha Kumar, Oxford University Press
+2. Concrete Technology, M. L. Gambhir, Tata McGraw-Hill Press
+3. Properties of Concrete, A. M. Neville, Pearson Publication
+4. Concrete: Microstructure, Properties and Materials, P. K. Mehta and J. M. Monteiro,
+McGraw-Hill Publishers
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. IV Semester L T/P/D C
+3 0 3
+(A19PC1CE08) HYDRAULIC ENGINEERING AND HYDRAULIC MACHINES
+COURSE OBJECTIVES:
+• To define the fundamental principles of fluid mechanics for the solution of practical
+civil engineering problems of water conveyance in open channels
+• To discuss Dimensional analysis and design of channels in uniform and non-uniform
+flow conditions, hydraulic machinery (pumps and turbines) and the factors
+affecting their operation and specifications as well as the operation in a system
+• To solve problems on open channel flow and efficiency of pumps and turbines
+• To Study and analyze different types, elements of hydro-electric power plants and
+operational characteristics of turbines and pumps. Study about CFD
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Study of basics of Open Channel Flows and Design open channels under
+different flow conditions
+CO-2: Interpret and apply dimensional analysis and similarity to develop models and
+testing
+CO-3: Study of basics of Hydraulic Machines. Compare and categorize the design of
+appropriate hydraulic pumps and hydraulic turbines and their application in Hydro
+Electric power plants
+CO-4: Study of elements of Hydropower Engineering, Introduction to CFD and
+Hydroinformatics
+UNIT – I:
+Open Channel Flow-I: Introduction to Open Channel Flow-Comparison between
+open channel flow and pipe flow; geometrical parameters of a channel; classification
+of open channels, classification of open channel flow, Velocity Distribution of channel
+section.
+Continuity Equation; Energy Equation and Momentum Equation; Characteristics of
+uniform flow; Chezy‟s formula; Manning‟s formula; Factors affecting
+Manning‟s Roughness Coefficient; Most economical section of channel; Computation
+of Uniform flow, Normal depth.
+Critical Flow: Specific energy – critical depth - computation of critical depth – critical,
+sub critical and super critical flows
+UNIT – II
+Open Channel Flow – II: Non uniform flow: Gradually Varied Flow-Dynamic Equation
+of Gradually Varied Flow, Classification of channel bottom slopes, Classification of
+surface profile, Characteristics of surface profile; Computation of water surface profile
+by Direct Step method.
+Rapidly Varied Flow: Theory of hydraulic jump; Elements and characteristics of
+hydraulic jump in a rectangular Channel, length and height of jump, location of jump,
+types, and applications of hydraulic jump; Energy dissipation. Introduction to Positive
+and negative surges.
+UNIT – III:
+Dimensional Analysis and Hydraulic Similitude: Dimensional homogeneity; Rayleigh
+method; Buckingham‟s Pi method; Dimensionless groups; Similitude, Model studies,
+Types of models. Application of dimensional analysis and model studies to fluid flow
+problem.
+UNIT – IV:
+Basics of Hydraulic Machines: Hydrodynamic force of jets on stationary and moving
+flat, inclined and curved vanes, Jet striking centrally and at tip, Velocity triangles at
+inlet and outlet, expressions for work done and efficiency – Angular momentum
+principle, applications to radial flow turbines.
+Hydropower Engineering: Classification of Hydropower plants – Definition of terms –
+load factor, utilization factor, capacity factor, estimation of hydropower potential.
+UNIT – V:
+Hydraulic Turbines: Elements of a typical Hydropower installation – Heads and
+efficiencies – Classification of turbines – Pelton wheel – Francis turbine – Kaplan turbine
+- Working, working proportions, velocity diagram, work done and efficiency, hydraulic
+design, draft tube – theory and function, efficiency. Governing of turbines
+– Surge tanks – Unit and specific turbines – Unit speed – Unit quantity – Unit power –
+Specific speed – Performance characteristics – Geometric similarity – Cavitation.
+UNIT – VI:
+Centrifugal Pumps: Pump installation details – classification – work done – Manometric
+head – minimum starting speed – losses and efficiencies – specific speed. Multistage
+pumps – pumps in parallel – performance of pumps – characteristic curves – NPSH –
+Cavitation.
+TEXT BOOKS:
+1. Fluid Mechanics and Hydraulic Machines, Modi and Seth, Standard Book House
+2. Open Channel Flow, K. Subramanya, Tata McGraw-Hill Pvt. Ltd., 2008
+REFERENCES:
+1. Open Channel Hydraulics, V. T. Chow, McGraw-Hill, 1959
+2. Fluid Mechanics & Hydraulic Machines - Problems and Solutions, K. Subramanya,
+McGraw-Hill Education (I) Pvt. Ltd., 2011
+3. Computational Fluid Dynamics - The Basics with Applications, Jr. John D. Anderson,
+McGraw-Hill Pvt. Ltd., 2017
+4. Fluid Mechanics and Hydraulics Machines, R. K. Bansal, Lakshmi Publications
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. IV Semester L T/P/D C
+3 0 3
+(A19ES1EE07) ELEMENTS OF ELECTRICAL AND ELECTRONICS ENGINEERING
+COURSE OBJECTIVES:
+• To study and understand the performance of basic electric circuits
+• To understand the performance of electrical machines
+• To know the utilization of electrical energy in day to day to affairs
+• To understand the operation of diode and transistor
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Analyse the performance of electrical circuits
+CO-2: Test, analyse and find the applications of different electric machines
+CO-3: Know the use of electric power for domestic and industrial purposes
+CO-4: Understand the principles of semiconductor devices and their applications
+UNIT – I:
+Fundamentals of Electrical Circuits: Basic R-L-C parameters, Ohm’s Law, kirchhoff’s
+Laws, Series-parallel connections, Star/Delta Transformation, Generation of A.C,
+Average, RMS values and Form Factor of Sinusoidal Voltages, AC through RL,RC and
+RLC, concept of impedance, power, power factor, simple problems
+UNIT – II:
+D.C Machines: D.C Generator, Basic Construction, Operation, emf Equation, types,
+Open Circuit Characteristics, simple problems. D.C Motor-principle-back emf-Torque
+equation, Speed control, Swinburne’s test.
+UNIT – III:
+Introduction to 3-phase circuits, relation between line and phase quantities in
+balanced star and delta networks.
+A.C Machines: Single phase transformer: principle-emf equation-types-OC and SC
+tests- Voltage Regulation -Efficiency-Simple problems.
+UNIT – IV:
+Three Phase Induction Motor: Working principle – slip- torque equation- Torque slip
+characteristics, Principle of Alternator.
+Electrical Power Systems and Utilization: Hydro Power Plant: Lay out -Efficiency
+Calculation, Illumination: Definitions-Laws of Illumination- working of Incandescent
+Fluorescent lamps.
+UNIT – V:
+Electronics Devices: Semiconductor materials, Review of P-N junction, Diode
+Characteristics, Basic Operation of Half-wave and Full wave Rectifiers, Zener Diode as
+Voltage Regulator, BJT, biasing, Characteristics, applications.
+UNIT – VI:
+Digital Circuits and Transducers: Logic gates, Combinational Logic circuits, Basic
+operation of SR-JK-T and D Flip-Flops, Transducers -Overview - Passive Sensors - Working
+of Strain Gauge, Pressure Gauge, Dial Gauge - Piezoelectric Accelerometer Model-
+Galvanometer.
+TEXT BOOKS:
+1. Principles of Electrical and Electronics Engineering, V. K. Mehta, S. Chand & Co.
+2. Fundamentals of Electrical Engineering, Ashafaq Hussain, 2nd Edition, Dhanpat Rai
+& Co
+3. Electronic Devices and Circuits, S. Salivahanan, N. Suresh Kumar, 3rd Edition,
+McGraw- Hill Education
+REFERENCES:
+1. Electrical Technology, Edward Hughes, ELBS Longman Publisher
+2. Basic Electrical Engineering, D. P. Kothari & I. J. Nagrath, TMH Publications, 2nd
+Edition
+3. Utilization of Electric Power and Electric Traction, G. C. Garg, Khanna Publishers
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. IV Semester L T/P/D C
+3 0 3
+(A19PC2CE03) FLUID MECHANICS AND HYDRAULIC MACHINES LABORATORY
+COURSE OBJECTIVES:
+• To identify the behavior of analytical models introduced in lecture to the actual
+behavior of real fluid flows
+• To explain the standard measurement techniques of fluid mechanics and their
+applications
+• To illustrate the students with the components and working principles of the
+hydraulic machines- different types of Turbines, Pumps, and other miscellaneous
+hydraulics machines
+• To analyse the laboratory measurements and to document the results in an
+appropriate format
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Describe the basic measurement techniques of fluid mechanics and its
+appropriate application
+CO-2: Interpret the results obtained in the laboratory for various experiments
+CO-3: Discover the practical working of Hydraulic machines- different types of
+Turbines, Pumps, and other miscellaneous hydraulics machines
+CO-4: Compare the results of analytical models introduced in lecture to the actual
+behaviour of real fluid flows and draw correct and sustainable conclusions
+LIST OF EXPERIMENTS:
+1. Verification of Bernoulli‟s equation
+2. Determination of Coefficient of discharge for a small orifice by a constant head
+method.
+3. Calibration of Venturimeter / Orifice Meter
+4. Calibration of Triangular / Trapezoidal Notch
+5. Study of Minor losses in pipe flow
+6. Determination of Friction factor of a pipe line
+7. Impact of jet on vanes
+8. Study of Hydraulic jump
+9. Main characteristics of Pelton wheel turbine
+10. Performance test on Francis turbine
+11. Main characteristics of a single stage / multi stage Centrifugal Pump
+12. Operating characteristics of Reciprocating Pump
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. IV Semester L T/P/D C
+3 0 3
+(A19PC2CE04) CONCRETE LABORATORY
+COURSE OBJECTIVES:
+• To know the various procedures to determine the characteristics of cement
+• To understand the test procedures to evaluate the characteristics of aggregates
+• To know the test procedures to find the properties of fresh concrete
+• To understand the test procedures to find mechanical properties of hardened
+concrete
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Perform various tests required to assess the characteristics of cement
+CO-2: Test and evaluate the properties of fine and coarse aggregates and determine
+its suitability for construction
+CO-3: Evaluate the fresh and hardened properties of concrete
+CO-4: Design the concrete mix for required strength and test its performance
+characteristics
+LIST OF EXERCISES:
+CYCLE – I
+1. Tests on Cement:
+a) Standard consistency.
+b) Initial and final Setting Time.
+c) Specific gravity.
+d) Fineness.
+e) Soundness.
+f) Compressive strength.
+2. Tests on Aggregates:
+a) Specific gravity of fine aggregate.
+b) Specific gravity of coarse aggregate.
+c) Bulking of fine aggregate.
+d) Grading of fine aggregate
+CYCLE -II
+3. IS method of mix design of normal concrete as per IS : 10262
+4. Tests on Fresh Concrete:
+a) Slump cone test.
+b) Compacting factor test.
+c) Vee-Bee consistometer test.
+5. Tests on Hardened Concrete:
+a) Compressive & Tensile strength tests.
+b) Modulus of elasticity of concrete.
+c) Non-destructive testing of concrete.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. IV Semester L T/P/D C
+3 0 3
+(A19ES2EE06) ELEMENTS OF ELECTRICAL AND ELECTRONICS ENGINEERING
+LABORATORY
+COURSE PRE-REQUISITES: Physics
+COURSE OBJECTIVES:
+• To understand the performance of basic electric circuits
+• To understand the measuring procedures for power
+• To understand the performance of electrical machines
+• To understand the operation of diode and transistor
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Analyse the performance of electrical circuits.
+CO-2: Analyse the power using voltmeter and ammeter method
+CO-3: Assess the performance of transformer and electrical machines.
+CO-4: Understand the principles of semiconductor devices and their applications
+LIST OF EXPERIMENTS:
+1. Verification of KVL & KCL.
+2. Analysis of series RL and RC circuits
+3. Single phase power measurement by three voltmeters and three ammeters
+method
+4. Load test on 1- ϕ Transformer
+5. OC & SC test on 1- ϕ Transformer.
+6. Speed control DC shunts Motor.
+7. Swinburne test on DC shunt machine
+8. V-I characteristics of P-N junction Diode.
+9. Performance of Full wave rectifier.
+10. Input and output characteristics of transistor.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. IV Semester L T/P/D C
+0 2 0
+(A19MN6HS03) GENDER SENSITIZATION
+COURSE DESCRIPTION:
+This course offers an introduction to Gender Studies, an interdisciplinary field that asks
+critical questions about the meanings of sex and gender in society. The primary goal
+of this course is to familiarize students with key issues, questions and debates in Gender
+Studies, both historical and contemporary. It draws on multiple disciplines – such as
+literature, history, economics, psychology, sociology, philosophy, political science,
+anthropology and media studies – to examine cultural assumptions about sex,
+gender, and sexuality. This course integrates analysis of current events through student
+presentations, aiming to increase awareness of contemporary and historical
+experiences of women, and of the multiple ways that sex and gender interact with
+race, class, caste, nationality and other social identities. This course also seeks to build
+an understanding and initiate and strengthen programmes combating gender-based
+violence and discrimination. The course also features a number of exercises and
+reflective activities designed to examine the concepts of gender, gender-based
+violence, sexuality, and rights. It will further explore the impact of gender-based
+violence on education, health and development.
+ACTIVITIES:
+Classes will consist of a combination of activities: dialogue-based lectures, discussions,
+collaborative learning activities, group work and in-class assignments.
+COURSE OBJECTIVES:
+• To sensitize students on issues of gender in contemporary India
+• To provide a critical perspective on the socialization of men and women
+• To expose the students to debates on the politics and economics of work
+• To enable students to reflect critically on gender violence
+• To expose students to more egalitarian interactions between men and women
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand important issues related to gender in contemporary India
+CO-2: Attain a finer grasp of how gender discrimination works in our society and how
+to counter it
+CO-3: Acquire insight into the gendered division of labour and its relation to politics
+and economics
+CO-4: Respond to put an end to gender violence
+CO-5: Equipped to work with the other gender treating them as equals
+MODULE 1: Introduction to Gender
+Definition of Gender
+Basic Gender Concepts and Terminology
+Exploring Attitudes towards Gender
+Social Construction of Gender
+MODULE 2: Gender Roles and Relations
+Types of Gender Roles
+Gender Roles and Relationships Matrix
+Gender-based Division and Valuation of Labour
+MODULE 3: Gender Development Issues
+Identifying Gender Issues
+Gender Sensitive Language
+Gender, Governance and Sustainable Development
+Gender and Human Rights
+Gender and Mainstreaming
+MODULE 4: Gender-based Violence
+The concept of violence
+Types of Gender-based violence
+The relationship between gender, development and violence
+Gender-based violence from a human rights perspective
+MODULE 5: Gender and Culture
+Gender and Film
+Gender and Electronic Media
+Gender and Advertisement
+Gender and Popular Literature
+MODULE 6: Gender and Studies
+Knowledge: Through the Lens of Gender Point of View, Gender and the Structure of
+Knowledge
+Whose History: Questions for Historians and Others, Reclaiming a Past, Writing Other
+Histories
+TEXT BOOK:
+1. “Towards a World of Equals: A Bilingual Textbook on Gender”, A. Suneetha, Uma
+Bhrugubanda, Duggirala Vasanta, Rama Melkote, Vasudha Nagaraj, Asma
+Rasheed, Gogu Shyamala, Deepa Sreenivas and Susie Tharu, Telugu Akademi,
+Telangana Government, 2015
+REFERENCES:
+1. “More than One Million Women are Missing”, Sen, Amartya, New York Review of
+Books 37.20 (20 December 1990), Print ‘We Were Making History’ Life Stories of
+Women in the Telangana People’s Struggle, New Delhi: Kali for Women, 1989
+2. “By the Numbers: Where Indian Women Work” Women’s Studies Journal (14
+November 2012),, Tripti Lahiri, Available online at: http: // blogs.wsj.com/ India real
+time/2012/11/14/by-the-numbers-where-India-women-work/&gt
+3. “I Fought For My Life ...and Won, Abdulali Sohaila, Available online at:
+http://www.thealternative.in/lifestyle/i-fought-for-my-lifeand-won-sohaila-abdulal
+4. The Violence of Development: The Politics of Identity, Gender and Social
+Inequalities in India, K. Kapadia, London: Zed Books, 2002
+5. Just Development: Beyond Adjustment with a Human Face, T. Banuri and M.
+Mahmood, Karachi: Oxford University Press, 1997

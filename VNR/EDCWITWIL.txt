@@ -1,0 +1,841 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/EDCWITWIL.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for CE, EEE, ME, ECE, CSE, EIE, IT B.Tech. Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF 109 Rank in engineering Category
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+Estd.1995 E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+CONTENTS
+1. Syllabus of the Course
+2. Scenario with Industry Endorsement
+3. Brief explanation of Scenario
+4. WIT Report -Integration of syllabus, WIT & WIL scenario and teaching plan
+4.1 UNIT 1 PN-Junction Diode and Applications: – WIT Report
+4.2 UNIT 2 Bipolar Junction Transistor, Biasing and Stabilization: – WIT Report
+4.3 UNIT 3 Field Effect Transistor, Biasing: – WIT Report
+4.4 UNIT 4 Small signal low frequency Amplifiers: BJT Amplifiers: – WIT Report
+4.5 UNIT 5 Feedback Amplifiers and Oscillators– WIT Report
+4.6 UNIT 6 Special Purpose Semiconductor Devices: – WIT Report
+5. WIL reports to be submitted by student teams
+5.1 UNIT 1 PN-Junction Diode and Applications: – WIL Report (12- 14 reports)
+5.2 UNIT 2 Bipolar Junction Transistor, Biasing and Stabilization: – WIL Report (12- 14 reports)
+5.3 UNIT 3 Field Effect Transistor, Biasing: – WIL Report (12- 14 reports)
+5.4 UNIT 4 Small signal low frequency Amplifiers: BJT Amplifiers: – WIL Report (12- 14
+reports)
+5.5 UNIT 5 Feedback Amplifiers and Oscillators – WIL Report (12- 14 reports)
+5.6 UNIT 6 Special Purpose Semiconductor Devices: – WIL Report (12- 14 reports)
+1. Syllabus of the Course
+Pre-requisites: Engineering Physics
+Course Objectives:
+• To understand the construction, principle of operation and characteristics of various
+semiconductor devices.
+• To study the applications of various semiconductor devices.
+• To have the familiarity with small signal model of semiconductor devices
+• To understand the concepts of feedback in amplifiers and Oscillators
+Course Outcomes:
+After Completion of the course the student will be able to
+1. Explain the principle of operation and substantiate the applications of various
+Semiconductor devices.
+2. Appreciate the need for biasing and stabilization.
+3. Design the application specific circuits using basic active and passive components
+4. Explain the necessity of feedback in amplifiers and Oscillators.
+UNIT I
+PN-Junction Diode and Applications: Review of p-n Junction as a Diode, Diode Equation,
+Volt-Ampere Characteristics, Temperature dependence of V-I characteristics, Ideal and
+Practical Diode Equivalent Circuits, Transition and Diffusion Capacitances, Breakdown
+Mechanisms in Semi-Conductor Diodes, Zener Diode and its Characteristics.
+Half wave Rectifier, Full wave rectifier, Bridge Rectifier, Harmonic components in a Rectifier
+Circuit, Capacitor filters, π- section filters, Zener diode as Voltage Regulator.
+UNIT II
+Bipolar Junction Transistor, Biasing and Stabilization: Bipolar Junction Transistor(BJT), Transistor
+Current Components, Transistor Construction, BJT Operation, Common Base, Common
+Emitter and Common Collector Configurations, Limits of operation, BJT as an Amplifier, BJT
+Specifications. DC and AC Load lines, Quiescent operating point, Need for Biasing, Analysis
+of Fixed Bias, Collector Feedback Bias, Emitter Feedback Bias, Collector-Emitter Feedback
+Bias, Voltage Divider Bias, Bias Stability, Stabilization Factors, Stabilization against variations in
+V , βand I , Thermal Runaway, Thermal Stability and Compensation Techniques
+BE CO
+UNIT III
+Field Effect Transistor, Biasing: Construction and operation of Junction Field Effect Transistor
+(JFET), Volt-Ampere characteristics- Drain and Transfer Characteristics, FET as Voltage
+Variable Resistor, FET Biasing, Construction and operation of MOSFET, MOSFET characteristics
+in Enhancement and Depletion modes.
+UNIT IV
+Small signal low frequency Amplifiers: BJT Amplifiers: Small signal low frequency transistor
+amplifier circuits: h-parameter representation and analysis of single stage CE, CC, CB
+amplifiers - Computation of Voltage gain, Current gain, Input impedance and Output
+impedance, Comparison of CB, CE, CC amplifiers.
+JFET Amplifiers: JFET Small Signal Model, FET Common Source Amplifier, Common Drain
+Amplifier.
+UNIT V
+Feedback Amplifiers and Oscillators: Concept of feedback, Types of feedback, general
+characteristics of negative feedback amplifiers, voltage series, voltage shunt, current series
+and current shunt feedback configurations and their analysis(BJT version), Illustrative
+problems.
+Classification of oscillators, Conditions for oscillations, RC phase shift oscillator, Generalized
+analysis of LC oscillators – Hartley and Colpitts oscillators, piezoelectric crystal oscillator,
+Stability of oscillators.
+UNIT VI
+Special Purpose Semiconductor Devices: Tunnel Diode, Varactor Diode, Photo Diode, Photo
+Transistor, UJT, LED, SCR
+TEXT BOOKS
+1. Electronic Devices and Circuits – J.Millman, C.Halkias, and Satyabrata Jit, 4th
+Edition, Tata McGraw Hill, 2015.
+2. Electronic Devices and Circuits – R.L. Boylestad and Louis Nashelsky, 11th Edition,
+Pearson/Prentice Hall, 2016.
+REFERENCES
+1. Integrated Electronics - J.Millman ,C.Halkias, and Chetan D Parikh, 2ndEdition,Tata
+McGraw Hill, 2010.
+2. Electronic Devices and Circuits – T.F. Bogart Jr., J.S.Beasley and G.Rico, 6thEdition,
+Pearson Education, 2004.
+3. Microelectronic Circuits- Adel S. Sedra and Kenneth C. Smith 7th edition, Oxford,
+2014.
+2. Scenario with Industry Endorsement
+Fig.1. Internal circuit diagram other PCBs wiring diagram of a LCD/LED TV
+
+3. Brief Explanation of the Scenario
+The scenario chosen to explain WIT & WILTM is that of a typical internal circuit and wiring diagram of
+a LCD/LED television which encompasses most of the topics and subtopics of the syllabus for R19
+regulation of Electronic devices and circuits for Undergraduate students of Electrical and Electronics
+Engineering.
+Introduction to the scenario and the subject
+Liquid crystal display (LCD) and light emitting diode (LED) technology have been using these days for
+display applications. Consumer electronics are become more demands and Television, advertising board
+and monitors or displays are using this technology in very wide range.
+A generic layout and internal circuit diagram and wiring diagram of an LCD/LED TV have been shown
+in Figure.1. An LCD/LED television is a complex circuit consisting of various components to display an
+image on screen. On observation, one realises that there are various components in the scenario such as
+power supply unit, inverter, main controller board,
+Most of these components are noticed in each circuits is a combination of various electronic devices
+such as diodes, transistors, feedback amplifiers and few special kind of devices. Each printed circuit
+board showed in Fig.1 performs specific task like it takes different types of inputs and are processed to
+get desired output on the screen with audio. The basic characteristics of various electronic devices
+performed in each circuit to generate the required output.
+The components described here can also be seen in various other electronics and electrical projects like
+mobile phone, communication based train control (CBTC), chargers and refrigerators and elevators. The
+contents of the subject help one to understand the problems encountered, the science governing the
+problem and tools to design solutions to problems encountered in displaying picture on screen on
+interfacing multiple devices parallel.
+The scope of this subject is very wide and the concepts of this subject can be used in development of
+control circuits in consumer electronics, industrial, commercial, medical and defence sectors. In battery
+charging applications electronics circuit plays an important in governing charge feeding to battery,
+temperature at battery terminals, voltage control and charging time etc.
+Relevance of the scenario to the syllabus
+Let’s analyze the circuit shown in Fig.1 and relate them with electronic device characteristics and their
+application starting from unit 1 to unit 6. The present technology using LCD/LED televisions are having
+multiple input ports such as satellite signal, HDMI, Ethernet, VGA, USB and control signal from remote
+etc. The various input signals received from various input ports processed by different electronic devices
+present in PCBs. Printed circuit boards (PCBs) shown in Fig.1 performs various task on utilizing various
+electronic devices such as p-n junction diode, bi-polar junction transistor (BJT), field effect transistor
+(FET) and few special devices like Light emitting diodes, photo diode, photo transistor, varactor diode
+and uni-junction transistor(UJT).
+The basic semi conductor element p-n junction diode and zener diode characteristics and their
+applications are found in unit -1 which relates with power supply (SMPS) board in scenario. This power
+supply board will provide power to all PCBs and to other components which needs power. Power supply
+card takes AC input and stepped down with the help of transformer and later it converts into DC by
+using p-n junction diodes. That DC power supplied to all PCBs and ICS etc. Some places where needs to
+be maintain constant voltage in which zener diodes will be used and will act as voltage regulators.
+As present TVs takes multiple inputs and are processed using few circuits the video will be displayed on
+the screen, but the audio for the same should be delivered through amplifier. The signal received from
+various sources will have very low in magnitude. The same cannot be delivered to the output. But, the
+signal strength can be increased using amplifier circuits. The speaker section along with amplifier shown
+in scenario can be mapped with unit-2. Since here we study the characteristics of BJT in differenternt
+configuration and can be used for amplifier application.
+Signals are of different types like video and audio signals, these signals are feeded into various
+electronic circuits through various input modes. Sometimes signals received from satellite, sometimes
+HDMI ports or sometimes wifi module etc. Few devices need AC signals, but from source (Power
+supply) card we get only DC. So, needs a circuit which converts DC into AC. The circuit which converts
+DC into AC is called inverter, wherein controlled switches such as MOSFETs will be used and are
+operated at very high frequencies. In unit-3 will study the characteristics of field effect transistors and
+their applications, so in scenario the inverter can be mapped with unit-3.
+Scenario shown in Fig.1 consists a major circuit board named main board. It has numerous components
+and is used to perform different tasks. Circuits embedded on to this board consist of semiconductors p-n
+junction diodes, transistors and special devices. To implement any circuit one has to analyze the circuit
+by replacing all devices with their equivalent circuits. On replacement on can find various parameters
+like input resistance, output resistance, voltage gain and current gain. Analysis can be done using h-
+parameters approach and it can be done easy by using small signal analysis of BJT and FET. The
+processor can perform operation based on the clock signal generated in the circuit.
+Positive feed-back circuits are capable of generating different forms of signals; such signal can be fed to
+the processor to perform activities. Clock pulses of square wave can be generated using multivibrators.
+An astable multivibrator used to generate continuous square wave with a frequency. A crystal oscillator
+is used for this application. In most of the times processor takes feedback signal and is processed. So,
+unit-4 and uni-5 mapped with this main board which covers topics of small signal modelling of fourth
+unit and feedback concepts of unit fifth.
+Special kind of devices is used in many industrial and consumer electronics. Devices such as UJT (Uni
+junction transistors), SCR (Silicon controlled rectifiers), LED (Light emitting diode and photo
+transistors and etc. In this scenario uni-6 mapped with LED panel or LCD panel and which is special
+kind of device can be used for display applications. Even SCR can be used to get control on power
+supply in converting ac to dc.
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for CE, EEE, ME, ECE, CSE, EIE, IT B.Tech. Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF 109 Rank in engineering Category
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Estd.1995
+Course Name Electronic Devices and Circuits Year/ Semester II BTECH /I SEMESTER (AY 2020-2021)
+Course Code 19PC1EC02 Scenario Endorsing Industry & Logo
+Airports authority of India
+Name of the Faculty Dr. Pasula Naresh
+4.1 INTEGRATION OF SYLLABUS, WIT & WILTM SCENARIO AND TEACHING PLAN
+WIT & WIL Scenario Mapping Teaching plan
+Lecture Lecture Learning Resources /
+No. Contents of the syllabus Delivery Methodologies Course Outcomes
+Dates* References
+1 Electronic Devices and Circuits – WIT & WIL 17.08.2020 DM8 (S) L1 CO-1,2,3,4
+Scenario explanation
+LCD/LED Television and its internal
+circuit
+Brief Description of WIT: The taken scenario (i.e. LCD/LED TV internal circuit) resembles the application of various electronic devices and how they will be used to achieve a particular output. Television or
+display boards are used to display an image or play videos.
+Unit 1: Study of PN-Junction Diode characteristics plays an important role in choosing this device to different applications in electronic circuits wherein one has to focus device characteristics and ratings.
+Especially in AC-DC conversion in fundamental frequency and high frequency applications
+Unit 2: Biasing and stabilization plays an important role in applications where BJT can be used as a switch, amplifier and regulating device. The transistor parameters study while studying its characteristics in
+different configurations enable designers to shoes this device for different applications.
+Unit 3: The chip size decreased to a very low level because of this device, wherein on study the characteristics of this device and can able to explore this device for various industrial and controlling circuits.
+Microprocessor and switched mode power supply uses these devices as a fast switching device.
+Unit 4: Designing any electronic circuit to perform certain operation need to be analyzed in detail. It is only possible when each of electronic devices replaced with its equivalent circuit diagram and solving for
+various parameters such as voltage and current gain and input and output impedances.
+Unit 5: A closed loop system preferred in most cases where a precise and accurate control over parameters such as voltage and currents. Feedback circuits like +ve and –ve amplifiers are used to control and
+generated a kind of waveforms. Basically the feedback circuits are fed by output signal and they amplified to a level then they compared with reference signal.
+Unit 6: The regular operations will be done by normal p-n junction diodes, BJTs and FETs, but few operations which are not possible with regular semi conductor devices. Those operations may be done with
+the help of special devices. Operations like –ve resistance, display, energy conversion, isolation and control can be implemented with special purpose semiconductor devices.
+UNIT 1: P-N Junction diode and applications (S.1)
+1. 1 Review of p-n Junction as a Diode 18.08.2020 DM1, DM2,DM8 AV1 (S.1.1) T1,T2,R1R2 CO-1
+2. 3 Diode Equation 20.08.2020
+DM1, DM4,DM8, AV1 (S.1.1)
+T1,T2,R1R2 CO-1,3
+3. 4 Volt-Ampere Characteristics, Temperature 24.08.2020 DM1,DM2, DM4,DM8, AV2 (S.1.1) T1,T2,R1R2 CO-1
+dependence of V-I characteristics,
+4. 5
+Ideal and Practical Diode Equivalent Circuits,
+25.08.2020
+DM1, DM8,AV2 (S.1.1)
+T1,T2,R1R2 CO-1, 3
+Transition capacitance
+5. 6
+Diffusion Capacitances
+27.08.2020
+DM1, DM8,AV2 (S.1.1)
+T1,T2,R1R2 CO-1,3
+Brief Description of WIT: There are two types of power supplies one is AC power the other one is DC. The power generated, transmitted and distributed is an AC power. Technical specification is single phase
+230V and 50 Hz for domestic applications. But, this power cannot be used for electronic circuits, since they work for low voltages and that too it is a DC power. A circuit that can be used to convert AC power
+into DC power is so called rectifier. In which uncontrolled or sometimes controlled semiconductor devices have been using based on requirement. The scenario connected here is a AC-DC converting circuit (i.e.
+rectifier) and the device here it is a p-n junction diode. Here will study the formation of diode and V-I characteristics of a diode.
+DM1, DM4,DM8, AV3(S.1.2)
+6. 7 Breakdown Mechanisms in Semi-Conductor Diodes 31.08.2020 T1,T2,R1 CO-2,3
+DM1,DM2, DM8, AV3 (S.1.2)
+7. 8 Zener Diode and its characteristics. 01.09.2020 T1,T2,R1 CO-1,2,3
+DM1, DM8 (S.1.2)
+8. 9 Half wave Rectifier 03.09.2020 T1,T2,R1 CO-2,3
+9. 1 DM1, DM8 (S.1.2)
+Full wave rectifier, Bridge Rectifier 07.09.2020 T1,T2,R1 CO-1, 2
+0
+10. 1 DM1, DM4,DM8, AV4(S.1.2)
+Harmonic components in a Rectifier Circuit 08.09.2020 T1,T2,R1 CO-3
+1
+11. 1 DM1,DM2, DM4,DM8, AV3 (S.1.2)
+Capacitor filters, π- section filters and Zener diode as 10.09.2020 T1,T2,R1 CO-1,2,3
+2 Voltage Regulator.
+Brief Description of WIT: In the process of converting AC-DC one has touse either p-n junction diode or if a variable DC needed then one has to use controlled device. A single diode is used to convert into DC
+or one can use two or four for higher average output. The output obtained here is a pulsated DC and whose ripples should be removed. There are different types of filters which will be used to remove ripples
+in current and voltage. A L-filter is used to remove ripples in current, a C-filter is used to remove ripples in voltage and an LC and CLC filters are used to remove ripples both in current and voltage. In some
+situation one has to maintain constant DC supply voltage for ICs and other electronic devices. Zener diodes are useful in this regard. The scenario covers bother devices p-n junction diode and zener diode
+applications.
+12. Tutorial Applications of diodes & Application 14.09.2020 DM1, DM8 (S.1) T1,T2,R1,R2 CO-1,3
+of zener as voltage regulator
+13. Tutorial 15.09.2020 DM1, DM4,DM8,,AV1,AV4 (S.1) T1,T2,R1,R2 CO-1,3
+Related Documents:
+1. Syllabus of the course as defined in the curriculum – Fluid Mechanics
+2. Academic plan & teaching plan
+3. WIT&WILTM Scenario Endorsement
+Details of Delivery Methodologies used:
+DM1: Chalk and Talk
+DM2: Learning by doing
+DM4: Demonstration (Physical / Laboratory / Audio Visuals / PPT)
+DM6: Case Study (Work on real data)
+DM8: WIT & WIL
+Audio Visuals:
+AV1 – P-N Junction diode formation https://www.youtube.com/watch?v=0yyFiJw5emw&t=2s
+AV2 – P-N Junction diode characteristics https://www.youtube.com/watch?v=OyC02DWq3mI&t=215s
+AV3 – P-N Junction diode applications https://www.youtube.com/watch?v=JBtEckh3L9Q
+AV4 – Zener diode applications https://www.youtube.com/watch?v=Fwj_d3uO5g8
+PowerPoint Presentation:
+PPT - https://drive.google.com/file/d/1bM2lYHen1Z_XHpsT3LmLxwdsqPm3oSXv/view?usp=sharing
+Physical Demonstrations:
+P1 – Demonstration with different types of P-N junction diode and Zener diode
+P2 – Demonstration through experiment P-N Junction diode and full wave rectifier
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for CE, EEE, ME, ECE, CSE, EIE, IT B.Tech. Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF 109 Rank in engineering Category
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Estd.1995
+Course Name Electronic Devices and Circuits Year/ Semester II BTECH /I SEMESTER (AY 2020-2021)
+Course Code 19PC1EC02 Scenario Endorsing Industry & Logo
+Airports authority of India
+Name of the Faculty Dr. Pasula Naresh
+4.2 INTEGRATION OF SYLLABUS, WIT & WILTM SCENARIO AND TEACHING PLAN
+WIT & WIL Scenario Mapping Teaching plan
+Lecture Lecture Learning Resources /
+No. Contents of the syllabus Delivery Methodologies Course Outcomes
+Dates* References
+UNIT 2: Bipolar Junction Transistor, Biasing and Stabilization: (S.2)
+Introduction to unit using WIT & WIL; Description of BJT Construction and configurations
+fluid flows
+14. Bipolar Junction Transistor(BJT), 17.09.2020 DM1, DM4, DM8,AV1(S.2.1) T1,T2, R2 CO-2
+Limits of operation,
+15. Transistor Current Components, Transistor 21.09.2020 DM1,DM4, DM 8,AV1 (S.2.1) T1,T2, R2 CO-2
+Construction,
+BJT Operation, Common Base,
+16. Common Emitter and Common Collector 22.09.2020 DM1,DM2, DM4 , DM8,AV2 (S.2.1) T1,T2, R2 CO-2,3
+Configurations,
+BJT as an Amplifier, BJT Specifications. DC and AC Load
+17. lines, Quiescent operating point, 24.09.2020 DM1, DM4, DM8,AV2 (S.2.1) T1,T2, R2 CO-2,3
+Brief Description of WIT: Bi-polar junction transistor is a revolutionary semi-conductor device in the 20th century. Multiple applications can be implemented with the help of BJT. Different configuration in the BJT
+enables the designers to choose BJT for different applications based on the operating regions. The most popular application of BJT is in amplifying applications in which a weak signal is amplified to a very high level.
+In the chosen scenario this unit is mapped with the amplifier circuit. It is used to deliver voice in a LCD/LED TV by amplifying a low magnitude signal. Specifications of BJT is important in chosing the device for a
+particular application and for a particular frequency.
+18. Need for Biasing, Analysis of Fixed Bias, 28.09.2020 DM1,DM2, DM4, DM8, AV2(S.2.2) T1,T2, R3 CO-2,3
+DM1, DM8 (S.2.2)
+19. Collector Feedback Bias, Emitter Feedback Bias, 29.09.2020 T1,T2, R3 CO-2,3
+DM1, DM4, DM8,AV3(S.2.2)
+20. Collector-Emitter Feedback Bias, Voltage Divider Bias, 01.10.2020 T1,T2, R3 CO-2,3
+Bias Stability, Stabilization DM1, DM4, DM8,AV3(S.2.2)
+21. Factors, Stabilization against variations in VBE, βand 05.10.2020 T1,T2, R3 CO-2,3
+ICO,
+DM1, DM4, DM8(S.2.2)
+22. Thermal Runaway, Thermal 06.10.2020 T1,T2, R3 CO-2,3
+Stability and Compensation Techniques
+Brief Description of WIT: Bi-polar junction transistor operating conditions are depends on the various parameters such as biasing and stability. There are different biasing techniques can be implemented to operate
+the device in either active or saturation region. The biasing will provide minimum voltage and current to BJT to operate in saturation or in cut-off region or in active region. The temperature variation can effect the
+device characteristics and can be nullified partially with stabilizing circuits. In the scenario BJT is used to amplifying action wherein transistor operated in active region.
+23. Tutorial Pump house, pipe network 08.10.2020 DM, DM8 (S.2) T1,T2,R1, R3 CO-2,3
+24. Tutorial 12.10.2020 DM1, DM4, DM8 (S.2) T1,T2, R3 CO-2,3
+Related Documents: 1. Syllabus of the course as defined in the curriculum – Fluid Mechanics
+2. Academic plan & teaching plan
+3. WIT&WILTM Scenario Endorsement
+Details of Delivery Methodologies used:
+DM1: Chalk and Talk
+DM2: Learning by doing
+DM4: Demonstration (Physical / Laboratory / Audio Visuals / PPT)
+DM6: Case Study (Work on real data)
+DM8: WIT & WIL
+Audio Visuals:
+AV1 – Streamline, Streakline, Pathline https://www.youtube.com/watch?v=fIvZen2tq_w
+AV2 – Flownet https://www.youtube.com/watch?v=7ukDKVHnac4
+AV3 – Continuity equation https://www.youtube.com/watch?v=-VwPSDQmdjM
+PowerPoint Presentation:
+PPT - https://drive.google.com/file/d/1bM2lYHen1Z_XHpsT3LmLxwdsqPm3oSXv/view?usp=sharing
+Physical Demonstrations:
+P1 – Demonstration with different types configuration in BJT and parameter calculation from input and output characteristics
+P2 – Demonstration through experiment CE configuration as amplifier
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for CE, EEE, ME, ECE, CSE, EIE, IT B.Tech. Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF 109 Rank in engineering Category
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Estd.1995
+Course Name Electronic Devices and Circuits Year/ Semester II BTECH /I SEMESTER (AY 2020-2021)
+Course Code 19PC1EC02 Scenario Endorsing Industry & Logo
+Airports authority of India
+Name of the Faculty Dr. Pasula Naresh
+4.3 INTEGRATION OF SYLLABUS, WIT & WILTM SCENARIO AND TEACHING PLAN
+WIT & WIL Scenario Mapping Teaching plan
+Lecture Lecture Learning Resources /
+No. Contents of the syllabus Delivery Methodologies Course Outcomes
+Dates* References
+UNIT 3 Field Effect Transistor, Biasing (S.3)
+Introduction to unit using WIT & WIL;
+25. Construction and operation of Junction Field Effect FET Characteristics 13.10.2020 DM1, DM4, DM8,AV1 (S.3.1) T1, R1,R2 CO-2,3
+Transistor (JFET)
+26. Volt-Ampere characteristics 15.10.2020 DM1,DM2, DM8,AV1 (S.3.1) T1, R1,R2 CO-2,3
+27. Drain and Transfer Characteristics 19.10.2020 DM1,DM2, DM8 (S.3.1) T1, R1,R2 CO-2,3
+DM1, DM4, DM8,AV2 (S.3.1)
+28. FET as Voltage Variable Resistor 20.10.2020 T1, R1,R2 CO-2,3
+Brief Description of WIT: Microprocessor become popular and their applications in electronic industry got importance after inventing field effect transistor. These transistors are superior in many parameters as
+compared to BJT. These transistors are fast, occupy less space on chip and had high thermal co-efficient. Characteristics of FET are different from BJT in which output can be controlled in two ways. It can also use as
+variable resistor. In this scenario these devices are used to implement inverter circuit, in which the DC converter into AC by operating switches at a frequency based on requirement. Switched power supplies uses
+MOSFETs and are operated at very high frequency.
+29. FET Biasing, Construction and operation of MOSFET, 22.10.2020 DM1, DM4, DM8,AV3(S.3.2) T1, R1,R2 CO-2,3
+MOSFET characteristics in Depletion modes.
+30. 26.10.2020 DM1, DM8AV3(S.3.2) T1, R1,R2 CO-2,3
+31. MOSFET characteristics in Enhancement 27.10.2020 DM1, DM4, DM8,AV3(S.3.2) T1, R1,R2 C CO-2,3
+32. Numerical problems 29.10.2020 DM1, DM4, DM8(S.3.2) T1, T3 CO-2,3
+Brief Description of WIT: Biasing is needed even in FET, since it has three operating regions similar to BJT and are decided by providing proper biasing. These operating regions are ohmic, cut-off and saturation
+regions. MOSFET used as switch when it operated in ohmic region and cut-off region. The enhancement FET are more preferred than a depletion mode FETs. The mobility of electrons in enhance mode is high
+compared to depletion mode. In this scenario enhancement MOSFET useful in implementing inverter circuit to provide AC input to various electronic circuits.
+33. Tutorial 09.11.2020 DM1, DM8 (S.3) T1, R1,R2 CO CO-2,3
+34. Assignment test 10.11.2020 DM2,DM4 T1, T2, R1,R2 CO-1,2,3
+35. Revision of Units 1,2,3 12.11.2020 DM2,DM4 T1, T2, R1,R2 CO-1,2,3
+Related Documents: 1. Syllabus of the course as defined in the curriculum – Fluid Mechanics
+2. Academic plan & teaching plan 3. WIT&WILTM Scenario Endorsement
+Details of Delivery Methodologies used:
+DM1: Chalk and Talk
+DM2: Learning by doing
+DM4: Demonstration (Physical / Laboratory / Audio Visuals / PPT)
+DM6: Case Study (Work on real data)
+DM8: WIT & WIL
+Audio Visuals:
+AV1 – FET Characteristics https://www.youtube.com/watch?v=RWIk3_NT_jg
+AV2 – Biasing and applications of JET and MOSFET https://www.youtube.com/watch?v=Bine_PbyFSQ
+AV3 – Power converters: https://www.youtube.com/watch?v=iIqhAX0I7lI
+PowerPoint Presentation:
+PPT - https://drive.google.com/file/d/1bM2lYHen1Z_XHpsT3LmLxwdsqPm3oSXv/view?usp=sharing
+Physical Demonstrations:
+P1 – Demonstration with different types CS configuration and parameter calculation from input and output characteristics
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for CE, EEE, ME, ECE, CSE, EIE, IT B.Tech. Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF 109 Rank in engineering Category
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Estd.1995
+Course Name Fluid Mechanics Year/ Semester II BTECH /I SEMESTER (AY 2019-2020)
+IVRCL Pvt. Ltd.
+Course Code 18PC1CE02 Scenario Endorsing Industry & Logo
+Name of the Faculty Keerthi Priya Kasturi
+4.4 INTEGRATION OF SYLLABUS, WIT & WILTM SCENARIO AND TEACHING PLAN
+WIT & WIL Scenario Mapping Teaching plan
+Lecture Lecture Learning Resources /
+No. Contents of the syllabus Delivery Methodologies Course Outcomes
+Dates* References
+UNIT 4: Small signal low frequency Amplifiers: BJT Amplifiers : JFET Amplifiers: (S.4)
+Introduction to unit using WIT & WIL; Small signal model of BJT
+36. Small signal low frequency transistor amplifier circuits: h- 16.11.2020 DM1 ,DM4 , DM8,AV1 (S.4.1) T1, T2,R2,R3 CO-3
+parameter representation
+Analysis of single stage CE, CC, CB amplifiers,
+37. 4
+Computation of Voltage gain, Current gain 17.11.2020 DM1, DM8,AV1 (S.4.1) T1, T2,R2,R3 CO-3
+1
+38. 4Input impedance and Output impedance, Comparison
+19.11.2020 DM1,DM2, DM8,AV1 (S.4.1) T1, T2,R2,R3 CO-3
+3 of CB, CE, CC amplifiers.
+Brief Description of WIT: To design any electronic circuit to implement a particular operation one should have knowledge for which kind load the circuit is designing and for value of load it is implementing. So,
+these electronic circuits can be designed by using transistors only when the designer has the knowledge of equivalent circuit of semiconductor device which we are using. At the same time what are different
+parameters is used to define the equivalent circuit. In general transistors are chosen based on the gain provided by transistor such as voltage , current gains and input and output impedances. In this scenario it is
+mapped with main control circuit board where different transistor for different applications.
+39. 4 Small signal model of FET
+JFET Small Signal Model Amplifier 24.11.2020 DM1,DM8,AV2 (S.4.2) T1, T2,R2,R3 CO-3
+6
+40. 4
+FET Common Source Common Drain Amplifier 30.11.2020 DM1,DM2,DM8,AV2 (S.4.2) T1, T2,R2,R3 CO-3
+7
+Brief Description of WIT: Field effect transistors are also used as voltage variable resistor. This feature enables the designers to chose this device as a resistor instead of a normal resistor. This can be modelled as
+variable resistor only when its equivalent circuit and also its input and out resistances offered by the device. Small signal modelling helps in designing this resistor. In this scenario it is mapped with electronic circuit
+in the main board PCB to use FET as a variable resistor.
+41. 5
+Tutorial 01.12.2020 DM1, DM8 T1, T2,R2,R3 CO-3
+0
+Related Documents: 1. Syllabus of the course as defined in the curriculum – Fluid Mechanics
+2. Academic plan & teaching plan
+3. WIT&WILTM Scenario Endorsement
+Details of Delivery Methodologies used:
+DM1: Chalk and Talk
+DM2: Learning by doing
+DM4: Demonstration (Physical / Laboratory / Audio Visuals / PPT)
+DM6: Case Study (Work on real data)
+DM8: WIT & WIL
+AV1 – https://www.youtube.com/watch?v=i2t9GTAd2I0
+AV2 – https://www.youtube.com/watch?v=NESchIntkR8
+PowerPoint Presentation:
+PPT - https://drive.google.com/file/d/1bM2lYHen1Z_XHpsT3LmLxwdsqPm3oSXv/view?usp=sharing
+Physical Demonstrations:
+P1 – Demonstration of CE and CB Transistor configuration to find design parameters
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for CE, EEE, ME, ECE, CSE, EIE, IT B.Tech. Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF 109 Rank in engineering Category
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Estd.1995
+Course Name Fluid Mechanics Year/ Semester II BTECH /I SEMESTER (AY 2019-2020)
+IVRCL Pvt. Ltd.
+Course Code 18PC1CE02 Scenario Endorsing Industry & Logo
+Name of the Faculty Keerthi Priya Kasturi
+4.5 INTEGRATION OF SYLLABUS, WIT & WILTM SCENARIO AND TEACHING PLAN
+WIT & WIL Scenario Mapping Teaching plan
+Lecture Lecture Learning Resources /
+No. Contents of the syllabus Delivery Methodologies Course Outcomes
+Dates* References
+UNIT 5: Feedback Amplifiers and Oscillators (S.5)
+42. 5Introduction to unit using WIT & WIL;
+03.12.2020 DM1, DM8,AV1 (S.5.1) T1,R1,R3 CO-4
+1 Concept of feedback
+Types of feedback, general characteristics of negative
+43. 5
+feedback amplifiers 07.012.2020 DM1, DM8,AV1 (S.5.1) T1,R1,R3 CO-4
+2
+44. 5current series and current shunt feedback
+08.12.2020 DM1, DM8,AV2 (S.5.1) T1,R1,R3 CO-4
+4 configurations and their analysis(BJT version)
+Brief Description of WIT: Feedback circuits play an important role in circuits where the desired output can be possible by reducing the error between desired vale the actual value. The error can be calculated on
+considering the circuit output on comparing with reference input. This error should be minimized to a very low level or should be compensated with some circuits. The output feeded to the input using feedback
+circuits. In some cases its added and in some cases it is deducted from the input. Such circuits crucial in tuning output to near to the desired output. In the taken scenario it is mapped with main control circuit board
+wherein feedback circuits implemented with transistors to minimize the error signal.
+45. 5Classification of oscillators, Conditions for oscillations,
+RC phase shift oscillator, Generalized analysis of LC 10.12.2020 DM1,DM4,DM8,AV2 (S.5.2) T1,R1,R3 CO-4
+6
+oscillators
+46. Hartley and Colpitts oscillators 14.12.2020 DM1, DM8,AV3(S.5.1) T1,R1,R3 CO-4
+47. Piezoelectric crystal oscillator, Stability of oscillators. 15.12.2020 DM1, DM8,AV3(S.5.1) T1,R1,R3 CO-4
+Brief Description of WIT: To perform operations at some speed will be be decided by the sped of the processor. Processor speed depends on the cloak signal. The cloak signal continuously provides some kind of
+triggering signal to the processor. These cloak signals are generated in the circuit boards with the help of positive feedback circuits. These circuits generate square wave kind of waveform without any input. In such
+cases where oscillator circuits will be used for cloak generation. In this scenario it is mapped with main circuit board a centralized processor is used and it is operated with some frequency. This frequency is decided
+by the oscillator circuit.
+48. 5
+Tutorial 17.12.2020 DM1, DM8 (S.5.2) T1, T2, T3 CO-4
+8
+Related Documents: 1. Syllabus of the course as defined in the curriculum – Fluid Mechanics
+2. Academic plan & teaching plan
+3. WIT&WILTM Scenario Endorsement
+Details of Delivery Methodologies used:
+DM1: Chalk and Talk
+DM2: Learning by doing
+DM4: Demonstration (Physical / Laboratory / Audio Visuals / PPT)
+DM6: Case Study (Work on real data)
+DM8: WIT & WIL
+Audio Visuals:
+AV1 – https://www.youtube.com/watch?v=4HdsZ1yz_vY
+AV2 – https://www.youtube.com/watch?v=xMCdoFFbto0
+AV3 – https://www.youtube.com/watch?v=hU8zx0RGJGQ
+PowerPoint Presentation:
+PPT - https://drive.google.com/file/d/1bM2lYHen1Z_XHpsT3LmLxwdsqPm3oSXv/view?usp=sharing
+Physical Demonstrations:
+P1 – Demonstration of –ve and +ve feedback amplifiers through laboratory experiment
+
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for CE, EEE, ME, ECE, CSE, EIE, IT B.Tech. Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF 109 Rank in engineering Category
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Estd.1995
+Course Name Fluid Mechanics Year/ Semester II BTECH /I SEMESTER (AY 2019-2020)
+IVRCL Pvt. Ltd.
+Course Code 18PC1CE02 Scenario Endorsing Industry & Logo
+Name of the Faculty Keerthi Priya Kasturi
+4.6 INTEGRATION OF SYLLABUS, WIT & WILTM SCENARIO AND TEACHING PLAN
+WIT & WIL Scenario Mapping Teaching plan
+Lecture Lecture Learning Resources /
+No. Contents of the syllabus Delivery Methodologies Course Outcomes
+Dates* References
+UNIT 6: Special Purpose Semiconductor Devices (S.6)
+Introduction to unit using WIT & WIL;
+49. 5
+Tunnel Diode , Varactor Diode 22.12.2020 DM1, DM8,AV1,AV2,PPT (S.6.1) T1 CO-1,3
+9
+50. 6
+Photo Diode, Photo Transistor 24.12.2020 DM1, DM8,AV1,AV2,PPT (S.6.1) T1, T2, T6 CO-1,3
+1
+Brief Description of WIT: Special kind of semiconductor devices are used for special applications such as circuit isolation application, energy conversion applications and variable capacitor applications in consumer
+electronics and industrial electronics. Regular p-PN junction diodes and transistors will not fulfil the need. Special fabrication techniques have been used to fabricate special devices. These devices offer different
+characteristics and will be used for different applications. In this scenario it this unit is mapped with LCD and other electronic circuits consists of photo diodes etc.
+51. 6
+UJT and LED, SCR 28.12.2020 DM1, DM8,AV1,AV2,PPT (S.6.2) T1,T2,T6 CO-1,3
+3
+Brief Description of WIT: Light emitting diodes, Uni junction transistor and silicon controlled rectifiers will be used for display application, negative resistance applications and generation of waveforms and for
+controlled outputs. In the chosen scenario this unit is mapped with LCD and other circuits wherein it displays an output on screen and for voltage control applications
+52. 6
+Assignment test and 29.12.2020 DM1, DM3, DM8 (S.6) T1,T3 CO-1,3
+6
+53. Revision 4,5 and 6, Model question paper discussion 31.12.2020 DM1, DM8 (S.4,S.5,S.6) T1,T3 CO-1,3,4
+Related Documents: 1. Syllabus of the course as defined in the curriculum – Fluid Mechanics
+2. Academic plan & teaching plan
+3. WIT&WILTM Scenario Endorsement
+Details of Delivery Methodologies used:
+DM1: Chalk and Talk
+DM2: Learning by doing
+DM4: Demonstration (Physical / Laboratory / Audio Visuals / PPT)
+DM6: Case Study (Work on real data)
+DM8: WIT & WIL
+Audio Visuals:
+AV1 – https://www.youtube.com/watch?v=ZOOUofPeSYY
+AV2 – https://www.youtube.com/watch?v=0AgPUikpvpM
+PowerPoint Presentation:
+PPT - https://drive.google.com/file/d/1bM2lYHen1Z_XHpsT3LmLxwdsqPm3oSXv/view?usp=sharing
+Physical Demonstrations:
+P1 – Demonstration of UJT and special devices through laboratory experiment
+VVAALLLLUURRUUPPAALLLLII NNAAGGEESSWWAARRAA RRAAOO VVIIGGNNAANNAA JJYYOOTTHHII
+IINNSSTTIITTUUTTEE OOFF EENNGGIINNEEEERRIINNGG AANNDD TTEECCHHNNOOLLOOGGYY
+AAnn AAuuttoonnoommoouuss,, IISSOO 99000011::22001155 && QQSS II--GGaauuggee DDiiaammoonndd RRaatteedd IInnssttiittuuttee,, AAccccrreeddiitteedd bbyy NNAAAACC wwiitthh ‘‘AA++++’’ GGrraaddee
+NNBBAA AAccccrreeddiittaattiioonn ffoorr CCEE,, EEEEEE,, MMEE,, EECCEE,, CCSSEE,, EEIIEE,, IITT BB..TTeecchh.. PPrrooggrraammmmeess
+AApppprroovveedd bbyy AAIICCTTEE,, NNeeww DDeellhhii,, AAffffiilliiaatteedd ttoo JJNNTTUUHH,, NNIIRRFF 110099 RRaannkk iinn eennggiinneeeerriinngg CCaatteeggoorryy
+RReeccooggnniizzeedd aass ““CCoolllleeggee wwiitthh PPootteennttiiaall ffoorr EExxcceelllleennccee”” bbyy UUGGCC
+VViiggnnaannaa JJyyootthhii NNaaggaarr,, PPrraaggaatthhii NNaaggaarr,, NNiizzaammppeett ((SS..OO)),, HHyyddeerraabbaadd –– 550000 009900,, TTSS,, IInnddiiaa..
+TTeelleepphhoonnee NNoo:: 004400--22330044 22775588//5599//6600,, FFaaxx:: 004400--2233004422776611
+EEssttdd..11999955 EE--mmaaiill:: ppoossttbbooxx@@vvnnrrvvjjiieett..aacc..iinn,, WWeebbssiittee:: wwwwww..vvnnrrvvjjiieett..aacc..iinn
+Why am I Teaching What I am Teaching? and Why am I Learning What I am Learning?
+5. WIL REPORT
+B.TECH. II YEAR II SEMESTER – EEE –B
+Course Name: Electronic devices and circuits (EDC) Course Code: 19PC1EC02
+Roll No. Name Unit – 1:
+PN-Junction Diode and Applications: Review
+of p-n Junction as a Diode, Diode Equation,
+Volt-Ampere Characteristics, Temperature
+dependence of V-I characteristics, Ideal
+and Practical Diode Equivalent Circuits,
+Transition and Diffusion Capacitances,
+Breakdown Mechanisms in Semi-
+Conductor Diodes, Zener Diode and its
+Characteristics. Half wave Rectifier, Full
+wave rectifier, Bridge Rectifier, Harmonic
+components in a Rectifier Circuit, Capacitor
+filters, π- section filters, Zener diode as
+Voltage Regulator.
+Question 1. What did you learn from this unit?
+(Note: This should not reflect the syllabus of the lesson. Student is required to write in his/her own
+words the learning outcome of this unit)
+ANSWER 1:
+Question 2: Was the application illustrated clear for your understanding of the topics covered in
+this unit? (Explain in few words)
+ANSWER 2:
+Question 3: Identify and explain an additional/new application to illustrate your understanding of
+the topics covered in this unit.
+ANSWER 3:
+VVAALLLLUURRUUPPAALLLLII NNAAGGEESSWWAARRAA RRAAOO VVIIGGNNAANNAA JJYYOOTTHHII
+IINNSSTTIITTUUTTEE OOFF EENNGGIINNEEEERRIINNGG AANNDD TTEECCHHNNOOLLOOGGYY
+AAnn AAuuttoonnoommoouuss,, IISSOO 99000011::22001155 && QQSS II--GGaauuggee DDiiaammoonndd RRaatteedd IInnssttiittuuttee,, AAccccrreeddiitteedd bbyy NNAAAACC wwiitthh ‘‘AA++++’’ GGrraaddee
+NNBBAA AAccccrreeddiittaattiioonn ffoorr CCEE,, EEEEEE,, MMEE,, EECCEE,, CCSSEE,, EEIIEE,, IITT BB..TTeecchh.. PPrrooggrraammmmeess
+AApppprroovveedd bbyy AAIICCTTEE,, NNeeww DDeellhhii,, AAffffiilliiaatteedd ttoo JJNNTTUUHH,, NNIIRRFF 110099 RRaannkk iinn eennggiinneeeerriinngg CCaatteeggoorryy
+RReeccooggnniizzeedd aass ““CCoolllleeggee wwiitthh PPootteennttiiaall ffoorr EExxcceelllleennccee”” bbyy UUGGCC
+VViiggnnaannaa JJyyootthhii NNaaggaarr,, PPrraaggaatthhii NNaaggaarr,, NNiizzaammppeett ((SS..OO)),, HHyyddeerraabbaadd –– 550000 009900,, TTSS,, IInnddiiaa..
+EEssttdd..11999955 TTeelleepphhoonnee NNoo:: 004400--22330044 22775588//5599//6600,, FFaaxx:: 004400--2233004422776611
+EE--mmaaiill:: ppoossttbbooxx@@vvnnrrvvjjiieett..aacc..iinn,, WWeebbssiittee:: wwwwww..vvnnrrvvjjiieett..aacc..iinn
+Why am I Teaching What I am Teaching? and Why am I Learning What I am Learning?
+5. WIL REPORT
+B.TECH. II YEAR II SEMESTER – EEE –B
+Course Name: Electronic devices and circuits (EDC) Course Code: 19PC1EC02
+Roll No. Name Unit – 2:
+Bipolar Junction Transistor, Biasing and
+Stabilization: Bipolar Junction
+Transistor(BJT), Transistor Current
+Components, Transistor Construction, BJT
+Operation, Common Base, Common
+Emitter and Common Collector
+Configurations, Limits of operation, BJT as
+an Amplifier, BJT Specifications. DC and AC
+Load lines, Quiescent operating point,
+Need for Biasing, Analysis of Fixed Bias,
+Collector Feedback Bias, Emitter Feedback
+Bias, Collector-Emitter Feedback Bias,
+Voltage Divider Bias, Bias Stability,
+Stabilization Factors, Stabilization against
+variations in VBE, βand ICO, Thermal
+Runaway, Thermal Stability and
+Compensation Techniques
+Question 1. What did you learn from this unit?
+(Note: This should not reflect the syllabus of the lesson. Student is required to write in his/her own
+words the learning outcome of this unit)
+ANSWER 1:
+Question 2: Was the application illustrated clear for your understanding of the topics covered in
+this unit? (Explain in few words)
+ANSWER 2:
+Question 3: Identify and explain an additional/new application to illustrate your understanding of
+the topics covered in this unit.
+ANSWER 3:
+VVAALLLLUURRUUPPAALLLLII NNAAGGEESSWWAARRAA RRAAOO VVIIGGNNAANNAA JJYYOOTTHHII
+IINNSSTTIITTUUTTEE OOFF EENNGGIINNEEEERRIINNGG AANNDD TTEECCHHNNOOLLOOGGYY
+AAnn AAuuttoonnoommoouuss,, IISSOO 99000011::22001155 && QQSS II--GGaauuggee DDiiaammoonndd RRaatteedd IInnssttiittuuttee,, AAccccrreeddiitteedd bbyy NNAAAACC wwiitthh ‘‘AA++++’’ GGrraaddee
+NNBBAA AAccccrreeddiittaattiioonn ffoorr CCEE,, EEEEEE,, MMEE,, EECCEE,, CCSSEE,, EEIIEE,, IITT BB..TTeecchh.. PPrrooggrraammmmeess
+AApppprroovveedd bbyy AAIICCTTEE,, NNeeww DDeellhhii,, AAffffiilliiaatteedd ttoo JJNNTTUUHH,, NNIIRRFF 110099 RRaannkk iinn eennggiinneeeerriinngg CCaatteeggoorryy
+RReeccooggnniizzeedd aass ““CCoolllleeggee wwiitthh PPootteennttiiaall ffoorr EExxcceelllleennccee”” bbyy UUGGCC
+VViiggnnaannaa JJyyootthhii NNaaggaarr,, PPrraaggaatthhii NNaaggaarr,, NNiizzaammppeett ((SS..OO)),, HHyyddeerraabbaadd –– 550000 009900,, TTSS,, IInnddiiaa..
+EEssttdd..11999955 TTeelleepphhoonnee NNoo:: 004400--22330044 22775588//5599//6600,, FFaaxx:: 004400--2233004422776611
+EE--mmaaiill:: ppoossttbbooxx@@vvnnrrvvjjiieett..aacc..iinn,, WWeebbssiittee:: wwwwww..vvnnrrvvjjiieett..aacc..iinn
+Why am I Teaching What I am Teaching? and Why am I Learning What I am Learning?
+5. WIL REPORT
+B.TECH. II YEAR II SEMESTER – EEE –B
+Course Name: Electronic devices and circuits (EDC) Course Code: 19PC1EC02
+Roll No. Name Unit – 3:
+Field Effect Transistor, Biasing:
+Construction and operation of Junction
+Field Effect, Transistor (JFET), Volt-Ampere
+characteristics- Drain and Transfer
+Characteristics, FET as Voltage Variable
+Resistor, FET Biasing, Construction and
+operation of MOSFET, MOSFET
+characteristics in Enhancement and
+Depletion modes.
+Question 1. What did you learn from this unit?
+(Note: This should not reflect the syllabus of the lesson. Student is required to write in his/her own
+words the learning outcome of this unit)
+ANSWER 1:
+Question 2: Was the application illustrated clear for your understanding of the topics covered in
+this unit? (Explain in few words)
+ANSWER 2:
+Question 3: Identify and explain an additional/new application to illustrate your understanding of
+the topics covered in this unit.
+ANSWER 3:
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for CE, EEE, ME, ECE, CSE, EIE, IT B.Tech. Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF 109 Rank in engineering Category
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Estd.1995 Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Why am I Teaching What I am Teaching? and Why am I Learning What I am Learning?
+5. WIL REPORT
+B.TECH. II YEAR II SEMESTER – EEE –B
+Course Name: Electronic devices and circuits (EDC) Course Code: 19PC1EC02
+Roll No. Name Unit – 4:
+Small signal low frequency Amplifiers: BJT
+Amplifiers: Small signal low frequency
+transistor amplifier circuits: h-parameter
+representation and analysis of single stage
+CE, CC, CB amplifiers - Computation of
+Voltage gain, Current gain, Input
+impedance and Output impedance,
+Comparison of CB, CE, CC amplifiers.
+JFET Amplifiers: JFET Small Signal Model,
+FET Common Source Amplifier, Common
+Drain Amplifier.
+Question 1. What did you learn from this unit?
+(Note: This should not reflect the syllabus of the lesson. Student is required to write in his/her own
+words the learning outcome of this unit)
+ANSWER 1:
+Question 2: Was the application illustrated clear for your understanding of the topics covered in
+this unit? (Explain in few words)
+ANSWER 2:
+Question 3: Identify and explain an additional/new application to illustrate your understanding of
+the topics covered in this unit.
+ANSWER 3:
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for CE, EEE, ME, ECE, CSE, EIE, IT B.Tech. Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF 109 Rank in engineering Category
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Estd.1995 Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Why am I Teaching What I am Teaching? and Why am I Learning What I am Learning?
+5. WIL REPORT
+B.TECH. II YEAR II SEMESTER – EEE –B
+Course Name: Electronic devices and circuits (EDC) Course Code: 19PC1EC02
+Roll No. Name Unit – 5:
+Feedback Amplifiers and Oscillators
+Concept of feedback, Types of feedback,
+general characteristics of negative
+feedback amplifiers, voltage series, voltage
+shunt, current series and current shunt
+feedback configurations and their
+analysis(BJT version), Illustrative problems.
+Classification of oscillators, Conditions for
+oscillations, RC phase shift oscillator,
+Generalized analysis of LC oscillators
+Question 1. What did you learn from this unit?
+(Note: This should not reflect the syllabus of the lesson. Student is required to write in his/her own
+words the learning outcome of this unit)
+ANSWER 1:
+Question 2: Was the application illustrated clear for your understanding of the topics covered in
+this unit? (Explain in few words)
+ANSWER 2:
+Question 3: Identify and explain an additional/new application to illustrate your understanding of
+the topics covered in this unit.
+ANSWER 3:
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for CE, EEE, ME, ECE, CSE, EIE, IT B.Tech. Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF 109 Rank in engineering Category
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Estd.1995 Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Why am I Teaching What I am Teaching? and Why am I Learning What I am Learning?
+5. WIL REPORT
+B.TECH. II YEAR II SEMESTER – EEE –B
+Course Name: Electronic devices and circuits (EDC) Course Code: 19PC1EC02
+Roll No. Name Unit – 6:
+Special Purpose Semiconductor Devices:
+Tunnel Diode, Varactor Diode, Photo
+Diode, Photo Transistor, UJT, LED, SCR
+Question 1. What did you learn from this unit?
+(Note: This should not reflect the syllabus of the lesson. Student is required to write in his/her own
+words the learning outcome of this unit)
+ANSWER 1:
+Question 2: Was the application illustrated clear for your understanding of the topics covered in
+this unit? (Explain in few words)
+ANSWER 2:
+Question 3: Identify and explain an additional/new application to illustrate your understanding of
+the topics covered in this unit.
+ANSWER 3:
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for CE, EEE, ME, ECE, CSE, EIE, IT B.Tech. Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF 109 Rank in engineering Category
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+Estd.1995 E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Why am I Teaching What I am Teaching? and Why am I Learning What I am Learning?
+5. *Sample* WIL REPORT
+B.TECH. II YEAR I SEMESTER – CE – A
+Course Name: FLUID MECHANICS Course Code: 18PC1CE02
+Roll No. Name Unit – 1:
+PN-Junction Diode and Applications: Review
+19071A0201 ABC of p-n Junction as a Diode, Diode Equation,
+Volt-Ampere Characteristics, Temperature
+dependence of V-I characteristics, Ideal
+19071A0202 ABC
+and Practical Diode Equivalent Circuits,
+Transition and Diffusion Capacitances,
+19071A0203 ABC
+Breakdown Mechanisms in Semi-
+Conductor Diodes, Zener Diode and its
+19071A0204 ABC Characteristics. Half wave Rectifier, Full
+wave rectifier, Bridge Rectifier, Harmonic
+components in a Rectifier Circuit, Capacitor
+19071A0205 ABC
+filters, π- section filters, Zener diode as
+Voltage Regulator.
+Question 1. What did you learn from this unit?
+1. Physics behind formation of P-N junction diode
+2. V-I characteristics and temperature dependence of P-N junction diode
+3. Application of P-N junction diode
+4. Differences between half wave and full wave rectifier
+5. Zener diode formation characteristics in reverse biased condition
+6. Zener as voltage regulator
+Question 2: Was the application illustrated clear for your understanding of the topics covered in
+this unit? (Explain in few words)
+The formation of P-N junction diode and its characteristics explained on taking temperature
+reference. Application of P-N junction diode in the conversion of AC-DC illustrated through
+demonstration. How zener regulates the voltage across load explained in detail.
+Question 3: Identify and explain an additional/new application to illustrate your understanding of
+the topics covered in this unit.
+Diodes are used in converting one form of energy into another form. The
+average output can be different in different types connections such as half wave and full wave
+rectification. Zener operated in reverse biased condition to regulate the voltage across load even
+when resistance of the load is varied.

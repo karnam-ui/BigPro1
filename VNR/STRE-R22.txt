@@ -1,0 +1,3018 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/mtechsyl/STRE-R22.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+R22
+M.Tech. (STRUCTURAL ENGINEERING)
+M.Tech. R22 CBCS Curriculum
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for B.Tech. CE, EEE, ME, ECE, CSE, EIE, IT Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF 113 Rank in Engineering Category
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+DEPARTMENT OF
+CIVIL
+ENGINEERING
+VISION OF THE DEPARTMENT
+To develop Civil Engineering Department as a
+Centre of excellence for imparting value based
+education to the students at undergraduate and
+post-graduate level to meet industry needs and to
+develop as a major research center meeting national
+and international standards.
+MISSION OF THE DEPARTMENT
+➢ To impart in-depth and up-to-date knowledge of
+Civil Engineering concepts with focus on character
+enhancement, leadership qualities, effective
+communication, social responsibility and pursuit
+of lifelong learning and professional development.
+➢ To provide a platform to the students to engage
+in original innovative research.
+M.TECH.
+(STRUCTURAL ENGINEERING)
+M.TECH. (STRE)
+PROGRAM EDUCATIONAL OBJECTIVES
+PEO-I: To provide proficiency in the basic principles and advanced courses
+of technology in structural engineering so that students are able to
+formulate, analyse and solve the societal problems for sustainable
+development related to structural engineering.
+PEO-II: To expose the students to the latest innovations and trends with
+a view to inculcate strong research orientation in structural engineering as
+well as in multidisciplinary streams.
+PEO-III: To produce structural engineers who integrate and build on the
+program's core curricular concepts in the pursuit of professional
+leadership, teamwork, life-long learning, and successful career
+advancement.
+M.TECH. (STRE)
+PROGRAM OUTCOMES
+PO-1: An ability to independently carryout research / investigation and
+development work to solve practical problems.
+PO-2: An ability to write and present a substantial technical report /
+document.
+PO-3: Students should be able to demonstrate a degree of mastery over
+the area as per the specialization of the program. The mastery should be
+at a level higher than the requirements in the appropriate bachelor
+program.
+PO-4: To motivate the graduate students to address the societal needs by
+interdisciplinary approach through advanced courses.
+PO-5: To enrich the graduate students to get hands on training on latest
+equipment / software to be industry ready / pursue advanced research.
+PO-6: To inculcate ethical practices and to establish understanding of
+professionalism, safety, sustainability, their duties, and contribution to the
+society.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. I YEAR COURSE STRUCTURE AND SYLLABUS
+(STRUCTURAL ENGINEERING)
+I SEMESTER R22
+Course
+Course Type Name of the Course L T P Credits
+Code
+Professional
+22PC1ST01 Advanced Structural Analysis 3 0 0 3
+Core-I
+Professional
+22PC1ST02 Theory of Elasticity 3 0 0 3
+Core-II
+Professional
+22PC1ST03 Structural Dynamics 3 0 0 3
+Core-III
+22PE1ST01 Theory of Plates and Shells
+Fracture Mechanics of Concrete
+22PE1ST02
+Structures
+Professional
+22PE1ST03 Stability of Structures 3 0 0 3
+Elective-I
+Computer Oriented Numerical
+22PE1ST04
+Methods
+22PE1ST05 Energy Efficient Buildings
+22PE1ST06 Advanced Concrete Technology
+22PE1ST07 Structural Optimization
+Analytical and Numerical Methods
+Professional 22PE1ST08 3 0 0 3
+for Structural Engineering
+Elective-II
+22PE1ST09 Structural Health Monitoring
+Construction Methods and
+22PE1ST10
+Equipment
+Professional
+22PC2ST01 Advanced Concrete Laboratory 0 0 2 1
+Core Lab-I
+Professional
+22PC2ST02 Numerical Analysis Laboratory 0 0 2 1
+Core Lab-II
+Communication Communication Skills for
+22SD5HS01 0 0 2 1
+Skills Academic and Research Writing
+Project 22PW4ST01 Technical Seminar 0 0 4 2
+Mandatory 22MN6HS01 Research Methodology and IPR 2 0 0 0
+Total 17 0 10 20
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. I YEAR COURSE STRUCTURE AND SYLLABUS
+(STRUCTURAL ENGINEERING)
+II SEMESTER R22
+Course Type Course Code Name of the Course L T P Credits
+Professional
+22PC1ST04 FEM in Structural Engineering 3 0 0 3
+Core-IV
+Professional Design of Advanced Reinforced
+22PC1ST05 3 0 0 3
+Core-V Concrete Structures
+Professional Earthquake Resistant Design of
+22PC1ST06 3 0 0 3
+Core-VI Buildings
+22PE1ST11 Design of Advanced Steel Structures
+22PE1ST12 Structural Reliability
+Professional
+22PE1ST13 Building Services 3 0 0 3
+Elective-III
+22PE1ST14 Design of Formwork
+22PE1ST15 Design of High-Rise Structures
+Design of Prestressed Concrete
+22PE1ST16
+Structures
+Theory and Applications of Cement
+22PE1ST17
+Composites
+Professional 22PE1ST18 Design of Sub-Structures 3 0 0 3
+Elective-IV
+22PE1ST19 Pre-Fabricated Structures
+22PE1ST20 Design of Bridges
+Professional
+22PC2ST03 Structural Engineering Laboratory 0 0 2 1
+Core Lab-III
+Professional Advanced Computer Aided Design
+22PC2ST04 0 0 2 1
+Core Lab-IV Laboratory
+Industry
+22SD5ST01 Industry Engagement 0 0 2 1
+Engagement
+Project 22PW4ST02 Mini-Project 0 0 4 2
+Mandatory 22MN6H02 Ancient Wisdom 2 0 0 0
+Total 17 0 10 20
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. II YEAR COURSE STRUCTURE AND SYLLABUS
+(STRUCTURAL ENGINEERING)
+III SEMESTER R22
+Course
+Course Type Name of the Course L T P Credits
+Code
+Repair, Rehabilitation and
+22PE1ST21
+Retrofitting of Structures
+22PE1ST22 Pre-Engineered Buildings
+Professional Design of Steel-Concrete
+22PE1ST23 3 0 0 3
+Elective-V Composite Structures
+22PE1ST24 Underwater Construction
+Construction Technology and
+22PE1ST25
+Project Management
+22OE1CN01 Business Analytics
+22OE1AM01 Industrial Safety
+Open
+22OE1AM02 Operations Research 3 0 0 3
+Elective
+22OE1AM03 Entrepreneurship and Start-ups
+22OE1PS01 Waste to Energy
+Project 22PW4ST03 Project Part – I 0 0 16 8
+Total 6 0 16 14
+IV SEMESTER R22
+Course Type Course Code Name of the Course L T P Credits
+Project 22PW4ST04 Project Part - II 0 0 28 14
+Total 0 0 28 14
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PC1ST01) ADVANCED STRUCTURAL ANALYSIS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To learn how to calculate static and kinematic indeterminacies of various types of
+structures
+• To formulate the stiffness matrix for continuous beams, portal frames and trusses
+• To formulate the flexibility matrix for continuous beams, portal frames and trusses
+• To obtain the global stiffness matrix by assembling the element stiffness matrices
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Formulate the stiffness and flexibility matrices for various types of structures
+CO-2: Analyze the continuous beams, portal frames and trusses by stiffness method
+(Structure approach)
+CO-3: Analyze the continuous beams, portal frames and trusses by flexibility method
+(Structure approach)
+CO-4: Solve the Trusses, Continuous beams, Portal frames using element approach of
+stiffness method
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 - 3 - 1 -
+CO-2 1 - 3 - 1 -
+CO-3 1 - 3 - 1 -
+CO-4 1 - 3 - 1 -
+UNIT–I:
+Introduction to Matrix Methods of Analysis: Types of framed structures, Forces and
+Displacements, Conditions of equilibrium, Compatibility of deformations, Degree of
+freedom, Static indeterminacy and Kinematic indeterminacy for Continuous beams,
+Portal frames and Trusses, Concept of Stiffness and Flexibility methods, Formulation of
+Stiffness matrix.
+UNIT–II:
+Stiffness Method (Structure Approach): Analysis of continuous beams, plane frames,
+plane trusses. (Degree of kinematic indeterminacy limited to 3).
+Flexibility method (Structure approach): Formulation of Flexibility matrix - Analysis of
+continuous beams.
+UNIT–III:
+Stiffness Method (Element Approach-Trusses): Local and global coordinates,
+Formulation of element stiffness matrix, Transformation matrix for plane truss element,
+Assembly of element stiffness matrices to generate global stiffness matrix, Application
+to the pin jointed trusses.
+UNIT–IV:
+Stiffness Method (Element Approach-Beams): Formulation of element stiffness matrix,
+Assembly of element stiffness matrices to generate global stiffness matrix, Application
+to the continuous beams.
+UNIT–V:
+Stiffness Method (Element Approach-Frames): Formulation of element stiffness matrix,
+Transformation matrix for plane frame element, Assembly of element stiffness matrices
+to generate global stiffness matrix, Application to the portal frames.
+TEXT BOOKS:
+1. Structural Analysis: A Matrix Approach, G. S. Pandit, S. P. Gupta, Tata McGraw-Hill
+Publishers
+2. Matrix Analysis of Framed structures, William Weaver, James M. Gere, CBS
+Publications
+REFERENCES:
+1. Structural Analysis, Devdas Menon, Narosa Publishers
+2. Matrix methods of Structural Analysis, P. N. Godbole, PHI Learning Pvt. Ltd.
+3. Structural Analysis, A. Ghali, A. M. Neville and T. G. Brown, Spon Press
+4. Matrix methods of Structural Analysis, M. B. Kanchi, New Age International
+Publishers
+ONLINE RESOURCES:
+1. NPTEL course on Structural Analysis, http://nptel.ac.in/courses/105.105.166
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PC1ST02) THEORY OF ELASTICITY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To define stresses, strains, equilibrium and compatibility
+• To derive the governing equilibrium equations in Two-dimensional & in three
+dimensional problems
+• To solve the problems in plane stress, plane strain, torsion, bending
+• To apply the concepts of elasticity & Plasticity to solve Structural Engineering
+problems
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Solve simple problems of elasticity and understanding the basic concepts
+CO-2: Apply numerical methods to solve continuum problems
+CO-3: Solve engineering problems such as thick cylinders, rotating discs, shafts and
+complex loading on structural members
+CO-4: Solve problems of theory of plasticity
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 1 2 1 3 1
+CO-2 1 1 3 1 3 1
+CO-3 1 1 3 1 3 1
+CO-4 1 1 2 1 3 1
+UNIT–I:
+Introduction to Elasticity: Displacement, Strain and Stress Fields, Constitutive Relations,
+Cartesian Tensors and Equations of Elasticity, Generalized Hook’s law.
+Strain and Stress Field: Elementary Concept of Strain, Stain at a Point, Principal Strains
+and Principal Axes, Stress at a Point, Stress Components on an Arbitrary Plane,
+Differential Equations of Equilibrium, Compatibility Conditions, Plane Stress and Plane
+Strain Problems, Airy’s stress Function, Hydrostatic and Deviatoric Components.
+UNIT–II:
+Two-Dimensional Problems in rectangular Coordinates: Stress- Strain relations, Strain
+Displacement and Compatibility Relations, Boundary Value Problems: Solution by
+polynomials, Saint Venant’s principle, determination of displacements, bending of
+simple beams
+UNIT–III:
+Two-Dimensional Problems in Polar Coordinates: Differential Equations of Equilibrium,
+Compatibility Conditions - stress distribution symmetrical about an axis - pure bending
+of curved bars - strain components in polar coordinates - displacements for
+symmetrical stress distributions - simple symmetric and asymmetric problems - general
+solution of two- dimensional problem in polar coordinates
+UNIT–IV:
+Torsion of Prismatic Bars: Saint Venant’s Method, Prandtl’s Membrane Analogy, Torsion
+of Rectangular Bar, Torsion of Thin Tubes.
+UNIT–V:
+Plastic Deformation: Strain Hardening, Idealized Stress- Strain curve, Yield Criteria, von
+Mises Yield Criterion, Tresca Yield Criterion, Plastic Stress-Strain Relations, Principle of
+Normality and Plastic Potential, Isotropic Hardening
+TEXT BOOKS:
+1. Theory of Elasticity, S. Timoshenko & J. N. Goodier, McGraw-Hill Publications
+2. Theory of Elasticity, Sadhu Singh, Khanna Publishers
+REFERENCES:
+1. Mechanics of Solids, Srinath L. S., Tata McGraw Hill Publications
+2. Theory of Plasticity, J. Chakarbarthy, McGraw-Hill Ryerson
+3. Applied Elasticity, C. T. Wang, McGraw Hill Publications
+4. Elasticity - Theory, Applications and Numerics, Martin and H. Sadd, Elsevier
+5. Theory of Plasticity, Sadhu Singh, Dhanpat Rai sons Private Limited
+ONLINE RESOURCES:
+1. https://online courses nptel.ac.in/noc22-ce103
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PC1ST03) STRUCTURAL DYNAMICS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To know the fundamental concepts and theory of dynamic analysis
+• To understand the free vibrations concepts and the problem of determining the
+natural frequency of a system
+• To understand the free vibrations concepts of harmonically excited vibrations
+• To understand the free Vibrations of Multi -degree of freedom
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Apply the fundamental concepts and definitions used in structural dynamics
+CO-2: Calculate the natural frequency of a system using equilibrium or energy
+methods
+CO-3: Determine the solution technique for dynamics of MDOF system
+CO-4: Develop analytical skills to calculate natural frequencies and mode shape
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 1 2 - - -
+CO-2 2 2 2 - - -
+CO-3 1 2 2 - - -
+CO-4 1 1 2 - - -
+UNIT–I:
+Theory of Vibrations: Introduction - Elements of vibratory system - Degrees of Freedom
+– Continuous and Lumped mass idealization - Oscillatory motion - Simple Harmonic
+motion – Vectorial representation of S.H.M.
+UNIT–II:
+Single Degree of Freedom systems – Free Vibrations: Fundamental objectives of
+dynamic analysis -Types of prescribed loading – Method of discretization - Formulation
+of equations of motion by different methods - Direct equilibration using Newton’s law
+of motion, D’ Alembert’s principle of virtual work and Hamilton Principle, Single Degree
+of Freedom systems – Free Vibrations : Formulation and solution of the equation of
+motion – Free vibration response - Formulation of single degree of freedom system -
+Undamped and Damped motions – Critical damping - Logarithmic decrement.
+UNIT–III:
+Single Degree of Freedom Systems – Forced Vibrations: Response to Harmonic,
+Periodic, Impulsive and General dynamic loadings - Duhamel integral - Dynamic
+magnification factor- Phase angle – Bandwidth
+UNIT–IV:
+Multi Degree of Freedom Systems: Selection of the degrees of Freedom - Evaluation
+of structural property matrices- formulation of the MDOF equations of motion -
+Undamped free vibrations – Solutions of Eigen value problem for natural frequencies
+and mode shapes - Analysis of Dynamic response - Normal co-ordinates - uncoupled
+equations of motion Orthogonal properties of normal modes - Mode super position
+procedure
+UNIT–V:
+Practical Vibration Analysis: Introduction - Stodola method - Fundamental mode
+analysis – Analysis of second and higher modes - Holzer method.
+Continuous Systems: Introduction - Flexural vibrations of beams - Elementary case -
+Derivation of governing differential equation of motion - Analysis of undamped free
+vibrations of beams in flexure - natural frequencies and mode shapes of simple beams
+with different end conditions - Principles of application to continuous beams.
+TEXT BOOKS:
+1. Dynamics of Structures, Clough and Penzien, McGraw Hill
+2. Structural Dynamics, Mario Paz, CBS Publishers
+REFERENCES:
+1. Dynamics of Structures, Anil K. Chopra, Pearson Education
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1ST01) THEORY OF PLATES AND SHELLS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Theory of Elasticity, Structural Analysis
+COURSE OBJECTIVES:
+• To understand the behaviour of thin plates under bending
+• To study the different solution techniques of rectangular thin plates
+• To obtain knowledge on the behavior of various types of shells subjected to various
+loading
+• To understand the analysis techniques of different types of shells
+• To know the structural behaviour of folded plates
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Develop and solve differential equation of thin plates subjected to flexure
+CO-2: Analyze rectangular plates using Navier’s and Levy’s methods
+CO-3: Differentiate and Analyze the various types of shells based on structural
+behavior
+CO-4: Identify the structural behaviour of folded plates
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 2 2 - - -
+CO-2 2 2 2 - - -
+CO-3 1 2 2 - - -
+CO-4 1 2 2 - - -
+UNIT–I:
+Plates: Introduction- Different kind of plates -Assumptions - Derivation of differential
+equation for cylindrical bending of long rectangular plates - Analysis of uniformly
+loaded rectangular plates with edges simply supported and fixed subjected to
+uniform load. Ritz Method to rectangular plates subjected to simple loadings.
+UNIT–II:
+Small Deflection Theory of Thin Rectangular Plates: Assumptions – Derivation of
+governing differential equation for thin plates – Boundary conditions – simply
+supported plate under sinusoidal load – Navier solution – Application to different cases
+– Levy’s solution for various boundary conditions subjected to different loadings like
+uniform and hydrostatic pressure.
+Circular Plates: Symmetrical loading - Relations between slope, deflection, moments
+and curvature - Governing differential equation - Uniformly loaded plates with
+clamped and simply supported edges - Central hole - bending by moments and
+shearing forces uniformly distributed.
+UNIT–III:
+Shells: Introduction, Space Curves, Surfaces, Shell Co-ordinates, classification of shells
+– Definitions -Strain Displacement Relations, Assumptions in Shell Theory, Displacement
+Field Approximations, Stress Resultants, Equation of Equilibrium, Boundary Conditions.
+functional behaviour – examples – structural behaviour of shells. Equations of
+equilibrium: Derivation of stress resultants – cylindrical shells.
+UNIT–IV:
+Static Analysis of Shells: Membrane Theory of Shells - Cylindrical, Conical and
+Spherical Shells. Shells of Revolution: with Bending Resistance - Cylindrical and Conical
+Shells,
+UNIT–V:
+Folded Plates: Introduction - Types of folded plates - structural behaviour of folded
+plates - advantages – Assumptions – Whitney’s method of analysis - Simpson’s method
+of Analysis of folded plates. (No analytical problem).
+TEXT BOOKS:
+1. Theory of Plates & Shells, Stephen P. Timoshenko, S. Woinowsky Krieger, Tata
+McGraw Hill Edition
+2. Theory of Plates and Shells, Bhavikatti S. S., New Age International Publisher, First
+Edition, 2012
+3. Stresses in Beams, Plates and Shells, Ansel C. Ugural, CRC Press
+REFERENCES:
+1. Analysis and Design of Concrete Shell Roofs, G. S. Ramaswami, CBS Publications
+2. Design of Concrete Shell Roofs, Billington, Tata McGraw Hill
+3. Shell Analysis, N. K. Bairagi, Khanna Publishers
+4. Design of Shells and Folded Plates, P. C. Varghese, PHI Learning Pvt. Ltd.
+5. Design of Concrete Shell Roofs, Chatterjee, Oxford and IBH
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1ST02) FRACTURE MECHANICS OF CONCRETE STRUCTURES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the reasons for failure of an existing structure
+• To apply the concepts of basic fracture mechanics to evaluate the residual
+strength in the cracked structural element
+• To apply numerical methods and evaluate the service life through fracture
+characterization
+• To evaluate the performance of structural elements constructed using composite
+materials
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Identify and classify cracking of concrete structures based on fracture
+mechanics
+CO-2: Implement stress intensity factor for notched members
+CO-3: Apply fracture mechanics models to high strength concrete and FRC structures
+CO-4: Compute J-integral for various sections understanding the concepts of LEFM
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 - 3 3 - -
+CO-2 3 - 3 3 - -
+CO-3 3 - 3 3 1 -
+CO-4 3 - 3 3 1 -
+UNIT–I:
+Introduction to Fracture Mechanics: Kinds of Failure - Historical Aspects - Brittle and
+Ductile Fracture - Modes of Fracture Failure – Crack - Point of View - Damage
+Tolerance
+Energy Release Rate: Griffith Dilemma - Energy Release Rate - Mathematical
+Formulation - Change in Compliance Approach - Change in the Strain Energy
+Approach – Energy Release Rate of DCB Specimen - Anelastic Deformation at Crack-
+tip - Crack Resistance - Stable and Unstable Crack Growth - R-curve for Brittle Cracks
+- Thin Plate vs Thick Plate - Critical Energy Release Rate
+UNIT–II:
+Stress Intensity Factor: Introduction - Crack Tip - Linear Elastic Fracture Mechanics
+(LEFM) - Stress and Displacement Fields in Isotropic Elastic Materials - Stress Intensity
+Factor - Background for Mathematical Analysis - Field Equations - Elementary
+Properties of Complex Variables - Westergaard's Approach for Models with Opening
+Mode, Sliding Mode & Tearing Mode.
+UNIT–III:
+Inelastic Deformation at the Crack Tip: Further Investigation at the Crack Tip -
+Approximate Shape and Size of the Plastic Zone - Plastic Zone Shape for Plane Stress -
+Plastic Zone Shape for Plane Strain - Effective Crack Length - Approximate Approach
+- The Irwin Plastic Zone Correction - Plastic Zone Size through the Dugdale Approach -
+Effect of Plate Thickness.
+UNIT – VI:
+J Integral & Crack Tip Opening Displacement: J-Integral: Relevance and Scope -
+Definition - Path Independence - Stress-Strain Relation - Crack Tip Opening
+Displacement: Introduction - Relationship between CTOD, Kr and Gr for Small Scale
+Yielding - Equivalence between CTOD and J.
+UNIT–V:
+Application to Cementitious Composites: Material models - General concepts – crack
+models – band models - Models based on continuum damage mechanics–
+applications to high strength concrete – fibre reinforced concrete – crack concepts
+and numerical modelling.
+TEXT BOOKS:
+1. Introduction to Fracture Mechanics, Prasant Kumar, McGraw Hill Publications
+2. Fracture Mechanics, Suri C. T. and Jin Z. H., Elsevier Academic Press
+REFERENCE BOOKS:
+1. Elementary Engineering Fracture Mechanics, Broek David, Springer
+2. Fracture Mechanics of Concrete Structures – Theory and Applications, Elfgreen L.
+RILEM Report, Chapman and Hall
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1ST03) STABILITY OF STRUCTURES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To derive the differential equations for beam-columns
+• To understand the elastic buckling of bars and frames
+• To understand the Torsional Buckling
+• To analyze lateral buckling of beams and plate
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Apply the approximate methods based on energy to determine the stability of
+simple systems
+CO-2: Differentiate how the tangent modulus and double modulus theories of
+inelastic buckling led to the column paradox, thereby preventing further difficulties for
+a general theory of structures
+CO-3: Analyze elastic and in-elastic buckling of bars and frames
+CO-4: Analyze the beams for lateral torsional buckling
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 - 3 1 1 -
+CO-2 3 - 3 1 1 -
+CO-3 3 - 3 1 1 -
+CO-4 3 - 3 1 1 -
+UNIT–I:
+Buckling of Columns: Introduction; Method of Neutral Equilibrium; The Critical Load of
+the Euler Column; Linear Column Theory – An Eigen Value problem; Boundary
+Conditions – Both ends fixed, One end fixed and one end free, One end fixed and
+one end hinged, Elastically restrained end; Effecting-Length Concept and Design
+concept, Higher Order Differential Equation for Columns – hinged-hinged, free-free -
+Large Deformation Theory for Columns; Initially Bent Columns; Eccentrically Loaded
+Columns.
+UNIT–II:
+Inelastic Buckling of Columns: Introduction; Double Modulus Theory; Tangent
+Modulus Theory; Shanley’s Theory of Inelastic Column Behaviour; Eccentrically Loaded
+Inelastic Columns; Buckling of Short Columns.
+Beam Columns: Introduction; Beam Column with Concentrated Lateral Load; Beam
+Column with Distributed Lateral Load; Effect of Axial Load on Bending Stiffness – Slope-
+Deflection Equation; Failure of Beam Columns.
+UNIT–III:
+Buckling of Frames: Introduction; Modes of Buckling; Critical Load of a Frame using
+Neutral Equilibrium; Calculation of Critical Loading using Slope-Deflection Equation;
+Stability of a Frame by Matrix Analysis; Effect of Primary Bending and Plasticity on
+Frame Behaviour.
+UNIT–IV:
+Torsional Buckling: Introduction; Torsional Load-Deformation Characteristics of
+Structural Members; Strain Energy of Torsion; Torsional and Torsional-Flexural Buckling
+of Columns; Lateral Buckling of Beams; Lateral Buckling of Rectangular Beams in Pure
+Bending; Buckling of I Beams by Energy Method; Lateral Buckling of Cantilever Beam
+by Finite Differences.
+UNIT–V:
+Buckling of Plates: Introduction; Differential Equation of Plate Buckling – Linear Theory;
+Critical Load of a Plate Uniformly Compressed in One Direction; Strain Energy of
+Bending in a plate; Critical Load of Uniaxially Compressed Plate, Fixed along all edges
+by the Energy method; Critical Load of a Plate in Shear by Galerkin Method; Inelastic
+Buckling of plates.
+TEXT BOOKS:
+1. Principles of Structural Stability, Alexander Chajes A., Prentice-Hall Inc.
+2. Theory of Elastic Stability, Timoshenko S. P., and Gere J. M., Tata McGraw Hill
+REFERENCE:
+1. Stability of Metallic Structures, Blunch, McGraw Hill
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1ST04) COMPUTER ORIENTED NUMERICAL METHODS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Mathematics I and II
+COURSE OBJECTIVES:
+• To apply the basic knowledge of Mathematics in Engineering
+• To provide a formidable base for analysis and programming using computer
+applications
+• To develop the ability in programming and solutions based on the various analysis
+tools
+• To check the consistency of system of linear equations
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Apply numerical methods to find the roots of an equation
+CO-2: Identify mathematical model for solution of common engineering problems
+CO-3: Formulate simple problems into programming models
+CO-4: Solve ordinary and partial differential equations
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 - 3 2 2 -
+CO-2 3 - 3 2 2 -
+CO-3 3 - 3 2 2 -
+CO-4 3 - 3 2 2 -
+UNIT - I:
+Solutions of Linear Equations: Direct method – Cramer’s rule, Guass – Elimination
+method- Gauss – Jordan elimination – Triangulation (LU Decomposition) method –
+Iterative methods Jacobi – Iteration method – Gauss – Siedel iteration, Successive over
+–relaxation method -Applications
+UNIT - II:
+Eigen Values and Eigen Vectors: Jacobi method for symmetric matrices- Given’s
+method for symmetric matrices-Householder’s method for symmetric matrices-
+Rutishauser method of arbitrary matrices – Power method, Fast Fourier Transform (FFT)
+Interpolation: Linear Interpolation - Higher order Interpolation - Lagrange Interpolation
+– Interpolating polynomials using finites differences- Hermite Interpolation -piece-wise
+and spline Interpolation.
+UNIT - III:
+Finite Difference and their Applications: Introduction- Differentiation formulas by
+Interpolating parabolas Backward and forward and central differences- Derivation of
+Differentiation formulas using Taylor series- Boundary conditions- Beam deflection –
+Solution of characteristic value problems- Richardson’s extrapolation- Use of unevenly
+spaced pivotal points- Integration formulae by interpolating parabolas- Numerical
+solution to spatial differential equations.
+UNIT - IV:
+Numerical Differentiation: Difference methods based on undetermined coefficients-
+optimum choice of step length- extrapolation method – Partial differentiation.
+Numerical Integration: Method based on interpolation-method based on
+undetermined coefficient – Gauss – legrange interpolation method- radaua
+integration method- composite integration method – Double integration using
+Trapezoidal and Simpson’s method.
+UNIT - V:
+Ordinary Differential Equation: Euler’s method – Backward Euler method – Midpoint
+method – single step method, Taylor’s series method, Runge-Kutta method Predictor-
+Corrector Method -Trapezoidal and Midpoint method – Implicit Runge Kutta method
+– Boundary value problem – Difference method – Shooting method -Structural
+Engineering Applications
+TEXT BOOKS:
+1. Numerical Methods for Scientific and Engineering Computations, M. K. Jain, S. R.
+K. Iyengar, R. K. Jain, Wiley Eastern Limited
+2. Numerical Methods for Engineers, Stevan C. Chopra, Raymond P. Canal, McGraw
+Hill
+REFERENCES:
+3. Applied Numerical Analysis, Curtis I. Gerala, Addison Wesley
+4. C Language and Numerical Methods, C. Xavier, New Age International
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1ST05) ENERGY EFFICIENT BUILDINGS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To study the design of energy efficient buildings which balances all aspects of
+energy, lighting, space conditioning and ventilation
+• To learn passive solar design strategies
+• To understand the use of materials with low embodied energy
+• To design the standards for ventilation and different climatic zones
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Design energy efficient buildings which balance all aspects of energy, lighting,
+space conditioning and ventilation
+CO-2: Design energy efficient buildings with passive solar design strategies
+CO-3: Use materials with low embodied energy
+CO-4: Apply concepts in Energy auditing
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 - 3 3 - 3
+CO-2 3 - 3 3 - 3
+CO-3 3 - 3 3 - 3
+CO-4 3 - 3 3 - 3
+UNIT–I:
+Introduction: Energy required for building construction - Heat Transfer – Measuring
+Conduction –Thermal Storage – Measurement of Radiation – The Green house Effect
+– Psychrometry Chart – Measuring latent and sensible heat. Thermal Comfort – Site
+Planning and Development – Temperature – Humidity – Wind – Optimum Site
+Locations – Sun Protection – Types of Shading Devices – Conservation – Heating and
+Cooling loads.
+UNIT–II:
+Passive Solar Heating and Cooling: General Principles of passive Solar Heating – Key
+Design Elements - Direct gain Trombe Walls, Water Walls, Convective Air loops –
+Concepts – Case Studies – General Principles of Passive Cooling – Ventilation –
+Predicting ventilation in buildings – window ventilation calculations - Radiation –
+Evaporation and dehumidification – Mass Effect – Load Control – Air Filtration and
+odor removal – Heat Recovery in large buildings
+UNIT–III:
+Daylighting and Electrical Lighting: Materials, components and details - Insulation –
+Optical materials – Radiant Barriers Glazing materials - Day lighting – Sources and
+concepts – Building Design Strategies –Case Studies – Electric Lighting –Light
+Distribution – Electric Lighting control for day lighted buildings – Illumination
+requirement – Components of Daylight factor – Recommended Daylight factors – Day
+lighting analysis – Supplementary Artificial Lighting Design
+UNIT–IV:
+Heat Control and Ventilation: Requirements – Heat transmission through building
+sections – Thermal performance of Building sections – Orientation of buildings –
+Building characteristics for various climates – Thermal Design of buildings Influence of
+Design Parameters – Mechanical controls –Examples. Ventilation – Requirements –
+Minimum standards for ventilation – Ventilation Design – Energy Conservation in
+Ventilating systems – Design for Natural Ventilation.
+UNIT–V:
+Design for Climatic Zones: Energy efficiency – an overview of design concepts and
+architectural interventions –Energy efficient buildings for various zones – cold and
+cloudy – cold and sunny –composite – hot and dry – moderate – warm and humid –
+case studies of residences, office buildings and other buildings in each zones – Energy
+Audit – Certification
+TEXT BOOKS:
+1. Energy – Efficient Buildings in India, Majumdar, M. (Ed), Tata Energy Research
+Institute, Ministry of Non-Conventional Energy Sources, 2002
+2. Handbook on Energy Audits and Management, Tata Energy Research, Tyagi A.
+K.(Ed)
+REFERENCES:
+1. Environmental Control System, Moore F., McGraw Hill Inc., 2002
+2. Sun, Wind and Light – Architectural Design Strategies, Brown G. Z. and DeKay M.,
+John Wiley, 2001
+3. Energy Conservation in Commercial and Residential Buildings, Chilogioji M. H., and
+Oura E. N., Marcel Dekker Inc., New York and Basel, 1995
+4. Energy Conservation Standards – For Building Design, Construction and Operation,
+Dubin F. S. and Long C. G., McGraw Hill Book Company,1990
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1ST06) ADVANCED CONCRETE TECHNOLOGY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To determine the properties of concrete ingredients i.e., cement, sand, coarse
+aggregate by conducting different tests and decide the suitability
+• To recognize the effects of the rheology and early age properties of concrete on
+its long-term behavior
+• To design economic concrete mix proportions for the given exposure conditions
+and with the available materials, for the desired strength and performance criteria
+• To use advanced techniques for Service Life assessment of Concrete Structures
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Design an appropriate economic cementitious composite based on the
+performance requirements
+CO-2: Determine the characteristics of concrete making materials and decide it’s
+suitability
+CO-3: Judge and Resolve any controversy that arises regarding material suitability
+through required field and laboratory investigations
+CO-4: Assess the service life of an existing structure through determining the
+mechanical, durability and the current state of corrosion of reinforcement in concrete
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 1 3 3 - 3
+CO-2 3 1 3 2 - 2
+CO-3 3 1 2 2 - 2
+CO-4 3 1 2 3 3 2
+UNIT–I:
+Concrete Making Materials: Cement - Bogue’s compounds - Hydration process - Types
+of cement - Aggregates Mineral and Chemical Characterization of aggregates -
+Gradation curves - Fullers Curve - Grading Evaluation and Specifications - Alkali silica
+reaction - Admixtures: mineral and chemical admixtures - Secondary Pozzolanic
+Reaction due to mineral admixtures – Efficiency Concept.
+UNIT–II:
+Fresh and Hardened Concrete: Fresh concrete - Workability tests on concrete-
+Workability tests on Self Compacting Concretes - segregation and bleeding.
+Hardened Concrete - Abram's law - Gel- space ratio - Maturity concept - Stress Strain
+behavior, Creep and Shrinkage.
+UNIT–III:
+High Performance and High Strength Concretes: High performance concrete -
+Requirements and properties of high-performance concrete - Design considerations
+– High strength concrete – Design considerations.
+UNIT–IV:
+Special Concretes: Light weight concrete - Self Compacting concrete - Polymer
+concrete - Fiber reinforced concrete – Reactive powder concrete - Bacterial
+concrete-Geo-polymer concrete – Requirements and guidelines- Advantages and
+Applications – Porous pavement – White Topping – Roller compacted concrete.
+Concrete 3D Printing.
+UNIT–V:
+Concrete Mix Design: Quality control - Quality assurance - Quality audit - Mix design
+by various methods - BIS method - ACI method Mix Design of self-compacting
+concrete by IS 10262 -2019
+Performance Evaluation of Reinforced Concrete Members: Durability of concrete &
+Corrosion tests - Resistivity of concrete - Half Cell Potential - Rapid Chloride Penetration
+Test - Macro cell Corrosion - Effects of concrete exposed to acidic environment -
+Durability Factor - Accelerated Corrosion Cracking Test - Non-destructive evaluation
+of concrete structures - Ultrasonic Pulse Velocity - Evaluation of Dynamic Shear &
+Young’s Modulus - Introduction to XRD & SEM Analysis.
+TEXT BOOKS:
+1. Properties of Concrete, A. M. Neville, Pearson Education
+2. Concrete Microstructure, Properties and Materials, P. K. Mehta and Paulo J. M.
+Monteiro, McGraw Hill
+3. Concrete Technology, M. L. Gambhir, Tata McGraw-Hill Pres
+REFERENCES:
+1. Corrosion of Steel in Concrete, P. Schiess, Chapman & Hall
+2. Concrete Making Materials, Sandor Popovics, Hemisphere Publishing Corporation
+3. Aggregates in Concrete, Mark Alexander & Sydney Mindess, Taylor & Francis
+4. Cement Based Composites, Andrzej M. Brandt
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1ST07) STRUCTURAL OPTIMIZATION
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the concepts calculus of variation for optimization
+• To perform linear, non-linear and geometric programing methods
+• To understand the applications of mathematical optimization methods to steel
+and RCC
+• To perform the designs based on frequency constraint
+COURSE OUTCOMES: After completion of the course, students should be able to CO-
+1: Use Variational principle for optimization
+CO-2: Perform linear, non-linear, dynamic and geometric programing methods
+CO-3: Apply optimization techniques to structural steel and concrete members
+CO-4: Design using frequency constraint
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 - 3 1 - -
+CO-2 3 - 3 1 - -
+CO-3 3 - 3 1 - -
+CO-4 3 - 3 1 - -
+UNIT–I:
+Introduction: Simultaneous Failure Mode and Design, Classical External Problems.
+UNIT–II:
+Calculus of Variation: Variational Principles with Constraints
+UNIT–III:
+Linear Programming, Integer Programming, Nonlinear Programming, Dynamic
+Programming,
+UNIT–IV:
+Geometric Programming and Stochastic Programming
+Applications: Structural Steel and Concrete Members, Trusses and Frames.
+UNIT–V:
+Design: Frequency Constraint, Design of Layouts.
+TEXT BOOKS:
+1. Elements of Structural Optimization, Haftka, Raphael T., Gürdal Zafer, Springer
+2. Variational Methods for Structural Optimization, Cherkaev Andrej, Springer
+REFERENCES:
+1. Introduction to Structural Optimization (Solid Mechanics and Its Applications),
+Peter W. Christensen, A. Klarbring, Springer
+2. Engineering Optimization: Theory and Practice, Singiresu S. Rao, New Age
+International
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1ST08) ANALYTICAL AND NUMERICAL METHODS FOR STRUCTURAL ENGINEERING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To apply the basic knowledge of mathematics in engineering
+• To provide a formidable base for analysis and programming using computer
+applications
+• To develop the ability in programming and solutions based on the various analysis
+tools
+• To check the consistency of system of linear equations
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Apply numerical methods to find the roots of an equation
+CO-2: Identify mathematical model for solution of common engineering problems
+CO-3: Formulate simple problems into programming models
+CO-4: Solve ordinary and partial differential equations
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 1 2 1 1 -
+CO-2 2 2 1 1 1 -
+CO-3 2 1 1 - - -
+CO-4 1 2 1 - - -
+UNIT–I:
+Solution of Nonlinear Algebraic and Transcendental Equations: Introduction, errors
+and approximations, binary and decimal systems, computing roots using direct
+methods (bisection, Regula- falsi) and Iterative Methods (fixed point iterative and
+Newton- Raphson Methods) and applications.
+UNIT–II:
+Elements of Matrix Algebra: Introduction, Methods of solution direct (Matrix inversion
+and Gauss elimination methods) and iterative methods (Gauss Jacobi and Gauss
+seidel methods), Eigen values, computing largest Eigen value by power method and
+applications.
+UNIT–III:
+Fundamentals of Numerical Methods: Interpolation: Introduction, Interpolation for
+equally spaced data and unequally space data by Newton’s methods, Lagrange’s
+method and cubic spline, Error Analysis, Polynomial Approximations.
+Curve Fitting: Fitting a straight line, Second degree curve, Exponential curve, power
+curve by method of least squares.
+UNIT–IV:
+Numerical Differentiation and Integration: Numerical differentiation formulae using
+finite differences and interpolation. Newton-Cotes integration formulae (Trapezoidal
+and Simpsons rules) and Gauss quadrature formulae.
+Numerical Solution of ordinary Differential Equations: Introduction, Solution of ODE of
+IVP type by Euler’s methods, Runge-Kutta methods (single step) and Multistep
+methods.
+UNIT–V:
+Finite Difference Scheme: Numerical solution of PDE using finite difference schemes
+approaches: Bender Schmidt and Crank-Nicolson Methods (Parabolic, Elliptic type)
+and applications.
+Computer Algorithms: Introduction to Matlab, Matlab Algorithms (Gauss Jacobi and
+Gauss seidel methods, power method, Euler’s methods, Runge-Kutta methods).
+TEXT BOOKS:
+1. Numerical Methods, Dr. B. S. Grewal
+2. Numerical Analysis, R. L. Burden and J. D. Faires
+REFERENCES:
+1. An Introduction to Numerical Analysis, Atkinson K. E., J. Wiley and Sons
+2. Theory and Problems of Numerical Analysis, Scheid F., McGraw Hill Book Company,
+Schaum Series
+3. Introductory Methods of Numerical Analysis, Sastry S. S., Prentice Hall of India
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1ST09) STRUCTURAL HEALTH MONITORING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the concepts of health monitoring
+• To assess the structural health of the structures using static and dynamic field
+methods
+• To suggest the possible repair and rehabilitation methods
+• To perform the Structural Auditing after the investigation
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Diagnose the distress in the structure understanding the causes and factors
+CO-2: Assess the health of structure using static field methods
+CO-3: Assess the health of structure using dynamic field tests
+CO-4: Suggest repairs and rehabilitation measures of the structure
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 2 1 2 2 1
+CO-2 1 2 1 1 - -
+CO-3 1 2 1 1 - -
+CO-4 1 1 2 2 2 1
+UNIT–I:
+Structural Health: Factors affecting Health of Structures, Causes of Distress, Regular
+Maintenance.
+Structural Health Monitoring: Concepts, Various Measures, Structural Safety in
+Alteration.
+UNIT–II:
+Structural Audit: Assessment of Health of Structure, Collapse and Investigation,
+Investigation Management, SHM Procedures.
+UNIT–III:
+Static Field Testing: Types of Static Tests, Simulation and Loading Methods, sensor
+systems and hardware requirements, Static Response Measurement.
+UNIT–IV:
+Dynamic Field Testing: Types of Dynamic Field Test, Stress History Data, Dynamic
+Response Methods, Hardware for Remote Data Acquisition Systems, Remote
+Structural Health monitoring.
+UNIT–V:
+Introduction to Repairs and Rehabilitations of Structures: Case Studies (Site Visits),
+piezo– electric materials and other smart materials, electro–mechanical impedance
+(EMI) technique, adaptations of EMI technique.
+TEXT BOOKS:
+1. Structural Health Monitoring, Daniel Balageas, Claus Peter Fritzen, Alfredo Güemes,
+John Wiley and Sons
+2. Health Monitoring of Structural Materials and Components - Methods with
+Applications, Douglas E. Adams, John Wiley and Sons
+REFERENCES:
+1. Structural Health Monitoring and Intelligent Infrastructure, Vol. 1, J. P. Ou, H. Li and
+Z. D. Duan, Taylor and Francis
+2. Structural Health Monitoring with Wafer Active Sensors, Victor Giurglutiu,
+Academic Press
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1ST10) CONSTRUCTION METHODS AND EQUIPMENT
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the economics of various construction equipment
+• To comprehend the planning for earthworks
+• To know the different soil stabilization methods
+• To select a suitable equipment for construction works
+COURSE OUTCOMES: After completion of the course, students should be able to CO-
+1: Take decisions related to construction equipment management
+CO-2: Learn techniques for estimating equipment ownership and operating costs
+CO-3: Estimate site work and scheduling using equipment productivity and cost data,
+types of equipment
+CO-4: Estimate techniques for equipment productivity and gain knowledge of
+contemporary issues pertaining construction methods, equipment usage and
+management
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 - 1 - - 1
+CO-2 1 - 1 - - 1
+CO-3 2 - 2 - - 1
+CO-4 2 - 2 - 1 -
+UNIT–I:
+Equipment Economics - Equipment records, Cost of Capital, Elements of ownership
+Cost, Operating Cost, Replacement Decisions, Rent and Lease Considerations.
+UNIT–II:
+Planning for Earthwork Construction - Planning, Graphical Presentation of Earthwork,
+Earthwork Quantities, Mass Diagram, Pricing Earthwork Operations. Compaction and
+Stabilization Equipment - Compaction of Soil and rock, Types of Compacting
+UNIT–III:
+Equipment, Dynamic Compaction, Stabilizing soils with Lime, Cement Soil Stabilization.
+Mobile Equipment Power Requirements - Required Power, Available power, Usable
+power, Performance Charts.
+UNIT–IV:
+Dozers, Scrapers, Excavators - Introduction, Performance Characteristics of Dozers,
+Pushing Material, Land Clearing, Scraper types, operation, Performance Charts,
+Production cycle, Hydraulic Excavators, Shovels, Hoes.Trucks and Hauling Equipment,
+Finishing Equipment - Trucks, productivity, Performance Calculations, Graders,
+Trimmers.
+UNIT–V:
+Concrete and Concrete Equipment, Cranes, Piles and Pile-Driving Equipment,
+Planning for Building Construction - Concrete Mixtures, Batching of Concrete, Placing
+of Concrete.
+TEXT BOOKS:
+1. Construction Planning Equipment and Methods, Peurifoy R.L, Ledbetter W.B, and
+Schexnayder C, 5th Edition, McGraw Hill, Singapore, 1995
+2. Construction Equipment and Management, Sharma S.C, Khanna Publishers, 1988
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PC2ST01) ADVANCED CONCRETE LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To know the different concrete making materials and their influence on the
+properties of conventional and special concretes
+• To understand the different tests for fresh and hardened state properties of
+conventional and special concretes
+• To study the different non-destructive tests on concrete
+• To comprehend the various durability tests for concrete
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Design the mix proportions for ordinary, normal and high strength grades of
+conventional and special concretes
+CO-2: Evaluate the fresh and hardened state properties of conventional and special
+concretes
+CO-3: Assess the condition of concrete using non-destructive tests
+CO-4: Determine the durability and corrosion characteristics of concrete through
+different tests
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 1 2 2 3 2
+CO-2 3 1 2 2 3 2
+CO-3 3 1 3 2 3 2
+CO-4 3 1 3 2 3 2
+LIST OF EXPERIMENTS:
+1. Characterization of concrete making materials:
+a) Specific gravity of cement, fine aggregate and coarse aggregate
+b) Consistency and Setting times of cement
+c) Zone classification and Fineness modulus of fine aggregates
+2. Mix design of Ordinary, Normal and High Strength grades of concrete as per IS:
+10262 - 2019 and evaluation of workability using:
+a) Slump Cone test
+b) Compaction Factor test and
+c) Vee-Bee Consistometer test
+3. Mix design of Self Compacting Concrete as per EFNARC guidelines and IS: 10262 -
+2019 and evaluation of fresh state properties using:
+a) Slump Flow Test
+b) J-Ring Test
+c) V-Funnel test
+d) L-Box test
+e) U-Box test
+4. Correlation between cube strength, cylinder strength, split tensile strength and
+modulus of rupture.
+5. Non Destructive Evaluation of concrete strength using Rebound Hammer test
+6. Evaluation of concrete quality using Ultra Sonic Pulse Velocity (UPV) test
+7. Determination of water permeability characteristics of concrete
+8. Evaluation of permeability of chloride ions through Rapid Chloride Penetration Test
+(RCPT).
+9. Evaluation of probability of corrosion of reinforcement embedded in concrete
+using Half-cell Potential test.
+10. Determination of Abrasion resistance of concrete.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PC2ST02) NUMERICAL ANALYSIS LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To solve a system of linear and non-linear equations
+• To draw best fit curve for the given data set
+• To find the areas and volumes using numerical integration techniques
+• To solve ordinary differential equations numerically
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Analyze the beams by solving a system of equations
+CO-2: Generate the best fit curves, Sketch the basic 2D, 3D plots
+CO-3: Apply the concepts of numerical integration techniques to solve Structural
+Engineering Problems
+CO-4: Solve the ordinary differential equations in Structural Engineering applications
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 2 1 - 3 -
+CO-2 1 2 2 - 3 -
+CO-3 1 2 2 - 3 -
+CO-4 1 2 2 - 3 -
+LIST OF EXPERIMENTS:
+1. Overview of MATLAB, Matrix operations (Addition, Subtraction, Multiplication,
+Transpose)
+2. Solution of simultaneous equations using matrix inversion – Resolution of forces and
+moments and finding the reactions on a beam.
+3. To check whether the system has Unique solution / Many solutions / No solution
+using the Rank of a matrix.
+4. Solution of system of linear equations using Gauss Elimination method - Application
+to the analysis of indeterminate beams
+5. Solution of System of linear equations using Gauss Seidal iteration Method –
+Application to the analysis of portal frames
+6. Finding the Roots of non-linear equations using Newton – Raphson Method -
+Application for finding the slopes and deflections in determinate beams
+7. Finding the Solution of an Eigen Value problem – Application to a multistory RC
+building for determining the Time periods and Mode shapes.
+8. Plotting Simple Graphs - Basic 2D Plots, 3D Plots
+9. Curve Fitting by Method of Least Squares – Application for finding the Modulus of
+elasticity of steel from stress - strain curve obtained by conducting Tension test.
+10. Numerical Integration using Trapezoidal & Simpson’s Rule – Application for finding
+the Areas and Volumes of a given plot.
+11. Numerical solution of ordinary differential equations by Runge-Kutta method.
+12. Numerical solution of second and higher order differential equations
+ONLINE RESOURCES:
+1. MATLAB programming for Numerical computation
+2. nptel.ac.in/courses/103.106.118
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22SD5HS01) COMMUNICATION SKILLS FOR ACADEMIC AND RESEARCH WRITING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To equip the students with an understanding of the mechanics and conventions
+of academic and research writing including cohesion and coherence to produce
+texts that demonstrate precision and clarity
+• To enable students to present focused, logical arguments that support a thesis
+• To empower the students to find, analyze, evaluate, summarize and synthesize
+appropriate source material for literature review
+• To enable students to use appropriate language to analyze and interpret the
+data, and prepare an outline
+• To enable students to become adept in the requirements and specifications of
+standard writing to produce academic and research papers
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply knowledge of academic language features, and text structure and
+ensure cohesion and coherence as connected to various text types
+CO-2: Demonstrate the use of writing process strategies through outlining, reviewing,
+composing, and revising
+CO-3: Evaluate sources and use summary, analysis, synthesis, and integration to
+construct a literature review on a topic chosen by the student
+CO-4: Prepare an outline for Research Articles and Thesis
+CO-5: Apply standard documentation style to produce academic and research
+papers that meet the demands of specific genres, purposes, and audiences
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 3 3 1 - 2
+CO-2 2 3 3 1 - 2
+CO-3 2 3 3 1 - 2
+CO-4 3 3 3 1 - 1
+CO-5 3 3 3 1 - 2
+UNIT-I:
+a) Factors Influencing Effective Writing: Mechanics of Writing, Purpose of Writing,
+Audience/reader, Organisation- Cohesion, and Coherence
+b) Features of Academic Writing: Introduction, Complexity, Formality, Precision,
+Objectivity, Explicitness, Accuracy and Appropriacy, Relevance, Hedging
+UNIT-II:
+1. Academic Writing Forms:
+a) Analysing arguments; Building an argument
+b) Making a Counter Argument- Managing tone, and tenor
+2. Types of Research: Primary and Secondary Research;
+3. Research Design: Statement of the Problem, Survey of relevant literature, Writing
+Hypotheses, Developing Objectives; Research Tools
+UNIT-III:
+a) Criteria of Good Research- Avoiding Plagiarism
+b) Data Interpretation
+c) Preparing an outline for Research Articles & Research Reports
+UNIT-IV:
+a) Reference Skills -Paraphrasing (Change of parts of speech, word order, synonyms,
+using the passive form), -Summarizing (Steps in summarising)
+b) Documentation Format: APA style
+c) Documentation Format: MLA style
+UNIT-V:
+a) Writing Article Reviews
+b) Report Writing: a) Writing Technical Reports b) Writing Proposals
+TEXT BOOKS:
+1. A Course in Academic Writing, Gupta R., Orient Black Swan, 2010
+2. Academic Writing: Exploring Processes and Strategies, Leki I., CUP, 1998
+3. Writing-up Research: Experimental Research Report Writing for Students of English,
+Weissberg R., & Buker S., Englewood Cliffs, Prentice Hall, 1990
+REFERENCES:
+1. English Academic Writing for Students and Researchers. Yakhontova T., 2003
+2. Inside Track: Successful Academic Writing, Gillett A., Hammond A., Martala M.,
+Pearson Education, 2009
+3. English for Academic Research: Writing Exercises, Wallwork, Springer, 2013
+4. The MLA Handbook for Writers of Research Papers, 7th Edition, Modern Language
+Association
+5. Academic Writing for Graduate Students: A Course for Non-native Speakers of
+English, Swales J. M., & Feak C. B., University of Michigan Press, 1994
+ONLINE RESOURCES:
+1. https://www.coventry.ac.uk/study-at-coventry/student-support/academic-
+support/centre-for-academic-writing/support-for-students/academic-writing-
+resources/
+2. https://www.biz-e-training.com/resources-for-learners/academic-writing-online-
+resources/
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22MN6HS01) REASEARCH METHODOLOGY AND IPR
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE-I SE-II SEE TOTAL
+2 0 0 50 50 - 100
+COURSE OBJECTIVES:
+• To understand the research problem
+• To know the literature studies, plagiarism and ethics
+• To get the knowledge about technical writing
+• To analyze the nature of intellectual property rights and new developments
+• To know the patent rights
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand research problem formulation
+CO-2: Analyze research related information & Follow research ethics
+CO-3: Understand that today’s world is controlled by Computer, Information
+Technology, but tomorrow world will be ruled by ideas, concept, and creativity
+CO-4: Understanding that when IPR would take such important place in growth of
+individuals & nation, it is needless to emphasis the need of information about
+Intellectual Property Right to be promoted among students in general & engineering
+in particular
+CO-5: Understand that IPR protection provides an incentive to inventors for further
+research work and investment in R & D, which leads to creation of new and better
+products, and in turn brings about, economic growth and social benefits
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 - 2 2 3 3
+CO-2 3 - 2 2 3 3
+CO-3 3 2 - 2 - 3
+CO-4 3 2 - 2 - 3
+CO-5 3 2 - 2 - -
+UNIT – I:
+Meaning of research problem, Sources of research problem, Criteria Characteristics
+of a good research problem, Errors in selecting a research problem, Scope and
+objectives of research problem.
+Approaches of investigation of solutions for research problem, data collection,
+analysis, interpretation, Necessary instrumentations
+UNIT – II:
+Effective literature studies approaches, analysis, Plagiarism, Research ethics
+UNIT – III:
+Effective technical writing, how to write report, Paper Developing a Research
+Proposal, Format of research proposal, a presentation and assessment by a review
+committee
+UNIT – IV:
+Nature of Intellectual Property: Patents, Designs, Trade and Copyright. Process of
+Patenting and Development: technological research, innovation, patenting,
+development. International Scenario: International cooperation on Intellectual
+Property. Procedure for grants of patents, Patenting under PCT.
+UNIT – V:
+Patent Rights: Scope of Patent Rights. Licensing and transfer of technology. Patent
+information and databases. Geographical Indications. New Developments in IPR:
+Administration of Patent System.
+New developments in IPR; IPR of Biological Systems, Computer Software etc.
+Traditional knowledge Case Studies, IPR and IITs
+TEXT BOOKS:
+1. Research Methodology: An Introduction for Science & Engineering Students, Stuart
+Melville and Wayne Goddard
+2. Research Methodology: An Introduction, Wayne Goddard and Stuart Melville
+3. Research Methodology: A Step by Step Guide for beginners, Ranjit Kumar, 2nd
+Edition
+REFERENCES:
+1. Resisting Intellectual Property, Halbert, Taylor & Francis Ltd., 2007
+2. Industrial Design, Mayall, McGraw Hill, 1992
+3. Product Design, Niebel, McGraw Hill, 1974
+4. Intellectual Property in New Technological Age, Robert P. Merges, Peter S. Menell,
+Mark A. Lemley, 2016
+5. Intellectual Property Rights Under WTO, T. Ramappa, S. Chand, 2008
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PC1ST04) FEM IN STRUCTURAL ENGINEERING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To have a detailed knowledge and understanding of the fundamental concepts
+of finite element methods
+• To introduce basic aspects of finite element methods, including domain
+discretization, polynomial interpolation, application of boundary conditions,
+assembly of global arrays, and solution of the resulting algebraic systems
+• To develop proficiency in the application of the finite element methods (modeling,
+analysis, and interpretation of results) to realistic engineering 1-D,2-D and 3-D
+problems
+• To gain knowledge and analysis skills in formulating the solution for complex
+problems using a commercial FEA software
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the fundamental theory of finite element methods
+CO-2: Analyze finite element method efficiently in order to solve structural problems
+using truss, beam, frame, and plane elements
+CO-3: Identify appropriate planar (plane stress or strain), axi-symmetric, special
+idealization (type of element), and modeling techniques
+CO-4: Apply the professional level finite element software to solve the engineering
+problems
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 2 2 3 1 1
+CO-2 3 2 3 2 1 1
+CO-3 3 2 2 2 1 1
+CO-4 3 2 2 3 1 1
+UNIT–I:
+Introduction to FEM: general steps-Advantages-Disadvantages-Applications-Historical
+back ground-Types of forces encountered by deformable bodies –Equations of
+equilibrium for elastic 2-D / 3-D continua - Boundary conditions – Strain-displacement
+relation for 2-D / 3-D – Stress-strain relation for 2-D / 3-D – Plane stress / Plane strain
+problems.
+Variational Formulation: Approximate methods of Analysis- Weighted residual method
+- Rayleigh-Ritz Method and Galerkins method -Strong form weak form -Variational
+principle - Stationary Functional. Application to problems of mathematics / structural
+Engineering, number of trial functions not exceeding two.
+UNIT–II:
+Finite Element Formulation for1-D Problems: Minimum Potential Energy approach,
+week form approach, introduction to natural coordinates -Finite element
+approximations in one dimensions- FE formulation for Axial bar, Euler Bernoulli beam -
+Numerical Examples. Application to problems of plane trusses with static
+indeterminacy not exceeding three.
+Finite Element Formulation for 2-D Problems: FE Approximation in 2-Dimension, Pascals
+triangle, Convergence criterion, Compatible and incompatible elements, FE
+Formulation for plane stress, plane strain problems, Shape functions for 2-Dimensional
+CST Element-4 noded quadrilateral element -Higher order triangular and rectangular
+elements- Consistent Nodal load vector -Numerical Examples
+UNIT – III
+Iso-Parametric Elements: Isoparametric concept-FE Formulation for linear and
+quadratic isoparametric quadrilateral elements- Construction of shape functions
+using natural coordinates/Strain-displacement matrices/Load matrices for body force
+and surface traction/ Expressions for stiffness matrix, load matrices for 4-noded
+quadrilateral elements.
+Numerical Integration: Gauss Quadrature of numerical integration-one point , two
+point and three point formula.
+UNIT–IV:
+Finite Element Formulation for 3 -D Elements:
+FE Formulation for Tetrahedral and Hexahedral Elements: Volume coordinates, Strain-
+displacement matrix, stiffness matrix, load matrices due to body force and surface
+traction/ introduction to Hexahedron (brick) elements.
+UNIT-V
+Axisymmetric Analysis: Bodies of revolution axi symmetric modeling - strain
+displacement relationship - formulation of axi symmetric elements. Strain-
+displacement relationship-determination of stiffness matrix for 3-noded triangle
+element and load matrices for body force and surface traction/ Problems with
+kinematic indeterminacy not exceeding three for 3-noded triangle elements only.
+Computer Implementation of FEA: Pre-Processing, Solution, Post- Processing, Use of
+Commercial FEA Software-
+Numerical Examples: Simple 1-D model, 2-D model and a 3-D model/ analysis.
+TEXT BOOKS:
+1. A First Course in the Finite Element Method, Daryl L. Logan, 6th Edition, Cengage
+Learning, 2016
+2. Fundamentals of Finite Element Analysis, David V. Hutton, Tata McGraw-Hill
+Publishing Company Limited, 2005
+3. Finite element Analysis, S. S. Bhavikatti, New Age International, 2006
+REFERENCES:
+1. The Finite Element Method, Zienkiewicz O. C. And Taylor R. L, Vol. 1, McGraw Hill,
+1989
+2. Introduction to Finite Elements in Engineering, Chandrupatla T. R. and Belegundu
+A. D., Prentice Hall of India, 2001
+3. Finite Element Analysis, Seshu P., Prentice Hall of India, 2003
+4. Finite Element Procedures, Bathe K. J., Prentice Hall of India, 2006
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PC1ST05) DESIGN OF ADVANCED REINFORCED CONCRETE STRUCTURES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To analyze and design of slabs by using yield line theory
+• To understand the various types of loads in current codes of practice for the design
+of tall buildings
+• To understand the design concepts of flat slabs
+• To analyze and design of concrete deep beams and retaining walls
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Determine moment of resistance for square and circular slabs
+CO-2: Analyze and design of flat slabs and deep beams
+CO-3: Design concrete retaining walls
+CO-4: Understand the various types of loads to consider in the design of tall buildings
+and Pre-Engineered Buildings
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 1 - - - 1
+CO-2 3 1 - - 1 1
+CO-3 3 1 - - - -
+CO-4 2 1 1 - - -
+UNIT–I:
+Yield Line Analysis for Slabs: Yield line criterion – Virtual work and equilibrium methods
+of analysis – For square, circular, Rectangular, Triangular and Hexagonal with simple
+and continuous end conditions- Reinforcement details.
+UNIT–II:
+Design of Flat Slabs: Direct design method - Distribution of moments in column strips
+and middle strip - moment and shear transfer from slabs to columns - Shear in Flat slabs
+– Check for one way shear - Introduction to Equivalent frame method. Limitations of
+Direct design method, Distribution of moments in column strips and middle strip.
+UNIT–III:
+Design of Reinforced Concrete Deep Beams: Steps of Designing Deep Beams, Design
+by IS 456, Checking for Local Failures, Detailing of Deep Beams.
+UNIT–IV:
+Retaining Walls: Analysis and Design of Cantilever Retaining wall, Counterfort
+Retaining wall.
+UNIT–V:
+Introduction to Tall Buildings: Tall Building in the Urban Context - Tall Building and its
+Support Structure - Development of High Rise-Building Structures - General Planning
+Considerations. Dead Loads - Live Loads - Construction Loads - Snow, and Wind Loads
+-Seismic Loading.
+TEXT BOOKS:
+1. Reinforced Concrete Design, S. Unnikrishnan Pillai and Devdas Menon, TMH
+2. Advanced Reinforced Concrete Design, P. C. Varghese, Practice Hall
+3. Design of Reinforced Concrete Structures, N. Subramanian, Oxford University Press,
+2010
+REFERENCES:
+1. Limit State Theory and Design of Reinforced Concrete, Dr. S. R. Karve and Dr. V. L.
+Shah, Standard Publishers
+2. Reinforced Concrete design, Kennath Leet, 2nd Edition, Tata McGraw-Hill
+International, 1991
+3. IS 456- 2000 Plain and Reinforced Concrete Book of Practice
+4. SP 34 - Hand Book as Concrete Reinforcement and Retaining
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PC1ST06) EARTHQUAKE RESISTANT DESIGN OF BUILDINGS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To explain the possible causes for earthquakes understanding seismology
+• To understand the principles of earthquake resistant deign of RC and masonry
+buildings
+• To learn to evaluate base shears using IS methods
+• To detail the structural members for ductile requirements
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Predict the sources of earthquakes understanding seismology and
+conceptually design the buildings
+CO-2: Apply the Response Spectrum Analysis Method and static equivalent method
+for the determination of lateral loads on the buildings
+CO-3: Apply ductility requirements for the design of structural components
+CO-4: Assess seismic performance of non-structural components and structural
+components and identify effective measures to mitigate potential damage
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 2 1 1 - 1
+CO-2 2 1 1 2 2 1
+CO-3 2 - 1 2 - 3
+CO-4 3 1 2 2 - 3
+UNIT–I:
+Engineering Seismology: Earthquake phenomenon cause of earthquakes-Faults-
+plate seismic tectonics- waves- Terms associated with earthquakes-
+Magnitude/Intensity of an earthquake- scales – Energy released – Earthquake
+measuring instruments - seismoscope, accelerograph, Characteristics of strong
+ground motions - Seismic zones of India.
+Conceptual Design: Introduction-Functional planning-continuous load path-overall
+form- simplicity and symmetry-elongated shapes-stiffness and strength-Horizontal and
+Vertical members-Twisting of buildings-Ductility- definition-ductility relationships,
+flexible buildings-framing systems-choice of construction materials-unconfined
+concrete-confined concrete, masonry-reinforcing steel.
+Introduction to Earthquake Resistant Design: Seismic design requirements-regular and
+irregular configurations - basic assumptions - design earthquake loads - basic load
+combinations- permissible stresses-seismic methods of analysis-factors in seismic
+analysis-equivalent lateral force method – response spectrum method -Time history
+method.
+UNIT–II:
+Reinforced Concrete Buildings and Design Methods: Principles of earthquake resistant
+deign of RC members-structural models for frame buildings- seismic methods of
+analysis- seismic design methods- IS code based methods for seismic design-Seismic
+Coefficient and Response Spectrum Method- Determination of design lateral forces-
+Equivalent lateral force procedure- Lateral distribution of base shear.
+UNIT–III:
+Masonry Buildings: Introduction-Elastic properties of masonry assemblage- Categories
+of masonry buildings- Behaviour of unreinforced and reinforced masonry walls-
+Behaviour of walls- Box action and bands- Behaviour of infill walls- Improving seismic
+behaviour of masonry buildings- Load combinations and permissible stresses- seismic
+design requirements- Lateral load analysis of masonry buildings.
+UNIT–IV:
+Structural Walls and Non-Structural Elements: Strategies in the location of structural
+walls- sectional shape &amp; variations in elevation- cantilever walls without
+openings- Failure mechanism of non-structures- Effects of non-structural elements on
+structural system- Analysis of non-structural elements- prevention of non-structural
+damage- Isolation of non- structures.
+UNIT–V:
+Ductility Considerations in Earthquake Resistant Design of RC Buildings: Introduction-
+Impact of Ductility, Requirements for Ductility- Assessment of ductility- Factors-
+affecting Ductility- Ductile detailing considerations as per IS 13920. Behaviour of beam,
+columns and joints in RC buildings during earthquakes-Vulnerability of open ground
+storey and short columns during earthquakes.
+Capacity Based Design: Introduction to capacity Design, Capacity Design for Beams
+and columns- Case studies.
+TEXT BOOKS:
+1. Earthquake Resistant Design of Structures, S. K. Duggal, Oxford University Press
+2. Earthquake Resistant Design of Structures, Pankaj Agarwal and Manish Shrikhande,
+Prentice Hall of India
+REFERENCES:
+1. Seismic Design of Reinforced Concrete and Masonry Building, T. Paulay and M. J.
+N. Priestly, John Wiley
+2. Earthquake Resistant Design and Risk Reduction, D. J. Dowrick, Wiley India
+3. Earthquake Resistant Design of Masonry Building, Miha Tomazevic, Imperial
+College Press
+4. Earthquake Tips - Learning Earthquake Design and Construction, C. V. R. Murthy
+CODE BOOKS:
+1. IS: 1893 (Part 1)- 2016, Criteria for Earthquake Resistant Design of Structures, B.I.S.
+New Delhi
+2. IS: 13920-2016, Ductile Detailing of Concrete Structures Subjected to Seismic Force-
+Guidelines, B.I.S., New Delhi
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1ST11) DESIGN OF ADVANCED STEEL STRUCTURES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To analyze bolted and welded eccentric connections
+• To sketch the Influence line diagrams for truss members
+• To estimate the various types of loads such as Dead, Live and Wind loads on roof
+trusses
+• To determine the shape factor and Define the theorems of plastic analysis
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Design the eccentric and moment connections
+CO-2: Design the truss members subjected to tension, compression
+CO-3: Determine the collapse loads for continuous beams and portal frames
+CO-4: List the advantages of PEBs over CSBs and Estimate the capacity of sections
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 - 3 - 1 -
+CO-2 2 - 3 - 1 -
+CO-3 2 - 3 - 1 -
+CO-4 2 - 3 - 1 -
+UNIT-I:
+Eccentric and Moment Connections: Beam-Column connections, Bolted framed
+connections, Bolted seat connections, Bolted bracket connections, Welded framed
+connections, Welded seat connections, Welded bracket connections.
+UNIT-II:
+Truss Girder Bridges: Types of truss girders for bridges, components of truss girder
+bridge, economic Proportions of truss bridge, self-weight of truss girder, Influence line
+diagrams for top chord member, bottom chord member, vertical member, diagonal
+member, Influence line diagrams for forces in the members of a truss girder - Pratt truss
+with parallel chords, Warren truss with parallel chords.
+UNIT-III:
+Roof Trusses: Introduction, Types of roof trusses, Components of a roof truss,
+Economical spacing of roof trusses, Loads on the roof trusses – Dead load, Live load,
+Wind load, Analysis of Angular Roof Truss, Tubular Roof Truss, Design of truss members
+subjected to tension, compression, Design of Purlins.
+UNIT-IV:
+Plastic Theory: Stress-Strain curve for Mild steel, Plastic bending of beams, Stages of
+bending of rectangular sections, Fully Plastic Moment of a Section, Shape Factor –
+Rectangular, Triangular, Circular, Hollow circular sections, Moment-Curvature
+relationships, Plastic Hinge, Load Factor, Theorems of plastic analysis – Static/Lower
+bound theorem, Kinematic/Upper bound theorem, Uniqueness/Combined theorem -
+Beam mechanism, Collapse load for cantilevers, simply supported beams, propped
+cantilever beams, fixed beams, continuous beams
+UNIT-V:
+Plastic Analysis: Sway mechanism, Combined mechanism, Collapse load for portal
+frames (Single bay-Single storey).
+Introduction to Pre-Engineered Buildings: Concept of Pre-Engineered Buildings,
+Components of PEB – Primary framing system, Secondary framing system, Advantages
+of PEBs over Conventional Steel buildings.
+TEXT BOOKS:
+1. Limit State Design of Steel Structures, S. K. Duggal, TMH
+2. Design of Steel Structures, N. Subramanian, Oxford University Press
+REFERENCES:
+1. Design of Steel Structures, S. S. Bhavikatti, I. K. International Publishing House
+2. Limit State Design of Steel Structures, V. L. Shaw, Structures Publications
+3. Comprehensive Design of Steel Structures, B. C. Punmia, Laxmi Publications
+4. Design of Steel Structures – Vol. II, Ram Chandra, Scientific Publishers
+CODE BOOKS:
+1. IS 800 : 2007 – General Construction in Steel – Code of Practice
+2. IS 875 (Part 3) : 2015 – Design Loads (Other than Earthquake) for Buildings and
+Structures – Code of Practice
+3. Steel Tables, R. Agor, Birla Publications
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1ST12) STRUCTURAL RELIABILITY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To acquire basic knowledge of statistics and probability theory
+• To understand resistance distribution and parameters
+• To develop the ability to do computation of structural reliability
+• To understand reliability design criteria
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understand basics of statistics and explain probability theory
+CO-2: Characterize the dimensional variations of materials
+CO-3: Explain and apply Monte Carlo method
+CO-4: Develop reliability-based designs
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 - - 2 - 2 -
+CO-2 - - 2 - 2 -
+CO-3 - - 2 - 2 -
+CO-4 - - 3 - 3 -
+UNIT–I:
+Concepts of Structural Safety: General - Design methods- Basic Statistics: Introduction
+-Data reduction – Histograms - Sample correlation - Probability Theory: Introduction,
+Random events - Random variables - Functions of random variables - Moments and
+expectation - common probability distribution - Extremal distribution.
+UNIT–II:
+Resistance Distributions and Parameters: Introduction - Statistics of properties of
+concrete, steel, strength of bricks and mortar - dimensional variations -
+characterization of variables - Allowable stresses based on specified reliability.
+UNIT–III:
+Basic Structural Reliability: Introduction - Computation of Structural reliability- Monte
+Carlo Study of Structural Safety: General- Monte Carlo method - Applications.
+UNIT–IV:
+Reliability Methods: Introduction - Basic variables and failure surface - First-order
+second-moment methods (FOSM)
+UNIT–V:
+Reliability Based Design: Introduction - Determination of partial safety factors - Safety
+checking formats - Development of reliability-based design criteria - Optimal safety
+factors -Summary of results of study for Indian standard – RCC Design.
+TEXT BOOKS:
+1. Structural Reliability Analysis and Design, R. Ranganathan, Jaico Publishing House,
+2006
+2. Structural Reliability – Analysis & Prediction, R. E. Melchers, 2nd Edition, Wiley –
+Blackwell, 1999
+REFERENCES:
+1. Structural Reliability, Maurice Lemaire, Wiley, 2009
+2. Reliability and Optimization of Structural Systems, Dan M. Frangopol, Mitsuo
+Kawatani & Chul-Woo Kim, Taylor & Francis, 2006
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1ST13) BUILDING SERVICES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Building Planning and Construction
+COURSE OBJECTIVES:
+• To understand the importance of building planning and its requirements
+• To know the important considerations in fire protection of buildings
+• To apply the different vertical transportation systems during building construction
+• To comprehend the different building services
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Design buildings for grouping and circulation, lighting, ventilation and fire
+protection
+CO-2: Design vertical transportation in buildings-stair cases and lifts
+CO-3: Analyse and Design prefabrication systems in buildings
+CO-4: Plan and Design various building services as electrical installation, air
+conditioning, plumbing services and acoustics
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 1 3 2 - 1
+CO-2 2 1 3 2 - 1
+CO-3 2 1 3 2 - 1
+CO-4 2 1 3 2 - 1
+UNIT–I:
+Orientation and Planning - Selection of site - Orientation of building - Design of
+residential buildings with particular reference to grouping and circulation.General
+building requirements - Open spaces in and around buildings for lighting and
+ventilation - Minimum sizes and height of roofs - Rat and Termite proofing of buildings
+- Lightning protection of buildings.
+UNIT–II:
+Fire protection of buildings - Important considerations in fire protection - Fire resisting –
+Properties of common building materials - Fire safety and exit requirements.
+UNIT–III:
+Vertical transportation in buildings - Essential requirements and details of construction
+of stairs, lifts escalators and ramps. Prefabrication systems in residential buildings -
+Planning and modules and sizes of components in prefabrication - Testing of
+components - Manufacturing and erection guide lines.
+UNIT–IV:
+Miscellaneous structures - Shell structures – Domes - Folded plate structures - Skeletal
+and space frame structures - Grain storage structures - Earthquake resistant structures.
+UNIT–V:
+Building services - Lighting and Ventilation - Electrical installation - Air-conditioning and
+heating - Acoustics and Sound insulation - Plumbing services.
+TEXT BOOKS:
+1. National Building Code of India, Bureau of Indian Standards, 2005
+2. Arora and Bindra, Building Construction, 3rd Edition, Dhanpat Rai and Sons, 1984
+3. Hand Book for Building Engineers, N. B. O
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1ST14) DESIGN OF FORMWORK
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the requirements of formwork
+• To know the different materials used for formwork
+• To apply the concepts for designing the formwork for different structures
+• To understand the reasons for failures of formwork
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Comprehend the knowledge on requirements of formwork and select the
+suitable material for formwork
+CO-2: Design a suitable formwork for various structural elements
+CO-3: Select a suitable type of formwork for different structures
+CO-4: Apply the knowledge in analyzing the failure of formwork
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 - 1 - - 1
+CO-2 2 1 2 - - 2
+CO-3 2 - 2 - - 2
+CO-4 2 1 2 - - 3
+UNIT–I:
+Introduction: Requirements and Selection of Formwork.
+Formwork Materials: Timber – Plywood – Steel – Aluminium - Plastic, and Accessories -
+Horizontal and Vertical Formwork Supports.
+UNIT–II:
+Formwork Design: Concepts - Formwork Systems and Design for Foundations –Walls –
+Columns - Slab and Beams.
+UNIT – III
+Formwork Design for Special Structures: Shells – Domes - Folded Plates - Overhead
+Water Tanks - Natural Draft Cooling Tower - Bridges.
+UNIT–IV:
+Flying Formwork: Table Form - Tunnel Form - Slip Form - Formwork for Precast Concrete
+- Formwork Management Issues - Pre and Post-Award.
+UNIT–V:
+Formwork Failures: Causes and Case studies in Formwork Failure - Formwork Issues in
+Multi-Storied Building Construction.
+TEXT BOOKS:
+1. Formwork for Concrete Structures, Kumar Neeraj Jha, Tata McGraw Hill, 2012
+2. Formwork for Concrete Structures, Peurify, McGraw Hill India, 2015
+REFERENCES:
+1. Formwork for Concrete, M. K. Hurd, ACI
+IS Codes:
+1. IS 14687: 1999, False work for Concrete Structures - Guidelines, BIS
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1ST15) DESIGN OF HIGH-RISE STRUCTURES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the design aspects of transmission towers and masts
+• To understand the analysis and design of steel and rc chimneys
+• To develop through understanding of the loading and structural forms of tall
+buildings
+• To understand the modelling for analysis of tall buildings
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Analyze and design transmission line towers and masts
+CO-2: Analyze and design steel chimney
+CO-3: Analyze and design rc chimney
+CO-4: Understand various loadings and structural forms of Tall Buildings and perform
+modal analysis
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 1 - - 1 2
+CO-2 2 - 1 - - 1
+CO-3 2 1 1 - - 1
+CO-4 2 2 1 - - 1
+UNIT–I:
+Design of Towers and Masts: Introduction, Lattice Tower Configuration and Bracings,
+Load acting on Lattice Towers, Analysis and Design of Lattice Towers.
+UNIT–II:
+Masts, Transmission Line Towers, Loads on Transmission Line Towers, Effect of
+Temperature Variation on Conductors and Earth Wires, Analysis and Design of
+Transmission Line Towers, Foundations for Towers.
+UNIT–III:
+Design of Steel Chimney: Introduction, Dimensions of Steel Stacks, Chimney Lining,
+Breech Openings and Access Ladder, Loading and Load Combinations, Design
+Considerations, Stability Considerations, Design of Base Plate, Design of Foundation
+Bolts, Design of Foundation.
+Design of RC Chimney: Introduction, Wind Pressure, Stresses in Chimney Shaft due to
+Self-Weight and Wind, Stresses in Horizontal Reinforcement due to Wind Shear, Stresses
+due to Temperature Difference, Combined Effect of Self-Load, Wind and
+Temperature, Temperature Stresses in Horizontal Reinforcement, Design of RC
+Chimney.
+UNIT–IV:
+Loading:
+Gravity Loading: Methods of Live Load Reduction, Impact Gravity Loading,
+Construction Loads; Wind Loading: Simple Static Approach, Dynamic Method;
+Earthquake Loading: Equivalent Lateral Force Procedure, Modal Analysis Procedure.
+Structural Form: Braced-Frame, Rigid-Frame, Infilled-Frame, Flat-Plate and Flat- slab,
+Shear Wall, Wall-Frame, Framed Tube, Outrigger-Braced, Suspended, Core, Space
+and Hybrid Structures; Floor Systems (Reinforced Concrete): One-Way Slabs on Beams
+or Walls, One-Way Pan Joists and Beams, One-Way Slab on Beams and Girders, Two-
+Way Flat Plate, Two-Way Flat Slab, Waffle Flat Slab, Two- Way Slab and Beam; Floor
+Systems (Steel Framing): One- Way, Two-Way and Three-Way Beam Systems,
+Composite Steel-Concrete Floor Systems.
+UNIT–V:
+Modelling for Analysis: Approaches to Analysis: Preliminary Analyses, Intermediate
+and Final Analysis, Hybrid Approach to Preliminary and Final Analyses; Assumptions;
+High-Rise Behaviour; Modelling for Approximate Analyses: Approximate
+Representation of Bents, Approximate Modelling of Slabs, Modelling for Continuum
+Analyses; Modelling for Accurate Analysis: Plane Frames, Plane Shear Walls, Three-
+Dimensional Frame and Wall Structures, P- Delta Effects, The Assembled Model;
+Reduction Techniques: Symmetry and Antisymmetry, Two-Dimensional
+Models of Nontwisting Structures, Two-Dimensional Models of Structures that
+Translate and Twist, Lumping, Wide-Column Deep-Beam Analogies.
+TEXT BOOKS:
+1. Comprehensive Design of Steel Structures, Punmia B. C., Jain A. K., and Jain A. K.,
+Laxmi Publications
+2. Comprehensive Design of Reinforced Concrete Structures, Punmia B. C., Jain A.
+K., and Jain A. K., Laxmi Publications
+REFERENCES:
+1. Tall Building Structures: Analysis and Design, Stafford Smith B. and Coull A., Wiley
+Interscience Publication
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1ST16) DESIGN OF PRESTRESSED CONCRETE STRUCTURES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To critically review the techniques of pre-stressing both Pre-tensioning and Post-
+tensioning
+• To design the pre-stressed concrete members for ultimate limit state and limit state
+of serviceability
+• To realize the importance of the Statically Indeterminate structures and Load
+Balancing
+• To analyze and design continuous pre-stressed concrete beams with bent cables
+having straight and parabolic profiles
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Realize the importance of pre-stressing the long span structures and heavily
+loaded members
+CO-2: Acquire the knowledge of various pre-stressing techniques; their merits and
+demerits
+CO-3: Develop skills in planning, analysis and design of pre-stressed concrete beams,
+and slabs
+CO-4: Develop skills to satisfy the serviceability and strength provisions of the Indian
+Standards (IS:1343-2012)
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 1 3 - - 2
+CO-2 1 1 1 2 - 2
+CO-3 1 1 1 3 - 2
+CO-4 2 1 2 3 - 2
+UNIT–I:
+General Principles and Systems of Pre-Stressing: Basic concepts of prestresing, Need
+for High strength steel and concrete, Advantages and Applications of PSC, Different
+methods and systems of pre-stressing like Hoyer system, Freyssinet system.
+Analysis of Pre-Stressed Beams: Basic concepts, Analysis of sections for flexure, stresses
+at transfer and service loads, Pre-stressing by straight, concentric, eccentric, bent and
+parabolic tendons, Pressure line, concept of load balancing, cracking moment.
+UNIT–II:
+Losses of Pre-Stress: Loss of pre-stress in pre-tensioned and post-tensioned members
+due to various causes like elastic shortening of concrete, shrinkage of concrete, creep
+of concrete, relaxation of stress in steel, slip in anchorage, frictional loss.
+Deflections of Pre-stressed Concrete Beams: Short term deflections of un-cracked
+members, Prediction of long-time deflections, IS code requirements for maximum
+deflections.
+UNIT–III:
+Design of Sections for Flexure: Allowable stresses, Elastic design of simple beams
+having rectangular and I-sections, kern lines, cable profile and cable layout.
+Design of Sections for Shear: Shear and Principal Stresses, Improving shear resistance
+by different pre-stressing techniques - horizontal, inclined and vertical pre-stressing,
+Design of beams having rectangular and I-sections, Design of shear reinforcement, IS
+code provisions.
+UNIT–IV:
+Transfer of Pre-stress in Pre-tensioned Members: Transmission of pre-stressing force by
+bond, Transmission length, Bond stresses, IS code provisions.
+Anchorage Zone Stresses in Post-Tensioned Members: Stress distribution in End block -
+Analysis by Guyon and Magnel methods, Anchorage zone reinforcement.
+UNIT–V:
+Statically Indeterminate Structures: Advantages & Disadvantages of continuous
+beams - Primary and Secondary moments - P and C lines - Linear transformation,
+concordant and Non-concordant cable profiles - Analysis of continuous beams.
+Composite Construction: Advantages, Types, Analysis of stresses in Propped and
+Unpropped construction with precast PSC beams and cast in-situ RC slab, Differential
+shrinkage.
+TEXT BOOKS:
+1. Pre-Stressed Concrete, Krishna Raju, Tata McGraw-Hill
+2. Pre-Stressed Concrete, Muthu K. U., Ibrahim Azmi, Janardhana Maganti,
+Vijayanand M., PHI Learning
+REFERENCES:
+1. Pre-Stressed Concrete, Ramamrutham, Dhanpat Rai & Sons
+2. Pre-Stressed Concrete, N. Rajagopalan, Narosa
+3. Pre-Stressed Concrete Structures, P. Dayaratnam, Oxford & IBH
+4. Design of Pre-stressed Concrete Structures, T. Y. Lin and N. H. Burns, John Wiley
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1ST17) THEORY AND APPLICATIONS OF CEMENT COMPOSITES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To distinguish conventional and composite materials
+• To understand the behaviour of composite materials
+• To study the different cement / polymer based composite materials
+• To apply the different types of composite materials for construction
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understand stress-strain behaviour and formulate constitutive behaviour of
+composite materials
+CO-2: Understand the classification of materials based on orthotropic and anisotropic
+behaviour
+CO-3: Estimate elastic constants using theories applicable to composite materials.
+CO-4: Analyse and Design structural elements made of cement composites as
+ferrocement, SIFCON and fibre reinforced concrete
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 - 2 2 - -
+CO-2 1 - 2 2 - -
+CO-3 1 - 2 2 - -
+CO-4 3 2 3 3 - 1
+UNIT–I:
+Introduction - Classification and characteristics of composite materials - Basic
+terminology –advantages. Stress-strain relations - Orthotropic and anisotropic
+materials - Engineering constants for orthotropic materials – restrictions on elastic
+constants – plane stress problem - Biaxial strength– theories for an orthotropic lamina.
+UNIT–II:
+Mechanical behaviour - Mechanics of materials approach to stiffness – determination
+of relations between elastic constants - Elasticity approach to stiffness – bounding
+techniques of elasticity – exact solutions - Elasticity solutions with contiguity – Halpin –
+Tsai equations – comparison of approaches to stiffness.
+UNIT–III:
+Cement composites - Types of cement composites – terminology - Constituent
+materials and their properties - Construction techniques for fibre reinforced concrete,
+Ferrocement, SIFCON,
+UNIT–IV:
+Polymer concretes - Preparation of reinforcement – casting and curing. Mechanical
+properties of cement composites - Behaviour of ferrocement, fiber reinforced
+concrete in tension, compression, flexure, shear, fatigue and impact, durability and
+corrosion.
+UNIT–V:
+Application of cement composites - FRC and Ferrocement - housing – Water storage
+– Boats and miscellaneous structures.
+TEXT BOOKS:
+1. Mechanics of Composite Materials, Robert M. Jones, 2nd Edition, Taylor and
+Francis/BSP Books, 1998
+REFERENCES:
+1. Ferrocement – Theory and Applications, R. P. Pama, IFIC, 1980
+2. New Concrete Materials, R. N. Swamy, 1st Edition, Blackie, Academic and
+Professional, Chapman & Hall, 1983
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1ST18) DESIGN OF SUB-STRUCTURES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the importance of sub-soil investigations
+• To analyse the different stress in the sub-soil
+• To study the various shallow and deep foundations
+• To understand and analyze the different forces in well foundations
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Plan soil investigation and calculate the stresses on soil due to applied loads
+CO-2: Calculate bearing capacity of soil to design shallow foundations & calculate
+the settlements in soils
+CO-3: Design pile foundations for structures
+CO-4: Design well foundation
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 - 1 - - 1
+CO-2 2 - 1 - - 1
+CO-3 3 2 3 - - 1
+CO-4 3 2 3 - - 1
+UNIT-I:
+Sub Soil Investigation and Sampling: Introduction; Planning of sub-surface exploration
+Program; Stages in sub-surface exploration; Methods of exploration; Soil sampling and
+samplers; Water table location; Depth and number of borings; Bore hole logging; In-
+situ tests – Standard penetration test, Static cone penetration test, Dynamic cone
+penetration test and Vane shear tests.
+UNIT–II:
+Stresses due to Applied Loads: Stress-strain parameters; Vertical and horizontal stresses
+due to concentrated loads; Boussinesq and Westergarrd solutions; Isobars; Influence
+diagram; Newmark's influence charts; Contact pressure distribution
+UNIT-III:
+Shallow Foundations: Different bearing capacity equations; Types of shear failures;
+Effect of inclined load, eccentric load and water table on bearing capacity; Bearing
+capacity from in-situ tests; Methods of improving bearing capacity; Plate load test
+Settlement Analysis Settlement of foundations; Immediate and consolidation
+settlements; Allowable settlement; Proportioning of a foundation for a given
+settlement.
+UNIT-IV:
+Pile Foundations: Necessity of pile foundation; Classification of piles; Construction of
+piles; Load carrying capacity of single pile from static, dynamic and in-situ test
+methods; Pile load tests; Pile group and its efficiency; Settlement of pile foundation;
+Negative skin friction; Under-reamed pile foundation in swelling soils.
+UNIT-V:
+Well Foundations: Forces acting on well foundation; Types, different shapes of wells;
+Analysis of well foundation; Individual components of well; Sinking of wells; Measures
+for rectification of tilts and shifts.
+REFERENCES:
+1. Basic and Applied Soil Mechanics, Gopal Ranjan and A. S. R. Rao, 2nd Edition, New
+Age International, 2006
+2. Soil Mechanics and Foundation Engineering, K. R. Arora, Standard Publishers and
+Distributors, 2009
+3. Advanced Foundation Engineering, V. N. S. Murthy, CBS Publishers and Distributors,
+2007
+4. Foundation Analysis and Design, Joseph E. Bowles, 4th Edition, McGraw Hill
+International, 1988
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1ST19) PRE-FABRICATED STRUCTURES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the requirements for prefabricated structures
+• To study the various design principles of prefabricated structures
+• To comprehend the analysis and design of various components of prefabricated
+structures
+• To know the analysis and design of industrial buildings
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Identify design principles and IS code specifications
+CO-2: Analyze and design shear walls
+CO-3: Analyze and design different types of floors and roof slabs
+CO-4: Design industrial buildings
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 - 1 - - -
+CO-2 2 2 3 - - 2
+CO-3 2 2 3 - - 2
+CO-4 3 2 3 - - 3
+UNIT–I:
+Introduction: General Civil Engineering requirements, specific requirements for
+planning and layout of prefabricates plant. IS Code specifications
+UNIT–II:
+Design Principles: Modular coordination, standardization, Disuniting, of Prefabricates,
+production, transportation, erection, stages of loading and codal provisions, safety
+factors, material properties, Deflection control, Lateral load resistance, Location and
+types of shear walls.
+UNIT–III:
+Walls: Prefabricated structures, Long wall and cross wall large panel buildings, framed
+buildings with partial and curtain walls, single storey. Types of wall panels, Partition and
+load bearing walls, load transfer from floor to wall panels, vertical loads, Eccentricity
+and stability of wall panels, Design Curves, types of wall joints, their behaviour and
+design, Leak prevention, joint sealants, sandwich wall panels, approximate design of
+shear walls.
+UNIT–IV:
+Floors, Stairs and Roofs: Types of floor slabs, analysis and design example of cored
+and panel types and two way systems, types of roof slabs and insulation requirements,
+Description of joints, their behaviour and reinforcement requirements, deflection
+control for short term and long term loads, ultimate strength calculations in shear and
+flexure.
+UNIT–V:
+Design of Industrial Buildings: Components of single storey industrial sheds with crane
+gantry systems, design of R.C. Roof Trusses, roof panels,design of R.C. crane gantry
+girders, corbels and columns, wind bracing design, Design of shell roofs for Industrial
+sheds.
+REFERENCES:
+1. Basics of Dynamics and Aseismic Design, S. R. Damodaraswamy & S. Kavitha, PHI
+Learning, 2009
+2. Earthquake Resistant Design of Structures, Pankaj Agarwal & Shrikhande, PHI
+Learning, 2009
+3. Dynamics of Structures - Theory and Applications to Earthquake Engineering,
+Chopra A. K., 2nd Edition, Pearson Education, 2007
+4. Pre-fabricated Structures, V. Soundararajan, R. Jagadeesh Kumar, S. Kalpana,
+Devi ars publications
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1ST20) DESIGN OF BRIDGES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Structural Analysis I &II, Reinforced Concrete Design
+COURSE OBJECTIVES:
+• To understand the bridge hydrology
+• To list the components of bridge substructure, superstructure and types of bearings
+• To understand the codal provisions for loading and design standards of bridges
+• To design RC and PSC bridges
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Determine flood discharge, waterway, economic span
+CO-2: Select type of super structure, sub structure and the bearings
+CO-3: Calculate the various types of loads acting on the bridges
+CO-4: Design the Slab bridges, Girder bridges and Prestressed Concrete bridges
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 1 1 - - -
+CO-2 1 2 1 - - -
+CO-3 2 1 1 - - 1
+CO-4 3 2 1 - - 1
+UNIT–I:
+Concrete Bridges: Introduction-Types of Bridges-Economic span length-Types of
+loading-Dead load- live load-Impact Effect-Centrifugal force-wind loads-Lateral
+loads-Longitudinal forces-Seismic loads- Frictional resistance of expansion bearings-
+Secondary Stresses-Temperature Effect-Erection Forces and effects-Width of roadway
+and footway-General Design Requirements.
+Solid Slab Bridges: Introduction-Method of Analysis and Design.
+UNIT–II:
+RCC Girder Bridges: Introduction-Method of Analysis and Design-Courbon's Theory,
+Grillage analogy
+UNIT–III:
+Box Culverts: Single Cell Box Culvert – Design Loads, Design Moments, Shears and
+Thrusts. Design of Critical sections.
+UNIT–IV:
+Pre-Stressed Concrete Bridges: Basic principles-General Design requirements-Mild
+steel reinforcement in prestressed concrete member-Concrete cover and spacing of
+pre-stressing steel-Slender beams- Composite Section-Propped-Design of Propped
+Composite Section-Unpropped composite section- Two-stage Prestressing-Shrinking
+stresses-General Design requirements for Road Bridges.
+UNIT–V:
+Sub-Structure of Bridges: Substructure- Beds block-Piers- Pier Dimensions- Design loads
+for piers- Abutments- Design loads for Abutments.
+TEXT BOOKS:
+1. Design of Concrete Bridges, M. G. Aswani, V. N. Vazirani and M. M. Ratwani
+2. Essentials of Bridge Engineering, Johson Victor, Oxford & IBH
+REFERENCES:
+3. Bridge Deck Behaviour, E. C. Hambly
+4. Concrete Bridge Design and Practice, V. K. Raina
+5. Design of Bridges, V. V. Sastry, Dhanpat Rai & Co.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PC2ST03) STRUCTURAL ENGINEERING LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To understand the under reinforced and over reinforced failure of RC beam
+• To study the shear and bond characteristics in RC members
+• To comprehend the strengthening techniques for structural members
+• To understand the load carrying capacity of columns
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Distinguish the failure behaviour of under reinforced and over reinforced beams
+CO-2: Evaluate the shear capacity and pull-out strength in RC members
+CO-3: Apply the retrofitting techniques for RC members and Evaluate its
+characteristics
+CO-4: Determine the behaviour of columns under compression
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 2 2 - 3 2
+CO-2 2 2 2 - 3 2
+CO-3 2 2 2 2 3 3
+CO-4 2 2 2 - 3 2
+LIST OF EXPERIMENTS:
+1. Evaluation of tensile characteristics of HYSD bar and GFRP laminates
+2. Determination of pull-out strength of reinforcement embedded in concrete
+3. Evaluation of the flexural capacity of an under reinforced RC beam
+4. Evaluation of the flexural capacity of an over reinforced RC beam
+5. Determination of shear capacity of RC beams with and without shear
+reinforcement
+6. Determination of flexural characteristics of RC beam retrofitted with fibre wrapping
+technique
+7. Evaluate the confinement effect of fibre wraps on the compressive strength of
+concrete
+8. Estimation of load carrying capacity of an axially loaded RC column
+9. Measurement of force using strain gauge
+10. Determination of vibration characteristics of steel flat using PZT sensor
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PC2ST04) ADVANCED COMPUTER AIDED DESIGN LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To understand the importance of writing templates in Excel
+• To model the beams, frames and trusses
+• To analyze the beams, frames and trusses
+• To interpret the results from post processing
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Write the programs in Excel
+CO-2: Analyze the Beams, Portal Frames and Trusses using Staad Pro
+CO-3: Analyze and Design the Multistory RC Buildings for various loads using Staad Pro
+CO-4: Determine the stresses in plane stress and plane strain problems using ANSYS
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 2 1 - 2 -
+CO-2 2 2 2 - 3 -
+CO-3 2 2 2 - 3 -
+CO-4 3 2 3 - 3 -
+LIST OF EXPERIMENTS:
+1. Excel Template for the design of a Two-way Slab
+2. Excel Template for the design of an Isolated Square Footing
+3. Analysis of Continuous Beams
+4. Analysis of Portal Frames
+5. Analysis and Design of Steel Truss
+6. Analysis of Multistory RC Building for gravity loads
+7. Design of Beams and Columns of a Multistory RC Building for dead and live loads
+8. Analysis of Multistory RC Building for Wind loads
+9. Analysis of Multistory RC Building for Seismic loads
+10. Stress Analysis of Plane stress problems
+11. Stress Analysis of Plane strain problems
+12. Stress Analysis of Axi-symmetric problems
+Note: Staad Pro / Any other equivalent analysis software may be used.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PW4ST02) MINI-PROJECT
+TEACHING SCHEME
+L T/P C CIE SEE TOTAL
+0 4 2 40 60 100
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the formulated industry / technical / societal problems
+CO-2: Analyze and / or develop models for providing solution to industry / technical / societal
+problems
+CO-3: Interpret and arrive at conclusions from the project carried out
+CO-4: Demonstrate effective communication skills through oral presentation
+CO-5: Engage in effective written communication through project report
+COURSE OUTLINE:
+• A student shall undergo a mini-project during II semester of the M.Tech. programme.
+• A student, under the supervision of a faculty member, shall collect literature on an allotted
+project topic of his / her choice, critically review the literature, carry out the project work,
+submit it to the department in a prescribed report form and shall make an oral presentation
+before the departmental Project Review Committee.
+• Evaluation of the mini-project shall consist of CIE and SEE and shall be done by a Project
+Review Committee (PRC) consisting of the Head of the Department, faculty supervisor and
+a senior faculty member of the specialization / department.
+• CIE shall be carried out for 40 marks on the basis of review presentation as per the calendar
+dates and evaluation format.
+• SEE shall be carried out at the end of semester fpr 60 marks on the basis of oral presentation
+and submission of mini-project report.
+• Prior to the submission of mini-project report to the PRC, its soft copy shall be submitted to
+the PG Coordinator for PLAGIARISM check.
+• The mini-project report shall be accepted for submission to the PRC only upon meeting the
+prescribed similarity index of less than 25%.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22MN6HS02) ANCIENT WISDOM
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE-I SE-II SEE TOTAL
+2 0 0 50 50 - 100
+COURSE OBJECTIVES:
+• To introduce the contribution from Ancient Indian system & tradition to modern
+science & Technology
+• To trace, identify and develop the ancient knowledge systems
+• To introduce the sense of responsibility, duties and participation of individual for
+establishment of fearless society
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Familiarize learners with major sequential development in Indian science,
+engineering and technology
+CO-2: Understand eco-friendly, robust and scientific planning and architecture system
+of ancient India
+CO-3: Trace, identify, practice and develop the significant Indian mathematic and
+astronomical knowledge
+CO-4: Understand the importance of Indian aesthetics in individual realization of the
+truth arises by realizing the harmony within
+UNIT-I:
+Indian Science & Technology: Indian S & T Heritage, sixty-four art forms and
+occupational skills (64 Kalas)
+Ancient Architecture:
+Scientific Achievements though Ancient Architect: Musical Pillars of Vitthal temple,
+Sundial of konark temple, construction of eight shiva temple in straight line from
+Kedarnath to rameshwaram at longitude 79oE 41’54, Veerbhadra temple with 70
+hanging pillars
+UNIT-II:
+Foundation Concept for Science and Technology: The Introduction to Ancient
+Mathematics & Astronomy Introduction to Brief introduction of inception of
+Mathematics & Astronomy from vedic periods. Details of different authors who has
+given mathematical & astronomical sutra (e.g. arytabhatta, bhaskara, brahmagupta,
+varamahira, budhyana, yajanvlkya, panini, pingala, 22 bharat muni, sripati,
+mahaviracharya, madhava, Nilakantha somyaji, jyeshthadeva, bhaskara-II, shridhara
+Number System and Units of Measurement, concept of zero and its importance, Large
+numbers & their representation, Place Value of Numerals, Decimal System,
+Measurements for time, distance and weight, Unique approaches to represent
+numbers (Bhūta Saṃkhya System, Kaṭapayādi System), Pingala and the Binary system,
+Knowledge Pyramid
+Indian Mathematics, Great Mathematicians and their contributions, Arithmetic
+Operations, Geometry (Sulba Sutras, Aryabhatiya-bhasya), value of 𝜋, Trigonometry,
+Algebra, Chandah Sastra of Pingala, Indian Astronomy, celestial coordinate system,
+Elements of the Indian Calendar Aryabhatiya and the Siddhantic Tradition Pancanga
+– The Indian Calendar System
+UNIT-III:
+Humanities & Social Sciences: Health, Wellness & Psychology, Ayurveda Sleep and
+Food, Role of water in wellbeing Yoga way of life Indian approach to Psychology, the
+Triguṇa System Body-Mind-IntellectConsciousness Complex. Governance, Public
+Administration & Management reference to ramayana, Artha Sastra, Kauṭilyan State
+UNIT-IV:
+Aspiration and Purpose of Individual and Human Society: Aims of Human life; at
+individual level and societal level. At societal level; Four purusarthas Dharma, Artha,
+Kama, Moksha.
+Individual Level:
+Program for Ensuring Human Purpose:
+Fundamental Concept of Nitishastra: Satyanishtha Aur Abhiruchi (Ethics, Integrity &
+aptitude). The true nature of self; Shiksha Valli, Bhrigu Valli (concept of Atman-
+Brahman (self, soul).
+The True Constitution of Human: Ananda Valli (Annamaya Kosha, Pranamaya Kosha,
+Manomaya Kosha, Vijnanamaya Kosha, Anandamaya Kosha). The four states of
+consciousness (Waking state, Dreaming state, Deep Sleep State, Turiya the fourth
+state), Consciousness (seven limbs and nineteen mouths), Prajna, Awarness. The Life
+Force Prana (Praana-Apaana-Vyaana-Udaana- Samaana
+Ancient Indian Science (Ayurveda & Yoga)
+Ayurveda for Life, Health and Well-being: Introduction to Ayurveda: understanding
+Human body and Pancha maha bhuta, the communication between body & mind,
+health
+Introduction to Yoga: Definition, Meaning and objectives of Yoga, Relevance of yoga
+in modern age. the six cleansing procedures of Yoga, understanding of Indian
+psychological concept, consciousness, tridosha & triguna.
+UNIT-V:
+Five Important Slokas for Enlightenment
+Gayatri Mantram, Santi Mantram: Asatoma Sadgamaya, Geeta (Yada Yadahi
+Dharmasya, Glanirbhavati Bharata), Amanitwam Adambitwam..,
+Karmanyevadikarastu… Maa phaleshukadachana
+TEXT BOOKS:
+1. Textbook on Indian Knowledge Systems, Prof. B Mahadevan, IIM Bengaluru
+2. Indian Knowledge Systems, Kapur K. and Singh A. K., 2005
+REFERENCES:
+1. Tatvabodh of Sankaracharya, Central Chinmay Mission Trust, Bombay, 1995
+2. Value and Distribution System in India, B. L. Gupta, Gyan Publication House
+3. Ancient Indian Culture and Civilization, Reshmi Ramdhoni, Star Publication, 2018
+4. Ancient Indian Society, Maharaj Swami Chidatmanjee, Anmol Publication
+5. Ancient Indian Classical Music, Lalita Ramkrishna, Shubhi Publications
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22PE1ST21) REPAIR, REHABILITATION AND RETROFITTING OF STRUCTURES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the causes of deterioration of structures
+• To understand various Non-Destructive Evaluation tests for assessment of health of
+a structure
+• To know various repair materials and their properties
+• To understand various repair strategies for rehabilitation and retrofitting of
+structures.
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Identify the causes of deterioration of structures
+CO-2: Perform various Non-Destructive Evaluation tests and asses the health of a
+structure
+CO-3: Suggest suitable repair material for concrete
+CO-4: Suggest suitable repair technique for the rehabilitation of a structure
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 - 3 1 - 1
+CO-2 3 - 3 - 1 1
+CO-3 3 - 3 1 - 1
+CO-4 3 - 3 - 1 1
+UNIT–I:
+Causes of Deterioration and Durability Aspects: Holistic Model for Deterioration of
+RCC; Permeability of Concrete: Capillary Porosity, Air Void, Micro and Macro Cracks;
+Aggressive Deteriorating Chemical Agents: Corrosion of reinforcing bars, Sulphate
+Attack, Alkali Silica Reaction, Intrinsic and Extrinsic Causes and Stages of Distress.
+UNIT–II:
+Condition Survey and Non-Destructive Evaluation: Definition, Objective, Stages,
+Consideration for Repair Strategy.
+Non-Destructive Evaluation Tests: Concrete Strength Assessment: Rebound Hammer
+Test, Ultrasonic Pulse Velocity (UPV) Test, Penetration Resistance (Windsor Probe and;
+PNR Test), Pull-out (LOK) Test, Core Sampling and Testing; Chemical Tests: Carbonation
+Test, Chloride Content; Corrosion Potential Assessment: Cover meter survey, Half-cell
+potential survey, Resistivity Measurement.
+UNIT–III:
+Selection of Repair Materials for Concrete: Essential Parameters for Repair Materials;
+Materials for Repair: Premixed Cement Concrete/Mortars: Cements, Mineral and
+Chemical Admixtures, Water Cement Ratio; Epoxies and Epoxy Systems including
+Epoxy Mortars/Concretes: Epoxies, Modifies Epoxy Systems, Precautions to be taken,
+Field of Applications; Polyester Resins; Surface Coatings: Essential Parameters for
+coatings, Types of surface coatings.
+Polymer Modified Mortars and Concrete (PMM/PMC): Materials, Process of Polymer
+Modification in Cement Concrete/Mortar, Composition of Polymers, General
+Requirements, Classification and Properties of Polymer Latexes, Physical and
+Mechanical Properties of Polymer Modified Mortars/Concretes, Mix Proportioning,
+General Guidelines and; Precautions for use of Polymer Modified Cement
+Mortar/Concrete, Field of Applications.
+UNIT–IV:
+Rehabilitation and Retrofitting Methods: Repair options; Performance Requirements of
+Repair Systems; Important factors to be considered for Selection of Repair Methods;
+Repair Stages; Repair Methods: Repairs using Mortars, Dry Pack and Epoxy Bonded
+Dry Pack, Pre- placed Aggregate Concrete (PAC), Shotcrete, Concrete
+Replacement, Epoxy Bonded Concrete, Silica Fume Concrete, Polymer Concrete
+System, Strengthening Concrete by Surface Impregnation using Vacuum Methods,
+Thin Polymer Overlays, Thin Epoxy Overlays, Resin/Polymer Modified Cement Slurry
+Injection, Protective Seal Coats on the Entire Surface.
+UNIT–V:
+Repair Methods: Ferro-cement, Plate Bonding, RCC Jacketing, Propping and
+Supporting, Fibre Wrap Technique, Foundation Rehabilitation Methods, Chemical and
+Electro-chemical Methods of Repair; Repair/Rehabilitation Strategies – Stress
+Reduction, Repair/Strengthening of Columns, Beams and Slabs, Compressive Strength
+of Concrete, Cracks/Joints, Masonry, Protection, Foundation, Base Isolation.
+TEXT BOOKS:
+1. Handbook on Repair and Rehabilitation of RCC Buildings, Director General
+(Works), Central Public Works Department (CPWD), Government of India Press,
+New Delhi
+2. Concrete – Microstructure, Properties and Materials, Mehta P. K. and Monteiro P.
+J., McGraw-Hill
+REFERENCES:
+1. Concrete Structures – Protection, Repair and Rehabilitation, Woodson R. D.,
+Butterworth-Heinemann, Elsevier
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22PE1ST22) PRE-ENGINEERED BUILDINGS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To distinguish between conventional steel buildings and Pre-Engineered Buildings
+(PEB)
+• To identify the Pre-Engineered Building components
+• To estimate the loads on Pre-Engineered Buildings
+• To identify the various design parameters of PEB frames
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understand the functions of primary system, secondary system and bracing
+system of PEB components
+CO-2: Calculate the dead, live, wind and seismic loads acting on PEB’s
+CO-3: Check the structural stability of PEB’s
+CO-4: Analyze and design the PEB’s
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 - 3 - 2 2
+CO-2 2 - 3 - 2 2
+CO-3 3 - 3 - 2 3
+CO-4 3 - 3 - 2 3
+UNIT–I:
+Introduction to Pre-Engineered Buildings: Introduction – History - Advantages of PEB -
+Applications of PEB – Materials used for manufacturing of PEB - Differences between
+Conventional Steel Buildings and Pre- Engineered Buildings.
+UNIT–II:
+Pre-Engineered Building Components: Primary system: Main frames, Gable End frame
+- Secondary system: Sizes and Properties of Purlins & Girts – Bracing System: Rod, angle,
+Portal, Pipe bracing – Sheeting and Cladding: Roof Sheeting and Wall sheeting –
+Accessories: Turbo Ventilators, Ridge vents, Sky Lights, Louvers, Insulation, Stair cases.
+UNIT–III:
+Design Loads on Pre-Engineered Buildings: Design of PEB frame under the influence of
+Dead, Live, Collateral, Wind, Seismic and other applicable Loads - Serviceability limits
+as per code, Design parameters for PEB frames - Depth of the section, Depth to Flange
+width ratios, Thickness of Flange to Thickness of Web ratios of sections - Section sizes as
+per manufacturing limitations.
+UNIT–IV:
+Structural Stability of Pre-Engineered Buildings: Shear buckling effect (d/t ratio
+exceeding 67ε) - Effective cross-sectional area concept for compression members
+(d/t ratio exceeding 42ε) - Effect of d/t ratio for flexural members according to section
+classifications - Bracing system: Flange Bracing, Rod Bracing, Angle Bracing, Portal
+Bracing, Design bending and shear capacity – column, rafter.
+UNIT–V:
+Analysis and Design of Pre-Engineered Buildings: Analysis and Design of Rigid Frames
+- Rigid Frame Moment Connection, Shear Connection - Anchor bolt and base plate
+design - Pinned and Fixed
+TEXT BOOKS:
+1. Pre-Engineered Steel Building, K. S. Vivek und P. Vyshnavi, Lambert Academic
+Publishing
+2. Metal Building Systems: Design and Specifications, Alexander Newman, McGraw
+Hill
+REFERENCES:
+1. Pre-Engineered Metal Building Iron Worker, Red-Hot Careers, Create Space
+Independent Publishing Platform
+2. Pre-Engineered Metal Building Systems, Labsori
+CODE BOOKS:
+1. IS 800 : 2007 – General Construction in Steel – Code of Practice
+2. IS 875 (Part 3) : 2015 – Design Loads (Other than Earthquake) for Buildings and
+Structures – Code of Practice
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22PE1ST23) DESIGN OF STEEL-CONCRETE COMPOSITE STRUCTURES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To distinguish between conventional and composite construction
+• To understand the design concepts of beam and column composite construction
+• To know the design of composite truss construction
+• To understand the design concepts of composite girder bridges
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Identify the behaviour of composite beams and columns
+CO-2: Design composite beams, columns and trusses
+CO-3: Design connections in composite structures
+CO-4: Identify the behaviour of composite girder bridges
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 - 3 - 1 1
+CO-2 3 - 3 - 1 2
+CO-3 3 - 3 - 1 2
+CO-4 2 - 3 - 1 1
+UNIT–I:
+Introduction: Introduction to Steel - Concrete Composite Construction - Theory of
+Composite Structures - Introduction to Steel - Concrete - Steel - Sandwich Construction
+- Behaviour of composite beams and columns.
+UNIT-II:
+Design of Composite Beam and Columns: Introduction to Steel - Concrete Composite
+beams and columns - types of loads acting - Design of Composite beams – Design of
+Composite Columns.
+UNIT-III:
+Design of Composite Trusses: Introduction to Steel - Concrete Composite trusses -
+types of loads acting - Design of Composite Trusses.
+UNIT-IV:
+Design of Connections: Types of Connections - Design of Connections in Composite
+structures - Shear Connections - Design of Connections in composite trusses.
+UNIT-V:
+Composite Girder Bridges & Case Studies: Behaviour of girder bridges - Design
+concepts. Case Studies on steel - concrete composite construction structures in
+buildings - Seismic behaviour of composite structures and design methods
+TEXT BOOKS:
+1. Teaching Resource Material for Structural Steel Design, Volume 2/3 jointly
+prepared, 1. I.I.T., MS 2. Anna University 2. SERC, MS 4. Institute for Steel
+Development and growth, Calcutta
+2. Steel Designs Manual, Owens G. W., & Knowels P., 6th Edition, Steel Concrete
+REFERENCES:
+1. Composite Structures of Steel and Concrete, Johnson R. P., 2nd Edition, Blackwell
+Scientific Publications, 2001
+2. Steel Designers Manual, Owens G. W. and Knowels P, 5th Edition, Oxford Blackwell
+Scientific Publications, 2000
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22PE1ST24) UNDERWATER CONSTRUCTION
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the basics and importance of under-water construction
+• To know the different excavation techniques
+• To explain the different requirements for shoring and underpinning
+• To understand the different tunneling methods for various conditions
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Identify correct site and other requirements for tunneling
+CO-2: Check stability of slopes for coastal structures and Design offshore platforms
+CO-3: Apply correct tunnelling technique for various types of rocks
+CO-4: Design deep water foundation for structures
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 - 3 - - -
+CO-2 3 - 3 - 1 1
+CO-3 2 - 3 - 1 1
+CO-4 3 - 3 - 2 2
+UNIT–I:
+Introduction: Introduction - site preparation - temporary roads - site drainage - deep
+trench and deep basement excavations - bulk excavation.
+UNIT-II:
+Coastal Structures: Coastal structures - stability of slopes to open excavations - support
+of excavation by timbering and sheet piling.
+UNIT-III:
+Offshore Platforms: Offshore Platforms - retaining walls and sheet pile design -
+requirements for shorting and underpinning - methods of shoring of Underpinning.
+UNIT-IV:
+Tunneling: Dewatering and Groundwater Control for Soft Ground Tunneling -
+Tunneling in touch, medium-tough and soft rocks - tunneling by bors shield tunneling.
+UNIT-V:
+Deep Water Foundations: Deep water foundations - Design of piles - pile load tests -
+Foundation design for dynamic conditions.
+TEXT BOOKS:
+1. Construction of Marine and Offshore Structures, Ben C. Gerwick Jr., 3rd Edition, CRC
+Press, 2007
+2. Construction Dewatering: New Methods and Applications, Patrick Powers J., John
+Wiley and Sons, 1992
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22PE1ST25) CONSTRUCTION TECHNOLOGY AND PROJECT MANAGEMENT
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand role of project management
+• To learn preparation of project schedules and life cycle cost
+• To learn about critical construction management
+• To understand about on BOT, BOOT & PP projects
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Develop organization structure of construction company
+CO-2: Estimate project cost and develop cost models
+CO-3: Prepare contract documents
+CO-4: Explain the importance of construction safety
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 - - 2 1 - -
+CO-2 - 1 3 1 1 -
+CO-3 - 3 3 2 - -
+CO-4 - - 2 1 - 3
+UNIT-I:
+Introduction to Project Management: Construction as industry and its challenges, Role
+of Project management, systems approach, systems theory and Concepts,
+Organisation, Management Functions, Overview of Management Objectives, Tools
+and Techniques, Life cycle of construction projects, time estimates and construction
+schedules, CPM and PERT, Linear programming, queuing concept, simulation, bidding
+models, game theory
+UNIT-II:
+Project Cost Estimation: Approximate cost, detailed cost estimates, administrative
+approval and expenditure sanctions, rate analysis by client and contractor, bidding
+processes and strategies, Pre-qualification of bidders
+UNIT-III:
+Construction Equipment: Equipment economics, Excavators, Rollers, Dozers, Scrapers,
+Handling equipment, Concrete equipment, Cranes, Draglines and Clamshells. various
+itemsof construction : Earthwork, Excavation, Earth- moving, Drilling, Blasting,
+dewatering, foundation, Finishing items
+UNIT-IV:
+Contract Management: Why law is critical to construction management, contract, its
+definition, Indian contract Act, documents forming a contract, Tendering and
+contractual procedures, stages of awarding contract, general conditions of Indian
+(domestic) contracts, General conditions of International contracts (FIDIC), contract
+administration; Duties and responsibilities of parties; important site documents,
+importance of standards and codes incontract documents.
+UNIT-V:
+Quality Management and Safety in Construction Industry: Quality control by statistical
+methods, sampling plan, control charts, ISO standards, Safety Measures, Personnel,
+Fire and Electrical safety, Safety Programmes, Safety Awareness and Implementation
+of Safety Plan - Compensation
+TEXT BOOKS:
+1. A Guide to Quantity Surveyors, Engineers Architects and Builders (Vol. I: Taking Off
+Quantities, Abstracting & Billing; Vol II: Analysis of Prices), Kharb K. S.
+2. Construction Project Management, K. K. Chitkara, Tata McGraw Hill Education
+REFERENCES:
+1. Construction Technology, Subir K. Sarkar, Subhajit Saraswati, Oxford University Press
+2. Construction Project Management – Theory and Practice, Kumar Neeraj Jha,
+Pearson Education
+3. Project Planning and Control with PERT and CPM, B. C. Punmia, K. K. Khandelwala,
+Laxmi Publications
+4. Construction Planning & Management, U. K. Srivastava, Galgotia Publications
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22OE1CN01) BUSINESS ANALYTICS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the role of business analytics within an organization and to analyze
+data using statistical and data mining techniques and understand relationships
+between the underlying business processes of an organization
+• To gain an understanding of how managers use business analytics to formulate
+and solve business problems and to support managerial decision making and to
+become familiar with processes needed to develop, report, and analyze business
+data
+• To use decision-making tools/Operations research techniques and to manage
+business process using analytical and management tools
+• To analyze and solve problems from different industries such as manufacturing,
+service, retail, software, banking and finance, sports, pharmaceutical, aerospace
+etc.
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply knowledge of data analytics
+CO-2: Think critically in making decisions based on data and deep analytics
+CO-3: Use technical skills in predicative and prescriptive modeling to support business
+decision-making
+CO-4: Translate data into clear, actionable insights
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 - 1 - 1 1
+CO-2 3 - 2 - 1 2
+CO-3 2 1 1 - 1 1
+CO-4 1 2 1 - 1 1
+UNIT-I:
+Business Analytics: Overview of Business analytics, Scope of Business analytics, Business
+Analytics Process, Relationship of Business Analytics Process and organization,
+competitive advantages of Business Analytics.
+Statistical Tools: Statistical Notation, Descriptive Statistical methods, Review of
+probability distribution and data modelling, sampling and estimation methods
+overview.
+UNIT-II:
+Trendiness and Regression Analysis: Modelling Relationships and Trends in Data,
+simple Linear Regression. Important Resources, Business Analytics Personnel, Data and
+models for Business analytics, problem solving, Visualizing and Exploring Data Business
+Analytics Technology.
+UNIT-III:
+Organization Structures of Business analytics, Team management, Management
+Issues, Designing Information Policy, Outsourcing, Ensuring Data Quality, Measuring
+contribution of Business analytics, Managing Changes.
+Descriptive Analytics, predictive analytics, predicative Modelling, Predictive analytics
+analysis, Data Mining, Data Mining Methodologies, Prescriptive analytics and its step
+in the business analytics Process, Prescriptive Modelling, nonlinear Optimization.
+UNIT-IV:
+Forecasting Techniques: Qualitative and Judgmental Forecasting, Statistical
+Forecasting Models, Forecasting Models for Stationary Time Series, Forecasting Models
+for Time Series with a Linear Trend, Forecasting Time Series with Seasonality,
+Regression Forecasting with Casual Variables, Selecting Appropriate Forecasting
+Models.
+Monte Carlo Simulation and Risk Analysis: Monte Carle Simulation Using Analytic
+Solver Platform, New-Product Development Model, Newsvendor Model, Overbooking
+Model, Cash Budget Model.
+UNIT-V:
+Decision Analysis: Formulating Decision Problems, Decision Strategies without
+Outcome Probabilities, Decision Trees, The Value of Information, Utility and Decision
+Making.
+Recent trends in Embedded and collaborative business intelligence, Visual data
+recovery, Data Storytelling and Data journalism.
+TEXT BOOKS:
+1. Business Analytics-Principles, Concepts, and Applications, Marc J. Schniederjans,
+Dara G. Schniederjans, Christopher M. Starkey, Pearson FT Press
+2. Business Analytics, James Evans, Pearson Education
+3. Business Analytics, Purba Halady Rao, PHI, 2013
+REFERENCES:
+1. Business Analytics for Managers: Taking Business Intelligence Beyond Reporting,
+Gert H. N. Laursen, Jesper Thorlund, 2nd Edition, Wiley Publications
+2. Business Analytics: Data Analysis & Decision Making, S. Christian Albright, Wayne L.
+Winston, 5th Edition, 2015
+3. Business Intelligence Guidebook: From Data Integration to Analytics, Rick Sherman
+Elsevier, 2014
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22OE1AM01) INDUSTRIAL SAFETY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Elements of Mechanical, Civil, Electrical and Industrial
+Engineering
+COURSE OBJECTIVES:
+• To achieve an understanding of principles, various functions and activities of safety
+management
+• To communicate effectively information on Health safety and environment
+facilitating collaboration with experts across various disciplines so as to create and
+execute safe methodology in complex engineering activities
+• To anticipate, recognize, and evaluate hazardous conditions and practices
+affecting people, property and the environment, develop and evaluate
+appropriate strategies designed to mitigate risk
+• To develop professional and ethical attitude with awareness of current legal issues
+by rendering expertise to wide range of industries
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply risk management principles to anticipate, identify, evaluate and control
+physical, chemical, biological and psychosocial hazards
+CO-2: Communicate effectively on health and safety matters among the employees
+and with society at large
+CO-3: Demonstrate the use of state of the art occupational health and safety
+practices in controlling risks of complex engineering activities and understand their
+limitations
+CO-4: Interpret and apply legislative / legal requirements, industry standards, and best
+practices in accident prevention programmes in a variety of workplaces
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 3 2 2 3 1
+CO-2 - - - - 2 3
+CO-3 3 1 2 1 - -
+CO-4 - 2 - 1 - 2
+UNIT-I:
+Safety Management: Evaluation of modern safety concepts – Safety management
+functions – safety organization, safety department – safety committee, safety audit -
+performance measurements and motivation – employee participation in safety and
+productivity.
+UNIT-II:
+Operational Safety: Hot metal Operation – Boiler, pressure vessels – heat treatment
+shop - gas furnace operation-electroplating-hot bending pipes – Safety in welding
+and cutting. Cold-metal Operation- Safety in Machine shop- metal cutting – shot
+blasting, grinding, painting – power press and other machines.
+Safe Handling and Storage: Material Handling, Compressed Gas Cylinders, Corrosive
+Substances, Hydrocarbons, Waste Drums and Containers
+UNIT-III:
+Safety Measures: Layout design and material handling - Use of electricity –
+Management of toxic gases and chemicals – Industrial fires and prevention – Road
+safety– Safety of sewage disposal and cleaning – Control of environmental pollution
+– Managing emergencies in industrial hazards.
+UNIT-IV:
+Accident Prevention: Human side of safety – personal protective equipment – Causes
+and cost of accidents. Accident prevention programmes - Specific hazard control
+strategies - HAZOP – Training and development of employees – First Aid – Fire fighting
+devices – Accident reporting investigation.
+UNIT-V:
+Safety, Health, Welfare & Laws: Safety and health standards – Industrial hygiene –
+occupational diseases prevention - Welfare facilities – History of legislations related to
+safety–pressure vessel act- Indian boiler act- The environmental protection act –
+Electricity act - Explosive act.
+TEXT BOOKS:
+1. Safety Management, John V. Grimaldi and Rollin H. Simonds, All India Travellers
+Bookseller, New Delhi, 1989
+2. Safety Management in Industry, Krishnan N. V., Jaico Publishing House, 1996
+REFERENCES:
+1. Occupational Safety Manual, BHEL
+2. Industrial Safety and The Law, P. M. C. Nair Publisher’s, Trivandrum
+3. Managing Emergencies in Industries, Loss Prevention of India Ltd., Proceedings,
+1999
+4. Safety Security and Risk Management, U. K. Singh & J. M. Dewan, A. P. H. Publishing
+Company, New Delhi, 1996
+5. Industrial Safety Management: Hazard Identification and Risk Control, L. M.
+Deshmukh, McGraw-Hill, 2005
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22OE1AM02) OPERATIONS RESEARCH
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To analyze linear programming models in practical and their practical use
+• To apply the transportation, assignment and sequencing models and their solution
+methodology for solving problems
+• To apply inventory and queuing, inventory models and their solution methodology
+for solving problems
+• To evaluate the simulation models
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Evaluate the problems using linear programming
+CO-2: Analyze assignment, transportation problems
+CO-3: Apply inventory and queuing problems for real time problems
+CO-4: Model the real-world problem and simulate it
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 3 3 2 - -
+CO-2 1 3 3 3 - -
+CO-3 1 3 3 3 - -
+CO-4 1 3 3 3 - -
+UNIT-I:
+Introduction to Operations Research: Definitions of OR, Characteristics of OR, Scope
+of OR, Classification of Optimization Techniques, models in OR, General L.P
+Formulation, Graphical solution, Simplex Techniques.
+Allocation: Linear Programming Problem Formulation- Graphical solution-Simplex
+method-Artificial variables technique-Two phase method, Big-M Method-Duality
+Principle.
+UNIT-II:
+Transportation Problem: Formulation-Optimal solution-unbalanced transportation
+problem-Degeneracy. Assignment problem-Formulation-Optimal solution-Variations
+of Assignment Problem-Travelling Salesman Problem.
+Sequencing: Introduction-Flow Shop sequencing-n jobs through two machines-n jobs
+through three machines-Job shop sequencing-two jobs through m machines.
+UNIT-III:
+Waiting Lines: Introduction-Single channel-Poisson arrivals-exponential service times-
+with infinite population and finite population models-Multichannel-Poisson arrivals-
+exponential service times with infinite population single channel Poisson arrivals.
+UNIT-IV:
+Inventory Models: Deterministic inventory, models - Probabilistic inventory control
+models
+UNIT-V:
+Simulation: Definition-Types of simulation models-phases of simulation-applications of
+simulation Inventory and Queuing problems-Advantages and Disadvantages-Brief
+Introduction of Simulation Languages.
+TEXT BOOKS:
+1. Operations Research, S. D. Sharma, Kedarnath Ramnath, Meerut, New Delhi
+2. Engineering Optimization, S. S. Rao, New Age International Publications, 2014
+3. Introduction to Genetic Algorithms, S. N. Sivanandam, Springer
+REFERENCES:
+1. Operations Research-An Introduction, H. A. Taha, PHI, 2008
+2. Principles of Operations Research, H. M. Wagner, PHI, Delhi, 1982
+3. Introduction to Optimization: Operations Research, J. C. Pant, Jain Brothers, Delhi,
+2008
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22OE1AM03) ENTREPRENEURSHIP AND START-UPS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To motivate the engineers to inculcate the skills thereof in any professional role and
+to consider intrapreneurship or entrepreneurship as career choices for personal
+and societal growth
+• To understand different Theories of Entrepreneurship and their Classification
+• To create Feasibility Reports, Business, Project Plans and resolve Operational
+problems
+• To understand the roles of Family, non-family entrepreneurs and learning about
+Startups’ Opportunities, Corporate Legal and Intellectual Property related issues
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the role of an entrepreneur in the economic development and
+discover societal problems as entrepreneurial opportunities and ideate to develop
+solutions through systematic and creative approaches to innovation and business
+strategy
+CO-2: Learn different Theories of entrepreneurship, the role of Family and Non-Family
+entrepreneurs and problem-solving skills
+CO-3: Create Marketing, Financial Plans and evaluate Structural, Financial and
+Managerial Problems
+CO-4: Apply lean methodology to startup ideas using Business Model Canvas and be
+able to create Business Plans through establishing business incubators. Understand
+Corporate Legal and Intellectual Property related matters
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 1 3 2 - 3
+CO-2 1 - - - - 2
+CO-3 1 - - - - 2
+CO-4 - - - 1 - -
+UNIT-I:
+Entrepreneurship: Definition of Entrepreneur, Entrepreneurial motivation and barriers;
+Internal and external factors; Types of entrepreneurs, Personality and Skill Set of an
+Entrepreneur, Entrepreneurship as a career for engineers, scientists, and technologists.
+UNIT-II:
+Theories of Entrepreneurship: Classification of entrepreneurship. Creativity and
+Innovation: Creative Problems Solving, Creative Thinking, Lateral Thinking, Views of De
+Bono, Khandwala and others, Creative Performance in terms of motivation and skills.
+Family and Non-Family Entrepreneurs: Role of Professionals, Professionalism vs. family
+entrepreneurs, Role of Woman entrepreneur, Sick industries, Reasons for Sickness,
+Remedies for Sickness, Role of BIFR in revival, Bank Syndications.
+UNIT-III:
+Creativity and Entrepreneurial Plan: Idea Generation, Screening and Project
+Identification, Creative Performance, Feasibility Analysis: Economic, Marketing,
+Financial and Technical; Project Planning, Evaluation, Monitoring and Control,
+segmentation, Targeting and positioning of Product, Role of SIDBI in Project
+Management.
+UNIT-IV:
+Operation Problems: Incubation and Take-off, Problems encountered Structural,
+Financial and Managerial Problems, Types of Uncertainty. Institutional support for new
+ventures: Supporting organizations; Incentives and facilities; Financial Institutions and
+Small-scale Industries, Govt. Policies for SSIs.
+UNIT-V:
+Startups’ Opportunity Assessment, Business Models, Entrepreneur talk, Clinical/
+Regulatory, Sector Specific Group Briefing by Advisory Committee, Corporate Legal
+and Intellectual Property, Pitching, Payers and Reimbursement, Pitch practice,
+Investors, Mistakes I Won’t Repeat, Business Development and Exits, Finance,
+Budgeting, Team Building, Opportunities in Telangana State and India – incubators,
+schemes, accelerators.
+TEXT BOOKS:
+1. Understanding Enterprise: Entrepreneurship and Small Business, Bridge S. et al.,
+Palgrave, 2003
+2. Holt- Entrepreneurship: New Venture Creation, Prentice-Hall, 1998
+3. Entrepreneurship Development, Robert D. Hisrich, Michael P. Peters, Tata McGraw
+Hill Edition
+REFERENCES:
+1. New Venture Creation: An Innovator’s Guide to Entrepreneurship, Marc H. Meyer
+and Frederick G. Crane, 2nd Edition, Sage Publications
+2. Technology Ventures: From Idea to Enterprise, Byers, Dorf, Nelson
+3. Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist - Feld,
+Mendelson, Costolo
+4. Breakthrough Entrepreneurship, Burgstone and Murphy
+5. Business Model Generation, Alexander Osterwalder
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22OE1PL01) WASTE TO ENERGY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To create awareness in students of energy conservation
+• To identify the use of different types of Bio waste energy resources
+• To understand different types of bio waste energy conservations
+• To detect different waste conversion into different forms of energy
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Find different types of energy from waste to produce electrical power
+CO-2: Estimate the use of bio waste to produce electrical energy
+CO-3: Understanding different types of bio waste and its energy conversions
+CO-4: Analyze the bio waste utilization and to avoid the environmental pollution
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 2 3 1 2 1
+CO-2 3 3 3 3 2 3
+CO-3 3 2 3 2 2 3
+CO-4 3 3 3 3 2 3
+UNIT-I:
+Introduction to Energy From Waste: Classification of waste as fuel, Agro based, Forest
+residue, Industrial waste, MSW (Municipal solid waste) – Conversion devices –
+Incinerators, Gasifiers, Digestors. Urban waste to energy conversion, Biomass energy
+Programme in India.
+UNIT-II:
+Biomass Pyrolysis: Pyrolysis – Types, slow fast – Manufacture of charcoal – Methods -
+Yields and application – Manufacture of pyrolytic oils and gases, yields and
+applications.
+UNIT-III:
+Biomass Gasification: Gasifiers – Fixed bed system – Downdraft and updraft gasifiers –
+Fluidized bed gasifiers – Design, construction and operation – Gasifier burner
+arrangement for thermal heating – Gasifier engine arrangement and electrical
+power.
+UNIT-IV:
+Biomass Combustion: Biomass stoves – Improved chullahs, types, some exotic designs,
+Fixed bed combustors, Types, inclined grate combustors, Fluidized bed combustors,
+Design, construction and operation - Operation of all the above biomass combustors.
+UNIT-V:
+Biogas: Properties of biogas (Calorific value and composition) - Biogas plant
+technology and status - Bio energy system - Design and constructional features -
+Biomass resources and their classification - Biomass conversion processes - Thermo
+chemical conversion - Direct combustion - biomass gasification - pyrolysis and
+liquefaction - biochemical conversion - anaerobic digestion.
+Types of biogas Plants – Applications - Alcohol production from biomass - Bio diesel
+production - Urban waste to energy conversion - Biomass energy programme in India.
+TEXT BOOKS:
+1. Biogas Technology-Transfer and Diffusion, M. M. EL-Halwagi, Elsevier Applied
+Science Publisher, 1984
+2. Introduction to Biomass Energy Conversions, Sergio Capareda
+REFERENCES:
+1. Non-Conventional Energy, Desai Ashok V., Wiley Eastern Ltd., 1990
+2. Biogas Technology - A Practical Hand Book, Khandelwal K. C. and Mahdi S. S., Vol.
+I & II, Tata McGraw Hill, 1983
+3. Food, Feed and Fuel from Biomass, Challal D. S., IBH Publishing Co. Pvt. Ltd., 1991
+4. Biomass Conversion and Technology, C. Y. WereKo-Brobby and E. B. Hagan, John
+Wiley & Sons, 1996

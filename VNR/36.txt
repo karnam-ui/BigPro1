@@ -1,236 +1,470 @@
-SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/ece/36.pdf
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/ecedept/Faculty-and-Staff/36.pdf
 
 ================================================================================
 PDF CONTENT:
 ================================================================================
 
-Name: NAGALEELA SAIKAM
-Designation: Assistant Professor
-Department: ECE
-Mail ID: leela.saikam@gmail.com
-Experience (in years): 11 yrs Teaching: 11 yrs Research: 0 Others (if any, specify):
-1.Educational / Technical qualifications:
-S.No Level (UG / PG / Ph.D) Year of Specialization
-passing
-1 M.Tech 2015 VLSI System Design
-2 B.Tech 2008 Electronics and
+Name:Dr.RAJA KUMARI CHILUKURI
+Designation:Assistant Professor
+Department:Electronics& Communication Engineering
+Mail ID: rajakumari_ch@vnrvjiet.in
+Experience (in years): 17years Teaching: 17 years Research: NIL
+Others(if any, specify): NIL
+1. Educational / Technical qualifications:
+S.No Level (UG / PG / Ph.D) Year of passing Specialization
+1 Ph.D. 2024 Radar Signal processing
+2 M.Tech 2007 Applied Electronics
+3 B.Tech 2005 Electronics and
 Communications
-3 Secondary (10+2) 2004 MPC
-4 10th 2002
-1. Teaching and Learning:
-2.1. Teaching Interests: Microprocessors, EDC, Communication, VLSI Design, Digital
-Logic Design, CPLD&FPGA, Digital IC Design, Digital System Design with
-Programmable Devices, Scripting Languages for VLSI Design
-2.2. Novel Teaching & Learning Techniques adopted: WIT &WIL, LAB
-PROTOCOL, STORY BOARD
-2.3. Involvement in curriculum updating / Design: NIL
+Engineering
+4 Secondary (10+2) 2001 MPC
+5 10th 1999 SSC
+2. Teaching and Learning:
+2.1. Teaching Interests:
+Electromagnetic Theory and Transmission Lines, Antennas and Wave Propagation,
+Television and Video Engineering, Basic Electronics, Electronic Device Circuits,
+Electromagnetic Theory,Probability Theory and Stochastic Process, Digital television,
+Radar System ,wireless communication,Digital Electronics,Happiness and well Being.
+2.2. Novel Teaching & Learning Techniques adopted: WIT AND WIL,POGIL, Quiz, PPT,
+Group discussion.
+2.3. Involvement in curriculum updating / Design:
+ Involved in the designing of syllabus since the college has attained autonomy,
+ Involved in preparation of PO's and CO's for Basic Electronics Theory and
+Lab in the CBIT.
 3. Co-curricular and Extra-Curricular Activities
-3.1. Interests and Hobbies: listening to music, gardening, Reading Spiritual Books
-3.2. CCA/ECA Organized: NIL
+3.1. Interests and Hobbies: Interest in Teaching, Reading books and surfing internet
+3.2. CCA/ECA Organized:
+1. conducted various programs like technical quiz, seminars for students on own
+interest etc
+2. Organized I Year ECE Interaction Program with II Year Students and Fresher
+Party
+3. Collected essential things clothes, money, and food etc and distributed at a village
+during the floods under CBIT student society.
 3.3. CCA/ECA participated:
-• Student Induction Program-2021
-• Industrial visit to INCOIS in June-2022
-• Industrial visit to NRSC,Balanagar in March-2022
-• Industrial visit to ATC, Shamshabad in Nov-2024
-• Industrial visit to Ananth Technologies, Hi-tech city in July-2025
-3.4. Counseling and Mentoring Activity:
-• Mentoring 12 B.Tech students of 2021 batch
-• Mentoring 4 B.Tech students of 2022 batch
-• Class coordinator of ECE-1 of 2022 batch
-• Mentoring 10 B.Tech students of 2024 batch
-• Mentoring 10 B.Tech students of 2025 batch
+1. Participated in organizing blood donation camp in the college at SVCET and
+CBIT.
+2. Actively involved in Synapse-2013&2014&2015 and Sruthi in CBIT
+3. Actively involved in Convergence, Annual day, Culture day in VNRVJIET
+3.4. Counseling and Mentoring Activity: Counseled many students for pursue higher studies
+and supervior for summer 2020 online internship.
 3.5. Committees involved in:
 Department level:
-• Summer Internship file incharge
-Institute Level:
-• CDC Coordinator from ECE Department
-4.Conference / Workshop / Seminar / Guest Lectures :
-4.1.Conducted:
-1. “Exploring the Cutting-Edge Developments in VLSI Design” held from 18th
-to 23rd March 2024 (Online) organized by Dept. of ECE, VNRVJIET.
-4.2.Attended:
-1. Foundation Program in ICT For Education, Pedagogy For Online and
-Blended Teaching-Learning Process
-2.”Foundation Program in ICT for Education” conducted by IIT Bombay from
-13th SEP to 18th OCT,2018.
-3.One week FDP Program on “Embedded Systems & Interfacing Hands-on”
-jointly organised by Electronics and ICT Academies from June10-14,2019.
-4. One week FDP Program on VLSI Chip Design Hands-on using open source
-EDA” jointly organised by Electronics and ICT Academies from 8-
-12th July,2019
-5. Five-day online PDP on “NBA IN A NUTSHELL” organized by
-department of ECE, VNRVJIET held from 27th July-31st July,2020
-6. One week workshop on “VNR Initiaves and Awareness on OBE” organized
-by department of CSE in collaboration with CSI VNR SC from 6th July-11th
-July,2020.
-7. Two-week Online Faculty Development Programme on “Demystifying 5G
-RF ASICs” jointly organised by Electronics and ICT Academies held from
-24 August to 04 September 2020.
-8. Five day online National workshop on “Recent Trends in Microelectronic
-Devices,VLSI Circuits and their Applications” from 25th-29th Jan,2021
-organized by MERG,ECE, Koneru Lakshmaiah Educational Foundation.
-9. Two week Online FDP on System Design Methodologies for Embedded,
-IoT, AI, & HPC using Intel FPGA (19 - 30 April, 2021),conducted by
-NIT,Patna.
-10. Two-week Online Faculty Development Programme on “Embedded UVM
-open-source Emulation & Functional Verification” jointly organised by
-Electronics and ICT Academies held from 13-24 July 2020
-11. Participated in a Two-week ISTE STTP on “CMOS, Mixed Signal and
-Radio frequency VLSI Design” conducted by IIT Kharagpur from 30th Jan-
-4th Feb,2017.
-12. Completed NPTEL Online Certification Course on “Principles of
-Communication systems-1” with Elite from Jan-Apr,2019.
-13. Completed Coursera on “AI For Everyone” on Nov-26,2020.
-14. Attended one week FDP on “Trends and Challenges In Advanced VLSI
-System Design” organized by Dept.of E.C.E, S.R.K.R Engineering
-College(A) during 21st – 26th February 2022.
-15. Participated in SERB Sponsored International High-End Workshop on
-"Recent Trends in Semiconductor Devices/VLSI Chip Devices and its
-Sensor Applications", held from 23rd to 27th Jan, 2023 organized, by
-Microelectronics and VLSI Research Group (MERG), Department of ECE,
-Koneru Lakshmaiah Education Foundation (KL Deemed to be University),
-India.
-16. Participated in FDP on “Design and Implementation of Advanced VLSI
-Architectures” organized by the Department of ECE, Lakireddy Bali Reddy
-College of Engineering, Mylavaram, AP, from 13th-17th March-2023
-17. Participated in the Professional Development Programme on “Instructional
-Design and Delivery Systems” Conducted by NITTTR, Chennai from
-20.03.2023 to 25.03.2023.
-18. Attended FDP on “Analog and Mixed Signal Design using Synopsys Tool”
-from 26-06-23 to 30-06-23 conducted by SYNOPSYS.
-19. Attended a 3-day workshop on “VLSI RTL Design and Verification using
-Synopsys Tool” conducted by VLSI Guru Institute, Horamavu, Bangalore-
-560045, from 29th Jan-2nd Feb,2024.
-20. Attended One Week FDP on “Fundamentals of Chip Designing” organized
-by Dr. D. Y. Patil Institute of Technology, Department of Electronics and
-Telecommunication Engineering in association with BoS (E&TC) SPPU,
-ISVE and IEI From 22nd - 27th January, 2024.
-21. Completed NPTEL Online Certification Course on “CMOS VLSI Design”
-with a consolidated score of 90% (2% Topper) held during Jan-Mar,2024.
-22. Completed NPTEL Online Certification Course on “RTL TO GDSII” with
-a consolidated score of 90% (5% Topper) held during July-October,2024.
-23. Attended 5 days offline workshop on:RTL to GDSII using Synopsys Tools
-during November 19th 2024 to November 23rd 2024 conducted by
-GNITS,Hyderabad.
-24. Attended 40 hours online FDP on “Mixed Signal CMOS VLSI Design and
-Applications” sponsored by Ministry of Electronics and Information
-Technology, Government of India organized by HUB E & ICT Academy
-NIT Warangal, in association with Spoke E & ICT Academy, IIITDM
-Kurnool, AP coordinated by VNRVJIET, Hyderabad during 12th May-22nd
-May-2025.
-25. Attended 2-Week Online FDP on VLSI organized by SkillDzire in
-collaboration with AICTE from Aug(1st -14th ).
-26. Attended one week Faculty Development Programme on “Integrated
-Circuit Design using CAD Tools” from 15th to 19th December 2025,
-Organized by Department of ECE, VNRVJIET,Hyderabad.
+ Worked for PG-NBA Accreditation in CBIT.
+ Worked as Departmnet NACC co-coordinator for VNRVJIET
+ Member of Project Review committee for IV B.Tech Signal processing SIG.
+ Member of Special Interest Group – Signal processing.
+ Department Budget File incharge from 2016 onwards.
+ Mwe lab Incharge from 2016 onwards
+Institute Level: -
+ Member /Incharge for Vignan Varthallu
+4. Conference / Workshop / Seminar / Guest Lectures:
+4.1. Conducted:
+house training program on “Lab VIEW” Supported by TEQIP-II,
+Department of ECE, CBIT, Gandipet, during 20th, Nov 2015.
+2. Organised Intensive Workshop on “Hands on “Lab VIEW” for third year
+ECE students, supported by IEEE Student chapter, CBIT, Gandipet, during
+13th& 27th Feb2016
+3. Organised A 5-Day Intensive Course on “Radar Signal Processing(RSP-
+16) supported by NERTU,OU in Association with Department of
+ECE,CBIT ,during 19th– 23th July,2016
+4. Co-ordinated an Industrial Visit to BSNL-RTTC, Gachibowli, Hyderabad
+on 16-04-2016 for B.E. ¾ ECE (E1, E2, E3) supported by TEQIP-II.
+5. Conducted Guest Lecture on the topic related to “English Proficiency Test
+in Overseas Education”, for B.Tech IV year students on 02/03/2024, by
+Mr.Kaushik Bhatnagar, Trainer for IELTS, PTE, Duolingo, TOFEL,
+Cambridge English,Hyderabad.
+4.2. Attended:
+1. ganized
+an In-
+ Completed the five days National Level Faculty Development Program on
+on “The Art of Research” in online mode is conducted from 2nd Apr to 6th Apr
+2024 by Department of Electronics and Communication Engineering,
+Chaitanya Bharathi Institute of Technology (A),Gandipet, Hyderabad- 500075.
+ Attend the Two Day Faculty Development Program On “Designing,
+Developing and delivering online/blended courses” Organized by centre for
+management research, Vignan jyothi institute of management, Hyderabad.,
+Telangana, India, from 20 th and 21 th October,2023.
+ Completed the two-day faculty training program on “Happiness and wellbeing”
+organized by H & S, VNRVJIET from 28th to 29th March, 2023.
+ Completed the one week online faculty development programme on”Enhancing
+faculty expertise communication and signal/image processing(EFECSIP-2023)
+organised by department of ECE ,Aditya college of engineering and technology
+during 10th-15th, July 2023.
+ Completed the five days short term course on “Biosignals,Communication and
+Applications” organised by department of ECE,Dr. B R Ambhedkar National
+institute of Technology,Jalandhar during 12th -16th,June,2023.
+ Completed the FDP on “Python Programming” jointly organised by Electronics
+and ICT Academics during July 26-August 06,2021 under the “Scheme of
+financial assistance for setting up of Electronics and ICT Academics” of the
+Ministry of electronics and information technology ,government of india.
+ Completed the four Weeks NPTEL Online Certification Course for Python for
+Data Science with score of 64% in Jul-Aug 2021
+ Attended 40 Hours online FACULTY DEVELOPMENT PROGRAMME
+(FDP) on “DATA SCIENCE FOR ALL” Jointly Organized by Electronics &
+ICT Academics at NIT Warangal, IIITDM Jabalpur, IIT Kanpur, NIT Patna,
+IIT Guwahati, MNIT Jaipur and IIT Roorkee From 12nd to 23rd April, 2021
+ Completed the Eight Weeks NPTEL Online Certification Course for Data
+Science with score of 66% in 2020
+ Completed the one week Training in Python programming with industry
+perspective in 2020
+ Completed the five day professional development programme on “Basics of
+Python Programming” organised by the department of
+ECE,VNRVJIET,Hyderabad in collaboration with VNR IEEE SPS from 09th-
+13th November 2020.
+ Attended the two week international online FDP on “Latest Technoilogical
+Development In Electronics and Communication Engineering” organised by
+department of ECE,KL University,from 05th-17th October,2020.
+ Completed the online training programme on Digital tools for
+Writing,Authoring and Reviewing Manuscipts jointly organised during 21th
+September and 2nd October 2020,supported by Ministry of Electronics and
+Information Technology,Electronics and ICT Academies MNIT Jaipur,NIT
+Patna and IIT Guwahati.
+ Participated and complted the two week(equivalent to 3credit 40 hours
+course)online faculty development programme on “Advanced Optimization
+Techniques and Hands-on with MATHLAB/SCILAB” jointly organised by
+Electronics and ICT Acdemies held from 13th-24th july2020 under the “scheme
+of financial assistance for setting up of Electronics and ICT Acdemies” by the
+Ministry of electronics and information technology ,government of india.
+ Attended Two-day International Virtual FDP on Innovative Techniques for
+Effective Teaching Online and Offline,Faculty of English (Department of
+M&H) Organised by Mahatma Gandhi Institute of Technology, Hyderabad on
+12th and 13th June 2020
+ Attended Two FDP - Artificial Intelligence in Healthcare by Department of
+Electronics and Telecommunication Engineering R. C. Patel Institute of
+Technology, Shirpur, Dist-Dhule(MS) – 425405 on10th and 11th June 2020
+ Attended International Webinar - Recent Trends in Wireless Communication
+by Department of Electronics and Telecommunication Engineering R. C. Patel
+Institute of Technology,Shirpur, Dist-Dhule(MS) – 425405 on 07th June 2020.
+ Attended FDP on “Recent Trends and Future Applications in Electronics and
+Communication Technologies” from 29th May-02nd June ,2020.
+ Attended AICTE Training And Learning (ATAL) Academy Online FDP on
+"Data Sciences" ,Indian Institute of Information Technology(IIIT Nagpur) from
+25th -29th,May 2020.
+ Attended International Webinar on "Introduction , Applications and Career in
+Robotics" by Prasoona Devalapally, CEO, TIX Robotics Private Ltd,
+Hyderabad on 25 May 2020.
+ Attended Five Day National Level Online FDP on “Modern Research Trends in
+Communication, Signal Processing and VLSI/MEMS”, organized by the
+Department of Electronics and Communication Engineering, from 19th -
+23th,May 2020.
+ Attended Faculty Program on NBA organized by Bharati Vidyapeeth College
+Of Engineering, Navi Mumbai-400614 on 13 May2020
+ Attended one week online Faculty Development Program on “OUTCOME
+BASED EDUCATION: A STEP TOWARDS EXCELLENCE” under
+Margdarshan Scheme of AICTE, New Delhi from 11th -15th,May 2020.
+ Attended AICTE Training And Learning (ATAL) Academy Online FDP on
+"Data Sciences" , MSME - TECHNOLOGY DEVELOPMENT CENTRE
+(PPDC) Meerut from 04th -08th,May 2020.
+ Attended COVID-19 Awareness Program organised by Annasaheb Dange
+College of Engineering and Technology on 01May 2020
+ Attended Three weeks COVID-19: TACKLING THE NOVEL
+CORONAVIRUS, LONDON SCHOOL OF HYGIENE & TROPICAL
+MEDICINE AND UK PUBLIC HEALTH RAPID SUPPORTTEAM.
+ Attended FDP on “Recent Trends and Future Applications in Electronics and
+Communication Technologies” from 29th May-02nd June ,2020.
+ Attended FACULTY DEVELOPMENT PROGRAMME (FDP) on “Python
+Programming with Industry” Jointly Organized by ELECTRONICS & ICT
+ACADEMY, NATIONAL INSTITUTE OF TECHNOLOGY Patna &
+Department of Electronics and Communication Engineering , IEEE and ISTE
+chapters of VNR Vignana Jyothi Institute of Engineering & Technology,
+Hyderabad (Sponsored by MeitY HRD division, Ministry of ICT, Govt. of
+India) From 2nd to 6th December 2019 at VNRVJIET
+ Attended one week Wireless and Mobile Communication Organized by E&
+ICT Acdemy ,NIT Warangal, at VNRVJIET, Hyderabad during 1st-6th July
+2019
+ Attended One day programme on “Raising Awareness throughout the world
+on COVID-19” Organized by JNTUH on 28/03/2020
+ Attended Three week progrmme on “COVID-19: TACKLING Organized by
+THE NOVEL CORONAVIRUS” LONDON SCHOOL OF HYGIENE &
+TROPICAL MEDICINE AND UK Public Health RAPID SUPPORT TEAM
+during 23/03/2020-13/04/2020
+ Attended One Week progrmme on “COVID-19 Pandemic General Awareness
+Quiz conducted by by” Department of RISE (Research, Innovations, Sponsored
+Projects & Entrepreneurship), Chandigarh Group of Colleges, Landran, Mohali
+during 13/04/2020-18/04/2020
+ Attended One day COVID-19 Awareness Program conducted by Annasaheb
+Dange College of Engineering and Technology, Ashta on 1/5/2020
+ Attended Online FDP on "Data Sciences" Organized by MSME -
+TECHNOLOGY DEVELOPMENT CENTRE (PPDC) Meerut." during 04-05-
+2020 to 08-05-2020
+ Attended.Faculty Program on NBA " Organized by Bharati Vidyapeeth College
+Of Engineering, Navi Mumbai-400614. Certificate ID T3IWHA-CE005144 on
+13/05/2020
+ Attended AICTE Sponsored one Week Faculty Development Program (FDP)
+on “Outcome Based Education: A Step Towards Excellence ”during 11-05-
+2020 to 15-05-2020
+ Attended Covid19:Technological and Digital Transformation for a New Era
+Organized by” G. Narayanamma Institute of Technology and Science on22-5-
+2020
+ Attended One week FDP on "Modern research trends in communication signal
+processing and VLSI/MEMS" conducted by Andhra Loyola Institute of
+Engineering and Technology(ALIET), Vijayawada-520008, during 19/05/2020
+to 23/05/2020
+ Participated in FDP on “Recent Trends and Future Applications in Electronics
+and Communication Technologies” organized by MLR Institute of technology
+,from 29/05/2020 to 02/06/2020.
+ Attended One day FDP on “International Webinar - Recent Trends in Wireless
+Communication “Organised by Department of Electronics and
+TelecommunicationEngineering R. C. Patel Institute of Technology,
+Shirpur, Dist-Dhule(MS) during 7th of june2020
+ Attended , " National Level Quiz on NAAC, organized by Department of
+Computer Engineering, P.V.P.P. College of Engineering, Mumbai, on 8-6-
+2020.
+ Attended two day FDP on “Artificial Intelligence in Healthcare “Organised by
+Department of Electronics and Telecommunication Engineering
+R.C.Patel Institute of Technology,
+Shirpur, Dist-Dhule(MS) during 10-11th of june2020
+ Attended two day FDP on " Innovative Techniques for Effective Teaching
+Online and Offline “Organised by Mahatma Gandhi Institute of Technology,
+Hyderabad. during 12-13 June, 2020
+ Participated in the Quiz on "Faculty Awareness On NBA"conducted by the
+Department of Electrical And Electronics Engineering ,Mallareddy college of
+engineering and technology during 14/06/2020
+ One week training programme on “Instructional Design and Delivery System"
+Organized by National Institute of Technical Teachers Training
+&Research,chennaiin Association with VNR Vignana jyothi Institute of
+Engineering &Technology, Hyderabad during 11th to 16th December 2017.
+ Participated in the two day conference SPACES-2018,held at department of
+ECE (FIST sponsored ),of KLEF,Andhra Pradesh, India,in Association with
+IEEE on "Signal Processing and Communication Engineering Systems" during
+4-5th January 2018
+ Two day Workshop on “Research Opportunities in Cognitive Radio and its
+Applications” Organized by Department of ECE, CBIT during 29th and 30th
+January 2016.
+ Two Day Intensive Course on “Electronic Intelligence (ELINT) Systems
+“Organized by Department of ECE, CBIT & Defence Electronics Research
+Laboratory (DLRL, DRDO)during 12th&13th, December2014.
+ Three Day Workshop on “Advances in Antenna Design with applications
+&Simulation with HFSS Software“Organized by MTT/AP/EMC Society Joint
+Chapter IEEE Hyderabad section in Association with M/s.Ansoft
+Technologies-Bangalore. Department of ECE, Matrusri Engineering College-
+Saidabad during 24th -26th, July2014.
+ One Week Faculty Development Program on “orientation towards technical
+teaching” Organized by CBIT-In House Training Center-Gandipet during 14th-
+19th, July 2014.
+ Two Day National seminar on “GPS and its Augmentation Systems-GAGAN
+for Aircraft Navigation “Organized by Department of ECE, CBIT , during
+22nd-23rd, November 2013
+ Three Day Workshop on “Electromagnetic Theory &Transmission Lines”
+Organized by the Institution of Electronics and Telecommunication Engineers,
+Hyderabad during 27th -29th, September2013.
+ One Week Faculty Development Program Organized by CBIT-In House
+Training Center-Gandipet during 6th -11th, January 2014.
+ One Week ISTE Workshop on “Analog Electronics”Organized by Indian
+Institute of Technology, Kharagpur during 4th -14th, June 2013.
+ Two Day Workshop on “Women in Science and Technology-Societal
+Impact”Organized by Women’s cell of CBIT- Gandipet during 8th&9th, March
+2013.
+ Two Day National workshop on “Research Opportunities in Computer science
+and Information Technology” Organized by Department of IT, CBIT-
+Gandipet during 6th&7th, February 2013.
+ Three Day Workshop on “Embedded Processors “Organized by Department of
+ECE, JNTUH College of Engineering, Hyderabad during 12th-14th, October
+2012.
+ One Week Faculty Development Program Organized by CBIT-In House
+Training Center-Gandipet during 24th -29th, December 2012.
 5. Academic Contribution and Research & Consultancy:
 5.1. Invited Lectures: NIL
-5.2. Articles/Chapters published in Books:
-5.3. Books published as single author or editor:
+5.2. Articles/Chapterspublished inBooks:02
+5.3. Bookspublishedassingleauthororaseditor:NIL
 5.4. Projects Guided :
-a) UG : 3
-b) PG :1
-5.5. Research Interests : VLSI
+a) UG :09
+b) PG :03
+5.5. Research Interests : communications and RADAR Signal processing
 5.6. Ph.Dstudents :
-a) Enrolled :
-b) Submitted:
-c) Awarded:
+a) Enrolled :NIL
+b) Submitted:NIL
+c) Awarded:NIL
 5.7. Papers published in reviewed journals :
-Impact
-Journal National/
-ISBN/ISSN Factor/
-S.No Title of the Paper Name International
-No. Citation
-Vol.No. PP
+Impac
+t
+National/
+Journal Facto
+S.N Title of the Internatio
+Name ISBN/ISSN No. r/
+o Paper nal
+Vol.No. PP Citati
+on
 Index
-ETASR,Vol.
-16, No. 1,
-SRAM Design and International
-1. 2026, 1792-8036 2.9
-Analysis Using TIGFET
-31188-
-31193
+Design And International 3.689 Internatio
+Implementa Journal of ISSN(Online): 2394-6849 nal
+tion Of Engineering
+Security Research in
+Manageme Electronics
+nt Using and
+1
+Haar Communicat
+Classifier ion
+With Call Engineering
+Alert And (IJERECE)
+Live Video Vol 2, Issue
+Streaming
+5, May 2015,
+(PP:12-15)
+Design and International ISSN: 2089-4864 - Internatio
+Analysis of Journal of nal
+Different
+Reconfigura
+ble and
+Full Adder
+Embedded
+Cells Using
+Systems
+2 new (IJRES) Vol.
+Technologi 8, No. 3,
+es November
+2019
+Estimation Springer(Sen - 1.12 Internatio
+of sing and nal
+Modulation
+Imaging)
+Volume 21,
+Parameters
+Issue 1, Oct-
+of LPI
+2020
+3
+Radar
+Using
+Cyclostatio
+nary
+Method
+4 Implement Issue: 9 | ISSN: 0011-9342 ISSN: Internatio
+ation of Pages: 6740- 0011- nal
+6751, 12-09- 9342
+Multi Bit
+2021
+Even Parity
+Generator
+and
+Checker
+Circuits
+Using
+Quantum
+Cell
+Automata
+(Qca)
+Based
+Majority
+Gates
+Estimation J.of https://doi.org/10.1017/S17590787 - Internatio
+of International 21001537. nal
+intrapulse Journal of
+modulation Microwave
+parameters and Wireless
+of LPI radar Technologies
+under noisy , First View,
+conditions Published by
+Cambridge
+5
+University
+Press in
+association
+with the
+European
+Microwave
+Association,
+pp.1-18,
+Dec.2021,
+Radar International https://doi.org/10.32985/ijeces.14.1. 1.7 Internatio
+4
+Signal Journalof nal
+Basedon Electrical
+or
+Multilayer and
+Perceptron Computer ISNN 1847-6996
+Neural Engineering
+6
+Network Systems,
+Recognition Volume14,
+Number 1,
+26-
+01-2023,
+(PP.29-
+36)
 5.8. Papers presented at National / International Conferences:
 Names of the National/
 Conference/ International
 S.No Title of the Paper Period
 Seminars
-Low Leakage CNTFET Full IEEE Global International 2014-
-Adders Conference On 2015
+1 Design And Implementation Of IFERP International International 9,August
+Security Management Using conference, 2015
+Haar Classifier With Call Alert Bengaluru
+And Live Video Streaming.
+2 Nano Gold Coated Polymer As International International 7-10,
+A Shield For The EM-Waves Conference On December
+Nanomaterials and 2015
+Nanotechnology
+3. RLG Dither Removal Using Proc. of the Seventh International Jul-2017
+Wavelet Transforms International
+Conference On
+Advances in
+Computing,
+Electronics and
+Electrical
+Technology - CEET
+2017.
+4 Imaging using Phase Coded Proceedings of the International 2022
+Complimentary Code International
+Pairs Conference on
+Sustainable
+Computing and
+Data
 Communication
-1 Technology(GCCT-
-2015), April 23-
-24,2015,
-Kanyakumari,India.
-Design of Wallace tree multiplier 4th International International 05 June
-circuit using high performance Conference on 2023
-and low power full adder Design and
-Manufacturing
-2.
-Aspects for
-Sustainable Energy
-(ICMED-ICMPC
-2023)
-Design of DADDA Multiplier 2023 14th International 23
-Using High Performance and International November
-Low Power Full Adder Conference on 2023
-Computing
-3.
+Systems (ICSCDS-
+2022)
+DVD Part Number:
+CFP22AZ5-DVD;
+ISBN: 978-1-6654-
+7883-0
+5 Classification Of Polytime 2022 International International 17 April
+Codes Of LPI Radar Signals Conference on 2023
+Using XGBOOST Algorithm Recent Trends in
+Microelectronics,
+Automation,
+Computing and
+Communications
+Systems
+(ICMACC) ,
+IEEE Xplore digital
+library ,17-04-2023
+6 Image Forgery Detection using 11TH ICCET 2023 International MAY 1ST
+Deep Learning ELEVENTH - 2ND,
+INTERNATIONAL 2023
+CONFERENCE ON
+CONTEMPORARY
+ENGINEERING
+AND
+TECHNOLOGY,
+CHENNAI, INDIA.
+7 Design and Validation of 2023, 3rd International 23rd-24th,
+Domino CMOS D Flip International November
+Flop at 16nm Regime Conference on 2023.
+Advancement in
+Electronics &
 Communication
-and Networking
-Technologies,
-ICCCNT 2023
-A Novel Design of High Speed 2024 3rd International 06 May
-Multiplier Using Hybrid Adder International 2024
-Technique Conference for
-4.
-Innovation in
-Technology,
-INOCON 2024
-Design of Shift Registers Using ICDCS 2024 - 2024 International 26 June
-DG-FinFET for Low Power 7th International 2024
-5. Applications Conference on
-Devices, Circuits
-and Systems, 2024
-Design and Implementation of 2024 5th International 26 July
-High-Speed, Low-Power CMOS International 2024
-D Flip-Flop and Counters using Conference for
-6.
-Double Gate FinFET Technology Emerging
-Technology,
-INCET 2024
-VLSI Design of High 2024 15th International 04
-7. Performance FIR Filter using International November
-High Speed Hybrid Multiplier Conference on 2024
-Computing
-Communication
-and Networking
-Technologies
-(ICCCNT)
-FPGA implementation of turbo 2025 6th International 23-25
-encoder for digital International May 2025
-communication systems Conference for
-8.
-Emerging
-Technology
-(INCET)
-Design of High Performance 2025 Devices for International 5-6 April,
-9. Scan D-Flipflop Using TIGFET Integrated Circuit 2025
-(DevIC)
-Implementation of 5G NR 2025 Third International 03-05
-Primary and Secondary International November
-Synchronization in FPGA Conference on 2025
-Emerging
-10.
-Applications of
-Material Science
-and Technology
-(ICEAMST)
+Engineering
+(AECE), IEEE,979-
+8-3503-3072-4/23,
 5.9. Sponsored research Projects:
 S.No Title Agency Period Grant amount Ongoing /
 Completed
+-- ---
 5.10 Consultancy Projects:
 S.No Title Agency Period Sanctioned Ongoing /
 Amount Completed
-6.Awards / Honors received: Second-best project in M.Tech
-7.Motto: Work with commitment
+-- --- --- --- --- ---
+6. Awards / Honors received:
+ Working as reviwer for International Journal of Electrical and Computer
+Engineering Systems journal.
+ Worked as a reviewer for the 2nd International Conference organized by the
+department of ECE, Mahatma Gandhi Institute of Technology, on 28 - 29 April
+2023.
+ Worked as a reviewer for ICMACC 2022.
+ Completed the British Council English course.
+ Got Elite in the four Weeks NPTEL Online Certification Course for Python for
+Data Science with score of 64% in Jul-Aug 2021
+ Got First Rank and Received the gold medal in 2007 in PG.
+ Received first prize in various sports and Quiz Competitions at school level and
+college level
+7. Motto: Work Hard yourself And Stay Humble with every one.

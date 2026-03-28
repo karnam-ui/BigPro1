@@ -1,0 +1,777 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/images/campus/Open-House-2016.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+Open House 2016 Report
+"Open House-2016" is held from 29-02-2016 to 02-03-2016 at VNR VJIET in the premises
+of PG Block. The Open House is inaugurated by Dr. D. N. Rao, President on 29th ,
+February 2016.
+Open House Inauguration by Dr. D. N. Rao, President, Vignana Jyothi
+A total of 143 posters were presented from all the departments of VNR VJIET and a
+team from BVRIT. The following are the list of department wise posters from VNR VJIET:
+ECE  32 EEE  25 CSE  21 EIE  17
+ME  15 IT  10 AE  07 CE  01
+RCC  08 TCS  07
+This time three prizes were announced for the Open House participants ( Ist Prize- Rs.
+15,000/-, 2nd Prize - Rs. 10,000/-, 3rd Prize - Rs. 5000/- ). The scrutiny of the posters
+was done by Dr. A. Subananda Rao and Dr. A.S. Rao. After scrutiny the team decided to
+give consolation prize of worth Rs. 2000/- to first year student. The list of winners is as
+follows:
+Sr. Place Project Title Students List &
+No. Branch
+V. Raman Teja (EIE)
+A.Niharika Reddy(EIE)
+Ist (Rs.15000/- Patient Assistance and
+1 G. Suresh(EIE)
+) Lift Monitoring (PALM)
+R.Ramya(ECE)
+C.S.Chandrika(ECE)
+Sravani Kotha(EEE)
+Y.A.S.N.Jyotsna(EEE)
+V.Pallavi(EEE)
+Power Hub (Solar Tree + Y.Vandana(EEE)
+Generation of Electricity Y.Shruthi(EEE)
+2nd
+2 with Speed Breakers + B.Sravani(EEE)
+(Rs.5000/-)
+Harnessing Energy from Y.Sanjana(EEE)
+Road Traffic) Raghu Vardhan Narne (ME)
+Jatin Manam (ME)
+Yaswanth Pagadala(ME)
+Naresh Rachuri(ME)
+V.Chakradhar Reddy (ME)
+K.Vamshi(ME)
+Design of Mechanism for M.Shashi Kumar(ME)
+2nd
+3 lifting vehicle and Wheel A.Steven(ME)
+(Rs.5000/-)
+fixing V. Anand Kumar(ME)
+V. Chandra Sekahara Rao
+P(ME)
+B.Ganesh Reddy(EEE)
+Application of Arduino
+3rd Nikhil Reddy(EEE)
+4 for Household Remedy
+(Rs.2500/-) Sai Teja.P(EEE)
+Automatic Tea Maker
+Dinesh Reddy(EEE)
+Bhargav Kunkulagunta (CSE)
+3rd
+5 Rendering Engine Prateek Varma Kalidindi
+(Rs.2500/-)
+(CSE)
+Consolation
+6 Prize Water Level Indicator Sanjay Reddy (EEE)
+(Rs.2000/-)
+The list of posters is attached.
+Sl. DE
+PROJECTS TEAM GUIDE
+No PT
+D. Mounika
+M. Santhosh
+1 ECE Air Writing Pen S.Narayana Rao
+S.Sai Krishna
+P. VanaPriya
+C.S.CHANDRIKA
+ARDUINO WIRELESS DISPLAY M.VEENA N.DHANA
+2 ECE
+BOARD CH.NITHIN SAI LAKSHMI
+S.MAHESH
+Rohith.G
+BUS ALERT SYSTEM FOR Madhuha.L
+3 ECE A.Ramesh Kumar
+VISUALLY IMPAIRED PEOPLE sowmya.V
+Viny Kumar.N
+A. Himaja Dr. Y. Padma Sai
+CLASSIFICATION OF
+4 ECE ARRHYTHMIA USING K. Manoj Kumar
+Ms. L. V. Rajani
+LABVIEW M. Mani Kishore
+Kumari
+Mayank Kanodia
+K. Sravani
+Automatic Accident Detection and Y. Rahul Reddy
+5 ECE Helan Satish
+Notification S. Sravya
+N. Narsimulu
+G.kavya
+EYE BLINK DETECTION L.padma kumari
+6 ECE Dr. V. Padmaja
+SYSTEM B.Girish
+K.Mounika
+J. Sahari
+GSM BASED WIRLESS SENSOR
+R. Yamini
+7 ECE NETWORK FOR PRECISION G. Sahitya
+V. Manikanta
+AGRICULTURE
+M. A. Azmath
+K.Sushma
+K.S.L.H.Sindhuja J.L.V.Ramana
+8 ECE Medicine Reminder
+S.Mahesh Raju Kumari
+Kashyap Challa
+PC BASED REAL TIME D. Likith Sai
+OSCILLOSCOPE AND LOGIC N. Krishna Kanth
+9 ECE
+ANALYZER WITH DATA D.Amulya
+LOGGING CAPABILITIES E. Srinivas
+MANNE NANDINI
+PAMARTHI
+SELF ASSISTIVE VOICE SRIVIDYA
+10 ECE K.JYOSTNA
+CONTROLLED WHEEL CHAIR SAYAPANENI
+SINDHURA
+VEMULA ACHYUTH
+A.Pavan Kumar
+WIRELESS HEALTH Ramya R L. V. Rajani
+11 ECE
+MONITORING SYSTEM R.Sai Kishore Kumari
+V.Saraswathi
+K. Vinatha
+Prediction of fade duration at
+S. Sai Pramukha K.Kalyana
+12 ECE millimeter wavelengths using rain
+A.V.Sai Kiran Srinivas
+attenuation models
+M.Sandhya
+CH. Trivikram
+ACCELEROMETER BASED M. Shivani
+13 ECE CH. Naga Deepa
+HOME AUTOMATION P. Hema Priya
+A. Harika
+D.Sneha
+ENERGY MONITORING P.Rama krishna
+14 ECE G.Shanthi
+SYSTEM V.Vinod kumar
+M.Mounika
+K. Bhargav Ram
+Design and implementation of smart K. Tanuja K. Sarath
+15 ECE
+cane to assist blind people M. Pranay Kumar Chandra
+Md. Mushtaq Ahmed
+M. Akhil Sai
+MULTI – LEVEL BIOMETRIC P. H.S. Sanjay
+16 ECE
+SECURITY SYSTEM S. Aditya Sai Pranai
+Y. Anoop Kumar
+B.M.V.V
+NAGENDRA
+KUMAR
+Microcontroller Based Vocalizer for
+17 ECE K. ROHIT Dr. V. Padmaja
+Dumb People
+CHAITANYA
+V. AKHILA
+D. HUSSAIN
+K.Naga Saikiran
+AUTOMATIC PLANT M.Madhuha Dr. S. Rajendra
+18 ECE
+WATERING SYSTEM M.Tejaswi prasad
+K.Shashank Rao
+V.Pranathi
+AUTOMATED SERVO
+G.Mani Chandana
+19 ECE CONTROLLED FIRE P.Kishore
+Y.Dheeraj
+EXTINGUISHER
+S.Prasad
+Karthik Ch
+DESIGN AND
+Bala Krishna
+20 ECE IMPLEMENTATION OF L. Dharma Teja
+Sarath Bussa
+GYROSCOPIC MOUSE
+Sneha Vadde
+D.karan
+HEART RATE MONITORING K.Mokshihta
+21 ECE
+SYSTEM USING AURDINO G.Lavan kumar
+A.Raju
+M. Harsha Vardhan
+SMART AND AUTHENTIC P. Spurthi
+22 ECE D. Ramesh Reddy
+WATER TANKER SYSTEM Y.V. Chaitanya
+V. Bhavya
+M.Amulya Gupta
+TEMPERATURE CONTROLLED
+23 ECE P.Prathibha V.Naveen Kumar
+DC FAN
+N.Vani
+D.Mounika
+Sk.Samrin
+Controlling 5x5x5 LED cube using
+24 ECE K.Ruchita
+Arduino Uno
+G.Priyanka
+K.Bilvika
+Wireless Sensor Network for
+25 ECE S.Abinaya G.Sahitya
+Precision Agriculture
+Design and Implementation of
+K. Archana
+26 ECE Street Light Control System to K. Shalini
+Bhange
+Reduce Power consumption
+Dr . Y. Padma sai
+SVN Narayana
+Acoustic Signal Analysis for Health
+27 ECE N.Suma Jyostna rao
+Care
+V. Priyanka
+V. Naveen kumar
+PORTABLE CAMERA BASED
+28 ECE TEXT AND PRODUCT LABEL H.Pramod Kumar G.Radha Krishna
+READING FOR BLIND PERSONS
+IMPLEMENTATION OF
+WIRELESS SENSOR NETWORK Dr. C.D.Naidu
+29 ECE Ch.Sowmya
+FOR REAL TIME OVERHEAD
+TANK WATER QUALITY
+Dr. S.Rajendra
+MONITORING Prasad,
+D.Ramesh Reddy
+AISWARYA NAGA
+VADLAMANI
+SNMP AGENT FOR ALL AKSHAY
+30 TCS
+MESSAGE TYPES THODUPUNOORI
+KAVYA REDDY M
+CC
+V.Rohit,
+NAS INTEGRITY AND K.Sai Varun
+31 TCS Ch. Naga Deepa
+CIPHERING IMPLEMENTATION K.Bhargav Ram
+V.Sowmya
+Madhuha.L
+Carrier Aggregation-Addition and Amulya Gupta.M
+32 TCS
+Deletion of SCELL(Secondary Cell) Keerthi Teja.A
+Krishna.G
+Yamini Ramagiri
+Lakshmi Bhavani
+33 TCS EICIC IMPLEMENTATION Manda,
+Swapniel Thakur
+Anmisha Ramidi
+Anusha Chitram
+AUTOMATIC NEIGHBOUR Abhilash Kavali
+34 TCS
+RELATION IMPLEMENTATION
+Ch. Madhavi
+D.V. Sai Lakshmi
+Amulya
+R.Pavani Priya
+NETWORK FAULT Aishwarya Aljapur
+35 TCS
+MANAGEMENT Mohammed Irfan
+M.Divya
+Tejaswi Parre
+Birudavolu Pavani
+36 TCS RACH Optimization - SON
+Sai Charan Singh
+P.Hema Priya
+J.Anish Chandra
+ROBOTIC RUBIK’S CUBE
+37 EIE D.Sravan Reddy
+SOLVER
+S.Elia Jefferson
+DETECTION OF SLEEP APNEA Apurupa
+38 EIE Mr.V.Nageshwar
+USING LabVIEW Rishika
+Rakesh
+V. Raman Teja
+Mr. C.V.Ram
+A.Niharika Reddy
+Patient Assistance and Lift Babu
+39 EIE G. Suresh
+Monitoring (PALM)
+R.Ramya Mrs. V. Priyanka
+C.S.Chandrika Brahmaiah
+BIO SIGNAL ACQUISTION Murali Krishna.ck
+40 EIE ,PROCESSING AND DATA Suresh.k
+TRANSFER TO BLUETOOTH Prathyusha.T
+CH.VIKAS
+Solar Refrigerator For Vaccines In
+41 EIE Y.SAI TEJA
+Rural Areas
+Y.SNEHA LATHA
+Sreekar
+An autonomous sign based-
+Suharsha Mr. S.
+42 EIE navigation robot with dynamic
+Shekar Pranavanand
+obstacle detection and avoidance
+Ranjith
+EFFECT OF EXHAUST GAS G. Sri Phani Kishan
+RECIRCULATION ON
+G. Nikhith
+B. Pavan
+43 AE EMISSIONS OF A DIESEL
+Bharadwaja
+ENGINE FUELLED WITH S.V.Sai Kiran
+CASTOR SEED BIODIESEL
+DESIGN AND DEVELOPMENT K.V.S Mohan Krishna
+44 AE OF A CHASSIS FOR ELECTRIC P. Dinesh Chandra Shaik Amjad
+MICRO-CAR Sankeerth Kumar
+DEVOLOPMENT OF GPS BASED C. Sravan kumar
+45 AE AUTOMATIC TURN INDICATOR B. Anudeep R. Ramu
+LIGHTS IN AUTOMOBILES D. Akhil
+OPTIMIZATION AND Y. Shanmuka Aditya
+INFLUENCE OF PROCESS
+V. Raja Prranai
+M. Venkata
+46 AE PARAMETERS ON SURFACE
+Ramana
+ROUGHNESS IN TURNING OF T. Joshi Kiran
+TITANIUM ALLOY
+DEVELOPMENT OF M. Avinash Kumar
+47 AE POWERTRAIN FOR ELECTRIC Ram Sai A Shaik Amjad
+MICRO-CAR G. Rishikesh
+ROLE OF NANO ADDITIVE
+BLENDED KARANJA
+48 AE BIODIESEL EMULSION FUEL G V L Prasad
+ON PERFORMANCE AND
+EMISSIONS OF DIESEL ENGINE
+DEVELOPMENT AND Y.Harish
+49 AE T. Raju
+FABRICATION OF A MICRO K.T.S.S.Santosh
+CAR M.BennyJoseph
+P.Sai Krishna
+P.Shiva Ram
+N.Rajeswar
+B.R.K.Bhargava
+G.Sai Charan
+P.Rajesh
+P. SHYAM PRASAD
+50 ME 3D Printed Surveillance Drone N.SAI GAUTHAM
+K.RAHUL KANTH
+K.GANGA REDDY
+OPTIMIZATION OF
+Dr.B.Satyanarayana
+CONTROLLABLE TURNING
+PARAMETERS FOR HIGH
+51 ME Ruthvik Nithin.P
+SPEED MACHINING OF SUPER
+Dileep Reddy
+ALLOY BY MEASUREMENT OF
+TOOL WEAR
+DEVELOPMENT OF
+Dr.G.S.Guptha
+PROCEDURES FOR
+COMPUTATION OF TITANIUM-
+52 ME VANADIUM BINARY ALLOY
+PHASE DIAGRAM USING P.N.V.Harinath
+CLUSTER VARIATION
+METHOD(CVM)
+COMPARATIVE STUDY OF Md.Mastan Ali
+WELD CHARACTERISTICS OF A.Venkata Narayana
+53 ME IS : 65032AA BY TWO M.Subrahmanya
+PROCESSES FRICTION STIR Srinivasa Rao
+WELDING ( FSW ) AND GTAW Dr.Ajay Kumar Kaviti
+DESIGN AND DEVELOPMENT K.V.R.Murthy
+OF SINGLE KICK ELECTRIC
+V.Sumalatha M.S.Srinivasa
+54 ME SCOOTER FOR SHORT
+V.Samuel David Rao
+DISTANCE APPLICATION
+G.Mounika
+Raghu Vardhan Narne
+Harnessing Energy from Road
+55 ME Jatin Manam
+Traffic (HERT)
+Yaswanth Pagadala
+Naresh Rachuri
+56 ME Temperature controlled Helmet
+57 ME Design,Stress analysis and B.Priyanka Dr.M.V.R.D.Pras
+Fabrication of Mono Wheel M.Ravi Kiran ad
+N.Sai Gautham
+58 ME SEEDER
+N.Manideep
+S. Anusha ChandraSekhara
+Multi Effect Improved Solar Still – Prateek Jadhav Rao P.V
+59 ME
+water purifying technique K.Bhargav K.Krishna
+G.Niranjan Murthy
+DESIGN AND V. Anand Kumar
+60 ME MANUFACTURING OF WHEEL V. Chandra Sekahara
+FIXING MECHANISM Rao P
+DESIGN OF A MECHANISM TO V.Chakradhar Reddy
+LIFT THE VEHICLE
+K.Vamshi
+61 ME AUTOMATICALLY FOR V.Anand Kumar
+M.Shashi Kumar
+CHANGING PUNCTURED
+A.Steven
+WHEELS
+Modeling Analysis and 3D Printing
+62 ME of Humerus Bone with Proximal S. Rajashekhar
+Implant
+Design, Analysis and 3D Printing of
+63 ME P. Chennakesava Sai
+a Human Skull Cap
+Design and Fabrication of an
+64 ME Mohd. Siraz
+Automated Bottling System
+Ch.Nithin
+A Novel IDS Approach Using Data
+M.Kiran Teja
+65 IT Mining Techniques with a
+K.Shiva Krishna
+Similarity Measure
+Md.Shujaath Hussain
+Aravind Cheruvu
+Analyzing the Trends in Temporal ChandraKanth
+66 IT Clinical Data and Finding Ravali K V. Radha Krishna
+Interesting Patterns Prashanth Ch
+K.Sai Teja
+Bhavani (4/4)
+N. Roja Reddy(4/4)
+Computer Vision for Detecting
+67 IT Malarial Parasite using Machine Dr. G. Madhu,
+V. Bindu(4/4)
+Learning Algorithm
+G. Rakesh Varma
+(4/4),
+Development of a Machine
+68 IT Learning Based Algorithm for
+Computer Aided-Diagnosis of
+Malaria
+Dr.N.
+MangaThayaru
+Development of a Tool for
+69 IT B.Mathura Bai
+Management of Diabetes Mellitus
+Panigrahi
+Srikanth
+Development of ID Based Short DASARI
+70 IT
+Signature Scheme KALYANI
+V. Tejaswini
+FIND YOUR FACULTY- AN S. Padmini
+71 IT
+ANDROID APPLICATION P. Saikumar
+P. Pranathi
+Ch. Samhitha
+Image Encryption Scheme For U. Swetha
+72 IT Arun N
+Sharing Secret Images in Network G. Kedara Priya
+G. Susheel Rao
+CH.Keerthana
+Personalized Route Recommender
+CH.Navya
+73 IT System for Theme Parks by V.Saritha
+J.Tanmayi
+analyzing Tourists Behavior
+J.Sindhura
+P.ADITHYA
+Text Clustering and Classification P.MONICA
+74 IT
+using improved Similarity Measure D.AARTHI
+CH.SRAVYA
+A QUICK MPPT CONTROLLER
+FOR PV SOURCE USING
+75 EEE CASCADED ARTIFICIAL M.Ravali D.S.G.Krishna
+NEURAL NETWORK
+CONTROLLED DC LINK
+Automatic Landing of An Airplane K.Sai Satish
+76 EEE Using Levitation Effect and Super D.Nikhil Reddy
+Conductors G.Soumith Tej
+N.Naga Vyshnavi
+ARDUINO SOLAR CHARGE S.Maadhavi
+77 EEE
+CONTROLLER Durga Bhavani
+J.Monisha
+Arduino Based Persistence of G.Anudeep
+78 EEE
+Vision (POV) Display G.Srikar
+G.Moulith
+G.Vinay
+A.Madhusudhan
+B.Sushmitha
+Microcontroller Based Automatic
+Akshitha Chatla
+79 EEE Engine Locking System For
+Chandana M
+Drunken Drivers
+Jyothi P
+S.Gowri Vasuki
+V.Nikhita
+ARDUINO BASED AUTO V.Sushmitha
+80 EEE
+LUBRICANT SYSTEM R.Subramani
+M.Praneeth
+V.Suvishal
+B.Ganesh Reddy
+Application of Arduino for
+Nikhil Reddy
+81 EEE Household Remedy Automatic Tea
+Sai Teja.P
+Maker
+Dinesh Reddy
+M.Sai Kiran
+Accelerometer-DAQ Acquisition M.Roopadhar
+82 EEE
+System U.Hemanth
+U.Vijay Charan
+83 EEE Density Based Traffic Control Anusha
+DESIGN OF SUITABLE MULTI-
+PHASE DC-DC CONVERTER
+84 EEE Monika Patra D.S.G.Krishna
+FOR DC MICROGRID
+APPLICATION
+L.Yogesh
+K.L.V.Prasad
+FOUR QUADRANT OPERATION K.Jagadeeshwar
+85 EEE
+OF DC CHOPPER S.Theja
+Karthikeya
+Aravind
+K.Sumanth Reddy
+P.Satvik reddy
+Generation Of Electricity Through P.Praneeth
+86 EEE
+Vehicles Speed On Highways B.Surya Prakash
+R.Sai Sasidhar
+P.Md.Iliyas
+CONVERTING A
+87 EEE SMARTPHONE INTO A 3D P.Hariharan
+(HOLOGRAM)
+Bhumireddy Kiran
+kumar Reddy
+Charging a Cell Phone using
+Jangani Anvesh kumar
+88 EEE Motorbike Silencer surface heat &
+Kethana Sai Phani
+Wind energy
+Praveen goud Kotha
+P.Praneeth
+SMS ALERT OF ENERGY D.Charishma
+89 EEE
+METER UNITS G.Anurag Krishna
+K.Pragathi Rekha
+SOLAR AUTOMATIC PLANT
+90 EEE V.Roja
+IRRIGATION SYSTEM
+Naveena
+S.Prachethan
+Solar Powered Bluetooth Controlled R.Chaithanya
+91 EEE
+Speakers K.Hothri
+S.Praphulla
+Sravani Kotha
+92 EEE SOLAR TREE
+Y.A.S.N.Jyotsna
+V.Pallavi
+GENERATION OF ELECTRICITY Y.Vandana
+93 EEE WITH THE USE OF SPEED Y.Shruthi
+BREAKERS. B.Sravani
+Y.Sanjana
+DESIGN AND DEVELOPMENT
+OF MAXIMUM POWER
+94 EEE TRACKING DC LINK & STATIC D.S.G.Krishna
+CONVERTER FOR SMART
+MICRO-GRID APPLICATIONS
+DEVELOPMENT AND
+IMPLEMENTATION OF DSP
+95 EEE BASED NOVEL ALGORITHM S.Poornima
+FOR THE PROTECTION OF
+POWER TRANSFORMER
+HARDWARE
+IMPLEMENTATION OF FPGA
+96 EEE BASED CONTROLLER FOR G.Sasi kumar
+MULTI LEVEL INVERTER
+FPGA IMPLEMENTATION OF
+FIELD ORIENTED CONTROL N.Krishna
+97 EEE G.Swapna
+FOR PERMANENT MAGNET Kumari
+SYNCHRONOUS MOTOR
+S.Rishali
+WIRELESS BATTERY
+98 EEE CHARGING USING INDUCTIVE B.Likitha
+COIL B.Uma sirisha sravya
+Meghna
+K.Hemanth Kumar
+99 CSE DASHBOARD
+R.Srinivas
+A.Pranjali
+100 CSE Dynamic Graph Generation Dr.N.Sandhya
+B.Sahithi
+R.Sai Varnitha
+P.Vineetha
+N.Sandeep
+101 CSE Breadth Application B.Monica
+Chaithanya
+K.Sahithi
+A.Pranjali
+R.Anmisha Reddy
+Analyzing Sodium Content for
+102 CSE Rahul Kondakrindi S.Nagini
+Different Fast Food Chains
+Harshita Thota
+Vineet varma
+Tweet Analysis for real-time event
+103 CSE Raju kumari A.Madhavi
+detection
+A.Naveen
+Speech Emotion Recognition Using
+104 CSE Y.Bhanusree
+Regularized Discriminant Analysis
+Development and Validation of a
+Model for Non-Technical
+105 CSE Losses(NTL’s) detection of S.Nagini
+Electricity Theft Using Data
+Mining Technique
+Design of Distributed Data
+106 CSE Warehouse- Experimentation with Y.Sagar
+TPC-DS
+Dr.G.Ramesh
+107 CSE Social Life Networks A.Katyayani
+Chandra
+Computing Multi-Dimensional
+108 CSE Trust by Mining E-Commerce M.Divya Y.Sagar
+feedback Comments
+Framework for Situation Analysis in
+109 CSE M.M.Sharanya Dr.N.Sandhya
+Social Life Networks
+A SECURE DATA SELF-
+D.Naga
+110 CSE DESTRUCTING SCHEME IN M.Shiva kumar Naik
+Vasundhara
+CLOUD COMPUTING
+MULTI KEYWORD RANKED
+111 CSE SEARCH OVER ENCRYPTED Srinivas Manikanta V.Baby
+CLOUD DATA
+Key-Aggregate Cryptosystem for
+112 CSE Scalable Data Sharing T.Ramya P.V.Siva Kumar
+in Cloud Storage
+113 CSE LIFE EXTENSION D.Sai Srinivas Naik
+ANALYTICS OF EYE
+M Suman Chandra
+114 CSE EMOTIONS USING EYE
+TRACKING PLATFORM
+Shaik Nayab Rasu
+Vivek Varma N
+Efficient Prediction of a Disease
+115 CSE Karthik Chowdary B.V. Kiranmayee
+using Data Mining Techniques
+G. Sai Baba
+Ali SMD
+Input Split Frequent Pattern Tree
+116 CSE Using MapReduce Paradigm In L GREESHMA
+Hadoop
+EVALUATION OF RUTTING
+CHARACTERISTICS ON
+117 CE A.Ramesh
+MODIFIED BITUMEN MIXES
+WITH INCLUSION OF FIBERS .
+K. Supriya
+Mobile Controlled Home B. Ramya Sri
+118 ECE
+Appliances K. Soumya
+J. Sushmita
+Dr. V. Padmaja
+STUDY AND EXPLORATION OF
+VARIOUS CLASSIFICATION Ch. Naga Deepa
+119 ECE
+TECHNIQUES ON TELUGU B.H. Supriya
+CHARACTERS D. Chetana
+Chaitanya Chowdary
+Pratap.N
+ALGAE CONTROL IN PONDS Ms.Jyotirmai
+120 EIE KethankumarSrikanth.
+USING UV RADIATION Joshi
+K
+CORNEAL DISEASES C.Ramya Padma
+121 EIE IDENTIFICATION USING BIO- R.Pruthvi Raj
+MEDICAL IMAGE PROCESSING N.Mahesh
+K. Raghavendra
+Traffic Density Monitoring and
+122 EIE G. Sathish
+Directing
+C. Nitin
+An electrooculogram based Shanmuki krishna
+123 EIE interactive robotic arm interface for
+Omkar prasad
+partially paralytic patients
+A.Sailavanya
+Kalyan
+124 EIE Bluetooth Remote controlled Car Akshith
+Pranav
+Air Power Night Illuminating Krishna Sri Hemanth A
+125 EIE
+Sensor LVS Adithya P
+Bhargav Kunkulagunta
+126 CSE Rendering Engine
+Prateek Varma
+Kalidindi
+Prateek Varma
+127 CSE GPU Accelerated Image Encryption Kalidindi
+Bhargav Kunkulagunta
+128 CSE Analytics of Eye Emotions Suman Chandra
+DEVELOPMENT OF
+OPTIMIZATION TECHNIQUES
+FOR PROTECTIVE DEVICES V. Suhasini
+AND DISTRIBUTED
+D. RAVI
+129 EEE GENERATORS ALLOCATION
+KUMAR
+TO OPTIMIZE RELIABILITY
+U. Haritha
+AND TO REDUCE LOSSES IN
+ELECTRICAL POWER
+R. Sanjeev Naik
+DISTRIBUTION SYSTEMS
+Dr. G. Ramesh
+Weapon Locking and Tracking Chandra
+130 RCC
+System V. Naveen Kumar
+V. Anand Kumar
+Dr. G. Ramesh
+131 RCC DRIVING SIMULATOR Chandra
+T. Sunil Kumar
+MOBILE IMAGE POSITIONING
+132 RCC AND PERFORMANCE J. Bala Krishna
+AQUISTION SYSTEM
+Street light control through FM
+133 RCC Kamala
+station
+134 RCC I-lights V. Naveen Kumar
+Automated Commondo Training
+135 RCC V. Naveen Kumar
+System
+136 RCC Route and Safety Tracker N. Lakshmi Kalyani
+137 RCC Sensory Measurement Unit R. Manjula Sri
+SUCHARITHA
+PRANEETH
+EXPLOSIVE DETECTING
+138 ECE GOPINATH
+DRONE
+MANO SATYA SAI
+MANOHAR
+M.SAI SREYASHI
+THE SAC(SOLAR AIR M.KRISHNA KIREETI
+139 EIE
+CONDITIONER)
+NKATHYAYANI
+CH.MANASA VEENA
+G.LAKSHMI
+SINDHUJA
+LPG LEAKAGE DETECTOR
+140 EIE
+USING ARDUINO S.SAI SRAVYA
+M.S.UDHITHA
+Implementation of Biomedical Image
+141 EIE R.Manjula Sri
+processing on embedded hardware
+DESIGN AND
+IMPLEMENTATION OF
+142 EIE ALGORITHM FOR REAL TIME N.Akshay
+PATIENT MONITORING IN
+AMBULANCE WHILE TRANSIT
+APPLICATION OF NORMALIZED
+CROSS CORRELATION TO IMAGE
+143 EIE H.Renuka
+REGISTRATION BY USING
+MATLAB

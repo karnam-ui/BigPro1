@@ -1,0 +1,2907 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/mtechsyl/GTE-R22.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+R22
+M.Tech. (GEO-TECHNICAL ENGINEERING)
+M.Tech. R22 CBCS Curriculum
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for B.Tech. CE, EEE, ME, ECE, CSE, EIE, IT Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF 113 Rank in Engineering Category
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+DEPARTMENT OF
+CIVIL
+ENGINEERING
+VISION OF THE DEPARTMENT
+To develop Civil Engineering Department as a
+Centre of excellence for imparting value based
+education to the students at undergraduate and
+post-graduate level to meet industry needs and to
+develop as a major research center meeting national
+and international standards.
+MISSION OF THE DEPARTMENT
+➢ To impart in-depth and up-to-date knowledge of
+Civil Engineering concepts with focus on character
+enhancement, leadership qualities, effective
+communication, social responsibility and pursuit
+of lifelong learning and professional development.
+➢ To provide a platform to the students to engage
+in original innovative research.
+M.TECH.
+(GEO-TECHNICAL ENGINEERING)
+M.TECH. (GTE)
+PROGRAM EDUCATIONAL OBJECTIVES
+PEO-I: To apply knowledge of geotechnical engineering to produce
+engineers to integrate and build concepts to improve professional
+leadership, teamwork, life-long learning, and career advancement.
+PEO-II: To design and conduct experiments, to analyze and interpret data
+related to the geotechnical engineering, as well as to formulate systems
+within realistic constraints such as economic, environmental, social,
+political, ethical, health and safety, manufacturability, and sustainability
+PEO-III: To accentuate the understanding of the basic principles and
+exposes the student to the latest developments, with a strong research
+foundation so as to provide engineering solutions in a global, economic,
+environmental, and societal context.
+M.TECH. (GTE)
+PROGRAM OUTCOMES
+PO-1: An ability to independently carryout research/investigation and
+development work to solve practical problems.
+PO-2: An ability to write and present a substantial technical
+report/document.
+PO-3: Students should be able to demonstrate a degree of mastery over
+the area as per the specialization of the program. The mastery should be
+at a level higher than the requirements in the appropriate bachelor
+program.
+PO-4: To motivate the graduate students to address the societal needs by
+interdisciplinary approach through advanced courses.
+PO-5: To enrich the graduate students to get hands on training on latest
+equipment / software to be industry ready / pursue advanced research.
+PO-6: To inculcate ethical practices and to establish understanding of
+professionalism, safety, sustainability, their duties, and contribution to the
+society
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. I YEAR COURSE STRUCTURE AND SYLLABUS
+(GEO-TECHNICAL ENGINEERING)
+I SEMESTER R22
+Course
+Course Type Name of the Course L T P Credits
+Code
+Professional
+22PC1GT01 Advanced Soil Mechanics 3 0 0 3
+Core-I
+Professional
+22PC1GT02 Advanced Foundation Engineering 3 0 0 3
+Core-II
+Professional
+22PC1GT03 Ground Improvement Techniques 3 0 0 3
+Core-III
+22PE1GT01 Soil Structure Interaction
+22PE1GT02 Engineering Rock Mechanics
+Professional
+22PE1GT03 Critical State Soil Mechanics 3 0 0 3
+Elective-I
+22PE1GT04 Environmental Impact Assessment
+Computational Methods in
+22PE1GT05
+Geotechnical Engineering
+22PE1GT06 Tunneling Technology
+Subsurface Investigations and
+22PE1GT07
+Instrumentation
+Offshore Geotechnical
+Professional 22PE1GT08 3 0 0 3
+Engineering
+Elective-II
+22PE1GT09 Design of Substructures
+22PE1GT010 Geotechnics for Infrastructures
+Professional
+22PC2GT01 Soil Mechanics Laboratory - I 0 0 2 1
+Core Lab-I
+Professional
+22PC2GT02 Soil Mechanics Laboratory - II 0 0 2 1
+Core Lab-II
+Communication Communication Skills for
+22SD5HS01 0 0 2 1
+Skills Academic and Research Writing
+Project 22PW4GT01 Technical Seminar 0 0 4 2
+Mandatory 22MN6HS01 Research Methodology and IPR 2 0 0 0
+Total 17 0 10 20
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. I YEAR COURSE STRUCTURE AND SYLLABUS
+(GEO-TECHNICAL ENGINEERING)
+II SEMESTER R22
+Course Type Course Code Name of the Course L T P Credits
+Professional
+22PC1GT04 Dynamics of Soils and Foundations 3 0 0 3
+Core-IV
+Professional
+22PC1GT05 Design with Geosynthetics 3 0 0 3
+Core-V
+Professional
+22PC1GT06 Earth Retaining Structures 3 0 0 3
+Core-VI
+22PC1HW04 Pavement Analysis and Design
+22PE1GT11 Earth and Rockfill Dams
+Professional
+22PE1GT12 Environment and Ecology 3 0 0 3
+Elective-III
+Numerical Methods for
+22PE1GT13
+Geotechnical Engineering
+Physical and Constitutive Modeling
+22PE1GT14
+on Geomechanics
+22PE1GT15 FEM in Geotechnical Engineering
+22PE1GT16 Geographical Information System
+Professional 22PE1GT17 Stability Analysis of Slopes 3 0 0 3
+Elective-IV
+22PE1GT18 Unsaturated Soil Mechanics
+22PE1GT19 Geotechnical Aspects of Landfills
+Professional Advanced Geotechnical
+22PC2GT03 0 0 2 1
+Core Lab-III Engineering Laboratory
+Professional
+22PC2GT04 Geotechnical Engineering Studio 0 0 2 1
+Core Lab-IV
+Industry
+22SD5GT01 Industry Engagement 0 0 2 1
+Engagement
+Project 22PW4GT02 Mini-Project 0 0 4 2
+Mandatory 22MN6HS02 Ancient Wisdom 2 0 0 0
+Total 17 0 10 20
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. II YEAR COURSE STRUCTURE AND SYLLABUS
+(GEO-TECHNICAL ENGINEERING)
+III SEMESTER R22
+Course
+Course Type Name of the Course L T P Credits
+Code
+22PE1GT20 Foundations on Weak Rocks
+Geotechnical Earthquake
+22PE1GT21
+Engineering
+Professional
+22PE1GT22 Environmental Geotechnology 3 0 0 3
+Elective-V
+22PE1GT23 Advanced Engineering Geology
+22PE1GT24 Expansive Soil Engineering
+22OE1CN01 Business Analytics
+22OE1AM01 Industrial Safety
+Open
+22OE1AM02 Operations Research 3 0 0 3
+Elective
+22OE1AM03 Entrepreneurship and Start-ups
+22OE1PS01 Waste to Energy
+Project 22PW4GT03 Project Part – I 0 0 16 8
+Total 6 0 16 14
+IV SEMESTER R22
+Course Type Course Code Name of the Course L T P Credits
+Project 22PW4GT04 Project Part - II 0 0 28 14
+Total 0 0 28 14
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PC1GT01) ADVANCED SOIL MECHANICS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To describe the in-depth theoretical concepts pertaining to the mechanical
+behavior of soil
+• To identify the various terminology and their applications in solving problems
+related to soil
+• To differentiate between the various stress states of the soil and their
+consequences
+• To apply the knowledge gained to solve problems in the field
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Describe different concepts and terms used in soil mechanics
+CO-2: Differentiate between the various stress states to be applied for a given
+problem
+CO-3: Analise the behavior of given soil structure
+CO-4: Apply the appropriate formulae to be used with the knowledge of the
+mechanics of soil
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 1 3 1 1 1
+CO-2 3 - 3 - 2 1
+CO-3 3 1 3 1 1 1
+CO-4 3 2 3 1 1 1
+UNIT-I:
+Compressibility and Consolidation: One dimensional compression, Oedometer test,
+parameters – coefficient of volume change, constrained modulus, compression
+index, swell or unloading, maximum past consolidation stress, Over consolidation ratio,
+Primary and secondary compression, consolidation -One-, two- and three-
+dimensional problems, Consolidation in layered soil and Consolidation for time
+dependent loading. Determination of Consolidation co-efficient of Consolidation
+(Casagrande and Taylor’s method)
+UNIT-II:
+Stress-Strain-Strength Behavior of Soils: Mohr Circle of Stress, drained and undrained
+shear strength of Sand and Clay. Significance of pore pressure parameters;
+Determination of shear strength; Drained, Consolidated Undrained and
+Unconsolidated Undrained tests; Interpretation of triaxial test results.
+UNIT-III:
+Geostatic Stresses: Stresses within a soil mass: Concept of stress for a particulate
+system, Effective stress principle, Geostatic stresses, Soil water hydraulics.
+UNIT-IV:
+Stress Path: Drained and untrained stress path; Stress path with respect to different
+initial state of the soil; Stress path for different practical situations.
+UNIT-V:
+Critical State Soil Mechanics: Critical state parameters; Critical state for normally
+consolidated and over consolidated soil; Significance of Roscoe and Hvorslev state
+boundary surfaces.
+TEXT BOOKS:
+1. Advanced Soil Mechanics, Das B. M., 3rd Edition, Taylor and Francis, 2007
+2. The Mechanics of Soils: An Introduction to Critical State Soil Mechanics, Atkinson J.
+H. and Bransby P. L., McGraw Hill, 1978
+REFERENCES:
+1. The Mechanics of Soils and Foundation, Atkinson J. H., 2nd Edition, 2007, McGraw
+Hill Co., 2010
+2. Soil Mechanics, Craig R. F., Spon Press, 8th Edition, An Imprint of Taylor & Francis,
+2012
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PC1GT02) ADVANCED FOUNDATION ENGINEERING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Foundation Engineering
+COURSE OBJECTIVES:
+• To create an ability to identify, formulate and solve foundation engineering
+problems
+• To design shallow and deep foundations in soil
+• To estimate the settlement of foundations
+• To abreast with advanced techniques of foundation analysis and design
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Select type of foundations to be recommended for construction of different
+engineering structures
+CO-2: Determine the Bearing capacity of soil and settlements for the design of shallow
+foundations
+CO-3: Analyze the deep foundations under different loading conditions
+CO-4: Interpret the behavior of problematic soils and suggest reliability-based design
+for shallow and deep foundations
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 - 3 1 2 1
+CO-2 3 1 3 1 1 1
+CO-3 3 - 3 1 1 2
+CO-4 3 - 3 1 1 2
+UNIT-I:
+Stress Distribution: Types of stresses, Estimation of stresses in soils, Isobar and Pressure
+bulb, Variation of vertical stress under point load along the vertical and horizontal
+directions, Newmark’s Influence Chart
+UNIT-II:
+Shallow Foundations: Requirements for satisfactory performance of foundations,
+methods of estimating bearing capacity, settlements of footings and rafts,
+proportioning of foundations using field test data and IS codes.
+UNIT-III:
+Pile Foundations: Methods of estimating load transfer of piles, settlements of pile
+foundations, pile group capacity and settlement, negative skin friction of piles,
+laterally loaded piles, pile load tests, lateral and uplift capacity of piles.
+UNIT-IV:
+Well Foundation: Types, Shapes and component parts, Forces acting, Grip length,
+Sinking of wells, Rectification of Tilts and Shifts, Lateral stability - Terzaghi's method and
+IRC method. Coffer Dams- Various types, analysis and design Foundations under
+uplifting loads
+UNIT-V:
+Foundations on Problematic Soils: Significant characteristics of expansive soils,
+Preventive measures for expansive soils; Design of foundation on collapsible and
+expansive soils, Shoring and Underpinning.
+TEXT BOOKS:
+1. Soil Mechanics and Foundation Engineering, Murthy V. N. S, CBS Publications, 2007
+2. Geotechnical Engineering, Das B. M., Cengage Learning, New Delhi, 2009
+REFERENCES:
+1. Basic and Applied Soil Mechanics, Gopal Ranjan, Rao A. S. R., New Age
+Publication, Delhi, 2000
+2. Geotechnical Engineering, Iqbal H. Khan, Prentice Hall, Delhi, 2007
+3. Foundation Analysis and Design, Bowles J. E., 5th Edition, Tata McGraw-Hill
+International Edition, 1997
+4. Shallow Foundations: Bearing Capacity and Settlement, Das B. M., CRC Press, 1999
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PC1GT03) GROUND IMPROVEMENT TECHNIQUES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To know the needs and objectives of ground improvement techniques
+• To comprehend the principles of various ground improvement methods
+• To compare different methods of ground improvement and understand their
+suitability
+• To apply the relevant method to remedy a difficult soil condition
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Apply the principles of ground improvement to a given site conditions
+CO-2: Select the choice of right technique to improve different difficult grounds
+CO-3: Estimate safety, stability of economical construction of any structure
+CO-4: Identify the issues affecting design and construction of various methods for soil
+improvement
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 1 3 1 1 1
+CO-2 3 - 2 - 1 1
+CO-3 3 1 1 1 3 1
+CO-4 3 - 2 1 3 1
+UNIT-I:
+Introduction to Ground Modification: Need and objectives of Ground Improvement,
+Classification of Ground Modification Techniques – suitability and feasibility.
+UNIT-II:
+Mechanical: Methods of compaction, Shallow compaction, Deep compaction
+techniques - Vibro-floatation, Blasting, Dynamic consolidation, pre-compression and
+compaction piles, Field compaction control.
+UNIT-III:
+Hydraulic Modification: Hydraulic Modification: Methods of dewatering – open sumps
+and ditches, Well-point system, Electro-osmosis, Vacuum dewatering wells; pre-
+loading without and with sand drains, strip drains and rope drains.
+UNIT-IV:
+Physical and Chemical Modification: Stabilization with admixtures like Cement, Lime,
+Calcium Chloride, fly Ash and Bitumen. Grouting: Categories of grouting, Art of
+grouting, Grout materials, Grouting techniques and control.
+UNIT-V:
+Soil Confinement Systems: Soil reinforcement: Reinforced earth, basic mechanism,
+type of reinforcements, selection of stabilisation/improvement of ground using
+Geotextiles, Goegrid, geomembranes, geocells, geonets, and soil nailing.
+TEXT BOOKS:
+1. Engineering Principles of Ground Modifications, Hausmann M. R., McGraw Hill, 1990
+2. Designing with Geosynthetics, Koerner R. M., Prentice Hall, 1994
+REFERENCES:
+1. Engineering Principles of Ground Modification, Hausmann M. R., McGraw-Hill
+International Edition, 1990
+2. Grouting and Deep Mixing, Yonekura R., Terashi M. and Shibazaki M. (Eds.), A. A.
+Balkema, 1966
+3. Ground Improvement, Moseley M. P., Blackie Academic & Professional, 1993
+4. Earth Reinforcement and Soil Structures, Jones C. J. F. P., Butterworths, 1985
+5. Ground Control and Improvement, Xianthakos, Abreimson and Bruce, John Wiley
+& Sons, 1994
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1GT01) SOIL STRUCTURE INTERACTION
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To introduce the concepts and terminology of soil structure interaction
+• To analyze different type of framed structures resting on natural deposits
+• To develop knowledge on behavior of piles and pile groups on soils
+• To create and formulate advance programming to solve interaction problems
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Evaluate soil structure interaction for different types of structure under various
+conditions of loading and subsoil characteristics
+CO-2: Prepare comprehensive design-oriented computer programs for interaction
+problems based on theory of sub grade reaction such as beams, footings, rafts etc.
+CO-3: Analyze different types of frame structure founded on stratified natural deposits
+with Linear and non-linear stress-strain characteristics
+CO-4: Understand action of group of piles considering stress-strain characteristics of
+real soils
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 1 3 2 1 1
+CO-2 3 1 3 2 3 1
+CO-3 3 1 3 1 1 1
+CO-4 3 1 3 1 1 1
+UNIT-I:
+Importance of Soil Structure Interaction: Critical Study of Conventional Methods of
+Foundation design, Nature and Complexities of Soil Structure Interaction.
+UNIT-II:
+Numerical Techniques in SSI: Application of Advanced Techniques of Analysis such as
+FEM and Finite Difference Method
+UNIT-III:
+Simulation Program: Effect of seismic load on structure interaction, Preparation of
+Comprehensive Design Oriented Computer Programs for simple seismic soil structure
+interaction model, Interaction of Beams, Footings, Rafts Etc. based on Sub Grade
+Reaction.
+UNIT-IV:
+Soil Structure Interaction of Framed Structure: Analysis of Different Types of Framed
+Structures Founded on Stratified Natural Deposits with Linear and Non-Linear Stress-
+Strain Characteristics.
+UNIT-V:
+Analysis of Laterally and Axially Loaded Pile Groups: Determination of Pile Capacities
+and Negative Skin Friction, Action of Group of Piles considering Stress-Strain
+Characteristics of Real Soils, Anchor Piles and Determination of Pullout Resistance.
+TEXT BOOKS:
+1. Analytical and Computer Methods in Foundation, Bowels J. E., McGraw Hill Book
+Co., 1974
+2. Elastic Analysis of Soil-Foundation Interaction, Selvadurai A. P. S, Elsevier Scientific
+Publishing Company
+3. Numerical Methods in Geotechnical Engineering, Desai C. S. and Christian J. T.,
+McGraw Hill Book Co.
+REFERENCES:
+1. Soil Structure Interaction - The Real Behaviour of Structures, Institution of Structural
+Engineers
+2. Elastic Analysis of Soil Foundation Interaction, Developments in
+Geotechnical Engineering, Vol.17, Elsevier
+3. Analysis & Design of Substructures, Swami Saran, Oxford & IBH Publishing
+4. Design of Foundation System-Principles & Practices, Kurian N. P., Narosa Publishing
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1GT02) ENGINEERING ROCK MECHANICS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the concepts of Rock Mechanics and various terminology involved
+• To conduct experiments as well as to analyze and interpret data related to the
+rock mechanics
+• To impart the understanding of the basic principles, latest developments on real
+world problems
+• To connect the theoretical knowledge to real life problems
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understand the formation of rocks and its properties
+CO-2: Determine different engineering properties of rock
+CO-3: Apply the latest trends, modern standards and state-of-the-art techniques for
+understanding rock mechanics and engineering
+CO-4: Identity the mode of failure of Rock Structures and to implement appropriate
+preventive measures
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 1 2 2 2 1
+CO-2 2 1 2 2 3 1
+CO-3 2 2 2 2 3 2
+CO-4 3 2 3 3 3 2
+UNIT-I:
+Introduction to Rock Mechanics: Rocks of peninsular India and the Himalayas,
+Development of rock mechanics, problems of rock mechanics, applications and
+scope of rock mechanics. Classification by Rock Quality Designation, Rock structure
+Rating, Geomechanics and NGI classification systems.
+UNIT-II:
+Laboratory Testing: Rock sampling, Determination of density, Porosity and Water
+absorption, Uniaxial Compressive strength, Determination of elastic parameters,
+Tensile strength, Shear Strength, Flexural strength, Strength criterion in rocks, Swelling
+and slake durability, permeability, point load strength, Dynamic methods of testing,
+Factors affecting strength of rocks.
+UNIT-III:
+In – situ Testing: Necessity and Requirements of in – situ tests – Types of in – situ tests –
+Flat jack Technique – Hydraulic Fracturing Technique, pressure meter Test, Plate Load
+Test, Shear Strength Test, Radial Jack Test, Goodman Jack Test and Dilatometer Test.
+UNIT-IV:
+Methods of Improving Rock Mass Properties: Rock Reinforcement – Rock bolting –
+Mechanism of Rock bolting – Principles of design – Types of rock bolts. Pressure
+grouting – grout curtains and consolidation grouting. Stability of Rock Slopes- Causes
+of landslides, Modes of failure, Methods of analysis, Prevention and control of rock
+slope failure, Instrumentation for Monitoring and Maintenance of Landslides.
+UNIT-V:
+Substructures on Rock: Shallow foundations, Pile and well foundations, Basement
+excavation, Foundation construction, Allowable bearing pressure. Tunnels: Rock
+stresses and deformation around tunnels, Rock support interaction, Tunnel driving
+methods, Design of tunnel lining.
+TEXT BOOKS:
+1. Introduction to Rock Mechanics, Goodman, 2nd Edition, Wiley, 1989
+2. Engineering in Rocks for Slopes, Foundations and Tunnels, Ramamurthy T., 3rd
+Edition, Prentice Hall of India, 2014
+REFERENCES:
+1. Fundamentals of Rock Mechanics, Jaeger J. C. and Cook N. G. W., 3rd Edition,
+Chapman and Hall, London, 1979
+2. Underground Excavation in Rock, Hoek E. and Brown E. T., 1982
+3. Rock Mechanics for Underground Mining, Brady B. H. G. and Brown E. T., 3rd Edition,
+Chapman & Hall, Springer Science & Business Media, 2007
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1GT03) CRITICAL STATE SOIL MECHANICS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To describe the in-depth theoretical concepts pertaining to the critical behavior
+of soil
+• To identify the various terminology and their applications in solving problems
+related to soil
+• To differentiate between the various critical stress states of the soil and their
+consequences
+• To enable the students to connect the knowledge gained to solve field problems
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Describe different concepts and terms used in critical soil mechanics
+CO-2: Differentiate between the various critical stress states to be applied for a given
+problem
+CO-3: Predict the kind of critical behavior expected from a given soil structure
+CO-4: Identify the appropriate formulae to be used with the knowledge of the critical
+mechanics of soil
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 1 3 1 1 1
+CO-2 3 - 3 1 1 1
+CO-3 3 - 3 1 1 1
+CO-4 3 - 3 1 1 1
+UNIT-I:
+Soil Behavior: State of stress and strain in soils, Stress and strain paths and invariants,
+behavior of soils under different laboratory experiments.
+UNIT-II:
+The Critical State Line and the Roscoe Surface: Families of undrained tests, Families of
+drained tests, the critical state line, drained and undrained surfaces, The Roscoe
+surface.
+UNIT-III:
+Behavior of Over Consolidated Samples: The Hvorslev surface: Behaviour of over
+consolidated samples, drained and undrained tests, The Hvorslev surface, complete
+State Boundary Surface, Volume changes and pore water pressure changes.
+UNIT-IV:
+Behaviour of Sands: The critical state line for sands, Normalized plots, the effect of
+dilation, Consequences of Taylor's model.
+UNIT-V:
+Behaviour of Soils before Failure: Elastic and plastic deformations, Plasticity theory,
+Development of elastic-plastic model based on critical state soil mechanics.
+TEXT BOOKS:
+1. The Mechanics of Soils: An Introduction to Critical State Soil Mechanics, Atkinmson
+J. H. and Bransby P. L., McGraw Hill, 1982
+2. Advanced Soil Mechanics, Das B. M., 3rd Edition, Taylor and Francis, 2007
+REFERENCES:
+1. Soil Behaviour and Critical State Soil Mechanics, D. M. Wood, Cambridge University
+Press, 1990
+2. Fundamental of Geotechnical Engineering, B. M. Das, Cengage Learning, 2013
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1GT04) ENVIRONMENTAL IMPACT ASSESSMENT
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To educate the students on the scope, steps involved, and various methods
+related to assessment of environmental impact due to development projects
+• To impart Knowledge on Environmental Management and Environmental Impact
+Assessment
+• To understand the environmental impact assessment procedure
+• To apply the knowledge of recent environmental issues
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Predict environmental impacts due to developmental activities
+CO-2: Define various environmental impact assessment methodologies
+CO-3: Examine legislations to safeguard environment
+CO-4: Identify and analyze the recent environmental issues
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 2 2 2 1 1
+CO-2 3 3 2 1 1 1
+CO-3 3 1 1 2 1 1
+CO-4 3 2 2 2 1 1
+UNIT-I:
+Basic Concept of EIA: Initial environmental Examination, Elements of EIA,- factors
+affecting EIA IMPACT evaluation and analysis, preparation of Environmental Base
+maps, Classification of environmental parameters.
+UNIT-II:
+EIA Methodologies: Introduction, Criteria for the selection of EIA Methodology, E I A
+methods, Ad-hoc methods, matrix methods, Network method Environmental Media
+Quality Index method, overlay methods, Benefit Analysis.
+UNIT-III:
+Assessment of Impact and Land Use: Assessment of impact of development activities
+on vegetation and wildlife, environmental impact of deforestation- Causes and
+effects of deforestation.
+UNIT-IV:
+Environmental Audit & Environmental legislation: Objectives of Environmental Audit,
+Types of environmental Audit, Audit protocol, stages of Environmental Audit, on-site
+activities, evaluation of Audit data and preparation of Audit report, Post Audit
+activities.
+UNIT-V:
+The Environmental protection Act, The water Act, The Air (Prevention & Control of
+pollution Act.). Wild life Act. EIA Report preparation and Case studies. Statement for
+various industries.
+TEXT BOOKS:
+1. Environmental Impact Assessment Methodologies, Anjaneyulu Y., B. S. Publication
+2. Environmental Science and Engineering, Glynn J. and Gary W. H. K., Prentice Hall
+Publishers, 1999
+REFERENCES:
+1. Environmental Science and Engineering, Suresh K. Dhaneja, S. K. Katania & Sons
+2. Environmental Pollution and Control, Bhatia H. S., Galgotia Publication, 2003
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1GT05) COMPUTATIONAL METHODS IN GEOTECHNICAL ENGINEERING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the finite element method as it is used in geotechnical engineering
+and geomechanics
+• To understand critical aspects of commonly encountered problems in
+geotechnical engineering
+• To apply a commercial finite element code for geotechnical analysis
+• To critically analyse numerical results of the finite element method for solving
+problems
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Comprehend finite element and finite difference software
+CO-2: Analyze shallow and deep foundations, retaining walls, tunnels under different
+loading conditions using FEM packages
+CO-3: Predict slope stability using numerical software
+CO-4: Apply seismic hazard and ground response analysis
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 - 3 3 3 1
+CO-2 3 1 3 1 3 -
+CO-3 3 - 3 2 3 1
+CO-4 3 - 2 1 3 1
+UNIT-I:
+Solution of Non-linear and Linear Equations: Bisection, False Position, Newton-
+Raphson, Jacobi’s method, Gauss Seidel method.
+UNIT-II:
+Solution of ODE Using Numerical Techniques: Initial value problems and boundary
+value problems; Taylor series method, Picard's method, Euler's method, Runge-Kutta
+method The continuum theory of Soil Mechanics, methodology of continuum
+mechanics, introduction to vector algebra, tensor algebra and tensor calculus,
+deformation and strain, traction and stress.
+UNIT-III:
+Finite Difference Method: Boundary value and Initial value problems – Dirichlet
+conditions, Neumann conditions; Ordinary and partial differential equations; Non-
+linear problems.
+UNIT-IV:
+Introduction to Finite Element Method: Formulation of weak form, interpolation
+functions
+UNIT-V:
+Constitutive Modelling of Soil: Critical state soil mechanics; Elastic-plastic constitutive
+models; Cam-Clay model and Modified Cam-Clay model, Mohr-Coulomb model,
+Hardening Soil model
+TEXT BOOKS:
+1. Numerical Methods for Scientific and Engineering Computations, Jain M. K.,
+Iyengar S. R. K. and Jain R. K., 3rd Edition, New Age International, 2012
+2. Finite Elements in Geotechnical Engineering, Naylor D. J. and Pande G. N.,
+Pineridge Press, 1981
+3. Numerical Methods in Geotechnical Engineering, C. S. Desai and J. T. Christian,
+McGraw Hill, 1977
+REFERENCES:
+1. Constitutive Modelling in Geomechanics: Introduction, Alexander Puzrin, Springer,
+2012
+2. Applied Soil Mechanics with ABAQUS Applications, Sam Helwany, John Wiley, 2007
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1GT06) TUNNELING TECHNOLOGY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the use of elastic and plastic analysis in the design of underground
+support system
+• To explain the field tests generally conducted during and after construction of
+under structures
+• To use of codes and standards in design of underground structures
+• To classify the rock mass system and ground condition in tunneling
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Explain the various principles used in design of underground construction
+projects
+CO-2: Estimate and analyze various moduli of deformation of rocks by performing the
+suitable rock test
+CO-3: Apply the knowledge gained to the design of tunnel in different ground
+conditions
+CO-4: Design the underground structure using empirical, analytical and numerical
+approaches
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 1 3 2 3 1
+CO-2 3 1 3 2 1 1
+CO-3 3 1 3 2 2 1
+CO-4 3 1 3 2 2 1
+UNIT-I:
+Introduction: Planning and exploration for various underground construction projects,
+stereographic projection method, principle and its application in underground
+excavation design.
+UNIT-II:
+Stresses: Elastic stress distribution around tunnels, stress distribution for different shapes
+and under different in-situ stress conditions, Greenspan method, design principles,
+multiple openings, openings in laminated rocks, elasto-plastic analysis of tunnels,
+Daemen’s theory
+UNIT-III:
+Classification Systems: Application of rock mass classification systems, ground
+conditions in tunneling, analysis of underground openings in squeezing and swelling
+ground, empirical methods.
+UNIT-IV:
+Tunneling Methods: Estimation of elastic modulus and modulus of deformation of
+rocks; uniaxial jacking / plate jacking tests, radial jacking and Goodman jacking tests,
+long term behaviour of tunnels and caverns, New Austrian Tunneling Method (NATM),
+Norwegian Tunneling Method (NTM), construction dewatering.
+UNIT-V:
+Instrumentation and Monitoring: In-situ stress, flat jack, hydraulic fracturing and over
+coring techniques and USBM type drill hole deformation gauge, single and multi-point
+bore hole extensometers, load cells, pressure cells, etc. Instrumentation and
+monitoring of underground excavations, during and after construction, various case
+studies.
+TEXT BOOKS:
+1. Underground Excavations in Rocks, Hoek E. and Brown E. T., Institute of Mining
+Engineering
+2. Rock Mechanics and Design of Structures in Rocks, Obert L. and Duvall W. I., John
+Wiley
+REFERENCES:
+1. Rock Mass Classification-A Practical Engineering Approach, Singh B. and Goel R.
+K., Elsevier
+2. Tunnelling in Weak Rocks, Singh B. and Goel R. K., Elsevier
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1GT07) SUBSURFACE INVESTIGATIONS AND INSTRUMENTATION
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To apply the various methods of geotechnical investigation and the field tests
+based on field conditions
+• To develop clear idea about planning and execution of geotechnical
+investigation programme
+• To analyze and take proper engineering decisions in practical situations
+• To gain the knowledge about the instrumentation for critical sites
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Identify subsurface investigation based on the requirement of civil engineering
+project and site condition
+CO-2: Execute different subsurface exploration tests, collect disturbed/undisturbed
+samples for laboratory tests and can suggest design parameters
+CO-3: Understand various methods for estimation of dynamic soil properties required
+for design purpose
+CO-4: Categories instrumentation scheme for monitoring of critical sites
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 1 3 1 1 1
+CO-2 3 2 3 1 1 1
+CO-3 3 - 3 3 1 1
+CO-4 3 - 3 1 1 1
+UNIT-I:
+Planning Investigation and soil sampling: Factors to be considered; Exploration for
+preliminary and detailed design; Guidelines for location, depth and spacing of drilling
+bore holes. Sampling- Disturbed and undisturbed soil sampling, representative
+samples; Methods to minimize sample disturbance; Types of samplers; Preservation
+and handling of samples.
+UNIT-II:
+Exploration Techniques: Accessible exploration and Semi-direct methods; Drilling
+methods, equipment’s, and applicable soil types; Stabilization of boreholes, Logging
+of Boreholes-logging methods, Ground water observations-Water table fluctuations
+and effects, Preparation of soil profile-Calculations.
+UNIT-III:
+Field Tests: Standard Penetration Test; Dynamic and static cone penetration tests;
+Plate load test, Pressure meter test; Field vane shear; Dilatometer, Field permeability
+test; Analysis of test results, Soil Investigation report.
+UNIT-IV:
+Instrumentation: Settlement gauges, Inclinometers, Stress measurements, Strain
+gauges, Seismic measurements, Pore pressure measurements.
+UNIT-V:
+Geophysical Methods: Geophysical methods-types, Electrical Resistivity Methods–
+Schlumberger & Wenner Array, Electrical Profiling-Sounding Method, Seismic
+Methods-Seismic refraction, and reflection methods, Crosshole seismic testing,
+Downhole seismic testing, Sub-soil Investigation Report.
+TEXT BOOKS:
+1. Foundation Analysis and Design, Bowles J. E., McGraw Hill International, 1997
+2. In Situ Testing in Geomechanics, Schnaid F., Taylor and Francis
+3. Advanced Soil Mechanics, Das B. M., 2nd Edition, Taylor and Francis, 1997
+REFERENCES:
+1. Geotechnical Engineering Investigation Manual, Hunt R. E., 2nd Edition, McGraw
+Hill, 2005
+2. Principles of Geotechnical Engineering, Braja M. Das, 7th Edition, Cengage
+Learning Inc., 2010
+3. Soil Mechanics & Foundation Engineering, Purushothama Raj P., Pearson
+Education India, 2008
+4. American Society of Civil Engineers: Soil Sampling, 1999
+5. Engineering Properties of Soil and Their Measurements, Bowles B., McGraw-Hill
+Companies, 1992
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1GT08) OFFSHORE GEOTECHNICAL ENGINEERING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the behavior of marine soils in offshore and coastal zones
+• To investigate Marine soil samples under regular and cyclic loads
+• To analyze and design foundations for offshore structures
+• To study and Prepare solutions for coast protection
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Execute investigation program for marine soil deposits
+CO-2: Select necessary design parameters
+CO-3: Design suitable marine foundation as per project requirement
+CO-4: Develop numerical model for response of marine foundation for offshore
+conditions
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 1 3 1 3 1
+CO-2 3 2 3 1 2 1
+CO-3 3 - 3 1 3 1
+CO-4 3 1 3 1 3 1
+UNIT-I:
+Marine Soil Deposits: Offshore environment, Offshore structures and foundations,
+Specific problems related to marine soil deposits, Physical and engineering properties
+of marine soils.
+UNIT-II:
+Behavior of Soils Subjected to Repeated Loading: Effect of wave loading on offshore
+foundations, Behavior of sands and clays under cyclic loading, Laboratory
+experiments including repeated loading, Cyclic behavior of soils based on
+fundamental theory of mechanics, Approximate engineering methods which can be
+used for practical cases.
+UNIT-III:
+Site Investigation in the Case of Marine Soil Deposits: Challenges of site investigation
+in marine environment, Different site investigation techniques, sampling techniques,
+Geophysical methods, Recent advancements in site investigation and sampling used
+for marine soil deposits.
+UNIT-IV:
+Foundations in Marine Soil Deposits: Different offshore and near shore foundations,
+Gravity platforms, Jack-up rigs, pile foundations, caissons, spud cans.
+UNIT-V:
+Numerical Modeling of Marine Foundations Subjected to Wave Loading: Numerical
+modeling of cyclic behavior of soils, empirical models, elastic-plastic models, FEM
+analysis of marine foundations subjected to wave loading.
+TEXT BOOKS:
+1. Numerical Methods in Geotechnical Engineering, S. Chandrakant Desai and John
+T. Christian, McGraw Hill Book Company, 1977
+2. Numerical Methods for Scientific and Engineering Computations, M. K. Jain, S. R.
+K. Iyengar and R. K. Jain, 3rd Edition, New Age International
+REFERENCES:
+1. Finite Elements in Geotechnical Engineering, D. J. Naylor and G. N. Pande,
+Pineridge Press Ltd.
+2. Applied Soil Mechanics, Sam Helwany, John Wiley & Sons
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1GT09) DESIGN OF SUBSTRUCTURES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To gain familiarity with different types of foundation
+• To explore the students to the design of shallow foundations and deep foundations
+• To understand the concept of designing shallow, deep and machine foundations
+• To understand the purpose of retaking wall
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Design shallow and deep foundations for different loading conditions
+CO-2: Examine and check the stability of retaining walls
+CO-3: Analise design of machine foundations
+CO-4: Estimate the load carrying capacity of pile foundation
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 1 3 2 3 1
+CO-2 3 2 2 2 3 1
+CO-3 3 1 2 2 3 1
+CO-4 3 - 2 2 3 1
+UNIT–I:
+Shallow Foundations: Basic requirements of foundation –Types and selection of
+foundations and Special foundations.
+Design of reinforced concrete isolated, combined, eccentric, strip, and strap footings
+used for infrastructure projects
+UNIT–II:
+Raft Foundations: Types of rafts, Design of slab raft foundation and Design of beam
+and slab raft foundation used for infrastructure projects.
+UNIT–III:
+Pile Foundations: Introduction, design of piles, pile caps and pile- raft foundation.
+UNIT–IV:
+Design of Retaining Walls: Stability Analysis and design of gravity, Cantilever retaining
+walls.
+UNIT–V:
+Machine Foundations: Vibration analysis of machine foundation - Design of
+foundation for Reciprocating machines and Impact machines - as per l.S. Codes.
+TEXT BOOKS:
+1. Foundation Analysis and Design, Bowles J. E., McGraw Hill Publishing, 1986
+2. Foundation Design and Construction, Tomlinson M. J., 6th Edition, Longman, 1995
+3. Principles of Foundation Engineering, Design and Construction, Das B. M., 4th
+Edition, PWS Publishing, 1999
+REFERENCES:
+1. Foundation Design Manual, Narayan V. Nayak, Dhanpat Rai & Sons, 2006
+2. Foundations for Machines, Analysis and Design, Prakash Shamsher and Puri Vijay
+K., John Wiley and Sons, 1988
+3. IS 2911: Part 1: Sec 1: 1979 Code of Practice for Design and Construction of Pile
+Foundations: Part 1 Concrete Piles, Section 1 Driven Cast In-Situ Concrete Piles
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PE1GT10) GEOTECHNICS FOR INFRASTRUCTURES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To impart knowledge required for computing stress and settlement at any point
+due to foundation loads
+• To evaluate the stability of foundations, slopes, cuts and retaining structures both
+for the conditions of undrained and drained loading through theorems of
+plastic collapses
+• To apply the theories of elasticity and plasticity to soils
+• To understand the theories of critical state soil mechanics
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Decide the type of mathematical models to be used for analyzing the
+behavior of soil mass at critical state
+CO-2: Understand the elastic and plastic behavior of soils under various loads
+CO-3: Stress deformation behavior for various loads and subsoil conditions
+CO-4: Illustrate stress deformation behavior around underground openings
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 - 2 1 3 1
+CO-2 3 - 3 1 3 1
+CO-3 3 - 1 1 3 1
+CO-4 3 - 1 1 2 1
+UNIT- I:
+Theory of Elasticity: Basic concepts, definitions, and notations of stress & strain
+components – Generalized Hooke’s Law, Equilibrium and Compatible conditions in
+Cartesian, Polar coordinates – Principal stresses and strains
+UNIT- II:
+Theory of Plasticity: Ideal Plastic substance strain hardening – yield criteria – Tresca, &
+Van Mises, Mohr & Coulomb, Drucker-Prager theories, Critical State Soil Mechanics, –
+applications to soil mechanics problems.
+UNIT- III:
+Stresses and Displacements due to Surface and Subsurface Loads –Boussinesq,
+Cerutti, Mindlin Solutions, Stresses and Displacements in Finite Layer & Multi-Layered
+Systems. Stress-path methods; Rotation of Foundations.
+UNIT- IV:
+Critical state & constructive behavior of soils – introduction to yield criteria,
+constructive modeling.
+UNIT- V:
+Underground Structures: Stresses and Displacements around Underground Openings
+unlined and lined tunnels.
+TEXT BOOKS:
+1. Elastic Solutions for Soil and Rock Mechanics, Poulos H. G. & Davis E. H. John Wiley
+and Sons, 1974
+2. Principles of Foundation Engineering, Das B. M., 5th Edition Nelson Engineering, 2004
+3. Foundations of Theoretical Soil Mechanics, Harr M. E., McGraw Hill, 1966
+REFERENCES:
+1. An Introduction to the Mechanics of Soils and Foundation - Through Critical State
+Soil Mechanics, Atkinson J. H., McGraw Hill, 1993
+2. Soil Behavior and Critical State Soil Mechanics, Wood D. M., Cambridge University
+Press, 1991
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PC2GT01) SOIL MECHANICS LABORATORY-I
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To know the concepts of various types of soils
+• To understand the real-world problem related to geotechnical engineering
+• To apply the knowledge of science, mathematics and engineering with the
+context of applications in geotechnical engineering
+• To conduct experiments, analyze and interpret data related to the various
+laboratory tests studied in geotechnical engineering
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Identify the various types of soils existing at the site
+CO-2: Apply techniques, skills, and modern engineering tools necessary for
+engineering practice
+CO-3: Predict probable problems that may be encountered in any Geotechnical
+Engineering project
+CO-4: Formulate and solve geotechnical engineering related issues
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 1 3 1 1 1
+CO-2 3 - 3 2 1 1
+CO-3 3 - 3 1 1 1
+CO-4 3 1 3 3 3 1
+LIST OF PRACTICALS:
+1. Specific gravity of coarse- and fine-grained soils.
+2. Grain Size Distribution Analysis:
+a) Sieve analysis and b) Hydrometer analysis
+3. Cone penetrometer test
+4. Atterberg Limits (Liquid Limit, Plastic limit, Shrinkage limit)
+5. Visual Classification Tests
+6. Test for relative density of sand
+7. Standard and modified proctor compaction test
+8. Falling head permeability test and Constant head permeability test
+9. Consolidation test
+10. Free swell index test
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22PC2GT02) SOIL MECHANICS LABORATORY-II
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To know the concepts of various types of soils
+• To introduce traditional program consisting mostly of practical courses related to
+geotechnical engineering
+• To apply the knowledge of science, mathematics, and engineering with the
+context of applications in geotechnical engineering
+• To conduct experiments, analyze and interpret data related to the various
+laboratory tests studied in geotechnical engineering
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Identify the suitable type of test for determining the shear strength of soils
+CO-2: determine the soil density at filed condition
+CO-3: Predict swelling behavior of soils
+CO-4: investigate the stress, strain behavior of soils
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 1 2 2 3 1
+CO-2 3 1 2 1 3 1
+CO-3 3 1 2 1 2 1
+CO-4 3 1 2 1 3 1
+LIST OF PRACTICALS:
+1. Unconfined compression test
+2. Direct shear test
+3. Tri-axial compression test
+4. Laboratory vane shear test
+5. Field Density test
+6. Modified direct shear test
+7. California Bearing Ratio test
+8. Brazilian Test
+9. Swell Pressure test
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22SD5HS01) COMMUNICATION SKILLS FOR ACADEMIC AND RESEARCH WRITING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To equip the students with an understanding of the mechanics and conventions
+of academic and research writing including cohesion and coherence to produce
+texts that demonstrate precision and clarity
+• To enable students to present focused, logical arguments that support a thesis
+• To empower the students to find, analyze, evaluate, summarize and synthesize
+appropriate source material for literature review
+• To enable students to use appropriate language to analyze and interpret the
+data, and prepare an outline
+• To enable students to become adept in the requirements and specifications of
+standard writing to produce academic and research papers
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply knowledge of academic language features, and text structure and
+ensure cohesion and coherence as connected to various text types
+CO-2: Demonstrate the use of writing process strategies through outlining, reviewing,
+composing, and revising
+CO-3: Evaluate sources and use summary, analysis, synthesis, and integration to
+construct a literature review on a topic chosen by the student
+CO-4: Prepare an outline for Research Articles and Thesis
+CO-5: Apply standard documentation style to produce academic and research
+papers that meet the demands of specific genres, purposes, and audiences
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 3 3 1 - 2
+CO-2 2 3 3 1 - 2
+CO-3 2 3 3 1 - 2
+CO-4 3 3 3 1 - 1
+CO-5 3 3 3 1 - 2
+UNIT-I:
+a) Factors Influencing Effective Writing: Mechanics of Writing, Purpose of Writing,
+Audience/reader, Organisation- Cohesion, and Coherence
+b) Features of Academic Writing: Introduction, Complexity, Formality, Precision,
+Objectivity, Explicitness, Accuracy and Appropriacy, Relevance, Hedging
+UNIT-II:
+1. Academic Writing Forms:
+a) Analysing arguments; Building an argument
+b) Making a Counter Argument- Managing tone, and tenor
+2. Types of Research: Primary and Secondary Research;
+3. Research Design: Statement of the Problem, Survey of relevant literature, Writing
+Hypotheses, Developing Objectives; Research Tools
+UNIT-III:
+a) Criteria of Good Research- Avoiding Plagiarism
+b) Data Interpretation
+c) Preparing an outline for Research Articles & Research Reports
+UNIT-IV:
+a) Reference Skills -Paraphrasing (Change of parts of speech, word order, synonyms,
+using the passive form), -Summarizing (Steps in summarising)
+b) Documentation Format: APA style
+c) Documentation Format: MLA style
+UNIT-V:
+a) Writing Article Reviews
+b) Report Writing: a) Writing Technical Reports b) Writing Proposals
+TEXT BOOKS:
+1. A Course in Academic Writing, Gupta R., Orient Black Swan, 2010
+2. Academic Writing: Exploring Processes and Strategies, Leki I., CUP, 1998
+3. Writing-up Research: Experimental Research Report Writing for Students of English,
+Weissberg R., & Buker S., Englewood Cliffs, Prentice Hall, 1990
+REFERENCES:
+1. English Academic Writing for Students and Researchers. Yakhontova T., 2003
+2. Inside Track: Successful Academic Writing, Gillett A., Hammond A., Martala M.,
+Pearson Education, 2009
+3. English for Academic Research: Writing Exercises, Wallwork, Springer, 2013
+4. The MLA Handbook for Writers of Research Papers, 7th Edition, Modern Language
+Association
+5. Academic Writing for Graduate Students: A Course for Non-native Speakers of
+English, Swales J. M., & Feak C. B., University of Michigan Press, 1994
+ONLINE RESOURCES:
+1. https://www.coventry.ac.uk/study-at-coventry/student-support/academic-
+support/centre-for-academic-writing/support-for-students/academic-writing-
+resources/
+2. https://www.biz-e-training.com/resources-for-learners/academic-writing-online-
+resources/
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(22MN6HS01) REASEARCH METHODOLOGY AND IPR
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE-I SE-II SEE TOTAL
+2 0 0 50 50 - 100
+COURSE OBJECTIVES:
+• To understand the research problem
+• To know the literature studies, plagiarism and ethics
+• To get the knowledge about technical writing
+• To analyze the nature of intellectual property rights and new developments
+• To know the patent rights
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand research problem formulation
+CO-2: Analyze research related information & Follow research ethics
+CO-3: Understand that today’s world is controlled by Computer, Information
+Technology, but tomorrow world will be ruled by ideas, concept, and creativity
+CO-4: Understanding that when IPR would take such important place in growth of
+individuals & nation, it is needless to emphasis the need of information about
+Intellectual Property Right to be promoted among students in general & engineering
+in particular
+CO-5: Understand that IPR protection provides an incentive to inventors for further
+research work and investment in R & D, which leads to creation of new and better
+products, and in turn brings about, economic growth and social benefits
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 - 2 2 3 3
+CO-2 3 - 2 2 3 3
+CO-3 3 2 - 2 - 3
+CO-4 3 2 - 2 - 3
+CO-5 3 2 - 2 - -
+UNIT–I:
+Meaning of research problem, Sources of research problem, Criteria Characteristics
+of a good research problem, Errors in selecting a research problem, Scope and
+objectives of research problem.
+Approaches of investigation of solutions for research problem, data collection,
+analysis, interpretation, Necessary instrumentations
+UNIT–II:
+Effective literature studies approaches, analysis, Plagiarism, Research ethics
+UNIT–III:
+Effective technical writing, how to write report, Paper Developing a Research
+Proposal, Format of research proposal, a presentation and assessment by a review
+committee
+UNIT–IV:
+Nature of Intellectual Property: Patents, Designs, Trade and Copyright. Process of
+Patenting and Development: technological research, innovation, patenting,
+development. International Scenario: International cooperation on Intellectual
+Property. Procedure for grants of patents, Patenting under PCT.
+UNIT–V:
+Patent Rights: Scope of Patent Rights. Licensing and transfer of technology. Patent
+information and databases. Geographical Indications. New Developments in IPR:
+Administration of Patent System.
+New developments in IPR; IPR of Biological Systems, Computer Software etc.
+Traditional knowledge Case Studies, IPR and IITs
+TEXT BOOKS:
+1. Research Methodology: An Introduction for Science & Engineering Students, Stuart
+Melville and Wayne Goddard
+2. Research Methodology: An Introduction, Wayne Goddard and Stuart Melville
+3. Research Methodology: A Step by Step Guide for beginners, Ranjit Kumar, 2nd
+Edition
+REFERENCES:
+1. Resisting Intellectual Property, Halbert, Taylor & Francis Ltd., 2007
+2. Industrial Design, Mayall, McGraw Hill, 1992
+3. Product Design, Niebel, McGraw Hill, 1974
+4. Intellectual Property in New Technological Age, Robert P. Merges, Peter S. Menell,
+Mark A. Lemley, 2016
+5. Intellectual Property Rights Under WTO, T. Ramappa, S. Chand, 2008
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PC1GT04) DYNAMICS OF SOILS AND FOUNDATIONS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Soil Mechanics, Foundation Engineering, Physics,
+Mathematics, Strength of Materials
+COURSE OBJECTIVES:
+• To understand the fundamental concepts of vibrations
+• To calculate and assess liquefaction behavior of soil
+• To determine the dynamic properties of soil by conducting laboratory and field
+test
+• To design foundation for supporting different types of vibrating machines
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Differentiate propagation of body waves and surface waves through soil
+CO-2: Perform different methods for estimation of dynamic soil properties required for
+design purpose
+CO-3: Predict dynamic bearing capacity and assess liquefaction potential of any site
+CO-4: Apply theory of vibrations to design machine foundation based on dynamic
+soil properties and bearing capacity
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 1 3 2 3 1
+CO-2 3 1 2 2 1 1
+CO-3 3 1 3 3 3 2
+CO-4 3 1 3 3 2 1
+UNIT-I:
+Fundamentals of Vibrations: single, two and multiple degree of freedom systems,
+vibration isolation, vibration absorbers, vibration measuring instruments. Wave
+Propagation- elastic continuum medium, semi-infinite elastic continuum medium, soil
+behaviour under dynamic loading.
+UNIT-II:
+Liquefaction of Soils: liquefaction mechanism, factors affecting liquefaction, studies
+by dynamic tri-axial testing, oscillatory shear box, shake table and blast tests,
+assessment of liquefaction potential.
+UNIT-III:
+Dynamic Elastic Constants of Soil: determination of dynamic elastic constants, various
+methods including block resonance tests, cyclic plate load tests, wave propagation
+tests, oscillatory shear box test.
+UNIT-IV:
+Machine Foundations: Design criteria for machine foundations; Elastic homogeneous
+half space and lumped parameter solutions, analysis and design of foundations for
+reciprocating and impact type machines, turbines, effect of machine foundation on
+adjoining structures.
+UNIT-V:
+Dynamic Bearing Capacity of Foundations: Introduction to bearing capacity of
+dynamically loaded foundations, Pseudo-static Analysis, Bearing capacity of
+Footings, Dynamic Analysis, response of pile foundations.
+TEXT BOOKS:
+1. Handbook of Machine Foundations, Srinivasulu P., Vaidyanathan C. V., Tata
+McGraw Hill Education, 1976
+2. Soil Dynamics and Machine Foundation, Swami Saran, Galgotia Publishing, 1999
+REFERENCES:
+1. Design of Structures and Foundations for Vibrating Machines, Arya S. D., O’Neil M.
+and Pincus G., Gulf Publishing Co., 1979
+2. Foundation for Machines: Analysis and Design, Prakash S. and Puri V. K., John Wiley
+& Sons, 1998
+3. Soil Dynamics, Prakash S., McGraw Hill, 1981
+4. Vibration Analysis and Foundation Dynamics, Kameswara Rao N. S. V., Wheeler
+Publication Ltd., 1998
+5. Dynamics of Structures and Foundation, I. Chowdhary and S. P. Dasgupta, 2009
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PC1GT05) DESIGN WITH GEO-SYNTHETICS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To create awareness of the latest trends, modern standards and state of the art
+techniques for solving geotechnical engineering problems
+• To develop an ability to design a geosynthetic system to meet desired needs such
+as economic, environmental and sustainability related
+• To identify latest trends in the curriculum consisting mostly of practical courses in
+numerous special aspects of civil engineering
+• To apply the basic knowledge and to solve critical civil engineering problems in
+the field like landslides, pavements, dams etc.
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Describe different concepts used in Civil Engineering
+CO-2: Identify the critical awareness of current issues in Geotechnical Engineering
+CO-3: Examine the various techniques, skills, and modern engineering tools for
+successful carrier in geotechnical engineering practices
+CO-4: Solve various Geotechnical Engineering problems using geosynthetics
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 2 3 3 - -
+CO-2 2 2 3 2 - -
+CO-3 3 2 3 1 2 -
+CO-4 2 2 3 2 - -
+UNIT-I:
+An Overview of Geosynthetic: Geosynthetics classifications, functions, applications,
+raw materials used. Different types of Geosynthetics, manufacturing, Design, and
+sustainability
+UNIT-II:
+Geosynthetic Testing: Various properties of Geosynthetics - physical properties,
+mechanical properties, hydraulic properties & endurance properties.
+UNIT-III:
+Geosynthetic in Filtration, Drainage and Erosion Control: Mechanism of filtration and
+drainage functions & their applications, Design step for erosion control and
+geocomposite drainage Geosynthetics in Pavements & Embankments: Mechanisms
+and concept of pavement, design of unpaved road, Giroud and Noiray method, U.S.
+Forest services, reflection cracking, pavement rehabilitation and repair -Design of
+basal reinforced embankment, placement of Geosynthetics, construction procedure,
+widening of existing road embankments
+UNIT-IV:
+Geosynthetic in Reinforced Soil Retaining Wall & Slopes: Different types of facing
+elements, construction procedure, design of Geosynthetics wrap around faced wall,
+geogrid reinforced soil walls, geocell wall, gabion wall. Design of reinforced slopes,
+guidelines for design of reinforced slopes
+UNIT-V:
+Geosynthetic in Ground Improvement, Landfills & Bearing Capacity: Consolidation
+techniques, Development of design chart for prefabricated vertical drains, ground
+instrumentation and monitoring, Design of encased stone columns, geocell/geofoam
+systems.
+Design of landfill liners, Bearing capacity of Geosynthetics reinforced soil system,
+geocell reinforced sand overlaying soft clay
+TEXT BOOKS:
+1. Geosynthetics – An Introduction, G. V. Rao, Sai Master Geo-environmental Services
+Pvt. Ltd. Hyderabad, 2011
+2. Designing with Geosynthetics, Vol. 1, Koerner R. M., 6th Edition, Xlibris Corporation,
+2012
+REFERENCES:
+1. Engineering Principles of Ground Modifications, Hausmann M. R., McGraw Hill
+Ryerson Limited, 1990
+2. Ground Control and Improvement, Xianthakos Abremson and Bruce, John Wiley
+& Sons, 1994
+3. Ground Improvement, Mosley, 2nd Edition, CRC Press, 2004
+4. Earth Reinforcement and Soil Structures, Jones C. J. F. P., Elsevier, 2013
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PC1GT06) EARTH RETAINING STRUCTURES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Soil Mechanics
+COURSE OBJECTIVES:
+• To describe the theoretical concepts considered in design of retaining structures
+• To explain and arrive at the design methodology prescribed for various retaining
+structures
+• To identify the kind of retaining structure required to serve the design purpose
+adequately
+• To connect the knowledge gained to real life earth retaining structure problems
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Describe different concepts and terms used in retaining structures
+CO-2: Identify various formulae used and the design procedures of different retaining
+structures
+CO-3: Relate and explain the effectiveness of any kind of retaining structure for a
+given situation
+CO-4: Analyze the retaining structures using the appropriate methodology and
+formulas
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 2 3 2 - -
+CO-2 2 1 3 2 - -
+CO-3 2 1 3 3 - -
+CO-4 2 2 3 2 - -
+UNIT-I:
+Earth Pressure: Rankine and Coulomb theories, active, passive and pressure at rest;
+concentrated surcharge above the back fill, earth pressure due to uniform surcharge,
+earth pressure of stratified backfills, saturated and partially saturated backfill.
+Retaining Walls- Types of retaining walls, proportioning of retaining walls, stability of
+retaining walls, mechanically stabilized retaining walls/reinforced earth retaining walls.
+UNIT-II:
+Sheet Pile Walls: Construction methods- Cantilever and Anchored sheet pile wall, free
+earth system, fixed earth system.
+UNIT-III:
+Bulkheads: Bulkheads with free and fixed earth supports, equivalent beam method,
+Anchorage of bulkheads and resistance of anchor walls, spacing between bulkheads
+and anchor walls, resistance of anchor plates.
+UNIT-IV:
+Tunnel and Conduit: Stress distribution around tunnels, Types of conduits, Load on
+projecting conduits; Arching and Open Cuts: Arching in soils- Analysis of Arching in
+Soil.
+UNIT-V:
+Braced Excavations: Earth pressure against bracings in cuts-Design of various
+components, Heave of the bottom of cut in soft clays, Diaphragm walls –slurry support;
+Soil Nailing.
+TEXT BOOKS:
+1. Principles of Foundation Engineering, Das B. M, 8th Edition, Cengage Learning, 2015
+2. Foundation Analysis and Design, Bowles J. E., 5th Edition, Tata McGraw Hill
+International, 1997
+REFERENCES:
+1. Foundation Engineering Handbook, Rowe R. K., Springer Science & Business Media,
+2001
+2. Foundation Engineering Handbook, Winterkorn and Fang, Springer Science &
+Business Media, 2013
+3. Foundation Analysis & Design, Bowles J. E., 5th Edition, McGraw Hill, 2004
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PC1HW04) PAVEMENT ANALYSIS AND DESIGN
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the design factors considered for the design of flexible and rigid
+pavements
+• To estimate the stresses and strains in flexible pavement from layer theories
+• To determine the stresses and strain for rigid pavement analysis
+• To learn various design methods for flexible and rigid pavement
+COURSE OUTCOMES: After the completion of the course student should be able to
+CO-1: Explain the design factors used for flexible and rigid pavements
+CO-2: Determine the stresses and strains in a flexible pavement using the multi-layered
+elastic theory and KENPAVE
+CO-3: Compute stresses and strains in a rigid pavement using Westergaard’s theory
+and KENSLABS
+CO-4: Design flexible and rigid pavement using various methods
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 - - - - 1 2
+CO-2 3 1 3 2 3 -
+CO-3 3 1 3 2 3 -
+CO-4 3 2 3 2 2 2
+UNIT–I:
+Introduction: Historical development of pavements; Introduction to different types of
+flexible pavements; Road Pavements and pavement layers - types, functions, choice
+Factors affecting design, Introduction to traffic loading, Understanding the concept
+of equivalent standard axle load (ESAL), ESWL, EWL, VDF due to varying loads.
+UNIT–II:
+Stresses and Deflection / Strain in Flexible Pavements: Application of elastic theory,
+stresses, deflections / strains in single, two layer and multi-layer system, Analysis of
+pavements using software such as IITPAVE and KENPAVE.
+UNIT–III:
+Flexible Pavement Design: Empirical, semi-empirical, and theoretical design
+approaches, principle, advantages, and application; Outline of other common
+design methods such as AASHTO: Mechanistic-Empirical Pavement Design Guide - I
+(MEPDG); Flexible Pavement Design as per IRC:37-2018; Overlay design - flexible
+pavements as per IRC guidelines IRC:115-2014
+UNIT–IV:
+Stresses in Rigid Pavements: Types of stresses and causes; Introduction to
+Westergaard’s equation for calculation of stresses in rigid pavements due to wheel
+loads and temperature; Considerations in rigid pavement analysis, wheel load
+stresses, warping stresses, frictional stresses, combined stresses, KENSLAB.
+UNIT–V:
+Rigid Pavement Design: Design of cement concrete pavements for highways; PCA
+and AASHTO Methods: Design of joints, reinforcements, tie bars, dowel bars and slab
+thickness as per IRC 58 2015. Design features of continuously reinforced concrete
+pavements. Mechanistic-Empirical Pavement Design Guide - II (MEPDG). Overlay
+design - flexible pavements as per IRC guidelines IRC:117-2015
+TEXT BOOKS:
+1. Pavement Design and Materials, Papagiannakis A. T. and E. A. Masad, John Wiley
+2. Pavement Analysis and Design, Huang Y .H., 2nd Edition, Dorling Kindersley (India)
+Pvt. Ltd.
+3. Asphalt Institute. Thickness Design – Asphalt Pavements for Highways and Streets
+Manual Series No. MS-2, Asphalt Institute
+REFERENCES:
+1. The Design And Performance of Road Pavements, Croney D. and P. Croney,
+McGraw Hill Book Company
+2. Mechanistic-Empirical Pavement Design Guide, A Manual of Practice, Interim
+Edition, Publication Code: MEPDG-1, American Association of State Highway and
+Transportation Officials (AASHTO)
+3. IRC: 37-2018 Guidelines for the Design of Flexible Pavements, The Indian Roads
+Congress, New Delhi, India
+4. IRC:58-2015 Guidelines for the Design of Plain Jointed Rigid Pavements for
+Highways, The Indian Roads Congress, New Delhi, India
+5. Ministry of Road Transport and Highways. Specifications for Road and Bridge Works,
+Fifth Edition, Indian Roads Congress, New Delhi, India, 2015
+ONLINE RESOURCES:
+1. http://onlinepubs.trb.org/onlinepubs/archive/mepdg/home.htm
+2. http://www.asphaltinstitute.org/thicknessdesignsw/
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1GT11) EARTH AND ROCKFILL DAMS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To differentiate between the various kinds of structures depending upon its
+composition and usage
+• To impart the ability to design dams without leading to failure
+• To recognize the importance of various hazards involved in building dams and to
+take up suitable precautions or repairs
+• To identify the type of material which is appropriate for the purpose
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Identify the appropriate formulae to be used in the design of various structures
+CO-2: Classify and design a dam with high efficiency
+CO-3: Interpret the knowledge gained to solve problems in the field
+CO-4: Differentiate & select the methods of providing drainage in earthen dams
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 2 3 - 1 -
+CO-2 3 2 3 - 1 -
+CO-3 3 3 2 - - -
+CO-4 3 2 3 - - -
+UNIT-I:
+Earthen Dams: General features, Selection of site; Merits and demerits of the earth
+dams. Design of Earthen Dams- Classification of earth dams, Materials of construction
+and requirements, Causes of failure, Nature and importance of failure, Safe design
+criteria.
+UNIT-II:
+Instrumentation in Earth Dams: Pore pressure measurements, Settlement gauges,
+Inclinometers, Stress measurements, seismic measurements.
+UNIT-III:
+Failures and Prevention in Earthen Dams: Piping through embankment and
+foundations, Methods of seepage control through embankments and foundations,
+Design Criteria for filters, Treatment of upstream and downstream of slopes, Drainage
+control and Filter design.
+UNIT-IV:
+Rock-fill Dams: Types and Historical development, General characteristics of Rock fill
+dams, Requirements of compacted rock fill, Merits and demerits of the Rock fill dams.
+UNIT-V:
+Strength and Settlement: Materials for the Rock fill dams, Shear strength of rock fill,
+Settlement for Rock fill dams, Movements in rock fill dams.
+TEXT BOOKS:
+1. Earth and Earth Rock Dams, Sherard, John Wiley, 1967
+2. Earth and Rockfill Dams, Sowers G. F. and Salley H. I., Asia Pub. House, 1962
+REFERENCES:
+1. Earth and Rockfill Dams, Bharat Singh and Sharma H. D., Central Board of Irrigation
+and Power, 1986
+2. Earth & Rockfill Dams–Principles of Design and Construction, Christian Kutzner,
+Oxford and IBH, 1997
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1GT12) ENVIRONMENT AND ECOLOGY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To create ability to identify, formulates, and solve environment related problems
+• To develop an understanding of professional responsibility
+• To understand the impact of engineering solutions in economic and
+environmental context
+• To apply the knowledge of recent environmental issues
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Develop an ability to apply knowledge of environment and ecology to solve
+problems
+CO-2: Design a process for economic and safe aspects for the society
+CO-3: Interpret, formulate and solve stability related problems
+CO-4: Predict and analyze the recent environmental issues
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 2 2 2 1 -
+CO-2 3 2 1 3 1 1
+CO-3 3 2 1 3 2 -
+CO-4 3 2 1 3 2 1
+UNIT-I:
+Environment: Introduction, Components of Environment, types of Environments,
+Environmental Ethics Ecosystems: Concept of an ecosystems, structure and functions
+of Ecosystem, producers, consumers and decomposers, energy flow and bio geo
+chemical cycles.
+UNIT-II:
+Ecological Succession Food Chains: Food webs and ecological pyramids, types,
+characteristic feature structures and functions of eco system.
+UNIT-III:
+Human Population and Environment: Population growth, variation among nations-
+Biotech potential and population growth, growth rate formula, carrying capacity,
+variation among nations, demographic transition, Developed and developing
+countries, Population explosion, consumption and affluence urbanization and
+environmental impacts, Industrialization and environmental impacts, family welfare
+program, immunization.
+UNIT-IV:
+Recent Environmental Issues: Global warming, Global dimming Greenhouse gas,
+Ocean acidification, Urban Heat Islands, Ozone depletion- CFC, Biological effects of
+UV exposure, Nuclear Issues: Nuclear fallout, Nuclear meltdown, Nuclear power,
+Nuclear weapons, Nuclear and radiation accidents, Nuclear safety, High-level
+radioactive waste management.
+UNIT-V:
+Environmental Pollution: Nonpoint source pollution, Point source pollution, Light
+pollution, Noise pollution, Visual pollution Water Pollution: Acid rain, Eutrophication,
+Marine pollution, Ocean dumping, Oil spills, Thermal pollution, Land Degradation:
+Land pollution, Desertification, Soil conservation, Soil erosion, Soil contamination, Soil
+salination, Alkali soils. Air Pollution: Effects and control of air pollution, Smog,
+Troposphere ozone, Indoor air quality, volatile organic compound, atmospheric
+particulate matter, effects and control, control devices.
+TEXT BOOKS:
+1. Comprehensive Environmental Studies, Dr. J. P. Sharma, Laxmi Publications, 2009
+2. Text Book of Environmental Studies, Dr. K. Raghavan Nambiar
+REFERENCES:
+1. Text Book of Environmental Studies, Kaushik, New Age Publishers, 2009
+2. Environmental Science, Tyley Miller, 11th Edition, Cengage Learning, 2005
+3. Concepts of Ecology, E. J. Kormondy, Prentice-Hall, 1969
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1GT13) NUMERICAL METHODS FOR GEOTECHNICAL ENGINEERING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To impart the basic concepts of mathematical modeling of problems in
+Geotechnical engineering
+• To learn procedures for solving different kinds of problems
+• To understand the various numerical techniques which provide solutions
+• To nonlinear equations, partial differential equations etc. that describe the
+mathematical models of problems
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Know solutions to simultaneous equations
+CO-2: Formulate equations for given data
+CO-3: Calculate differentiation and integration problems using numerical methods
+CO-4: Solve ordinary and partial differential equations
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 3 3 - - -
+CO-2 3 2 3 - - -
+CO-3 3 1 3 - - -
+CO-4 3 2 3 - - -
+UNIT–I:
+Approximations and Errors in Numerical Methods - Solutions of Algebraic and
+Transcendental Equations, Bisection, False Position, Secant & Iterative Methods,
+Newton- Raphson, Comparison of Iterative Methods.
+UNIT–II:
+Simultaneous Linear Algebraic Equations – methods of solution using inverse of the
+matrix, method of successive elimination, Iterative methods – Gauss-Siedel method,
+Applications.
+UNIT–III:
+Interpolation – Lagrange’s, Newton’s, Hermite’s, Spline, Inverse Interpolation,
+Applications. Curve Fitting – Least Square regression
+UNIT–IV:
+Numerical Differentiation & Integration – Finite differences, Newton’s difference
+formulae- Derivatives, Maxima and Minima of a Tabulated Function; Integration –
+Quadrature, Romberg’s, Euler-Maclaurin, Applications.
+UNIT–V:
+Numerical Solution of Ordinary Differential Equations - Modified Euler’s, Runge-Kutta’s,
+Predictor-Corrector, Milne’s Methods; Partial Differential Equations - Finite Difference
+Approximations, Elliptic, Laplace, Parabolic, Hyperbolic Equations; Applications.
+TEXT BOOKS:
+1. Numerical Methods in Engineering & Science, Grewal, B. S., Khanna Publishers,
+1999
+2. Numerical Methods in Geotechnical Engineering, Desai C. S. and Christian J. T.,
+McGraw Hill
+REFERENCES:
+1. Numerical Methods for Engineers, Chapra S. C. & Canade R. P., McGraw Hill, 2011
+2. Numerical Methods For Engineers and Scientists, Joe D. Hoffman, Steven Frankel,
+2nd Edition, 2001
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1GT14) PHYSICAL AND CONSTITUTIVE MODELING ON GEOMECHANICS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand geotechnical modeling considerations
+• To select model to simulate field conditions
+• To use and acquire data using various instruments
+• To compare with recent development geotechnical modelling
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: To understand scaling laws and modeling considerations for physical modeling
+in geotechnical problems both for static and dynamic conditions
+CO-2: To comprehend physical modeling, scale effects, simulation of field conditions,
+conceptualization, and fixing boundary conditions etc.
+CO-3: Data acquisition for all the conditions
+CO-4: To know new improvements in physical modeling to comprehend physical
+modeling, scale effects, simulation of field conditions, conceptualization, and fixing
+boundary conditions etc.
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 2 2 3 2 1
+CO-2 2 2 2 2 2 1
+CO-3 2 1 2 2 1 1
+CO-4 3 2 2 2 2 1
+UNIT–I:
+Similitude and Modeling Principles: Importance of physical Modeling, scaling laws,
+small- scale model studies in 1-g and N-g, historical Perspectives.
+UNIT–II:
+Design of Physical Model and Model Ground Preparation: scale effects, flexible and
+rigid boundary conditions, preparation of sand/clay bed preparation, wet pluviation,
+dry pluviation, tamping techniques, slurry consolidation, uniformity of sand/clay beds.
+UNIT–III:
+Model Planning and Measurement Strategy: Selection of Model dimension, model
+containers, preparation of models to test shallow and deep foundations, pull-out
+behavior, retaining walls, shaking table studies, vertical and inclined loading system,
+Perspex walls, markers, digital analysis.
+UNIT–IV:
+Sensors and Data Acquisition: Strain gauges, Load cells, Earth Pressure Transducers,
+LVDTs, Linear Potentiometers, pore pressure transudes, accelerometers, Hydraulic
+jack, calibration methods, dead weight calibration, pneumatic calibration, frequency
+of calibration, calibration charts, calibration factor, In-soil & fluid calibration, data
+acquisition system.
+UNIT–V:
+Recent Developments in Physical Modelling: Static behaviour of shallow and deep
+foundations, Piles subjected to lateral loading, behaviour of foundation subjected to
+earthquake loading, foundations subjected to cyclic loading, use of shaking table,
+behaviour of foundations on expansive soils.
+TEXT BOOKS:
+1. Geotechnical Modelling, David Muir Wood, Spon Press, Taylor & Francis, 2004
+2. Centrifuge Modeling for Civil Engineers, Madabhushi G., CRC Press, Taylor and
+Francis, 2015
+3. Geotechnical Centrifuge Technology, Taylor R. N., Taylor and Francis, 1995
+REFERENCES:
+1. Proceedings of 6th International Conference on Physical Modeling in Geotechnics,
+Charles N. G., Zhang L. M., and Wang Y. H., Hong Kong, 2006
+2. Proceedings of the 7th International Conference on Physical Modelling in
+Geotechnics, S. Springman, J. Laue & L. Seward, Zurich, Switzerland, 2010
+3. Proceedings of the 8th International Conference on Physical Modeling in
+Geotechnics, Gaudin C. & White D. Perth, Australia, 2014
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1GT15) FEM IN GEOTECHNICAL ENGINEERING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To provide the fundamental concepts of the theory of the finite element method
+• To develop proficiency in the application of the finite element method to realistic
+engineering problems
+• To understand the theory of elasticity including strain/displacement and Hooke’s
+law relationships
+• To learn to model complex geometry problems and solution techniques
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understand basic stress-strain relationship for soil and develop Stress
+deformation analysis
+CO-2: Develop finite element formulation for different geotechnical problems like
+shallow foundation
+CO-3: Apply this knowledge onto Plaxis for plotting stress distribution and settlement
+curves
+CO-4: Analyze and give appropriate solution to practical geotechnical concerns like
+seepage and consolidation problems
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 2 3 - 3 -
+CO-2 3 3 2 - 2 -
+CO-3 3 2 3 - 3 -
+CO-4 3 1 3 1 3 -
+UNIT-I:
+Stress-Deformation Analysis: One dimensional, Two dimensional and Three-
+dimensional formulations.
+UNIT-II:
+Discretization: Discretization of a Continuum, Elements, Strains, Stresses, Constitutive
+Relations, Hooke’s Law, Formulation of Stiffness Matrix, Boundary Conditions, Solution
+Algorithms.
+UNIT-III:
+Principles of Discretization: Element stiffness and mass formulation based on direct,
+variational and weighted residual techniques and displacements approach, Shape
+functions and numerical integrations, convergence.
+UNIT-IV:
+Displacement Formulation: Displacement formulation for rectangular, triangular and
+iso- parametric elements for two dimensional and axisymmetric stress analysis.
+UNIT-V:
+Settlement Analysis: 2-D elastic solutions for homogeneous, isotropic medium, Steady
+Seepage Analysis. Finite element solutions of Laplace’s equation, Consolidation
+Analysis: Terzaghi consolidation problem, Choice of Soil Properties for Finite Element
+Analysis.
+TEXT BOOKS:
+1. Concepts and Applications of Finite Element Analysis, Robert D. Cook, David S.
+Malkus, Michael E. Plesha, John Wiley & Sons
+2. Fundamentals of Finite Element Analysis, David V. Hutton, McGraw Hill
+REFERENCES:
+1. Finite Element Analysis, Seshu P., Prentice-Hall of India, 2005
+2. Finite Element Methods in Engineering, Belegundu A. D., Chandrupatla T. R.,
+Prentice Hall India, 1991
+3. Finite Element Methods Vol. I & Vol. II, O. C. Zienkiewicz and R. L. Taylor, McGraw
+Hill, 1989 & 1992
+4. Finite Element Procedures, K. J. Bathe, PHI Ltd., 1996
+5. Finite Element Analysis in Geotechnical Engineering Theory and Application, David
+M. Potts and Lidija Zdravkovic, Thomas Telford, 1999
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1GT16) GEOGRAPHICAL INFORMATION SYSTEM
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To describe and define various concepts of remote sensing and GIS
+• To enable the students to analyze remote sensing and GIS data
+• To make the students appraise the importance accuracy of remote sensing and
+GIS data
+• To enable the students to apply remote sensing and GIS knowledge in solving
+various Geotechnical engineering related problems
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Describe different concepts and terms used in remote sensing and GIS
+CO-2: Compare and process different data sets
+CO-3: Evaluate the accuracy and decide whether a data set can be used or not
+CO-4: Demonstrate various applications in RS and GIS
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 - - - 1 -
+CO-2 2 - - 1 1 -
+CO-3 3 - - 3 3 -
+CO-4 3 - 3 2 3 2
+UNIT-I:
+Remote Sensing: Introduction- Principle of remote sensing, components of remote
+sensing, Remote sensing platforms, Radiometric quantities, Electromagnetic radiation
+and its properties, Electromagnetic energy laws, Interaction of EMR with earth
+features, Interaction of EMR with atmospheric features, atmospheric effects on
+remote sensing data, spectral reflectance curves, Spectral properties of soil, water,
+vegetation. Advantages and Disadvantages of Remote Sensing Data.
+UNIT-II:
+Sensors and Satellites: Sensors - Remote sensing sensors types, Along track scanners,
+Across track scanners Sensor Characteristics – Swath, IFOV, Nadir view, Spatial
+Resolution, Spectral Resolution, Temporal, Resolution, Radiometric resolution,
+Atmospheric, Radiometric, Geometric corrections Satellites- Satellite orbits,
+Geostationary and polar satellites, various satellites and their main applications, IRS
+satellites
+UNIT-III:
+Remote Sensing Data Processing and Enhancement: Image enhancement
+techniques - necessity and importance, contrast enhancement techniques, low pass
+(smoothing) filters and high pass (sharpening) filters, linear and non-linear filtering
+techniques, edge detection, supervised classification, unsupervised classification,
+and Classification accuracy. Introduction to GPS and DGPS.
+UNIT-IV:
+Geographical Information System: Introduction, Definition and Terminology,
+Components of GIS, GIS Data Input - Keyboard entry, Manual digitizing, scanning
+methods, Errors in digitizing, Data output formatting and output devices, GIS Data
+Models – Raster, Vector, TIN, Spatial Data Analysis – Interpolation, Buffering
+techniques, Overlay operations
+UNIT-V:
+Applications of GIS in Geotechnical Engineering: Developing a Soil information system
+for Multiple decisions, GIS and Remote Sensing based Soil mapping, Soil moisture
+investigation, land slide hazard zonation using remote sensing and GIS, Land use land
+cover classification, Agriculture applications, Dam site selection using RS and GIS
+TEXT BOOKS:
+1. Remote Sensing and Image Interpretation, Thomas M. Lillesand and Ralph W.
+Kiefer, 7th Edition, John Wiley & Sons, 2014
+2. Remote Sensing and GIS, Basudeb Bhatta, Oxford University Press, 2008
+REFERENCES:
+1. Introduction to Geographic Information Systems, Kang-tsung Chang, 7th Edition,
+McGraw Hill Education, 2013
+2. Basics of Remote sensing and GIS, S. Kumar, Laxmi Publications, 2005
+3. Textbook of Remote Sensing and Geographical Information Systems, M. Anji
+Reddy, 3rd Edition, B. S. Publications, 2008
+4. Textbook of Remote Sensing and Geographical Information Systems, Kali Charan
+Sahu, Atlantic Publishers and Distributors, Atlantic Publishers, 2007
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1GT17) STABILITY ANALYSIS OF SLOPES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To inculcate the ability to identify, formulate and solve soil stability related
+problems
+• To impart the ability to design soil slopes without leading to failure
+• To recognize the importance of various hazards involved in building slopes and
+dams and to take up suitable precautions or repairs
+• To apply limit equilibrium methods for slopes
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Identify the appropriate formulae to be used in the design of various structures
+CO-2: Analyze a given structure and predict its behavior
+CO-3: Design and check stability of slope with high efficiency
+CO-4: Identify the appropriate the slope stabilization methods
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 2 2 - 1 -
+CO-2 2 2 2 - 1 -
+CO-3 2 1 2 1 2 1
+CO-4 - 1 1 1 - 1
+UNIT-I:
+Slope Stability Analysis: Types and causes of slope failures, mechanics of slope failure,
+failure modes. Infinite and finite slopes with or without water pressures; concept of
+factor of safety, pore pressure coefficients, Mass analysis, Wedge methods.
+UNIT-II:
+Stability Methods: Friction circle method; Method of slices, Bishop’s method, Janbu’s
+method, Morgenstern and Price, Spencer’s method
+UNIT-III:
+Stability Analysis in the Presence of Seepage: Two-dimensional flow – Laplace
+equation and it’s solution, graphical method, determination of phreatic line, flow nets
+in homogeneous and zoned earth dams under steady seepage and draw-down
+conditions, seepage control in earth dams, influence of seepage on slope stability,
+stability analysis of dam body during steady seepage.
+UNIT-IV:
+Strengthening Measures: Stabilization of slopes by drainage methods, surface and
+subsurface drainage, use of synthetic filters, retaining walls, stabilization and
+strengthening of slopes.
+UNIT-V:
+Rock Stabilization: Shotcreting, rock bolting and rock anchoring, instrumentation and
+monitoring of slopes, slope movements, warning devices, maintenance of slopes
+TEXT BOOKS:
+1. Geotechnical Slope Analysis, Chowdhary R. and Chowdhary I., CRC Press
+2. Ground Water and Seepage, Harr M. E., McGraw Hill
+REFERENCES:
+1. Soil Strength and Slope Stability, Duncan J. and Wrught G., Wiley Publishers
+2. Slope Stability and Stabilization Methods, Abramson L. W., Lee T. S. and Sharma S.,
+John Wiley
+3. The Stability of Slopes, Bromhead E. N., 2nd Edition, Blackie Academic and
+Professional, 1992
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1GT18) UNSATURATED SOIL MECHANICS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To differentiate gravimetric and volumetric water content
+• To determine unsaturated shear parameters
+• To appreciate mechanical behaviour of unsaturated soils
+• To gain knowledge on principles of unsaturated soil by constructing Soil Water
+characteristics curve
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Interpret the Soil Water characteristic curves
+CO-2: Comprehend the unsaturated flow
+CO-3: analyze the stress state variables
+CO-4: apply the unsaturated strength behaviour to Engineering structures
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 2 3 2 - -
+CO-2 2 2 3 1 - -
+CO-3 2 2 3 1 - -
+CO-4 2 2 3 2 - -
+UNIT-I:
+Introduction: Unsaturated soil, Gravimetric and Volumetric water content, Pore water
+pressure, Matric and Osmotic suction, Soil Water Characteristic Curve (SWCC),
+Hysteresis in SWCC, Methods to determine SWCC
+UNIT-II:
+Seepage in Unsaturated Soil: Permeability and Hydraulic Conductivity, Hydraulic
+Conductivity Function (HCF), One-dimensional steady state flow, Darcy’s and
+Gardner’s Principles, Transient Flow, Infiltration, Numerical Modelling, Capillary Barriers.
+UNIT-III:
+Strength Characteristics of Unsaturated Soil: Extended Mohr Coulomb’s criterion, Shear
+strength and pore pressure parameters, Measurements of unsaturated shear strength
+parameters; Unsaturated shear strength models
+UNIT-IV:
+Stability Analysis of Unsaturated Soils: Applications in Bearing Capacity, Lateral Earth
+Pressure, and Slope stability in Unsaturated soils
+UNIT-V:
+Volume Change Behavior of Soils: Stress state variables for unsaturated soils, Stress
+Deformation Behavior, Volumetric continuity, Volume-Mass Constitutive Relations,
+Swelling and Collapse behavior
+TEXT BOOKS:
+1. Unsaturated Soils: A Fundamental Interpretation of Soil Behaviour, Murray E. J. and
+Shivakumar V., 1st Edition, Wiley-Blackwell, 2010
+2. Unsaturated Soil Mechanics, Ning Lu and William J. Likos, John Wiley, 2004
+REFERENCES:
+1. Advanced Unsaturated Soil Mechanics and Engineering, Charles W. W. Ng, and
+Menzies B., 1st Edition, CRC Press, 2007, (Reprint 2019)
+2. Soil Mechanics for Unsaturated Soils, Fredlund D. G. and Rahardjo H., 1st Edition,
+John Wiley, 1993
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PE1GT19) GEOTECHNICAL ASPECTS OF LANDFILLS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To identify the physical characteristics of landfill materials
+• To design suitable liner systems at landfill locations
+• To perform stability analysis of landfill slopes
+• To asses suitable cover systems during post closure conditions
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Characterize the landfill materials and determine landfill properties
+CO-2: Select suitable sites for constructing landfills
+CO-3: Design of suitable liner and cover systems
+CO-4: Adopt developments in landfill Engineering and monitoring
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 1 1 3 1 2
+CO-2 2 2 2 3 2 3
+CO-3 3 1 3 3 3 3
+CO-4 3 1 3 3 1 2
+UNIT-I:
+Geotechnical Characterization of Landfills: Physical Characterization of landfill
+material (Size distribution, Porosity, Moisture content, Field capacity, Wilting point, Unit
+weight, Hydraulic conductivity, Shear strength, Compressibility), Dynamic Properties;
+Landfill regulations (USEPA, RCRA).
+UNIT-II:
+Landfill Configurations: Landfill siting methodology; liner systems and properties;
+Recommended Design Procedure; Geomembranes, Geosynthetic Clay Liners
+(GCL’s); Soil Drainage Layer and various materials used for providing drainage,
+Interface effect among various liner components; Liner system performance,
+estimation of leakage, Rate of flow through composite liner.
+UNIT-III:
+Stability of Landfills Slopes: Sliding Failure of Leachate Collection System and Final
+Cover System; Rotational Failure of Landfill Waste, Liner, and Subsoil; Translational
+Failure along the Liner System; Two Part Wedge Failure Mechanism; Vertical expansion
+of MSW landfills, Geosynthetics for Reinforcement, Three Part Wedge Failure
+Mechanism, Stability under seismic conditions.
+UNIT-IV:
+Analysis and Design of Veneer Cover Soils: Seismic Analysis of Veneer Cover Soil,
+Geosynthetic Reinforced Veneer Slopes, Seepage Induced Veneer Slope Instability:
+Horizontal seepage build-up and Parallel-to-slope seepage build-up.
+UNIT-V:
+Landfill Closure conditions: Hydraulic and Structural Design Criteria for Drainage Layer
+Material, stresses due to liner self-weight, temperature, expansion, and contraction.
+Anchor Trenches; Design of Final Cover Systems; Alternate Cover Systems and
+Materials. End Uses of Closed Landfills, Typical Landfill failures and mitigation measures.
+TEXT BOOKS:
+1. Solid Waste Management and Engineered Landfills, Rao G. V. and Sasidhar R. S.,
+Sai Master Geo environmental Services Pvt. Ltd., Hyderabad, 2009
+2. Geotechnical Aspects of Landfill Design and Construction, Xuede Qian, Robert M.
+Koerner, Donald H. Gray, Prentice Hall, 2002
+REFERENCES:
+1. Sustainable Engineering: Drivers, Metrics, Tools, and Applications, Claudio
+Cameselle, Jeffrey A. Adams and Krishna R. Reddy, Wiley, 2019
+2. Geoenvironmental Engineering, Hari D. Sharma, Krishna R Reddy, John Wiley, 2004
+3. Waste Disposal in Engineered Landfills, Manoj Datta, Narosa Publishing House, 1997
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PC2GT03) ADVANCED GEOTECHNICAL ENGINEERING LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To know the effect of contamination on the behavior of soil
+• To identify the influence of stress on the permeability of soil
+• To determine the properties of geosynthetics
+• To conduct in situ experiments on soil
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Evaluate the field properties of soil
+CO-2: Identify suitability of geosynthetics for specific application
+CO-3: Understand the influence of contaminants on the chemical properties of soil
+CO-4: Perform experiments to determine the variation permeability with the
+application of pressure
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 1 3 1 2 1
+CO-2 2 2 3 2 1 1
+CO-3 2 1 1 3 2 2
+CO-4 2 2 2 1 3 1
+LIST OF EXPERIMENTS:
+1. Exploration of sub soil by Auger Boring
+2. Dynamic cone penetration test
+3. Determination of permeability using Flexi wall permeameter
+4. Determination of pH, electrical conductivity and total dissolved solids in
+contaminated soil
+5. Estimation of specific surface area of soil
+6. Determination of chlorides, hardness and presence of organic content in soil
+7. Measurement of physical properties of Geosynthetic materials
+a) Thickness
+b) Stiffness
+c) Mass/ unit area
+8. CBR Puncture test for geosynthetics
+9. Determination of percentage open area and apparent opening size for
+geosynthetics material
+10. Radial in-plane flow test on geotextiles
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PC2GT04) GEOTECHNICAL ENGINEERING STUDIO
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To apply theoretical knowledge on the numerical computation techniques
+• To analyse the stability the slope using softwares
+• To create templates for the design different types of foundation
+• To design land fill liner, embankments, retaining earth structures etc.
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Conduct stress deformation analysis using softwares
+CO-2: Perform stability analysis of slopes, embankments, and retaining earth structures
+CO-3: Evaluate the amount of contamination on the field
+CO-4: Design templates for the design of various geotechnical structures
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 3 3 1 3 1
+CO-2 3 1 3 2 3 2
+CO-3 2 1 1 3 3 2
+CO-4 2 1 3 2 3 1
+LIST OF PRACTICALS:
+1. Design of templates for foundations using MS Excel
+2. Slope stability Analysis using Slope/W
+3. Contaminant transport analysis using CTRAN
+4. Creation of template for design of land fill liners using MS Excel
+5. Creation of template for the design of Machine Foundations
+6. Numerical Analysis of settlement of footing using PLAXIS
+7. Finite Element analysis of construction of embankment using PLAXIS
+8. Deformation analysis due to tunnel construction using PLAXIS
+9. Linear frequency analysis using DEEP SOIL
+10. Equivalent linear frequency domain analysis using DEEP SOIL
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22PW4GT02) MINI-PROJECT
+TEACHING SCHEME
+L T/P C CIE SEE TOTAL
+0 4 2 40 60 100
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the formulated industry / technical / societal problems
+CO-2: Analyze and / or develop models for providing solution to industry / technical / societal
+problems
+CO-3: Interpret and arrive at conclusions from the project carried out
+CO-4: Demonstrate effective communication skills through oral presentation
+CO-5: Engage in effective written communication through project report
+COURSE OUTLINE:
+• A student shall undergo a mini-project during II semester of the M.Tech. programme.
+• A student, under the supervision of a faculty member, shall collect literature on an allotted
+project topic of his / her choice, critically review the literature, carry out the project work,
+submit it to the department in a prescribed report form and shall make an oral presentation
+before the departmental Project Review Committee.
+• Evaluation of the mini-project shall consist of CIE and SEE and shall be done by a Project
+Review Committee (PRC) consisting of the Head of the Department, faculty supervisor and
+a senior faculty member of the specialization / department.
+• CIE shall be carried out for 40 marks on the basis of review presentation as per the calendar
+dates and evaluation format.
+• SEE shall be carried out at the end of semester fpr 60 marks on the basis of oral presentation
+and submission of mini-project report.
+• Prior to the submission of mini-project report to the PRC, its soft copy shall be submitted to
+the PG Coordinator for PLAGIARISM check.
+• The mini-project report shall be accepted for submission to the PRC only upon meeting the
+prescribed similarity index of less than 25%.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester
+(22MN6HS02) ANCIENT WISDOM
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE-I SE-II SEE TOTAL
+2 0 0 50 50 - 100
+COURSE OBJECTIVES:
+• To introduce the contribution from Ancient Indian system & tradition to modern
+science & Technology
+• To trace, identify and develop the ancient knowledge systems
+• To introduce the sense of responsibility, duties and participation of individual for
+establishment of fearless society
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Familiarize learners with major sequential development in Indian science,
+engineering and technology
+CO-2: Understand eco-friendly, robust and scientific planning and architecture system
+of ancient India
+CO-3: Trace, identify, practice and develop the significant Indian mathematic and
+astronomical knowledge
+CO-4: Understand the importance of Indian aesthetics in individual realization of the
+truth arises by realizing the harmony within
+UNIT-I:
+Indian Science & Technology: Indian S & T Heritage, sixty-four art forms and
+occupational skills (64 Kalas)
+Ancient Architecture:
+Scientific Achievements though Ancient Architect: Musical Pillars of Vitthal temple,
+Sundial of konark temple, construction of eight shiva temple in straight line from
+Kedarnath to rameshwaram at longitude 79oE 41’54, Veerbhadra temple with 70
+hanging pillars
+UNIT-II:
+Foundation Concept for Science and Technology: The Introduction to Ancient
+Mathematics & Astronomy Introduction to Brief introduction of inception of
+Mathematics & Astronomy from vedic periods. Details of different authors who has
+given mathematical & astronomical sutra (e.g. arytabhatta, bhaskara, brahmagupta,
+varamahira, budhyana, yajanvlkya, panini, pingala, 22 bharat muni, sripati,
+mahaviracharya, madhava, Nilakantha somyaji, jyeshthadeva, bhaskara-II, shridhara
+Number System and Units of Measurement, concept of zero and its importance, Large
+numbers & their representation, Place Value of Numerals, Decimal System,
+Measurements for time, distance and weight, Unique approaches to represent
+numbers (Bhūta Saṃkhya System, Kaṭapayādi System), Pingala and the Binary system,
+Knowledge Pyramid
+Indian Mathematics, Great Mathematicians and their contributions, Arithmetic
+Operations, Geometry (Sulba Sutras, Aryabhatiya-bhasya), value of 𝜋, Trigonometry,
+Algebra, Chandah Sastra of Pingala, Indian Astronomy, celestial coordinate system,
+Elements of the Indian Calendar Aryabhatiya and the Siddhantic Tradition Pancanga
+– The Indian Calendar System
+UNIT-III:
+Humanities & Social Sciences: Health, Wellness & Psychology, Ayurveda Sleep and
+Food, Role of water in wellbeing Yoga way of life Indian approach to Psychology, the
+Triguṇa System Body-Mind-IntellectConsciousness Complex. Governance, Public
+Administration & Management reference to ramayana, Artha Sastra, Kauṭilyan State
+UNIT-IV:
+Aspiration and Purpose of Individual and Human Society: Aims of Human life; at
+individual level and societal level. At societal level; Four purusarthas Dharma, Artha,
+Kama, Moksha.
+Individual Level:
+Program for Ensuring Human Purpose:
+Fundamental Concept of Nitishastra: Satyanishtha Aur Abhiruchi (Ethics, Integrity &
+aptitude). The true nature of self; Shiksha Valli, Bhrigu Valli (concept of Atman-
+Brahman (self, soul).
+The True Constitution of Human: Ananda Valli (Annamaya Kosha, Pranamaya Kosha,
+Manomaya Kosha, Vijnanamaya Kosha, Anandamaya Kosha). The four states of
+consciousness (Waking state, Dreaming state, Deep Sleep State, Turiya the fourth
+state), Consciousness (seven limbs and nineteen mouths), Prajna, Awarness. The Life
+Force Prana (Praana-Apaana-Vyaana-Udaana- Samaana
+Ancient Indian Science (Ayurveda & Yoga)
+Ayurveda for Life, Health and Well-being: Introduction to Ayurveda: understanding
+Human body and Pancha maha bhuta, the communication between body & mind,
+health
+Introduction to Yoga: Definition, Meaning and objectives of Yoga, Relevance of yoga
+in modern age. the six cleansing procedures of Yoga, understanding of Indian
+psychological concept, consciousness, tridosha & triguna.
+UNIT-V:
+Five Important Slokas for Enlightenment
+Gayatri Mantram, Santi Mantram: Asatoma Sadgamaya, Geeta (Yada Yadahi
+Dharmasya, Glanirbhavati Bharata), Amanitwam Adambitwam..,
+Karmanyevadikarastu… Maa phaleshukadachana
+TEXT BOOKS:
+1. Textbook on Indian Knowledge Systems, Prof. B Mahadevan, IIM Bengaluru
+2. Indian Knowledge Systems, Kapur K. and Singh A. K., 2005
+REFERENCES:
+1. Tatvabodh of Sankaracharya, Central Chinmay Mission Trust, Bombay, 1995
+2. Value and Distribution System in India, B. L. Gupta, Gyan Publication House
+3. Ancient Indian Culture and Civilization, Reshmi Ramdhoni, Star Publication, 2018
+4. Ancient Indian Society, Maharaj Swami Chidatmanjee, Anmol Publication
+5. Ancient Indian Classical Music, Lalita Ramkrishna, Shubhi Publications
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22PE1GT20) FOUNDATIONS ON WEAK ROCKS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the Engineering properties of weak rocks
+• To classify different types of rock mass
+• To design different types of foundations placed over rock mass
+• To identify the pressure settlement criteria of weak rocks
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Explain the various types rock mass classification systems
+CO-2: Determine in-situ shear strength of rocks and rock masses
+CO-3: Apply the knowledge gained to the design shallow foundation and treatment
+of it
+CO-4: Analyze the bearing capacity and settlement of pile in weak rocks
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 1 2 1 1 1
+CO-2 2 1 2 1 1 1
+CO-3 3 2 2 3 3 1
+CO-4 3 2 2 2 3 1
+UNIT-I:
+Rock Mass Properties: Engineering properties of weak rocks, different rock mass
+classification systems, relative merits and demerits, Failure criteria for weak rocks, bi-
+linear Mohr-Coulomb failure criterion, Hoek and Brown criterion and modified Hoek
+and Brown failure criterion etc.
+UNIT-II:
+Strength Behaviour of Rock Mass: Effect of structural planes on rock foundations,
+possible modes of failure of foundations on rocks/ rock masses, determination of in-
+situ shear strength of rocks and rock masses.
+UNIT-III:
+Bearing Capacity: Requirements for satisfactory performance of foundations, bearing
+capacity of foundations on rocks and rock masses, allowable bearing pressure of rock
+foundations using a nonlinear failure criterion, monotonic and cyclic plate load tests.
+Pressure-settlement characteristics, effect of layering, anisotropy, heterogeneity and
+inelasticity
+UNIT-IV:
+Shallow Foundations: Shallow foundations, shallow foundations on sloping ground, raft
+foundations, stilt foundations, foundations for suspension bridges, transmission line
+towers, framed buildings etc, treatment of foundations - open joints, solution cavities,
+weak seams.
+UNIT-V:
+Deep Foundations: Piles in weak rocks, bearing capacity and settlement of piles, piles
+in stratified rock masses, field load tests on piles in weak rocks, behavior of bored /
+driven piles in soft / weathered rocks.
+TEXT BOOKS:
+1. Foundations on Rock: Engineering Practice, Wyllie Duncan C., E & FN Spon, Taylor
+and Francis
+2. Engineering Rock Mechanics: An Introduction to the Principles, Hudson J. A. and
+J. P. Harrison, Oxford, Elsevier, 1977
+REFERENCES:
+1. Rock Mass Classification-A Practical Engineering Approach, Singh B. and Goel R.
+K., Elsevier
+2. Engineering in Rocks, Ramamurthy T., PHI Learning
+3. Practical Rock Engineering, Hoek E., Rock Science
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22PE1GT21) GEOTECHNICAL EARTHQUAKE ENGINEERING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the basics of earthquake seismology
+• To predict the nature of ground motion during earthquake
+• To analyse the ground response using computer code
+• To learn the phenomena of liquefaction
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Analyze the magnitude of earth quake
+CO-2: Understand the effect of earthquake
+CO-3: Perform seismic stability analysis of slopes, dams and earth retaining structures
+CO-4: Acquire on the design criterions to be followed for the design different
+geotechnical structures
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 1 3 3 3 1
+CO-2 2 1 1 2 1 1
+CO-3 3 2 3 3 2 2
+CO-4 3 1 2 3 2 1
+UNIT-I:
+Earthquake Seismology: Causes of earthquake, Plate tectonics, Earthquake fault
+sources, Seismic waves, Elastic rebound theory, Quantification of earthquake,
+Intensity and magnitudes, Earthquake source models.
+UNIT-II:
+Earthquake Ground Motion: Seismograph, Characteristics of ground motion, Effect of
+local site conditions on ground motions, Design earthquake, Design spectra,
+Development of sites specification and code-based design. Ground Response
+Analysis- One-dimensional ground response analysis: Linear approaches, Equivalent
+linear approximation of non-linear approaches, Computer code “SHAKE”.
+UNIT-III:
+Liquefaction and Lateral Spreading: Liquefaction related phenomena, Liquefaction.
+Susceptibility- Historical, Geological, Compositional and State criteria. Evaluation of
+liquefaction by cyclic stress and cyclic strain approaches, Lateral deformation and
+spreading, Criteria for mapping liquefaction hazard zones.
+UNIT-IV:
+Seismic Design of Foundations, Seismic Slope Stability Analysis: Internal stability and
+Weakening instability and Seismic design of retaining walls.
+UNIT-V:
+Seismic Analysis and Design of Various Geotechnical Structures: Pseudo-static
+method, Pseudo dynamic method, Seismic slope stability analysis, Behavior of
+reinforced soil under seismic conditions, Seismic analysis of Tailings Dam, seismic
+design of shallow foundations, seismic design of Municipal Solid Waste (MSW) landfills.
+Codal provisions/guidelines for seismic design of geotechnical structures.
+TEXT BOOKS:
+1. Geotechnical Earthquake Engineering, Steven Kramer, Pearson, 2008
+2. Seismic Behaviour of Ground and Geotechnical Structure, Pinto P. A., Secoe
+REFERENCES:
+1. The Seismic Design Handbook, Naeim F., 2nd Edition, Kluwer Academic Publication,
+2001
+2. Seismic Design Criteria for Soil Liquefaction, Ferrito J. M., Tech. Report of Naval
+Facilities Service Center, Port Hueneme, 1997
+3. Geotechnical Earthquake Engineering Handbook, Robert W. Day, McGraw-Hill
+4. Geotechnical Earthquake Engineering, Ikuo Towhata, Springer-Verlag, Heidelberg
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22PE1GT22) ENVIRONMENTAL GEOTECHNOLOGY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the basics concepts of properties of water in relation to soil media
+• To differentiate various mineralogical characteristics
+• To develop a clear idea on soil-water interaction mechanism
+• To classify various waste containment systems & remediation techniques
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understand Soil-environment interaction, Soil mineralogy and Mechanisms of
+soil- water interaction
+CO-2: Learn about ground water flow and predict contaminant transport
+phenomenon
+CO-3: Apply remediation techniques for contaminated site
+CO-4: Create an idea in the development of various landfill design techniques
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 2 1 1 - -
+CO-2 3 1 3 1 2 -
+CO-3 3 1 - - 1 -
+CO-4 3 3 2 - - -
+UNIT-I:
+Soil Mineralogy: Scope of Geoenvironmental Engineering - Soil environment
+interaction; Properties of water in relation to the porous media; Water cycle with
+special reference to soil medium. Significance of mineralogy in determining soil
+behavior; Mineralogical characterization.
+UNIT-II:
+Mechanisms of Soil-Water Interaction: Diffuse double layer models; Force of attraction
+and repulsion; Soil-water-contaminant interaction; Theories of ion exchange;
+Influence of organic and inorganic chemical interaction.
+UNIT-III:
+Concepts of Waste Containment: Sources, production and classification of wastes,
+Environmental laws and regulations, ground water flow, desirable properties of soil;
+contaminant transport and retention; contaminated site remediation.
+UNIT-IV:
+Soil Characterization Techniques: Physico-Chemico mineralogical, electrical, and
+thermal properties and volumetric water content; gas permeation in soil; pore-size
+distribution; contaminant analysis. Contaminated site characterization.
+UNIT-V:
+Quantification and Remediation: Estimation of landfill quantities, landfill site location,
+design of various landfill components such as liners, covers, leach ate collection and
+removal, gas generation and management, ground water monitoring, end uses of
+landfill sites, Engineered landfills, slurry walls and barrier systems, design and
+construction, stability, compatibility and performance, remediation technologies,
+stabilization of contaminated soils and risk assessment approaches.
+TEXT BOOKS:
+1. Introduction to Environmental Geotechnology, Fang H. Y., 2nd Edition, CRC Press,
+2016
+2. Environmental Geotechnology, R. W. Sarsby, Thomas Telford, 2000
+REFERENCES:
+1. Fundamentals of Soil Behavior, Mitchell J. K. and Soga K., John Wiley, 2005
+2. Geotechnical Practice for Waste Disposal, Daniel D. E., Chapman and Hall, 2012
+3. Clay Barrier Systems for Waste Disposal Facilities, Rowe R. K., Quigley R. M. and
+Booker J. R., 2nd Edition, E & FN Spon,1997
+4. Geotechnical and Geo-environmental Engineering Handbook, Rowe R. K., Kluwer
+Academic Publishers, 2001
+5. Geo-environmental Engineering Principles, Reddi L. N. and Inyang H. F
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22PE1GT23) ADVANCED ENGINEERING GEOLOGY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the formation of soils / rock and its influence on their engineering
+behavior
+• To learn classification and characterization using advanced techniques such as
+geophysical methods, RS, GIS etc.
+• To gain comprehensive understanding about geological factors influencing the
+ground water hydraulics
+• To competence for accounting the geological aspects in the selection civil
+engineering structures
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Ability to characterize the soil and rock based on their formation
+CO-2: Knowledge of RS & GIS in engineering geology
+CO-3: Competence in application of geophysical methods for investigation of soils
+and rock
+CO-4: Understanding the geological aspects on ground water
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 2 2 2 1 1
+CO-2 3 2 2 3 3 1
+CO-3 3 2 2 3 3 1
+CO-4 3 2 2 1 2 1
+UNIT–I:
+Geology of Soils: evolution, classification, characteristics, features, mechanical
+behavior and engineering uses of soils. Important clay minerals and their importance
+in soils. Engineering geomorphology: evolution of different landforms ,(erosional and
+depositional ) characteristic features and their suitability or response to various
+engineering works.
+UNIT–II:
+Photogeology & Remote Sensing: Different types of aerial photographs, stereography,
+principles and uses of aerial photographs in the engineering practice. Infra-red line
+scan(IRLS)and side looking airborne radar (SLAR) thermal properties of geological
+materials, sensors. Interpretation of Landsat images and use of satellite images in civil
+engineering practice
+UNIT–III:
+Engineering Geophysics: Principles, theory, instruments, filed methods, data collection
+and data interpretation of electrical and seismic refraction methods. application in
+engineering practice.
+UNIT–IV:
+Ground Water: Artificial recharge of ground water, fluctuations in ground water levels
+due to various causes and management of ground water. Environmental geology:
+effects of withdrawal of excessive ground water, disposal of solid and liquid wastes,
+environmental impact of water impoundment. With effect from the academic year
+2021-22 17
+UNIT–V:
+Case Histories: Engineering geology of most important dams and funnels of India.
+TEXT BOOKS:
+1. Principles of Geology, Attewel and Farmer, Chapman and Publications, 1976
+2. Fundamentals of Engineering Geology, Bell F. G., Butterworth Publications, 1983
+3. Engineering Geology and Geotechnics, Bell F. G., Butterworth Publications, 1980
+REFERENCES:
+1. Fundamentals of Rock Mechanics, Jaeger J. C. and Cook N. G. W., 3rd Edition,
+Chapman and Hall, London, 1979
+2. Underground Excavation in Rock, Hoek E. and Brown E. T., 1982
+3. Rock Mechanics for Underground Mining, Brady B. H. G. and Brown E. T., 3rd Edition,
+Chapman & Hall, Springer Science & Business Media, 2007
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22PE1GT24) EXPANSIVE SOIL ENGINEERING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To gain comprehensive understanding about identification and characterization
+of expansive soils
+• To learn the laboratory test procedures for evaluation of expansiveness
+• To learn the swell control measures
+• To understand about open excavations in expansive soils and the remedial
+measures
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Recognize the Engineering behavior of Expansive Soils, their presence and
+identification
+CO-2: Interpret knowledge about Clay mineralogy responsible for expansive
+behaviour
+CO-3: Relate in laboratory and field evaluation of swell potential of expansive soils
+CO-4: Categorize problems posed by expansive soils on Foundations and
+competence in providing remediation
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 2 3 3 - -
+CO-2 2 2 3 1 - -
+CO-3 2 2 3 2 - -
+CO-4 2 2 3 3 - -
+UNIT-I:
+General: Necessity of study and importance. Spread of expansive soils in India and
+other countries. Various problems encountered for structural safety of structures,
+remedial measures.
+UNIT-II:
+Clay Mineralogy: study of physic- chemical properties of clay mineral including their
+microstructures, their identification by thermal, x-ray diffraction, Electron Microscopic
+methods engineering properties.
+UNIT-III:
+Swell and Swell Potential: Determination of swell and swell potential of soil water
+systems- laboratory and field estimates of heave. Study of moisture movements-
+swelling and shrinkage behaviors- cyclic swells multidimensional swells. Shear strength,
+consolidation, and earth pressure (Characteristic) properties of swelling clays.
+UNIT-IV:
+Problems and Remedial Measures: Problems encountered in shallow, deep
+foundations in swelling sub- soil strata- design considerations- study of case histories,
+methods of alteration or modification of swell properties. Use of under reamed piles
+and their design criteria – Reliability analysis of With effect from the academic year
+2021-22 46 foundations on expansive soils- settlement characteristics- hysteresis of
+deformations of swelling soils- Inter swelling. Safety factors.
+UNIT-V:
+Open and Underground Excavations: Swelling and shrinkage soils- construction
+techniques to be adopted. Remedial measures- stabilization methods use of
+chemical grouts etc.
+TEXT BOOKS:
+1. Expansive Soils- Problems and Practice in Foundation and Pavement Engineering,
+Nelson J. D. and Miller D. J., John Wiley & Sons Inc. 1992
+2. Fundamentals of Soil Behavior, Mitchell J. K. and Soga J., 3rd Edition, John Wiley &
+Sons Inc., 2005
+REFERENCES:
+1. Proceedings of 2nd International Conference on Expansive Soils Research and
+Engineering, Texas, 1963
+2. Proceedings of 3rd International Conference on Expansive Soils, Haifa Israel, 1978
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22OE1CN01) BUSINESS ANALYTICS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand the role of business analytics within an organization and to analyze
+data using statistical and data mining techniques and understand relationships
+between the underlying business processes of an organization
+• To gain an understanding of how managers use business analytics to formulate
+and solve business problems and to support managerial decision making and to
+become familiar with processes needed to develop, report, and analyze business
+data
+• To use decision-making tools/Operations research techniques and to manage
+business process using analytical and management tools
+• To analyze and solve problems from different industries such as manufacturing,
+service, retail, software, banking and finance, sports, pharmaceutical, aerospace
+etc.
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply knowledge of data analytics
+CO-2: Think critically in making decisions based on data and deep analytics
+CO-3: Use technical skills in predicative and prescriptive modeling to support business
+decision-making
+CO-4: Translate data into clear, actionable insights
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 - 1 - 1 1
+CO-2 3 - 2 - 1 2
+CO-3 2 1 1 - 1 1
+CO-4 1 2 1 - 1 1
+UNIT-I:
+Business Analytics: Overview of Business analytics, Scope of Business analytics, Business
+Analytics Process, Relationship of Business Analytics Process and organization,
+competitive advantages of Business Analytics.
+Statistical Tools: Statistical Notation, Descriptive Statistical methods, Review of
+probability distribution and data modelling, sampling and estimation methods
+overview.
+UNIT-II:
+Trendiness and Regression Analysis: Modelling Relationships and Trends in Data,
+simple Linear Regression. Important Resources, Business Analytics Personnel, Data and
+models for Business analytics, problem solving, Visualizing and Exploring Data Business
+Analytics Technology.
+UNIT-III:
+Organization Structures of Business analytics, Team management, Management
+Issues, Designing Information Policy, Outsourcing, Ensuring Data Quality, Measuring
+contribution of Business analytics, Managing Changes.
+Descriptive Analytics, predictive analytics, predicative Modelling, Predictive analytics
+analysis, Data Mining, Data Mining Methodologies, Prescriptive analytics and its step
+in the business analytics Process, Prescriptive Modelling, nonlinear Optimization.
+UNIT-IV:
+Forecasting Techniques: Qualitative and Judgmental Forecasting, Statistical
+Forecasting Models, Forecasting Models for Stationary Time Series, Forecasting Models
+for Time Series with a Linear Trend, Forecasting Time Series with Seasonality,
+Regression Forecasting with Casual Variables, Selecting Appropriate Forecasting
+Models.
+Monte Carlo Simulation and Risk Analysis: Monte Carle Simulation Using Analytic
+Solver Platform, New-Product Development Model, Newsvendor Model, Overbooking
+Model, Cash Budget Model.
+UNIT-V:
+Decision Analysis: Formulating Decision Problems, Decision Strategies without
+Outcome Probabilities, Decision Trees, The Value of Information, Utility and Decision
+Making.
+Recent trends in Embedded and collaborative business intelligence, Visual data
+recovery, Data Storytelling and Data journalism.
+TEXT BOOKS:
+1. Business Analytics-Principles, Concepts, and Applications, Marc J. Schniederjans,
+Dara G. Schniederjans, Christopher M. Starkey, Pearson FT Press
+2. Business Analytics, James Evans, Pearson Education
+3. Business Analytics, Purba Halady Rao, PHI, 2013
+REFERENCES:
+1. Business Analytics for Managers: Taking Business Intelligence Beyond Reporting,
+Gert H. N. Laursen, Jesper Thorlund, 2nd Edition, Wiley Publications
+2. Business Analytics: Data Analysis & Decision Making, S. Christian Albright, Wayne L.
+Winston 5th Edition, 2015
+3. Business Intelligence Guidebook: From Data Integration to Analytics, Rick Sherman
+Elsevier, 2014
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22OE1AM01) INDUSTRIAL SAFETY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Elements of Mechanical, Civil, Electrical and Industrial
+Engineering
+COURSE OBJECTIVES:
+• To achieve an understanding of principles, various functions and activities of safety
+management
+• To communicate effectively information on Health safety and environment
+facilitating collaboration with experts across various disciplines so as to create and
+execute safe methodology in complex engineering activities
+• To anticipate, recognize, and evaluate hazardous conditions and practices
+affecting people, property and the environment, develop and evaluate
+appropriate strategies designed to mitigate risk
+• To develop professional and ethical attitude with awareness of current legal issues
+by rendering expertise to wide range of industries
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply risk management principles to anticipate, identify, evaluate and control
+physical, chemical, biological and psychosocial hazards
+CO-2: Communicate effectively on health and safety matters among the employees
+and with society at large
+CO-3: Demonstrate the use of state of the art occupational health and safety
+practices in controlling risks of complex engineering activities and understand their
+limitations
+CO-4: Interpret and apply legislative / legal requirements, industry standards, and best
+practices in accident prevention programmes in a variety of workplaces
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 3 2 2 3 1
+CO-2 - - - - 2 3
+CO-3 3 1 2 1 - -
+CO-4 - 2 - 1 - 2
+UNIT-I:
+Safety Management: Evaluation of modern safety concepts – Safety management
+functions – safety organization, safety department – safety committee, safety audit -
+performance measurements and motivation – employee participation in safety and
+productivity.
+UNIT-II:
+Operational Safety: Hot metal Operation – Boiler, pressure vessels – heat treatment
+shop - gas furnace operation-electroplating-hot bending pipes – Safety in welding
+and cutting. Cold-metal Operation- Safety in Machine shop- metal cutting – shot
+blasting, grinding, painting – power press and other machines.
+Safe Handling and Storage: Material Handling, Compressed Gas Cylinders, Corrosive
+Substances, Hydrocarbons, Waste Drums and Containers
+UNIT-III:
+Safety Measures: Layout design and material handling - Use of electricity –
+Management of toxic gases and chemicals – Industrial fires and prevention – Road
+safety– Safety of sewage disposal and cleaning – Control of environmental pollution
+– Managing emergencies in industrial hazards.
+UNIT-IV:
+Accident Prevention: Human side of safety – personal protective equipment – Causes
+and cost of accidents. Accident prevention programmes - Specific hazard control
+strategies - HAZOP – Training and development of employees – First Aid – Fire fighting
+devices – Accident reporting investigation.
+UNIT-V:
+Safety, Health, Welfare & Laws: Safety and health standards – Industrial hygiene –
+occupational diseases prevention - Welfare facilities – History of legislations related to
+safety–pressure vessel act- Indian boiler act- The environmental protection act –
+Electricity act - Explosive act.
+TEXT BOOKS:
+1. Safety Management, John V. Grimaldi and Rollin H. Simonds, All India Travellers
+Bookseller, New Delhi, 1989
+2. Safety Management in Industry, Krishnan N. V., Jaico Publishing House, 1996
+REFERENCES:
+1. Occupational Safety Manual, BHEL
+2. Industrial Safety and The Law, P. M. C. Nair Publisher’s, Trivandrum
+3. Managing Emergencies in Industries, Loss Prevention of India Ltd., Proceedings,
+1999
+4. Safety Security and Risk Management, U. K. Singh & J. M. Dewan, A. P. H. Publishing
+Company, New Delhi, 1996
+5. Industrial Safety Management: Hazard Identification and Risk Control, L. M.
+Deshmukh, McGraw-Hill, 2005
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22OE1AM02) OPERATIONS RESEARCH
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To analyze linear programming models in practical and their practical use
+• To apply the transportation, assignment and sequencing models and their solution
+methodology for solving problems
+• To apply inventory and queuing, inventory models and their solution methodology
+for solving problems
+• To evaluate the simulation models
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Evaluate the problems using linear programming
+CO-2: Analyze assignment, transportation problems
+CO-3: Apply inventory and queuing problems for real time problems
+CO-4: Model the real-world problem and simulate it
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 1 3 3 2 - -
+CO-2 1 3 3 3 - -
+CO-3 1 3 3 3 - -
+CO-4 1 3 3 3 - -
+UNIT-I:
+Introduction to Operations Research: Definitions of OR, Characteristics of OR, Scope
+of OR, Classification of Optimization Techniques, models in OR, General L.P
+Formulation, Graphical solution, Simplex Techniques.
+Allocation: Linear Programming Problem Formulation- Graphical solution-Simplex
+method-Artificial variables technique-Two phase method, Big-M Method-Duality
+Principle.
+UNIT-II:
+Transportation Problem: Formulation-Optimal solution-unbalanced transportation
+problem-Degeneracy. Assignment problem-Formulation-Optimal solution-Variations
+of Assignment Problem-Travelling Salesman Problem.
+Sequencing: Introduction-Flow Shop sequencing-n jobs through two machines-n jobs
+through three machines-Job shop sequencing-two jobs through m machines.
+UNIT-III:
+Waiting Lines: Introduction-Single channel-Poisson arrivals-exponential service times-
+with infinite population and finite population models-Multichannel-Poisson arrivals-
+exponential service times with infinite population single channel Poisson arrivals.
+UNIT-IV:
+Inventory Models: Deterministic inventory, models - Probabilistic inventory control
+models
+UNIT-V:
+Simulation: Definition-Types of simulation models-phases of simulation-applications of
+simulation Inventory and Queuing problems-Advantages and Disadvantages-Brief
+Introduction of Simulation Languages.
+TEXT BOOKS:
+1. Operations Research, S. D. Sharma, Kedarnath Ramnath, Meerut, New Delhi
+2. Engineering Optimization, S. S. Rao, New Age International Publications, 2014
+3. Introduction to Genetic Algorithms, S. N. Sivanandam, Springer
+REFERENCES:
+1. Operations Research-An Introduction, H. A. Taha, PHI, 2008
+2. Principles of Operations Research, H. M. Wagner, PHI, Delhi, 1982
+3. Introduction to Optimization: Operations Research, J. C. Pant, Jain Brothers, Delhi,
+2008
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22OE1AM03) ENTREPRENEURSHIP AND START-UPS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To motivate the engineers to inculcate the skills thereof in any professional role and
+to consider intrapreneurship or entrepreneurship as career choices for personal
+and societal growth
+• To understand different Theories of Entrepreneurship and their Classification
+• To create Feasibility Reports, Business, Project Plans and resolve Operational
+problems
+• To understand the roles of Family, non-family entrepreneurs and learning about
+Startups’ Opportunities, Corporate Legal and Intellectual Property related issues
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the role of an entrepreneur in the economic development and
+discover societal problems as entrepreneurial opportunities and ideate to develop
+solutions through systematic and creative approaches to innovation and business
+strategy
+CO-2: Learn different Theories of entrepreneurship, the role of Family and Non-Family
+entrepreneurs and problem-solving skills
+CO-3: Create Marketing, Financial Plans and evaluate Structural, Financial and
+Managerial Problems
+CO-4: Apply lean methodology to startup ideas using Business Model Canvas and be
+able to create Business Plans through establishing business incubators. Understand
+Corporate Legal and Intellectual Property related matters
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 1 3 2 - 3
+CO-2 1 - - - - 2
+CO-3 1 - - - - 2
+CO-4 - - - 1 - -
+UNIT-I:
+Entrepreneurship: Definition of Entrepreneur, Entrepreneurial motivation and barriers;
+Internal and external factors; Types of entrepreneurs, Personality and Skill Set of an
+Entrepreneur, Entrepreneurship as a career for engineers, scientists, and technologists.
+UNIT-II:
+Theories of Entrepreneurship: Classification of entrepreneurship. Creativity and
+Innovation: Creative Problems Solving, Creative Thinking, Lateral Thinking, Views of De
+Bono, Khandwala and others, Creative Performance in terms of motivation and skills.
+Family and Non-Family Entrepreneurs: Role of Professionals, Professionalism vs. family
+entrepreneurs, Role of Woman entrepreneur, Sick industries, Reasons for Sickness,
+Remedies for Sickness, Role of BIFR in revival, Bank Syndications.
+UNIT-III:
+Creativity and Entrepreneurial Plan: Idea Generation, Screening and Project
+Identification, Creative Performance, Feasibility Analysis: Economic, Marketing,
+Financial and Technical; Project Planning, Evaluation, Monitoring and Control,
+segmentation, Targeting and positioning of Product, Role of SIDBI in Project
+Management.
+UNIT-IV:
+Operation Problems: Incubation and Take-off, Problems encountered Structural,
+Financial and Managerial Problems, Types of Uncertainty. Institutional support for new
+ventures: Supporting organizations; Incentives and facilities; Financial Institutions and
+Small-scale Industries, Govt. Policies for SSIs.
+UNIT-V:
+Startups’ Opportunity Assessment, Business Models, Entrepreneur talk, Clinical/
+Regulatory, Sector Specific Group Briefing by Advisory Committee, Corporate Legal
+and Intellectual Property, Pitching, Payers and Reimbursement, Pitch practice,
+Investors, Mistakes I Won’t Repeat, Business Development and Exits, Finance,
+Budgeting, Team Building, Opportunities in Telangana State and India – incubators,
+schemes, accelerators.
+TEXT BOOKS:
+1. Understanding Enterprise: Entrepreneurship and Small Business, Bridge S. et al.,
+Palgrave, 2003
+2. Holt- Entrepreneurship: New Venture Creation, Prentice-Hall, 1998
+3. Entrepreneurship Development, Robert D. Hisrich, Michael P. Peters, Tata McGraw
+Hill Edition
+REFERENCES:
+1. New Venture Creation: An Innovator’s Guide to Entrepreneurship, Marc H. Meyer
+and Frederick G. Crane, 2nd Edition, Sage Publications
+2. Technology Ventures: From Idea to Enterprise, Byers, Dorf, Nelson
+3. Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist - Feld,
+Mendelson, Costolo
+4. Breakthrough Entrepreneurship, Burgstone and Murphy
+5. Business Model Generation, Alexander Osterwalder
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester
+(22OE1PL01) WASTE TO ENERGY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To create awareness in students of energy conservation
+• To identify the use of different types of Bio waste energy resources
+• To understand different types of bio waste energy conservations
+• To detect different waste conversion into different forms of energy
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Find different types of energy from waste to produce electrical power
+CO-2: Estimate the use of bio waste to produce electrical energy
+CO-3: Understanding different types of bio waste and its energy conversions
+CO-4: Analyze the bio waste utilization and to avoid the environmental pollution
+COURSE ARTICULATION MATRIX:
+(Define Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 3 2 3 1 2 1
+CO-2 3 3 3 3 2 3
+CO-3 3 2 3 2 2 3
+CO-4 3 3 3 3 2 3
+UNIT-I:
+Introduction to Energy From Waste: Classification of waste as fuel, Agro based, Forest
+residue, Industrial waste, MSW (Municipal solid waste) – Conversion devices –
+Incinerators, Gasifiers, Digestors. Urban waste to energy conversion, Biomass energy
+Programme in India.
+UNIT-II:
+Biomass Pyrolysis: Pyrolysis – Types, slow fast – Manufacture of charcoal – Methods -
+Yields and application – Manufacture of pyrolytic oils and gases, yields and
+applications.
+UNIT-III:
+Biomass Gasification: Gasifiers – Fixed bed system – Downdraft and updraft gasifiers –
+Fluidized bed gasifiers – Design, construction and operation – Gasifier burner
+arrangement for thermal heating – Gasifier engine arrangement and electrical
+power.
+UNIT-IV:
+Biomass Combustion: Biomass stoves – Improved chullahs, types, some exotic designs,
+Fixed bed combustors, Types, inclined grate combustors, Fluidized bed combustors,
+Design, construction and operation - Operation of all the above biomass combustors.
+UNIT-V:
+Biogas: Properties of biogas (Calorific value and composition) - Biogas plant
+technology and status - Bio energy system - Design and constructional features -
+Biomass resources and their classification - Biomass conversion processes - Thermo
+chemical conversion - Direct combustion - biomass gasification - pyrolysis and
+liquefaction - biochemical conversion - anaerobic digestion.
+Types of biogas Plants – Applications - Alcohol production from biomass - Bio diesel
+production - Urban waste to energy conversion - Biomass energy programme in India.
+TEXT BOOKS:
+1. Biogas Technology-Transfer and Diffusion, M. M. EL-Halwagi, Elsevier Applied
+Science Publisher, 1984
+2. Introduction to Biomass Energy Conversions, Sergio Capareda
+REFERENCES:
+1. Non-Conventional Energy, Desai Ashok V., Wiley Eastern Ltd., 1990
+2. Biogas Technology - A Practical Hand Book, Khandelwal K. C. and Mahdi S. S., Vol.
+I & II, Tata McGraw Hill, 1983
+3. Food, Feed and Fuel from Biomass, Challal D. S., IBH Publishing Co. Pvt. Ltd., 1991
+4. Biomass Conversion and Technology, C. Y. WereKo-Brobby and E. B. Hagan, John
+Wiley & Sons, 1996

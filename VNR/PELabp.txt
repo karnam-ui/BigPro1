@@ -1,0 +1,508 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/PELabp.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+Welcome to LAB Protocol
+______________________________________________
+VNR VJIET-PES Lab-EEE
+VNR VJIET – VNR LAB Protocol
+Power Electronics and Simulation Laboratory
+Mr. B.Ganesh babu
+Dr.J.Srinivasa Rao
+Mr.G.Laxmi Narayana
+_____________________________________________
+VNR VJIET-PES Lab-EEE
+Power Electronics
+✓ Power electronics is the technology associated with the efficient
+conversion, control and conditioning of electric power by static means
+from its available input form into desired electrical output form.
+✓ The goal of power electronics is to control the flow of energy from an
+electrical source to an electrical load with high efficiency, high availability,
+high reliability, small size, light weight and low cost.
+✓ The Power conversion systems according to the type of the input
+and output power are :
+AC to DC Conversion
+DC to AC Conversion
+DC to DC Conversion
+AC to AC Conversion
+.
+_____________________________
+VNR VJIET-PES Lab-EEE
+The Interdisciplinary Nature
+________________________________________
+VNR VJIET-PES Lab-EEE
+Relation with multiple disciplines
+Power electronics is currently the most active discipline in electric
+power engineering.
+____________________________________________
+VNR VJIET-PES Lab-EEE
+E
+m
+l e
+a
+C
+t
+c
+c
+i r c
+h e o
+t r i c
+h i n
+P
+s
+u
+r
+e
+o
+y
+i t
+y
+s
+w
+s t
+C
+e
+e
+t
+r
+m s
+S
+C
+C
+t
+y
+o
+o
+h
+s
+n
+n
+e
+t e m
+t r o
+t r o
+o r
+E
+s &
+l t h
+l
+y
+l e
+P
+e
+e
+cce
+e o r
+o w
+l e c
+l e c
+s
+t r ol
+e
+y
+e r
+t r o
+o
+t r
+m ac
+n
+g
+i c
+n
+n
+t r
+S
+p
+s
+i
+e
+i g
+r o
+t i c
+n
+c
+s
+a
+e
+l
+s s i n g
+S
+e
+o
+p
+l e
+l i d
+h
+S
+c
+c
+y
+i m
+o m
+t r o
+s t a
+s i c
+u l a
+p u
+n i c
+t e
+s
+t
+t
+s
+i o
+i n
+n
+g
+&
+Classification of Power Electronic Devices
+The following is taken from Principles and Applications of Electrical Engineering by G. Rizzoni, McGraw Hill
+Figure
+12.1
+6
+The Evolution of Power electronics
+The power electronics revolution has gained momentum since the late 1980s
+________________________________________
+VNR VJIET-PES Lab-EEE
+Power Electronic Devices
+Vacuum tube Thyratron
+________________________________________
+VNR VJIET-PES Lab-EEE
+The Evolution of Power electronics
+Thyristor (SCR), GTO, Triac Power MOSFET, IGBT
+________________________________________
+VNR VJIET-PES Lab-EEE
+Comparison between different commonly used Thyristors
+Line Commutated Thyristors available up to 6000V, 4500A.
+
+Ex: Converter grade (line commutated) SCR.
+
+V / I rating: 5KV / 5000A
+
+Max. Frequency: 60Hz.
+
+Switching time: 100 to 400sec.
+
+On state resistance: 0.45m.
+
+Example of Inverter Grade Thyristor Ratings
+
+V / I rating: 4500V / 3000A.
+
+Max. Frequency: 20KHz.
+
+Switching time: 20 to 100sec.
+
+On state resistance: 0.5m.
+
+____________________________________________
+VNR VJIET-PES Lab-EEE
+Ratings of MOSFET & IGBT
+MOSFET V / I rating 700V, 3.3A.
+
+Max. Frequency: Over 500kHz.
+
+Switching time around (Ton) 1sec.
+
+On state resistance: 3.6.
+
+IGBT V / I rating 1200V, 3A.
+
+Max. Frequency: Over 500kHz.
+
+Switching time around (Ton) 1.2sec.
+
+On state resistance: 1.78.
+
+____________________________________________
+VNR VJIET-PES Lab-EEE
+Power Electric Circuits
+Table 12.1
+12
+13
+Applications
+✓ Commercial: Air Conditioners, Central Refrigeration, UPS,
+Elevators, Emergency Lamps, Heating Systems.
+✓ Domestic: Cooking Equipments, Lightning & heating systems,
+Air conditioners, Refrigerators, Freezers, Personal
+Computers, washing machines.
+✓ Telecommunications: Mobile Battery Chargers,Modular DC
+Supplies .
+✓ Transportation: Electric vehicles, MAGLEV Trains, Battery
+operated vehicles, ship power systems, Air craft power
+system, Trains & locomotives.
+✓ Industrial: Motor drives, Electrolysis, Induction heating,
+Welding, Arc furnaces, ovens.
+Applications
+Utility Systems: HVDC, FACTS devices like TCR,TCSC, STATCOM,
+✓
+UPFC, UPQC, Power Quality Control, Reactive power
+compensation .
+Renewable Energy Sources: Variable Speed Technology, Active
+✓
+and reactive power control, power conditioning.
+Military & Aerospace: Unmanned Aerial Vehicles, Unmanned
+✓
+ground vehicles, manned aircraft & spacecraft.
+________________________________________
+VNR VJIET-PES Lab-EEE
+Inverter Controlled Air Conditioners
+________________________________________
+VNR VJIET-PES Lab-EEE
+Inverter Controlled Washing Machine
+________________________________________
+VNR VJIET-PES Lab-EEE
+Uninterruptible Power Supply
+________________________________________
+VNR VJIET-PES Lab-EEE
+Hybrid Vehicle
+________________________________________
+VNR VJIET-PES Lab-EEE
+Renewable energy sources
+Applications of Power Devices
+________________________________________
+VNR VJIET-PES Lab-EEE
+FPGAs and Plug-in Hybrid Vehicles
+Power Electronics, FPGA, Applications
+FPGAs and Plug-in
+◼
+Hybrid Vehicles
+Sep.15, 2010 in
+◼
+Motor Control IP,
+Technology, Power
+Electronics, FPGA,
+Applications
+____________________________________________
+VNR VJIET-PECS Lab-EEE
+Electrical Circuits and Simulation Lab
+Part A : HARDWARE EXPERIMENTS
+Part B : SIMULATION
+_______________________________________________________
+________
+VNR VJIET-PECS Lab-EEE
+
+Study of Characteristics of SCR, MOSFET & IGBT
+1.
+2. Study of UJT gate firing circuit for SCR
+3. Single Phase AC Voltage Controller with R and RLLoads
+4. Single Phase fully controlled bridge converter with R and RL
+loads
+5 Single Phase Cyclo-converter with R and RL loads
+6. Single Phase half controlled converter with R load
+7. Three Phase half controlled bridge converter with R-load
+8. Single Phase Bridge inverter with R and RL loads
+9. Study of buck converter
+10. Study of boost converter
+
+1. (a)Simulation of single-phase Half wave converter using R and
+RL loads
+(b)Simulation of single-phase full converter usingR, RL and RLE
+loads
+(c)Simulation of single-phase Semi converter usingR, RL and
+RLE loads
+2. (a)Simulation of Single-phase AC voltage controller using R and
+RL loads
+(b)Simulation of Single phase Cyclo-converter withR and RL-loads
+3. Simulation of Buck chopper
+4. Simulation of single phase Inverter with PWM control.
+5.Simulation of three phase fully controlled converter with R and
+RL loads, with and without freewheeling diode. Observation of
+waveforms for Continuous and
+Discontinuous modes of operation.
+6. Study of PWM technique
+Single Phase Half Controlled Converter
+Single Phase Half Controlled Converter with RL-Load
+Circuit Operation
+At ωt = 0 when the input supply voltage becomes positive the
+✓
+thyristor T becomes forward biased. However, unlike a diode, it
+does not turn ON till a gate pulse is applied at ωt = α. During the
+period 0 < ωt ≤ α, the thyristor blocks the supply voltage and the
+load voltage remains zero as shown.
+Consequently, no load current flows during this interval.
+✓
+As soon as a gate pulse is applied to the thyristor at ωt = α it
+✓
+turns ON. The voltage across the thyristor collapses to almost
+zero and the full supply voltage appears across the load. From
+this point onwards the load voltage follows the supply voltage.
+The load being purely resistive the load current io is proportional
+to the load voltage.
+Circuit Operation
+At ωt = π as the supply voltage passes through the negative
+✓
+going zero crossing the load voltage and hence the load current
+becomes zero and tries to reverse direction. In the process the
+thyristor undergoes reverse recovery and starts blocking the
+negative supply voltage.
+Therefore, the load voltage and the load current remains
+✓
+clamped at zero till the thyristor is fired again at ωt = 2π + α.
+The same process repeats there after.
+
+Applications of Half Controlled Converter
+Electric Welding.
+
+Electroplating of metals.
+
+Electrorefining of metals.
+
+Motor speed control.
+
+➢ Commutation
+➢ Thyristor voltages and currents
+➢ Transformer current
+= 
++
+= =
+ 
+   
+  
+U
+d
+1
+2 U
+2
+s i n t d ( t )
+2 2
+U
+2
+c o s 0 . 9 U
+2
+c o s
+θ=180
+U =U = 2U
+DM RM 2
+I
+d V T
+=
+1
+2
+I
+I
+d
+2
+= I
+d
+I
+V T
+=
+1
+2
+I
+d
+
+0 
+2
+Single Phase Fully controlled bridge converter
+with R load.
+➢Assumption: Ls=0
+For thyristor: maximum forward voltage, maximum reverse voltage
+Advantages: — 2pulses in one line cycle
+— No DC component in the transformer current
+➢ Average output (rectified)
+voltage
+➢ Average output current
+➢ For thyristor
+➢ For transformer
+0 
+Single Phase Fully controlled bridge converter
+with R load.
+➢Assumption: Ls=0
+For thyristor: maximum forward voltage, maximum reverse voltage
+Advantages: — 2pulses in one line cycle
+— No DC component in the transformer current
+➢ Commutation
+➢ Thyristor voltages and currents
+➢ Transformer current
+= 
++
+= =
+ 
+   
+  
+U
+d
+1
+2 U
+2
+s i n t d ( t )
+2 2
+U
+2
+c o s 0 . 9 U
+2
+c o s
+θ=180
+U =U = 2U
+DM RM 2
+I
+d V T
+=
+1
+2
+I
+I
+d
+2
+= I
+d
+I
+V T
+=
+1
+2
+I
+d
+
+0 
+2
+An AC to DC converter circuit can convert AC voltage into a DC voltage.
+The DC output voltage can be controlled by varying the firing angle of the
+thyristors. The AC input voltage could be a single phase or three phase.
+Single phase, Full wave AC to DC converter
+The average output voltage can be found from
+:
+____________________________________________
+VNR VJIET-PECS Lab-EEE
+➢ Assumption:  =0 and Ls=0 , so
+U
+d o
+1
+0
+2 U
+2
+s i n t d ( t )
+2 2
+U
+2
+0 . 9 U
+2
+
+ 
+ 
+U
+U
+d
+d 0
+c o s
+=    = =
+ =
+▪ Rectifier mode
+▪ Inverter mode
+1 1 1
+T T T
+➢ Average Power: P =  p(t)dt =  u i dt = I (  u dt) = I U = 0.9U I cos
+d d d d d d 2 d
+T 0 T 0 T 0
+3-phase full wave converter
+1-phase cycloconverter
+___________________________________
+VNR VJIET-PECS Lab-EEE
+AC- Voltage controller with R -Load
+__________________________________
+VNR VJIET-PECS Lab-EEE
+

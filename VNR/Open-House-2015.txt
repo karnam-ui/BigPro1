@@ -1,0 +1,207 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/images/campus/Open-House-2015.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+3rd and 4th March 2015. 10AM – 5PM
+- 120+ Exhibits & Demos of Research and Consultancy projects.
+- Recent developments in Technology and Innovation.
+Focus Areas:
+Technology Areas Application Domains
+• Signal Processing, Wireless • Defence.
+communication. • Automotive.
+• Embedded Control, VLSI. • Agriculture.
+• Speech technology, Image processing. • Water Management.
+• Computer graphics, Computer vision. • Healthcare.
+• Computer networks, Software Defined • Energy & Power.
+networks, Information and network • Transportation.
+security. • E-Commerce, E-Learning,
+• Data mining, Information retrieval and E-Governance.
+extraction. • Gaming.
+• Robotics. • Industrial.
+• High voltage engineering. • Information Technology &
+• Microgrids. Telecommunications.
+• Power electronics, Power systems. • Construction.
+• Renewable Energy. • Domestic.
+• Electrical machines. • Biometrics.
+• Automobile.
+• Manufacturing, Design.
+• Material Science.
+• Additive manufacturing.
+• Hydraulics.
+• Thermal Engineering.
+• Welding.
+• Structures.
+Project Details
+Corridor Project
+Domain Project Floor / Room no:
+Design and implementation of Turbidity, DO and Ph. sensors C5 11
+Implementation of WSN with a Moisture sensor and
+Agriculture and Water conductivity sensor for automatic irrigation for Agriculture. C5 13
+1
+Management Development of effective Wireless sensor Network System for
+Water quality and quantity monitoring (AquaSense) C5 12
+Design and development of a Agribot C4 9
+Rain Water Harvesting C4 8
+Gesture recognition using Flex Sensors C6 14
+Airwriting Recognition C7 17
+Acoustic Signal Analysis for Healthcare C6 15
+Emotion, Stress and Cough and Recognition/Detection using
+Speech C6 16
+EOG and ECG Monitoring & Analysis C8 18
+Blue Brain (Virtual Brain) Technology C8 19
+Virtual Assistant for Paralyzed patients C8 20
+Arrhythmia classification C8 21
+Android Application Who is the Doctor C8 22
+Emotion recognition based on text using Neuro Fuzzy System. C9 24
+Detection of Superficial and Volumetric Features in 3-D Digital
+HealthCare and
+Images 1 C9 23
+Biometrics
+Development of Tool for the Management of Diabetes
+Mellitus C9 25
+Development of machine learning based algorithm for
+computer aided diagnosis of malaria C9 26
+Automated Screening Of Malaria Parasite Detection Using
+Machine Learning Methods C9 27
+Liveness detection and Image quality assessment for fake Bio-
+metric detection. C12 41
+Exoskeleton BOT C11 36
+Hardware implementation of image processing techniques for
+the detection of eye diseases. C11 37
+Design and implementation of algorithms for real time patient
+monitoring in ambulance while in transit. C12 40
+Corridor Project
+Domain Project Floor / Room no:
+Genetic SVM Usage for detecting Electricity Fraud 81
+Design and construction of scale down model of Van de graff
+Generator 106(1)
+Wireless power transmission (Witricity) 82
+Solar tracker & Solar tree including Agriculture implementation. 83
+Hardware implementation of FPGA based controller for
+multilevel inverter 84
+FPGA implementation of Filed Oriented control for PMSM 87
+Development and implementation of DSP based Novel algorithm
+for the protection of power transformer 88
+Security system using Solar 85
+Stun gun 86
+Dark and light sensor 89
+Solar mobile & laptop charger 90
+Low cost Power generation using bicycle 93
+Particle accelerator 94
+Hollow flash light 97
+Kelvins thunderstorm 98
+Continuity tester 101
+Energy & Power 2 R24
+Tesla coil 102
+Stability Enhancement with UPFC using CSO 91
+Axial flux machines 92
+Multilevel inverters for high power applications 95
+Development of optimization techniques for protective devices
+and DG allocation 96
+Application of wavelet function for the PWM control of inverter 99
+A dual two level inverter with common mode voltage elimination
+scheme for an induction motor drive 106
+Quadratic converter 100
+Design and development of MPPT DC link and static converter for
+smart microgrid application 103
+DC level stabilization in multilevel inverters 104
+Analysis of 3 level neutral point clamped inverted fed induction
+motor S1
+Wireless Fault monitoring in LLG transmission line S2
+Running 3 phase motor on a single phase supply. 105
+Loop detector S4
+ATC Enhancement using FACTS in Deregulated Power System S3
+Corridor Project
+Domain Project Floor / Room no:
+Design and implementation of ATM controller C13 43
+Mosquito Bat Gaming C15 52
+Code Hacker C15 53
+Augmented Reality App for Mobiles C15 54
+3D flight simulator C16 55
+Display of 3D objects in 2D space in Adobe Flash with AS3.0 For E-
+Learning C13 44
+Google Street View of VNRVJIET C16 57
+Event Dunia.com C13 46
+Gaming, TETRIS C16 56
+E-Commerce, E-Busspass registration and Renewal System C13 47
+E-Learning, 2
+Mathematical Formula Finder (Android Application) C14 48
+Information
+Data Mining Application for Cyber Credit-Card Fraud Detection
+Technology
+System C15 49
+SFLOW INTEGRATION WITH SDN C17 60
+Image Fusion using fuzzy & Neuro fuzzy logic C17 59
+Identity Based short Signature scheme C16 58
+Incremental Clustering and Classification of Text Documents C18 61
+Clustering and Classification of High Dimensional Text Documents C18 62
+Dynamic Informative Mobile Applications. (Include Digitization of
+Land Records concept also here) C15 50
+Massive open online course through handheld device. C15 51
+Dynamic hand gesture recognition system to control soft front panels. C18 63
+Low leakage CNTFET Full Adder Circuit C20 68
+Application of Nanobot As Electronic Nose (Miscellaneous) C22 71
+Wireless Charging of Mobile Phones Using Microwaves C19 64
+Arduino wireless display board C23 75
+Carrier Aggregation C20 67
+X2 Handover in LTE C19 65
+LPG Gas leakage detection C21 69
+Semiconductor,
+Telecom, Industrial, Voice Commands for PC 2 C21 70
+Domestic, General Self-Balancing Robot C23 76
+3D Printing Machine C22 74
+Optimization of controllable turning parameters for High Speed Dry
+Machining of Super Alloys by measurement of Tool Wear C22 72
+Design & development of a multipurpose & cost-effective AGV
+(Automotive guided vehicle) C23 77
+Remote control for home appliances including temperature control. C23 78
+Fon technology C11 38
+Corridor Project
+Domain Project Floor / Room no:
+Advanced Tracking Device for Transport System C25 107
+IPCore development of MILSTD 1553 Remote Terminal C27 114
+Implementation of Traffic Light controller using FPGA C25 108
+Mobile Image position and performance acquisition system MV Lab
+FM Based Switch for Street Light Control C25 111
+Automated Commando Training System through VNRVJIET C27 113
+Intelligent and Intuitive Signaling System for On-road Driver
+assistance RFID
+Sensory Measuring Unit VI
+Driver safety index using integrated computing system MV Lab
+Driving Simulator for Indian Environment VI
+Vehicle Locking & Tracking System (VLTS) C26 112
+Human Powered Vehicle C25 109
+Hybrid GO-Kart (DESIGN AND FABRICATION OF HYBRID VEHICLE
+USING ELECTRIC AND CONVENTIONAL FUEL SOURCES) C25 110
+Experimental study of influences of pulsed current and non-pulsed
+current Gas Tungsten Arc Welding on 6082 Aluminum alloy
+Weldments C27 115
+Comparative study of weld characteristics of IS : 65032A Aluminum
+alloy by two processes Friction Stir Welding ( FSW ) and gas tungsten
+Defence, arc welding (GTAW) C27 116
+Automotive, Development of procedures for computation of Titanium–Vanadium
+3
+Transportation, Binary alloy phase diagram using Cluster Variation method C27 117
+Construction Design & analysis of new locking mechanism for fixing wheels to an
+automobile with minimum human effort C30 120
+Design & Development of a Quadruped robot C29 120
+Solar Assisted Hybrid Electric Vehicle C30 121
+Formula Student Car C30 122
+International Go-Kart Vehicle C30 123
+Design of Reversing mechanism for 2 wheelers C29 119
+Low cost Fuel injector cleaning machine C30 124
+Automated Dam Gates C32 130
+Metro Rail Project C34 137
+Evaluation Of Traffic Signal Timing Optimization For Heterogeneous
+Traffic Conditions Using Microscopic Simulation Program C34 138
+Liquefaction of soils C33 131
+Development of High Strength Hybrid Fiber Reinforced Self
+Compacting Concrete using Quartz Materials C33 132
+Development of Macroscopic Hydraulic conductivity model in soil
+from Physical & material properties. C34 133
+Laboratory Investigation Of Recycled Asphalt Pavements (RAP) In
+Predicting Its Influence On Modified Asphalt Mixture For Evaluation
+Of Rutting Characteristics C34 134
+Hex-Copter (Robotics CoE) if possible Humanoid C28 118

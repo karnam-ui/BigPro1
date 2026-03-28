@@ -1,0 +1,284 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/eiedept/faculty/Dr.Avvaru-Srinivasulu.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+Name: Dr. Avvaru Srinivasulu
+Designation: Assistant Professor
+Department: Electronics & Instrumentation Engineering
+Mail ID: srinivasulu_a@vnrvjiet.in
+Experience (in years): Teaching: 15 Research: 9 Others (If any, Specify): industrial – 1.6
+1. Educational / Technical qualifications:
+S.No Level (UG / PG / Ph.D.) Year of passing Specialization
+Medical Electronics and Signal
+1 Ph.D. 2022
+Processing
+Instrumentation and Control
+2 M. Tech. 2008
+systems
+Electronics and Control
+3 B.Tech. 2006
+Engineering
+2. Teaching and Learning:
+2.1. Teaching Interests: Digital Signal Processing, Network Theory, Fundamentals of Digital
+Logic Circuits, Control System Engineering, Machine Learning and IoT.
+2.2. Novel Teaching & Learning Techniques adopted: Activity-based learning, Moodle, LMS,
+ICT. And Project based learning.
+2.3. Involvement in curriculum updating / Design:- Yes
+3. Co-curricular and Extra-Curricular Activities
+3.1. Interests and Hobbies: Music
+3.2. CCA/ECA Organized: 12
+3.3. CCA/ECA participated: 20
+3.4. Counseling and Mentoring Activity: B. Tech. Students
+3.5. Committees involved in:
+Department level: 8
+Institute Level: 4
+4. Conference / Workshop / Seminar / Guest Lectures:
+4.1. Conducted: 12
+4.2. Attended: 56
+5. Academic Contribution and Research & Consultancy:
+5.1. Invited Lectures:-
+5.2. Articles/Chapters published in Books:-
+5.3. Books published as a single author or as editor:-2
+5.4. Projects Guided:
+a) UG: 45 b) PG: 2
+5.5. Research Interests: Wearable healthcare monitoring
+5.6. Ph.D. students: Nil
+a) Enrolled: b) Submitted: c) Awarded:
+5.7. Papers published in reviewed Journals:
+S. Title of the Paper Journal Name , Vol. ISBN/ Impact National/
+No No. PP ISSN Factor/ Internationa
+No. Citation l
+Index
+1 Performance evaluation of Multimedia Tools and ISSN: 3/ SCIE International
+convolution neural network Applications, 83, 1380- (WoS),
+models for detection of 65149–65188, 2024 7501 Scopus
+abnormal and ventricular Indexed,
+ectopic beat cardiac episodes UGC care
+2 Journal of Medical
+Wireless CardioS framework ISSN: 2.77/
+Engineering &
+for continuous ECG 0309- Scopus International
+Technology, 47(4),
+acquisition 1902 Indexed
+201–216
+3 4.325
+A Low-Cost, Low-Power /SCIE
+ISSN:
+Flexible Single-Lead ECG IEEE Sensors Journal, (WoS),
+1530- International
+Textile Sensor for Continuous 23(17), 20189-20198 Scopus
+437X
+Monitoring of Cardiac Signals Indexed,
+UGC care
+4 Signal Processing Framework
+Journal of Medical ISSN: 1.709/
+for the Detection of
+Signals & Sensors, 2228- Scopus International
+Ventricular Ectopic Beat
+13(3), 239-251 7477 Indexed
+Episodes
+5 2.1 /SCIE
+A Signal Processing Cardiovascular
+ISSN: (WoS),
+Framework for the Detection Engineering and
+1869- Scopus International
+of Abnormal Cardiac Technology, 14, 331–
+408X Indexed,
+Episodes 349
+UGC care
+6 Realtime Evaluation of
+Journal of Physics: ISSN: 0.918/
+Cardiac Activities Using
+Conference Series, 1742- Scopus International
+Multi Features with KNN
+2571(1), 012014 6596 Indexed
+Classifier - A Pilot Study
+7 7.099
+Basis pursuit sparse
+/SCIE
+decomposition using tunable- ISSN:
+Phys Eng Sci Med (WoS),
+Q wavelet transform (BPSD- 2662- International
+(2022) Scopus
+TQWT) for denoising of 4737
+Indexed,
+electrocardiograms
+UGC care
+8
+Research on 3.4
+Wearable Ag-NyW textile
+ISSN:
+Biomedical /Scopus
+electrode for continuous ECG 2446- International
+Engineering, 37, 231– Indexed,
+monitoring 4740
+247 UGC care
+9 International Journal
+A Framework to Detect the
+of Emerging Trends ISSN:
+Atrial Depolarization Level Scopus
+in Engineering 2347- International
+for the Diagnosis of Atrial Indexed
+Research, 8(10), 3983
+Fibrillation
+6654-6657
+10 Biomedical
+DESIGN ISSUES OF
+Engineering: ISSN: 0.687/
+DOPPLER RADAR FOR
+Applications, Basis 1016- Scopus International
+HEART RATE SENSING—
+and Communications, 2372 Indexed
+A SYSTEMATIC REVIEW
+32(05), 1-8
+11 Cloud Based Neo-Natal
+International Journal
+Health Care Monitoring From ISSN: Google
+of Advanced Science
+NICU - An Application of 2207- Scholar International
+and Technology,
+Internet of Medical Things 6360 indexed
+29(9s), 4404-4410
+(IoMT)
+12 International Journal
+Physical Activity Indexing on ISSN: Google
+of Advanced Science
+Human ECG - A Biomarker 2207- Scholar International
+and Technology,
+for Clinical Diagnosis 6360 indexed
+29(05), 5649–5660
+13 International Journal
+Performance Estimation of ISSN: Google
+of Recent Technology
+Cylindrical Dielectric 2277- Scholar International
+and Engineering, 8(5),
+Resonant Antenna 3878 indexed
+4962-4965
+14 International Journal
+Effect of PCA Feature of Engineering and ISSN: Google
+Reduction on Ventricular Advanced 2249- Scholar International
+Ectopic Beat Classification Technology, 9(1S5), 8958 indexed
+29-32
+15 International Journal
+Cardiac Episode Detection of Recent Technology ISSN: Google
+and Classification – A and Engineering, 2277- Scholar International
+Systematic Review 7(ICETESM18), 35- 3878 indexed
+42
+16 Proceedings of the 5th Google
+International Scholar
+Noise Removal from ECG ISSN:
+Conference on indexed
+signal using FIR filter with 2319- International
+Emerging Trends in
+different Window Techniques 8346
+Engineering
+Technology, Science
+and Management,
+6(8), 1628-1634
+17 Indian Journal of Google
+Measurement and Wireless ISSN:
+Mednodent and Allied Scholar
+Data Transmission of Heart 2347- National
+Sciences, 4(3), 126- indexed
+Rate Using Pulse Sensor 6206
+131
+18 An Engineering Perspective Journal of Medical
+ISSN:
+of External Cardiac Loop Engineering, vol. PubMed
+2314- International
+Recorder: A Systematic 2016, Article ID indexed
+6643
+Review 6931347
+19 International Archive
+An Efficient Method for ISSN: Google
+of Applied Sciences
+Implementation of 0976- Scholar International
+and Technology, 4(2),
+Convolution 4828 indexed
+62-69
+20 International Journal
+of Engineering ISSN: Google
+Optimization of memory-
+Research and 0976- Scholar International
+based LUT Multiplier
+Development, 3(4), 4263 indexed
+125-132
+21 International Journal
+Face detection system on ISSN: Google
+of Modern
+AdaBoost algorithm using 2249- Scholar International
+Engineering Research,
+Haar classifiers 6645 indexed
+2(5), 3556-3560
+22 International Journal
+1 Bit Full Adder Cell for
+of Engineering ISSN: Google
+Reducing Low Leakage
+Research and 2278- Scholar International
+Current in Nano Meter
+Development, 2(4), 067X indexed
+Technology
+11-18
+23 International Journal
+A new method for optic disc of Applied Science, Google
+detection in fluorescein Technology and - Scholar International
+angiography images Engineering Research, indexed
+1(2), 56-61
+24 International Journal
+A New Method for Speed
+of Applied Science, Google
+Improvement of Hopfield
+Technology and - Scholar International
+Neural Network Using Field
+Engineering Research, indexed
+Programmable Gate Arrays
+1(1), 38-47
+25 Digital VLSI Hopfield neural
+network implementation on Journal of
+ISSN: Google
+field programmable gate Engineering and
+2006- Scholar International
+arrays (FPGA) for solving Technology Research,
+9790 indexed
+constraint satisfaction 4(1), 11-21
+problems
+5.8. Papers presented at National / International Conference:
+Names of the National/
+S.
+Title of the Paper Conference/ International Period
+No
+Seminars
+Apnea Event Detection Using Machine 3rd International International 2021
+Learning Technique for the Clinical Conference on
+1 Diagnosis of Sleep Apnea Syndrome Signal
+Processing and
+Communication
+(ICSPC)
+A Smart Textile Electrode Belt for ECG 2nd International 2019
+Recordings - A Pilot Study with Indian International
+Population Conference on
+2
+Signal
+Processing and
+Communication
+(ICSPC)
+3 Ventricular Ectopic Beat Classification International International 2018
+Using KNN Multi-Feature Classifier Conference on
+Communication,
+Computing and
+Internet of
+Things (IC3IoT)
+4 Study and investigation of continuous International International 2016
+cardiac monitoring using vernier EKG Conference on
+with myRIO processor Circuits,
+Controls,
+Communication
+s and
+Computing
+(I4C)
+5.9. Sponsored research Projects: Nil
+5.10: Consultancy Projects: Nil
+6. Awards / Honors received:-
+7. Motto: “DO ENGINEERING”

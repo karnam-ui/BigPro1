@@ -1,0 +1,3154 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/Circulars/OE-IV-PE-V-VI-A-19-2024-2025.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+
+VNRVJIET B.TECH. A19 ACADEMIC REGULATION :: OPEN ELECTIVE COURSES
+:: PLEASE READ THE INSTRUCTIONS CAREFULLY ::
+1. All the students of B.Tech. programmes under A19 academic regulation are
+informed that there are a total of four Open-Elective (OE) courses to be studied by
+them one each in V, VI, VII and VIII semester.
+2. A student needs to select and pursue one open-elective course of his/her choice
+in each semester.
+3. These courses are designed and grouped as specialized tracks based on
+emerging technologies called as “Mezzanine Technologies”.
+4. There are a total of 12 OE tracks based on Mezzanine Technologies in the
+curriculum i.e.,
+i) Smart Cities
+ii) Waste Management
+iii) Green Energy
+iv) 3D Printing & Design
+v) Internet of Things
+vi) Augmented Reality (AR) / Virtual Reality (VR)
+vii) Artificial Intelligence
+viii) Blockchain Technologies
+ix) Robotics
+x) Cyber Security
+xi) Data Sciences / Big Data & Analytics
+xii) Autonomous Vehicles
+5. Each OE track based on a Mezzanine Technology shall have four courses, one
+placed in each semester i.e., one each in V, VI, VII and VIII semester respectively
+as shown below.
+V semester VI semester VII semester VIII semester
+Name of the
+Level 1 Course Level 2 Course Level 3 Course Level 4 Course
+OE Track
+In order to pursue a level 2 course, student is expected to complete level 1 course
+as the pre-requisite.
+6. Apart from the above mentioned 12 OE tracks based on Mezzanine Technologies
+and the courses in it, there is a ‘General Pool’ of open-elective courses consisting
+of mixed and independent courses without any pre-requisites.
+7. Courses to be offered from ‘General Pool’ in each semester shall be decided by
+the Institute well before the selection of elective courses by the students. Courses
+from the ‘General Pool’ may be offered multiple times depending upon the need.
+8. A student before joining V semester may opt to study EITHER open-elective course
+that is based on a Mezzanine Technology track OR an open-elective course from
+General pool.
+9. A student completing all the 4 open-elective courses (Level 1 to Level 4) from the
+chosen single Mezzanine Technology track successfully, as mentioned in the A19
+Academic Regulation, shall be awarded a separate PROFICIENCY CERTIFICATE IN
+THAT SPECIALIZED TECHNOLOGY from the Institute.
+Ex. B.Tech. (Mechanical Engineering) with Proficiency in “Internet of Things”
+10. By default, an open-elective course from a specialized OE track selected by the
+student in V semester shall be his / her preferred OE track for the remaining 3
+semesters. It shall be deemed that the student is willing to continue to study the
+remaining 3 OE courses (level 2, 3 & 4) from the same track in the subsequent
+semesters unless the student wishes to exit from the track and opt for another OE
+track or course from General pool. Those students who would like to go for change
+of OE track need to submit a request in writing to Dean, Academic through HoD.
+11. Students dropping out of the OE track may opt to choose and pursue a course
+either from the General pool OR from any other OE track subjected to the offering
+and availability of seats of that OE track/course in semester.
+a) In the event of student selecting a course from other OE track for studying in
+VI or VII semester, it shall be the responsibility of the student to fulfill the eligibility
+conditions (pre-requisite courses) to pursue that course.
+b) That is the student shall complete all the pre-requisite courses on his/her own
+through MOOC offered by SWAYAM-NPTEL (courses that are atleast 80% equivalent
+– as decided by the respective Chairman, BoS and Dean, Academic) prior to the
+start of semester in which the course is to be studied.
+c) Student shall produce a documentary evidence in support of this claim to the
+Dean, Academic to become eligible for taking the course. In case of the pre-
+requisite course not on offer in the MOOC platforms, the fulfillment of pre-requisite
+courses shall be decided through a Diagnostic test conducted by the parent
+department offering the course. A student completing the diagnostic test
+successfully shall be deemed to have met the pre-requisite courses criteria and
+shall be allowed to change the OE track depending upon offering and availability
+of seats in that track.
+12. Changing of an OE track by a student shall be allowed for pursuing OE courses of
+VI and VII semesters only i.e., a student shall be allowed to change the OE track
+only twice i.e., before the start of VI and VII semesters in the four semester span.
+However, this condition shall not be applicable to the students opting for pursuing
+courses from General pool.
+13. In the event of a STUDENT COMING OUT OF THE ALREADY CHOSEN OE track in any
+semester, due to any reason whatsoever, shall FORFEIT THE CLAIM ON THE
+PROFICIENCY CERTIFICATE.
+14. Open-elective courses offered in General pool may be appended with more
+number of courses as and when required at the discretion of the Institute and shall
+be informed well before the selection of electives by the students.
+15. It is informed that only a limited number of elective courses shall be offered for
+selection at the discretion of the offering department and Institute which shall be
+announced well before the start of the next semester.
+16. The list of OE courses under each of the specialized OE tracks is given in next
+section. For more details please refer to the Institute.
+❖ OE TRACKS BASED ON MEZZANINE TECHNOLOGIES:
+OE TRACKS
+(Parent V SEMESTER VI SEMESTER VII SEMESTER VIII SEMESTER
+Department)
+Smart Cities Intelligent
+Smart Cities Green Building Smart Materials
+Planning and Transportation
+(CE) Technology and Structures
+Development System
+Intelligent
+Hazardous Waste
+Waste Solid Waste
+Waste Waste to Energy Management
+Management Management
+Management and Recycling
+(CE)
+System
+Energy
+Renewable
+Green Energy Renewable Energy Storage Management
+Energy
+(EEE) Energy sources Technologies and
+Technologies
+Conservation
+3D Printing -
+3D Printing & Elements of Introduction to Machines, Reverse
+Design (ME) CAD 3D Printing Tooling & Engineering
+Systems
+Internet of Fundament
+Sensors Introduction to
+Things (ECE) als of Wireless Sensor
+Transducers Microcontrollers
+Internet of Networks
+and Actuators and Interfacing
+Things
+Augmented Fundamentals of
+Introduction to
+Reality (AR) / Introduction to Introduction to Augmented
+Image & Video
+Virtual Reality C Sharp Signal Processing Reality &
+Processing
+(VR) [ECE] Virtual Reality
+Mathematics Fundamentals of Machine
+Artificial
+for Artificial Artificial Learning Deep Learning
+Intelligence
+Intelligence Intelligence Techniques
+(CSE)
+Fundamentals
+Blockchain
+of Computer
+Technologies
+Networks / Cryptography
+(CSE) Distributed Blockchain
+Relational and Network
+Databases Technology
+Data Base Security
+Management
+Systems
+Robot
+Kinematics and Drives and Programming
+Robotics (EIE) Fundamentals
+Dynamics of Control System and Intelligent
+of Robotics
+Robots for Robotics Control
+Systems
+Fundamentals
+Cyber Security of Computer
+(IT) Networks /
+Cryptography & Essentials of Computer
+Relational
+Network Security Cyber Security Forensics
+Data Base
+Management
+Systems
+Data Sciences Statistical Computational Data Analysis
+Fundamentals
+/ Big Data & Methods for Thinking using and
+of Data Mining
+Analytics (IT) Data Science Python Visualization
+Connected
+Principles of Modern Electric, Hybrid
+Autonomous and
+Automobile Automotive and Fuel Cell
+Vehicles (AME) Autonomous
+Engineering Technologies Vehicles
+Vehicles
+❖ GENERAL POOL OF OE COURSES:
+• Programming through Java
+General- • Relational Data Base Management Systems
+Computing • Computational Thinking using Python
+(CSE / IT) • Introduction to Data Analytics
+• Fundamentals of Computer Algorithms
+• Professional Ethics & Human Values
+General • Entrepreneurship
+(H&S) • Personality Development & Public Speaking
+• Foreign Language (French / German / Spanish)
+• Smart Cities
+• Trends in Energy Sources for Sustainable Development
+• 3D Printing and Design
+• Embedded Systems for IoT
+• Artificial Intelligence - A Beginner's Guide
+• Blockchain Technology Essentials
+General • Fundamentals of Robotics and Drones
+• Fundamentals of Cyber Security
+• Fundamentals of Data Science
+• Introduction to Advanced Vehicle Technologies
+• Introduction to Application Development with C#
+• Introduction to Application Development with Java
+• Introduction to Application Development with Python
+NOTE:
+(i) Students belonging to Parent Department shall not be able to select the OE
+tracks/courses offered by the Parent Department
+(ii) Students are NOT ALLOWED TO REPEAT COURSES to be pursued through
+‘Open Elective’ and ‘Professional Elective’ tracks
+(iii) In case of a student selecting similar course in both open elective or
+professional elective track, selection of SUCH COURSE SHALL BE TREATED AS
+NULL SELECTION. Student shall then be allotted course based on the
+available courses. Similarity of the course shall be defined by the respective
+Chairman, Board of Studies.
+(iv) Courses that are offered under H&S department shall be available for
+selection to students of all the departments subjected to their offering by the
+H&S department
+DECISION OF THE INSTITUTE IN OFFERING THE OE COURSES SHALL BE FINAL AND
+ABIDING.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+ACADEMIC SECTION
+INSTRUCTIONS TO THE STUDENTS REGARDING SELECTION OF
+ELECTIVE COURSES IN EDUPRIME CAMS SOFTWARE
+NOTE:
+STUDENTS MUST PROTECT THEIR LOGIN ACCOUNTS BY
+CHANGING THE ACCOUNT PASSWORDS (UNIQUE) AND NOT
+TO DISCLOSE IT TO ANYONE.
+Students must note that the elective course selection is based on
+‘FIRST-COME FIRST- SERVE’ basis.
+1. Students are advised to go through the syllabus of the open
+elective and professional elective courses available in the
+Institute website before selecting the elective course.
+2. Students must login to their account by entering ‘Username’ and
+‘Password’ in Eduprime Software through the following link:
+https://automation.vnrvjiet.ac.in/EduPrime3
+3. Click on ‘Student’ in the left panel followed by ‘Student Elective’.
+Screen titled ‘Elective Course Management’ containing Elective
+course groups would appear. Click on the edit button on the left of
+elective course group name.
+4. Pop-up containing detailed instructions would appear. Read the
+instructions carefully and then click on ‘Proceed’.
+5. A screen containing the list of either open elective courses or
+professional elective courses depending upon the elective group selected
+will be displayed. This screen consist of 6 columns.
+Page 1 of 8
+• First column indicates the names of courses on offer.
+• Second column indicates the maximum number of seats in each
+course.
+• Third column indicates the number of seats already allotted to the
+students.
+• Fourth column indicates the number of seats now available.
+• Fifth column provides the option of selecting your preferred
+course. Students are advised that the elective course which they
+would like to study must be selected by selecting in this column.
+• Sixth and last column indicates the status of course selected.
+6. Status of course: There are 3 statuses for an elective course.
+i) Course not yet confirmed: It means the number of
+students selecting an elective course is less than 20
+hence the course will not be run during the semester.
+Such students will have to choose another elective course.
+ii) Course is confirmed: It means the number of students
+selecting an elective course is equal to or more than 20
+hence the course will be run during the semester.
+iii) Seats are not available: It means the maximum number
+of seats defined for an elective course are exhausted or
+over. Students will not be able to choose such courses and
+shall select another course of their choice.
+Page 2 of 8
+OPEN ELECTIVE COURSES
+OPEN ELECTIVE TRACK BASED CATEGORY:
+7. Students who want to pursue an OE Course based on Open
+Elective Track in V semester shall be able to see the following
+screen consisting of Level-1 course defined in V semester. After
+selection of the displayed open elective course, press Save.
+8. A message regarding confirmation of selection would appear on
+screen. Press OK.
+9. Click on Freeze button for course confirmation.
+10. A message regarding confirmation of selection would appear on
+screen, then press OK.
+Page 3 of 8
+11. Upon pressing ‘Close’ button displayed on the screen, student
+would be taken back to the first screen wherein against the open
+elective group name, title of the open elective course selected by the
+student would be shown along with the status of course.
+OPEN ELECTIVE GENERAL POOL BASED CATEGORY:
+12. Students who want to pursue an OE Course from General Pool
+in V semester shall be able to see the screen consisting of General
+Pool Courses offered in V semester as shown below. After selection
+of an open elective course of your choice, press Save.
+13. A message regarding confirmation of selection would appear on
+screen. If the student is satisfied with his / her choice, press OK,
+otherwise press Cancel and make selection of another open elective
+course.
+Page 4 of 8
+14. If the student is satisfied with the selected open elective course then
+click on Freeze button for course confirmation.
+15. A message regarding confirmation of selection would appear on
+screen. If the student is satisfied with his / her choice, press OK,
+otherwise press Cancel and make selection of another open elective
+course.
+16. Upon pressing ‘Close’ button displayed on the screen, student would
+be taken back to the first screen wherein against the open elective group
+name, title of the elective course selected by the student would be
+shown along with the status of course.
+Page 5 of 8
+PROFESSIONAL ELECTIVE COURSES
+PROFESSIONAL ELECTIVE GROUP:
+17. In the screen titled ‘Elective Course Management’ containing
+Open Elective and Professional Elective course group, Click on the
+edit button on the left of Professional Elective course group name.
+18. Pop-up containing detailed instructions would appear. Read the
+instructions carefully and then click on ‘Proceed’.
+1
+19. A screen containing the list of Professional Elective courses will be
+displayed.
+20. After selection of professional elective course of your choice, press
+Save.
+21. A message regarding confirmation of selection would appear on
+screen. If the student is satisfied with his / her choice, press OK,
+otherwise press Cancel and make selection of another professional
+elective course.
+Page 6 of 8
+22. If the student is satisfied with the selected professional elective
+course then click on Freeze button for course confirmation.
+23. A message regarding confirmation of selection would appear on
+screen. If the student is satisfied with his / her choice, press OK,
+otherwise press Cancel and make selection of another professional
+elective course.
+24. Upon pressing ‘Close’ button displayed on the screen, student would
+be taken back to the first screen wherein against the Professional
+Elective group name, title of the elective course selected by the student
+would be shown along with the status of course.
+Page 7 of 8
+NOTE:
+(i) FOR AN ELECTIVE COURSE TO BE ALLOTTED, IT IS
+COMPULSORY TO SAVE THE SELECTED COURSE BY
+PRESSING ‘SAVE’ AND FOLLOWED BY FREEZING THE
+CHOICE BY PRESSING ‘FREEZE’.
+(ii) STUDENT WILL NOT BE ABLE TO CHANGE HIS / HER
+SELECTION OF COURSE(S) UPON PRESSING ‘FREEZE’
+BUTTON.
+IF THE COURSE IS NOT FREEZED, THEN THAT COURSE SHALL NOT
+BE ALLOTTED.
+25. A student can change his/her selection of Professional Elective
+course / Open Elective General Pool course any number of times
+during the time the elective selection window is open, provided the
+student has not freezed his course. Note that if the preferred
+elective course is already FREEZED through ‘FREEZE’ button,
+then student will not be able to change his/her selection of
+course.
+26. As the elective course selection is dynamic in nature, status of
+course may change at any point of time depending upon selection
+of elective courses by the students. Hence, STUDENTS ARE
+ADVISED TO CHECK THE STATUS OF THE ELECTIVE COURSE
+SELECTED BY THEM ON THE CLOSING DATE OF ELECTIVE
+SELECTION WINDOW.
+27. If the status changes from ‘confirmed’ to ‘not confirmed’,
+student may opt for another elective course of his/her choice
+on the last date.
+28. If a student does not perform this activity during the
+elective selection window, then the student shall be allotted
+an elective course by the concerned HoD. For such students, a
+message regarding non-selection of elective course shall be displayed
+in the student login dashboard.
+29. A student may select / change his / her Professional Elective
+course / Open Elective General Pool course (only if not freezed)
+upto the closing date of the window.
+30. ONLINE SELECTION OF PROFESSIONAL ELECTIVE COURSE
+IN EDUPRIME SOFTWARE BY A STUDENT WHO HAS OPTED
+FOR PURSUING PROFESSIONAL ELECTIVE COURSE THROUGH
+NPTEL-SWAYAM PLATFORM SHALL NOT BE CONSIDERED.
+DO NOT FORGET TO PRESS ‘FREEZE’ UPON SELECTION OF ELECTIVE COURSES
+DO NOT FORGET TO PRESS ‘SAVE’ &‘FREEZE’
+BUTTONS UPON FINALIZED SELECTION OF ELECTIVE
+COURSES
+Page 8 of 8
+OPEN ELECTIVE – IV COURSES AVAILABLE FOR SELECTION (A.Y. 2024 – 2025)
+Number of Maximum
+Name of the Open Elective – IV Course Sections to be Seats Courses available to
+OE Track
+Course & Offering Department code offered in available for B.Tech.
+2024-2025 selection
+EEE, ME, ECE, CSE, EIE, IT, AE,
+Smart Cities INTELLIGENT TRANSPORTATION SYSTEM (CE) A19OE1CE04 1 80 CSE(AIML), CSE(CYS), CSE(DS),
+CSE(IOT), AI&DS
+EEE, ME, ECE, CSE, EIE, IT, AE,
+Waste INTELLIGENT WASTE MANAGEMENT AND
+A19OE1CE08 1 160 CSE(AIML), CSE(CYS), CSE(DS),
+Management RECYCLING SYSTEM (CE)
+CSE(IOT), AI&DS
+CE, ME, ECE, CSE, EIE, IT, AE,
+Green ENERGY MANAGEMENT AND
+A19OE1EE04 2 160 CSE(AIML), CSE(CYS), CSE(DS),
+Energy CONSERVATION (EEE)
+CSE(IOT), AI&DS
+CE, EEE, ECE, CSE, EIE, IT, AE,
+3D Printing &
+REVERSE ENGINEERING (ME) A19OE1ME04 2 156 CSE(AIML), CSE(CYS), CSE(DS),
+Design
+CSE(IOT), AI&DS
+CE, EEE, ME, CSE, IT, AE,
+Internet of
+WIRELESS SENSOR NETWORKS (ECE) A19OE1EC08 1 59 CSE(AIML), CSE(CYS), CSE(DS),
+Things
+AI&DS
+Augmented
+CE, EEE, ME, CSE, IT, AE,
+Reality (AR) / FUNDAMENTALS OF AUGMENTED
+A19OE1EC07 1 63 CSE(AIML), CSE(CYS), CSE(DS),
+Virtual Reality REALITY & VIRTUAL REALITY (ECE)
+CSE(IOT), AI&DS
+(VR)
+Artificial
+DEEP LEARNING (CSE) A19OE1CS03 1 60 CE, EEE, ME, ECE, EIE, AE
+Intelligence
+CE, EEE, ME, ECE, CSE, IT, AE,
+ROBOT PROGRAMMING AND INTELLIGENT
+Robotics A19OE1EI04 1 73 CSE(AIML), CSE(CYS), CSE(DS),
+CONTROL SYSTEMS (EIE)
+CSE(IOT), AI&DS
+Cyber
+COMPUTER FORENSICS (IT) A19OE1IT02 1 24 CE, EEE, ME, ECE, EIE, AE
+Security
+Data
+Sciences/
+DATA ANALYSIS AND VISUALIZATION (IT) A19OE1IT05 1 79 CE, EEE, ME, ECE, EIE, AE
+Big Data
+Analytics
+CE, EEE, ME, ECE, CSE, EIE, IT,
+Autonomous CONNECTED AND AUTONOMOUS VEHICLES
+A19OE1AE04 1 65 CSE(AIML), CSE(CYS), CSE(DS),
+Vehicles (AE)
+CSE(IOT), AI&DS
+Number of Maximum
+Name of the Open Elective – IV Course Sections to be Seats Courses available to
+OE Track
+Course & Offering Department code offered in available for B.Tech.
+2024-2025 selection
+General-
+COMPUTATIONAL THINKING USING PYTHON
+Computing A19OE1IT03 1 18 CE, EEE, ME, ECE, EIE, AE
+(CSE/IT)
+CE, EEE, ME, ECE, CSE, IT, EIE, AE,
+FOREIGN LANGUAGE-FRENCH (H&S) A19OE1HS04 1 80 CSE(AIML), CSE(CYS), CSE(DS),
+CSE(IOT), AI&DS
+EEE, ME, ECE, CSE, IT, EIE, AE,
+SMART CITIES (CE) A19OE1CE09 1 80 CSE(AIML), CSE(CYS), CSE(DS),
+AI&DS
+CE, ME, ECE, CSE, EIE, IT, AE,
+TRENDS IN ENERGY SOURCES FOR
+A19OE1EE05 1 80 CSE(AIML), CSE(CYS), CSE(DS),
+SUSTAINABLE DEVELOPMENT (EEE)
+CSE(IOT), AI&DS
+CE, EEE, ECE, CSE, EIE, IT, AE,
+3D PRINTING AND DESIGN (ME) A19OE1ME05 2 160 CSE(AIML), CSE(CYS), CSE(DS),
+CSE(IOT), AI&DS
+CE, EEE, ME, CSE, IT, AE,
+General-
+EMBEDDED SYSTEMS FOR IOT (ECE) A19OE1EC09 1 80 CSE(AIML), CSE(CYS), CSE(DS),
+AI&DS
+ARTIFICIAL INTELLIGENCE - A BEGINNER'S CE, EEE, ME, ECE, EIE, AE
+A19OE1CS09 1 80
+GUIDE (CSE)
+CE, EEE, ME, ECE, EIE, AE
+BLOCKCHAIN ESSENTIALS (CSE) A19OE1CS10 1 80
+CE, EEE, ME, ECE, CSE, IT, AE,
+FUNDAMENTALS OF ROBOTICS AND DRONES
+A19OE1EI05 1 80 CSE(AIML), CSE(CYS), CSE(DS),
+(EIE)
+CSE(IOT), AI&DS
+FUNDAMENTALS OF CYBER SECURITY (IT) A19OE1IT08 1 80 CE, EEE, ME, ECE, EIE, AE
+FUNDAMENTALS OF DATA SCIENCE (IT) A19OE1IT09 1 80 CE, EEE, ME, ECE, EIE, AE
+CE, EEE, ME, ECE, CSE, EIE, IT,
+INTRODUCTION TO ADVANCED VEHICLE
+A19OE1AE05 2 160 CSE(AIML), CSE(CYS), CSE(DS),
+TECHNOLOGIES (AE)
+CSE(IOT), AI&DS
+Maximum strength of each section in an elective course shall be 80.
+Minimum strength required for running an elective course shall be 20.
+CIVIL ENGINEERING
+A19 - B.TECH. VIII SEM - PROFESSIONAL ELECTIVE – V & VI COURSES AVAILABLE FOR SELECTION (A.Y. 2024 – 2025)
+Number of
+Maximum Seats
+Elective Sections to be
+S. No. Name of the Professional Elective Course Code available for
+Group offered in
+selection
+2024-2025
+1 Pavement Analysis Design and Evaluation A19PE1CE21 2 160
+Elective – V
+2 Smart Transportation Systems A19PE1CE23 1 80
+1 Earthquake Resistant Design of Buildings A19PE1CE26 1 80
+Elective – VI
+2 Pre-Engineered Buildings A19PE1CE29 2 160
+Maximum strength of each section in an elective course shall be 80.
+Minimum strength required for running an elective course shall be 20.
+ELECTRICAL & ELECTRONICS ENGINEERING
+A19 - B.TECH. VIII SEM - PROFESSIONAL ELECTIVE – V & VI COURSES AVAILABLE FOR SELECTION (A.Y. 2024 – 2025)
+Number of
+Maximum Seats
+Elective Sections to be
+S. No. Name of the Professional Elective Course Code available for
+Group offered in
+selection
+2024-2025
+1 Elective – V HVDC Transmission A19PE1EE13 2 160
+1 Elective – VI Energy Auditing and Conservation A19PE1EE18 2 160
+Maximum strength of each section in an elective course shall be 80.
+Minimum strength required for running an elective course shall be 20.
+MECHANICAL ENGINEERING
+A19 - B.TECH. VIII SEM - PROFESSIONAL ELECTIVE – V & VI COURSES AVAILABLE FOR SELECTION (A.Y. 2024 – 2025)
+Number of Sections Maximum Seats
+Elective
+S. No. Name of the Professional Elective Course Code to be offered in available for
+Group
+2024-2025 selection
+1 Elective – V Metal Casting Technology A19PE1ME23 2 160
+1 Elective – VI Power Plant Engineering A19PE1ME24 2 160
+Maximum strength of each section in an elective course shall be 80.
+Minimum strength required for running an elective course shall be 20.
+ELECTRONICS AND COMMUNICATION ENGINEERING
+A19 - B.TECH. VIII SEM - PROFESSIONAL ELECTIVE – V & VI COURSES AVAILABLE FOR SELECTION (A.Y. 2024 – 2025)
+Number of Sections to Maximum Seats
+Elective
+S. No. Name of the Professional Elective Course Code be offered in available for
+Group
+2024-2025 selection
+80
+1 Advanced Communications A19PE1EC14 1
+80
+2 Biomedical Signal Processing A19PE1EI08 1
+80
+3 Elective – V Mobile Computing A19PE1CS01 1
+80
+4 Cloud Computing A19PE1IT05 1
+80
+5 RF IC Design A19PE1EC15 1
+80
+1 Radar Systems A19PE1EC16 1
+80
+2 Adaptive Signal Processing A19PE1EC17 1
+80
+3 Elective – VI Wireless Sensor Networks and Protocols A19PE1EC18 1
+80
+4 Distributed Trust and Blockchain Technologies A19PE1CS17 1
+80
+5 DSP Processors and Architectures A19PE1EC19 1
+Maximum strength of each section in an elective course shall be 80.
+Minimum strength required for running an elective course shall be 20.
+COMPUTER SCIENCE AND ENGINEERING
+A19 - B.TECH. VIII SEM - PROFESSIONAL ELECTIVE – V & VI COURSES AVAILABLE FOR SELECTION (A.Y. 2024 – 2025)
+Number of
+Maximum Seats
+Elective Sections to be
+S. No. Name of the Professional Elective Course Code available for
+Group offered in
+selection
+2024-2025
+1 Information Retrieval Systems A19PE1CS14 1 80
+2 Elective – V Cloud Technologies A19PE1CS20 2 160
+3 Information Security Assessments and Audits A19PE1CS15 1 80
+1 Distributed Trust and Blockchain Technologies A19PE1CS17 1 80
+2 Elective – VI Data Visualization A19PE1IT15 2 160
+3 Cognitive Engineering A19PE1CS19 1 80
+Maximum strength of each section in an elective course shall be 80.
+Minimum strength required for running an elective course shall be 20.
+ELECTRONICS & INSTRUMENTATION ENGINEERING
+A19 - B.TECH. VIII SEM - PROFESSIONAL ELECTIVE – V & VI COURSES AVAILABLE FOR SELECTION (A.Y. 2024 – 2025)
+Number of
+Maximum Seats
+Sections to be
+S. No. Elective Group Name of the Professional Elective Course Code available for
+offered in
+selection
+2024-2025
+1 Digital Control Systems A19PE1EI11 1 80
+2 Instrumentation and Control for Petrochemical Industries A19PE1EI12 2 160
+3 Elective – V Principles and Applications of Nano Technology A19PE1EI22 2 160
+4 CPLD and FPGA Architecture A19PE1EC06 1 80
+5 Biomedical Nano Technology A19PE1EI13 1 80
+1 Automotive Instrumentation A19PE1EI14 1 80
+2 Industrial Electronics A19PE1EI15 1 80
+3 Elective – VI Wireless Sensor Networks and Protocols A19PE1EC18 2 160
+4 Digital Image Processing A19PE1EC04 1 80
+5 Medical Imaging and Processing A19PE1EI16 1 80
+Maximum strength of each section in an elective course shall be 80.
+Minimum strength required for running an elective course shall be 20.
+INFORMATION TECHNOLOGY
+A19 - B.TECH. VIII SEM - PROFESSIONAL ELECTIVE – V & VI COURSES AVAILABLE FOR SELECTION (A.Y. 2024 – 2025)
+Number of
+Maximum Seats
+Elective Sections to be
+S. No. Name of the Professional Elective Course Code available for
+Group offered in
+selection
+2024-2025
+1 Distributed Systems A19PE1IT12 1 80
+2 Elective – V Network Security A19PE1IT13 1 80
+3 Advanced Databases A19PE1IT14 1 80
+1 Information Retrieval Systems A19PE1CS14 1 80
+2 Elective – VI Software Defined Networks A19PE1IT16 1 80
+3 Distributed Trust and Blockchain Technologies A19PE1CS17 1 80
+Maximum strength of each section in an elective course shall be 80.
+Minimum strength required for running an elective course shall be 20.
+AUTOMOBILE ENGINEERING
+A19 - B.TECH. VIII SEM - PROFESSIONAL ELECTIVE – V & VI COURSES AVAILABLE FOR SELECTION (A.Y. 2024 – 2025)
+Number of
+Maximum
+Elective Sections to be
+S. No. Name of the Professional Elective Course Code Seats available
+Group offered in
+for selection
+2024-2025
+1 Fuel Cell Technology A19PE1AE17 1 80
+2 Computational Fluid Dynamics A19PE1ME14 1 80
+3 Elective – V Automotive Testing A19PE1AE18 1 80
+4 Automotive Product Development Strategies A19PE1AE19 1 80
+5 Flexible Manufacturing Systems A19PE1ME27 1 80
+1 Two and Three Wheeler Technology A19PE1AE20 1 80
+2 Auto Air-conditioning A19PE1AE21 1 80
+3 Elective – VI Automotive Instrumentation A19PE1AE22 1 80
+4 Special Purpose Vehicles A19PE1AE23 1 80
+5 Product Lifecycle Management A19PE1AE24 1 80
+Maximum strength of each section in an elective course shall be 80.
+Minimum strength required for running an elective course shall be 20.
+CSE (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)
+A19 - IV B.TECH. II SEM - PROFESSIONAL ELECTIVE-V & VI COURSES AVAILABLE FOR SELECTION (A.Y. 2024 – 2025)
+Number of
+Maximum Seats
+Elective Sections to be
+S. No. Name of the Professional Elective Course Code available for
+Group offered in
+selection
+2024 - 2025
+1 Elective-V Cloud Technologies A19PE1CS20 3 240
+1 Elective-VI Social Network Analysis A19PE1CS44 3 240
+Maximum strength of each section in an elective course shall be 80.
+Minimum strength required for running an elective course shall be 20.
+CSE (CYBER SECURITY)
+A19 - IV B.TECH. II SEM - PROFESSIONAL ELECTIVE-V & VI COURSES AVAILABLE FOR SELECTION (A.Y. 2024 – 2025)
+Number of
+Maximum Seats
+Elective Sections to be
+S. No. Name of the Professional Elective Course Code available for
+Group offered in
+selection
+2024 - 2025
+1 Elective-V Incident Response Management A19PE1CS66 1 80
+1 Elective-VI Malware Analysis A19PE1CS69 1 80
+Maximum strength of each section in an elective course shall be 80.
+Minimum strength required for running an elective course shall be 20.
+CSE (DATA SCIENCE)
+A19 - IV B.TECH. II SEM - PROFESSIONAL ELECTIVE-V & VI COURSES AVAILABLE FOR SELECTION (A.Y. 2024 – 2025)
+Number of
+Maximum Seats
+Elective Sections to be
+S. No. Name of the Professional Elective Course Code available for
+Group offered in
+selection
+2024 - 2025
+1 Elective-V Advanced Data Science A19PE1CS53 2 160
+1 Elective-VI Deep Learning Applications A19PE1CS54 2 160
+Maximum strength of each section in an elective course shall be 80.
+Minimum strength required for running an elective course shall be 20.
+CSE (IOT)
+A19 - IV B.TECH. II SEM - PROFESSIONAL ELECTIVE-V & VI COURSES AVAILABLE FOR SELECTION (A.Y. 2024 – 2025)
+Number of
+Maximum Seats
+Elective Sections to be
+S. No. Name of the Professional Elective Course Code available for
+Group offered in
+selection
+2024 - 2025
+1 Elective-V Software Project Management A19PE1CS04 1 80
+1 Elective-VI Industrial IoT 4.0 A19PE1CS87 1 80
+Maximum strength of each section in an elective course shall be 80.
+Minimum strength required for running an elective course shall be 20.
+ARTIFICIAL INTELLIGENCE & DATA SCIENCE
+A19 - IV B.TECH. II SEM - PROFESSIONAL ELECTIVE-V & VI COURSES AVAILABLE FOR SELECTION (A.Y. 2024 – 2025)
+Number of
+Maximum Seats
+Elective Sections to be
+S. No. Name of the Professional Elective Course Code available for
+Group offered in
+selection
+2024 - 2025
+1 Elective-V Advanced Data Science A19PE1CS53 1 80
+1 Elective-VI Deep Learning Applications A19PE1CS54 1 80
+Maximum strength of each section in an elective course shall be 80.
+Minimum strength required for running an elective course shall be 20.
+SMART CITIES
+CIVIL ENGINEERING
+Offered by:
+Courses in the OE Track:
+V Sem VI Sem VII Sem VIII Sem
+OE Tracks
+(OE-I) (OE-II) (OE-III) (OE-IV)
+Smart
+Smart Cities Green Intelligent
+Materials
+Smart Cities Planning and Building Transportation
+and
+Development Technology System
+Structures
+OE TRACK :: SMART CITIES
+In the twenty-first century, engineers are being tasked with solving ever more complex
+and subtle societal challenges – from climate change to unprecedented urbanisation
+that is materially affecting the lives of many urban populations. As engineers become
+ever more interdisciplinary and the boundaries of disciplines soften, they need to
+reflect as a community as to the appropriateness of the engineering paradigm to
+address these needs. Currently the engineering community is pointing to the digital
+technologies and the ‘smart city’ as a deliverer of efficiency and resilience without
+fully acknowledging the intricate socio-political context in which it is situated.
+The domain of EIE was developed to modernise and automate these operations using
+the technological advancements in the realm of electronics. Even outside the
+industry, common household appliances — such as washing machine, air-conditioner,
+geyser, and microwave oven — cannot attract customers without features such as
+auto cut-off after certain time or temperature, which is again an example of
+instrumentation. The field of Instrumentation Engineering is also core to the recent
+advances such as smart home appliances, smart cities and automobiles. It is thus not
+far from the truth to claim that the fourth industrial revolution.
+The world population is continuously growing and reached a significant evolution of
+the society, where the number of people living in cities surpassed the number of
+people in rural areas. This puts national and local governments under pressure
+because the limited resources, such as water, electricity, and transports, must thus be
+optimized to cover the needs of the citizens. Therefore, different tools, from sensors to
+processes, service, and artificial intelligence, are used to coordinate the usage of
+infrastructures and assets of the cities to build the so-called smart cities.
+Different definitions and theoretical models of smart cities are given in literature.
+However, smart city can usually be modelled by a layered architecture, where
+communication and networking layer plays a central role. In fact, smart city
+applications lay on collecting field data from different infrastructures and assets,
+processing these data, taking some intelligent control actions, and sharing
+information in a secure way. Thus, a two-way reliable communications layer is the
+basis of smart cities. This chapter introduces the basic concepts of this field and
+focuses on the role of communication technologies in smart cities. Potential
+technologies for smart cities are discussed, especially the recent wireless technologies
+adapted to smart city requirements.
+What is the concept of a smart city?
+There is no universally accepted definition for a smart city because people can
+interpret different meanings for it. Hence, it means different things to different people.
+Here, you will get a basic definition that captures the essence of what a smart city is
+and what it does. While the concept varies from area to area depending on the
+resources, the basic idea behind it remains the same. A smart city aims to bring various
+components together to live harmoniously and attempts to do with the least
+environmental damage or impact. In other words, a smart city is a place with high
+standards of living, which survives and thrives on eco-friendly means. The size and
+amenities within a smart city vary according to geography, resources available,
+geopolitical scenario and investment received.
+Growth in Global population continues to drive citizens from rural areas to cities. With
+rapid expansion of urban areas, cities need to become intelligent to handle this large
+scale urbanization. This is driving city operators to look at smarter ways to manage
+complexities, increase efficiencies and improve quality of life. Today we need cities
+that monitor& integrate infrastructure to better optimize resources while maximizing
+service to its citizens. So to meet all the needs we need our cities to be smarter which
+brings a concept “Smart cities” Smart cities optimize the use of technology in the
+design & operation of infrastructure and buildings in such a way which meets the
+current and future needs of their citizens. To be truly smart they also require
+consideration of governance &growth, urban development and infrastructure, the
+environment & natural resources, society and community.
+Smart city programs provide a range of technologies that can be applied to solve
+infrastructure problems associated with ageing infrastructure and increasing
+demands. The potential for infrastructure and urban improvement remains unrealized,
+however, due to technical, financial, and social constraints and criticisms that limit the
+implementation of smart cities concepts for infrastructure management. The
+discussion presented here provides a review of smart technologies including sensors,
+crowdsourcing and citizen science, actuators, data transmission, Internet of Things,
+big data analytics, data visualization, and blockchain, which can be used for
+infrastructure management. Smart infrastructure programs are reviewed to explore
+how enabling technologies have been applied across civil engineering domains,
+including transportation systems, water systems, air quality, energy infrastructure, solid
+waste management, construction engineering and management, structures, and
+geotechnical systems.
+Making cities “smarter” by efficient management of resources and infrastructure,
+greener environment, and smart governance resulting in a better quality of living of
+its citizens. This can be enabled by the effective use of information and
+communication technologies (ICTs) tools, which have the ability to provide eco‐
+friendly and economically viable solutions for cities.
+Setting up a smart city is more than improving the old system with technology by
+simply adding sensors, remote supervision, and control to essential city services. It
+should be a complete shift of a paradigm in daily life when using new technologies,
+especially new ICT leading to smart outcomes.
+Smart solutions
+Another important feature of smart cities is that they will provide smart solutions to
+modern problems. These include:
+• Public information systems
+• Redressal of grievances
+• Electronic service delivery
+• Maximum engagement of citizens
+• Reduced energy and fuel usage
+• Reduces the development of wastes
+• Smart water monitoring
+• Treatment of wastewater
+• Sustainable monitoring water quality
+• Maximum utilization of renewable energy sources
+• Usage of green building techniques
+• Smart parking to reduce clutter
+• Intelligent traffic management system.
+Advantages of a smart cities:
+1. Promotion of mixed land usage resulting in higher efficiency and reduced wastage
+of land.
+2. Expanded housing opportunities.
+3. Reduced congestion, air pollution and resource depletion.
+4. Helps to boost local economies by promoting localized trade and interactions.
+5. Efficient use of public transport to reduce fuel wastage.
+6. Safe and secure localities.
+7. Preservation of open spaces.
+8. Reduction in urban heating.
+9. Promotion of transit-oriented development.
+10. Making governance more people-friendly and cost-effective.
+Here’s a look at some projects that have taken inspiration from the concepts used for
+the design of smart cities. These projects will help you build energy-efficient systems
+that will help heal the world.
+1. Home Automation using IoT
+2. Smart Irrigation System
+3. Smart Building using IoT
+4. Smart Energy Meter using GSM
+5. Solar and Smart Energy Systems
+6. Smart Water Monitoring
+7. Automated Street Lighting
+8. Automated Railway Crossing
+9. Intelligent Transportation Systems
+10. Smart Sewage Maintenance Systems.
+To develop new smart cities and to transform
+our cities into smart cities the engineers in
+particular are stepping up as leaders.
+Civil & Environmental Engineers are working to harness the potential of latest
+technologies and data for our urban infrastructure, which is among the most complex
+system in the world. They provide sustainable, resilient and advanced means of
+transportation system, green building, better water management system and better
+waste management system. This not only develop physical infrastructure but also
+develop institutional & social infrastructure that enable our societies to function.
+Modelling these systems of systems will require managing data at an unprecedented
+scale.
+To support them Computer and Electronics & Communication Engineers help in
+creating future cities that are digital, build and operate cities ICT landscape across
+application and infrastructure like IOT (Internet of Things), e-payment, e-market, the
+latest communication devices etc which is leveraging next generation technologies.
+They create a platform for conveyance of different city services, leverage big data
+analytics to manage city performance and proactive crisis management.
+Electrical Engineers developing new renewable source of energy to meet ever
+increasing power demands. They also develop methods of effective power
+transmission with minimum losses which is more economical and safer. They also work
+on developing microchips to micro sensors which are helping in making our
+households, institution efficient and safer.
+Conclusion:
+By going through above article, it is clear that Dreaming of a smart city without active
+contribution of engineers is a myth. So, there will always be demand of Engineers and
+because of which even after crises in the placement scenario still the maximum
+science students choose Engineering as their first career choice in hope of a better
+future.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. VIII Semester L T/P/D C
+3 0 3
+(A19OE1CE04) INTELLIGENT TRANSPORTATION SYSTEM
+(Open Elective -IV)
+COURSE PRE-REQUISITES: Smart Cities Planning and Development, Green Building
+Technology, Smart Materials and Structures
+COURSE OBJECTIVES:
+• To understand ITS architecture and standards
+• To apply appropriate ITS technology depending upon site specific conditions
+• To design and implement ITS components
+• To understand concept and application of Automated Highway Systems
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Differentiate different ITS user Services
+CO-2: Apply ITS for road user safety
+CO-3: Interpret importance of AHS in ITS
+CO-4: Extend future research and special project
+UNIT – I:
+Introduction To ITS: System Architecture, Standards, Database – Tracking Database –
+Commercial Vehicle Operations – Intelligent Vehicle Initiative - Metropolitan ITS – Rural
+ITS – ITS for Rail network.
+UNIT – II:
+ITS Travel Management: Autonomous Route Guidance System – Infrastructure based
+systems – Telecommunications – Vehicle – Roadside communication – Vehicle
+Positioning System – Electronic Toll Collection – Electronic Car Parking
+UNIT – III:
+ITS Designs: Modeling and Simulation Techniques - Peer – to – Peer Program – ITS for
+Road Network – System Design – Mobile Navigation Assistant – Traffic Information
+Center – Public Safety Program.
+UNIT – IV:
+Introduction to Automated Highway Systems: Evolution of AHS and Current Vehicle
+Trends - Vehicles in Platoons – Aerodynamic Benefits - Integration of Automated
+Highway Systems – System Configurations - Step by Step to an Automated Highway
+System.
+UNIT – V:
+Evaluation and Assessment of AHS: Spacing and Capacity for Different AHS Concepts
+– Communication Technologies for AHS - The Effects of AHS on the Environment –
+Regional Mobility - Impact Assessment of Highway Automation.
+UNIT – VI:
+Implementation of ITS: ITS programs globally- overview of ITS in developed countries
+and developing countries – ITS at Toll Plazas – Parking lots – Highways.
+TEXT BOOKS:
+1. Intelligent Transport Systems Handbook 2000: Recommendations for World Road
+Association (PIARC), Kan Paul Chen, John Miles
+2. Intelligent Transport Systems – Cases and Policies, Roger R. Stough, Publisher:
+Edward Elgar, 2001
+3. Intermodal Freight Transport, David Lowe, Elsevier Butterworth-Heinemann
+Publishers, 2005
+REFERENCES:
+1. Positioning Systems in Intelligent Transportation Systems, Chris Drane and Chris
+Rizos, Artech House Publishers, London, 2000
+2. Perspectives on Intelligent Transport Systems, Joseph M. Sussman, Springer
+Publishers, 2000
+3. Intelligent Transport System, Intelligent Transportation Primer, Washington, US, 2001
+WASTE MANAGEMENT
+CIVIL ENGINEERING
+Offered by:
+Courses in the OE Track:
+V Sem VI Sem VII Sem VIII Sem
+OE Tracks
+(OE-I) (OE-II) (OE-III) (OE-IV)
+Intelligent
+Waste
+Hazardous
+Waste Solid Waste Waste to Management
+Waste
+Management Management Energy and
+Management
+Recycling
+System
+OE TRACK :: WASTE MANAGEMENT
+The courses such as solid waste management (SWM), hazardous waste
+management (HWM), waste to energy (WTE) and intelligent waste management and
+recycling system (IWM&RS) are the courses available in the waste management track
+stream which having a potential syllabus content to meet out the industrial and
+research needs. Solid waste management is an interesting track course which actual
+highlights the day-to-day problems where everybody is facing due to the improper
+management of industrial, domestic and household waste. Further, the enthusiastic
+aspects involved in the track courses such as: awareness on its impact over on
+environment, formal or scientific way of handling and management of waste and
+disposal scenarios.
+In hazardous waste management course, handling and management of
+nuclear waste at national and international level have been highlighted. Further, the
+content enlightens about the legal process of state, central and industrial responses
+toward any emergency situations arise by hazardous waste. Finally, it deals about
+natural resource damage assessment and restoration.
+Waste to energy is a pioneering course available in the track; it is one of the
+interesting and mindboggling course in the track which highlights the importance of
+converting the waste materials into wealth. It gives enough space to understand the
+basic process technologies in a theoretical and industrial way such as: thermal,
+chemical and biological conversion process. From the above, biological conversion
+process is in its embryonic state and having potential to expands its technological
+wings in the near future and having enormous scope of industrial applications where
+students can be benefited. Finally, conversion devices is an innovative module have
+been framed to explore the young minds in the line of designing and creating a
+demand based conversion device products which even lays an entrepreneurial
+pathway to them.
+First of its kind, even at both international and national level a dedicated and
+extensive course for intelligent waste management and recycling system have been
+framed with conventional and advanced modules. It is really an interesting course
+where a student can apply his/her innovative creations to solve the existing and
+futuristic problems in a smart way with the help of smart tools. Optimistic modules such
+as: life cycle assessment and carbon-footprint-based IWMS, principles of systems
+engineering and regulatory frameworks have been incorporated to meet out the
+international requirements.
+In the pathway of exploring the fundamentals and basic knowledges about
+the course, the six units of all the courses have been formulated keeping in the mind
+that the students can be able to competitive among the international community at
+the end of semester. In this context, comprehensive theoretical and industrial
+processes have been incorporated in each and every module of courses. Further, it is
+highly believed that the framed syllabus modules having 100% industrial applications
+which can make the students to feel motivated, satisfied and confidence to compete
+with the international community.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. VIII Semester L T/P/D C
+3 0 3
+(A19OE1CE08) INTELLIGENT WASTE MANAGEMENT SYSTEM AND RECYCLING SYSTEM
+(Open Elective -IV)
+COURSE PRE-REQUISITES: Solid Waste Management, Hazardous Waste Management,
+Waste to Energy
+COURSE OBJECTIVES:
+• Understand the concepts of Solid waste
+• Understand the principle and process of IWMS Tools
+• Understand the applications of IoT, ML, DL, BC and LCA & Carbon Foot Print (CFP)
+based SWM
+• Understand the principles of Process Systems Engineering (PSE) and various laws
+and regulation of SWM
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply the fundamental concepts of Solid waste
+CO-2: Apply the knowledge to resolve the practical problems with the help of IWMS
+Tools
+CO-3: Apply the knowledge of IoT, ML, DL, BC and LCA & CFP to resolve the practical
+problems in SWM
+CO-4: Impart the PSE knowledge and various laws and regulation to resolve the
+practical problems in SWM
+UNIT – I:
+Introduction to Solid Waste: Sources, Generation, Classification and Types of Solid
+Waste – Biomedical Waste – E-Waste – Construction and Demolition Waste – Plastic
+Waste – Batteries Waste – Hazardous Waste - Waste Management Through Waste
+Hierarchy: Reduce, Reuse, Recycle, Recover, and Disposal - Waste Operational Units:
+Equipment and Facilities: Collection and Transportation - Mechanical Treatment -
+Biological Treatment - Thermal Treatment – Disposal.
+UNIT – II:
+Introduction to IWMS Tools: Introduction – Need of the IWMS – functional elements of
+IWMS – Ultrasonic Sensor, Arduino Board, GSM Module, Bread Board, Power Supply
+(Battery) – Jump Wires - Navigation system – Cloud Services - Zero Waste Principle.
+UNIT – III:
+Applications in Intelligent Waste Management System: Introductory Applications of
+IoT, Machine Learning, Deep Learning and Block Chain Technology in Waste
+Characterization and Source Reduction, Storage, Collection and Transport of Wastes,
+Waste Processing Technologies and Waste Disposal.
+UNIT – IV:
+Life Cycle Assessment and Carbon-Footprint-Based IWMS: Phases of Life Cycle
+Assessment: Goal and Scope Definition - Life Cycle Inventory - Life Cycle Impact
+Assessment – Interpretation - LCA Waste Management Software - Umberto Software -
+SimaPro Software - LCA Assessment Methodology: Life Cycle Inventory Analysis - Life
+Cycle Impact Assessment – Interpretation - Sensitivity Analysis - Carbon-Footprint-
+Based SWM - The Global-Warming Potential Impact - GHG Accounting - GWP
+Assessment for Solid Waste Management.
+UNIT – V:
+Principles of Systems Engineering: Systems Engineering Principles and Tools for SWM -
+Planning Regional Material Recovery Facilities - Optimal Planning for Solid Waste
+Collection, Recycling, and Vehicle Routing - Multiattribute Decision Making with
+Sustainability Considerations - Decision Analysis for Optimal Balance between Solid
+Waste Incineration and Recycling Programs - Environmental Informatics for Integrated
+Solid Waste Management - Future Perspectives.
+UNIT – VI:
+Regulatory Frameworks: Salient features of Indian legislations on management and
+handling of municipal solid wastes, hazardous wastes, biomedical wastes, nuclear
+wastes - lead acid batteries, electronic wastes, plastics waste, bio-medical waste,
+construction and demolition waste and fly ash waste.
+TEXT BOOKS:
+1. Sustainable Solid Waste Management - A Systems Engineering Approach, Ni-Bin
+Chang and Ana Pires, IEEE & John Wiley & Sons, Inc., Hoboken, New Jersey, 2015
+2. Integrated Solid Waste Management, George Tchobanoglous, Hilary Theisen and
+Samuel A, Vigil, McGraw Hill International edition, New York, 1993
+REFERENCES:
+1. Manual on Municipal Solid Waste Management, CPHEEO, Central Public Health
+and Environmental Engineering Organization, Government of India, New Delhi,
+2014
+2. Smart Waste Management- Nutshell, Vishal Gupta, Amazon.com Services LLC,
+September 11, 2017
+3. Recyclable Household Waste Management System for Smart Home in IOT,
+Manpreet Kaur & Dr. Kamaljit Singh Saini, Independently Published, June 12, 2018
+4. GoI, Ministry of Environment and Forest and Climate Change, Various Recent Laws
+and Rules of Solid Waste Management
+GREEN ENERGY
+ELECTRICAL AND
+Offered by:
+ELECTRONICS ENGINEERING
+Courses in the OE Track:
+V Sem VI Sem VII Sem VIII Sem
+OE Tracks
+(OE-I) (OE-II) (OE-III) (OE-IV)
+Energy
+Renewable Renewable Energy
+Green Management
+Energy Energy Storage
+Energy and
+Sources Technologies Technologies
+Conservation
+OE TRACK :: GREEN ENERGY
+RENEWABLE ENERGY SOURCES:
+What we are studying?
+The climate landscape is changing rapidly, and new technologies and solutions keep
+arising to respond to global and local challenges.
+Renewable energy sources course makes you discover how Solar Thermal Energy
+conversion system works. It makes you understand how a Solar Photo voltaic
+generation system generates electricity. Scope of the course also includes wind
+energy generation. It also navigates you through Biomass and geo thermal energy
+generation systems.
+Job opportunities:
+When it comes to the hottest and most buzzing careers in the 21st century, the majority
+of people think of hardcore technical domains such as data science, machine
+learning & artificial intelligence. Few people might also come up with biotechnology
+(or biosciences). But, quite often people forget about one of the dark horses – the
+Renewable Energy sector. Even Bill Gates lobbied for the Energy sector as one of the
+top three career choices for making an impactful career.
+RENEWABLE ENERGY TECHNOLOGIES:
+Within crisis there are seeds of opportunity..! We are at the wedge of fossil fuel end.
+After few years you can witness fuel crisis all over the world, as an engineer one must
+aware of the solution. To design sustainable systems those last for decades, one must
+use renewable energy as main or auxiliary source of energy. The application may be
+electrical or mechanical or chemical, one must convert energy from renewable
+source into electricity for ease of use.
+Renewable Energy Technologies course will introduce you to Different types of Solar
+PV systems and their characteristics. Students will know the functionality of Power
+Converters such as Inverters etc., through block diagram approach. Fuel cell
+technology, which is one of the solutions for energy crisis will be discussed in detail.
+Course will conclude by discussing impact of PV panel production on environment
+and disposal of it.
+Job Opportunities:
+Green jobs in the renewable energy sector are expected to touch new figures with 6
+digit monthly income. Following link may describe the interesting interdisciplinary
+careers for budding engineers.
+ENERGY STORAGE TECHNOLOGIES
+Battery technology is an essential skill for every engineer in present scenario. Course
+on energy storage technologies will enable student to, Design storage system
+Residential loads integrated to Renewable and storage systems for Electric Vehicles.
+It will make student to understand various electrochemical storages such as Lead
+acid, Li Ion cell etc. and their characteristics. The course enables student to compare
+non electric, electric storage systems and analyze application of them to various
+domains.
+Job opportunities:
+Upon successful completion of course student will enhance the chances of getting
+into EV industry , which almost open fact. Job Profiles include
+i. Battery algorithms engineer
+ii. Battery management engineer
+iii. Battery modeling expert
+iv. Design engineer – EV
+ENERGY MANAGEMENT AND CONSERVATION
+Energy Management And Conservation course is mainly intended to monitor Energy
+consumption of industries and to manage energy systems. This course also deals with
+methods of improving efficiency of electric machinery and to design a good
+illumination system. It also teaches student calculate pay back periods for energy
+saving equipment.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. VIII Semester L T/P/D C
+3 0 3
+(A19OE1EE04) ENERGY MANAGEMENT AND CONSERVATION
+(Open Elective -IV)
+COURSE PRE-REQUISITES: Renewable Energy sources, Renewable Energy
+Technologies, Energy Storage Technologies
+COURSE OBJECTIVES:
+• To understand the necessity of conservation of Energy
+• To Know the methods of Energy management
+• To identity the factors to increase the efficiency of electrical equipment
+• To know the benefits of carrying out energy Audits
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: To conduct Energy Audit of industries
+CO-2: To manage energy Systems
+CO-3: To specify the methods of improving efficiency of electric motor
+CO-4: To improve power factor and to design a good illumination system
+CO-5: To calculate pay back periods for energy saving equipment
+UNIT – I:
+Basic Principles of Energy Audit: Energy audit- definitions, concept, types of audit,
+energy index, cost index, pie charts, Sankey diagrams, load profiles, Energy
+conservation schemes- Energy audit of industries- energy saving potential, energy
+audit of process industry, thermal power station, building energy audit
+UNIT – II:
+Energy Management: Principles of energy management, organizing energy
+management program, initiating, planning, controlling, promoting, monitoring,
+reporting- Energy manager, Qualities and functions, language, Questionnaire - check
+list for top management
+UNIT – III:
+Energy Efficient Motors: Energy efficient motors, factors affecting efficiency, loss
+distribution, constructional details, characteristics - variable speed, variable duty
+cycle systems, RMS hp- voltage variation-voltage unbalance- over motoring- motor
+energy audit
+UNIT – IV:
+Power Factor Improvement, Lighting and Energy Instruments: Power factor – methods
+of improvement, location of capacitors, p.f with non-linear loads, effect of harmonics
+on p.f., p.f motor controllers – simple problems
+UNIT – V:
+Lighting Energy Audit and Energy Instruments: Good lighting system design and
+practice, lighting control, lighting energy audit - Energy Instruments- watt meter, data
+loggers, thermocouples, pyrometers, flux meters, tongue testers, application of PLC’s
+UNIT – IV:
+Economic Aspects and Analysis: Economics Analysis-Depreciation Methods, time
+value of money, rate of return, present worth method, replacement analysis, life cycle
+costing analysis.
+UNIT – VI:
+Analysis of Energy Efficient Motor: Energy efficient motors- calculation of simple
+payback method, net present worth method- Power factor correction, lighting -
+Applications of life cycle costing analysis, return on investment.
+TEXT BOOKS:
+1. Energy Management, W. R. Murphy & G. Mckay, Butterworth-Heinemann
+Publications
+2. Energy Management, Paul o’ Callaghan, 1st Edition, McGraw Hill Book Company,
+1998
+REFERENCES:
+1. Energy Efficient Electric Motors, John C. Andreas, 2nd Edition, Marcel Dekker Inc.
+Ltd., 1995
+2. Energy Management Handbook, W. C. Turner, John Wiley and Sons
+3. Energy Management and Good Lighting Practice: Fuel Efficiency Booklet12-EEO
+3D PRINTING AND DESIGN
+MECHANICAL ENGINEERING
+Offered by:
+Courses in the OE Track:
+V Sem VI Sem VII Sem VIII Sem
+OE Tracks
+(OE-I) (OE-II) (OE-III) (OE-IV)
+3D Printing -
+3D Printing Elements of Introduction Machines, Reverse
+and Design CAD to 3D Printing Tooling & Engineering
+Systems
+OE TRACK :: 3D PRINTING AND DESIGN
+3D Printing is a process for making a physical object from a three-dimensional digital
+model by laying down many successive thin layers of a material. It brings a digital CAD
+model into its physical form by adding layer by layer of materials. Thus called ‘Additive
+Manufacturing’. It is the opposite of subtractive manufacturing i.e., removing material
+from an object using a mechanical machine. It enables to produce complex shapes
+using less material than traditional manufacturing methods. There are several different
+techniques to 3D print an object. It saves time through prototyping and is also
+responsible for manufacturing impossible shapes. Due to these, it has many
+applications in different fields like consumer products (eyewear, footwear, design,
+furniture, industrial products (manufacturing tools, prototypes, functional end-use
+parts, dental products, prosthetics, architectural scale models, reconstructing fossils,
+replicating ancient artefacts, reconstructing evidence in forensic pathology etc.
+3D printing has good prospects from career perspective. Various positions that could
+be available are CAD designers, engineers, techincal developers, software
+developers, electronics engineers, etc.
+This OE track consists of 04 courses and is designed with an objective to provide an
+overview of all the constituents of 3D Printing starting from elements of CAD that are
+needed to create CAD models, followed by basics of 3D Printing required for setting
+the parameters, then the machines and tools used in 3D Printing for thorough
+understanding of systems and processes and finally the reverse engineering of 3D
+printing models from actual objects.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. VIII Semester L T/P/D C
+3 0 3
+(A19OE1ME04) REVERSE ENGINEERING
+(Open Elective -IV)
+COURSE PRE-REQUISITES: Elements of CAD, Introduction to 3D Printing, 3D Printing
+Machines, Tooling & Systems
+COURSE OBJECTIVES:
+• To understand the Reverse Engineering (RE) methodology
+• To disassemble products and specify the interactions between its subsystems and
+their functionality
+• To understand Computer-Aided RE and Rapid Prototyping technology
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Basic understanding of engineering systems
+CO-2: Understanding the terminologies related to re-engineering, forward
+engineering, and reverse engineering
+CO-3: Understanding of reverse engineering methodologies
+CO-4: Understanding of reverse engineering of systems
+UNIT-I:
+Introduction to Reverse Engineering: Need, Definition, The Generic Process, History of
+Reverse Engineering, Scope and tasks of RE, Domain analysis, Overview of
+Applications
+UNIT-II:
+Methodologies and Techniques: Potential for Automation with 3-D Laser Scanners,
+Computer-aided (Forward) Engineering, Computer-aided Reverse Engineering,
+Computer Vision and Reverse Engineering
+UNIT-III:
+Data Acquisition Techniques : Contact Methods - Coordinate Measurement Machine
+and Robotic Arms; Noncontact Methods - Triangulation, and Structured Light,
+Destructive Method; Issues involved in data acquisition techniques
+UNIT-IV:
+Pre-processing Techniques: Need of pre-processing, Data formats, Import of point
+cloud data, Reduction and filtering of data
+Triangular Mesh Modeling: Need, Fltering of triangular mesh model and its definition,
+Topological characteristics, Euler formula for triangular mesh model, Various methods
+of construction of triangular mesh model.
+UNIT-V:
+Segmentation: Definition and need, Methods for segmentation - Edge based and
+face based.
+Integration Between Reverse Engineering and Additive manufacturing: Modeling
+Cloud Data, Integration of RE and AM for Layer-based Model Generation, Adaptive
+Slicing Approach for Cloud Data Modeling, Planar Polygon Curve Construction for a
+Layer, Determination of Adaptive Layer Thickness
+UNIT-VI:
+Applications: Automotive, Aerospace, Medical sectors
+Legal Aspects: Copyright Law, Reverse Engineering, Recent Case Law Barriers in
+adopting RE
+TEXT BOOKS:
+1. Reverse Engineering: An Industrial Perspective, V. Raja and K. Fernandes, Springer-
+Verlag
+2. Reverse Engineering, K. A. Ingle, McGraw-Hill
+3. Reverse Engineering, L. Wills and P. Newcomb, 1st Edition, Springer-Verlag
+REFERENCES
+1. Smart Product Engineering, Michael Abramovici, Rainer stark, Springer Berlin
+Heidelberg
+2. Product Design: Techniques in Reverse Engineering and New Product
+Development, K. Otto and K. Wood, Prentice Hall, 2001
+INTERNET OF THINGS
+ELECTRONICS AND
+Offered by:
+COMMUNICATION
+ENGINEERING
+Courses in the OE Track:
+V Sem VI Sem VII Sem VIII Sem
+OE Tracks
+(OE-I) (OE-II) (OE-III) (OE-IV)
+Sensors
+Introduction to IoT Protocols Wireless
+Internet of Transducers
+Microcontrollers and its Sensor
+Things and
+and Interfacing applications Networks
+Actuators
+OE TRACK :: INTERNET OF THINGS
+The IoT creates opportunities for more direct integration of the physical world into
+computer-based systems, resulting in efficiency improvements, economic benefits,
+and reduced human exertions. IoT is changing how we live, work, travel, and do
+business. It is even the basis of a new industrial transformation, known as Industry 4.0,
+and key in the digital transformation of organizations, cities, and society overall. The
+IoT track helps students to learn about how to
+• Learn different protocols and connectivity technologies used in IOT.
+• Expose the various sensors and transducers for measuring mechanical quantities.
+• Develop simple applications using 8051 microcontrollers.
+• Understand the key routing protocols for sensor networks and their design issues.
+Some of the more common career paths in the Internet of Things path are
+• IoT Developer. ...
+• IoT Architect…
+• IoT Embedded Systems Designer…
+• IoT Solutions Engineer…
+• Professional in Sensors and Actuators…
+• Embedded Programs Engineer…
+• Safety Engineer…
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. VIII Semester L T/P/D C
+3 0 3
+(A19OE1EC08) WIRELESS SENSOR NETWORKS
+(Open Elective -IV)
+COURSE PRE-REQUISITES: Sensors Transducers and Actuators, Introduction to
+Microcontrollers and Interfacing, IoT Protocols and its applications
+COURSE OBJECTIVES:
+• To expose basic concepts of wireless sensor network technology
+• To study medium access control protocols and various issues in a physical layer
+• To understand the key routing protocols for sensor networks and their design issues
+• To understand sensor management in networks and design requirements
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Appreciate various design issues of wireless sensor networks
+CO-2: Understand the hardware details of different types of sensors and select the
+application specific sensor
+CO-3: Understand radio standards and communication protocols to be used for
+wireless sensor networks
+UNIT – I:
+Introduction: Overview of sensor network architecture and its applications, sensor
+network comparison with Ad Hoc Networks, Sensor node architecture with hardware
+and software details.
+UNIT – II:
+Hardware: Examples like mica2, micaZ, telosB, cricket, Imote2, tmote, btnode, and
+Sun SPOT, Software (Operating Systems): TinyOS, MANTIS, Contiki, and RetOS.
+UNIT – III:
+Programming Tools: C, nesC. Performance comparison of wireless sensor networks
+simulation and experimental platforms like open source (ns-2) and commercial
+(QualNet, Opnet, NetSim)
+UNIT – IV:
+Overview of Sensor Network Protocols (Details of at least 2 important protocol per
+layer): Physical, MAC and routing/ Network layer protocols, node discovery protocols,
+multi- hop and cluster-based protocols, Fundamentals of 802.15.4, Bluetooth, BLE
+(Bluetooth low energy), UWB.
+UNIT – V:
+Data Dissemination and Processing: Differences compared with other database
+management systems, Query models, In-network data aggregation, data storage;
+query processing.
+UNIT – VI:
+Specialized Features: Energy preservation and efficiency; security challenges; Fault
+tolerance, Issues related to Localization, connectivity and topology, Sensor
+deployment mechanisms; coverage issues; sensor Web; sensor Grid, Open issues for
+future research, and Enabling technologies in wireless sensor network.
+TEXT BOOKS:
+1. Wireless Sensor Networks Technology, Protocols, and Applications, Kazem Sohraby,
+Daniel Minoli, Taieb Znati, John Wiley & Sons, 2007
+2. Protocols and Architectures for Wireless Sensor Networks, H. Karl and A. Willig, John
+Wiley & Sons, India, 2012
+3. Wireless Sensor Networks, C. S. Raghavendra, K. M. Sivalingam, and T. Znati, Editors,
+1st Indian Reprint, Springer Verlag, 2010
+REFERENCES:
+1. Wireless Sensor Networks: An Information Processing Approach, F. Zhao and L.
+Guibas, Morgan Kaufmann, 1st Indian Reprint, 2013
+2. Wireless Sensor Network and Applications, Yingshu Li, My T. Thai, Weili Wu, Springer
+Series on Signals and Communication Technology, 2008
+3. Principles of Mobile Communications, Gordon L. Stuber, 2nd Edition, Springer
+International, 2001
+AUGMENTED REALITY (AR)/VIRTUAL REALITY (VR)
+ELECTRONICS AND
+Offered by:
+COMMUNICATION
+ENGINEERING
+Courses in the OE Track:
+V Sem VI Sem VII Sem VIII Sem
+OE Tracks
+(OE-I) (OE-II) (OE-III) (OE-IV)
+Augmented Introduction
+Introduction
+Reality (AR)/ Introduction to Image & Applications
+to Signal
+Virtual to C Sharp Video of AR & VR
+Processing
+Reality (VR) Processing
+OE TRACK :: AUGMENTED REALITY (AR) / VIRTUAL REALITY (VR)
+Augmented reality (AR) and Virtual Reality (VR) bridge the digital and physical worlds.
+They allow you to take in information and content visually, in the same way you take
+in the world. AR dramatically expands the ways our devices can help with everyday
+activities like searching for information, shopping, and expressing yourself. VR lets you
+experience what it's like to go anywhere from the front row of a concert to distant
+planets in outer space.
+Job Roles in Augmented reality and virtual reality (AR & VR) Track
+• Design Architect. ...
+• Software Designer. ...
+• System Validation Engineers. ...
+• Software Developer. ...
+• 3D Artist…
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. VIII Semester L T/P/D C
+3 0 3
+(A19OE1EC07) APPLICATIONS OF AR AND VR
+(Open Elective -IV)
+COURSE PRE-REQUISITES: Introduction to C Sharp, Introduction to Signal Processing,
+Introduction to Image & Video Processing
+COURSE OBJECTIVES: Throughout the course, Students will be expected to develop AR
+VR applications by being able to do each of the following:
+• A review of current Virtual Reality (VR) and Augmented Reality (AR) technologies
+• The fundamentals of VR/AR modeling and programming
+• Provides a detailed analysis of engineering scientific and functional aspects of
+VR/AR
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Acquire knowledge in main applications VR / AR technologies
+CO-2: Analyze different tools for VR/AR applications
+CO-3: Developing VR/AR applications
+UNIT – I:
+Augmented Reality and Virtual Reality:
+Augmented Reality: Introduction to Augmented Reality (AR), Fundamentals,
+Chronicle order of AR, features
+Virtual Reality: Introduction to Virtual Reality (VR), Features of VR and Chronicle order
+of VR; Difference between AR and VR.
+UNIT – II:
+Types of Augmented Reality: Marker based AR, Marker less AR, Projection based AR,
+Super Imposition based AR, Applications of AR.
+UNIT – III:
+Types of Virtual Reality: Non- immersive simulation, Semi-immersive simulations, Fully
+immersive simulations; Applications VR.
+UNIT – IV:
+Making an AR App with Simple CUBE: Introduction to Unity, Installation steps,
+Fundamentals while implementing Project, importing a cube, Create an account in
+Vuforia, license manager, target manager, downloading database and uploading
+target database in unity.
+UNIT – V:
+AR App with Interaction: Introduction to C#, Scripting interactive objects,
+implementation C# Script using unity, uploading target object, deploying application
+into ANDROID Device.
+UNIT – VI:
+Creating an Virtual Reality: Creating an Virtual Reality Scene in unity, adding colliders,
+Settings of Unity to make the application compatible with Google cardboard.
+TEXT BOOKS:
+1. Virtual Reality & Augmented Reality in Industry, Ma, D., Gausemeier, J., Fan, X.,
+Grafe, M. (Eds.) Springer, 2011
+REFERENCES:
+1. http://www.realitytechnologies.com/augmented-reality/vitual-reality
+2. https://en.wikipedia.org/wiki/Augmented_reality/vitual-reality
+3. https://computer.howstuffworks.com/augmented-reality.html
+4. https://www.theguardian.com/technology/augmented-reality
+ADDITIONAL RESOURCES:
+1. https://jasoren.com/making-an-ar-app-with-vuforia-and-unity3d/
+2. http://www.psych.purdue.edu/~willia55/120/6.S-PMM.pdf
+ARTIFICIAL INTELLIGENCE
+COMPUTER SCIENCE AND
+Offered by:
+ENGINEERING
+Courses in the OE Track:
+V Sem VI Sem VII Sem VIII Sem
+OE Tracks
+(OE-I) (OE-II) (OE-III) (OE-IV)
+Mathematics Fundamentals Machine
+Artificial Deep
+for Artificial of Artificial Learning
+Intelligence Learning
+Intelligence Intelligence Techniques
+OE TRACK :: ARTIFICIAL INTELLIGENCE
+Artificial Intelligence (AI) is a cognitive science with highly research activities in
+the major areas like Machine Learning, Robotics, Natural Language Processing
+and image processing. This track will cover basic foundations of artificial
+intelligence it will make the students industry-ready for artificial intelligence and
+data science job roles. Artificial intelligence is used in wide range of industrial
+applications such as healthcare, transportation, entertainment, insurance,
+transport and logistics, and customer service. Future applications of AI would
+be utilized in automated transportation, cyborg technology, solving problems
+associated with climate change, deep-sea and space exploration.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. VIII Semester L T/P/D C
+3 0 3
+(A19OE1CS03) DEEP LEARNING
+(Open Elective -IV)
+COURSE PRE-REQUISITES: Mathematics for Artificial Intelligence, Fundamentals of
+Artificial Intelligence, Machine Learning Techniques
+COURSE OBJECTIVES:
+• To introduce the foundations of deep learning
+• To acquire the knowledge on Deep Learning Concepts
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Identify and select appropriate learning network models required for real
+world problems
+CO-2: Design an efficient model with various deep learning techniques
+CO-3: Implement deep learning algorithms and solve real-world problems
+CO-4: Apply optimization strategies necessary for problem solving required for large
+scale applications
+UNIT – I:
+Introduction to Deep Learning: History of Deep Learning, Deep Learning Success
+Stories, Biological Neuron, Idea of computational units, McCulloch Pitts Neuron,
+Thresholding Logic, Perceptrons, Perceptron Learning Algorithm and Convergence.
+UNIT – II:
+Feedforward Networks: Multilayer Perceptron, Gradient Descent, Back-propagation,
+Kohonen Self-Organizing Feature Maps, Learning Vector Quantization, Counter
+Propagation Networks, Adaptive Resonance Theory Networks.
+UNIT – III:
+Regularization for Deep Learning: Parameter norm Penalties, Norm Penalties as
+Constrained Optimization, Regularization and Under-Constrained Problems, Dataset
+Augmentation, Noise Robustness, Semi-Supervised learning, Multi-task learning, Early
+Stopping, Parameter Typing and Parameter Sharing, Sparse Representations, Bagging
+and other Ensemble Methods, Dropout, Adversarial Training, Tangent Distance,
+tangent Prop and Manifold, Tangent Classifier.
+UNIT – IV:
+Optimization for Training Deep Models: Challenges in Neural Network Optimization,
+Basic Algorithms, Parameter Initialization Strategies, Algorithms with Adaptive Learning
+Rates, Approximate Second-Order Methods, Optimization Strategies and Meta-
+Algorithm.
+UNIT – V:
+Convolutional Neural Networks: LeNet, AlexNet, ZF-Net, VGGNet, GoogLeNet, ResNet,
+Markov Networks, Object Detection, RCNN, Fast RCNN, Faster RCNN, YOLO
+UNIT – VI:
+Auto-Encoders: Regularization in auto-encoders, De-noising auto-encoders, Sparse
+auto-encoders, Contractive auto-encoders, Structured probabilistic models of deep
+learning.
+TEXT BOOKS:
+1. Deep Learning: An MIT Press Book, Ian Goodfellow and Yoshua Bengio and Aaron
+Courville
+2. Neural Networks and Learning Machines, Simon Haykin, 3rd Edition, Pearson
+Prentice Hall
+REFERENCES:
+1. Neural Networks: A Systematic Introduction, Raúl Rojas, 1996
+2. Pattern Recognition and Machine Learning, Christopher Bishop, 2007
+BLOCKCHAIN TECHNOLOGIES
+COMPUTER SCIENCE AND
+Offered by:
+ENGINEERING
+Courses in the OE Track:
+V Sem VI Sem VII Sem VIII Sem
+OE Tracks
+(OE-I) (OE-II) (OE-III) (OE-IV)
+Fundamentals
+of Computer
+Networks / Cryptography
+Blockchain Distributed Blockchain
+Relational and Network
+Technologies Data Bases Technology
+Database Security
+Management
+Systems
+OE TRACK :: BLOCKCHAIN TECHNOLOGIES
+The blockchain is one of the fastest growing skills in the IT sector today. This
+track will help the students to gain knowledge in blockchain technology, it has
+taken quite a turn in the industry given its popularity in providing safe and
+secured online transactions. Most individuals and organizations have started
+adopting blockchain because of the many benefits it offers to the industry
+today. It is used in many industry applications such as banking sector, voting,
+health care, real estate, the legal industry and government.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. VIII Semester L T/P/D C
+3 0 3
+(A19OE1CS07) BLOCKCHAIN TECHNOLOGY
+(Open Elective -IV)
+COURSE PRE-REQUISITES: Fundamentals of Computer Networks, Distributed Data
+Bases, Cryptography and Network Security
+COURSE OBJECTIVES:
+• Get the terminologies and overview of blockchain technologies
+• Study the concepts and foundation of blockchain technology
+• Understand security mechanism and consensus in blockchain
+• Design use cases and architecture blockchain technology
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Gain a clear understanding of the concepts that underlie digital distributed
+ledger
+CO-2: Understand key mechanisms like Decentralization, Transparency and trust,
+Immutability, High availability, Highly secure and different types of Blockchain
+CO-3: Apply the concept of Hash Function and Related Hash Algorithm
+CO-4: Design and implement applications using Blockchain Technology
+UNIT – I:
+Introduction to Blockchain Part I: Introduction to Centralized, Decentralized and
+Distributed system, History of Blockchain, Various technical definitions of Blockchain.
+Introduction to Blockchain Technology Part II: Generic elements of a blockchain:
+Block, Transaction, Peer-to-peer network, Node, Smart contract, Why It’s Called
+“Blockchain”, Characteristics of Blockchain Technology, Advantages of blockchain
+technology.
+UNIT – II:
+Concept of Blockchain Technology Part I: Cryptography, Hashing, Nonce, Distributed
+database, Consensus, Smart Contract, Component of block, Structure of Block chain,
+Technical Characteristics of the Blockchain.
+Concept of Blockchain Technology Part II: Applications of blockchain technology,
+Tiers of blockchain technology Bolckchain 0, Bolckchain 1, Blockchain 2, Blockchain
+3, Generation of Blockchain X.
+UNIT – III:
+Technical Foundations Part I: Cryptography, Confidentiality, Integrity, Authentication,
+Cryptographic primitives, Public and private keys, RSA, Discrete logarithm problem,
+Hash Function: Message Digest (MD), Secure Hash Algorithms (SHAs), Design of Secure
+Hash Algorithms (SHA), SHA-256, Design of SHA3, Elliptic Curve Digital signature
+algorithm.
+Technical Foundations Part II: Consensus algorithm: Proof of work (PoW), Proof-of-
+Stake (PoS), Byzantine Fault Tolerance (BFT)
+UNIT – IV:
+Types of Blockchain: Public blockchains, Private blockchains, Semi-private
+blockchains, Side chains, Permissioned ledger, Distributed ledger, Shared ledger, Fully
+private and proprietary blockchains, Tokenized blockchains, Tokenless blockchains,
+CAP theorem and blockchain
+UNIT – V:
+Financial markets and trading, Trading, Exchanges, Trade life cycle, Order
+anticipators, Market manipulation.
+Crypto Currency: Bitcoin, Bitcoin definition, Keys and addresses, Public keys in Bitcoin,
+Private keys in Bitcoin, Bitcoin currency units
+UNIT – VI:
+Implementation Platforms: Hyperledger as a protocol, Reference architecture,
+Hyperledger Fabric, Transaction Flow, Hyperledger Fabric Details, Fabric Membership,
+Fabric Membership
+TEXT BOOKS:
+1. Mastering Blockchain, Imaran Bashir, Second Edition, Packt
+2. Blockchain Basic, Daniel Drescher, A Press
+REFERENCES:
+1. Blockchain For Dummies®, IBM Limited Edition, John Wiley & Sons Inc.
+ROBOTICS
+ELECTRONICS AND
+Offered by:
+INSTRUMENTATION
+ENGINEERING
+Courses in the OE Track:
+V Sem VI Sem VII Sem VIII Sem
+OE Tracks
+(OE-I) (OE-II) (OE-III) (OE-IV)
+Robot
+Kinematics Drives and Programming
+Fundamentals and Control and
+Robotics
+of Robotics Dynamics of System for Intelligent
+Robot Robotics Control
+Systems
+OE TRACK :: ROBOTICS
+Robotics is a field of study that involves the design, construction and operation
+of robots. This field overlaps with electronics, computer science, mechatronics
+and artificial intelligence. Robotic companies are booming all over the world
+and are seeking engineers with skills for implementing Next -Level Automation.
+This Open Elective Track for Robotics consists of four courses and is intended
+for making students industry ready in the field of robotics.
+The First course in this track ”Fundamentals of Robotics” introduces various
+physical aspects of building a robot, exploring topics like how a robot
+perceives its environment using Sensors and how it interacts with its
+environment through various Actuators & Grippers. This course also inspects a
+variety of robot applications in different domains. Second Course in this track
+”Kinematics & Dynamics of robots” delves a level deeper discussing analysis
+and control of robots. It establishes strong mathematical foundation for
+describing and controlling robot movement. In this course students will learn in
+detail about Forward Kinematics, Inverse Kinematics, Workspace Analysis and
+Trajectory planning for robots.
+Third Course in the Robotics track “Drives and Control System for Robots”
+explores in detail various Drive Mechanisms used in robotics such as Hydraulic,
+Pneumatic & Electric drives. After completing this course students will be able
+to analyze operational aspects of a drive system for a given robotic
+application. Fourth Course in the track “Robot Programming and Intelligent
+Control System” expands on Robot Programming, discussing various aspects
+of Robot Programming Languages and their functions. This course also dives
+deep into advanced topics like Artificial Intelligence, Neural Networks and
+Fuzzy control for robots.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. VIII Semester L T/P/D C
+3 0 3
+(A19OE1EI04) ROBOT PROGRAMMING AND INTELLIGENT CONTROL SYSTEM
+(Open Elective -IV)
+COURSE PRE-REQUISITES: Fundamentals of Robotics, Kinematics and Dynamics of
+Robotics, Drives and Control Systems for Robotics
+COURSE OBJECTIVES:
+• Understand the fundamentals of robot programming
+• Learn robot textual languages that are in common use
+• Expose to artificial intelligence in robotics
+• Acquire basic Knowledge on neural networks in robotics
+• Acquire basic Knowledge on fuzzy logic in robotics
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Gain knowledge about different methods of robot programming
+CO-2: Examine various robot language elements and their functions
+CO-3: Analyze different AI techniques employed in robotics
+CO-4: Design basic neuro-controller for robot motion control
+CO-5: Apply fuzzy logic to robot control systems
+UNIT – I:
+Robot Programming: Methods of robot programming, leadthrough programming
+methods, robot program as a path in space - defining position in space, speed
+control, motion interpolation, WAIT, SIGNAL, DELAY commands, Branching.
+UNIT – II:
+Robot Languages: Textual robot language, generations of robot languages, robot
+language structure, operating systems, Robot language Elements and functions,
+constraints and variables, aggregates and location variables.
+UNIT – III:
+Basic Commands and Operations: Motion commands- move and related statements,
+speed control, points in workspace, paths and frames. End effector and sensor
+commands- end effector operation, sensor operation, REACT statement.
+Computations and operation. Program control and subroutines. Communications
+and data processing. Monitor mode commands.
+UNIT – IV:
+AI for Robotics: Introduction to Artificial Intelligence, goals of AI research, AI
+techniques- knowledge representation, problem representation, search techniques.
+LISP programming. AI and Robotics. LISP in the factory. Robotic Paradigms.
+UNIT – V:
+Neural Network Approach in Robotics: Introduction, Connectionist Models, Learning
+Principles and Learning Rules: Supervised, unsupervised, reinforcement learning.
+Sensor based robot learning, Neural Network in Robotics: Control of robot hands by
+neural network, neural set approach to robot motion coordination, robotic motor
+control using reinforcement learning optimization.
+UNIT – VI:
+Fuzzy Logic Approach in Robotics: Introduction, Fuzzy sets, Operation of Fuzzy sets,
+Fuzzy relations, Fuzzy rule formation, Control rules, Fuzzy algorithm in robotics, Robot
+obstacle avoidance using fuzzy logic, Fuzzy logic for robot path tracking and behavior
+coordination, fuzzy control system in mobile robots, fuzzy controller design for robot
+systems, Case study of fuzzy logic in robotics.
+TEXT BOOKS:
+1. Industrial Robotics Technology, Programming and Applications, Mikell. P. Groover,
+McGraw Hill, 2012
+2. Robotics Technology and Flexible Automation, Deb. S. R., Tata McGraw Hill
+Publishing Company Limited
+REFERENCES:
+1. Design and Control of Intelligent Robotic Systems, (Studies in Computational
+Intelligence 177) M. Begum, F. Karray (auth.), Dikai Liu, Lingfeng Wang, Kay Chen
+Tan (eds.), Springer
+2. Neural Networks in Robotics, Edited by George Bekey, Kenneth Y. Goldberg,
+Springer US, 2012
+3. Neural Networks, Fuzzy Logic, Genetic Algorithm - Synthesis and Applications,
+Rajasekharan and Rai, PHI Publications
+4. Introduction to Neural Networks using MATLAB 6.0, S.N. Sivanandam, S. Sumathi,
+S.N. Deepa, TMH, 2006
+CYBER SECURITY
+INFORMATION TECHNOLOGY
+Offered by:
+Courses in the OE Track:
+V Sem VI Sem VII Sem VIII Sem
+OE Tracks
+(OE-I) (OE-II) (OE-III) (OE-IV)
+Fundamentals
+of Computer
+Networks / Cryptography Essentials of
+Cyber Computer
+Relational & Network Cyber
+Security Forensics
+Database Security Security
+Management
+Systems
+OE TRACK :: CYBER SECURITY
+Cybersecurity is important because it incorporates everything that relates to
+protecting our sensitive data, personally identifiable information (PII),
+protected health information (PHI), personal information, intellectual property,
+data, and governmental and industry information systems from stealing and
+destruction endeavoured. The cyber security track helps students to learn
+about how to
+Defend networks and data from unapproved access.
+Enhanced information security and business endurance supervision.
+Upgraded stakeholder confidence in your information security preparations.
+Developed company authorizations with the correct security controls in place.
+Some of the more common career paths in the cyber security path are
+• Chief Information Security Officer. ...
+• Forensic Computer Analyst. ...
+• Information Security Analyst. ...
+• Penetration Tester. ...
+• Security Architect. ...
+• IT Security Engineer. ...
+• Security Systems Administrator. ...
+• IT Security Consultant.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. VIII Semester L T/P/D C
+3 0 3
+(A19OE1IT02) COMPUTER FORENSICS
+(Open Elective -IV)
+COURSE PRE-REQUISITES: Fundamentals of Computer Networks, Cryptography and
+Network Security, Essentials of Cyber Security
+COURSE OBJECTIVES:
+• To provide an understanding of computer forensics fundamentals
+• To analyze various computer forensics technologies and to provide computer
+forensics systems
+• To identify methods for data recovery
+• To apply the methods for preservation of digital evidence
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Define and discuss the concepts of computer forensics
+CO-2: Explain and apply the concepts of computer investigations
+CO-3: Select and apply current computer forensics tools
+CO-4: Identify and apply current practices for processing crime and incident scenes
+UNIT – I:
+Computer Forensics Fundamentals: What is Computer Forensics? Use of Computer
+Forensics in Law Enforcement, Computer Forensics Assistance to Human
+Resources/Employment Proceedings, Computer Forensics Services, Benefits of
+Professional Forensics Methodology, Steps taken by Computer Forensics Specialists.
+UNIT – II:
+Types of Computer Forensics Technology: Types of Military Computer Forensic
+Technology, Types of Law Enforcement — Computer Forensic Technology — Types of
+Business Computer Forensic Technology Computer Forensics Evidence and Capture:
+Data Recovery Defined — Data Back-up and Recovery — The Role of Back-up in Data
+Recovery — The Data-Recovery Solution.
+UNIT – III:
+Evidence Collection and Data Seizure: Why Collect Evidence? Collection Options —
+Obstacles — Types of Evidence — The Rules of Evidence — Volatile Evidence —
+General Procedure — Collection and Archiving — Methods of Collection — Artifacts
+— Collection Steps — Controlling Contamination: The Chain of Custody Duplication
+and Preservation of Digital Evidence: Preserving the Digital Crime Scene — Computer
+Evidence Processing Steps — Legal Aspects of Collecting and Preserving Computer
+Forensic Evidence Computer Image Verification and Authentication: Special Needs
+of Evidential Authentication — Practical Consideration —Practical Implementation.
+UNIT – IV:
+Computer Forensics Analysis and Validation: Determining what data to collect and
+analyze, validating forensic data, addressing data-hiding techniques, performing
+remote acquisitions Network Forensics: Network forensics overview, performing live
+acquisitions, developing standard procedures for network forensics, using network
+tools, examining the honeynet project. Processing Crime and Incident Scenes:
+Identifying digital evidence, collecting evidence in private-sector incident scenes,
+processing law enforcement crime scenes, preparing for a search, securing a
+computer incident or crime scene, seizing digital evidence at the scene, storing digital
+evidence, obtaining a digital hash, reviewing a case.
+UNIT – V:
+Current Computer Forensic Tools: Evaluating computer forensic tool needs, computer
+forensics software tools, computer forensics hardware tools, validating and testing
+forensics software E-Mail Investigations: Exploring the role of e-mail in investigation,
+exploring the roles of the client and server in e-mail, investigating e-mail crimes and
+violations, understanding e-mail servers, using specialized e-mail forensic tools.
+Cell Phone and Mobile Device Forensics: Understanding mobile device forensics,
+understanding acquisition procedures for cell phones and mobile devices.
+UNIT – VI:
+Working with Windows and DOS Systems: understanding file systems, exploring
+Microsoft File Structures, Examining NTFS disks, Understanding whole disk encryption,
+windows registry, Microsoft startup tasks, MS-DOS startup tasks, virtual machines.
+TEXT BOOKS:
+1. Computer Forensics, Computer Crime Investigation, John R. Vacca, Firewall
+Media, New Delhi
+2. Computer Forensics and Investigations, Nelson, Phillips Enfinger, Steuart, CENGAGE
+Learning
+3. Real Digital Forensics, Keith J. Jones, Richard Bejtiich, Curtis W. Rose, Addison
+Wesley, Pearson Education
+REFERENCES:
+1. Forensic Compiling, A Practitioners Guide, Tony Sammes and Brian Jenkinson,
+Springer International Edition
+2. Computer Evidence Collection & Presentation, Christopher L.T. Brown, Firewall
+Media
+3. Homeland Security, Techniques & Technologies, Jesus Mena, Firewall Media
+4. Software Forensics Collecting Evidence from the Scene of a Digital Crime, Robert
+M. Slade, TMH 2005
+5. Windows Forensics, Chad Steel, Wiley India Edition
+DATA SCIENCES / BIG DATA ANALYTICS
+INFORMATION TECHNOLOGY
+Offered by:
+Courses in the OE Track:
+V Sem VI Sem VII Sem VIII Sem
+OE Tracks
+(OE-I) (OE-II) (OE-III) (OE-IV)
+Data Statistical
+Computational Fundamentals Data Analysis
+Sciences / Methods for
+Thinking using of Data and
+Big Data & Data
+Python Mining Visualization
+Analytics Science
+OE TRACK :: DATA SCIENCES / BIG DATA & ANALYTICS
+Data science helps in risk evaluation and observing, possible deceitful
+comportment, payments, customer analysis, and experience, among much
+other exploitation. The capability to make data-driven choices generates a
+steadier financial situation and data scientists make the strength of
+the industry.
+As such, data science track helps students to apply business concepts in
+banking, finance, manufacturing, transport, e-commerce, education, etc.
+that use data science. As a consequence, there are numerous Data
+Science applications associated to it.
+Job Roles in Data Science Track
+• Data Analyst
+• Data Engineers
+• Database Administrator
+• Machine Learning Engineer
+• Data Scientist
+• Data Architect
+• Statistician
+• Business Analyst
+• Data and Analytics Manager
+Big Data analytics track helps the students to learn the process of gathering,
+establishing and examining large sets of data (called Big Data) to determine
+patterns and other beneficial information. Analysts occupied with Big
+Data characteristically want the acquaintance that comes from investigating
+the data.
+Big data analytics is the practice of mining useful information by examining
+different types of big data sets. Big data analytics is utilized to determine
+concealed patterns, market developments and consumer favorites, for the
+advantage of organizational decision making.
+Job responsibilities in a Big Data Analytics Track are
+• To gather and accumulate data from disparate sources, clean it, organize
+it, process it, and analyse it to extract valuable insights and information.
+• To identify new sources of data and develop methods to improve data
+mining, analysis, and reporting.
+• To create data definitions for new database files or alterations made to the
+already existing ones for analysis purposes.
+• To present the findings in reports (in table, chart, or graph format) to help
+the management team in the decision-making process.
+• To apply statistical analysis methods for consumer data research and
+analysis purposes.
+• To keep track of the trends and correlational patterns among complex
+data sets.
+• To perform routine analysis tasks to support day-to-day business functioning
+and decision making.
+• To collaborate with Data Scientists to develop innovative analytical tools.
+• To work in close collaboration with both the IT team and the business
+management team to accomplish company goals.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. VIII Semester L T/P/D C
+3 0 3
+(A19OE1IT05) DATA ANALYSIS AND VISUALIZATION
+(Open Elective -IV)
+COURSE PRE-REQUISITES: Statistical Methods for Data Science, Computational Thinking
+using Python, Fundamentals of Data Mining
+COURSE OBJECTIVES:
+• To introduce concept and characteristics of probability distribution
+• To introduce underlying design principles, properties and assumptions of linear and
+non-linear regression modelling
+• To introduce design principles involved in identifying interesting classification and
+prediction of data patterns
+• To introduce properties of time series data and perform time series analysis
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply probability distribution concepts to identify univariate data patterns
+CO-2: Apply regression modelling to build efficient mathematical models for
+prediction and classification
+CO-3: Apply decision and regression trees for supervised learning
+CO-4: Visualize time series data by applying time series techniques
+UNIT – I:
+Data Definitions and Analysis Techniques: Elements, Variables, and Data
+categorization, Introduction to statistical learning, Descriptive Statistics: Measures of
+central tendency, Measures of location of dispersions.
+UNIT – II:
+Basic Analysis Techniques: Basic analysis techniques, Statistical hypothesis generation
+and testing, Chi-Square test, t-Test Analysis of variance, Correlation analysis, Maximum
+likelihood test.
+UNIT – III:
+Data Analysis Techniques: Regression analysis and visualization, Classification
+techniques and visualization, Clustering and visualization, Association rules analysis
+and visualization
+UNIT – IV:
+Time-series Analysis and Forecasting – Time-series components, Variation in Time
+Series, Cyclic Variation, Seasonal Variation, Irregular Variation.
+UNIT – V:
+Smoothing Techniques: A problem involving all four components of time series,
+Introduction to forecasting, forecasting models, Trend and Seasonal effects, Trend
+Analysis
+UNIT – VI:
+Case-studies and Projects: Understanding business scenarios, Feature engineering
+and visualization, Sensitivity Analysis.
+TEXT BOOKS:
+1. Data Mining and Analysis, Mohammed J. Zaki, Wagner Meira, Cambridge, 2012
+2. Data Mining: Theories, Algorithms, and Examples, Nong Ye, CRC Press Taylor &
+Francis Group, 2014
+3. Statistics for Management, David S. Rubin, Sanjay Rastogi, Masood Husain Siddiqui
+Richard I. Levin, 7th Edition, Pearson Learning
+REFERENCES:
+1. Probability & Statistics for Engineers & Scientists, Ronald E. Walpole, Raymond H.
+Myers, Sharon L. Myers and Keying Ye, 9th Edition, Prentice Hall Inc.
+2. The Elements of Statistical Learning, Data Mining, Inference and Prediction, Trevor
+Hastie, Robert Tibshirani, Jerome Friedman, 2nd Edition, Springer, 2014
+3. An Introduction to Statistical Learning Mining Massive Data Sets, A. Rajaraman and
+J. Ullman, Cambridge University Press, 2012
+4. Software for Data Analysis: Programming with R (Statistics and Computing), John
+M. Chambers, Springer
+AUTONOMOUS VEHICLES
+AUTOMOBILE ENGINEERING
+Offered by:
+Courses in the OE Track:
+V Sem VI Sem VII Sem VIII Sem
+OE Tracks
+(OE-I) (OE-II) (OE-III) (OE-IV)
+Electric, Connected
+Principles of Modern
+Autonomous Hybrid and and
+Automobile Automotive
+Vehicles Fuel Cell Autonomous
+Engineering Technologies
+Vehicles Vehicles
+OE TRACK :: AUTONOMOUS VEHICLES
+The invention of the wheel marked a large step in the evolution of mankind. With mobility, man
+experienced a new found freedom that opened the doors for several other inventions.
+Automobile engineering or automotive engineering is one of the most challenging careers in
+the field of engineering with a wide scope. This branch deals with the designing, developing,
+manufacturing, testing and servicing automobiles such as cars, trucks, motorcycles, scooters,
+etc. and the related engineering sub systems. For the perfect blend of designing and
+manufacturing automobiles, automobile engineering uses the features of different elements
+of engineering such as mechanical, electrical, electronic, instrumentation, civil, software and
+safety engineering. Exploring the topic from an interdisciplinary perspective is indispensable.
+Globalization and incredible growth of automobile industry have resulted in numerous
+opportunities for engineers both in India and abroad.
+The 17th and 18th centuries were mostly about steam-powered vehicles transporting
+people and goods. While electric cars enjoyed popularity in the 19th and early 20th centuries,
+the later period saw the accelerated adoption of the petrol car, due to its advantages of
+power, mass production, cost and advances in the internal combustion engine. It is only in the
+21st century that interest in electric cars has come back, given the need for cleaner, greener
+modes of transport. The modern period is associated with several path breaking technologies.
+Over the last couple of decades, there has been an explosion of electronics in vehicles.
+Connected cars that include technology features are ever more popular. These smart cars
+come with internet access, GPS, wi-fi, superior infotainment, advanced telematics and
+navigation capabilities. More innovations in in-vehicle infotainment and electronics promise to
+give car users even more enhanced capabilities in the near future.
+Today, safety has become a larger concern than ever before. While entertainment
+and infotainment have made car driving a pleasure, this has also given rise to a growing tribe
+of distracted drivers. Add to this, underdeveloped roads, which take a toll on drivers today.
+Increased distractions and fatigue can also contribute to human fatalities. The future certainly
+points in the direction of driverless cars, which promise to alleviate concerns of traffic
+congestion and road safety. Driverless cars, also known as autonomous cars, will usher in a
+paradigm shift in the evolution of the modern automobile. Self-driving cars can sense the
+environment and traffic with the help of RADAR, LIDAR, GPS and computer vision and navigate
+without human intervention. Autonomous cars are claimed to have greater accuracy,
+reliability and faster reaction time compared to human drivers. This would lead to fewer traffic
+collisions and less road congestion.
+Autonomous driving is a popular subject of today’s discussion and automakers are
+developing complex systems that allow cars to drive themselves. If technology continues on
+its current course, car will do the concentrating for you. Self-parking, automatic emergency
+braking, adaptive cruise control and lane keeping are just some of the technologies that have
+leapt into the market in the past few years. Put them all together, get a picture of driving to
+assisted driving to fully autonomous cars. The open elective track “Autonomous Vehicles”
+offered by the department of automobile engineering trains the students to meet the
+technological challenges and diverse needs of the industry and society in various areas of
+automobile engineering and equips them to excel in a truly competitive industry. With through
+knowledge in this filed, engineering graduates get opportunity to serve many top-notch
+automobile companies and IT companies as well.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.TECH. VIII Semester L T/P/D C
+3 0 3
+(A19OE1AE04) CONNECTED AND AUTONOMOUS VEHICLES
+(Open Elective -IV)
+COURSE PRE-REQUISITES: Principles of Automobile Engineering, Modern Automotive
+Technologies, Electric, Hybrid and Fuel Cell Vehicles
+COURSE OBJECTIVES:
+• To understand the fundamentals of vehicle communication and networking
+• To provide state-of-the-art in wireless communication technology within and
+between vehicles
+• To know various levels of vehicle autonomy and intelligent automotive systems
+• To provide an overview on driver-assist and self-driving processes
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Present the fundamentals of vehicle communication and networking
+CO-2: Appreciate intra-vehicle and inter-vehicle communication technologies
+CO-3: Describe various levels of vehicle autonomy
+CO-4: Discuss the driver-assist and self-driving processes
+UNIT – I:
+Introduction to Vehicle Communications: Intra-vehicle communications -
+communications protocols, systems and sensors (Braking, steering, power train, chassis
+systems, body electronics, instrument clusters, infotainment systems), inter-vehicle
+communications - cooperative driving (accident warning, frontal/rear collision
+prevention, lane change, assistance). Consumer assistance – traffic information,
+multimedia support and smart parking
+UNIT – II:
+Communication Fundamentals and Controller Area Network: Communication
+fundamentals – Frequency, bandwidth, power measurement, signal to noise ratio,
+transmission rate constraints, radio frequency spectrum allocation, RADAR operation
+and types of RADAR. CAN evolution, versions, types of controllers, layered
+architecture. CAN bus, message frames and error handling.
+UNIT – III:
+Intra-Vehicle Communications: Wired communication – Network comparison, two tier
+approach, LIN applications - Localized vehicle area support, general support areas,
+CAN applications - In vehicle operation, infotainment, wireless communication –
+Bluetooth vehicle applications, satellite services – satellite radio, vehicle care and
+traffic status.
+UNIT – IV:
+Inter-Vehicle Communication: Adhoc Communications –Applications in Vehicle
+traffic Monitoring, Collision and congestion avoidance, Highway lane reservation,
+Emission Control, Vehicle Frequency Utilization – AM Radio, Bluetooth, FM Radio, GPS,
+Short range RADAR, Wireless LAN, Intelligent Roadway-Infrastructure to vehicle and
+vehicle to vehicle communications. Evolving smart vehicle – ECU, wireless networking,
+forward RADAR, side RADAR, GPS, cellular transmission and event Recorder.
+UNIT – V:
+Autonomous Vehicles: Importance, levels of automation, policy making, social costs,
+safety and crashes, congestion, land use, energy and emissions, costs and
+disadvantages
+UNIT – VI:
+Current State of Autonomous Vehicles: Research, challenges, commercial
+development, sensor systems, sensor suits, environmental challenges, graceful
+degradation, V2V and V2I communication, sharing the drive, integrity, security,
+verification and policy implications.
+TEXT BOOKS:
+1. Inter and Intra Vehicle Communications, Gilbert Held Auerbach Publications, 2008
+2. Autonomous Vehicle Technology-A Guide for Policymakers, James M. Anderson,
+Nidhi Kalra, Karlyn D. Stanley, Paul Sorensen, Constantine Samaras, Oluwatobi A.
+Oluwatola, RAND Corporation, Santa Monica, Calif., 2016
+3. Autonomous Driving - Technical, Legal and Social Aspects, Markus Maurer, J.
+Christian Gerdes, Barbara Lenz, Hermann Winner, Editors, Springer, 2016
+REFERENCES:
+1. Intelligent Vehicle Technologies: Theory and Applications, Ljubo Vlacic, Michel
+Parent and Fumio Harashima, Butterworth-Heinemann Publications, Oxford, 2001
+2. Navigation and Intelligent Transportation Systems – Progress in Technology,
+Ronald K. Jurgen, Automotive Electronics Series, SAE, USA, 1998
+3. Automotive In–vehicle Networks, J. Gabrielleen, Wiley-Blackwell, 2008
+4. In-Vehicle Network Architecture for the Next-Generation Vehicles, Syed Masud
+Mahmud, IGI
+5. Communication Technologies for Vehicles, Mohamed Kassab Springer, 2015
+GENERAL-COMPUTING
+COMPUTER SCIENCE AND
+Offered by:
+ENGINEERING /
+INFORMATION TECHNOLOGY
+Courses in the Pool:
+➢ Programming through Java
+➢ Relational Data Base Management Systems
+➢ Computational Thinking using Python
+➢ Introduction to Data Analytics
+➢ Fundamentals of Computer Algorithms
+OE POOL :: GENERAL-COMPUTING
+1.Programming through Java
+Java is an extensively used programming language specifically intended for use in
+the distributed environment of the internet. Java help students to create wide-
+ranging applications that possibly will run on a single workstation or be distributed
+among servers and clients in a network.
+Java is an extremely fruitful language and an upper option for many developers for
+many years. The motive that it has remained so prevalent is since it still happens the
+needs of functioning across networks.
+Students will have different roles and responsibilities by learning Java Programming
+• Designing, implementing, and maintaining Java applications that are often
+high-volume and low-latency, required for mission-critical systems.
+• Delivering high availability and performance.
+• Contributing in all phases of the development lifecycle.
+• Writing well-designed, efficient, and testable code.
+2. Relational Database Management Systems
+A relational database permits you to effortlessly find precise information. It also
+consents you to sort based on any field and produce reports that comprise only
+definite fields from each record. With features like, Data Accuracy, Easy Access to
+Data, Data Integrity, Flexibility, Normalization, High Security, Feasible for Future
+Modifications
+By learning RDBMS Students will have different roles in Database environment
+• Data Administrator,
+• Database Administrator
+• Database Designer
+• Application Programmer
+3. Computational Thinking using Python
+The python language is one of the utmost accessible programming languages
+available because it has streamlined syntax and not complex, which gives more
+importance on natural language. Due to its comfort of learning and
+practice, python codes can be readily written and executed much quicker than
+former programming languages.
+Data Science: The libraries and frameworks Python offers, e.g. PyBrain, PyMySQL, and
+NumPy are one of the big reasons. Another reason is diversity. Python experience
+allows you to do a lot more than any other language, e.g. you can create scripts to
+automate stuff, go into web development, and so much more.
+Students will have various Job Profiles by learning Python
+• Software Engineer.
+• Python Developer.
+• Research Analyst.
+• Data Analyst.
+• Data Scientist.
+• Software Developer.
+4. Introduction to Data Analytics
+Data Scientists and Analysts use data analytics techniques in their research, and
+businesses also use it to inform their conclusions. Data analysis can assistance
+corporations healthier comprehend their customers, assess their ad-campaigns,
+personalize gratified, create content approaches and progress products.
+By learning Data Analytics students will get Jobs with different designations
+• IT Systems Analyst. Systems analysts use and design systems to solve problems
+in information technology. ...
+• Healthcare Data Analyst. ...
+• Operations Analyst. ...
+• Data Scientist. ...
+• Data Engineer. ...
+• Quantitative Analyst. ...
+• Data Analytics Consultant. ...
+• Digital Marketing Manager.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. V Semester L T/P/D C
+3 0 3
+(A19OE1IT06) PROGRAMMING THROUGH JAVA
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To introduce object-oriented programming concepts using the Java language
+• To introduce the principles of inheritance and polymorphism; and demonstrates
+how they relate to the design of abstract classes
+• To introduce the implementation of packages and interfaces
+• To introduce exception handling, event handling and multithreading
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Develop applications for range of problems using object-oriented
+programming techniques
+CO-2: Design simple graphical user interface applications
+CO-3: Explore the design of graphical user interface using applets and swings
+UNIT – I:
+Object Oriented Thinking and Java Basics: Need for OOP Paradigm, Summary of OOP
+Concepts, Coping with Complexity, Abstraction Mechanisms, A Way of Viewing World
+– Agents, Responsibility, Messages, Methods, History of Java, Java Buzzwords, Data
+Types, Variables, Scope and Life Time of Variables, Arrays, Operators, Expressions,
+Control Statements, Type Conversion and Casting, Simple Java Program, Concepts
+of Classes, Objects, Constructors, Methods, Access Control, This Keyword, Garbage
+Collection, Overloading Methods and Constructors, Method Binding, Inheritance,
+Overriding and Exceptions, Parameter Passing, Recursion, Nested and Inner Classes,
+Exploring String Class.
+UNIT – II:
+Inheritance, Packages and Interfaces: Hierarchical Abstractions, Base Class Object,
+Subclass, Subtype, Substitutability, Forms of Inheritance- Specialization, Specification,
+Construction, Extension, Limitation, Combination, Benefits of Inheritance, Costs of
+Inheritance. Member Access Rules, Super Uses, Using Final with Inheritance,
+Polymorphism- Method Overriding, Abstract Classes, The Object Class.
+Defining, Creating and Accessing a Package, Understanding Classpath, Importing
+Packages, Differences between Classes and Interfaces, Defining an Interface,
+Implementing Interface, Applying Interfaces, Variables in Interface and Extending
+Interfaces, Exploring Java.IO.
+UNIT – III:
+Exception Handling and Multi-threading: Concepts of Exception Handling, Benefits of
+Exception Handling, Termination or Resumptive Models, Exception Hierarchy, Usage
+of Try, Catch, Throw, Throws and Finally, Built in Exceptions, Creating Own Exception
+Sub Classes.
+String Handling, Exploring Java. Util, Differences between Multi-Threading and
+Multitasking, Thread Life Cycle, Creating Threads, Thread Priorities, Synchronizing
+Threads, Interthread Communication, Thread Groups, Daemon Threads.
+Enumerations, Autoboxing, Annotations, Generics.
+UNIT – IV:
+Event Handling: Events, Event Sources, Event Classes, Event Listeners, Delegation Event
+Model, Handling Mouse and Keyboard Events, Adapter Classes.
+The AWT Class Hierarchy, User Interface Components- Labels, Button, Canvas,
+Scrollbars, Text Components, Check Box, Check Box Groups, Choices, Lists Panels –
+Scrollpane, Dialogs, Menubar, Graphics, Layout Manager – Layout Manager Types –
+Border, Grid, Flow, Card and Grid Bag.
+UNIT – V:
+Applets: Concepts f Applets, Differences between Applets and Applications, Life
+Cycle of an Applet, Types of Applets, Creating Applets, Passing Parameters to Applets.
+UNIT – VI:
+Swing: Introduction, Limitations of AWT, MVC Architecture, Components, Containers,
+Exploring Swing- Japplet, Jframe and Jcomponent, Icons and Labels, Text Fields,
+Buttons – The Jbutton Class, Check Boxes, Radio Buttons, Combo Boxes, Tabbed
+Panes, Scroll Panes, Trees, and Tables.
+TEXT BOOKS:
+1. Java The Complete Reference, Herbert Schildt, 7th Edition, TMH
+2. Understanding OOP with Java Updated Edition, T. Budd, Pearson Education
+3. An Introduction to Programming and OO Design using Java, J. Nino and F.A.
+Hosch, John Wiley & Sons
+REFERENCES:
+1. Introduction to Java Programming, Y. Daniel Liang, Pearson Education
+2. An Introduction to Java Programming and Object-Oriented Application
+Development, R.A. Johnson, Thomson
+3. Core Java 2, Vol. 1 - Fundamentals, Cay. S. Horstmann and Gary Cornell, Eighth
+Edition, Pearson Education
+4. Core Java 2, Vol. 2 - Advanced Features, Cay. S. Horstmann and Gary Cornell, 8th
+Edition, Pearson Education
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. V Semester L T/P/D C
+3 0 3
+(A19OE1CS08) RELATIONAL DATABASE MANAGEMENT SYSTEMS
+COURSE OBJECTIVES:
+• To understand the basic concepts and the applications of database systems.
+• To master the basics of SQL and construct queries using SQL.
+• To understand the relational database design principles.
+• To become familiar with the basic issues of transaction processing and
+concurrency control.
+• To become familiar with database storage structures and access techniques.
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Demonstrate the basic elements of a relational database management
+system.
+CO-2: Ability to identify the data models for relevant problems.
+CO-3: Ability to design entity relationship model and convert entity relationship
+diagrams into RDBMS and formulate SQL queries on the data.
+CO-4: Apply normalization for the development of application software.
+UNIT-I:
+Introduction: Database System Applications, Purpose of Database Systems, View of
+Data, Database Languages – DDL, DML, Relational Databases, Database Design,
+Data Storage and Querying, Transaction Management, Database Architecture, Data
+Mining and Information Retrieval, Specialty Databases, Database Users and
+Administrators, History of Database Systems.
+Introduction to Data base design: Database Design and ER diagrams, Entities,
+Attributes and Entity sets, Relationships and Relationship sets, Additional features of ER
+Model, Conceptual Design with the ER Model, Conceptual Design for Large
+enterprises.
+Relational Model: Introduction to the Relational Model, Integrity Constraints over
+Relations, Enforcing Integrity constraints, Querying relational data, Logical data base
+Design: ER to Relational, Introduction to Views, Destroying /Altering Tables and Views.
+UNIT- II:
+Relational Algebra and Calculus: Preliminaries, Relational Algebra, Relational calculus
+– Tuple relational Calculus, Domain relational calculus, Expressive Power of Algebra
+and calculus.
+SQL: Queries, Constraints, Triggers: Form of Basic SQL Query, UNION, INTERSECT, and
+EXCEPT, Nested Queries, Aggregate Operators, NULL values Complex Integrity
+Constraints in SQL, Triggers and Active Data bases, Designing Active Databases.
+UNIT- III:
+Schema Refinement and Normal Forms: Introduction to Schema Refinement,
+Functional Dependencies - Reasoning about FDs, Normal Forms, Properties of
+Decompositions, Normalization, Schema Refinement in Database Design, Other Kinds
+of Dependencies.
+UNIT-IV:
+Transaction Management: Transactions, Transaction Concept, A Simple Transaction
+Model, Storage Structure, Transaction Atomicity and Durability, Transaction Isolation,
+Serializability, Transaction Isolation and Atomicity Transaction Isolation Levels,
+Implementation of Isolation Levels.
+UNIT-V:
+Concurrency Control: Lock–Based Protocols, Multiple Granularity, Timestamp-Based
+Protocols, Validation-Based Protocols, Multiversion Schemes.
+Recovery System-Failure Classification, Storage, Recovery and Atomicity, Recovery
+Algorithm, Buffer Management, Failure with loss of nonvolatile storage, Early Lock
+Release and Logical Undo Operations, Remote Backup systems.
+UNIT-VI:
+Storage and Indexing: Overview of Storage and Indexing: Data on External Storage,
+File Organization and Indexing, Index Data Structures, Comparison of File
+Organizations.
+Tree-Structured Indexing: Intuition for tree Indexes, Indexed Sequential Access
+Method (ISAM), B+ Trees: A Dynamic Index Structure, Search, Insert, Delete.
+Hash- Based Indexing: Static Hashing, Extendible hashing, Linear Hashing, Extendible
+vs. Linear Hashing.
+TEXT BOOKS:
+1. Data base Management Systems, Raghu Ramakrishnan, Johannes Gehrke,
+McGraw Hill Education (India) Private Limited, 3rd Edition
+2. Data base System Concepts, A. Silberschatz, Henry. F. Korth, S. Sudarshan,
+McGraw Hill Education(India) Private Limited l, 6th Edition
+3. Database Systems, R Elmasri, Shamkant B.Navathe, 6th Edition, Pearson
+Education
+REFERNCES:
+1. Database System Concepts, Peter Rob & Carlos Coronel, Cengage Learning
+2. Introduction to Database Management, M. L. Gillenson and others, Wiley Student
+Edition
+3. Database Development and Management, Lee Chao, Auerbach publications,
+Taylor & Francis Group
+4. Introduction to Database Systems, C. J. Date, Pearson Education
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. VI Semester L T/P/D C
+3 0 3
+(A19OE1IT03) COMPUTATIONAL THINKING USING PYTHON
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To understand why Python is a useful scripting language for developers
+• To create and execute Python programs and to Learn how to use lists, tuples, and
+dictionaries in Python programs
+• To learn how to build and package Python modules for reusability
+• To learn how to design object oriented programs with Python classes
+• To learn how to use exception handling in Python applications for error handling
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Adapt and combine standard algorithms to solve a given problem (includes
+numerical as well as non-numerical algorithms)
+CO-2: Adequately use standard programming constructs: repetition, selection,
+functions, composition, modules, aggregated data (arrays, lists, etc.)
+CO-3: Explain what a given program (in Python) does identify and repair coding errors
+in a program
+CO-4: Understand and use object based software concepts (constructing OO
+software will be dealt with in the course Software Engineering)
+CO-5: Use library software for (e.g.) building a graphical user interface, web
+application, or mathematical software
+UNIT-I:
+Introduction, History, Features, Setting up path, Working with Python, Basic Syntax,
+Variable and Data Types, Operator, Conditional Statements-If, If- else Nested if-else
+Looping For While Nested loops Control Statements. Break Continue Pass String
+Manipulation Accessing Strings Basic Operations String slices Function.
+UNIT- II:
+Methods Lists Introduction Accessing list Operations Working with lists Function and
+Methods Tuple Introduction Accessing tuples Operations Working Functions and
+Methods
+Dictionaries-Introduction Accessing values in dictionaries Working with dictionaries
+Properties.
+UNIT- III:
+Functions - Defining a function Calling a function Types of functions Function
+Arguments Anonymous functions Global and local variables.
+Modules- Creation, Importing module, Math module Random module Packages.
+UNIT-IV:
+Composition -Input-Output-Printing on screen, Reading data from keyboard, Opening
+and closing file Reading and writing files, Functions.
+Exception Handling -Exception, Exception Handling, Except clause, Try ? Finally
+clause, User Defined Exceptions
+UNIT-V:
+OOPs concept - Class and object, Attributes, Inheritance, Overloading, Overriding,
+Data hiding, Regular expressions- Match function, Search function, Matching VS
+Searching, Modifiers, Patterns. Multithreading-Thread, Starting a thread, Threading
+module, Synchronizing threads.
+CGI - Introduction, Architecture, CGI environment variable, GET and POST methods,
+Cookies, File upload.
+UNIT-VI:
+Database- Introduction, Connections, Executing queries, Transactions Handling error,
+Networking - Socket, Socket Module, Methods, Client and server, Internet modules,
+Sending email.
+TEXT BOOKS:
+1. Learning Python, By David Ascher and Mark Lutz, O’Relly
+REFERNCES:
+1. Python Programming: An Introduction to Computer Science by John M. Zelle,
+Second Edition, Kindle Edition
+2. Python Essential Reference by David M. Beazley, Fourth Edition, Developer’s Library
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. VI SEMESTER L T/P/D C
+3 0 3
+(A19OE1IT07) INTRODUCTION TO DATA ANALYTICS
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To be exposed to conceptual framework of big data
+• To understand different techniques of data analysis
+• To be familiar with concepts of data streams
+• To be exposed to item sets, clustering, frame works and Visualization
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand big data fundamentals
+CO-2: Learn various data analysis techniques
+CO-3: Implement various data streams
+CO-4: Understand item sets, clustering, frame works & Visualizations
+UNIT – I:
+Introduction to Big Data: Introduction to Big Data Platform – Challenges of
+Conventional systems – Web data – Evolution of Analytic scalability, analytic process
+and tools, Analysis vs Reporting – Modern data analytic tools,
+Statistical Concepts: Sampling distributions, resampling, statistical inference,
+prediction error.
+UNIT – II:
+Data Analysis: Regression modeling, Multivariate analysis, Bayesian modeling,
+inference and Bayesian networks, Support vector and Kernel methods
+Analysis of Time Series: Linear systems analysis, nonlinear dynamics – Rule induction –
+Neural Networks: Learning and and Generalisation, competitive learning, Principal
+component analysis and neural networks
+Fuzzy Logic: extracting fuzzy models from data, fuzzy decision trees, Stochastic search
+methods.
+UNIT – III:
+Mining Data Streams: Introduction to Streams Concepts – Stream data model and
+architecture – Stream Computing, Sampling data in a stream – Filtering streams –
+Counting distinct elements in a stream – Estimating moments – Counting oneness in a
+Window – Decaying window – Real time Analytics Platform (RTAP) applications – case
+studies – real time sentiment analysis, stock market predictions.
+UNIT – IV:
+Frequent Itemsets and Clustering: Mining Frequent itemsets – Market based Modeling
+– Apriori Algorithm – Handling large data sets in Main Memory – Limited Pass Algorithm
+– Counting frequent itemsets in a Stream – Clustering Techniques – Hierarchical – K-
+Means.
+UNIT – V:
+Clustering high dimensional data – CLIQUE and ProCLUS – Frequent pattern-based
+clustering methods – Clustering in non-Euclidean space – Clustering for streams and
+Parallelism.
+UNIT – VI:
+Frameworks and Visualization: MapReduce – Hadoop, Hive, MapR – Sharding – NoSQL
+Databases – S3 – Hadoop Distributed file systems – Visualizations – Visual data analysis
+techniques,
+Interaction Techniques: Systems and Applications
+TEXT BOOKS:
+1. Intelligent Data Analysis, Michael Berthold, David J. Hand, Springer, 2007
+2. Mining of Massive Datasets, Anand Rajaraman and Jeffrey David Ullman,
+Cambridge University Press, 2012
+REFERENCES:
+1. Taming the Big Data Tidal Wave: Finding Opportunities in Huge Data Streams with
+Advanced Analytics, Bill Franks, John Wiley & Sons, 2012
+2. Big Data Glossary, Glenn J. Myatt, Making Sense of Data, John Wiley & Sons, Pete
+Warden, O’Reilly, 2011
+3. Data Mining Concepts and Techniques, Jiawei Han, Micheline Kamber, 2nd Edition,
+Elsevier, 2008
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. VI SEMESTER L T/P/D C
+3 0 3
+(A19OE1CS11) FUNDAMENTALS OF COMPUTER ALGORITHEMS
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To reinforce algorithms analysis methods
+• To analyse running time of an algorithm
+• To understand different algorithm design strategies
+• To familiarize with an assortment of important algorithms
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply algorithm design techniques and concepts to solve given engineering
+problem
+CO-2: Analyze running times of algorithms using asymptotic analysis
+CO-3: Develop efficient algorithms for computational tasks
+CO-4: Computing complexity measures of algorithms
+UNIT – I:
+Introduction: Characteristics of algorithm. Analysis of algorithms: Asymptotic analysis
+of complexity bounds – best, average and worst-case behaviour; Performance
+measurements of Algorithm, Time and space trade-offs.
+UNIT – II:
+Divide and Conquer: General method, applications-Binary search, Quick sort, Merge
+sort, Strassen‘s matrix multiplication. Analysis of recursive algorithms through
+recurrence relations: Substitution method, Recursion tree method and Masters’
+theorem.
+UNIT – III:
+Greedy Method: General method, applications-Job sequencing with deadlines, 0/1
+knapsack problem, Minimum cost spanning trees, Single source shortest path
+problem, Huffman Codes.
+UNIT – IV:
+Dynamic Programming-I: General method, Principle of optimality, applications-
+Multistage graphs, Matrix chain multiplication, Optimal binary search trees.
+UNIT – V:
+Dynamic Programming-II: 0/1 knapsack problem, All pairs shortest path problem,
+Travelling sales person problem, Reliability design.
+UNIT – VI:
+Backtracking: General method, applications- N-Queen problem, Sum of subsets
+problem, Graph coloring, Hamiltonian cycles.
+TEXT BOOKS:
+1. Fundamentals of Computer Algorithms, E. Horowitz et al., Galgotia Publications
+2. Introduction to Algorithms, Thomas H. Cormen, Charles E. Lieserson, Ronald L. Rivest
+and Clifford Stein, 4th Edition, MIT Press/McGraw-Hill
+REFERENCES:
+1. Algorithm Design, Jon Kleinberg and EvaTardos, 1st Edition, Pearson
+2. Algorithm Design: Foundations, Analysis and Internet Examples, Michael T.
+Goodrich and Roberto Tamassia, Second Edition, Wiley
+3. Algorithms – A Creative Approach, Udi Manber, 3rd Edition, Addison-Wesley,
+Reading, MA
+4. Introduction to the Design and Analysis of Algorithms, Anany Levitin, 3rd Edition,
+Pearson Publications
+GENERAL POOL
+HUMANITIES AND SCIENCES
+Offered by:
+Courses in the OE Pool:
+➢ Professional Ethics & Human Values
+➢ Entrepreneurship
+➢ Personality Development and Public Speaking
+➢ Foreign Language – French
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. VIII Semester L T/P/D C
+3 0 3
+(A19OE1HS04) FOREIGN LANGUAGE – FRENCH
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To communicate verbally in a simple way by asking and responding to simple
+questions related to everyday language needs
+• To read and comprehend different kinds of texts (notices, informal letters,
+catalogues, menus etc.)
+• To write clear, concise, and correct sentences and paragraphs on familiar topics.
+• To recognize and use basic syntax and structures in French including articles,
+prepositions and connecting words as well as master basic vocabulary
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Use vocabulary contextually and effectively
+CO-2: Use reading skills to comprehend different kinds of texts
+CO-3: Understand everyday expressions dealing with simple and concrete everyday
+needs, in clear, slow and well-articulated speech and manage very short mini
+dialogues /conversations
+CO-4: Demonstrate basic competence in Written French including grammar,
+sentence and paragraph structure, coherence
+UNIT – I: Introduce oneself and introduce someone:
+Reading: Read and understand an introduction about someone
+Grammar: Question words, Subject verb agreement, Mas/fem and prepositions with
+cities and countries
+Vocabulary: professions, nationalities, countries numbers, days of the week and verbs
+Writing: Build basic sentences and Write about oneself
+Life Skills: Greetings, Formal and Informal way of asking questions
+UNIT – II: Express likes and dislikes and Talk about your locality:
+Reading: Read and understand description of a place
+Grammar: Articles, prepositions, possessive adjectives, basic connecting words such
+as “like, and, but”, and Negation
+Vocabulary: Adjectives, verbs of preference, different places, and basic vocabulary
+on leisure and sports activities.
+Writing: Write about hobbies and pastimes
+Life Skills: Conversation fillers
+UNIT – III: Take / Fix an appointment with someone:
+Reading: Understand propositions and counters
+Grammar: How to say time, Interrogative adjectives
+Vocabulary: Irregular verbs, days of the week, Fixed expressions with Etre and Avoir
+and expressions to ask for appointment or refuse/accept a proposed time
+Life Skills: Telephone etiquette and colloquial expressions in French
+UNIT – IV: Talk about your routine / Invite someone and Accept or refuse an invitation
+Reading: Read and understand an invitation on basic info: date and time, venue,
+occasion, type of invitation etc.
+Grammar: Question word Why, Connecting word “because”, partitive and
+contracted articles, reflexive verbs
+Vocabulary: Expressions to propose, thank / apologize and accept or refuse an
+invitation,
+Writing: Respond to an invitation (Accept or refuse)
+Life Skills: At the table
+UNIT – V: Ask for information (timings, price, etc) and Ask for/ Give Directions
+Reading: Understand signboards and instructions
+Grammar: Imperative mode and prepositions.
+Vocabulary: Directions, Expressions to ask information or seek precision
+Writing: Give instructions and fill a form
+UNIT – VI: Vacation (plan vacation, choose destination, visit, and appreciate)
+Reading: Read and understand travel brochures for basic info on offers, locations,
+touristic attractions hotels and so on
+Grammar: demonstrative adjectives and near future tense
+Vocabulary: Weather forecast, modes of transport, and vacation activities
+Writing: Write a post card
+Life Skills: Types of vacation in France
+TEXT BOOKS:
+1. Painless French, Carol Chitin, M.S., Lynn Gore, Barrons Educational Series, 2016
+(ISBN: 978-1438007700)
+2. Language Learning University, French: Learn French for Beginners Including French
+Grammar, French Short Stories and 1000+ French Phrases, Createspace
+Independent Publications, 2018 (ISBN: 978-1726415002)
+3. Language School, French Language for Beginners, 2019 (ISBN: 978-1700175700)
+REFERENCES:
+1. Practice Makes Perfect: Complete French All-in-One, Annie Heminway, McGraw-
+Hill Education, 2018 (ISBN: 978-1260121032)
+2. Easy French Step-by-Step, Myrna Bell Rochester, McGraw-Hill Education, 2008
+(ISBN: 978-0071453875)
+3. Contacts: Langue et culture françaises, Jean-Paul Valette, Rebecca Valette,
+Wadsworth Publishing Co. Inc., 2012 (ISBN: 978-1133309581)
+GENERAL POOL
+DEPARTMENTS
+Offered by:
+Courses in the OE Pool:
+➢ Smart Cities
+➢ Trends in Energy Sources for Sustainable Development
+➢ 3D Printing and Design
+➢ Embedded Systems for IoT
+➢ Artificial Intelligence - A Beginner's Guide
+➢ Blockchain Essentials
+➢ Fundamentals of Robotics and Drones
+➢ Fundamentals of Cyber Security
+➢ Fundamentals of Data Science
+➢ Introduction to Advanced Vehicle Technologies
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. L T/P/D C
+3 0 3
+(A19OE1CE09) SMART CITIES
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To understand smart city basic concepts, global standards, and Indian context of
+smart cities
+• To explain smart community, smart transportation and smart buildings
+• To understand Energy demand, Green approach to meet Energy demand and
+their capacities
+• To identify Smart Transportation Technologies in cities and concepts towards smart
+city
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Explain and elaborate smart city concepts and their international and national
+standards
+CO-2: Conceptualize smart community, transportation and building concepts
+CO-3: Develop and calibrate energy demand and their capacity limits
+CO-4: Predict the various smart urban transportation systems and the transition from
+existing city towards a smart city
+UNIT – I:
+Introduction to Smart Cities: Introduction to Smart Cities - Understanding Smart Cities -
+Dimensions of Smart Cities – World urbanization, Global Experience of Smart Cities,
+Smart City case studies-Indian scenario - India “100 Smart Cities” Policy and Mission.
+UNIT – II:
+City as a System of Systems: Systems thinking – Developing a smart city approach –
+Core elements of a smart city – Relevant open data for a smart city – Sustainability –
+Privacy and Ethics – Energy systems for smarter cities.
+UNIT – III
+Smart Cities Planning and Development: Introduction to Smart Community; Smart
+community concepts: Concept of Smart Community - Smart Transportation - Smart
+Building and Home Device - Smart Health - Smart Government - Smart Energy and
+Water - Cybersecurity, Safety, and Privacy; Internet of Things, Blockchain, Artificial
+Intelligence, Alternate Reality, Virtual Reality.
+UNIT – IV:
+Smart Urban Energy Systems: Conventional vs. Smart, City components, Energy
+demand, Green approach to meet Energy demand, Index of Indian cities towards
+smartness – a statistical analysis -Meeting energy demand through direct and indirect
+solar resources- Efficiency of indirect solar resources and its utility, Capacity limit for
+the indirect solar resources- Effectiveness in responsive environment in smart city;
+Smart communication using green resources- Relevant case studies
+UNIT – V:
+Smart Transportation Systems: Smart Transportation Technologies - Driverless and
+connected vehicles - ride sharing solutions - The "improve" pathway - The "shift"
+pathway – Smart Roads and Pavement systems – Relevant case studies
+UNIT – VI:
+Future of Smart Cities: The transition of legacy cities to Smart - Right transition process
+- the benefit of citizens, cities have to adopt effective management and governance
+approaches-factors in the transition phase of legacy cities to Smart cities and their
+managerial implications.
+TEXT BOOKS:
+1. Internet of Things in Smart Technologies for Sustainable Urban Development, G. R.
+Kanagachidambaresan, R. Maheswar, V. Manikandan, K. Ramakrishnan.,
+Springer, 2020
+2. Society 5.0: A People-Centric Super-Smart Society, Hitachi-UTokyo Laboratory (H-
+UTokyo Lab), Springer, 2020
+3. The Routledge Companion to Smart Cities, Katharine S. Willis, Alessandro Aurigi,
+Routledge International Handbooks, 2020
+REFERENCES:
+1. Smart Cities in Asia: Governing Development in the Era of Hyper-Connectivity Yu-
+min Joo, Yu-Min Joo, Teck-Boon Tan, Edward Elgar Pub, 2020
+2. Urban Systems Design: Creating Sustainable Smart Cities in the Internet of Things
+Era, Yoshiki Yamagata, Perry P. J. Yang, Elsevier, 2020
+3. Smart Cities and Artificial Intelligence: Convergent Systems for Planning, Design,
+and Operations, Christopher Grant Kirwan, Zhiyong Fu, Elsevier, 2020
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. L T/P/D C
+3 0 3
+(A19OE1EE05) TRENDS IN ENERGY SOURCES FOR SUSTAINABLE DEVLOPMENT
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To understand the role of sustainable energy
+• To know components of solar PV and wind energy conversion systems
+• To understand the principles of Biomass, geo-thermal and wave energy systems
+• To learn various energy storage methods
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand various sources for sustainable energy
+CO-2: Understand Solar Photo voltaic and wind energy systems
+CO-3: Learnt the harnessing techniques of Biomass, geothermal and ocean energy
+CO-4: Familiarize with energy storage methods
+UNIT – I:
+Introduction: Trends in energy consumption - Conventional and renewable sources,
+Energy sources and their availability, Energy Conservation status in India -need of new
+energies for sustainable development.
+UNIT – II:
+Fundamentals of Solar Radiation: Introduction-The Sun as Source of Energy,
+Extraterrestrial and Terrestrial Radiations, Spectral Power Distribution of Solar Radiation,
+instruments for measuring solar radiation and sunshine recorder.
+Solar PV Conversion: The PV Cell-Crystalline Solar cells -Thin film and amorphous solar
+cells, Module, Array, Equivalent Electrical circuit- Open circuit voltage and Short
+circuit current, I-V, P-V Curves. Developments in efficient non silicon solar cells
+UNIT – III:
+Wind Energy: origin of winds-Global (or Planetary) Winds- Local Winds-Factors
+Affecting the Distribution of Wind Energy on the Surface of Earth, Wind Turbine – Types,
+construction of HAWT, VAWT, performance characteristics, Betz criteria.
+UNIT – IV:
+Bio-Mass: Principles of Bio-Conversion, Anaerobic/aerobic digestion, types of Biogas
+digesters, combustion characteristics of bio-gas, utilization for cooking, I.C. Engine
+operation and economic aspects.
+UNIT – V:
+Geothermal Energy: Resources, types of wells, methods of harnessing the energy
+Ocean Energy: OTEC, Principles utilization, setting of OTEC plants, thermodynamic
+cycles.
+Tidal and Wave Energy: Potential and conversion techniques, mini-hydel power plants,
+and their economics.
+UNIT – VI:
+Energy Storage:
+Electro Chemical Storage: lead-acid- nickel cadmium-nickel-metal-hydride and
+lithium type batteries-Principle of operation, Types, Advantages and disadvantages.
+Non-Electric Storage: Methods of Energy storage –Pumped Energy Storage –
+Compressed air Energy Storage, Superconducting Magnet Energy Storage.
+TEXT BOOKS:
+1. Non-Conventional Energy Sources, G. D. Rai, 6th Edition, Khanna Publishers, 2004
+2. Non-Convention Energy Resources, B. H. Khan, 3rd Edition, McGraw Hill, 2017
+REFERENCES:
+1. Renewable Energy Sources, Twidell & Weir, 3rd Edition, CRC Press, 2015
+2. Solar Energy, Sukhatme, 3rd Edition, McGraw Hill, 2008
+3. Non-Conventional Energy, Ashok V. Desai, Wiley Eastern, 1990
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. L T/P/D C
+3 0 3
+(A19OE1ME05) 3D PRINTING AND DESIGN
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To understand the need and know about the applications of 3D Printing
+• To understand the need of liquid and solid based 3D Printing systems
+• To know about the laser-based 3D Printing systems and importance of CAD for 3D
+Printing
+• To understand post-processing, inspection and testing involved in 3D Printing
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Summarize the importance of 3D Printing
+CO-2: Explain the process involved in liquid and solid based 3D Printing Systems
+CO-3: Explain about the laser-based 3D Printing systems and CAD for 3D Printing
+CO-4: Plan post-processing techniques and perform inspection and testing in 3D
+Printing
+UNIT – I:
+Introduction: Introduction to 3D Printing, Classification, 3D Printing Process Chain,
+Materials for 3D Printing, Distinction between 3D Printing & Conventional
+Manufacturing.
+Applications: Brief overview of applications in Aerospace, Automotive, Biomedical,
+Defense, Construction, Jewelry, Coin and Tableware Industry.
+UNIT – II:
+Liquid Based 3D Printing Systems: Introduction, Principle, Processes and Applications
+of Material Jetting and Binder Jetting.
+UNIT – III:
+Solid Based 3D Printing Systems: Introduction, Principle, Processes and Applications of
+Fused Deposition Modeling (FDM) and Laminated Object Manufacturing (LOM).
+UNIT – IV:
+Laser Based 3D Printing Systems: Introduction, Principle, Processes and Applications of
+Selective Laser Sintering (SLS), Three-Dimensional Printing (3DP).
+UNIT – V:
+CAD for 3D Printing: CAD data formats, CAD model preparation, Part orientation and
+support generation, Overview of 3D Printing softwares like MAGICS and MIMICS only.
+UNIT – VI:
+Post Processing: Introduction, Post Processing Techniques like Support material
+removal, Cleaning, Sanding and Polishing.
+Inspection: Introduction, Significance, Inspection techniques like Dimensional
+measurement along X, Y and Z axes, visual inspection of the surface finish (overall
+aesthetics and intact features), flatness or warp check, and FOD (foreign objects or
+debris) check.
+TEXT BOOKS:
+1. Additive Manufacturing Technologies: Rapid Prototyping to Direct Digital
+Manufacturing, Ian Gibson, David W Rosen, Brent Stucker, Springer, 2010
+2. Rapid Prototyping: Principles and Applications, Chua C. K., Leong K. F., and Lim C.
+S., 3rd Edition, World Scientific, 2010
+REFERENCES:
+1. Rapid Prototyping and Engineering Applications: A Toolbox for Prototype
+Development, Liou L. W. and Liou F. W., CRC Press, 2007
+2. Rapid Prototyping: Theory and Practice, Kamrani A. K. and Nasr E. A., Springer,
+2006
+3. Rapid Tooling: Technologies and Industrial Applications, Hilton P. D. and Jacobs P.
+F., CRC Press, 2000
+4. Rapid Prototyping, Gebhardt A., Hanser, Gardener Publications, 2003
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. L T/P/D C
+3 0 3
+(A19OE1EC09) EMBEDDED SYSTEMS FOR IOT
+COURSE PRE-REQUISITES: Programming through C
+COURSE OBJECTIVES:
+• To understand the basics of computing with Embedded Systems
+• To expose the students to various smart sensors
+• To make the students familiar with the programming concepts of Embedded
+development board
+• To understand the basics of Internet of Things and Cloud of things
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Familiar with architectural and programming issues of Embedded Systems
+CO-2: Able to select proper smart Sensor for a specific measurement application
+CO-3: Analyze various protocols for Internet of Things
+CO-4: Apply Internet of Things to different applications in the real world
+UNIT – I:
+Embedded System Design: Numbering and Coding Systems, Digital Premier, Inside the
+Computer
+Embedded system - Definition, Characteristics of embedded computing applications,
+Design challenges, Requirements, Specification, Architecture design, Designing
+hardware and software components, system integration.
+UNIT – II:
+Smart Sensors & Applications: Introduction, Primary Sensors, Excitation, Amplification,
+Filters, Converters, Compensation, Information Coding/Processing, Data
+Communication, Standards for Smart Sensor Interface, the Automation.
+UNIT – III:
+Sensors Applications: Introduction, On-board Automobile Sensors (Automotive
+Sensors), Home Appliance Sensors, Aerospace Sensors, Sensors for Manufacturing,
+Sensors for environmental Monitoring.
+UNIT – IV:
+Micro Controller Board: Features of Arduino, Arduino components and IDE,
+Interfacing: Seven Segment Display, Pulse Width Modulation, Analog Digital
+Converter, Wireless connectivity to Arduino. Case study: From BT To WiFi: Creating WiFi
+Controlled Arduino Robot Car.
+UNIT – V:
+Introduction to Internet of Things: Definition and Characteristics of IoT, Physical Design
+of IoT, Logical Design of IoT, IoT enabled Technologies – Wireless Sensor Networks,
+Cloud Computing, Big data analytics, Communication protocols, Embedded
+Systems, IoT Levels and Deployment Templates, M2M, IoT vs M2M.
+UNIT – VI:
+Domain Specific Applications of IoT: IoT Design Methodology, Applications of IoT–
+Home, Health, Environment, Energy, Agriculture, Industry and Smart City.
+TEXT BOOKS:
+1. The 8051 Microcontroller: Programming, Architecture, Ayala & Gadre, 3rd Edition,
+Cengage Publications, 2008
+2. Sensors and Transducers, D. Patranabis, 2nd Edition, PHI Learning Private Limited,
+2013
+3. Internet of Things: A Hands-On Approach, Vijay Madisetti, Arshdeep Bahga,
+Universities Press, 2015
+REFERENCES:
+1. Embedded Systems: Architecture, Programming and Design, 2nd Edition, TMH
+2. The 8051 Microcontroller and Embedded Systems: Using Assembly and C,
+Muhammad Ali Mazidi, Janice Gillispie Mazidi, Rolin D. McKinlay, 2nd Edition, 2005
+3. Internet of Things with Raspberry Pi and Arduino, Singh, R., Gehlot, A., Gupta, L.,
+Singh, B., Swain, M., Boca Raton, CRC Press, 2020
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. L T/P/D C
+3 0 3
+(A19OE1CS09) ARTIFICIAL INTELLIGENCE – A BEGINNER’S GUIDE
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To understand and analyze the basic concepts of artificial intelligence
+• To identify, explore the complex problem-solving strategies and approaches
+• To analyze the concepts of basic concepts of neural networks and learning
+process
+• To explore and analyze the methodology used in machine learning and computer
+vision
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand and apply the basic concepts of artificial intelligence and its use
+cases. lives
+CO-2: Explore the various search strategies and approaches for problem solving
+CO-3: Correlate the fields related to AI, and articulate various learning paradigms
+CO-4: Describe several issues and ethical concerns surrounding AI
+UNIT – I:
+Introduction to AI: What is AI-On Overview, History of AI, Applications and Examples of
+AI, AI Concepts, Terminology, Key fields of AI. AI Issues, Concerns, and Ethical
+Considerations.
+UNIT – II:
+AI as Search Process: On overview of Search Strategy. Types of Searches- Uninformed,
+Informed, Bidirectional search, Heuristic search. Local search, Local beam search,
+Adversarial Search.
+UNIT – III:
+AI as Knowledge Exploration: Introduction to Propositional Logic, Rules of Inference,
+First Order Logic (FOL) Syntax, Semantics, Entailment, Tools to represent knowledge.
+UNIT – IV:
+AI as a Learning Task: Introduction to Learning, Learning types -Supervised,
+Unsupervised, Reinforcement Learning, Machine learning, Deep Learning, The link
+between AI, ML, DL.
+UNIT – V:
+AI as Neural Networks: Introduction to biological neural networks. Link between
+biological neuron and artificial neuron. Architecture of artificial neural network, Types
+of Neural networks-single layer, multilayer, Back propagation networks.
+UNIT – VI:
+The Future of AI: Computer Vision - Seeing the World Through AI, Bots - Conversation
+as a Platform, AI and the society, AI in action-the Use Cases, Building AI Projects.
+TEXT BOOKS:
+1. Artificial Intelligence: A Modern Approach, Stuart Russell and Peter Norvig, 3rd
+Edition, Prentice Hall, 2010
+2. Machine Learning, Tom M. Mitchell, M. C. Graw Hill Publications
+3. Neural Networks-A Comprehensive Foundation, Simon Haykin, 2nd Edition, Pearson
+Education, 2004
+REFERENCES:
+1. Artificial Intelligence, Elaine Rich & Kevin Knight, 2nd Edition, TMH
+2. Artificial Intelligence, A New Synthesis, Nils J. Nilsson, Elsevier
+3. Artificial Neural Networks, Yegnanarayana B., PHI
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. L T/P/D C
+3 0 3
+(A19OE1CS10) BLOCKCHAIN TECHNOLOGY ESSENTIALS
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To introduce and get the technological overview of blockchain technologies
+• To study the foundation of Blockchain Technology and demonstrate the various
+types of Blockchain
+• To explore the application area of Blockchain Technology
+• To introduce smart contract, consensus algorithm and Security Mechanism
+• Introduction to available platforms to implement Blockchain Technology
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand and explore the Blockchain Technology
+CO-2: Describe smart contract concepts
+CO-3: Explore different types of Blockchain
+CO-4: Develop the platforms to implement Blockchain Technology
+UNIT – I:
+Fundamental of Blockchain Part I: Introduction to Centralized, Decentralized and
+Distributed system, computer network peer to peer connection
+Fundamental of Blockchain Part II: History of Blockchain, Various technical definitions
+of Blockchain. Generic elements of a blockchain: Block, Transaction, Node, Why It’s
+Called “Blockchain”, Characteristics of Blockchain Technology, Advantages of
+blockchain technology, Limitations of blockchain as a technology
+UNIT – II:
+Concept of Blockchain Technology Part I: Applications of blockchain technology, Tiers
+of blockchain technology Blockchain 0, Blockchain 1, Blockchain 2, Blockchain 3,
+Generation of Blockchain X, smart contract
+Concept of Blockchain Technology Part II: Types of blockchain: Public blockchain,
+private blockchain, hybrid blockchain, examples of Public, private, hybrid blockchain
+and it merit and demerit.
+UNIT – III:
+Technical Foundations Part I: Component of block, Structure of Block chain, Technical
+Characteristics of the Blockchain, genesis block, Nonce
+Technical Foundations Part II: Cryptography, Hashing, Distributed database,
+Consensus mechanisms, and basic of Cryptographic primitives, Technical
+Characteristics of Secure Hash Algorithms (SHA), Digital signature.
+UNIT – IV:
+Consensus Algorithm: Proof of work (PoW), Proof-of-Stake (PoS), Byzantine Fault
+Tolerance (BFT), Proof of authority (PoA), Confidentiality, Integrity, Authentication,
+Permissioned ledger, Distributed ledger, Shared ledger, Fully private and proprietary
+blockchains, Tokenized blockchains, Tokenless blockchains, CAP theorem and
+blockchain
+UNIT – V:
+E-Governance and other contract enforcement mechanisms, Financial markets and
+trading, Trading, Exchanges, Trade life cycle, Order anticipators, Market manipulation.
+Crypto Currency: Bitcoin, Bitcoin definition, Keys and addresses, Public keys in Bitcoin,
+Private keys in Bitcoin, Bitcoin currency units
+UNIT – VI:
+Implementation Platforms: Hyperledger as a protocol, Reference architecture,
+Hyperledger Fabric, Transaction Flow, Hyperledger Fabric Details, Fabric Membership,
+Fabric Membership
+TEXT BOOKS:
+1. Mastering Blockchain, Imaran Bashir, 2nd Edition, Packt
+2. Blockchain Basic, Daniel Drescher, A Press
+REFERENCES:
+1. Blockchain For Dummies®, IBM Limited Edition, John Wiley & Sons, Inc
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. L T/P/D C
+3 0 3
+(A19OE1EI05) FUNDAMENTALS OF ROBOTICS AND DRONES
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To classify based on coordinate system and control system
+• To acquire knowledge on different types of Power Sources and Sensors
+• To classify different types of Manipulators, Actuators and Grippers
+• To acquire knowledge on kinematics and Vision systems used for different Robots
+• To acquire knowledge on the basics of Drones
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Acquire knowledge on different types of Power Sources (actuators) and
+Sensors, Manipulators, Actuators and Grippers
+CO-2: Acquire knowledge on different applications of various types of robots
+CO-3: Analyze the direct and the inverse kinematic problems and calculate the
+manipulator dynamics
+CO-4: Acquire knowledge on the applications of Machine Vision in Robotics
+CO-5: Acquire Knowledge on the basics of Drones
+UNIT – I:
+Basic Concepts & Fundamentals: An overview of Robotics, classification of Robots,
+Robot Components, Robot degrees of freedom, Robot Joints, Robot Coordinates,
+Robot reference frames, Programming modes, Robot Characteristics.
+UNIT – II:
+Sensors and Actuators:
+Sensors: Sensors characteristics, Position sensors, velocity sensors, acceleration sensors,
+torque sensors, micro switches, lighten infrared sensors, touch and tactile sensors,
+proximity sensors, range finders.
+Actuators: Characteristics of activating system, comparison of activating system
+Hydraulic devices, Pneumatic devices, electric motors, magneto-strictive actuators.
+UNIT – III:
+Manipulators and Grippers:
+Grippers: Robot end effectors, Classification, drive system for Gripper, Mechanical
+Grippers, Magnetic Grippers, Vacuum Grippers, Adhesive Grippers, Hooks, Scoops
+and other Miscellaneous Devices, Gripper force Analysis and Gripper Design, Active
+and passive Grippers.
+UNIT – IV:
+Kinematics: Matrix representation of translational and Rotational motion –
+Homogeneous Transformation-DH representation of standard configuration Robots-
+Inverse Kinematics. Joint space vs. Cartesian space-Basics of Trajectory planning in
+joint and Cartesian space.
+UNIT – V:
+Robot Vision: Low level and High-level vision, Image acquisition, Illumination
+Techniques, Imaging Geometry, Some Basic Relationships between Pixels,
+Segmentation, Description, Segmentation and Description of 3-D Structures,
+Recognition, Interpretation.
+UNIT – VI:
+Basics of Drones: Theory behind how drones work, individual components that
+makeup a drone, basic concepts involved radio-controlled model flying, building a
+complete quad copter drone from scratch
+TEXT BOOKS:
+1. Introduction To Robotics: Analysis, Control, Applications, Wiley, Saeed B. Niku, 2nd
+Edition
+2. Industrial Robotics, Technology Programming and Applications, Mikell P. Groover,
+Nicholas G Odrey, Mitchel Weiss, Roger N. Nagel, Ashish Dutta, McGraw Hill, 2012
+REFERENCES:
+1. Robotics Technology and Flexible Automation, Deb S. R., John Wiley
+2. Robots and Manufacturing Automation, Asfahl C. R., John Wiley
+3. Robotic Engineering–An Integrated Approach, Klafter R. D., Chimielewski T. A.,
+Negin. M, Prentice Hall of India, New Delhi
+4. Drones for Beginners, Udemy
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. L T/P/D C
+3 0 3
+(A19OE1IT08) FUNDAMENTALS OF CYBER SECURITY
+COURSE PRE-REQUISITES: Basic Knowledge of Computers, Basic Knowledge of
+Networking and Internet
+COURSE OBJECTIVES:
+• To identify the key components of cyber security in network
+• To describe the techniques in protecting Information security
+• To define types of analyzing and monitoring potential threats and attacks
+• To access additional external resources to supplement knowledge of cyber
+forensics and laws
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand, appreciate, employ, design and implement appropriate security
+technologies
+CO-2: Demonstrate policies to protect computers and digital information
+CO-3: Identify & Evaluate Information Security threats and vulnerabilities in Information
+Systems
+CO-4: Understanding computer forensics and analyzing them
+UNIT – I:
+Introduction to Cybersecurity: Cybersecurity objectives, Cybersecurity roles,
+Differences between Information Security & Cybersecurity, Cybersecurity Principles -
+Confidentiality, integrity, & availability, Authentication & nonrepudiation, The Trinity of
+IT Security (CIA), Computer Protocols, Cookies, The TCP/IP
+UNIT – II:
+Who are the cyber criminals, Classification of cybercrimes, E-mail Spoofing,
+Spamming, Cyber defamation, Internet Time Theft, Salami Attack/ Salami Technique,
+Data Diddling, Forgery, Web Jacking, Newsgroup Spam/ Crimes Emanating from
+Usenet Newsgroup, Industrial Spying/Industrial Espionage, Hacking, Online Frauds,
+Pornographic Offenses, Software Piracy, Computer Sabotage, E-mail Bombing/Mail
+Bombs, UseNet Newsgroup as the Source of Cybercrimes, Computer Network
+Intrusions, Password Sniffing, Credit Card Frauds, Identity Theft.
+UNIT – III:
+Cyber Offenses: How Criminals Plan Them: Introduction, Categories of Cybercrime,
+How Criminals Plan the Attacks, Reconnaissance, Passive Attacks, Active Attacks,
+Scamming and Scrutinizing Gathered Information, Attack (Gaining and Maintaining
+the System Access), Social Engineering, Classification of Social Engineering, Cyber
+stalking, Types of Stalkers, Cases Reported on Cyber stalking, How Stalking Works?,
+Real-Life Incident of Cyber stalking, Cyber cafe and Cybercrimes,
+UNIT – IV:
+Security Threats: Introduction to security threats-Virus, Worms, Trojan horse, Bombs,
+Trap Door, E-Mail Virus, Virus Life cycle, How virus works?, Malware, Network and
+Services attack- Dos attacks, Types of Dos attacks, Methods of attacks, Examples of
+attacks-SYN flooding, TCP flooding ,UDP flooding ,ICMP flooding ,Smurf, Ping of death,
+Tear drop, Security threats to E-commerce-Electronic payment system, Credit
+card/Debit cards, Smart cards, E- money, Electronic Fund Transfer, E-commerce
+security System, Electronic Cash, Digital Signatures
+UNIT – V:
+Introduction to Computer Forensics: computer crimes, evidence, extraction,
+preservation, etc. Overview of hardware and operating systems: structure of storage
+media/devices; windows/Macintosh/ Linux -- registry, boot process, file systems, file
+metadata. Data recovery: identifying hidden data, Encryption/Decryption,
+Steganography, recovering deleted files. Digital evidence controls: uncovering
+attacks that evade detection by Event Viewer, Task Manager, and other Windows
+GUI tools, data acquisition, disk imaging, recovering swap files, temporary &cache
+files, Computer Forensic tools, Network Forensic. Computer crime and Legal issues:
+Intellectual property, privacy issues, Criminal Justice system for forensic,
+audit/investigative situations and digital crime scene, investigative
+procedure/standards for extraction, preservation, and deposition of legal evidence
+in a court of law.
+UNIT – VI:
+Fundamentals of Cyber Law: Evolution of the IT Act, Genesis and Necessity , Salient
+features of the IT Act, 2000, various authorities under IT Act and their powers, Penalties
+& Offences, amendments, Impact on other related Acts Cyber Space Jurisdiction -
+Jurisdiction issues under IT Act, 2000- Traditional principals of Jurisdiction - Extra-
+terrestrial Jurisdiction- Case Laws on Cyber Space Jurisdiction Sensitive Personal Data
+or Information (SPDI) in Cyber Law (a) SPDI Definition and Reasonable Security
+Practices in India (b) Reasonable Security Practices – International perspective
+TEXT BOOKS:
+1. Cyber Security- Understanding Cyber Crimes, Computer Forensics and Legal
+Perspectives, Nina Godbole and Sunit Belpure, Wiley
+2. Fundamentals of Cyber Security, Mayank Bhusan, Rajkumar Singh Rathore, Aatif
+Jamshed, BPB Publications
+3. Cyber Law & Cyber Crimes, Advocat Prashant Mali, Snow White Publications,
+Mumbai
+REFERENCES:
+1. Computer Forensics and Cyber Crime: An Introduction, Marjie T. Britz, 3rd Edition,
+2013
+2. Digital Forensics with Open-Source Tools. Cory Altheide and Harlan Carvey,
+Elsevier, 2011(ISBN: 978-1-59749- 586-8)
+3. Network Forensics: Tracking Hackers Through Cyberspace, Sherri Davidoff,
+Jonathan Ham Prentice Hall, 2012
+4. Cyber Law in India, Farooq Ahmad, Pioneer Books
+5. Information Technology Law and Practice, Vakul Sharma, Universal Law Publishing
+Co. Pvt. Ltd
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. L T/P/D C
+3 0 3
+(A19OE1IT09) FUNDAMENTALS OF DATA SCIENCE
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To learn concepts, techniques and tools they need to deal with various facets of
+data science practice, including data collection and integration
+• To explore data analysis, predictive modeling, descriptive modeling, data product
+creation, evaluation, and effective communication
+• To understand the basic knowledge of algorithms and reasonable programming
+experience and some familiarity with basic linear algebra and basic probability
+and statistics
+• To identify the importance of recommendation systems and data visualization
+techniques
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand basic terms what Statistical Inference means. Identify probability
+distributions commonly used as foundations for statistical modeling. Fit a model to
+data
+CO-2: Discuss the significance of exploratory data analysis (EDA) in data science and
+to apply basic tools (plots, graphs, summary statistics) to carry out EDA
+CO-3: Apply basic machine learning algorithms and to identify common approaches
+used for Feature Generation
+CO-4: Analyze fundamental mathematical and algorithmic ingredients that
+constitute a Recommendation Engine and to Build their own recommendation system
+using existing components
+UNIT – I:
+Introduction: What is Data Science? - Big Data and Data Science hype – and getting
+past the hype - Why now? – Datafication - Current landscape of perspectives - Skill
+sets needed - Statistical Inference - Populations and samples - Statistical modeling,
+probability distributions, fitting a model - Intro to R
+UNIT – II:
+Exploratory Data Analysis and the Data Science Process - Basic tools (plots, graphs
+and summary statistics) of EDA - Philosophy of EDA - The Data Science Process - Case
+Study: Real Direct (online real estate firm) - Three Basic Machine Learning Algorithms-
+Linear Regression - k-Nearest Neighbors (k-NN) - k-means
+UNIT – III:
+One More Machine Learning Algorithm and Usage in Applications - Motivating
+application: Filtering Spam - Why Linear Regression and k-NN are poor choices for
+Filtering Spam - Naive Bayes and why it works for Filtering Spam
+UNIT – IV:
+Data Wrangling: APIs and other tools for scrapping the Web - Feature Generation and
+Feature Selection (Extracting Meaning From Data) - Motivating application: user
+(customer) retention - Feature Generation (brainstorming, role of domain expertise,
+and place for imagination) - Feature Selection algorithms – Filters; Wrappers; Decision
+Trees; Random Forests
+UNIT – V:
+Recommendation Systems: Building a User-Facing Data Product - Algorithmic
+ingredients of a Recommendation Engine - Dimensionality Reduction - Singular Value
+Decomposition - Principal Component Analysis - Exercise: build your own
+recommendation system - Mining Social-Network Graphs - Social networks as graphs
+- Clustering of graphs - Direct discovery of communities in graphs - Partitioning of
+graphs - Neighbourhood properties in graphs
+UNIT – VI:
+Data Visualization: Basic principles, ideas and tools for data visualization 3 - Examples
+of inspiring (industry) projects - Exercise: create your own visualization of a complex
+dataset - Data Science and Ethical Issues - Discussions on privacy, security, ethics - A
+look back at Data Science - Next-generation data scientists
+TEXT BOOKS:
+1. Doing Data Science, Straight Talk From The Frontline. Cathy O’Neil and Rachel
+Schutt, O’Reilly, 2014
+2. Mining of Massive Datasets v2.1, Jure Leskovek, Anand Rajaraman and Jeffrey
+Ullman, Cambridge University Press, 2014
+3. Machine Learning: A Probabilistic Perspective, Kevin P. Murphy, 2013 (ISBN
+0262018020)
+REFERENCES:
+1. Elements of Statistical Learning, Trevor Hastie, Robert Tibshirani and Jerome
+Friedman, 2nd Edition, 2009 (ISBN 0387952845)
+2. Foundations of Data Science, Avrim Blum, John Hopcroft and Ravindran Kannan
+3. Data Mining and Analysis: Fundamental Concepts and Algorithms, Mohammed J.
+Zaki and Wagner Miera Jr. Cambridge University Press, 2014
+4. Data Mining: Concepts and Techniques, Jiawei Han, Micheline Kamber and Jian
+Pei, 3rd Edition, 2011 (ISBN 0123814790)
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. L T/P/D C
+3 0 3
+(A19OE1AE05) INTRODUCTION TO ADVANCED VEHICLE TECHNOLOGIES
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To understand the layout of an automobile and functionalities chassis elements
+• To provide the concepts of automotive electrical systems and electric & hybrid
+vehicles
+• To present various intelligent automotive systems and levels of vehicle autonomy
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Explain the functionalities of automotive systems and subsystems
+CO-2: Discuss the concepts of automotive electrical systems and electric & hybrid
+vehicles
+CO-3: Describe various intelligent automotive systems and levels of vehicle autonomy
+UNIT – I:
+Introduction: Classification of automobiles, layout of an automobile and types of
+bodies.
+Automotive Chassis: Introduction to chassis systems - engine, cooling, lubrication, fuel
+feed, ignition, electrical, driveline - clutch, transmission, propeller shaft, differential,
+axles, wheels and tyres, steering, suspension and braking.
+UNIT – II:
+Engine: Working principle of four stoke and two stroke SI and CI engines, fuel system –
+layout of petrol and diesel fuel systems, electronic fuel injection - multi-point fuel
+injection, gasoline direct injection, common rail direct injection.
+UNIT – III:
+Electrical System: Simple automotive wiring diagram and components of electrical
+system, starting system – starter circuit, standard Bendix and over running clutch drive,
+charging system – alternator, cut-outs and regulators, ignition system - conventional
+and electronic ignition system.
+UNIT – IV:
+Electric and Hybrid Vehicles: Electric vehicle – Layout, components, configurations,
+advantages and limitations. Hybrid vehicle - Concepts of hybrid electric drivetrain
+based on hybridization and powertrain configuration, architecture of series, parallel
+and series-parallel hybrid electric drivetrains, modes of operation, merits and demerits.
+UNIT – V:
+Intelligent Vehicle Systems: Automotive navigation, night vision, head-up display,
+airbag, seat belt tightening system, immobilizers, adaptive cruise control, forward
+collision warning, lane departure warning and anti-lock braking system.
+UNIT – VI:
+Autonomous Vehicles: Levels of automation, research, challenges, commercial
+development, sensor systems, sensor suits, environmental challenges, graceful
+degradation, V2V and V2I communication, sharing the drive, integrity, security,
+verification and policy implications.
+TEXT BOOKS:
+1. Advanced Vehicle Technology, Heinz Heisler, Butterworth Heinemann, 2002
+2. Intelligent Vehicle Technologies: Theory and Applications, Ljubo Vlacic, Michel
+Parent and Fumio Harashima, Butterworth-Heinemann, Oxford, 2001
+3. Modern Electric, Hybrid Electric and Fuel Cell Vehicles: Fundamentals, Theory and
+Design, Mehrdad Ehsani, Yimin Gao, Sebastien E. Gay and Ali Emadi, CRS Press,
+2004
+REFERENCES:
+1. Automotive Mechanics, Giri N. K., Khanna Publications, 2006
+2. Automotive Electrical Equipment, Kohli P. L., Tata McGraw Hill Co., Ltd., New Delhi,
+1975
+3. Electric and Hybrid Vehicles – Design Fundamentals, Iqbal Husain, CRC Press, 2010
+4. Autonomous Vehicle Technology-A Guide for Policymakers, James M. Anderson,
+Nidhi Kalra, Karlyn D. Stanley, Paul Sorensen, Constantine Samaras, Oluwatobi A.
+Oluwatola, RAND Corporation, Santa Monica, Calif., 2016

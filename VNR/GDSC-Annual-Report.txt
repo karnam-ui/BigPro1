@@ -1,0 +1,726 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/csedept/GDSC-Annual-Report.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+0
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+ANNUAL REPORT 2023-2024
+TABLE OF CONTENTS
+1. Cloud Skill Challenge .................................................................................................................... 1
+2. Flutter Workshop ................................................................................................... 5
+3. ISD’23-Innovation, Startups and Data Security ..................................................11
+4. Campus automation ..............................................................................................17
+5. Solution Challenge 2024 ......................................................................................24
+6. VNR Designathon ...............................................................................................29
+7. Webathon 2.0 .......................................................................................................34
+8.Team GDSC 2023-24 ...........................................................................................39
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+1. Cloud Skill Challenge
+Date: 28th September 2023 to 2nd October 2023
+Venue: VNRVJIET
+Description:
+The Cloud Skill Challenge, held at VNRVJIET, offered participants a comprehensive immersion into
+the dynamic realm of cloud computing. Featuring a diverse array of tracks such as Data Analytics,
+Kubernetes, ML and AI, and Native App Development, this event served as a pivotal platform for
+individuals keen on advancing their prowess in cloud technologies.
+Objectives:
+The overarching goal of the Cloud Skill Challenge was to effectively tackle the pressing demand for
+proficient cloud computing practitioners in today's industry landscape. With an overwhelming 86% of
+IT leaders expressing apprehensions regarding the scarcity of cloud skills, this initiative was strategically
+crafted to bridge this gap. By providing participants with hands-on experience and sought-after
+certifications in Google Cloud technologies, the challenge aimed to empower individuals with the
+requisite expertise to navigate and excel in cloud-centric roles. Through a series of meticulously curated
+labs and final challenge tasks, participants were guided to refine their competencies across various facets
+of cloud computing, encompassing crucial domains like data analytics, infrastructure management,
+machine learning, and application development.
+Beneficiaries:
+The Cloud Skill Challenge unfolded as a catalyst for multifaceted benefits, enriching the lives of
+participants and stakeholders alike. Notably, 41 individuals emerged triumphant, having successfully
+completed the challenge and earned esteemed Google Cloud skill badges, emblematic of their
+proficiency in cloud technologies. Beyond individual achievements, the event yielded institutional
+accolades, propelling GDSC VNRVJIET to Tier 3 status. This significant milestone underscored the
+1
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+institution's unwavering commitment to nurturing technological excellence and equipping its student
+community with cutting-edge skills. Moreover, the broader impact extended to the cultivation of a
+vibrant ecosystem of tech enthusiasts, fostering collaboration, innovation, and collective growth within
+the academic and professional spheres.
+Metrics:
+Total participants enrolled: 213
+Correctly enrolled participants: 210
+Google Cloud Computing Foundations completed: 45
+Course completions: 58
+Gen AI Arcade Game completions: 58
+Incorrect applications: 3
+Participants completing both pathways: 41
+Special recognition to GDSC VNRVJIET for reaching Tier 3 in the campaign milestones!
+Participants:
+Student Name Student Email
+Keerthika Goli keerthikagoli0810@gmail.com
+Addagalla Purandhar sai purandharsai007@gmail.com
+Vellanki Chenchu Dedeepya dedeepyavellanki@gmail.com
+Salsabil Shehnaz shehnaz70804@gmail.com
+MURALA VENKATA SIVA SURYA suryamurala369@gmail.com
+SAI VARSHITH MANNEPALLI mannepallisaivarshith@gmail.com
+2
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+Veeturi Harini veeturikhushi@gmail.com
+DOGIPARTHI AKSHAY KUMAR akshaykumardogiparthi0208@gmail.com
+Mohanavamshi Devulapally mohanavamshi03@gmail.com
+ARIKANTI RUTHVIKA ruthvika12637@gmail.com
+A.Sreenidhi angadisreenidhi@gmail.com
+Pranitha Varakantham pranithareddy160805@gmail.com
+Tummala Viswa Prateek viswaprateek248@gmail.com
+DARIPELLY VINAY daripellyvinay@gmail.com
+Tadikamalla Adithya Sai Ram adithyasairam19@gmail.com
+CHIGURUPATI AKHIL SAI CHARAN akhil639charan@gmail.com
+Pulluru Satwik satwik3579@gmail.com
+Indupriya Vempati vempatiindupriya@gmail.com
+Kotagiri Roshini roshinikotagiri@gmail.com
+Bharath Ajjarapu itsbharathajjarapu@gmail.com
+Locula Shravika shravikalocula123@gmail.com
+Mathi Rohit 1739153rohitm@gmail.com
+3
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+Tanmayee Kyram tanmayeekyram@gmail.com
+Addanki Madhav Sarma a.madhavsarma@gmail.com
+Aashritha Raj Poshaboina aashritharaj26@gmail.com
+Siddoju Mayan Brahmam siddojumayanbrahmam@gmail.com
+Battina Naga Sai Kiran battinans@gmail.com
+Pasupuleti Harshitha 21071a05h1@vnrvjiet.in
+Meghana Vaddepally meghanavaddepally0316@gmail.com
+Cheerla Uday Sagar udaysagar.mail@gmail.com
+Thumu Meghana meghanathumu0412@gmail.com
+Bathula Sri Lasya srilasya975@gmail.com
+Modala Poojitha poojithamodala26@gmail.com
+Ajimera Abhinav chantinayak5213@gmail.com
+KUCHARLAPATI ANUSHA anush.varma05@gmail.com
+Mandan Sanjay msanjayy77@gmail.com
+M.Nithyasri Reddy nithyasrireddy129@gmail.com
+Dannayak Naga Vaishnavi dnvaishnavi5@gmail.com
+4
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+Madhurisha. V vmadhurisha99@gmail.com
+Srihas Sampelly srihassampelly@gmail.com
+Gounikadi Udhay yadav g.udhayyadav9542@gmail.com
+1. 2. Flutter Workshop
+Date: 14th -15th December 2023
+Timings: 10:00 am-3:00 pm
+Venue: KS Auditorium (14th December) PEB-01 Seminar Hall (15th December)
+Description:
+5
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+Flutter is an open-source UI software development toolkit created by Google. It is used to build natively
+compiled applications for mobile, web, and desktop from a single codebase. Flutter uses the Dart
+programming language and provides a rich set of pre-designed widgets, making it easier for developers
+to create visually appealing and high-performance applications. During development, Flutter apps run
+in a VM that offers a stateful hot reload of changes without needing a full recompile. For release, Flutter
+apps are compiled directly to machine code, whether Intel x64 or ARM instructions or to JavaScript if
+targeting the web. The framework is open source, with a permissive BSD license, and has a thriving
+ecosystem of third-party packages that supplement the core library functionality.
+During Convergence 2k23R, we Team GDSC (Google Developer Student Club) organized a FLUTTER
+workshop, to enhance the knowledge of students in the field of App development. We had distinguished
+speakers from the Hyderabad Flutter Community, Vaishnavi and Mintu who interacted and imparted
+knowledge into the minds of aspiring engineers. It was a two-day session which included both theory
+and hands-on sessions. The participants were very enthusiastic and interactive, they learnt new concepts
+and asked and clarified doubts which also created interest in speakers for imparting more information.
+OBJECTIVES:
+1.Introduction to Flutter: Provide participants with a basic understanding of what Flutter is, its key
+features, and how it differs from other frameworks for building mobile, web, and desktop applications.
+2.Hands-on Experience: Offer participants a hands-on experience with Flutter development. This
+often includes setting up the development environment, creating a simple Flutter project, and writing
+code to build a basic app.
+6
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+3.Understanding Widgets: Teach participants about Flutter's widget-based architecture. Cover the
+basics of working with widgets, creating custom widgets, and understanding the widget tree.
+4.State Management: Introduce participants to various state management solutions in Flutter. Discuss
+the importance of managing the state effectively and the different approaches.
+5.UI Design with Flutter: Demonstrate how to design and build user interfaces using Flutter's rich set
+of pre-designed widgets. Discuss styling and theming.
+OUTCOMES:
+1.Dart Programming Language: Flutter apps are written using the Dart programming language. Dart
+is a modern, object-oriented language with a syntax that is easy to learn for developers coming from
+languages like Java, JavaScript, or C#.
+2.Widget-based Framework: Flutter uses a widget-based architecture. Everything in Flutter is a
+widget, whether it's a button, a layout, or an entire screen. Widgets are the basic building blocks of
+Flutter applications.
+3.Cross-Platform Development: Flutter supports cross-platform development. This can save
+development time and resources compared to building separate native apps.
+4.Best Practices: The speakers shared best practices for Flutter development, including code
+organization, project structure, and writing clean and maintainable code.
+5.Community and Resources: Informed participants about the Flutter community, online resources,
+and tools available for continuous learning and development.
+6.Q&A: They encouraged interaction among participants by providing opportunities for questions.
+7
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+Poster For Promotions:
+8
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+9
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+10
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+3. ISD’23-Innovation, Startups and Data Security
+PANEL DISCUSSION
+(ECFICIO’23)
+Date: 15th December 2023
+Timings: 10:00 am -1:00 pm
+Venue: KS Auditorium (15th December)
+Description:
+The Google Developer Student Club (GDSC) of VNRVJIET in collaboration with prominent industry
+leaders and experts, organized a focused panel discussion during Ecficio’23 on the 15th of December.
+The session addressed the crucial topic of "Transforming the Mindset of Engineering Students:
+11
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+Preparing for a Future Shaped by AI." Subtopics included nurturing creativity, problem-solving, and
+design thinking skills, equipping students for an AI-driven workforce, and fostering a culture of
+innovation and entrepreneurship among engineering students.
+Panel Members:
+During Ecficio 2k23R, Team GDSC (Google Developer Student Club) organized a Panel Discussion
+“ISD’23”.We had the privilege of hosting a distinguished panel of experts who shared their insights and
+experiences.
+● Nandita Sethi:
+Founder and Managing Director, The Entrepreneur Zone (TEZ)
+Expertise: Business analysis, leadership development, and international economics.
+● Yugandhar Penubolu:
+Co-Founder of 247HRM
+Expertise: Human Resources, HR transformation, and employee engagement.
+● Madhu Vadlamani:
+Data Science and Business Analytics Professional
+Expertise: Data science, business analytics, and IT/digital marketing.
+● Venkata Subramanyam:
+Founder, Atomstate
+Expertise: Business strategies, deep tech, cloud computing, and agile transformation.
+Moderator:
+● Shanti Devulapalli
+Associate Director of Innovation Initiatives, HYSEA
+Expertise: Innovation initiatives, technology adoption, and diversity in IT.
+OBJECTIVES:
+12
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+1. Promoting Innovation: Foster an understanding of the significance of innovation in engineering
+education, emphasizing creativity, problem-solving, and design thinking as crucial components.
+2. Preparing Students for an AI-Driven Future: Educate participants on the importance of AI in
+shaping the future job market, and equip them with insights into the skills and mindset required to thrive
+in an AI-centric workforce.
+3. Cultivating Entrepreneurial Mindsets: Encourage a culture of entrepreneurship among
+engineering students by discussing the essentials of startups, highlighting successful models, and
+providing insights into entrepreneurial challenges.
+4. Addressing Data Security Concerns: Raise awareness about the criticality of data security in
+innovation and startups, emphasizing best practices, ethical considerations, and measures to protect
+sensitive information.
+5. Encouraging Collaborative Learning: Foster an environment that encourages collaborative
+learning and networking among attendees to share experiences, insights, and potential opportunities for
+future collaborations.
+OUTCOMES:
+1.Increased Awareness and Understanding: Participants gained a deeper understanding of the
+importance of innovation, AI, and data security in engineering education and the professional landscape.
+2.Enhanced Skill Sets: Attendees developed enhanced problem-solving, creativity, and design-thinking
+skills essential for adapting to an AI-driven future workforce.
+3.Inspired Entrepreneurial Spirit: Increased motivation and interest among students to explore
+entrepreneurship and startup initiatives, equipped with insights from successful models and challenges
+faced.
+4.Heightened Awareness of Data Security: Attendees became more conscious and knowledgeable
+about data security concerns, understanding the significance of ethical data handling in their future
+endeavors.
+13
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+5.Established Networking and Collaboration: Facilitated connections among participants, enabling
+them to forge collaborations, share ideas, and potentially lay the groundwork for future pryojects or
+initiatives.
+POSTER FOR PROMOTIONS:
+14
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+15
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+16
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+17
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+4. Campus Automation Contest
+Date: 14th -15th December 2023
+Timings: 10:00 am - 5:00 pm
+Venue: A-012, B114, B314, C105
+Description:
+The Campus Automation Contest is a dynamic event poised to revolutionize the way we envision and
+enhance campus life through technology. This hackathon serves as a collaborative platform, bringing
+together innovative minds to address challenges and explore opportunities in automating various aspects
+of campus operations. The goal is to empower participants to create solutions that contribute to a more
+efficient, accessible, and sustainable campus, enriching the overall experience for students, faculty, and
+staff. By implementing campus automation systems, colleges can create a centralized database that
+facilitates easy access to information for both students and administrators.
+During Convergence 2k23R, we Team GDSC (Google Developer Student Club) and CSI (Computer
+Society of India) have organized a CAMPUS AUTOMATION contest, to enhance the knowledge of
+students in the field of integration of technology within the campus to automate it. We had distinguished
+from our college, Dr.P. Bharath Kumar Chowdary Sir, Anil Sir, P.Ramakrishna Sir, and Vijay Kumar
+Sir who interacted and imparted knowledge into the minds of aspiring engineers.
+It was a two-day hackathon. Campus Automation Hackathon was marked by an impressive display of
+enthusiasm and creativity from the participating teams. Focused on addressing campus challenges
+through automation and innovation, the participants brought their A-game to the event. Their
+commitment and energy were evident as they collaboratively worked to develop creative prototypes that
+showcased inventive solutions to streamline campus operations. The hackathon provided a platform for
+diverse talents to converge, fostering an atmosphere of innovation, problem-solving, and knowledge
+18
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+exchange. The prototypes presented not only demonstrated technical prowess but also reflected a keen
+understanding of the campus environment and a commitment to improving it. The event encapsulated a
+dynamic blend of teamwork, creativity, and technological prowess, leaving a lasting impact on the
+campus community and setting the stage for future advancements in campus automation
+Objectives:
+1. Efficiency Improvement: One of the primary objectives of campus automation is to enhance the
+overall efficiency of administrative processes within our college. And develop solutions that automate
+repetitive and time-consuming tasks, reducing manual effort and increasing overall efficiency.
+2. Data Centralization: Campus automation aims to develop solutions that centralize diverse campus
+data sources into a unified repository, facilitating easier management and analysis. Implement systems
+that enable real-time updates to centralized data, reducing delays and providing accurate information to
+users.
+3. Student Service Improvement: Enhance services provided to students, such as course registration,
+grading systems, library services, and student support systems. The goal is to create a more user-friendly
+and efficient experience for students.
+4. Problem Understanding: Ensure participants thoroughly understand the identified campus
+challenges or inefficiencies described in the problem statements. Encourage participants to develop
+creative and innovative solutions that directly address the specific issues outlined in the problem
+statements.
+5. Sustainability Initiatives: The Campus Automation Contest aims to drive sustainability initiatives
+by fostering the development of innovative solutions. Participants are encouraged to focus on optimizing
+energy consumption, implementing waste management strategies, and reducing their carbon footprint.
+6. Accessibility and Inclusion: Participants are encouraged to develop tools that enhance physical
+accessibility and digital accessibility solutions, including inclusive websites and applications, are a
+priority to ensure equitable access to information. It includes the implementation of user-friendly
+interfaces, adherence to accessibility standards, and ongoing user feedback mechanisms, contributing to
+19
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+a campus environment that prioritizes accessibility and inclusion through technology-driven
+innovations.
+OUTCOMES:
+1. Innovative Solutions: The Campus Automation Contest can result in the development of innovative
+solutions that address specific challenges faced by students in the college. These solutions create mobile
+applications offering convenient access to essential campus services, while resource optimization
+systems address energy efficiency and waste management. Community engagement platforms, security
+enhancements, and applications of virtual and augmented reality showcased the hackathon's impact in
+creating a cutting-edge and user-centric campus environment.
+2. Improved Campus Operation: Successful hackathon projects can lead to tangible improvements in
+campus operations, such as optimized resource utilization, streamlined administrative tasks, and
+enhanced communication systems. Communication platforms were revamped, improving collaboration
+and information dissemination among different stakeholders on campus.
+3. Efficient Resource Management: Campus automation optimizes the allocation of resources,
+including classrooms, faculty, and equipment. This efficiency not only saves costs but ensures that
+resources are utilized effectively, contributing to a well-organized and smoothly functioning educational
+institution.
+4. Data-Driven Decision-Making: The Campus Automation Contest produced outcomes that notably
+advanced data-driven decision-making within the campus environment. Participants successfully
+developed solutions that leveraged data analytics to provide valuable insights into various aspects of
+campus life. These solutions enabled administrators to make informed decisions by analyzing trends,
+patterns, and key performance indicators.
+5. Mobile Application for Campus Services: Participants will create mobile applications that offer
+convenient access to campus services, including class schedules, campus maps, and event notifications,
+enhancing the overall user experience. These mobile apps are tailored to enhance the overall experience
+for students, faculty, and staff by providing convenient access to essential services through smartphones.
+20
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+6. Streamlined Administrative Processes: Campus automation simplifies and accelerates
+administrative tasks, such as enrollment, registration, and fee payment. This streamlining not only
+reduces the administrative burden on staff but also improves the accuracy and efficiency of these
+processes, contributing to the overall effectiveness of the educational institution.
+Poster For Promotions:
+21
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+22
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+23
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+24
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+5. Solution Challenge 2024
+Type of event: Hackathon
+Date & Time: 23rd Feb 2024 6:30 PM - 24th Feb 6:30 PM
+Venue: Conducted in virtual mode.
+Description:
+Our GDSC Solution Challenge 2024 is an exciting annual hackathon event orchestrated by Google
+Developer Student Clubs globally. We recently established a GDSC chapter and aspire to introduce and
+perpetuate this tradition within our campus. The main objective of this two-tiered hackathon is to foster
+inclusivity and broad participation, inviting participants from diverse universities and colleges. With a
+collaborative endeavor from developer clubs of four colleges within our vicinity, the event will
+culminate in a grand final hosted within the premises of our institution.
+Objectives:
+Address one or more of the United Nations' 17 Sustainable Development Goals using Google
+technology. Since 2020, participants affiliated with GDSC worldwide have created innovative solutions
+for urgent global challenges. This Hackathon encourages students to pursue solutions and technologies
+used by Google.
+Beneficiaries:
+The annual event focuses on providing significant benefits to participants and stakeholders across
+various domains. One key aspect is skill development and exposure to cutting-edge technologies,
+empowering individuals to enhance problem-solving abilities and stay abreast of industry advancements.
+Additionally, the event actively promotes social responsibility by addressing Sustainable Development
+Goals (SDGs), fostering a sense of community engagement and global citizenship among attendees.
+25
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+Industry engagement is another crucial component, offering participants opportunities for potential
+internships and collaborations with leading organizations. This not only enriches their academic
+experiences but also nurtures practical skills and industry insights. Diverse participation is encouraged
+to foster inclusivity and global perspectives, enriching the event's atmosphere and promoting cross-
+cultural understanding.
+Participation in such events enhances the reputation and visibility of the institution within academic and
+tech communities, positioning it as a hub for innovation and collaboration. Furthermore, the event
+facilitates strong connections with the Google developers' community, providing access to industry-
+relevant courses and certifications offered by Google at no cost. This strategic partnership not only
+enhances skill development but also opens doors to potential career opportunities.
+Moreover, the event offers invaluable networking opportunities with peers from other colleges and
+industry professionals, allowing participants to build meaningful connections and expand their
+professional networks. Overall, the event serves as a catalyst for personal and professional growth,
+empowering participants with essential skills, knowledge, and networks to thrive in today's dynamic and
+competitive landscape.
+26
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+27
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+POSTER FOR PROMOTIONS:
+28
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+29
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+1. 6. VNR DESIGN-A-THON
+(Collaborate share Brainstorm Succeed)
+Type of event: Hackathon
+Date & Time: 1st Mar - 2nd Mar, 2024
+Venue: VNRVJIET
+Description:
+The National Level VNR DESIGN-A-THON (Collaborate share Brainstorm Succeed) was successfully
+hosted by the Department of CSE and CSBS, in association with the Cybersecurity Centre of Excellence
+(CCoE), (A Joint Initiative of DSCI and Govt of Telangana) and in collaboration with CSI SBC
+VNRVJIET, IEEE CS SBC VNRVJIET, Turing Hut, Gama club & Google Developer Student Club, on
+March 1st and 2nd, 2024.
+The hackathon provided a platform for students eager to showcase their skills and fostered a
+collaborative environment where participants could learn from both successes and failures. The event
+aimed to ignite inspiration, stimulate innovation, nurture creativity, and enhance productivity among the
+participating students. It served as a chance for like-minded individuals to come together, exchange
+ideas, and contribute to the advancement of technology and problem-solving in computer science and
+engineering.
+The hackathon was conducted as a 24-hour offline event at VNR VJIET college, where participants
+worked in teams to solve real-world problems using their technical skills and creativity. The event was
+a great success, with students showcasing their talents and skills, and learning from each other.
+30
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+Objective:
+The main objectives of the National Level VNR DESIGN-A-THON were to provide a platform for
+students to demonstrate their skills, foster a collaborative environment, ignite inspiration, stimulate
+innovation, nurture creativity, and enhance productivity among the participating students. The event
+aimed to bring together like-minded individuals to exchange ideas and contribute to the advancement of
+technology and problem-solving in computer science and engineering.
+Problem Statements(Domains):
+1. Cybersecurity
+2. Industry 4.0
+3. Gender Diversity
+4. Sustainability
+5. Education
+Beneficiaries:
+1.Skill Development: Participants gained hands-on experience and practical skills applicable to real-
+world challenges in cybersecurity, industry 4.0, gender diversity, sustainability, and education.
+2.Innovation and Creativity: The hackathon encouraged innovative thinking and creativity by
+providing a platform to solve complex problems using technology.
+3.Collaboration and Networking: Fostered collaboration among students, professionals, and experts
+from various domains, leading to the exchange of ideas and best practices.
+4.Problem-Solving: Participants developed critical problem-solving abilities by tackling challenges
+across diverse domains and learning from both successes and failures.
+5.Promotion of Diversity and Sustainability: Emphasized the importance of gender diversity and
+sustainability within the tech industry, promoting inclusive practices and ethical considerations.
+6.Career Opportunities: Exposure to industry partners and sponsors provided potential career
+opportunities, internships, and project collaborations for participants.
+31
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+7.Academic Excellence: Contributed to the academic excellence of the participating institutions by
+promoting practical learning and application of theoretical knowledge.
+POSTER FOR PROMOTIONS:
+32
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+33
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+34
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+35
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+7. Webathon 2.0
+Type of event: Hackathon
+Date & Time:
+Round 1: 2nd Mar, 2024
+Round 2: 22nd Mar- 23rd Mar, 2024
+Venue: A - 006/1, A - 006/2, A - 007/1, A - 007/2, A - 009, A - 012, C - 105, C - 007, C - 008,
+D - 421, P - 403, P - 404, P - 209, P - 202, PEB - training hall, A - 117, P - 106, P - 107, P - 116
+Description:
+Webathon 2.0 was an exciting event that brought together talented and innovative participants from
+various fields to showcase their skills and creativity. The event consisted of two rounds, each designed
+to test participants' abilities in ideation, innovation, and technical skills.
+The first round of the event, Idea Pitching, took place on March 2nd. Participants were presented with a
+problem statement on February 29th and were tasked with crafting a compelling PowerPoint
+presentation outlining their solution approach. A panel of esteemed judges evaluated each idea based on
+its creativity, feasibility, and potential impact. Successful pitches advanced to the next round, while
+others received valuable feedback to refine their ideas.
+The second round, Prototype Development, took place on March 22nd-23rd. Participants were presented
+with a new problem statement, setting the stage for an intense 48-hour coding marathon. Participants
+collaborated in teams to bring their ideas to life, using their chosen technologies and fueled by their
+passion for innovation. They had the freedom to showcase their technical skills and creativity, whether
+it was building a sleek web application, designing an intuitive user interface, or implementing complex
+backend logic. At the end of the event, teams presented their prototypes to the jury, who evaluated them
+based on criteria such as functionality, usability, and technical prowess.
+36
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+Overall, Webathon 2.0 was an exciting and rewarding event that challenged participants to think outside
+the box and apply their skills to real-world problems. It provided a platform for participants to network,
+learn from each other, and showcase their talents to a wider audience. The event was a testament to the
+power of collaboration, innovation, and creativity in driving positive change in the world.
+Objectives:
+1.Skill Enhancement: Enable participants to refine web development skills by engaging with cutting-
+edge technologies in practical scenarios.
+2.Networking Opportunity: Facilitate connections with industry experts and peers globally to
+encourage collaboration and knowledge sharing.
+3.Talent Recognition: Provide a platform for participants to showcase creativity and expertise, offering
+acknowledgement for outstanding contributions.
+4.Motivation through Prizes: Drive engagement and excellence by offering enticing rewards and
+recognition for exceptional performance.
+5.Educational Support: Foster learning and growth through mentorship, feedback, and a supportive
+environment conducive to professional development.
+Beneficiaries:
+1.Skill Advancement: Participants reported tangible improvements in their web development prowess,
+attributing their progress to hands-on experience with cutting-edge technologies showcased during the
+event.
+2.Expanded Connections: The event acted as a catalyst for forging new connections and fostering
+collaborations among participants, facilitating ongoing knowledge exchange within the global web
+development community.
+3.Celebrated Innovations: Several projects stood out for their creativity and ingenuity, earning
+participants widespread acclaim and recognition for their inventive solutions on an international scale.
+4.Increased Engagement: The competitive aspect of Webathon 2.0 spurred heightened participation
+and elevated the quality of submissions, as participants vied for esteemed prizes and acknowledgement
+of their exceptional work.
+37
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+5.Educational Empowerment: Participants greatly benefited from mentorship and constructive
+feedback provided throughout the event, experiencing valuable learning opportunities that contributed
+significantly to their professional development as web developers.
+POSTER FOR PROMOTIONS:
+38
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+39
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+40
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+TEAM GDSC 2023-24
+Faculty Advisor: Dr. P. Bharath Kumar, Asst. Professor,Dept. of CSE & CSBS
+GDSC Lead:
+Pandiri Sai Dushyanth (20071A05N6)
+Co-Lead:
+Bendukuri Rishab (20071A0509)
+Management Domain:
+Lead:
+Shivesh Jaiswal(20071A3248)
+Coordinators:
+Kolla Sahithi (21071A6629)
+G. Vinay Kalyan (21071A7219)
+R. Jahnavi Reddy(21071A0550)
+N. Sai Rakshita(21071A0554)
+Volunteers:
+K. Sri Kruthi (22071A6635)
+Abhijeet Jetti(22071A67C6)
+R Aishwarya (22071A67B0)
+D Harika (22071A0515)
+A Akhileshwar (22071A6768)
+MD.Sadhik (22071A6732)
+Machine Learning Domain:
+Lead:
+K.V.Komal Akhil (20071A1228)
+Coordinators:
+Ch. Suryateja (21071A1277)
+D. Nikhita Kashyap (21071A6618)
+G Nishant (21071A66A9)
+Volunteers:
+G.Keerthika (22071A0520)
+C. Sri Sharan Tej (22071A0511)
+CH. Bharath Chandra (22071A0512)
+K. Roshini (22071A0534)
+41
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+Competitive coding Domain:
+Lead:
+Thelukuntla Jayachandra (20071A0554)
+Coordinator:
+A. Harsha Vardhan (21071A6701)
+Volunteers:
+T Amrutha (22071A6776)
+D N Vaishnavi (22071A0572)
+T Siddhartha Reddy(22071A05C0)
+V Vighnesh(22071A1264)
+S Divya Sri(22071A05R3)
+Web Development Domain:
+Lead:
+Gangishetty Manideep (20071A0518)
+Coordinators:
+Jayasree Gondipalle(21071A0524)
+Sai Jahnavi(21071A0553)
+Vadlamudi Vamsi krishna(21071A0561)
+Volunteers:
+J.Karthik(22071A05N0)
+B.Sri Manikanta(22071A05K4)
+K. Varun(22071A0528)
+V.C.Dedeepya(22071A0563)
+Lakshita(22071A12F6)
+App Development Domain:
+Lead: Vittaladevaram Sai Sri Anjan Prithvi( 20071A0558)
+42
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+Design and Creative Domain:
+Lead:
+E Vinay Vardhan (20071A0574)
+Coordinators:
+S. Poojasiri(21071A12B8)
+K. Pavan Praneetha (21071A66F3)
+Mohammed Abdul Sami (21071A3247)
+A.Siddeshwari (21071A6666)
+Volunteers:
+Ch. Anirudh (22071A6616)
+J. Arya (22071A0289)
+K. Tanmayee (22071A0538)
+Anirudh Pitta (22071A66H8)
+M. Rishitha (22071A04A1)
+Social Media Coordinator:
+Lokesh Gunda (20071A1220)
+Design Coordinator:
+S Chandana (20071A05A4)
+43

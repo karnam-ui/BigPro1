@@ -1,0 +1,2100 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/mtechsyl/A18PE.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+A18
+M.Tech. (POWER ELECTRONICS)
+M.Tech. Amended R18 [A18] CBCS Curriculum
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for B.Tech. CE, EEE, ME, ECE, CSE, EIE, IT Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF 135th Rank in Engineering Category
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+VISION OF TH E INSTITUTE
+To be a World Class University providing value-
+based education, conducting interdisciplinary
+research in cutting edge technologies leading to
+sustainable development of the nation
+MISSION OF T HE INSTITUTE
+➢ To produce technically competent and socially
+responsible engineers, managers and
+entrepreneurs, who will be future ready.
+➢ To involve students and faculty in innovative
+research projects linked with industry, academic
+and research institutions in India and abroad.
+➢ To use modern pedagogy for improving the
+teaching-learning process.
+VNRVJIET M.TECH. PE A18 CURRICULUM 2
+DEPARTMENT OF
+ELECTRICAL AND
+ELECTRONICS
+ENGINEERING
+VNRVJIET M.TECH. PE A18 CURRICULUM 3
+VISION OF THE DEPARTMENT
+To excel in Education, Technology and Research in
+Electrical and Electronics Engineering leading to
+sustainable socioeconomic development of the
+nation.
+MISSION OF TH E DEPARTMENT
+➢ Excellent teaching-learning environment imbibed
+with professional ethics and social responsibility in
+promoting quality education.
+➢ Promoting research through industry
+collaborations and innovative projects.
+VNRVJIET M.TECH. PE A18 CURRICULUM 4
+M.TECH.
+(POWER ELECTRONICS)
+VNRVJIET M.TECH. PE A18 CURRICULUM 5
+M.TECH. (PE)
+PROGRAM EDUCATIONAL OBJECTIVES
+PEO-I: Proficient in applying sustainable and inclusive technologies to
+analyse, formulate and provide solutions for real time problems in
+diversified fields.
+PEO-II: Solve complex technological problems using emerging
+technologies and tools
+PEO-III: Work effectively as an individual and team member with good
+communication skills in project execution.
+PEO-IV: Demonstrate interdisciplinary skills and professional ethics in
+relating engineering issues to broader societal context.
+PEO-V: Engage in life long learning for a successful professional career.
+VNRVJIET M.TECH. PE A18 CURRICULUM 6
+M.TECH. (PE)
+PROGRAM OUTCOMES
+PO-1: An ability to independently carry out research /investigation and
+development work to solve practical problems.
+PO-2: An ability to write and present a substantial technical
+report/document.
+PO-3: An ability to demonstrate a degree of mastery over the area as per
+the specialization of the program.
+PO-4: Design and conduct experiments, as well as analyze the power
+electronic converters & drives and interpret the data.
+PO-5: Function on multidisciplinary technological issues assimilating
+power electronics advancements.
+PO-6: Use the techniques, skills, and modern engineering simulation tools
+necessary for the design and development of power converter topologies
+and engage in life long learning.
+VNRVJIET M.TECH. PE A18 CURRICULUM 7
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. I YEAR COURSE STRUCTURE AND SYLLABUS
+(POWER ELECTRONICS)
+I SEMESTER A18
+Course Type Course Code Name of the Course L T P Credits
+Professional
+A18PC1PL01 Power Electronic Converters 3 0 0 3
+Core-I
+Professional Modeling and Analysis of Electrical
+A18PC1PL02 3 0 0 3
+Core-II Machines
+Professional
+A18PC1PL03 Electric Drives System 3 0 0 3
+Core-III
+Advanced Microcontroller-Based
+A18PE1PL01
+Systems
+Professional
+A18PE1PL02 VLSI Design 3 0 0 3
+Elective-I
+A18PE1PS01 Renewable Energy Systems
+A18PE1PL03 Artificial Intelligence Techniques
+Professional
+A18PE1PS04 SCADA Systems and Applications 3 0 0 3
+Elective -II
+Digital Signal Processing for Power
+A18PE1PL04
+and Control
+Professional Power Electronic Converters
+A18PC2PL01 0 0 3 1.5
+Core Lab-I Laboratory
+Professional Modeling and Simulation of
+A18PC2PL02 0 0 3 1.5
+Core Lab-II Electrical Drives Laboratory
+Project A18PW4PE01 Technical Seminar 0 0 4 2
+Audit A18AU5CS01 Research Methodology and IPR 2 0 0 0
+Total 17 0 10 20
+VNRVJIET M.TECH. PE A18 CURRICULUM 8
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. I YEAR COURSE STRUCTURE AND SYLLABUS
+(POWER ELECTRONICS)
+II SEMESTER A18
+Course Type Course Code Name of the Course L T P Credits
+Professional Advanced Power Electronic
+A18PC1PL04 3 0 0 3
+Core-IV Converters
+Professional Digital Controllers in Power Electronic
+A18PC1PL05 3 0 0 3
+Core-V Applications
+Professional
+A18PC1PL06 Advanced Control Systems 3 0 0 3
+Core-VI
+A18PE1PL05 Electric Hybrid Vehicles
+Professional
+A18PE1PL06 Embedded Systems 3 0 0 3
+Elective-III
+A18PC1PS05 Power Quality
+Electro Magnetic Interference and
+A18PE1PL07
+Compatibility
+Professional
+A18PC1PS06 Flexible AC Transmission Systems 3 0 0 3
+Elective -IV
+A18PE1PS08 Smart Grids
+Professional Advanced Power Electronic
+A18PC2PL03 0 0 3 1.5
+Core Lab-III Converters Simulation Laboratory
+Professional Power Electronic Control and
+A18PC2PL04 0 0 3 1.5
+Core Lab-IV Applications Laboratory
+Project A18PW4PL02 Mini-Project 0 0 4 2
+English for Academic and Research
+Audit A18AU5EN01 2 0 0 0
+Writing
+Total 17 0 10 20
+VNRVJIET M.TECH. PE A18 CURRICULUM 9
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. II YEAR COURSE STRUCTURE AND SYLLABUS
+(POWER ELECTRONICS)
+III SEMESTER A18
+Course Course
+Name of the Course L T P Credits
+Type Code
+A18PE1LI14 IoT Technologies
+Professional
+A18PE1PL08 Energy Storage Technologies 3 0 0 3
+Elective-V
+A18PE1PL09 HVDC Transmission
+A18OE1CN01 Business Analytics
+A18OE1AM01 Industrial Safety
+Open
+A18OE1AM02 Operations Research 3 0 0 3
+Elective
+A18OE1AM03 Composite Materials
+A18OE1PS01 Waste to Energy
+Project A18PW4PL03 Project Part - I 0 0 16 8
+Total 6 0 16 14
+IV SEMESTER A18
+Course Course
+Name of the Course L T P Credits
+Type Code
+Project A18PW4PL04 Project Part - II 0 0 28 14
+Total 0 0 28 14
+VNRVJIET M.TECH. PE A18 CURRICULUM 10
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (PE) L T/P C
+3 0 3
+(A18PC1PL01) POWER ELECTRONIC CONVERTERS
+COURSE PRE-REQUISITES: Power Electronics
+COURSE OBJECTIVES:
+• To design/develop suitable power converter for efficient control or conversion of power in
+drive applications
+• To design / develop suitable power converter for efficient transmission and utilization of
+power in power system applications
+• To select suitable semiconductor switches for the power converter design
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understand the operating characteristics of various power electronic devices and the
+design aspects
+CO-2: Analyze operating principles of different converters and find their applications
+CO-3: Design the control range/ control methodologies for various power electronic
+converters
+UNIT-I:
+Power Semiconductor Switches for Power Control and Conversion: Ideal Switch; operation,
+static and dynamic characteristics, power dissipation of various semiconductor switches-
+Diodes - Bipolar Power Transistors - Power MOSFETS - Insulated Gate Bipolar Transistor(IGBT) -
+Silicon-Controlled Rectifier – DIAC - TRIAC and Gate Turn-off Thyristor (GTO).
+UNIT-II:
+AC to DC Converters: Principle of Phase controlled converter operation, single phase and three
+phase bridge rectifiers, single phase and three phase half controlled and fully controlled
+converters with R, RL& RLE loads, Freewheeling diode, evaluation of performance parameters-
+input harmonics- power factor and output ripple, control strategies for power factor
+improvement.
+UNIT-III:
+DC-DC Converters: Principle of operation of step down and step up converters, Switching
+mode Regulators- analysis and design of Buck, Boost, Buck-Boost and Cukregulators, limitations
+of single stage conversion-comparison of regulators.
+UNIT-IV:
+DC-AC Converters: Single phase bridge inverters - Principle of operation-performance
+parameters , Three phase inverters - 180 and 120 degree Conduction modes, Voltage control
+and waveform improvement techniques -Comparison of PWM techniques- harmonic
+reduction - Current Source Inverters - advantages -applications
+UNIT-V:
+AC-AC Converters: Principle of phase control, single phase bidirectional controllers with R and
+RL Loads, Performance Analysis, Three Phase bidirectional controllers-different
+configurations,AC voltage controllers with PWM control, Principle of operation of single phase
+and three phase cyclo converters, Reduction of output harmonics, Introduction to Matrix
+converter- principle of operation.
+UNIT-VI:
+Design Aspects of Converters: Gate Drive Circuits-MOSFET gate drive & BJT base drive control
+circuits, Isolation of Gate and Base drives, Thyristor firing circuits, Cooling and heat sinks,
+VNRVJIET M.TECH. PE A18 CURRICULUM 11
+Thermal modeling of power switching devices, Snubber circuit, reverse recovery transients,
+supply and load side transients, voltage protection and current protection, Electro Magnetic
+Interference.
+TEXT BOOKS:
+1. Power Electronics, M. H. Rashid, Prentice Hall of India, 1994
+2. Power Electronics- Converters, Application and Design, Ned Mohan, Undeland and
+Robbins, John Wiley and Sons. Inc, New York
+3. Power Electronics–Essentials and Applications, L. Umanand, Wiley India Pvt. Ltd.
+REFERENCES:
+1. Fundamentals of Power Electronics, Erickson R. W., Chapman and Hall
+2. High Power Converters and Drives, Bin Wu, IEEE Press, Wiley
+VNRVJIET M.TECH. PE A18 CURRICULUM 12
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (PE) L T/P C
+3 0 3
+(A18PC1PL02) MODELLING AND ANALYSIS OF ELECTRICAL MACHINES
+COURSE PRE-REQUISITES: Electrical Machines, Control Systems
+COURSE OBJECTIVES:
+• To comprehend the basic Electro-mechanical Energy conversion in Rotating Machines
+• To develop the mathematical models of different electrical machines
+• To recognize the different frames for modeling of different AC machines
+• To express the voltage and torque equations in State space form
+• To understand the operation of Special Electrical Machines
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understand the electromechanical energy conversion and basic concepts of rotating
+Machines
+CO-2: Write the voltage and torque equations for different machines like DC, induction and
+Synchronous machines
+CO-3: Model different AC machines using Linear transformations with suitable reference frame
+selection
+CO-4: Know the operation and constructional features of special electrical machines
+UNIT-I:
+Electromagnetic Energy Conversion: Principles of Electromagnetic Energy Conversion,General
+expressions of stored Magnetic Energy, Co-energy and Force/Torque, examples of Single and
+Doubly excited systems,Basic Concepts of Rotating Machines, Calculation of Air Gap mmf and
+machine inductance per phase using physical machine data. Conventions used in Machine
+Modeling.
+UNIT-II:
+Modeling of DC Machines: Basic Two-pole DC machine - primitive 2-axis machine - Voltage
+and Current relationships in matrix form - Torque equation in matrix form , Mathematical model
+of DC separately excited, Series,, Shunt and Compound motors- state variable forms and
+Transfer functions, Representation of Compensating Winding in modeling-Numerical problems.
+UNIT-III:
+Modeling of Induction Machines-I: Linear transformations-Phase transformation (a,b,c to
+α,β,o)-Power and MMF invariance-Active transformation(α,β,o to d,q,o), Mathematical
+Modeling of 3 Ph Induction Motor-voltage and current equations without transformations- α,β
+modeling of Three Phase Induction motor-Transformation to Arbitrary Reference Frame
+UNIT-IV:
+Modeling of Induction Machines-II: Transformation to Commonly used reference frames-
+Stator, Rotor, Synchronously rotating reference frames (air gap)- Torque Equations-Equations
+in state variable form for arbitrary reference frame, Mathematical modeling of two phase
+asymmetrical and single phase induction machines.
+UNIT-V:
+Modeling of Synchronous Machines: Basic 3phase Synchronous motor –Assumptions for
+modeling-Two axis representation of Synchronous Motor, Mathematical model to Rotor
+reference frame, Electromagnetic Torque, Equivalent dqo circuits, Determination of
+Synchronous machine dynamic equivalent circuit parameters
+VNRVJIET M.TECH. PE A18 CURRICULUM 13
+UNIT-VI:
+Special Machines: Special Machines - Permanent Magnet Synchronous Machine, Surface
+permanent magnet (square and sinusoidal back emf type) and interior permanent magnet
+machines,Construction and operating principle,Brushless D.C. Motor for space Applications ,
+Analysis of Switched Reluctance Motors, Recent trends in Special Electrical Machines-Axial Flux
+machines.
+TEXT BOOKS:
+1. Analysis of Electric Machine, P. C. Krause, 3rd Edition, Wiley IEEE Press
+2. Generalized Machine Theory, P. S. Bimbhra, Khanna Publishers, 2002
+3. Special Electrical Machines, K. Venkataraman, CRC Press, 2008
+REFERENCES:
+1. Dynamic Simulations of Electric Machinery: Using MATLAB, Chee-Mun Ong, Prentice-Hall,
+1998
+2. Electric Machinery, Charles Kingsle Jr., A. E. Fitzgerald, Stephen D. Umans, Tata Mcgraw Hill
+3. Electric Motor & Drives: Modeling, Analysis and Control, R. Krishnan, Prentice Hall of India
+4. Brushless Permanent Magnet and Reluctance Motor Drives, Miller T. J. E., Clarendon Press
+5. Thyristor Control of Electric Drives, Vedam Subramanyam, Tata McGraw-Hill Education,
+1988
+VNRVJIET M.TECH. PE A18 CURRICULUM 14
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (PE) L T/P C
+3 0 3
+(A18PC1PL03) ELECTRIC DRIVES SYSTEM
+COURSE PRE-REQUISITES: Power Electronics, Electrical Machines and Control Systems
+COURSE OBJECTIVES:
+• To understand Basic electrical drives and their analysis
+• To analyse speed control of electrical dc and ac drives
+• To design power electronic controllers for electric drives
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Model an electric drive system
+CO-2: Design modulation strategies of power electronics converters and appropriate
+controllers for drives application
+CO-3: Implement various control schemes for DC and AC drives
+UNIT-I:
+Dynamics and Control of Electrical Drives: Introduction to Power semiconductor drive and its
+elements, Dynamics of motor load system, Fundamentals of torque equation, Speed-torque
+conventions and multi quadrant operation, components of load torques, Nature and
+classification of load torques, steady state stability, load equalization, modes of operation,
+speed control and drive classification, closed loop control of drives.
+UNIT-II:
+Phase Controlled Rectifier fed DC Drives: Principles of DC Motor speed control, single phase
+and three phase fully controlled converter fed dc separately excited motor – control circuit –
+control modeling, steady state average Analysis of converter fed DC drive, three phase dual
+converter fed four quadrant DC motor drive, closed loop operation of two quadrant DC drive,
+Transfer functions of the subsystems.
+UNIT-III:
+Chopper fed DC Drives: Principle of operation of the chopper, Four Quadrant chopper drive,
+Chopper with different power inputs, Model of the chopper, steady state analysis of chopper
+fed. DC Drive, Closed loop control – Current control loop – PWM controller – Hysteresiscontroller
+– Modeling – design of current controller.
+UNIT-IV:
+Scalar Control of Induction Motor Drives: Induction Motor-Principle -torque expression -
+Equivalent circuit analysis-Stator voltage and frequency control, V/f control, Drive operating
+regions; Scalar control :Voltage fed inverter control – Open loop volts/Hz control – speed
+control by slip regulation – speed control with torque and flux control; Current-fed inverter
+control – Independent current and frequency control – Speed and flux control in Current-Fed
+inverter drive – Volts/Hz control of Current-fed inverter drive ; Control of Induction Motor by Slip
+Power Recovery Schemes.
+UNIT-V:
+Vector Control of Induction Motor Drives: Introduction, DC drive analogy, principle of vector
+control, Vector control methods- direct method – Flux Vector estimation – indirect vector
+control; Direct Torque Control, Adaptive control principles – self tuning regulator – model
+reference adaptive control.
+VNRVJIET M.TECH. PE A18 CURRICULUM 15
+UNIT-VI:
+Permanent Magnet Synchronous Motor Drives: Synchronous machines with Permanent
+magnets, Expression for Torque , model of PMSM, Vector control of PMSM, Control strategies-
+Constant torque angle control-unity power factor control - constant mutual flux linkages
+control; Flux weakening operation: direct flux weakening operation –constant torque mode
+controller, flux weakening controller; indirect flux weakening operation- maximum permissible
+torque, speed control scheme.
+TEXT BOOKS:
+1. Fundamentals of electric Drives, G. K. Dubey, 2nd Edition, Narosa Publishing House, 2011
+2. Electric Motor Drives Modeling, Analysis and Control, R. Krishanam, PHI India, 2009
+3. Modern Power Electronics and AC Drives, B. K. Bose, 1st Edition, Prentice Hall Publication,
+2001
+REFERENCES:
+1. Power Semiconductor Controlled Drives, G. K., Dubey, Prentice Hall International, 1989
+2. Analysis of Electric Machinery and Drive Systems, P. C. Krause, 3rd Edition, Wiley-IEEE Press
+3. Vector Control of AC Machines, Peter Vas, Oxford University Press, 1990
+VNRVJIET M.TECH. PE A18 CURRICULUM 16
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (PE) L T/P C
+3 0 3
+(A18PE1PL01) ADVANCED MICRO-CONTROLLER BASED SYSTEMS
+COURSE PRE-REQUISITES: Microprocessors and Micro-controllers
+COURSE OBJECTIVES:
+• To understand the architecture of advance microcontrollers
+• To understand the applications of these controllers
+• To get some introduction to FPGA
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Learn how to program a processor in assembly language and develop an advanced
+processor-based system
+CO-2: Learn the configuration by using different peripherals in a digital system
+CO-3: Compile and debug a Program
+CO-4: Generate an executable file and use it
+UNIT-I:
+Structure of Basic Computer: Basic Computer Organization. - Main parts of a computer system
+–Instruction codes-Computer register-Computer instructions-Timing and control-instruction
+cycle-Accumulator based processes-Architecture-Memory-Types of memory-two basic
+memory operations- Organization-I/O Organization
+UNIT-II:
+Overview and Architecture of 8051: Micro-Controllers-Intel 8051 Architecture-Instruction Sets-
+Addressing modes- Registers Organization, Memory Organization. - Stack & Subroutine- I/O
+Ports- Serial Communication. Timers, Interrupts
+UNIT-III:
+8051- Microcontrollers Instruction Set and Assembly Language Programming in Real Time
+Control: Data transfer instructions – Data and Bit-manipulation instructions – Arithmetic
+instructions – Instructions for Logical operations – Program flow control instructions – Interrupt
+control flow. Intel 8051 – Basic Assembly language programming
+Timer, serial port and Interrupts programming: Programming 8051 timers/counters, 8051 serial
+port programming, programming timer interrupts, programming External hardware interrupts,
+programming serial communication interrupts.
+UNIT-IV:
+Overview and Architecture of PIC 16F877: PIC 16F877- Architecture –Program memory
+organization –Data memory organization-register files map-special function register-
+Addressing Modes-Timers–capture /compare/ PWM modules- Programming. Interfacing
+Memory/ I/O Devices, Serial I/Oand data communication
+UNIT-V:
+Outline of DSP Processor and FPGA: Digital Signal Processor (DSP) - Architecture – CPU Register-
+Addressing modes- Assembly language instructions- Timers –serial port- -Programming,
+Introduction to FPGA- Basic concepts-digital design and FPGA’S- FPGA based system design-
+Hardware description languages.
+UNIT-VI:
+Interfacing to 8051: A/D interface and D/A Converter interface, Stepper Motor Interface, DC
+Motor interface -Key Board Interfacing, -LCD Interfacing
+VNRVJIET M.TECH. PE A18 CURRICULUM 17
+TEXT BOOKS:
+1. Microcomputer Architecture and Programming, John F. Wakerly, John Wiley and Sons,
+1981
+2. The 8051 Microcontroller, Kenneth J. Ayala, Cengage Learning, 2004
+3. The PIC Microcontroller: Your Personal Introductory Course, John Morton, Elsevier, 2005
+REFERENCES:
+1. Microprocessor Architecture, Programming and Applications with the 8085, Ramesh S.
+Gaonker, Penram International Publishing (India), 1994
+2. Advanced PIC Microcontroller Projects in C: from USB to RTOS with the PIC18F Series, Dogan
+Ibrahim, Elsevier, 2008
+3. Microchip Datasheets for PIC16F877
+4. TMS320C3x User’s Guide
+5. FPGA Based System Design, Wayne Wolf
+VNRVJIET M.TECH. PE A18 CURRICULUM 18
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (PE) L T/P C
+3 0 3
+(A18PE1PL02) VLSI DESIGN
+COURSE PRE-REQUISITES: Electronic Devices and Circuits, Digital IC Concepts
+COURSE OBJECTIVES:
+• To learn the fabrication process of Integrated Circuit and electrical properties of MOSFET
+• To study the concepts of stick diagrams and layouts with the knowledge of MOS layers
+through design rules
+• To learn the design of digital systems using subsystem design approach
+• To understand the concepts of PLD’s, design capture tools and CMOS testing
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understand IC Fabrication process steps required for various MOS circuits
+CO-2: Analyze electrical properties and layout flow for circuit level and gate level models
+CO-3: Design the digital circuits by using subsystem approach
+CO-4: Implement and verify the VLSI systems
+UNIT-I:
+Introduction: Introduction to MOS Technology – MOS, PMOS, NMOS, CMOS and BiCMOS
+technologies, fabrication fundamentals: Oxidation, Lithography, Diffusion, Ion implantation,
+Metallization and Encapsulation.
+Basic Electrical Properties: Basic Electrical Properties of MOS, CMOS and BiCMOS Circuits: Ids-
+Vds relationships, MOS transistor threshold Voltage, gm, gds, figure of merit wo, Pass transistor,
+NMOS inverter, Various pull-ups, Determination of pull-up to pull-down ratio (Zpu/Zpd), CMOS
+Inverter analysis and design, BiCMOS inverters, Latch-up in CMOS circuits.
+UNIT-II:
+VLSI Circuit Design Processes: VLSI Design Flow, MOS Layers, Stick Diagrams, Design Rules and
+Layouts, Lambda based design rules, Contact cuts , CMOS Lambda based design rules, Layout
+Diagrams for logic gates, Transistor structures, wires and vias, Scaling of MOS circuits- Scaling
+models, scaling factors, scaling factors for device parameters, Limitations of Scaling.
+UNIT-III:
+Basic Circuit Concepts: Sheet Resistance RS and its concept to MOS, Area Capacitance Units,
+Calculations, the delay unit, Inverter Delays, Driving large Capacitive Loads, Wiring
+Capacitances, Fan-in and Fan-out, Choice of layers.
+UNIT-IV:
+Gate Level Design: Architectural issues, Switch logic, Gate logic, Combinational Circuit Design:
+CMOS logic families including Ratioed Logic, Static, dynamic and Domino Logic,Pass-Transistor
+Logic and Transmission gate logic.
+Sequential Circuit Design: Design of latches and Flip-flops.
+UNIT-V:
+Subsystem Design: Adders: Carry Ripple adder, Carry Skip adder, Carry lookahead adder,
+Carry select adder, ALU, Multipliers: Array multiplier, Serial-Parallel multiplier, Parity generator,
+Comparators, Zero/One Detectors, Up/Down Counter, Memory elements, Shifter.
+UNIT-VI:
+Semiconductor Integrated Circuit Design: Introduction to ROM, PAL and PLA(PLDs), FPGAs,
+CPLDs.
+VNRVJIET M.TECH. PE A18 CURRICULUM 19
+CMOS Testing: CMOS Testing, Need for testing, Test Principles, Design Strategies for test, Over
+view of Chip level Test Techniques and System-level Test Techniques, Layout Design for
+Improved Testability.
+TEXT BOOKS:
+1. Essentials of VLSI Circuits and Systems, Kamran Eshraghian, Dougles and A. Pucknell, PHI
+Edition, 2005
+2. Modern VLSI Design, Wayne Wolf, Pearson Education, 3rd Edition, 1997
+3. CMOS VLSI Design – A Circuits and Systems Perspective, Neil H.E Weste, David Harris, Ayan
+Banerjee, Pearson, 2009
+REFERENCES:
+1. CMOS Logic Circuit Design, John P. Uyemura, Springer, 2007
+2. VLSI Design, K. Lal Kishore, VSV Prabhakar, I.K. International, 2009
+3. VLSI Design, A. Albert Raj, Latha PHI, 2008
+4. Introduction to VLSI Design, Mead and Convey, BS Publications, 2010
+5. VLSI Design, M. Michal Vai, CRC Press, 2009
+VNRVJIET M.TECH. PE A18 CURRICULUM 20
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (PE) L T/P C
+3 0 3
+(A18PE1PS01) RENEWABLE ENERGY SYSTEMS
+COURSE PRE-REQUISITES: Power Systems, Switchgear Protection, Power Electronics
+COURSE OBJECTIVES:
+• To learn various renewable energy sources
+• To gain understanding of integrated operation of renewable energy sources
+• To understand Power Electronics Interface with the Grid
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Gain the Knowledge about renewable energy
+CO-2: Understand the working of distributed generation system in autonomous/grid
+connected modes
+CO-3: Know the Impact of Distributed Generation on Power System
+UNIT-I:
+Distributed Generation: Introduction- Distributed vs Central Station Generation, Reasons for
+DG, Technical Impacts of DG, DG Technologies, Economic Impact of DG, Barriers to DG
+Development, Renewable Sources of Energy, Renewable Energy Economics, Interconnection,
+Recommendations and Guidelines for DG Planning
+UNIT-II:
+Sustainable Energy Sources: Introduction to Solar Energy, Wind Energy, Hydro Energy, Tidal
+Energy, Wave Energy, Geothermal Energy, Biomass, Fuel Cells. Combined Heat and Power
+Status, Options for Space Heating, Properties, Variation in Production with Time, Correlation
+between CHP and Consumption
+UNIT-III:
+Grid Integration with Renewable Energy Sources: Direct Machine Coupling with the Grid , Full
+Power Electronics Coupling with the Grid, Partial Power Electronics Coupling to the Grid,
+Distributed Power Electronics Interface, Impact of the Type of Interface on the Power System,
+Local Control of Distributed Generation.
+UNIT-IV:
+Power Quality Issues in Grid: Impact of Distributed Generation on the Power System, Changes
+Taking Place, Impact of the Changes, Hosting Capacity Approach, Power Quality Issues:
+Voltage Quality, Current Quality, Multiple Generator Tripping. Voltage Quality and Design of
+Distributed Generation: Normal Operation, Variations, Normal Events, Abnormal Events.
+Hosting Capacity Approach for Events, Increasing the Hosting Capacity
+UNIT-V:
+Distributed Generators Protection: Over current Protection for Upstream and Downstream
+Faults, Fuse–Recloser Coordination, Inverse-Time Over current Protection, Calculating the Fault
+Currents, Calculating the Hosting Capacity, Bus bar Protection, Excessive Fault Current
+Protection, and Generator Protection.
+UNIT-VI:
+Economics of Distributed Generation: Introduction-Estimating the cost of distributed versus
+centralized energy generation, The financial viability of individual DG systems, The social costs
+and benefits of DG penetration, The overall economic, environmental and social impacts of
+DG penetration, Case Studies.
+VNRVJIET M.TECH. PE A18 CURRICULUM 21
+TEXT BOOKS:
+1. Renewable Energy Sources and Emerging Technologies, Ranjan Rakesh, Kothari D. P.,
+Singal K. C., 2nd Ed., Prentice Hall of India, 2011
+2. Integration of Distributed Generation in the Power System, Math H. Bollen, Fainan Hassan,
+Wiley–IEEE Press, 2011
+REFERENCES:
+1. Distributed Generation: Induction and Permanent Magnet Generators, Loi Lei Lai, Tze Fun
+Chan, Wiley-IEEE Press, 2007
+2. Photovoltaic System Engineering, Roger A. Messenger, Jerry Ventre, 3rd Ed., 2010
+3. Wind Energy Explained: Theory Design and Application, James F. Manwell, Jon G.
+McGowan, Anthony L. Rogers, 2nd Ed., John Wiley and Sons, 2010
+4. The Economics of Distributed Energy Generation: A Literature Review, Grant Allan, Igor
+Eromenko, Michelle Gilmartin, Ivana Kockar, Peter McGregor, Renewable and Sustainable
+Energy Reviews, Volume 42, February 2015, Pages 543-556
+VNRVJIET M.TECH. PE A18 CURRICULUM 22
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (PE) L T/P C
+3 0 3
+(A18PE1PL03) ARTIFICIAL INTELLIGENCE TECHNIQUES
+COURSE PRE-REQUISITES: Control Systems, Power Systems, Electrical Drives
+COURSE OBJECTIVES:
+• To locate soft commanding methodologies, such as artificial neural networks, Fuzzy logic
+and genetic Algorithms
+• To observe the concepts of feed forward neural networks and about feedback neural
+networks
+• To practice the concept of fuzziness involved in various systems and comprehensive
+knowledge of fuzzy logic control and to design the fuzzy control
+• To analyze genetic algorithm, genetic operations and genetic mutations
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Quote the feed forward neural networks and learning and understanding of feedback
+neural networks
+CO-2: Generalize fuzziness involved in various systems and fuzzy set theory
+CO-3: Examine genetic algorithm and applications in electrical engineering
+CO-4: Understand concept of hybrid AI techniques
+UNIT-I:
+Artificial Neural Networks: Introduction to AI, biological foundation to intelligent systems.
+Artificial Neural Network: architecture, learning process, learning rules. Training algorithms: LMS
+algorithm, Back-propagation algorithm.
+Radial basis network-covers theorem, generalized radial basis function networks, estimation of
+regularization parameter.
+UNIT-II:
+Fuzzy Logic: Introduction – Fuzzy versus crisp – Fuzzy sets - Membership function – Basic Fuzzy
+set operations – Properties of Fuzzy sets –Operations on Fuzzy relations – Min Max operations -
+Fuzzification, Membership value assignment, development of rule base and decision making
+system, De-fuzzification to crisp sets, De-fuzzification methods.
+UNIT-III:
+Genetic Algorithm: Introduction-Encoding –Fitness Function-Reproduction operators-Genetic
+Modeling –Genetic operators-Crossover-Single – site crossover-Two point crossover –Multi point
+crossover-Uniform crossover – Matrix crossover-Crossover Rate-Inversion & Deletion – Mutation
+operator – Mutation –Mutation Rate-Bit-wise operators-Generational cycle- convergence of
+Genetic - Problems on optimization-Algorithm.
+UNIT-IV:
+Neuro-Fuzzy Systems: Fuzzy associative memories; Fuzzy rule generation using neural net
+approaches, Fuzzy neural networks; adaptive neuro-fuzzy inference systems (ANFIS); neuro-
+fuzzy control.
+UNIT-V:
+System Identification Using Neural and Fuzzy Systems: System/process identification using
+neural networks, system identification using fuzzy models: Mamdani Model, Takagi-Sugeno
+model.
+VNRVJIET M.TECH. PE A18 CURRICULUM 23
+UNIT-VI:
+Applications of AI Techniques: Control and Process Monitoring, fault diagnosis and load
+forecasting, Function Approximation, – Load flow studies – Economic load dispatch – Load
+frequency control –Single area system and two area system – Position and speed control of
+DC and AC Motors.
+TEXT BOOKS:
+1. An Introduction to ANN, J. M. Zurada, Jaico Publishing House
+2. Neural Networks, Simon Haykins, Prentice Hall
+3. Neural Networks, Fuzzy Logic & Genetic Algorithms, S. Rajasekaran and G.A.V. Pai, PHI,
+New Delhi, 2003
+REFERENCES:
+1. Neural Network & Fuzzy System, Bart Kosko, Prentice Hall, 1992
+2. Neural Computing Theory & Practice, P.D. Wasserman, Van Nostrand Reinhold, New
+York,1989
+3. Fuzzy Sets, Uncertainty and Information, G. J. Klir and T.A. Folger, PHI, 1994
+4. Genetic Algorithms, D.E. Goldberg, Addison Wesley, 1999
+5. Neural Networks, Satish Kumar, Tata McGraw-Hill
+VNRVJIET M.TECH. PE A18 CURRICULUM 24
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (PE) L T/P C
+3 0 3
+(A18PE1PS04) SCADA SYSTEMS AND APPLICATIONS
+COURSE PRE-REQUISITES: Basic Power Systems
+COURSE OBJECTIVES:
+• To understand what is meant by SCADA and its functions
+• To know SCADA communication
+• To get an insight into its application
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Describe the basic tasks of Supervisory Control Systems (SCADA) as well as their typical
+applications in transmission & distribution sectors and various industries etc.
+CO-2: Acquire knowledge about SCADA architecture, various advantages and
+disadvantages of each system
+CO-3: Comprehend about SCADA Protocols. IEC 60870, DNP3, ICCP etc.
+CO-4: Learn about SCADA system components: remote terminal units, PLCs, intelligent
+electronic devices, HMI systems, SCADA server
+UNIT- I:
+Introduction to SCADA:
+SCADA: SCADA systems: Components of SCADA Systems & Applications in various industries,
+SCADA in Power Systems: Advantages, Basic functions& Application functions, Power System
+field, Types of data& signals in power system, Flow of data from field to SCADA control center,
+Open System-Need and advantages, Building blocks of SCADA Systems.
+UNIT-II:
+SCADA RTU & IED Components:
+RTU: Block diagram, Sub systems- Communication, Logical, Termination, Power supply, HMI;
+Advanced RTU Functionalities of the logic subsystem.
+IED: Functional block diagram, Hardware and software Architecture, Advanced
+functionalities, Communication subsystem; Data concentrators and merging units.
+UNIT-III:
+SCADA MS & HMI Components:
+MS: Major functions of basic SCADA software, Hardware components and their main functions,
+Block diagrams of small, medium, large Master Stations; Global Positioning Systems (GPS), MS
+performance.
+HMI: Components, functionalities, HMI Intelligent alarm filtering and suppression techniques,
+Classification of SCADA Systems:-Single master- single remote, Single master-multiple RTU,
+Multiple master- multiple RTUs, Single master- multiple sub master- multiple remote.
+UNIT-IV:
+SCADA Communication: SCADA communication- Requirements, Topologies, Smart grid
+communication infrastructure; SCADA Data communication - Techniques, Components,
+Transmission of Digital Signals and their Modes, Error detection techniques, Media Access
+Control techniques.
+UNIT-V:
+SCADA Architecture & Protocols:
+SCADA Communication Protocol Architectures: OSI seven layer model, enhanced
+performance architecture (EPA) model, Transmission Control Protocol (TCP)/ Internet Protocol
+(IP) model.
+VNRVJIET M.TECH. PE A18 CURRICULUM 25
+SCADA and Smart Grid Protocols: Mod bus, International Electro Technical Commission (IEC
+60870), Distributed Network Protocol 3 (DNP3), Inter-Control Center Protocol (ICCP), Ethernet,
+IEC 61850, IEEE C37.118 Synchrophasor standard, Zig bee & its devices, Wi-Fi, Guided (wired)&
+Unguided (wireless)media.
+UNIT-VI:
+SCADA Case Studies & Implementation: Security and challenges for SCADA and smart grid
+communication, SCADA Case Studies, Laboratory model- Overview of SCADA Hardware
+Laboratory, Laboratory software relational diagram, Programmable Logic Controller (PLC)-
+PLC used as RTU, Basic rules of Ladder Logic, Different instructions.
+TEXT BOOKS:
+1. Power System SCADA and Smart Grids, Mini S. Thomas, John D. McDonald, CRC Press,
+Taylor and Francis, 2015
+2. SCADA- Supervisory Control and Data Acquisition, Stuart A. Boyer, Instrumentation Systems
+and Automation Society
+REFERENCES:
+1. Practical SCADA for Industry, David Bailey, Edwin Wright, Newnes, 2003
+2. Designing SCADA Application Software: A Practical Approach, Stuart G. McCrady
+VNRVJIET M.TECH. PE A18 CURRICULUM 26
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (PE) L T/P C
+3 0 3
+(A18PE1PL04) DIGITAL SIGNAL PROCESSING FOR POWER AND CONTROL
+COURSE PRE-REQUISITES: Network Analysis, Advanced Calculus, Linear and Digital IC
+applications
+COURSE OBJECTIVES:
+• To understand characteristics of discrete time signals and systems
+• To analyze and process signals using various transform techniques
+• To understand various factors involved in design of digital filters
+• To understand the applications of DSP to Active power filtering
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Analyze and process signals in the discrete domain
+CO-2: Design filters to suit specific requirements for specific applications
+CO-3: Perform statistical analysis and inferences on various types of signals
+CO-4: Apply digital filters to active power filters
+UNIT-I:
+Introduction: Classification of continuous time Signals & Systems. Linear shift invariant systems,
+stability and causality, Sampling of Continuous signals- Sampling process-Sampling theorem.
+Classification of discrete time signals and sequences
+UNIT-II:
+Fourier Analysis: Introduction to Discrete Fourier series, Discrete Fourier Transform: Properties of
+Discrete Fourier Transform, linear convolution and circular convolution of sequences using DFT,
+Computation of DFT, Relation between DFT and Z-Transform.
+UNIT-III:
+Z-Transform: Introduction to Z-transform, Properties of Z- Transform, Inverse Z- Transform,
+Application of Z- Transforms for Linear constant coefficient difference equations, Realization
+of Digital filters, system function – stability criterion.
+UNIT-IV:
+IIR Filters: Analog filter approximations- Design of Butterworth filter-Design of IIR digital filter from
+analog filter using- impulse invariant and bilinear transformation techniques, realization of IIR
+filters-direct, canonic, cascade, and parallel forms. DFT Filter bank-Sliding- Sliding Goertzel -
+Moving DFT algorithms
+UNIT-V:
+FIR Filters: Characteristics of FIR Digital Filters, Frequency response, Design of FIR filters using –
+Rectangular, Hamming, Bartlett- windows, frequency sampling technique, comparison of FIR
+and IIR filters
+UNIT-VI:
+Active Power Filters Control Algorithms: Introduction to Active power Filter (APF) - Control circuit
+of Shunt Active Power Filter, APF control using first harmonic detection-Various control circuits
+using 4th order Butterworth Filter-5th order Butter worth- Sliding- Sliding Goertzel - Moving DFT
+Algorithms, P-Q theory control algorithm for shunt APF.
+TEXT BOOKS:
+1. Digital Signal Processing: Principles, Algorithms and Applications, John G. Proakis, D. G.
+Manolakis, 3rd Edition, PHI, 2007
+VNRVJIET M.TECH. PE A18 CURRICULUM 27
+2. Discrete Time Signal Processing, A. V. Oppenheim and R. W. Schaffer, PHI, 2009
+3. Digital Signal Processing in Power Electronics Control Circuits, Krzysztof Sozan´ski, Springer,
+2013
+REFERENCES:
+1. Digital Signal Processing - Fundamentals and Applications, Li Tan, Elsevier, 2008
+2. Fundamentals of Digital Signal Processing using MATLAB, Robert J. Schilling, Sandra L. Harris,
+Thomson, 2007
+3. Digital Signal Processing, S. Salivahanan, A. Vallavaraj, C. Gnanapriya, TMH, 2009
+4. Discrete Systems and Digital Signal Processing with MATLAB, Taan S. El Ali, CRC Press,2009
+5. Digital Signal Processor; Architecture, Programming & Application, P. Venkata Ramani, M.
+Bhaskar, Tata McGraw Hill, 2001
+VNRVJIET M.TECH. PE A18 CURRICULUM 28
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (PE) L T/P C
+0 3 1.5
+(A18PC2PL01) POWER ELECTRONIC CONVERTERS LABORATORY
+COURSE PRE-REQUISITES: Power Electronics
+COURSE OBJECTIVES:
+• To apply the concepts of power electronic converters for efficient conversion/control of
+power from source to load
+• To design the power converter with suitable switches meeting a specific load requirement
+• To apply knowledge of Power Electronic Convertor for DC integration to AC
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understand the operating principles of various power electronic converters
+CO-2: Use power electronic simulation packages& hardware to develop the power
+Converters
+CO-3: Analyze and choose the appropriate converters for various applications
+LIST OF EXPERIMENTS:
+1. Simulation of single-phase half wave controlled rectified with (i) resistive load (ii) inductive
+load
+2. Simulation of single phase (i) fully controlled (ii) half controlled bridge rectifiers with
+resistive and inductive loads
+3. Simulation of three-phase fully / half controlled bridge rectifier with resistive and inductive
+loads
+4. Simulation of the operation of IGBT /MOSFET Based DC-DC Converters. (Buck Converter &
+Boost Converter)
+5. Simulation of single-phase AC voltage regulator with resistive and inductive loads
+6. Simulation of single phase and Three phase cyclo-converter
+7. Simulation of MOSFET / IGBT based Single phase and Three-phase bridge inverters
+8. Experimental study of single phase fully controlled bridge rectifiers with resistiveand
+inductive loads
+9. To study triggering of (i) IGBT (ii) MOSFET
+10. Experimental study of MOSFET Based chopper circuit
+11. Experimental study of AC Voltage regulator with R and RL loads
+12. Experimental study of three phase PWM Inverter
+Note: Conduct the experiments from 1 to 7 using suitable simulation tool
+VNRVJIET M.TECH. PE A18 CURRICULUM 29
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (PE) L T/P C
+0 3 1.5
+(A18PC2PL02) MODELING AND SIMULATION OF ELECTRICAL DRIVES LABORATORY
+COURSE PRE-REQUISITES: MATLAB & Electrical Machines
+COURSE OBJECTIVES:
+• To find torque and assess the DC machines through State space models
+• To identify different reference frame for applying transformations
+• To study and control different drives using power electronic converters
+• To apply different simulation packages for studying different machines
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Assess the performance of dc machines through state space models
+CO-2: Study different braking operations of DC machines through simulations
+CO-3: Obtain and study the machine equations to different reference frames
+CO-4: Study the control of different drives by power electronic converters through simulations
+LIST OF EXPERIMENTS:
+1. Determination of Torque using the State space model of a DC machine through simulations
+2. Simulation of DC motor model and to study its Steady state and Dynamic behavior for a
+change in Load Torque
+3. Study of Regenerative/Dynamic braking operation of DC Motor through simulation
+4. Study of changes in mutual inductances of a rotating three phase induction machine
+5. Verification of Linear transformations in a Three Induction Motor through simulation studies
+6. Simulation of three phase induction motor model referred to different reference frames
+7. Modeling and simulation ofThree Phase Induction machine and to study its Steady state
+and Dynamic behavior for a change in Load Torque
+8. Study of Regenerative/Dynamic braking operation of Induction Motor through simulation
+9. Performance analysis of Synchronous Motor using its mathematical modeling through
+simulation studies
+10. Study of Thyristor Controlled DC Motor and Chopper Fed DC Motor through simulations
+11. Study of V/F Control operation by VSI/CSI Feed Induction Motor Drive through simulations
+12. Study of Permanent Magnet Synchronous Motor Drive fed by PWM Inverter using software
+VNRVJIET M.TECH. PE A18 CURRICULUM 30
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (PE) L T/P C
+0 4 2
+(A18PW4PL01) TECHNICAL SEMINAR
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Identify a research topic related to advanced/state-of-the-art technologies
+CO-2: Collect the literature and comprehend/analyze critically the technological
+advancements
+CO-3: Engage in effective oral communication through presentation of seminar
+CO-4: Engage in effective written communication through report
+COURSE OUTLINE:
+• A student shall present a seminar on a technical topic during I semester of the M.Tech.
+programme.
+• A student, under the supervision of a faculty member, shall collect literature on a technical
+topic of his / her choice, critically review the literature and submit it to the Seminar Review
+Committee (SRC) in a prescribed report form.
+• The SRC shall consist of Head of the Department, faculty supervisor and a senior faculty
+member of the specialization / department.
+• Student shall make an oral presentation before the SRC after clearing the plagiarism
+check.
+• Prior to the submission of seminar report to the SRC, its soft copy shall be submitted to the
+PG Coordinator for PLAGIARISM check.
+• The report shall be accepted for submission to the SRC only upon meeting the prescribed
+similarity index.
+VNRVJIET M.TECH. PE A18 CURRICULUM 31
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (PE) L T/P C
+2 0 0
+(A18AU5CS01) RESEARCH METHODOLOGY AND IPR
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To introduce the characteristics of a good research problem
+• To choose appropriate approaches of investigation of solutions for research problem
+• To familiarize with basic Intellectual Property Rights
+• To understand different Patent Rights
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understand research problem formulation, analyze research related information and
+follow research ethics
+CO-2: Realize the importance of ideas, concept, and creativity in the present-day context
+CO-3: Recognize that when IPR would take such important place in growth of individuals and
+nation, it is needless to emphasize the need of information about IPR to be promoted among
+students in general and engineering in particular
+CO-4: Appreciate IPR protection which leads to creation of new and better products, and in
+turn brings about, economic growth and social benefits
+UNIT-I:
+Introduction: Meaning of research problem, Sources of research problem, Criteria
+Characteristics of a good research problem, Errors in selecting a research problem, Scope and
+objectives of research problem.
+Approaches of investigation of solutions for research problem, data collection, analysis,
+interpretation, necessary instrumentations.
+UNIT-II:
+Literature Survey: Effective literature studies approaches, analysis. Plagiarism, Research ethics.
+UNIT-III:
+Effective Technical Writing: How to write report, Paper. Developing a Research Proposal,
+Format of research proposal, a presentation and assessment by a review committee
+UNIT-IV:
+Nature of Intellectual Property: Patents, Designs, Trade and Copyright. Process of
+Patenting and Development: technological research, innovation, patenting, development.
+International Scenario: International cooperation on Intellectual Property. Procedure for grants
+of patents, Patenting under PCT.
+UNIT-V:
+Patent Rights: Scope of Patent Rights. Licensing and transfer of technology. Patent information
+and databases. Geographical Indications.
+UNIT-VI:
+New Developments in IPR: Administration of Patent System. New developments in IPR; IPR of
+Biological Systems, Computer Software etc. Traditional knowledge Case Studies, IPR.
+TEXT BOOKS:
+1. Research Methodology: An Introduction for Science & Engineering Students, Stuart Melville
+and Wayne Goddard
+2. Research Methodology: An Introduction, Wayne Goddard and Stuart Melville
+VNRVJIET M.TECH. PE A18 CURRICULUM 32
+3. Resisting Intellectual Property, Halbert, Taylor & Francis Ltd ,2007
+REFERENCES:
+1. Research Methodology: A Step-by-Step Guide for Beginners, Ranjit Kumar, 2nd Edition
+2. Research Methodology: Methods and Techniques, C. R. Kothari and Gaurav Garg, New
+Age International Publishers
+3. Intellectual Property in New Technological Age, Robert P. Merges, Peter S. Menell, Mark A.
+Lemley, 2016
+4. Intellectual Property Rights Under WTO, T. Ramappa, S. Chand, 2008
+VNRVJIET M.TECH. PE A18 CURRICULUM 33
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (PE) L T/P C
+3 0 3
+(A18PC1PL04) ADVANCED POWER ELECTRONIC CONVERTERS
+COURSE PRE-REQUISITES: Power Electronics, Power Electronic Converters
+COURSE OBJECTIVES:
+• To describe the operation of multi-level inverters with switching strategies for high power
+applications
+• To comprehend the design of resonant converters and switched mode power supplies
+• To understand the design procedure of magnetic and electrostatic components of
+converters
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Develop and analyze various converter topologies
+CO-2: Analyse power supplies and dynamics of DC to DC converters
+CO-3: Describe multilevel Inverter topologies for various applications of electrical engineering
+CO-4: Design the components for switched mode power supplies
+UNIT-I:
+Resonant Pulse Inverters: Introduction, Series resonant inverters – series resonant inverters with
+unidirectional switches – series resonant inverters with bidirectional switches – analysis of half
+bridge resonant inverter – evaluation of currents and voltages of a simple resonant inverter –
+analysis of half bridge and full bridge resonant inverter with bidirectional switches ; Frequency
+response of series resonant inverters – for series loaded inverter – for parallel loaded inverter ;
+Voltage control of resonant inverters – class E resonant inverter – class E resonant rectifier –
+evaluation of values of C’s and L’s for class E inverter and Class E rectifier – numerical problems.
+UNIT-II:
+Resonant Converters: Zero current switching resonant converters – L type ZCS resonant
+converter – M type ZCS resonant converter – zero voltage switching resonant converters –
+comparison between ZCS and ZVS resonant converters – Two quadrant ZVS resonant
+converters – resonant dc-link inverters – evaluation of L and C for a zero current switching
+inverter – Numerical problems.
+UNIT-III:
+Multilevel Inverters: Multilevel concept – Classification of multilevel inverters – Diode clamped
+Multilevel inverter – principle of operation – main features – improved diode Clamped inverter
+– principle of operation – Flying capacitors multilevel inverter-principle of operation – main
+features – cascaded multilevel inverter – principle of operation – main features – Multilevel
+inverter applications – reactive power compensation – back to back intertie system –
+adjustable drives -Switching device currents – dc link capacitor voltage balancing – features
+of Multilevel inverters – comparisons of multilevel converters.
+UNIT-IV:
+Power Supply Applications: Isolated Switch mode dc power supplies – fly back Converter –
+forward converter – push-pull converter – half bridge converter – Full bridge converter –
+Resonant d c power supplies – bidirectional power supplies – Applications; power line
+disturbances – power conditioners – Uninterruptible Power Supplies.
+UNIT-V:
+DC-DC Converter Dynamics: Pulse Width Modulated Converter-Dynamic and Output
+Equations of the Converter; Averaged Model of the Converter- Steady State Solution-Small
+Signal Model of The Converter-Transfer Functions of the converter with examples; Generalized
+VNRVJIET M.TECH. PE A18 CURRICULUM 34
+State Space Model of the Converter –Generalized model –linear small signal model-dynamic
+functions of the converter-circuit averaged model quantities; some examples.
+UNIT-VI:
+Design of Power Converter Components: Design of magnetic components-design of
+transformer - Design of Inductor and current transformer - Selection of filter capacitors -
+Selection of ratings for devices - input filter design
+TEXT BOOKS:
+1. Power Electronics, Mohammed H. Rashid, Pearson Education, Third Edition – First Indian
+Reprint, 2004
+2. Power Electronics, Ned Mohan, Tore M. Undeland and William P. Robbins, Second Edition,
+John Wiley & Sons
+3. Course Material on Switched Mode Power Conversion, V. Ramanarayanan, First Edition,
+2005
+REFERENCES:
+1. High Power Convertors and Drives, Bin Wu, IEEE Press – Wiley
+2. Fundamentals of Power Electronics, Robert W. Erickson and Dragan Maksimovic, Springer
+3. Pulse-width Modulated DC-DC Power Converters, Marian K. Kazimierczuk, John Wiley &
+Sons
+4. Elements of Power Electronics, Philip T. Krein, Oxford University Press
+5. Switching Power Supply Design, Abraham I. Pressman, McGraw Hill Publishing Company,
+2001
+VNRVJIET M.TECH. PE A18 CURRICULUM 35
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (PE) L T/P C
+3 0 3
+(A18PC1PL05) DIGITAL CONTROLLERS IN POWER ELECTRONIC APPLICATIONS
+COURSE PRE-REQUISITES: Power Electronics
+COURSE OBJECTIVES:
+• To understand the architecture of Texas Instruments’s MSP 430 processor
+• To understand PWM generation using MSP 430 Processor
+• To understand the architecture of Texas Instruments’ LF 2xx processor
+• To appreciate digital control of power electronic converters
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Describe the architecture and addressing modes of MSP 430, LF 2xx Processor
+CO-2: Formulate programs for PWM generation using MSP 430 Processor
+CO-3: Understand the digital control of power electronic converters
+UNIT-I:
+MSP430 Architecture: Introduction – Where does the MSP430 fit, The outside view, The inside
+view-Functional block diagram, Memory, Central Processing Unit, Memory Mapped Input and
+Output, Clock Generator, Exceptions: Interrupts and Resets, MSP430 family.
+UNIT-II:
+Addressing Modes & Instruction Set: Addressing Modes, Instruction set, Constant Generator
+and Emulated Instructions, Program Examples.
+UNIT-III:
+Interrupts and Timers: Clock System, Interrupts and Operating Modes- Clock System, Interrupts,
+What happens when an interrupted is requested, Interrupt Service Routines, Low Power Modes
+of Operation, Watchdog Timer, Basic Timer1, Real Time Clock, Timer-A: TimerBlock,
+Capture/Compare Channels, Interrupts from Timer-A.
+UNIT-IV:
+Analog I/O and PWM: Analog Input-Output and PWM - Comparator-A, ADC10, ADC12, Sigma-
+Delta ADC, Internal Operational Amplifiers, DAC, Edge Aligned PWM, Simple PWM, Design of
+PWM.LCD interfacing.
+UNIT-V:
+Introduction to DSP Processor: Introduction to the C2xx DSP core and code generation. The
+components of the C2xx DSP core, Mapping external devices to the C2xx core , peripherals
+and Peripheral Interface, System configuration registers, Memory , Types of Physical Memory ,
+memory Addressing Modes , Code Composer Studio for C2xx DSP.
+UNIT-VI:
+Design of Controllers in Power Electronics: Typical applications: DSP Implementation of DC-DC
+buck-boost converter- DSP-based control of permanent magnet brushless DC machines- DSP-
+based Implementation of clarkes’s and park’s transformations- DSP-Based implementation of
+SPWM, SVPWM inverter pulse generation.
+TEXT BOOKS:
+1. MSP430 Microcontroller Basics, John H. Davies, Elsevier
+2. DSP Based Electro Mechanical Motion Control, Hamid. A. Toliyat and Steven G. Campbell,
+CRC Press, 2004
+VNRVJIET M.TECH. PE A18 CURRICULUM 36
+REFERENCES:
+1. Introduction to Embedded Systems Using Microcontrollers and the MSP430, Jiménez,
+Manuel, Palomera, Rogelio, Couvertier, Isidoro
+2. 2833x Digital Signal Controller (DSC) Data Manual
+a. TMS320C28x CPU and Instruction Set Reference Guide - SPRU430
+b. TMS320x28xx, 28xxx Peripheral Reference Guide - SPRU566
+c. TMS320x2833x System Control and Interrupts Reference Guide - SPRUFB0
+d. TMS320x2833x Analog-to-Digital Converter (ADC) Reference Guide - SPRU812
+e. TMS320x28xx, 28xxx Enhanced Pulse Width Modulator (ePWM) & High-Resolution Pulse
+Width Modulator (HRPWM) Module Reference Guide - SPRU791 & - SPRU924
+VNRVJIET M.TECH. PE A18 CURRICULUM 37
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (PE) L T/P C
+3 0 3
+(A18PC1PL06) ADVANCED CONTROL SYSTEMS
+COURSE PRE-REQUISITES: Control Systems, Linear Control Systems, Digital Control Systems
+COURSE OBJECTIVES:
+• To cater the knowledge of basic and modern control system for the real time analysis and
+design of control systems
+• To provide adequate knowledge of nonlinear systems
+• To analyze the concept of stability of nonlinear systems and categorization
+• To provide comprehensive knowledge of optimal control and modern control
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Apply the knowledge of basic and modern control system for the real time analysis and
+design of control systems
+CO-2: Understand the concepts of state variables analysis
+CO-3: Analyze the concept of stability of nonlinear systems and optimal control
+CO-4: Analyze the concepts of optimal control and modern control
+UNIT-I:
+State Space Representation: State Space Representation of physical systems, Transfer function
+to state space representation, Phase variable form, Canonical Forms – Controllable Canonical
+Form, Observable Canonical Form, Jordan Canonical Form, State space to Transfer function-
+State diagram Representation.
+UNIT-II:
+State Transition Matrix, Controllability and Observability: Solution of State Equation, State
+Transition Matrix; Tests for controllability and observability for continuous time systems – Time
+varying case, time invariant case, Principle of Duality, Controllability and observability form
+and other canonical forms.
+UNIT-III:
+Nonlinear Systems & Phase-Plane Analysis: Introduction to nonlinear systems, Properties of
+nonlinear systems, Types of nonlinearities, Introduction to phase-plane analysis, Isocline
+Method, singular points- Stable, Unstable Nodes, Saddle Point.
+UNIT-IV:
+Stability Analysis: Stability in the sense of Lyapunov, Lyapunov‘s stability and Lypanov‘s
+instability theorems. Direct method of Lypanov for the Linear and Nonlinear continuous time
+autonomous systems, Variable gradient method.
+UNIT-V:
+Modal Control & Calculus of Variations: Effect of state feedback on controllability and
+observability, Design of State Feedback Control through Pole placement. Full order observer
+and reduced order observer.
+Minimization of functional of single function, Constrained minimization - Minimum principle.
+Control variable inequality constraints. Control and state variable inequality constraints. Euler
+Lagrange Equation.
+UNIT-VI:
+Optimal Control: Formulation of optimal control problem, Minimum time, Minimum energy,
+minimum fuel problems. State regulator problem. Output regulator problem. Tracking problem,
+Continuous-Time Linear Regulators.
+VNRVJIET M.TECH. PE A18 CURRICULUM 38
+TEXT BOOKS:
+1. Modern Control System Theory, M. Gopal, 2nd Edition, New Age International Publishers,
+1996
+2. Advanced Control Systems, A. Nagoor Khani, 2nd Edition, RBA Publications 2014
+REFERENCES:
+1. Modern Control Engineering, K. Ogata, 3rd Edition, Prentice Hall of India, 1998
+2. Control Systems Engineering, I. J. Nagarath and M. Gopal, New Age International (P) Ltd.
+3. Digital Control and State Variable Methods, M. Gopal, Tata McGraw-Hill Companies, 1997
+VNRVJIET M.TECH. PE A18 CURRICULUM 39
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (PE) L T/P C
+3 0 3
+(A18PE1PL05) ELECTRIC HYBRID VEHICLES
+COURSE PRE-REQUISITES: Electrical Machines
+COURSE OBJECTIVES:
+• To study the different drive train configurations of electric vehicles
+• To propose the various propulsion and energy storage systems for EHVs
+• To know the sizing of propulsion motors and other systems involved in EH vehicles
+• To carry out different design case studies of EHv and BEVs
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Assess the performance, societal and environmental impact of EHVs having known
+their past history
+CO-2: Implement various drive train topologies and control strategies in Electric and Hybrid
+vehicles
+CO-3: Recommend, Design/Size and Control different electric propulsion units and other
+components of EHVs and BEVs
+CO-4: Appropriately select the energy storage system and strategize its management in EHVs
+UNIT-I:
+Introduction to Hybrid Electric Vehicles: History of hybrid and electric vehicles, social and
+environmental importance of hybrid and electric vehicles, impact of modern drive-trains on
+energy supplies. Conventional Vehicles: Basics of vehicle performance, Forces acting on a
+vehicle, vehicle power source (plant) characteristics, transmission characteristics: Manual,
+Hydro-dynamic and Continuously Variable Transmissions, mathematical model of vehicle.
+UNIT-II:
+Electric Drive-Trains: Advantages of Electric Vehicles (EVs), Basic concept of electric traction,
+introduction to various electric drive-train topologies (Configurations), Electric Vehicle
+Performance, power flow control in electric drive-train topologies, fuel efficiency analysis.
+UNIT-III:
+Hybrid Electric Drive-Trains: Basic architecture and concept of hybrid traction, patterns of
+power flow, introduction to various hybrid drive-train topologies, power flow control in hybrid
+drive-train topologies, fuel efficiency analysis
+UNIT-IV:
+Electric Propulsion Unit: Introduction to electric components used in hybrid and electric
+vehicles, Configuration and control of DC Motor drives, Configuration and control of Induction
+Motor drives, configuration and control of Permanent Magnet Motor drives, Configuration and
+control of Switch Reluctance Motor drives, drive system efficiency.
+UNIT-V:
+Sizing the Drive System: Matching the electric machine and the internal combustion engine
+(ICE), Sizing of the propulsion motor, Sizing of engine-generator, Sizing the power electronics
+based on Switch Technology - Switching Frequency and Ripple capacitor design , selecting
+the energy storage technology, Supporting subsystems
+UNIT-VI:
+Energy Storage and Energy Management Strategies: Energy Storage Requirements in Hybrid
+and Electric Vehicles, batteries, Fuel cell and super conductor and Flywheel based Energy
+storage Introduction to energy management strategies used in hybrid and electric vehicles,
+VNRVJIET M.TECH. PE A18 CURRICULUM 40
+classification of different energy management strategies, comparison of different energy
+management strategies, implementation issues of energy management strategies. Case
+Studies of design of a Hybrid Electric Vehicle (HEV) and Battery Electric Vehicle (BEV).
+TEXT BOOKS:
+1. Electric and Hybrid Vehicles: Design Fundamentals, Iqbal Hussein, CRC Press, 2010
+2. Modern Electric, Hybrid Electric and Fuel Cell Vehicles: Fundamentals, Theory and Design,
+Mehrdad Ehsani, Yimi Gao, Sebastian E. Gay, Ali Emadi, CRC Press, 2009
+3. Electric Vehicle Technology Explained, James Larminie, John Lowry, Wiley, 2003
+REFERENCES:
+1. Hybrid Vehicle Propulsion, Jefferson C. M., Barnard and R. H., WIT Press, 2002
+2. Hybrid, Electric and Fuel Cell Vehicles, Jack Erjavec and Jeff Arias, Cengage Learning,
+2012
+3. Electric Vehicles - The Benefits and Barriers, Seref Soylu, InTech Publishers, 2011
+4. Alternative Fuel Technology – Electric, Hybrid and Fuel Cell Vehicles, Jack Erjavec and Jeff
+Arias, Cengage Learning Pvt. Ltd., 2007
+5. Build Your Own Electric Vehicle, Seth Leitman, McGraw Hill, 2013
+VNRVJIET M.TECH. PE A18 CURRICULUM 41
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (PE) L T/P C
+3 0 3
+(A18PE1PL06) EMBEDDED SYSTEMS
+COURSE PRE-REQUISITES: C Programming, Micro-processor and Micro-controllers
+COURSE OBJECTIVES:
+• To understand the basics of real time operating and embedded systems
+• To understand the architecture and programming of AVR micro controller
+• To interface AVR micro controller with different peripherals
+• To understand the practical applications of AVR micro controller
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Program AVR micro controllers for different applications
+CO-2: Apply the knowledge of AVR micro controller for real time applications
+CO-3: Design an Embedded system using AVR micro controller
+CO-4: Interface AVR micro controller with different Peripherals
+UNIT-I:
+Introduction to Embedded System: An Embedded system, Processor, hardware unit, software
+embedded into a system, Example of an embedded system, Real time and embedded OS.
+Structural UNIT-In a Processor, processor selection for embedded systems.
+UNIT-II:
+Introduction to AVR Micro-controller: AVR system –AVR family processors, Architecture,
+Addressing modes, Instruction overview, Branch, call, and Time delay loop, AVR I/O Port
+Programming.
+UNIT-III:
+Programming with AVR Micro-controller: Assembly level programming, Higher level language
+programming, AVR programming in C, Timer programming, Interrupt programming.
+UNIT-IV:
+Interfacing of I/O Device with AVR Micro-controller: AVR LCD and Keyboard interfacing, ADC,
+DAC, and different sensor interfacing, relay, Opt isolated interface.
+UNIT-V:
+Motor Control with AVR Micro-controller: Stepper motor interfacing, Servo motor interfacing,
+PWM Programming, RTC, PC interface, Data Acquisition system.
+UNIT-VI:
+Real-time Embedded systems using AVR Micro-controller:
+Case Studies: DC Motor control, Induction motor control (VSI and CSI fed), UPS Applications,
+Special machine control(PMBLDC).
+TEXT BOOKS:
+1. AVR Micro Controller and Embedded Systems: Using Assembly and C, M. A. Mazidi, S. Naimi
+2. Embedded System Architecture: Programming and Design, Rajkamal, TMH Edition, 2007
+3. Embedded Micro Computer System: Real-Time Interfacing, J. W. Valvano, Cengage-
+Engineering, First Edition, 2000
+REFERENCES:
+1. Real-time Systems, Jane W. S. Liu, Prentice Hall, 2000
+2. An Embedded Software Primer, David E. Simon, Pearson Education, 1999
+VNRVJIET M.TECH. PE A18 CURRICULUM 42
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (PE) L T/P C
+3 0 3
+(A18PC1PS05) POWER QUALITY
+COURSE PRE-REQUISITES: Analysis of Power Electronic Converters, Power Systems
+COURSE OBJECTIVES:
+• To get the knowledge on Power quality problems and standards
+• To get awareness on devices introducing harmonics and mitigation methods
+• To describe modeling of components in industrial power systems
+• To get the concept of grounding & wiring problems
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Acquire knowledge on power quality issues and standards
+CO-2: Model and analyze the harmonic introducing devices and effects on system equipment
+and loads
+CO-3: Analyze the control techniques to APFC based on static VAR compensators
+CO-4: Analyze the series and shunt active power filtering techniques for harmonics and effects
+of grounding
+UNIT- I:
+Introduction to Power Quality: Overview of power quality phenomena-classification of power
+quality Issues- Voltage, Sag, Swell, Surges, Harmonics, over voltages, spikes, Voltage
+fluctuations, Transients and Interruptions. Power quality measures and Standards Power
+acceptability curves- IEEE guidelines, EMC standards and recommended practices.
+UNIT II:
+Voltage Sags and Pq In Industrial Power Systems: Voltage Sag – Characterization - Single
+Phase: Voltage sag – definition, causes of voltage sag, voltage sag magnitude, monitoring.
+Voltage sag calculation in non-radial systems, meshed systems- voltage sag duration. Three
+Phase: Three phase faults, phase angle jumps, magnitude and phase angle jumps for three
+phase unbalanced sags. Modelling of networks and components under non-sinusoidal
+conditions-transmission and distribution systems- shunt capacitors- transformers-electric
+machines -loads that cause power quality problems.
+UNIT III:
+Interruptions and PQ Issues In Drives: Short interruptions – definition, origin of short interruptions
+and monitoring of short interruptions. Long Interruptions– Definition – Difference between
+failures, outage, Interruptions – causes of Long Interruptions – Origin of Interruptions.
+Voltage sag – equipment behavior of Power electronic loads, induction motors, synchronous
+motors, computers, consumer electronics, adjustable speed AC drives and its operation.
+Mitigation of PQ problems in AC Drives, adjustable speed DC drives.
+UNIT-IV:
+Harmonics: Harmonics, Harmonics indices, Inter harmonics, Notching – Voltage vs Current
+distortion – Harmonics vs Transients – Sources and effects of harmonic distortion – System
+response characteristics – total harmonic distortion- RMS value of a harmonic waveform,
+Principles of controlling harmonics – Standards and limitation – important harmonic introducing
+devices-SMPS-Three phase power converters-harmonic distortion of fluorescent lamps-effect
+of power system harmonics on power system equipment and loads.
+UNIT-V:
+Harmonic Mitigation and Grounding: Passive compensation and passive filters, active filtering
+– shunt, series and hybrid Filters and their control and d-q domain control of three phase shunt
+active filters. Uninterruptible power supplies- series active power filtering techniques for
+VNRVJIET M.TECH. PE A18 CURRICULUM 43
+harmonic cancellation and isolation. Grounding and wiring-introduction-NEC grounding
+requirements-reasons for grounding- typical grounding and wiring problems and solutions.
+UNIT VI:
+PQ Improvement and Custom Power Devices: Overview of mitigation methods – from fault to
+trip, reducing the number of faults, reducing the fault clearing time, installing mitigation
+equipment, improving equipment immunity, different events and mitigation methods. Voltage
+source converter, series voltage controller: Dynamic Voltage Restorer, shunt controller:
+DSTATCOM, combined shunt and series controller: UPQC.
+TEXT BOOKS:
+1. Understanding Power Quality Problems, Math H. J. Bollen, IEEE Press
+2. Electrical Power Systems Quality, Roger C. Durgan, Mark F. McGranaghan and H. Wayne
+Beaty, 2nd Edition, Tata McGraw-Hill, 2008
+3. Power Quality – Problems and Mitigation Techniques, Bhim Singh, Ambarish Chandra,
+Kamal Al-Haddad, Wiley Publication
+REFERENCES:
+1. Power Quality in Electrical Systems, Alexander Kusko and Mark M. Thompson, McGraw Hill
+Publication
+2. Power Quality, Sankaran C., CRC Press, 2002
+3. Distribution Reliability and Power Quality, T. A. Sort, Taylor & Francis
+4. Electric Power Quality, G. T. Heydt, 2nd Edition, Stars in a Circle Publication, 1994
+5. Power Quality Enhancement Using Custom Power Devices, A. Ghosh, G. Ledwich, Kluwer
+Academic, 2002
+VNRVJIET M.TECH. PE A18 CURRICULUM 44
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (PE) L T/P C
+3 0 3
+(A18PE1PL07) ELECTRO MAGNETIC INTERFERENCE AND COMPATIBILITY
+COURSE PRE-REQUISITES: Power Electronics
+COURSE OBJECTIVES:
+• To enumerate sources of Electromagnetic interferences
+• To design EMI Filter for insertion loss and for switch mode power supplies
+• To understand concept of Faraday screens for EMI Prevention
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Recognize the sources of Conducted and radiated EMI in Power Electronic Converters
+and consumer appliances and suggest remedial measures to mitigate the problems.
+CO-2: Assess the insertion loss and design EMI filters to reduce the loss
+CO-3: Design EMI filters, common-mode chokes and RC-snubber circuits measures to keep the
+interference within tolerable limits
+UNIT-I:
+Introduction: Sources of conducted and radiated EMI, EMC standardization and description,
+measuring instruments, conducted EMI references, EMI in power electronic equipment: EMI
+from power semiconductors circuits.
+UNIT-II:
+Noise Suppression in Relay Systems: AC switching relays, shielded transformers, capacitor
+filters, EMI generation and reduction at source, influence of layout and control of parasites.
+UNIT-III:
+EMI Filter Elements: Capacitors, choke coils, resistors, EMI filter circuits. Ferrite breeds, feed
+through filters, bifilar wound choke filter, EMI filters at source, EMI filter at output.
+UNIT-IV:
+EMI Filter Design for Insertion Loss: Worst case insertion loss, design method for mismatched
+impedance condition and EMI filters with common mode choke-coils, IEC standards on EMI.
+UNIT-V:
+EMI in Switch Mode Power Supplies: EMI propagation modes, power line conducted-mode
+inference, safety regulations (ground return currents), Power line filters, suppressing EMI at
+sources, Line impedance stabilization network (LISN), line filter design, common-mode line filter
+inductors- design& example, series –mode inductors and problems, EMI measurements.
+UNIT-VI:
+Faraday Screens for EMI Prevention: Faraday Screens for EMI prevention in switching devices,
+transformers, safety screens, faraday screens on output components, reducing radiated EMI
+on gapped transformer cores, metal screens, electrostatic screens in transformers.
+TEXT BOOKS:
+1. Electromagnetic Compatibility in Power Electronics, Laszlo Tihanyi, IEEE Press
+2. EMI Filter Design, Pullen Timotty. M. Ozenbaugh, N. Richard Lee, CRC Press, Taylor & Francis
+3. Practical Design for Electromagnetic Compatibility, R. F. Ficchi Hayden Book Co.
+REFERENCES:
+1. Handbook on Switch-Mode Power Supplies, Keith H. Billings, McGraw-Hill Publisher, 1989
+VNRVJIET M.TECH. PE A18 CURRICULUM 45
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (PE) L T/P C
+3 0 3
+(A18PC1PS06) FLEXIBLE ACTRANSMISSION SYSTEMS
+COURSE PRE-REQUISITES: Power Electronics, Power Systems, Reactive Power Control
+COURSE OBJECTIVES:
+• To learn the active and reactive power flow control in power system
+• To understand the need for static compensators
+• To develop the different control strategies used for compensation
+• To understand the need of custom power devices and applications
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Acquire knowledge of reactive power control in power systems
+CO-2: Compensation Schemes at Transmission and Distribution level in Power Systems
+CO-3: Learn various Static VAR controllers working and applications
+CO-4: Understand the modeling and control of Static VAR controllers
+CO-5: Understand the working and applications of custom power devices
+UNIT-I:
+Introduction to FACTS Controllers: Transmission inter connections, power and Reactive power
+flow control in AC transmission system, loading capability limits, constraints of maximum
+transmission loading and dynamic stability considerations. Uncompensated and
+compensated lines, relative importance of controllable parameters. Classification of FACTS
+controller based on type of connection, relative importance of different types of controllers
+and benefits of FACTS technology.
+UNIT-II:
+Objectives of Static Compensation: Objectives of Shunt compensation – midpoint voltage
+regulation, voltage instability precaution – importance of Transient Stability – Power Oscillation
+damping. Objectives of series compensation – Improvement of Transient Stability and Voltage
+Stability – Power Oscillation Damping – Methods of controllable var generation – variable
+impedance type static var generations, switching converter type var generations and hybrid
+var generations.
+UNIT-III:
+SVC and STATCOM: Static versus passive VAR compensator, Static shunt compensators: SVC
+and STATCOM - Operation and control of TCR, TSC, FC-TCR and TSC-TCR type SVCs and
+STATCOM - Compensator control. Comparison between SVC and STATCOM.
+UNIT-IV:
+Static Series Compensators: Variable impendence type FACTS controllers - GCSC, TSSC and
+TCSC and their control schemes. Switching converter type FACTS controllers: SSSC and its
+control. Static voltage and phase angle regulators – TCVR and TCPAR Operation and Control
+–Applications.
+UNIT-V:
+UPFC and IPFC: Unified Power Flow Controller: Circuit Arrangement, Operation and control of
+UPFC.
+Basic Principle of P and Q control- Independent real and reactive power flow control-
+Applications. Introduction to interline power flow controller: basic operation and
+characteristics.
+VNRVJIET M.TECH. PE A18 CURRICULUM 46
+UNIT-VI:
+Modelling and Control of FACTS Controllers: Modeling and analysis of FACTS Controllers –
+Internal control schemes of STATCOM-indirect output voltage control and direct output
+voltage control. Transfer function and dynamic response of STATCOM. Implementation of
+regulation slope for Static Var Generators (SVG’s) – Control circuits implementations for
+Transient stability, power oscillation damping and VAR reserve control for SVG. Approximate
+models of SVC and STATCOM for power system study.
+TEXT BOOKS:
+1. Understanding FACTS: Concepts and Technology of Flexible AC Transmission Systems, N. G.
+Hingorani, L. Gyugyi, IEEE Press Book, Standard Publishers and Distributors, Delhi, 2001
+2. FACTS Controllers in Power Transmission and Distribution, K. R. Padiyar, New Age
+International Publishers, 2007
+REFERENCES:
+1. Flexible AC Transmission Systems-Modeling and Control, X. P. Zhang, C. Rehtanz, B. Pal,
+Springer Verlag, Berlin, 2006
+2. Static Reactive Power Compensation, T. J. E. Miller, John Wiley and Sons, New York, 1982
+3. FACTS Controllers & Applications, K. S. Suresh Kumar, S. Ashok, E-book Edition, Nalanda
+Digital Library, NIT Calicut, 2003
+VNRVJIET M.TECH. PE A18 CURRICULUM 47
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (PE) L T/P C
+3 0 3
+(A18PE1PS08) SMART GRIDS
+COURSE PRE-REQUISITES: Electrical Distribution Systems, Power Systems
+COURSE OBJECTIVES:
+• To understand concept of smart grid and its advantages over conventional grid
+• To know smart metering techniques
+• To learn wide area measurement techniques
+• To understand the problems associated with integration of distributed generation & it’s
+solution through smart grid
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Appreciate the difference between smart grid & conventional grid
+CO-2: Apply smart metering concepts to industrial and commercial installations
+CO-3: Formulate solutions in the areas of smart substations, distributed generation and wide
+Area measurements
+CO-4: Come up with smart grid solutions using modern communication technologies
+UNIT-I:
+Introduction to Smart Grid: Introduction, Evolution of Electric Grid, Smart Grid Concept, Need
+of Smart Grid, Features-Characteristics- Key Drivers of the Smart Grid, Functions of Smart
+Grid, Opportunities of Smart Grid, Challenges in Implementation of Smart Grid, Technical
+Challenges for Development of Smart Grid in India, Smart Grid Benefits, Scope of Smart
+Grid, Difference between Conventional and Smart Grid, Concept of Resilient, Resilience of
+Smart Grid Functions, Self-Healing Grid, Smart Grid Implementation, Present Development
+and International policies in Smart Grid ,
+UNIT-II:
+Smart Grid Technologies: Introduction, Smart Substation-Technology-Drivers, Classifications of
+Substations, Elements of Substation, Objectives of Smart Substation, Functions of Smart
+Substation, Sub-Station Automation: Key Drivers - Benefits – Functions. Feeder Automation,
+Applications of Feeder Automation, Energy Management System (EMS), System Design,
+Mechanism of Smart Energy System Outage Management, Plug in Hybrid Electric Vehicles
+(PHEV). Vehicle to grid.
+UNIT-III:
+Phasor Measurement Unit: Concept of Phasor Measurement Phasor Measurement Unit (PMU)-
+Features -Fundamentals, The Global Positioning Satellite (GPS) Systems, Synchrophasor
+Definition and Measurements, Applications of PMUs in Power Systems, Outlook of PMUs, Main
+strategy of PMU placement Based on Power Systems Intrinsic Characteristics, The Comparisons
+between SCADA system and PMUs System, Intelligent Electronic Devices-Functions-
+Advantages, , Wide Area Monitoring, Wide Area Monitoring Protection and Control
+(WAMPAC) System
+UNIT-IV:
+Micro-Grid: Concept of Micro grid, need & applications of Micro grid, Formation of micro grid,
+Inter connection, protection and control of micro grid, Plastic & Organic Solar cells, Thin film
+solar cells, Variable speed Wind generators, Fuel cells, micro turbines, Captive power plants,
+Integration of Renewable Energy Sources, Smart Storages, Battery, SMES, Pumped hydro,
+Compressed air storage.
+VNRVJIET M.TECH. PE A18 CURRICULUM 48
+UNIT-V:
+Power Quality in Smart Grid: Introduction, Power Quality, Electromagnetic Compatibility
+(EMC), Relation Between Voltage Quality and EMC, Field Experiences with Smart Grid
+Technology, Voltage Quality Planning Levels, Power Quality Standard, Power Quality Issues of
+Grid Connected Renewable Energy Sources, Causes Of Low Power Quality, Issues ,Challenges
+and Solutions of RES-Grid Integration, , Power Quality Conditioner (PQC)- Principle – Control
+Circuit- Series Compensation Control Circuit, Power Quality Monitoring- Considerations,
+Permanent Power Quality Monitoring Equipment.
+UNIT-VI:
+Smart Meters and Advanced Metering: Introduction, Smart Meter, The Smart Grid and Smart
+Meter Systems, Smart Meter-Technologies-Benefits, Advanced Metering Infrastructure (AMI)-
+Technologies-Protocols- Benefits-Standards-Initiatives- Developments
+Local Area Network (LAN)-Objectives-Technologies, Home Area Network (HAN)-Components-
+Technologies, Wide Area Network (WAN), Types of Connection in WAN, WAN Devices,
+Broadband Over Power Lines (BPL)-Features-Working, IP based Protocol, Need of Internet
+Protocol, Goals of IP, IP Based Networks, Cloud Computing, Cyber Security for Smart Grid,
+Need of Secure Smart Grid, Objectives and Requirements of Cyber Security, Network Security
+Threats in the Smart Grid
+TEXT BOOKS:
+1. Smart Grid Fundamentals of Design and Analysis, James Momoh, First Edition
+2. Introduction to the Smart Grid Concepts, Technologies and Evolution, S. K. Salman, IET
+Library, 2017
+REFERENCES:
+1. Smart Grid Technology, Harsh Tanwar, Bhavishya Mittal, Bhawana Chouhan, Genius
+Publications
+2. Smart-Grid-Handbook: For Regulators & Policy Makers, Indian Smart Grid Forum, 2017
+VNRVJIET M.TECH. PE A18 CURRICULUM 49
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (PE) L T/P C
+0 3 1.5
+(A18PC2PL03) ADVANCED POWER ELECTRONIC CONVERTERS SIMULATION LABORATORY
+COURSE PRE-REQUISITES: Power Electronic Converters
+COURSE OBJECTIVES:
+• To implement multilevel converter topologies
+• To perform closed loop control of DC-DC converters
+• To implement various Isolated and Non-Isolated power electronic converters
+• To perform soft switching of power electronic converters
+• To compare behaviour of PV systems at different conditions
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Demonstrate multi-level inverter/converter topologies in simulation environment
+CO-2: Design the Closed loop controller for DC-DC converters in simulation environment
+CO-3: Implement various resonant power electronic converters in simulation environment
+CO-4: Identify maximum power point of PV system in simulation environment
+LIST OF EXPERIMENTS:
+1. Single phase diode clamped Multilevel inverter
+2. Single phase flying capacitor Multilevel inverter
+3. Single phase cascaded Multilevel inverter
+4. Push pull converter
+5. Fly back converter
+6. Forward converter
+7. Series resonant converter
+8. Parallel resonant converter
+9. Zero voltage switching resonant converters
+10. Zero current switching resonant converters
+11. Closed loop implementation of buck and boost dc-dc converters. (a) Design of various
+elements such as inductor, capacitor for continuous current operation. (b) Small signal
+state space modeling. (c) Dynamic response with change in load
+12. Characteristics of solar PV Systems, Maximum Power Point Tracking Charge Controllers
+Note: Conduct the above experiments using suitable simulation tool
+VNRVJIET M.TECH. PE A18 CURRICULUM 50
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (PE) L T/P C
+0 3 1.5
+(A18PC2PL04) POWER ELECTRONIC CONTROL AND APPLICATIONS LABORATORY
+COURSE PRE-REQUISITES: Power Electronics
+COURSE OBJECTIVES:
+• To perform digital control of DC and AC machines
+• To implement PWM generation using digital controllers
+• To identify the maximum power point of PV systems at different conditions
+• To perform digital control of power electronic converters
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Implement closed loop control of DC machines
+CO-2: Execute digital control of AC machines
+CO-3: Demonstrate Maximum power point tracking of PV systems at different conditions
+CO-4: Demonstrate PWM generation using digital controllers for power electronic converters
+LIST OF EXPERIMENTS:
+1. Speed Measurement and closed loop control using PMDC motor
+2. Thyristorised drive for PMDC Motor with speed measurement and closed Loop control
+3. Thyristorised drive for 1Hp DC motor with closed loop control
+4. 3-Phase input IGBT, 4 quadrant chopper drive for DC motor with closed Loop control
+equipment
+5. Characteristics of Solar PV Panel
+6. Maximum power point tracker PV systems using a DC DC converter
+7. IGBT based 4 quadrant chopper drive for PM DC motor with speed measurement and
+closed look control
+8. PWM signal generation using digital controller
+9. Three phase IM speed control
+10. Brushless DC Motor Control
+11. A DC-DC boost converter control using digital controller
+12. A single-phase inverter control using digital controller
+VNRVJIET M.TECH. PE A18 CURRICULUM 51
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (PE) L T/P C
+0 4 2
+(A18PW4PL02) MINI-PROJECT
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understand the formulated industry / technical / societal problems
+CO-2: Analyze and / or develop models for providing solution to industry / technical / societal
+problems
+CO-3: Interpret and arrive at conclusions from the project carried out
+CO-4: Demonstrate effective communication skills through oral presentation
+CO-5: Engage in effective written communication through project report
+COURSE OUTLINE:
+• A student shall undergo a mini-project during II semester of the M.Tech. programme.
+• A student, under the supervision of a faculty member, shall collect literature on an allotted
+project topic of his / her choice, critically review the literature, carry out the mini-project,
+submit it to the department in a prescribed report form.
+• Evaluation of the mini-project shall be done by a Project Review Committee (PRC)
+consisting of the Head of the Department, faculty supervisor and a senior faculty member
+of the specialization / department.
+• Prior to the submission of mini-project report to the PRC, its soft copy shall be submitted to
+the PG Coordinator for PLAGIARISM check.
+• The mini-project report shall be accepted for submission to the PRC only upon meeting the
+prescribed similarity index.
+VNRVJIET M.TECH. PE A18 CURRICULUM 52
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (PE) L T/P C
+2 0 0
+(A18AU5EN01) ENGLISH FOR ACADEMIC AND RESEARCH WRITING
+COURSE OBJECTIVES:
+• To understand the usage of appropriate vocabulary (Formal, Informal, Gender Insensitive
+etc.)
+• To understand the features and processes of academic writing
+• To identify the resources
+• To understand standard documentation styles
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Use appropriate vocabulary (Formal, Informal, Slang, Gender Insensitive etc.)
+CO-2: Employ processes of academic writing
+CO-3: Identify the resources
+CO-4: Understand standard documentation styles
+UNIT- I:
+Introduction to Research:
+i. Identifying the topic
+ii. Identifying Sources; Finding Sources
+iii. Defining the broad area; Defining the specific area; Difference between a broad area
+and specific area
+iv. Choosing a topic
+v. Mechanics of Writing – Language, Tone, Style, Ethics
+UNIT-II:
+Referencing & Library Skills:
+i. Literature Survey
+ii. Writing Objectives
+iii. Hypothesis
+iv. Methodology
+v. Prospects for Future Research
+UNIT-III:
+Academic Writing Skills:
+i. Paraphrasing
+ii. Summarizing
+iii. Quoting
+iv. Rewriting
+v. Expansion
+UNIT-IV:
+Kinds of Academic Writing:
+i. Essays
+ii. Reports
+iii. Reviews
+iv. SOPs
+v. Abstracts
+vi. Proposals
+VNRVJIET M.TECH. PE A18 CURRICULUM 53
+UNIT-V:
+Research Process:
+i. Selection of Topic
+ii. Formulation of Hypothesis
+iii. Collection of Data
+iv. Analysis of Data
+v. Interpretation of Data
+vi. Presentation of Data
+UNIT-VI:
+i. Title
+ii. Abstract
+iii. Introduction
+iv. Literature Survey
+v. Methodology
+vi. Discussion
+vii. Findings/Results
+viii. Conclusion
+ix. Documenting Sources
+TEXT BOOKS:
+1. Writing for Science, Goldbort R., Yale University Press (available on Google Books), 2006
+2. Handbook of Writing for the Mathematical Sciences, Highman N., SIAM. Highman’s Book,
+1998
+REFERENCES:
+1. How to Write and Publish a Scientific Paper, Day R., Cambridge University Press, 2006
+2. English for Writing Research Papers, Adrian Wall Work, Springer New York Dordrecht
+Heidelberg London, 2011
+3. MLA Handbook for Research
+VNRVJIET M.TECH. PE A18 CURRICULUM 54
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester (PE) L T/P C
+3 0 3
+(A18PE1LI14) IoT TECHNOLOGIES
+COURSE OBJECTIVES:
+• To understand the new paradigm of objects interacting with people, information systems
+and with other objects
+• To introduce various IoT protocols
+• To understand the issues in developing specific real time system on various IoT platforms
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Identify and describe different kinds of internet-connected products developed on IoT
+platforms
+CO-2: Appreciate the challenges involved in establishing user-interaction with connected-
+objects
+CO-3: Develop prototype IoT applications using Arduino
+UNIT-I:
+Introduction to Internet of Things (IoT): Physical Design, Logical Design, IoT Enabling
+Technologies, Domain Specific IoT- Home automation, Cities, Environment, Energy and
+Industry.
+UNIT-II:
+IoT Protocols-Functionality based IoT Protocol Organization: Connectivity (6LoWPAN, RPL),
+Identification (EPC, uCode, IPv6, URIs), Communication(WiFi, Bluetooth, LPWAN); Discovery
+(Physical Web, mDNS, DNS-SD); Data Protocols (MQTT, CoAP, AMQP, Websocket, Node);
+Device Management (TR-069, OMA-DM); Semantic (JSON-LD, Web Thing Model); Multi-layer
+Frameworks (Alljoyn, IoTivity, Weave, Homekit)
+UNIT-III:
+Communication Protocols: IEEE 182.15.4, Zigbee, 6LoWPAN, Wireless HART, Z-wave, ISA100,
+Bluetooth, NFC, RFID.
+UNIT-IV:
+Sensor Networks: Wireless Sensor Networks, Basic components of sensor nodes, sensor web,
+Node behavior in WSN, Detection and connectivity re-establishment. Application of Sensor
+networks in Mines, Healthcare and Agriculture.
+UNIT-V:
+Introduction to Arduino Programming: Features, Arduino IDE overview, Sketch, Data types,
+Function Libraries, Operators, Control statements, Loops, Arrays, Strings, Math Library, Random
+Numbers, Interrupts. Integration of sensors and actuators with Arduino, Examples.
+UNIT-VI:
+Software Defined Networks- Overview of current network, limitations. SDN architecture, Basic
+Concepts, Components/Attributes, Challenges present in SDN, Rule Placement with Open
+Flow. API’s in SDN, Integrating SDN with IoT.
+VNRVJIET M.TECH. PE A18 CURRICULUM 55
+TEXT BOOKS:
+1. Internet of Things: Hands-on Approach, A. Bahaga, V. Madisetti, VPT Publisher, 2014
+2. Internet of Things, Enabling Technologies, Platforms and Use Cases, Pethu Raj, Anupama
+C. Raman, CRC Press, Taylor and Francis Group
+REFERENCES:
+1. Designing the Internet of Things, A. McEwen, H. Cassimally, Wiley, 2013
+2. The Internet of Things in the Cloud: A Middleware Perspective, Honbo Zhou, CRC Press,
+2012
+3. Architecting the Internet of Things, Dieter Uckelmann, Mark Harrison, Florian Michahelles
+(Eds.), Springer, 2011
+4. The Internet of Things–Key Applications and Protocols, Olivier Hersent, David Boswarthick,
+Omar Elloumi, Wiley, 2012
+5. The Internet of Things: Applications to the Smart Grid and Building Automation, Olivier
+Hersent, Omar Elloumi and David Boswarthick, Wiley, 2012
+VNRVJIET M.TECH. PE A18 CURRICULUM 56
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester (PE) L T/P C
+3 0 3
+(A18PE1PL08) ENERGY STORAGE TECHNOLOGIES
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To Understand nonelectrical storage technologies available
+• To Understand Electro chemical secondary batteries characteristics
+• To Understand efficiency improvement techniques in storage systems
+• To Appreciate various applications of storage systems
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Learn Mechanical, Magnetic and Electrostatic storage systems
+CO-2: Enumerate merits and demerits of various secondary batteries
+CO-3: Study characteristics of Lead acid batteries
+CO-4: Improve the efficiency of storage systems
+CO-5: Apply knowledge on storage technologies in EV and Power systems
+UNIT-I:
+Non-electrical Storage Systems: Flywheel, Energy Relations, Flywheel System Components,
+Benefits of Flywheel over Battery, Superconducting Magnet Energy Storage, Compressed Air
+Energy storage, Overview Thermal Energy Storage.
+Capacitor bank storage, Comparison of storage Technologies.
+UNIT-II:
+Electro Chemical Storage: History, General battery concepts- Types of Batteries- Primary,
+seconday- Battery Vs Cell, Nickel-Cadmium -Nickel-Metal Hydride, Nickel hydrogen, Lithium-
+Ion- Lithium-Polymer, Fuel cells.
+UNIT –III:
+Specifications and Characteristics: Domains of applications of Energy storage- Starter-Traction-
+stationary-mobile or nomadic, Review of storage requirements, Definitions of characteristics,
+Terminology of States, Battery Design, Battery Charging, Charge Regulators, Battery
+Management, General Equivalent Electrical Circuit, Performance Characteristics.
+UNIT-IV:
+Sealed-Lead Cells and Batteries: Discharge Characteristics, Charging-Importance-
+characteristics-charge acceptance-over charging, Types of charging- Constant voltage
+charging- Constant current charging- Taper charging-special charging- Charging power
+sources, storage, Testing, safety.
+UNIT –V:
+Electrical Energy Storage System Efficiency Improvement: Hybrid Electrical Energy storage–
+Design Considerations- Architecture- Charge management- components Modeling of Power
+Conversion, Reconfigurable EES Array Architecture, Cycle Efficiency and Capacity Utilization
+of EES Bank , General Bank Reconfiguration Architecture, Dynamic Reconfiguration Algorithm,
+Cycle Efficiency and Capacity Utilization Improvement .
+UNIT–VI:
+Storage Applications: Electric Vehicle application- Regenerative Brake- PV module assistance-
+Storage bank reconfiguration- Overall cost analysis, Energy storage in Transient regimes of
+Power system-Problem formulation-modeling- steady tate stability analysis with storage-
+VNRVJIET M.TECH. PE A18 CURRICULUM 57
+storage Parameters to ensure transient stability, Battery rating calculations for standalone
+system.
+TEXT BOOKS:
+1. Energy Storage for Power Systems, A. Ter-Gazarian, Peter Peregrinus Ltd., 1994
+2. Design and Management of Energy-Efficient Hybrid Electrical Energy Storage Systems,
+Younghyun Kim, Naehyuck Chang, Springer, 2014
+3. Rechargeable Batteries Applications Handbook, EDN Series for Design Engineers, Elsevier
+REFERENCES:
+1. Lithium Batteries and Other Electrochemical Storage Systems, Christian Glaize, Sylvie
+Geniès
+2. Wind and Solar Power Systems, Second Edition, Mukund R. Patel, CRC Press, 2006
+VNRVJIET M.TECH. PE A18 CURRICULUM 58
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester (PE) L T/P C
+3 0 3
+(A18PE1PL09) HVDC TRANSMISSION
+COURSE PRE-REQUISITES: Power Electronics, Power Systems
+COURSE OBJECTIVES:
+• To comprehend the conversion principles of HVDC transmission
+• To analyse 3, 6, 12 pulse converters, rectifier and inverter operations of HVDC converters
+• To identify the different types of Harmonics and reduction by using filters
+• To comprehend Interaction between HVAC and DC systems in various aspects
+• To appreciate the reliable MTDC systems and protection of HVDC system
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understand HVDC technology
+CO-2: Apply the knowledge of modeling and analysis of HVDC system for inter-area power
+flow regulation
+CO-3: Appreciate the reliable Multi terminal HVDC system
+CO-4: Apply advanced protective schemes for HVDC systems against transient over voltages
+and over currents
+UNIT-I:
+HVDC Technology: Historical development in DC Transmission, Advantages & Disadvantages
+of DC Transmission over Ac Transmission, DC Transmission Systems: Mono-polar, bi-polar and
+homo-polar lines, back-to-back HVDC systems, Components of HDVC Transmission System,
+Main applications of DC Transmission.
+UNIT-II:
+HVDC Converters: Rectifier and Inverter operation Digital Simulation of converters, Control of
+HVDC converters and Systems, Individual phase control, Equidistant firing controls, higher level
+controls. Characteristics and non-characteristics harmonics filter design.
+UNIT-III:
+HVDC System Control: Constant current control, constant excitation angle control, VDCOL,
+constant ignition angle control, Individual phase control and equidistant pulse control; Valve
+blocking and by-passing; Starting, stopping and power flow reversal. Fault development and
+protection.
+UNIT-IV:
+MTDC Systems: Introduction-Potential applications of MTDC systems, Types of MTDC systems-
+Comparison, multi-terminal HVDC systems, control of MTDC systems. MTDC system - Case study
+- Interaction between AC-DC power systems over voltages on AC/DC side.
+UNIT-V:
+Power Flow Analysis in HVDC Systems: Introduction, Modeling of DC links, Modeling of HVDC
+systems - Basic model of the converter, converter equations, per unit system for DC quantities,
+DC Network equations, DC control equations, Representation for AC-DC power flow solution,
+representation for stability studies.
+VNRVJIET M.TECH. PE A18 CURRICULUM 59
+UNIT-VI:
+Standards for Testing & Measurements in HVDC Systems: Introduction to relevant national and
+international standards-IEC, IEEE, CIGRE, safe clearances for HV, Study regulations for HV tests,
+Digital techniques in HV measurements.
+TEXT BOOKS:
+1. High Voltage Direct Transmission, J. Arrillaga, Peter Peregrinus Ltd. London, 1983
+2. HVDC Power Transmission Systems, K. R. Padiyar, Wiley Eastern Ltd., 1990
+REFERENCES:
+1. Direct Current Transmission, E. W. Kimbark, Vol. I, Wiley Interscience, 1971
+2. Power Transmission by Direct Current, Erich Uhlmann, B. S. Publications, 2004
+3. EHVAC and HVDC Transmission Engg. Felix A. Farret, M. S. Rao, Practice, Theory, Practice
+and Solved Problems, Khanna Publishers, 1990
+VNRVJIET M.TECH. PE A18 CURRICULUM 60
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester (PE) L T/P C
+3 0 3
+(A18OE1CN01) BUSINESS ANALYTICS
+COURSE OBJECTIVES:
+• To understand the role of business analytics within an organization and to analyze data
+using statistical and data mining techniques and understand relationships between the
+underlying business processes of an organization
+• To gain an understanding of how managers use business analytics to formulate and solve
+business problems and to support managerial decision making and to become familiar
+with processes needed to develop, report, and analyze business data
+• To use decision-making tools/Operations research techniques and to manage business
+process using analytical and management tools
+• To analyze and solve problems from different industries such as manufacturing, service,
+retail, software, banking and finance, sports, pharmaceutical, aerospace etc.
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Apply knowledge of data analytics
+CO-2: Think critically in making decisions based on data and deep analytics
+CO-3: Use technical skills in predicative and prescriptive modeling to support business decision-
+making
+CO-4: Translate data into clear, actionable insights
+UNIT-I:
+Business Analytics: Overview of Business analytics, Scope of Business analytics, Business
+Analytics Process, Relationship of Business Analytics Process and organization, competitive
+advantages of Business Analytics.
+Statistical Tools: Statistical Notation, Descriptive Statistical methods, Review of probability
+distribution and data modelling, sampling and estimation methods overview.
+UNIT-II:
+Trendiness and Regression Analysis: Modelling Relationships and Trends in Data, simple Linear
+Regression. Important Resources, Business Analytics Personnel, Data and models for Business
+analytics, problem solving, Visualizing and Exploring Data Business Analytics Technology.
+UNIT-III:
+Organization Structures of Business analytics, Team management, Management Issues,
+Designing Information Policy, Outsourcing, Ensuring Data Quality, Measuring contribution of
+Business analytics, Managing Changes.
+Descriptive Analytics, predictive analytics, predicative Modelling, Predictive analytics analysis,
+Data Mining, Data Mining Methodologies, Prescriptive analytics and its step in the business
+analytics Process, Prescriptive Modelling, nonlinear Optimization.
+UNIT-IV:
+Forecasting Techniques: Qualitative and Judgmental Forecasting, Statistical Forecasting
+Models, Forecasting Models for Stationary Time Series, Forecasting Models for Time Series with
+a Linear Trend, Forecasting Time Series with Seasonality, Regression Forecasting with Casual
+Variables, Selecting Appropriate Forecasting Models.
+Monte Carlo Simulation and Risk Analysis: Monte Carle Simulation Using Analytic Solver
+Platform, New-Product Development Model, Newsvendor Model, Overbooking Model, Cash
+Budget Model.
+VNRVJIET M.TECH. PE A18 CURRICULUM 61
+UNIT-V:
+Decision Analysis: Formulating Decision Problems, Decision Strategies without Outcome
+Probabilities, Decision Trees, The Value of Information, Utility and Decision Making.
+UNIT-VI:
+Recent trends in Embedded and collaborative business intelligence, Visual data recovery,
+Data Storytelling and Data journalism.
+TEXT BOOKS:
+1. Business Analytics-Principles, Concepts, and Applications, Marc J. Schniederjans, Dara G.
+Schniederjans, Christopher M. Starkey, Pearson FT Press
+2. Business Analytics, James Evans, Pearson Education
+3. Business Analytics, Purba Halady Rao, PHI, 2013
+REFERENCES:
+1. Business Analytics for Managers: Taking Business Intelligence Beyond Reporting, Gert H. N.
+Laursen, Jesper Thorlund, 2nd Edition, Wiley Publications
+2. Business Analytics: Data Analysis & Decision Making, S. Christian Albright, Wayne L. Winston
+5th Edition, 2015
+3. Business Intelligence Guidebook: From Data Integration to Analytics, Rick Sherman
+Elsevier, 2014
+VNRVJIET M.TECH. PE A18 CURRICULUM 62
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester (PE) L T/P C
+3 0 3
+(A18OE1AM01) INDUSTRIAL SAFETY
+COURSE PRE-REQUISITES: Elements of Mechanical, Civil, Electrical and Industrial Engineering
+COURSE OBJECTIVES:
+• To achieve an understanding of principles, various functions and activities of safety
+management
+• To communicate effectively information on Health safety and environment facilitating
+collaboration with experts across various disciplines so as to create and execute safe
+methodology in complex engineering activities
+• To anticipate, recognize, and evaluate hazardous conditions and practices affecting
+people, property and the environment, develop and evaluate appropriate strategies
+designed to mitigate risk
+• To develop professional and ethical attitude with awareness of current legal issues by
+rendering expertise to wide range of industries
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Apply risk management principles to anticipate, identify, evaluate and control physical,
+chemical, biological and psychosocial hazards
+CO-2: Communicate effectively on health and safety matters among the employees and with
+society at large
+CO-3: Demonstrate the use of state-of-the-art occupational health and safety practices in
+controlling risks of complex engineering activities and understand their limitations
+CO-4: Interpret and apply legislative / Legal requirements, industry standards, and best
+practices in accident prevention programmes in a variety of workplaces
+UNIT-I:
+Safety Management: Evaluation of modern safety concepts – Safety management functions
+– safety organization, safety department – safety committee, safety audit - performance
+measurements and motivation – employee participation in safety and productivity.
+UNIT-II:
+Operational Safety: Hot metal Operation – Boiler, pressure vessels – heat treatment shop - gas
+furnace operation-electroplating-hot bending pipes – Safety in welding and cutting. Cold-
+metal Operation- Safety in Machine shop-Cold bending and chamfering of pipes – metal
+cutting – shot blasting, grinding, painting – power press and other machines
+UNIT-III:
+Safety Measures: Layout design and material handling - Use of electricity – Management of
+toxic gases and chemicals – Industrial fires and prevention – Road safety– Safety of sewage
+disposal and cleaning – Control of environmental pollution – Managing emergencies in
+industrial hazards.
+UNIT-IV:
+Accident Prevention: Human side of safety – personal protective equipment – Causes and cost
+of accidents. Accident prevention programmes - Specific hazard control strategies - HAZOP
+– Training and development of employees – First Aid – Firefighting devices – Accident reporting
+investigation.
+VNRVJIET M.TECH. PE A18 CURRICULUM 63
+UNIT-V:
+Safety, Health, Welfare & Laws: Safety and health standards – Industrial hygiene – occupational
+diseases prevention - Welfare facilities – History of legislations related to safety– pressure vessel
+act- Indian boiler act- The environmental protection act – Electricity act - Explosive act.
+UNIT-VI:
+Safe Handling and Storage: Material Handling, Compressed Gas Cylinders, Corrosive
+Substances, Hydrocarbons, Waste Drums and Containers
+TEXT BOOKS:
+1. Safety Management, John V. Grimaldi and Rollin H. Simonds, All India Travellers Bookseller,
+New Delhi, 1989.
+2. Safety Management in Industry, Krishnan N. V., Jaico Publishing House, 1996.
+REFERENCES:
+1. Occupational Safety Manual, BHEL
+2. Industrial Safety and The Law, P. M. C. Nair Publisher’s, Trivandrum
+3. Managing Emergencies in Industries, Loss Prevention of India Ltd., Proceedings, 1999
+4. Safety Security and Risk Management, U. K. Singh & J. M. Dewan, A. P. H. Publishing
+Company, New Delhi, 1996
+5. Industrial Safety Management: Hazard Identification and Risk Control, L. M. Deshmukh,
+McGraw-Hill Education (India) Private Limited, 2005
+VNRVJIET M.TECH. PE A18 CURRICULUM 64
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester (PE) L T/P C
+3 0 3
+(A18OE1AM02) OPERATIONS RESEARCH
+COURSE PRE-REQUISITES: Mathematics, Industrial Engineering
+COURSE OBJECTIVES:
+• To analyze linear programming models in practical and their practical use
+• To apply the transportation, assignment and sequencing models and their solution
+methodology for solving problems
+• To apply the theory of games, replacement, inventory and queuing models and their
+solution methodology for solving problems
+• To evaluate the dynamic programming and simulation models
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Apply and solve the dynamic programming problems
+CO-2: Apply the concept of non-linear programming
+CO-3: Carry out sensitivity analysis
+CO-4: Model the real world problem and simulate it
+UNIT-I:
+Introduction to Operations Research-Definitions of OR, Characteristics of OR, Scope of OR,
+Classification of Optimization Techniques, models in OR, General L.P Formulation, Graphical
+solution, Simplex Techniques.
+UNIT-II:
+Revised simplex method - duality theory - dual simplex method – sensitivity or post optimality
+analysis - parametric programming
+UNIT-III:
+Nonlinear programming problem - Kuhn-Tucker condition, min cost flow problem - max flow
+problem - CPM/PERT
+UNIT-IV:
+Scheduling and sequencing, Inventory models, deterministic inventory, models - Probabilistic
+inventory control models - Geometric Programming.
+UNIT-V:
+Waiting line Models, Single and Multi-channel Problems, Dynamic Programming, Game Theory,
+Simulation.
+UNIT-VI:
+Introduction to Genetic Algorithms, Operators, applications to engineering optimization,
+Problems.
+TEXT BOOKS:
+1. Operations Research, S. D. Sharma, Kedarnath Ramnath, Meerut, New Delhi
+2. Engineering Optimization, S. S. Rao, New Age International Publications, 2014
+3. Introduction to Genetic Algorithms, S. N. Sivanandam, Springer
+REFERENCES:
+1. Operations Research-An Introduction, H. A. Taha, PHI, 2008
+2. Principles of Operations Research, H. M. Wagner, PHI, Delhi, 1982
+3. Introduction to Optimization: Operations Research, J. C. Pant, Jain Brothers, Delhi, 2008
+VNRVJIET M.TECH. PE A18 CURRICULUM 65
+4. Operations Research, Hitler Liebermann McGraw-Hill Pub., 2009
+5. Operations Research, Pannerselvam, Prentice Hall of India, 2010
+VNRVJIET M.TECH. PE A18 CURRICULUM 66
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester (PE) L T/P C
+3 0 3
+(A18OE1AM03) COMPOSITE MATERIALS
+COURSE PRE-REQUISITES: Maths, Physics, Chemistry, Engineering Mechanics, Mechanics of
+Solids
+COURSE OBJECTIVES:
+• To understand composite materials and their properties, relationship between them and
+manufacturing methods
+• To understand the principles of material science applied to composite materials
+• To study the equations to analyze problems by making good assumptions and learn
+systematic engineering methods to solve practical composite mechanics problems
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Apply fundamental knowledge of mathematics to modeling and analysis of composite
+materials
+CO-2: Understand the manufacturing methods of various composite materials
+CO-3: Analyze the failure modes of composites
+UNIT-I:
+Introduction: Definition – Classification and characteristics of Composite materials.
+Advantages and application of composites. Functional requirements of reinforcement and
+matrix. Effect of reinforcement (size, shape, distribution, volume fraction) on overall composite
+performance.
+UNIT-II:
+Reinforcements: Preparation-layup, curing, properties and applications of glass fibers, carbon
+fibers, Kevlar fibers and Boron fibers. Properties and applications of whiskers, particle
+reinforcements.
+Mechanical Behavior of Composites: Rule of mixtures, Inverse rule of mixtures. Isostrain and
+Isostress conditions.
+UNIT-III:
+Manufacturing of Metal Matrix Composites: Casting – Solid State diffusion technique, Cladding
+– Hot isostatic pressing. Properties and applications.
+Manufacturing of Ceramic Matrix Composites: Liquid Metal Infiltration – Liquid phase sintering.
+Manufacturing of Carbon – Carbon composites: Knitting, Braiding, Weaving. Properties and
+applications.
+UNIT-IV:
+Manufacturing of Polymer Matrix Composites: Preparation of Moulding compounds and
+prepregs – hand layup method – Autoclave method – Filament winding method –
+Compression moulding – Reaction injection moulding. Properties and applications,
+Introduction to Machining of Composites.
+UNIT-V:
+Elastic Behavior of Laminate: Basic assumptions, Strain-displacement relations, Stress-strain
+relation of layer within a laminate, Force and moment resultant, General load–deformation
+relations, Analysis of different types of laminates
+UNIT-VI:
+Strength: Laminar Failure Criteria-strength ratio, maximum stress criteria, maximum strain
+criteria, interacting failure criteria, hygrothermal failure. Laminate first ply failure-insight
+VNRVJIET M.TECH. PE A18 CURRICULUM 67
+strength; Laminate strength-ply discount truncated maximum strain criterion; strength design
+using caplet plots; stress concentrations.
+TEXT BOOKS:
+1. Material Science and Technology, Vol. 13–Composites, R. W. Cahn – VCH, West Germany
+2. Analysis and Performance of Fiber Composites, Third Edition, B. D. Agarwal, Wiley Publishers
+REFERENCES:
+1. Mechanics of Composite Materials, Second Edition. Robert M. Jones, Scripta Book
+Company
+2. Materials Science and Engineering-An Introduction, W. D. Callister Jr., Adapted by R. Bala
+Subramaniam, John Wiley & Sons, NY, Indian Edition, 2007
+3. Composite Materials, K. K. Chawla
+4. Composite Materials Science and Applications, Deborah D. L. Chung
+5. Composite Materials Design and Applications, Danial Gay, Suong V. Hoa and Stephen W.
+Tasi
+VNRVJIET M.TECH. PE A18 CURRICULUM 68
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester (PE) L T/P C
+3 0 3
+(A18OE1PS01) WASTE TO ENERGY
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To create awareness in students of energy conservation
+• To identify the use of different types of Bio waste energy resources
+• To understand different types of bio waste energy conservations
+• To detect different waste conversion into different forms of energy
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO1: Find different types of energy from waste to produce electrical power
+CO2: Estimate the use of bio waste to produce electrical energy
+CO3: Understand different types of bio waste and its energy conversions
+CO4: Analyze the bio waste utilization to avoid the environmental pollution
+UNIT-I:
+Introduction to Energy from Waste: Classification of waste as fuel, Agro based, Forest residue,
+Industrial waste, MSW (Municipal solid waste) – Conversion devices – Incinerators, Gasifiers,
+Digestors
+UNIT-II:
+Biomass Pyrolysis: Pyrolysis – Types, slow fast – Manufacture of charcoal – Methods - Yields and
+application – Manufacture of pyrolytic oils and gases, yields and applications.
+UNIT-III:
+Biomass Gasification: Gasifiers – Fixed bed system – Downdraft and updraft gasifiers – Fluidized
+bed gasifiers – Design, construction and operation – Gasifier burner arrangement for thermal
+heating – Gasifier engine arrangement and electrical power – Equilibrium and kinetic
+consideration in gasifier operation.
+UNIT-IV:
+Biomass Combustion: Biomass stoves – Improved chullahs, types, some exotic designs, Fixed
+bed combustors, Types, inclined grate combustors, Fluidized bed combustors, Design,
+construction and operation - Operation of all the above biomass combustors.
+UNIT-V:
+Biogas: Properties of biogas (Calorific value and composition) - Biogas plant technology and
+status - Bio energy system - Design and constructional features - Biomass resources and their
+classification - Biomass conversion processes - Thermo chemical conversion - Direct
+combustion - biomass gasification - pyrolysis and liquefaction - biochemical conversion -
+anaerobic digestion.
+UNIT-VI:
+Types of biogas Plants – Applications - Alcohol production from biomass - Bio diesel production
+- Urban waste to energy conversion - Biomass energy programme in India.
+TEXT BOOKS:
+1. Biogas Technology-Transfer and Diffusion, M. M. EL-Halwagi, Elsevier Applied Science
+Publisher, New York, 1984
+2. Introduction to Biomass Energy Conversions, Sergio Capareda
+VNRVJIET M.TECH. PE A18 CURRICULUM 69
+REFERENCES:
+1. Non-Conventional Energy, Desai Ashok V., Wiley Eastern Ltd., 1990
+2. Biogas Technology - A Practical Handbook, Khandelwal, K. C. and Mahdi, S. S., Vol. I & II,
+Tata McGraw-Hill Publishing Co. Ltd., 1983
+3. Food, Feed and Fuel from Biomass, Challal, D. S., IBH Publishing Co. Pvt. Ltd., 1991
+4. Biomass Conversion and Technology, C. Y. WereKo-Brobby and E. B. Hagan, John Wiley &
+Sons, 1996
+VNRVJIET M.TECH. PE A18 CURRICULUM 70
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester (PE) L T/P C
+0 16 8
+(A18PW4PL03) PROJECT PART-I
+M.Tech. IV Semester (PE) L T/P C
+0 28 14
+(A18PW4PL04) PROJECT PART-II
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Identify and formulate the problem (Industry/technical/societal)
+CO-2: Analyze, design and develop a solution to industry/technical/societal problems
+CO-3: Implement and execute the solution
+CO-4: Demonstrate effective communication skills through oral presentation
+CO-5: Engage in effective written communication through project report
+COURSE OUTLINE:
+• M.Tech. project work shall be for a minimum duration of 40 weeks spread over two
+semesters i.e., Project Part-I in III semester and Project Part-II in IV semester.
+• A student shall be permitted to register for the major project after satisfying the attendance
+requirement in all the courses, i.e., theory and practical courses.
+• Project reviews namely Project Review I and Project Review II in III semester and Project
+Review III and Project Pre-submission Seminar in IV semester shall be conducted during the
+course of Project work.
+• A Project Review Committee (PRC) consisting of the Head of the Department as
+Chairperson and PG Coordinator, Project Supervisor and one senior faculty member of the
+Department offering the M. Tech. programme as members shall evaluate the progress of
+project work.
+• In Project Review I, a student, in consultation with his Project Supervisor, shall present the
+title, objective and plan of action of his/her project work to the PRC for approval within
+four weeks from the commencement of III semester.
+• A student can initiate the project work only after obtaining the approval of the PRC.
+• The work on the project shall be initiated at the beginning of the III semester.
+• Project Review II shall be conducted and evaluated at the end of the III semester.
+• Project Review III shall be conducted during IV semester to examine the overall progress of
+the project work.
+• A project pre-submission seminar shall be conducted to decide whether or not the project
+is eligible for final submission.
+• After approval from the PRC, a soft copy of the thesis shall be submitted for PLAGIARISM
+check to the Examination Branch.
+• At the end of IV semester upon fulfilling the above conditions, project viva-voce shall be
+conducted.
+• A student shall submit project progress in prescribed report format during each of the
+project reviews.

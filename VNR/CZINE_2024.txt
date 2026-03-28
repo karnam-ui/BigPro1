@@ -1,0 +1,1812 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/csedept/CZINE_2024.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+VNR VIGNANA JYOTHI INSTITUTE OF
+ENGINEERING AND TECHNOLOGY
+CZINE
+Come.. Simulate.. Innovate
+MAGAZINE 2024
+Department of Computer Science & Engineering
+Vision
+Mission
+To achieve academic and research excellence To provide dynamic, innovative and flexible
+in essential technologies of Computer Science curriculum which equip the students with the
+necessary, problem driven skills to strengthen their
+and Engineering by promoting a creative
+career prospects and potential to pursue higher
+environment for learning and innovation.
+studies.
+Program Educational Objectives (PEOs) To foster inquisitive-driven research among students
+and staff so as to reinforce the domain knowledge
+The graduates of the program will become
+and address contemporary societal issues.
+proficient in the principles and practices of
+computer science, mathematics and science, To inculcate ethical values, leadership qualities and
+enabling them to solve a wide range of professional behavior skills for improving the living
+computing related problems. standards of people.
+To enable the students with innovative
+applications of engineering knowledge and
+programming skills to spearhead the Program Specific Outcomes (PSOs)
+progress of society in the information age.
+To mould the students into competent, Apply the Knowledge of Programming
+successful, and practicing engineers in their
+Languages, Networks and Databases for
+career and/or in pursuing their higher
+development of Software Applications.
+studies through the spirit of innovation and
+entrepreneurship. Identify, Analyse, Formulate and Solve
+To provide exposure to cutting edge Real Time Complex Engineering
+technologies, adequate training and Problems.
+opportunities to work individually and as
+Design, Implement and Deploy a Quality
+teams on multidisciplinary projects with
+Based Software System to meet the
+effective analytical skills.
+To acquire and practice the profession with Evolving needs.
+ethics, integrity and leadership qualities with
+due consideration to environmental issues in
+conformance with societal needs.
+Computer Society of India Student Branch
+Chapter (CSI SBC, VNRVJIET)
+VNR VIGNANA JYOTHI INSTITUTE OF
+ENGINEERING AND TECHNOLOGY
+Computer Society of India
+ABOUT VNRVJIET
+The Department of Computer Science and Engineering (CSE), established in the
+year 1995, evolved towards enhancing Computing and its applications to build the
+intellectual capital of the society. The department is witnessing a period of exciting
+growth and opportunity propelled by the growth of technology and its recognition
+through excellence.
+B.Tech CSE is NBA Accredited and is recognized as a Research Center by JNTUH.
+The department offers 2 UG programmes: B.Tech CSE and B.Tech CSBS (Computer
+Science and Business Systems). It also offers 2 PG programmes: MTech- Software
+Engineering (SE) and M.Tech-Computer Science and Engineering (CSE).
+ABOUT CSI
+Student chapter Computer Society of India(CSI) established under the Department
+of Computer Science and Engineering on 6th Oct 2004, The purposes of the society
+are scientific and educational directed towards the advancement of the theory and
+practice of Computer Science, Computer Engineering and Technology, Systems
+Science and Engineering, Information Processing and related Arts and Sciences. It
+is a professional body where professionals meet to exchange views and
+information, to learn and share ideas. Morethan70% of the students and faculty of
+CSE are members of CSI.
+The activities of the Chapters includes Seminars, Workshops and Technical
+Symposium, Certification Courses & Guest Lectures to keep faculty and students
+updated with latest developments in various Technologies.
+Every year we conduct a National Level Technical Symposium Convergence. The
+students under the society are molded into competent software professionals, to
+face the challenges of the IT sector. The advisory board members of CSI Student
+Branch are Dr S Nagini, Dr C Kiranmai, Dr B V Kiranmayee, Mr N Sandeep
+Chaitanya & Mr Ch Sri Sumanth.
+ABOUT CZINE
+CSI of VNRVJIET launches a magazine called CZINE with all technical updates
+and other information that can benefit its members. This annual magazine
+covers complete details of various activities held during the academic year and
+also articles given by students.
+VNR VIGNANA JYOTHI INSTITUTE OF
+ENGINEERING AND TECHNOLOGY
+Computer Society of India
+MANAGING COMMITTEE
+Chairperson : P.Sai Saketh Non-Technical Head : Sandeep Korani
+General Secretary : Abhinav Sudhanv Non-Technical Head : A.Rutvik Reddy
+Treasurer : Neha Kakarla Non-Technical Head : Shaik Afreen
+President : Reshmitha Uppala Creative Head : Sreeja Srirangam
+Director : Vishnukanth Varma Creative Head : S.Pravalika Reddy
+Designing Head : Vinay Vardhan Edulapally Creative Head : Shaik Sabeeha Kouser
+Designing Head : Rohan Kurella Event Organizer : Maddula Keerthi
+Designing Head : Neeha Bathula Event Organizer : Monika Desireddy
+Technical Head : Gunnalle Apurva Event Coverage Co-ordinator : Pallavi Narra
+Technical Head : Basuthkar Likitha Public Relations Co-ordinator : Rushika Arvapalli
+Technical Head : Moola Sai Sudha Public Relations Co-ordinator : Palla Navya Sree
+Public Relations Co-ordinator : Addanki Jyothirmai
+VNR VIGNANA JYOTHI INSTITUTE OF
+ENGINEERING AND TECHNOLOGY
+Computer Society of India
+ACTION COMMITTEE
+Vice Chairperson : Kollure Guna Rathna Technical Head : Y. V. Bhargav
+Joint Secretary : D. Sai Rohith Technical Head : Jonnalagadda Haripriya
+Joint Treasurer : Deepthi Vunnam Technical Head : Swapnil Podishetti
+Vice President : Sai Rakshita Narsingh Non-Technical Head : Srinithya Vallepalli
+Deputy Director : I N S Karthik Non-Technical Head : Manas Kumar Palavalasa
+Designing Head : A. V. Karthikeya Non-Technical Head : Dheeraj Yerramasu
+Designing Head : Hima Sameera N. Creative Head : Harshitha Temberveni
+Designing Head : Indhusree Rachuri Creative Head : T. Krishna Soumya
+Designing Head : Chintala Varun Teja Creative Head : Diddi Shravya
+Designing Head : N. Kavya Reddy Event Organizer : Sathwik Tammishetti
+Documentation Head : Mohammed Fouziya Event Organizer : Pavan Praneetha Kunuku
+Documentation Head : Chandra Shekar Golla Event Coverage Co-Ordinator : Chaitanya Tarigopula
+Documentation Head : Omkaarini Savarapu Public Relations Co-Ordinator : Neha Gurram
+Public Relations Co-Ordinator : G. Jyothi Swaroop
+VNR VIGNANA JYOTHI INSTITUTE OF
+ENGINEERING AND TECHNOLOGY
+Computer Society of India
+MESSAGES
+Dr. C. D. Naidu (PRINCIPAL)
+The Computer Society of India (CSI) has done an amazing job of
+gathering all the best projects and technical articles on technology
+advancements into its annual publication, CZINE 2023. This
+demonstrates the CSI team's commitment and hard work. By
+certainty, CSI will get bigger and better, always adding new
+components to the college's richness and fame.
+Dr. S. Nagini (Professor, Head Dept of CSE & CSBS)
+I am pleased to see that CSI is launching its Annual Newsletter, CZINE.
+This magazine provides students with a platform to showcase their
+talents, enhance their soft skills, and stay updated with contemporary
+trends. I wish the student chapter great success in all their future
+endeavors.
+Mr. N. Sandeep Chaitanya (Faculty Co-ordinator)
+CSI inspires students to pursue greatness and to realize their best
+potential. In order to accomplish common objectives, it helps students
+develop their leadership abilities, promote teamwork, and advance
+their personal development. Through encouraging personal growth,
+CSI inspires students to keep getting better, which is essential for
+achieving group goals.
+Mr. Ch Sri Sumanth (Faculty Co-ordinator)
+Every student has talents, skills, and abilities that must be recognized,
+developed, and supported in order for them to reach new heights. CSI
+is the ideal setting for this to happen. CSI is the most powerful force in
+shaping students' futures because it gives them the correct amount of
+confidence to reach their goals.
+VNR VIGNANA JYOTHI INSTITUTE OF
+ENGINEERING AND TECHNOLOGY
+Computer Society of India
+MESSAGES
+Mr. P. Sai Saketh (Chairperson CSI, 2023-24)
+As a CSI volunteer, I began my journey with enthusiasm, serving in
+various roles—from dedicated volunteer to Vice Chairman and finally
+as the Chairman. My time with CSI has been more than just a
+commitment; it has been a transformative experience. Professionally,
+I’ve honed my leadership, communication, and project management
+skills. Personally, it’s the lasting connections, memories, and the sense
+of purpose that truly make an impact. As my chapter comes to an end,
+I carry forward the legacy of CSI with gratitude.
+Mr. Abhinav Sudhanv (General Secretary CSI, 2023-24)
+I gained a lot of exposure through serving on the CSI committee. I
+made lot of contacts with my seniors, juniors, faculty, and even some
+executives. All these connections will be beneficial to me
+professionally and also helped me develop myself personally. In
+addition to all the technical details, I personally have numerous
+memories from CSI that I will cherish forever.
+Ms. Neha Kakarla (Treasurer CSI, 2023-24)
+Being part of CSI had a profound impact on me both professionally
+and personally. My time here has enhanced my teamwork and
+leadership abilities as I collaborated with diverse groups. The
+exposure to industry experts and networking opportunities
+broadened my professional network and perspective. CSI significantly
+contributed to my holistic development, balancing technical expertise
+with personal growth.
+VNR VIGNANA JYOTHI INSTITUTE OF
+ENGINEERING AND TECHNOLOGY
+Computer Society of India
+MESSAGES
+Ms. Reshmitha Uppala (President CSI, 2023-24)
+CSI is that kind of a platform where individuals get opportunity to
+work with different mindsets and perspectives which constantly
+provides room for many new ideas and approaches. The organisation
+has taught me a lot on a professional and personal level. I will always
+cherish the memories I created here, and the exposure and
+connections I gained from CSI will be beneficial to me throughout my
+life.
+Mr. Vishnukanth Varma (Director CSI, 2023-24)
+My journey with CSI has been transformative, providing invaluable
+exposure and opportunities that have guided me through challenges
+and enriched my knowledge and skills. Volunteering with CSI
+enhanced my professional capabilities and personal growth, helping
+me see my true potential and uncover hidden skills as a public
+speaker. The experience was a progressive learning journey that
+helped me grow mentally every day. Every day was a challenging yet
+rewarding effort to explore my horizons. I've learned how to be both a
+team player and a team leader. Serving on the CSI committee allowed
+me to build valuable connections with seniors, juniors, faculty, and
+industry executives, which will benefit my career. The experiences
+and personal memories from CSI will always hold a special place in
+my heart.
+VNR VIGNANA JYOTHI INSTITUTE OF
+ENGINEERING AND TECHNOLOGY
+Computer Society of India
+MESSAGES
+Mr. E. Vinay Vardhan (Designing Head CSI, 2023-24)
+My time with CSI has been remarkable, beginning with supportive
+interactions with seniors and faculty who provided invaluable
+guidance and recognition. Being actively involved in CSI allowed me
+to engage with various college clubs, broadening my collaborative
+skills and perspective. A defining moment was being appointed
+Designing Lead for our technical fest, Convergence, where I
+significantly enhanced my graphic designing skills, boosting my
+creativity and confidence. Throughout this journey, I formed
+meaningful connections and friendships, making CSI a crucial part of
+my college experience. The experiences and connections I've gained
+have been invaluable to my personal and professional growth.
+Mr. Rohan Kurella (Designing Head CSI, 2023-24)
+Joining CSI was a transformative experience for me. Not only did I
+learn invaluable skills in designing, but I also gained a newfound
+confidence that has positively impacted every aspect of my life. The
+supportive environment allowed me to explore my creative potential
+and push beyond my comfort zone. Beyond just technical skills, CSI
+provided me a platform for personal growth, leadership development,
+and lifelong friendships. I am incredibly grateful for the opportunities
+and lessons I gained through my involvement with CSI
+VNR VIGNANA JYOTHI INSTITUTE OF
+ENGINEERING AND TECHNOLOGY
+Computer Society of India
+MESSAGES
+Ms. Neeha Bathula (Designing Head CSI, 2023-24)
+I owe a significant part of my professional growth to the Computer
+Society of India. The platform and resources provided by CSI have
+honed my technical and creative skills. Serving as the designing head
+allowed me to push my boundaries and achieve milestones I once
+thought impossible. The mentorship and collaborative environment
+within CSI have been key in building my confidence and expertise.
+Ms. Gunnalle Apurva (Technical Head CSI, 2023-24)
+For me, CSI is much more than just a college student chapter . It was
+the platform that got me out of my comfort zone and helped me build
+good and lasting friendships. I got a chance to connect with people
+having varied skillsets and learned a lot from each one of them. This
+community has always pushed me to do better and realise that we are
+all capable of doing more than we think we are.
+My leadership, planning, communication and technical skills are all
+because of CSI. Proud to have been a member of this nurturing
+community.
+Ms. Basuthkar Likhita (Technical Head CSI, 2023-24)
+CSI has been an integral part of my undergraduate experience and
+provided me with a platform to get acquainted with a lot of new
+people. It was also the one place where I learned to organize events,
+manage people, and make decisions wisely as the situation
+demanded. It has been a great journey for me and my peers to be a
+part of this chapter. I hope the legacy continues with more
+opportunities for students to learn and thrive.
+VNR VIGNANA JYOTHI INSTITUTE OF
+ENGINEERING AND TECHNOLOGY
+Computer Society of India
+MESSAGES
+Ms. Moola Sai Sudha (Technical Head CSI, 2023-24)
+There has been a lot of transformation in myself working as the
+Technical head at CSI. I have gained greater confidence in conducting
+events , making new connections in no time and planning out things.
+Csi was also beneficial for me in making seniors and juniors as life
+long friends.
+Mr. Sandeep Korani (Non-Technical Head CSI, 2023-24)
+My time at CSI has completely transformed me and equipped me with
+valuable leadership skills. From organizing events to speaking on
+stage, I've gained confidence and a stronger sense of responsibility.
+The recognition I've gained through CSI has further validated my
+efforts and provided me with a platform to showcase my leadership
+skills. With CSI, I've developed close relationships at several
+academic levels, which has improved my experience. With countless
+memories, I can say that CSI has played a significant role in my career
+by influencing both my personal and professional growth and offering
+a wealth of learning opportunities.
+Mr. A. Rutvik Reddy (Non-Technical Head CSI, 2023-24)
+CSI has been like a backbone throughout my engineering experience,
+helping me grow as a person and providing chances to learn new
+skills. It gave me a platform to turn my ideas into reality, which is
+crucial for gaining knowledge and exploring in engineering.
+VNR VIGNANA JYOTHI INSTITUTE OF
+ENGINEERING AND TECHNOLOGY
+Computer Society of India
+MESSAGES
+Ms. Shaik Afreen (Non-Technical Head CSI, 2023-24)
+Being part of CSI during my engineering years was really important to
+me. It taught me to be responsible and helped me get better at talking
+to people and making friends. I also learned to overcome my fear of
+speaking in front of a group. Because we organised many events, I got
+better at managing things too. Overall, CSI has given me countless
+memories that hold a special place in my heart and will remain
+cherished forever.
+Ms. Sreeja Srirangam (Creative Head CSI, 2023-24)
+I am honored to be a part of CSI, where I've gained indispensable
+experience crucial for any college student. This opportunity has not
+only widened my network but also provided me with invaluable
+lessons in event organization and teamwork. Learning to take
+initiative has been empowering, and being able to guide juniors with
+the knowledge and experience gained here has been immensely
+rewarding. CSI has played a pivotal role in shaping my personal and
+professional growth.
+Ms. S. Pravalika Reddy (Creative Head CSI, 2023-24)
+Volunteering with CSI has transformed me both personally and
+professionally. I've had the opportunity to interact with diverse
+people, expanding my perspective on engineering and technology.
+Overall, my experience with CSI has been invaluable to my
+development.
+VNR VIGNANA JYOTHI INSTITUTE OF
+ENGINEERING AND TECHNOLOGY
+Computer Society of India
+MESSAGES
+Ms. Shaik Sabeeha Kouser (Creative Head CSI, 2023-24)
+Engaging with CSI, I progressed from member to volunteer and then
+committee member. Each stage presented challenges, fostering my
+time management, leadership, and communication. Through this
+supportive network, I refined my core values. This continuous
+learning journey remains a vital influence, shaping the professional I
+am today.
+Ms. Maddula Keerthi (Event Organizer CSI, 2023-24)
+It is my pleasure to be a part of the Best Student Chapter. CSI made
+me strong both professionally and personally. It helped me build
+connections with people in the college as well as with the Faculty and
+Alumni. It gave me opportunities to learn from diverse people which
+made me think from different perspectives. Every event made me
+learn atleast one thing which made me focus and improve myself. CSI
+gave me the ultimate confidence to face challenges and failures with
+patience. I've gathered many previous moments to remember and
+wonderful memories to cherish forever.
+VNR VIGNANA JYOTHI INSTITUTE OF
+ENGINEERING AND TECHNOLOGY
+Computer Society of India
+MESSAGES
+Ms. Monika Desireddy (Event Organizer CSI, 2023-24)
+My experience with the Computer Society of India (CSI) has been
+profoundly enriching, both personally and professionally. The
+exposure I received through CSI has consistently guided me in finding
+solutions when faced with challenges. Volunteering with CSI allowed
+me to interact with a diverse group of people, broadening my
+perspectives on engineering and technology. The organization helped
+me identify, nurture, and encourage my talents, skills, and abilities,
+enabling me to achieve greater heights. Serving on the CSI committee
+provided me with invaluable contacts among seniors, juniors, faculty,
+and even industry executives, all of which will be beneficial for my
+professional growth. Additionally, CSI instilled a strong sense of
+confidence in me, which has been instrumental in shaping my future.
+The work I have done with CSI is a treasure, as I learned immensely
+from the experience. The memories I made during my time with CSI
+are ones I will cherish forever, as they have significantly contributed
+to my personal and professional development. Overall, my journey
+with CSI has been invaluable, offering me countless opportunities to
+grow and excel.
+Ms. Pallavi N. (Event Coverage Co-ordinator CSI, 2023-
+24)
+CSI was transformative for me in college. It boosted my technical
+abilities through hands-on projects. But it also grew my leadership,
+teamwork, and communication skills. Networking with professionals
+expanded my horizons. Most impactfully, CSI gave me the confidence
+to push my boundaries and discover my true potential. As I graduate,
+I'm grateful for CSI's role in shaping my knowledge, skillset, and self-
+assurance for future endeavors. The experience will forever be
+cherished.
+VNR VIGNANA JYOTHI INSTITUTE OF
+ENGINEERING AND TECHNOLOGY
+Computer Society of India
+MESSAGES
+Ms. Rushika Arvapalli (Public Relations Co-ordinator
+CSI, 2023-24)
+The exposure I received in CSI made me explore myself and
+understand where my interest lies in. Through CSI I have met many
+people and faculty in my college life which made help in building my
+network and also helped me in understanding different mindsets of
+the people. CSI has helped me grow both in technical and non
+technical to a greater extent. CSI helped build self confidence and
+motivated me throughout my journey. Apart from this I have also
+made unforgettable memories in my journey.
+Ms. Palla Navya Sree (Public Relations Co-ordinator CSI,
+2023-24)
+It has been an honor to be part of CSI. Through this experience, I
+discovered what I am capable of and what I can achieve. I gained
+valuable knowledge and exposure, and I had a truly great time.Most
+importantly, I built strong connections with seniors, juniors, and
+faculty members.I feel immensely proud to be a core committee
+member, carrying forward such a significant legacy.
+Ms. Addanki Jyothirmai (Public Relations Co-ordinator
+CSI, 2023-24)
+Being involved with CSI significantly enriched my technical
+knowledge and personal development. Personally, it fostered a sense
+of community and collaboration, allowing me to build lasting
+relationships and improve my skills. The mentorship and guidance I
+received were invaluable, shaping my career path and personal
+growth.
+VNR VIGNANA JYOTHI INSTITUTE OF
+ENGINEERING AND TECHNOLOGY
+Computer Society of India
+ACTIVITY
+REPORTS
+Battle at the Greens
+28t h March 2023
+The Computer Society of India organized "Battle at the Greens" on 28/03/2023 at JSK
+Greens for all undergraduate students. The event, judged by Ms. Prativa Rani Saha and Dr. S.
+Kanchana, featured a quiz and a debate round. Teams formulated questions and debated on
+topics randomly picked by faculty. The quiz involved a Q&A session followed by a related
+debate in the second round. Judges evaluated the performances, culminating in the
+announcement of the winning team.
+Sherlock Code Breakers
+30t h May 2023
+The Computer Society of India conducted "Sherlock Code Breakers" on 30-05-2023, an
+exciting debugging event for second-year students in CSE, CSBS, and allied branches.
+Participants tackled intricate code puzzles and complex algorithms, enhancing their
+problem-solving and logical thinking skills. This competition emphasized the art of
+debugging, which involves identifying and resolving errors in software to ensure proper
+functionality. The event blended competition and collaboration, pushing students to their
+limits.
+Game-a-thon
+6t h June 2023
+The Gameathon highlighted gaming's entertainment value, its potential for skill
+development, and community building. It showcased gamers' talents while emphasizing
+gaming's positive impacts on individuals. The event inspired aspiring gamers by providing
+a platform to display their skills and talents. Participants were encouraged to engage in
+competitive gaming, practice, and develop their abilities. Gameathon motivated individuals
+to pursue their passion for gaming and aim for future events.
+Ideathon
+7 t h June 2023
+The Ideathon concluded with a winner declaration and recognition ceremony, where the
+jury selected winners based on the quality and potential of presented ideas. Winners were
+announced and honored during the closing ceremony or award function. The event
+promoted innovation and ideation, encouraging participants to think creatively and
+develop feasible ideas. Through a PPT submission round and live pitching session,
+participants showcased their ideas to industry experts, received feedback, and potentially
+secured support for implementation. Ideathon's success highlighted the power of
+collaborative thinking, creativity, and innovation in driving positive change.
+Speak-a-thon
+8 t h June 2023
+On 08-06-2023, the Computer Society of India and the Department of CSE conducted
+FlashForte, an online event featuring Speak-A-Thon, for all first-year students. This
+engaging event provided a platform for participants to express themselves and explore
+various topics freely. Speak-A-Thon encouraged creativity and showcased unique
+perspectives through storytelling, extrapolation, and tackling challenging subjects. The
+inclusive environment fostered open dialogue and intellectual exploration, allowing
+individuals to connect, share, and learn from each other.
+Design-a-thon
+9t h June 2023
+The Computer Society of India conducted "Design-a-thon" on 09-06-2023 as part of Flash
+Forte, an online event for first-year students across all branches. This event provided a
+platform for 53 participants to showcase their creativity and problem-solving skills
+remotely. Participants chose from themes such as "Effects of AI on the Present
+Generation," "Advertise a Local Business," "Life After World War 3," "Games: Then vs.
+Now," and "Life in Lockdown." They created practical and impactful design solutions
+within a limited timeframe, demonstrating their individual talents.
+India Space Programme
+7t h July 2023
+The Computer Society of India organized National
+Remote Sensing Centre event at KS Auditorium,
+VNRVJIET, featured ISRO scientists discussing
+advancements in remote sensing, satellite
+technology, and the Indian Space Programme. Dr. R
+Srinivas provided an overview of ISRO's history,
+centres, and significant achievements in space
+exploration, including the SLV-3 launch.
+Mr. Hariesh Pesara focused on "Remote Sensing of Earth," covering optical and microwave
+bands for resource mapping, the 3-S concept, and practical examples of image
+enhancement techniques. Attendees gained insights into ISRO's contributions and the
+applications of remote sensing technologies. The event aimed to deepen understanding of
+ISRO's impact on various sectors in India.
+Innovation Spark
+24t h July 2023
+The Computer Society of India organized "Innovation Spark - Idea Challenge" on 24-07-
+2023 at A111 Lab for 1st, 2nd, and 4th-year students from all branches. Judges included N.
+Sandeep Chaitanya, Ch. Sri Sumanth, K. Akhil, P. V. Siva Kumar, Dr. D. Sudheer, and S.
+Alankritha. The event had three rounds: problem statement submission, implementation
+feasibility study, and proposed methodology presentation. Fifteen teams advanced from
+the first round, eight from the second, and these eight presented their methodologies in
+the final round. The judges evaluated the presentations and announced the winners.
+Firebase- A Beginner's Guide Workshop
+22n d September 2023
+The Computer Society of India (CSI) organized a workshop on "FIREBASE" on 22-09-23 to
+provide students with practical knowledge and hands-on experience in using Firebase for
+mobile and web development. The workshop began with a theoretical session in the
+college's seminar hall, led by esteemed instructors. Manoj Kumar Koravangi kicked off the
+session by highlighting the significance of Firebase in modern app development and its
+ability to simplify complex tasks. The event aimed to empower students with essential
+Firebase skills.
+KnowinGit 2.0
+6 t h October 2023
+The Computer Society of India (CSI) VNRVJIET conducted "KNOWINGIT 2.0" on 06-10-
+2023 for second-year CSI members, focusing on Git and GitHub for version control and
+collaborative software development. The event began with an introduction to the
+significance of version control in the development lifecycle. Basics of Git, including
+commands, repositories, branches, and merging techniques, were covered through hands-
+on activities and live demonstrations. The event aimed to enhance participants' skills in
+using these essential tools.
+Hackavista & Codeblitz
+21s t November 2023
+The Computer Society of India (CSI) organized "Hackavista and Codeblitz" on 21-11-23 for
+first-year CSE and allied branches students. This event aimed to showcase coding skills,
+foster competition, and encourage innovation. Participants learned about various coding
+platforms, aiding in selecting ones that match their interests and career goals. The event
+emphasized the importance of coding platforms in skill development and continuous
+improvement. Additionally, it highlighted Hackathons, where students collaborated to
+solve real-world problems within a limited time.
+VJ Hackathon 3.0
+24t h & 25t h November 2023
+The Department of Computer Science and Engineering, along with CSI SBC VNRVJIET and
+Time.dev, hosted the National Level VJ HACKATHON on November 24-25, 2023. This 24-
+hour offline event at VNR VJIET aimed to provide a platform for students to showcase
+their skills, foster collaboration, and learn from both successes and failures. The
+hackathon sought to ignite inspiration, stimulate innovation, nurture creativity, and
+enhance productivity among participants. It offered like-minded individuals the chance to
+exchange ideas and contribute to technological advancements in computer science and
+engineering.
+Git and GitHub Hands on Workshop
+14 t h & 15t h December 2023
+During Convergence 2k23, Team CSI conducted a Git and GitHub workshop to enhance
+students' understanding of version control and collaborative software development.
+Distinguished speakers shared insights over two days of theoretical and hands-on
+sessions, fostering an interactive learning environment. Participants engaged
+enthusiastically, posing questions and seeking clarifications, which led to deeper
+discussions. Git, launched by Linus Torvalds in 2005, is a distributed version control
+system that tracks code changes, while GitHub, founded in 2008, enhances collaboration
+with features like issue tracking and pull requests.
+Paper Presentation
+14 t h & 15t h December 2023
+The Paper Presentation event saw
+enthusiastic participation from students
+across various disciplines, including
+computer science, electronics, and
+mechanical engineering. Participants
+presented their research findings, theoretical
+explorations, and practical implementations
+through well-structured papers. The event
+showcased the talent, excitement, and
+intellectual curiosity of the student
+community.
+It demonstrated their academic abilities and highlighted their potential as future leaders
+and innovators in the rapidly evolving technology landscape. This event underscored the
+participants' readiness to contribute to technological advancements.
+Campus Automation Contest
+14t h & 15t h December 2023
+As part of CONVERGENCE, CSI VNRVJIET and
+GDSC VNRVJIET organized the Campus
+Automation Contest, a 24-hour hackathon aiming
+to revolutionize campus operations through
+automation. The contest aimed to harness
+students' collective creativity and technical skills
+to develop innovative solutions for streamlining
+administrative processes and enhancing student
+experiences.
+Participants were presented with diverse themes and challenges to explore and
+implement cutting-edge technologies for optimizing efficiency across the campus
+ecosystem. The event brought together budding technocrats and coding enthusiasts to
+collaborate and innovate for the benefit of the campus community.
+Holistic AI
+10t h February 2024
+Team CSI SBC conducted "HOLISTIC AI," a hands-on workshop aimed at unraveling AI's
+potential and applications. The workshop introduced participants to AI foundations like
+machine learning, neural networks, and natural language processing. Through interactive
+sessions and live demos, participants gained practical experience and insights into AI's
+revolutionary impact across various domains. Seasoned experts guided participants,
+enhancing their understanding of AI technologies. The event fostered a deeper
+appreciation for AI's role in shaping the future.
+Navigator - Sail through your career with CSI's Wind
+1s t & 2n d March 2024
+The Computer Society of India hosted "Navigator - Sail Through Your Career with CSI's
+Wind," a career guidance event for first-year students. Alumni speakers shared their career
+journeys, addressing challenges and offering valuable advice. The event aimed to provide
+practical career insights and skills necessary for the competitive job market. Organizing
+committee members introduced the event's objectives, while managing and action
+committee members emphasized CSI's significance and community impact. Overall, the
+event aimed to guide students through diverse career options and equip them with the
+knowledge to navigate their professional journeys effectively.
+VNR Designathon
+1s t & 2n d March 2024
+The Department of CSE and CSBS, in collaboration
+with various organizations including CCoE,
+successfully hosted the National Level VNR DESIGN-
+A-THON on March 1st and 2nd, 2024. The hackathon
+aimed to provide a collaborative platform for
+students to showcase their skills and learn from both
+successes and failures.
+It fostered innovation, creativity, and productivity among participants, encouraging the
+exchange of ideas and contributing to technological advancements in computer science and
+engineering. This 24-hour offline event at VNR VJIET college brought together like-minded
+individuals to collaborate and solve real-world problems.
+Web Alchemy
+7t h May 2024
+The Computer Society of India conducted "Web Alchemy" on 07-05-2024, an event aimed
+at second-year students from all branches of VNRVJIET, held from 10:00 AM to 1:00 PM at
+PEB-14 to PEB-18. The event provided a platform for students to enhance their web
+development skills and foster innovation and collaboration. Participants competed in
+challenging rounds focused on image replication and webpage creativity, allowing them to
+apply their knowledge in a practical environment. The event aimed to test and develop
+both creative and technical skills, promoting excellence in web development within the
+student community.
+Game-a-thon
+18 t h May 2024
+The Computer Society of India hosted "Game-a-thon 2K24" on 18-05-2024 for all first-
+year students at VNRVJIET, focusing on gaming and strategic skills. Participants competed
+in various games, showcasing their talents and strategic thinking in a competitive setting.
+The event aimed to develop critical skills like problem-solving, quick decision-making, and
+innovative strategizing. "Game-a-thon 2K24" revealed students' latent gaming abilities,
+fostering a sense of community and boosting confidence. This exciting and encouraging
+tournament blended talent, strategy, and dedication, creating a balanced and thrilling
+competition.
+Speak-a-thon
+18 t h May 2024
+The Computer Society of India (CSI) conducted an event, Speak-a-thon, an exciting event
+conducted for curious and captivating minds on 18-05-2024. The event was open to all the
+first-year students at VNRVJIET. It is an eloquence event which is part of Flash-Forte. It is
+aimed at revealing the hidden speaking skills of the students where they combine ample
+amount of creativity and intelligence. Participants immerse themselves in a competitive
+environment, debating each other, creating analogies, expressing views and their personal
+thoughts. This event stood as a perfect platform in unleashing different ideas, thoughts
+and all of them put together in a nice proportion.
+Design-a-thon
+19 t h May 2024
+The Computer Society of India (CSI) organized an online event Design-a-thon, for first-
+year students of VNRVJIET. The competition had two rounds: a poster design round with
+selected themes and a presentation round. Out of 76 students, 18 were chosen for the final
+round based on the originality and visual appeal of their designs. Participants chose from
+themes such as "Everyday Heroes," "Cyberbullying," "Gender Equality," "Fashion (Then vs
+Now)," and "India in 2047." The event allowed first-year students to showcase their design
+skills and receive professional feedback, fostering creativity and confidence.
+Ideathon
+19 t h May 2024
+The Computer Society of India (CSI) conducted an event, Ideathon, a staggering event
+brought forward for first years to put their artistic and innovative minds to test on 19-05-
+2024. Ideathon is one of the four events in FlashForte. This opportunity lets students think
+for a unique idea from existing problem statements. Participants chose from domains such
+as “Education,” “Health care,” “Smart Agriculture,” “Sustainability,” “Campus Automation,”
+“Technology.” All the participants have come up with undoubtedly creative and visionary
+ideas. The event has helped the students to engage their minds into thinking in different
+angles for a wide range domain.
+VNR VIGNANA JYOTHI INSTITUTE OF
+ENGINEERING AND TECHNOLOGY
+Computer Society of India
+TECHNICAL
+REPORTS
+Augmented Reality
+Augmented reality (AR) is an interactive experience that combines the real world with
+computer-generated 3D content. AR can be characterized as a framework with three
+fundamental highlights: the combination of real and virtual universes, real-time interaction,
+and precise 3D enrollment of virtual and genuine objects. AR innovation uses cameras,
+sensors, and computer vision calculations to track the real-world environment and
+superimpose advanced substances onto it in real-time. AR can be experienced through an
+assortment of gadgets, including smartphones, tablets, smart glasses, and headsets. AR
+innovation has applications in an assortment of industries, including gaming, entertainment,
+retail, education, and healthcare. With continued development and advancement, AR
+innovation has the potential to change the way we connect with the world around us. Al
+performs a few vital tasks to complement and improve the AR experience:
+Create practical human body models and test objects. AI makes a difference in the
+improvement of AR by identifying and analysing key facial highlights to reproduce human
+faces or other objects. It makes a difference. Make reasonable 3D models that serve as
+avatars or resources to utilise in a virtual environment.
+Detecting and checking objects: Machine vision can distinguish and stamp objects. This
+isn't fair for acknowledgment purposes, as virtual objects can be overlaid on real-world
+objects to encourage AR interaction.
+Text acknowledgment and interpretation: Clients basically point the camera at the content
+to immediately interpret the text.
+Beauty Tech: By combining visual computing, facial following, advanced color and shade
+examination mapping, and versatile lighting recreation, AR virtual try-on involvement can
+be more precise than ever some time recently.
+-Kaja Aakash
+22071A7222
+AI&DS 2n d Year
+Blockchain
+Blockchain technology, initially developed to support Bitcoin, the first cryptocurrency, has
+significantly evolved beyond its original purpose. It operates by storing data in blocks linked
+sequentially to form an immutable chain. Once data is recorded, altering it becomes nearly
+impossible without modifying all subsequent blocks and achieving consensus across the
+network through mechanisms like Proof of Work (PoW) or Proof of Stake (PoS).
+The most noteworthy property of blockchain is decentralization. Built on the peer-to-peer
+network, all operating participants will have the same control, which further provides security
+by removing central points of failure. The transactions in the blockchain are stored, literally, in
+a block, and there are multiple such blocks in the blockchain. This is advantageous as it
+provides a high level of accountability and trust because all parties involved in it have the
+same piece of data and because of the blockchain that was developed to keep all data
+transparent. This is crucially important for applications with the highest level of security and
+trust requirements—in areas such as finance, supply chain, and healthcare. In banking, for
+example, blockchain can simplify procedures and minimize fraud.
+In addition, blockchain enables the use of smart contracts, which are self-executing contracts
+with the terms of the agreement directly written into lines of code. This is used by platforms
+like Ethereum to allow transactions to self-execute at the moment the conditions laid out in
+the contract are matched with abolishing the biggest cost in the transaction, human
+intervention. Acknowledging the challenges like scalability and regulatory compliance;
+however, if these challenges are met, then the entire globe will soon be a user of blockchain
+technology. Once these issues are ironed out, we will likely see blockchain completely
+transform how we transact and handle data on a global scale.
+-Abhigna Kuchukulla
+22071A0537
+CSE-A 2 n d Year
+Deep Learning
+Deep learning is a subset of machine learning. Traditional machine learning deals with the
+concepts of training algorithms, which are used to learn and make predictions or conclusions
+from some data. Deep learning takes this process to a whole new level; it involves working
+with neural networks. These consist of neurons (singular units) organized in multiple layers
+(input, hidden, and output). These neural networks are incredible at training a model with
+complex data patterns.
+Deep learning is a technology inspired by the human mind, as the human mind doesn't need
+explicit instructions to train itself. Once a data point is fed into the network, it is continuously
+processed using mathematical functions that add weights and biases. Once the process is
+complete, the model will be trained. This powerful technology has found its way into managing
+complex tasks such as facial recognition, speech recognition, and automation systems.
+Everything that the human mind can do, deep learning can learn and perform.
+Deep learning has revolutionized mankind's approach to technology. What once were complex
+manual tasks are now as simple as snapping your fingers. Through deep learning, there have
+been numerous advancements in healthcare, automotive, finance, etc. As we enter the age of
+AI, deep learning will play a vital role in the evolution of technology and mankind.
+- Tirupate Aniketh
+22071A05C2
+CSE-B 2n d Year
+Extended Reality
+It is an umbrella word, i.e., a proper canopy for three words, which are augmented reality
+(AR), virtual reality (VR), and mixed reality (MR). To be precise, extended reality is a
+technology that merges both the physical and digital worlds so seamlessly that users can
+immerse themselves in a completely different world and have photorealistic visuals by
+combining on-device processing, 5G, and edge cloud processing.
+Here, augmented reality deals with the physical environment of the user, and virtual reality
+deals with a completely digital environment, whereas mixed reality is a perfect combination of
+both the physical and digital worlds. Extended reality (XR) has its uses in a wide range of
+fields, including education, marketing, gaming, industrial manufacturing, health care, and
+many more.
+Recent research has proven that for more than 60% of the respondents, XR will be the most
+streamed technology in five years. This technology also has a downside. It is also battling with
+a lot of challenges, such as the high cost of implementation, the need to collect huge amounts
+of personal data, the protection of users' emotions, and many more. There are significant
+software and hardware issues where virtual objects in the real world are indistinguishable
+from real objects. Each day, we are one step closer to solving these issues and expanding their
+applications.
+- Chaitra Nadipelly
+22071A6642
+AIML-A 2n d Year
+Generative AI
+Generative AI, also known as generative artificial intelligence, is the operation of AI to produce
+new content such as text, photos, music, audio, and videos. It refers to deep-learning models
+that can produce high-quality text, photos, and other content using the data on which they
+were trained. Artificial intelligence has gone through multiple hype cycles, but those who
+disagree believe that the launch of ChatGPT is a significant event. OpenAI's chatbot, powered
+by its rearmost big language model, can write poems, tell jokes, and generate essays that look
+like they were authored by a human.
+The last time generative AI loomed so huge, the advances were in computer vision. Selfies
+turned into Renaissance-style pictures, and prematurely aged faces flooded social media feeds.
+Five years later, the leap ahead in natural language processing, as well as the potential of huge
+language models to riff on almost any theme, has captured the public's imagination.
+Numerous times, statisticians have employed generative models to examine numerical data.
+Still, with the emergence of deep learning, it may now be applied to images, audio, and other
+complicated data sources. Variational autoencoders (VAEs), which were introduced in 2013,
+were among the first models to achieve this cross-over feat. VAEs were the first deep-learning
+models employed to produce realistic illustrations and voices.
+- Vellanki Chenchu Dedeepya
+22071A0563
+CSE-A 2n d Year
+Swarm Robotics
+In general, "swarms" refer to the coordinated collective action of a large number of tiny
+entities, such as digital actors, robots, or biological organisms. Scientists have been captivated
+by swarms in nature due to their ability to solve problems with collective intelligence.
+Swarm robotics is an emerging subject that aims to harness the power of huge groups of
+relatively simple robots cooperating in a coordinated manner to achieve complex tasks.
+The research has led to a three-step pattern:
+Design (individual and collective) → Analysis (micro and macro models) → Collective behavior
+Potential Applications
+1.Search & Rescue: By effectively navigating challenging situations, swarm robotics can find
+and save people who are stuck in disaster areas, speeding up reaction times and lowering
+the risk to human rescuers.
+2.Building: Robot swarms can work together to collaboratively build large structures
+autonomously. This results in shorter construction periods, lower construction costs, and
+better safety, especially in hazardous regions.
+3.Medical Uses: By navigating through the human body, miniature robot swarms can
+provide targeted drug therapies, carry out minimally invasive operations, and support
+diagnostic procedures, providing accurate and more comfortable medical interventions.
+4.Exploration: They are capable of obtaining important data for exploration missions while
+exploring difficult and remote locations like deep marine areas, space, inside volcanoes, or
+other dangerous terrain on Earth.
+Swarm robotics, despite its challenges like physical capture and communication
+vulnerabilities, is rapidly advancing. Ongoing research is focused on robust solutions to
+enhance system reliability. As more work goes into this field, it is clear that it has a huge scope
+for growth and possible solutions for many of our problems. By using the collective
+intelligence of robot swarms, we can now find the right solutions to complex scenarios with
+greater efficiency and effectiveness, leading to a new era of autonomous and adaptive robotic
+systems. There is a lot in store in the fields of robotics and automation, giving rise to new
+exciting paths.
+- Harshitha Upadhyayula
+22071A3259
+CSBS 2n d Year
+Communication
+Communication technology is all about the ways we send and receive information. Now think
+about mobile phones, laptops, tablets, radios, the internet, and social media. These tools have
+made it so much easier to stay in touch with people, whether they are next to the door or
+across the globe. Now, we can instantly text, video call, and collaborate with each other online.
+As these technologies get better and updated day-to-day, they’re changing the world and our
+lifestyle and work, making everything faster and more connected, and doing business across
+the world.
+One of the biggest advantages of modern technology is its ability to connect people instantly,
+no matter the distance. Families, friends, and relatives can stay in touch through video calls
+and messaging apps like WhatsApp. It is easier to maintain relationships when they are far
+apart. Businesses benefit from this communication technology as well; they can collaborate
+with people in different time zones, which reduces the need for travel. Another advantage is
+the accessibility of information.
+With the internet in our hands, we can quickly find answers to questions, learn new skills, and
+stay updated on the latest news. But these advanced technologies cause some problems, like
+privacy concerns, misinformation, and less face-to-face interaction, causing stress.
+- Shaik Mohammad Hussain
+22071A05J3
+CSE-C 2n d Year
+Virtual Reality
+"Imagine entering a totally new world with just a device on, where you can reach your
+imagination.“ This is fully possible with VR, where indeed the insolvable becomes possible.
+The term virtual reality was coined in 1987 by Jaron Lanier, whose exploration and
+engineering contributed a lot to the VR industry. Virtual reality (VR) is a revolutionary
+advancement in computer modeling and simulation that enables a person to interact with an
+artificial 3D visual or sensitive environment.
+VR operations immerse and engage the druggies in computer-generated terrain that
+stimulates reality through the use of interactive bias, which shoots and admits information
+and is present in different forms like gloves, goggles, helmets, and numerous others.
+The visions are created by stir detectors that pick up the drug's movement and acclimate the
+view on the screen, generally in real time.
+The operations of VR are endless and are in nearly every discipline, like
+Health Care
+Education
+Entertainment
+Tourism
+Marketing
+Architecture
+Real estate, etc.
+Healthcare
+VR in healthcare is used for surgical training, allowing medical professionals to exercise
+complex procedures in a virtual, riskless terrain. Also, in patient recuperation by doing a lot of
+exercises that enhance physical remedy and pain operations, the VR environment distracts
+patients during painful procedures.
+Education
+VR transforms education by furnishing a virtual motivating terrain that enhances
+understanding and reduces distractions. Scholars can take virtual field passages, conduct
+complex trials in a virtual lab, or explore the world without actually moving. VR makes
+learning more engaging and interactive.
+- Jithamanyu Pola
+22071A05Q5
+CSE-D 2n d Year
+Cloud Computing
+Cloud computing is the supply of computer services, such as servers, storage, databases,
+networking, software, and analytics, via the internet, sometimes known as "the cloud." This
+paradigm eliminates the need to buy and maintain infrastructure by enabling consumers and
+enterprises to access and store data, execute programs, and use computational power. Cloud
+computing has transformed IT operations by offering resources that are scalable, cost-
+effective, and accessible. Well-known companies like Google Cloud Platform (GCP), Microsoft
+Azure, and Amazon Web Services (AWS) provide a variety of services to meet different
+demands, ranging from basic data storage options to sophisticated machine learning and big
+data processing.
+There are numerous benefits to using cloud computing. Firstly, because customers just pay for
+the resources they use and don't need to pay for costly equipment, it offers high cost savings.
+Secondly, it offers flexibility, making it simple for companies to adjust their operations in
+response to changes in demand. Small and emerging businesses that need to expand quickly
+without being suffocated by conventional IT infrastructure can especially benefit from this.
+Furthermore, cloud services guarantee disaster recovery and high
+availability by storing data in many locations for backup. Lastly, the cloud provides
+international teamwork by granting access to data and apps from any location with an internet
+connection.
+To conclude, cloud computing has drastically changed our understanding of technology and
+improved its usability and accessibility for all. Although there are still obstacles to overcome,
+such as privacy and data security issues, cloud computing's many benefits make it an essential
+component of technology that will inspire further advancements and improvements.
+- Keerthika Reddy Challa
+22071A66E1
+AIML-C 2 n d Year
+Biotechnology
+Biotechnology refers to the application of science and technological methods to
+microorganisms or their by-products to make advancements in the fields of human and animal
+health, agriculture, the environment, and the manufacturing industry. Throughout history,
+microorganisms have been used to prepare foods such as bread and vaccines, as well as to
+produce desirable plant varieties and preserve food.
+In medicine, using biotechnology for medical applications is also called red biotechnology.
+Recombinant insulin was created utilizing E. coli to meet the needs of diabetic people. Gene
+therapy can treat hereditary illnesses if introduced at an early stage. Using vectors such as
+retrovirus, adenovirus, and herpes simplex virus, the faulty or inactive gene is replaced with
+the normal gene. Molecular diagnosis employs techniques such as recombinant DNA and ELISA
+to detect diseases early. Pharmacogenomics has enabled the development of tailored drugs for
+diseases such as cancer, depression, HIV, and asthma. Genetic restoration aims to restore
+endangered species of animals and plants.
+In Industry and Environment: Using biotechnology for developing new chemicals and biofuels
+is called gray or white technology. Industrial biotechnology boosts productivity by using fewer
+resources and less power, which also often leads to better-quality products. Biotechnology is
+used to increase the shelf life of foods and reduce food waste. Biofuels have the potential to
+reduce emissions. Enzymes from microorganisms are also used as biocatalysts in the
+production of chemicals. Biotechnology also helps in waste management by using techniques
+like phytoremediation and bioremediation. In agriculture, the creation of genetically modified
+crops that are pest-resistant and more tolerant of environmental stress has potentially more
+nutritional value than the original crop. In biofertilizers.
+Despite its numerous advantages, biotechnology is not without its drawbacks.
+Biotechnology can increase product costs and impact distribution equity. Ethical concerns
+arise about the use of biotechnology. Safety concerns include possible biowarfare use and the
+unknown long-term effects of consuming genetically modified products.
+-Kollipara Madhuri
+22071A05G1
+CSE-C 2n d Year
+Genomics
+Genomics is the rudimentary section of the microbiology study. Genomes, being the cardinal
+creation of the human world, need deep diving. Genomics, in basic words, means the study of
+human genes, their interactions with each other, and the nature around them. Frederick
+Sanger, known as the father of genomics, and three other scientists have made revolutionary
+developments in the field.
+When beginning to understand about genomics, the initial step is to know about the DNA,
+which is a hereditary component in the human body and consists of the genetic information
+that helps in the development and functioning of the person.
+The complete set of DNA in the human body together means the genome, and the study of this
+is known as genomics. This study of genomes has led to various remarkable developments in
+the health care domain. Projects like the human genome project were started with the root
+intention of generating an end product that would, in return, help in dealing with a wide range
+of medical ailments.
+Every human malady has its roots in the genes. Illnesses like cancer, diabetes, skin disorders,
+and many more are mostly transmitted through hereditary. The study of genomes has enabled
+doctors with powerful resources to work on these complex diseases. Even though these works
+on genomics might take longer than expected to be converted into medical elements, they are
+known to be very effective.
+These genomics are not only applicable for humans but for animals and plants too. Genomics
+helps in the early detection of a particular disease, even before the symptoms start showing.
+This genomics is shifting the medical boat from treatment to cure itself. Kemal Malik, a
+member of Bayer board management, has stated that genomics is revolutionising people’s
+ideas not just of health care but of illness itself.
+- M. Sai Meghana
+222071A05P6
+CSE-D 2n d Year
+Autonomous Rapid Transit
+Autonomous Rapid Transit, referred to as ART (in transport), is a well-guided system designed
+for convenient, efficient, and pollution-free public transportation in China. ART is seen as a
+combination of bus, train, and tram that can carry up to 300 passengers. ART is a semi-
+automatic electric vehicle that has a driver to perform acceleration and braking. It is a rubber-
+tyred vehicle that operates on sensors and cameras following two dashed lines (virtual tracks)
+without any track on the road or riles. Systems built-in with ART provide information about
+certain things, as follows:
+The navigation system helps the transit know about path tracking, route directions, alternate
+routes, and traffic signals.
+The Lane Assistance System maintains transit in a specific lane.
+The collision warning system sends a warning sign to the driver whenever the vehicle is out of
+the lane or when the safety distance is below a certain level. Hence, ascertaining the safety of
+passengers.
+ART uses lithium-titanate batteries (rechargeable), which run up to 40 km per full charge and
+can be rapidly (re-)charged automatically at specific stations via current collectors, decreasing
+waiting time. No gases are released, and there is no usage of petrol or diesel; hence, air
+pollution can be decreased, and oil consumption is also reduced. Hence, it is also eco-friendly.
+Therefore, the main features of autonomous rapid transit include automation, safety,
+efficiency, and capacity.
+Concluding, autonomous rapid transit is one of the evolutionary technologies in the field of
+transportation, offering an innovative and eco-friendly solution to one of the major challenges
+faced by modern-busy places at a low operational cost.
+-M. Nehanjani
+22071A7222
+AIDS 2n d Year
+Automation
+One of the effects of the digitalization of industries is automation. This tool makes an activity
+more efficient, faster, and germinates innovation. For content writing and management, aids
+like AI-generated writing software enable teams to create content quickly and competently,
+with creative work emerging from the writer instead of a computer (though with plenty of
+creative seeds planted by the assistants in their minds). Automated CMS: Automated CMS
+ensures that articles, blogs, and social posts are scheduled and published at the right time to
+maintain a constant sea of content for the viewers.
+Apart from content creation, automation boosts the efficiency of your marketing and customer
+management significantly. Automated email marketing solutions help kill your subscriber list
+zombies, personalize campaigns, and assess both success and failure to improve sender
+performance.
+The use of social media management tools can also assist in the scheduling and analysis of
+posts to maintain a regular, strong online presence. CRM: CRM systems help you remember
+when subscription renewals are due, how to engage and re-engage subscribers, and keep tabs
+on what your subscribers like so you can give them what they want. Incorporation of
+Automation: Automation allows businesses to not only enhance operational efficiency but also
+reallocate resources to innovation and strategic growth.
+- P. Nikhita Chowdary
+22071A05Q6
+CSE-D 2n d Year
+Space Technology
+Nowadays, space technologies are utilised in different regions of our lives. They support a
+wide range of crucial capacities, such as navigation, communications, climate estimation, and
+security.
+Innovations in space technology have advanced significantly in recent times.
+SILICA AEROGELS: Silica Aerogels, A recent advancement at ISRO, which is among the
+lightest materials in the world, they are used in different applications, such as space suits,
+rovers, and jackets for use in extremely cold environments. In expansion, they can be
+utilised in the fabrication of cement and paint, as well as adsorbent materials for oil spills.
+S-BAND UNFURLABLE ANTENNA: The Indian Space Research Organisation (ISRO) has
+developed and deployed a 6 M diameter spherical antenna for use in space. This is marked
+as ISRO's largest satellite antenna. It is primarily used for giving five-spot beams over
+India's terrain. The utilisation of the frequency helps to improve the efficiency of the
+signal. The satellite is equipped with a 70-volt bus. This makes it the first Indian
+communication satellite to operate successfully.
+Due to the expanding accessibility of space-based innovations, their applications and parts in
+different areas have been broadly recognized. For instance, observing natural issues and
+human rights infringements is being carried out using these space advances.
+-B. Preetham Jonah
+23075A7202
+AIDS 2 n d Year
+Mocobot Technology
+Imagine you’re a filmmaker and you’re trying to achieve a shot. You have already used
+traditional camera setups such as gimbals, cranes, etc., yet you are not satisfied. For shots that
+cannot be achieved by conventional setups handled by humans, a motorized precision or camera
+robot, more famously known as Mocobot was designed. Mind you, Mocobot is not a camera but a
+type of robot, if you will, that helps in achieving impossible shots at a speed unheard of. The
+Mocobot studio in India is located in Bangalore, with its previous projects and achievements
+available for us to check out at their website, http://www.mocobotstudio.com/index.php.
+This technology consists of a rig to which a camera (of any type) can be fixed. Then, the
+movements of the camera, the subject of the shot, and the speed of the camera must be
+specified to the robot through the software, following which the shot can be achieved. The
+main advantage of this technology is that it can carry cameras of any weight while also moving
+them at high speeds, both of which are not humanly possible. As a result of these
+preprogrammed movements, we can achieve shots that otherwise require a lot of computer
+graphics, which may not look realistic. For the shots taken in front of a green screen, the
+tracking data of the camera robot helps the VFX artists during the post production phase,
+making it easier for them to design the animation and graphics.
+While the camera robot technology is primarily used for advertisements, particularly for
+mobiles, it has also broken new ground in the field of feature films, with Hollywood
+blockbusters like Ant-Man and the Wasp (2018) using it for highly stylized sequences. More
+recently, Mocobot technology has been used in Indian films like Vikram (2022) and Leo
+(2023). And more upcoming films are said to use this exciting technology that promises to
+redefine the landscape of combat sequences and action filmmaking.
+- A K Ram Mohan Naidu
+22071A6667
+AIML-B 2 n d Year
+Precision Agriculture
+Agriculture, the backbone of human civilization, has experienced significant innovations to
+satisfy our needs. One of the greatest innovations was precision agriculture. It is the practice
+or strategy of enhancing crop yields and supporting management decisions through the use of
+advanced technology and analytical tools. It involves using agricultural technologies to
+measure big data through systems including temperature, soil health, amount of oxygen,
+water, sun, and insects. It also includes the age of soil, carbon levels, and different colors of
+sunlight; all of them affect the growth and development in various stages. By knowing where it
+is, where it needs to be, and what stage it is in, management can make more educated and
+valuable decisions. This is known as precision agriculture. With precision agriculture, farmers
+will need to know what inputs are needed in what amounts. This requires collecting a lot of
+information from different sources.
+For example, in different parts of the field, information like soil nutrients, the presence of
+insects, the level of greenness of the plants, and the weather forecast. Once the information is
+collected, it will be analyzed to produce a few agronomic recommendations. Precision
+agriculture uses technologies such as GPS, soil sensors, yield monitors, remote sensing, IoT, AI,
+robotics, and automation to make farms more efficient.
+This modern concept has the advantages of boosting production, decreasing labor time, and
+optimizing fertilizer and pesticide usage. It also addresses water scarcity by promoting the
+right use of water.
+Challenges limiting broader adoption include high costs of technology, complex technology,
+Internet issues, and resistance to change.
+Overcoming these challenges is essential to making precision agriculture successful.
+- Reshma Mulpuri
+22071A05P7
+CSE-D 2 n d Year
+Underwater Wireless Technology
+Underwater wireless technology is an innovative field that allows communication and data
+transmission beneath the water's surface without the need for physical cables. This technology
+is essential for various applications, such as marine research, environmental monitoring,
+underwater exploration, and military operations.
+Acoustic signals, or sound waves, are commonly used for underwater communication because
+they can travel far in water with little loss of strength. They are utilized in submarines,
+underwater vehicles, and sensor networks for tasks like collecting ocean data and navigation.
+However, acoustic communication has drawbacks such as slow data transfer, delays, and
+interference from marine life and human activities. On the other hand, optical signals use light
+to send data underwater, offering faster data transfer. They are suitable for short-distance
+communication, like in underwater vehicles or diver systems. However, optical signals don't
+travel far because light is absorbed and scattered in water, especially in cloudy or murky
+conditions.
+RF signals can also be used underwater, but they are only effective over very short distances
+because they weaken quickly in water. They are often used in shallow water or for near-
+surface communication where the signal doesn't need to travel far. However, RF signals have a
+limited range and consume a lot of power, making them less practical for deep-sea use.
+Underwater wireless technology enables real-time data collection from sensors, which is
+crucial for studying marine life, water quality, and ocean phenomena. It monitors pollution,
+temperature, and coral reefs. It aids in exploration by mapping the seafloor, locating resources,
+and exploring shipwrecks. Additionally, it supports military operations by providing secure
+communication for submarines and drones, enhancing naval operations.
+- Mohammad Sadhik
+22071A6732
+DS-A 2n d Year
+Unity
+Unity is a real-time platform for 2D, 3D, AR, and VR creations. It is one of the most popular,
+powerful, and versatile game engines. It was developed by Unity Technologies in 2005. It
+comprises all the tools and features for creating both 2D and 3D games and interactive
+simulations. Unity has been identified for its user-friendly interfaces and strong asset pipeline,
+making it convenient for both beginners and experienced developers.
+Unity offers users the ability to create games, and the engine offers primary scripting in C# to
+handle code and logic using mono and IL2CPP scripting. Unity's animation system, featuring
+the Animator component and Mecanim animation system, allows for complex animation
+workflows, including blend trees, state machines, and inverse kinematics, supporting both
+skeletal and sprite animations. Unity also includes special drag-and-drop functionality.
+Unity is a cross-platform engine that is supported on various operating systems, like MAC,
+Windows, and Linux. And building games can be possible on numerous platforms, like mobile,
+desktop, virtual reality, etc. The supported console platforms for Unity are PlayStation, Xbox,
+Nintendo Switch, Oculus, Google’s ARCore, and Apple’s ARKit.
+Some famous games that are developed using Unity are Temple Run, Among Us, Pokemon GO,
+Subway Surfers, and more.
+- A. Sai Pranavi
+22071A05D5
+CSE-C 2 n d Year
+Natural Language Processing
+Natural language processing (NLP) is a branch of artificial intelligence (AI) that allows
+computers to understand, produce, and interact with human language. Many consumers have
+likely engaged with NLP without being aware of it. Examples of virtual assistants that rely on
+natural language processing (NLP) include Alexa, Cortana, Siri, and the Oracle Digital Assistant
+(ODA).
+NLP works by using algorithms to process and analyze large amounts of human language data.
+It starts by breaking text or speech into smaller parts, like words or phrases, and then
+analyzing these to understand their meanings, relationships, and context. Machine learning
+models, trained on extensive datasets, find patterns and make predictions. This allows
+computers to comprehend, interpret, and generate human language, powering applications
+such as translation, sentiment analysis, and virtual assistants.
+Natural language processing (NLP) encounters various challenges, yet its promising
+advantages for businesses justify the endeavor. Human languages, exceeding 6,500 in number,
+exhibit complexity and diversity, each governed by distinct rules. To enable machine
+comprehension, language undergoes syntax and semantic analysis to understand grammar
+and context. Data scientists are tasked with instructing NLP tools to navigate complexities
+such as context, ambiguities, and nuances in language, transcending mere definitions and
+word arrangements.
+- CH V Sai Srija
+22071A05E1
+CSE-C 2 n d Year
+DDaattaa SScciieennccee
+Fundamentally, data science is the art and science of drawing conclusions and knowledge from
+data using a variety of techniques, such as data mining, statistical analysis, and machine
+learning.
+Data science is crucial in the current data-centric society, impacting industries, creativity, and
+uncovering hidden insights in vast datasets. Essentially, data science involves utilizing
+statistical analysis, machine learning algorithms, and domain experts to uncover valuable
+insights and knowledge from data. Data science is responsible for bringing about
+groundbreaking advancements, whether in predicting customer behavior, optimizing
+company operations, or healthcare.
+As a result, data science is the foundation of modern innovation and presents countless
+potential for all sectors. While we continue on its possible journey.
+-Sasi Chowdary
+22071A67C4
+DS-B 2n d Year
+Internet of Things
+Imagine a life where you just sit in your car and then it starts on its own, even without any of
+your interference. Now, this isn’t a dream; it is possible with the IoT. The Internet of Things is
+a network of devices embedded with software, sensors, and connectivity to enable objects to
+exchange data with the manufacturer, operator, and other connected devices.
+IoT devices share the sensor data they collect by connecting to a gateway, which is a central
+hub where those devices can send data. Before the data is shared, it is also sent to an edge
+device, where that data is analyzed locally. Analyzing the data locally reduces the volume of
+data sent to the cloud, which minimizes bandwidth consumption.Organizations in various
+industries are using IoT to operate more efficiently, provide enhanced service to customers,
+and increase the value of their businesses.
+The IoT helps people live and work smarter. The IoT has many applications in almost every
+sector, from agriculture to space exploration. The IoT is transforming our lives in healthcare,
+agriculture, smart irrigation systems, cities, smart traffic management systems, etc.
+Autonomous vehicles are one of the most notable examples of IoT in action, with longtime
+automotive companies such as BMW Group, Ford Motor Company, and General Motors, along
+with newer entries such as Tesla, all working on self-driving vehicles. So, the IoT is changing
+extraordinary things into our new normal.
+- Shravani Pothula
+22071A0553
+CSE-A 2n d Year
+Quantum Computing
+Quantum computing is a new field of technology that uses the concept of quantum mechanics
+to process information in a fundamentally different way when compared to classical
+computers. Classical bits can be either 0 or 1. Unlike classical bits, quantum bits, or qubits, can
+exist in multiple states simultaneously, i.e., be both 0 and 1 simultaneously. This property is
+called superposition. Another important feature is entanglement, where one qubit's state is
+linked to another's, regardless of how far apart they are. This allows quantum computers to
+perform complex calculations such as optimization problems, simulations of molecular
+structures for drug discovery, and advanced cryptography much more efficiently than classical
+computers.
+Recently, there have been some exciting developments in the field of quantum computing.
+Companies like IBM, Google, and Rigetti are making advanced quantum computers. In 2019,
+Google announced that its Sycamore processor achieved “quantum supremacy." The Sycamore
+processor solved a problem in 200 seconds that would take a supercomputer around
+thousands of years to solve. IBM also has a platform called Quantum Experience, which lets
+people run quantum algorithms through the internet.
+Also, there have been improvements in making qubits more stable and reducing errors. These
+improvements are important for making quantum computers more practical and reliable.
+Although still in its early stages, quantum computing has the potential to revolutionize many
+industries and address challenges that classical computers cannot handle.
+- Shruthika Sunku
+22071A6652
+AIML-A 2n d Year
+AI in Finance
+AI has had a massive impact on the financial industry. Recently, AI has emerged as a powerful
+companion in almost all sectors worldwide and has entered the finance field. With the boom of
+AI, there have been major changes in finance due to the impressive ability of AI to analyze and
+identify complex patterns and come up with conclusions to suggest less loss and make well-
+informed decisions for customers. Machine learning has developed incredible algorithms that
+have been trained on massive amounts of data to help predict financial aspects such as
+investments and loans, and businesses and financial institutions have significantly benefited
+from this.
+Some of the major applications of AI in finance are risk assessment, fraud detection and
+prevention, credit decisions, personalized banking, automating tasks, and AI-driven chatbots
+to assist customers, address queries, and offer financial advice. Banks and financial institutions
+have switched to machine learning algorithms to determine a customer’s loan eligibility and
+loan-paying ability. Fraud detection systems work on the basic principle of analyze and
+compare, i.e., they analyze and predict a person’s buying pattern and are trained to trigger
+alerts if there is a deviation from the regular trend. According to Forbes, AI can analyze a
+person’s spending patterns, which can potentially suggest loan behavior and
+recommendations. It is also being used to automate repetitive and time-consuming tasks,
+which can allow employees to work on more impactful things. To conclude, embracing AI is
+not just a choice but a necessity in today’s modern world.
+-Srikruthi Muthyam
+22071A05R4
+CSE-D 2n d Year
+Nanotechnology
+Imagine a material as tiny as a dust particle but so powerful to innovate the entire industry—
+welcome to the world of nanotechnology. This article gives a brief introduction to
+nanotechnology, the science behind it, its applications, and future perspectives.
+Nanotechnology is the study and manipulation of matter (atoms) whose at least one
+dimension is nearly 1 to 100 nanometers. A nanometer is nearly equal to 1 lakh times thinner
+than the hair of a human. The materials are called nanomaterials. At the nanoscale range, they
+show different physical, biological, and chemical properties as compared to the whole material
+as a bulk. This behavior is the result of the quantum effect, increased surface area, and self-
+assembly, which can cause a change in reactivity, strength, etc.
+One of the most important applications of nanotechnology is in the medical field. Here,
+nanoparticles are created that deliver medicine directly to the targeted cells by reducing side
+effects and increasing efficacy. Examples of these nanoparticles are dendrimers, liposomes,
+etc. These particles are also used to detect some diseases in their early stages. There are also
+nanoparticle-based therapies such as gene therapy (used to treat genetic disorders),
+photothermal therapy (light-absorbing agents such as gold are used to convert light to heat
+energy, and that heat energy is used to kill targeted cells), and photodynamic therapy.
+In the department of electronics and computing, nanotechnology is used to design small, fast,
+and more energy-efficient devices. For example, design transistors in semiconductors.
+Nanotechnology improves the performance of electronic devices by increasing speed, storage
+capacity, etc. And it is also used to design flexible and wearable electronics such as smart
+watches, laptops with flexible screens, wearable sensors, etc. Looking forward, the future with
+nanotechnology is so bright, with amazing innovation in various fields in new ways and
+knowing the unique characteristics of nanomaterials.
+- Srivarshika Reddy
+22071A05J1
+CSE-C 2n d Year
+Military Technology
+Warfare is advancing quickly due to cutting-edge advances like counterfeit insights (AI),
+mechanical autonomy, and quantum computing. These developments present novel strategies
+of combat and move the adjustment of control. To keep up its quality in the future, the Indian
+Armed Forces must grasp modernization.
+The Indian Armed Forces are putting cash into fake insights (AI) to alter how they battle. One
+key venture, Bhim, is working on AI-powered rambles, unmanned ground vehicles, and
+pontoons. These apparatuses will make the Army’s operations more effective.
+The Armed Forces collaborates with colleges and private companies to create cyber
+innovations. They’re also preparing specialists in cyber fighting. For this case, they’ve
+collaborated with the Indian Organization of Innovation Delhi to make a cybersecurity
+program for building students.
+By contributing to AI and cyber capabilities, the Indian Armed Forces looks to reshape its key
+viewpoint. Bhim and comparative ventures and scholarly and industry collaborations
+reinforce the Army’s readiness for future challenges. Overcoming display impediments is
+essential to completely tackling these advancements and guaranteeing strong national
+security.
+- Suhas Uppala
+22071A6661
+AIML-A 2n d Year
+Salesforce
+Salesforce offers applications for sales, customer care, marketing automation, e-commerce,
+analytics, and application development, in addition to customer relationship management
+(CRM). Apex, a proprietary Java-like programming language, is used in the development of
+Salesforce applications to create HTML, first using the "Visualforce" framework. Businesses
+may track customer behavior, market to clients, and perform a host of other functions with the
+Salesforce CRM. A CRM platform allows you to explore all of your metrics and data in greater
+detail. You can also create a dashboard that presents your data graphically. Furthermore, you
+can use automation to have customized outreach. Salesforce can be accessed by users via a
+desktop program, mobile app, or web browser. Salesforce gives users the ability to design and
+develop unique fields, reports, processes, and objects, as well as integrate them with other
+software programs. Salesforce uses a single database structure to store data. Multiple tenants
+can reside on a single instance of a software server. Salesforce development is based on a
+metadata-driven approach. This frees up developers to concentrate solely on creating the
+application. This platform, which is powered by metadata, facilitates easy modification and
+growth.Salesforce offers a robust API resource.
+Salesforce offers SAAS (Software as a Service) offerings, which allow you to download and use
+the integrated software directly. Platform as a Service, or PAAS, provides the architecture and
+platform for you to create apps and websites. Infrastructure as a Service, or IAAS, is essential
+to the development of Salesforce, even if it isn't very popular. One of Salesforce's most
+important and well-liked products is Sales Cloud. Salesforce App Cloud: This service allows
+you to create unique applications that are compatible with the Salesforce operating system.
+Salesforce Service Cloud: Salesforce helps with customer service as well. This is a platform for
+services used by the support staff of your company. It offers functions such as social
+networking plug-ins and case tracking.
+- Rudrabatla Vashishta
+22071A7252
+AIDS 2n d Year
+Reverse Aging
+Around July 2023, researchers from Harvard Medical School, the University of Maine, and MIT
+published a research paper titled "Chemically Induced Reprogramming to Reverse Cellular
+Aging." In simple terms, it is a paper on reversing the process of aging. It is a replacement for
+gene therapy that focuses on the rejuvenation of cells, making them younger than before, but
+involves a potential risk of cancer if not performed with precautions. In this research,
+scientists have identified a chemical method to reprogram cells, transforming them into a
+newer state.
+In this research, the mice were the test subjects. The researchers then demonstrated that it is
+possible to slow down, or even reverse, the process of ageing by manipulating gene activity in
+mice. However, it has not yet been proven the same for humans, but it still stands as a hope to
+combat early mortality and age-related diseases. A similar kind of research is currently being
+performed in the Altos Lab, backed by Jeff Bezos, former CEO and co-founder of Amazon, along
+with Yuri Milner, a Russian-Israeli businessman. If this research is proven successful for
+humans, it will completely revolutionize the healthcare industry, as it carries some great
+applications.
+Diseases like Alzheimer's and cardiovascular diseases, which can attack humans in old age, can
+be delayed if this works. Regenerative medicines might come into the picture; stem cell
+therapies, tissue engineering, and organ regeneration could benefit significantly. It also finds
+applications in the cosmetic industry. Overall, this might be a great discovery for mankind
+while raising questions about ethics and ethnicity.
+-Vishwanth Talluri
+22071A05R6
+CSE-D 2n d Year
+VNR VIGNANA JYOTHI INSTITUTE OF
+ENGINEERING AND TECHNOLOGY
+Computer Society of India
+CAREER
+GUIDANCE
+Higher Education: SoP
+Higher education plays a vital role in shaping an individual’s career and personal growth. For
+many students, pursuing a postgraduate degree or specialized certification abroad opens
+doors to world-class education, better career opportunities, and a global perspective. With
+increasing competition for spots in top universities, it has become essential to present a strong
+application. While academic qualifications and test scores are important, one of the most
+critical elements of an application is the Statement of Purpose (SOP). The SOP serves as a
+personal introduction to the admissions committee, providing insights beyond your academic
+achievements.
+The Statement of Purpose (SOP) is an essential component of applications for higher
+education, particularly for graduate and doctoral programs. It allows applicants to
+communicate their academic background, career aspirations, and reasons for choosing a
+particular program or institution. The SOP is an opportunity to tell your story—why you are
+passionate about the field, what experiences have shaped your goals, and how the program
+will help you achieve them. A compelling SOP can set you apart from other applicants and
+strengthen your overall application. For instance, an Indian student applying for a Master’s in
+Artificial Intelligence at a US university might describe their undergraduate research in
+machine learning, how internships with tech companies have influenced their career path, and
+why the specific university’s focus on AI research aligns perfectly with their professional goals.
+A well-crafted SOP should include several key elements: a clear introduction to your academic
+background, specific reasons for choosing the program, relevant experiences (like internships
+or research), and an explanation of your future career objectives. It should also reflect why the
+chosen university is a perfect fit, based on factors such as faculty, resources, and research
+opportunities. The SOP is not just about summarizing your resume—it is a chance to
+demonstrate your passion, commitment, and unique qualifications for the program. Ultimately,
+a strong SOP can be the difference between acceptance and rejection, making it one of the
+most important documents in the higher education application process.
+Publishing of Project Ideas
+Publishing project ideas and showcasing them in expos or open houses offer students a
+valuable opportunity to share their work, receive feedback, and gain recognition. Whether
+working on an innovative idea alone or with a team, understanding how to create, participate,
+and prepare for a presentation is key to a successful experience.
+1. How to Create a Project
+Creating a project that stands out involves several stages, from choosing a topic to finalizing
+details. Here are some steps to consider:
+Identify a Problem: Start by identifying a real-world issue or an area you are passionate
+about. A project that aims to solve an actual problem or address a common need will likely
+have a stronger impact.
+Research and Define Objectives: Conduct research to understand the problem thoroughly.
+Define clear objectives, outlining what the project intends to achieve and why it is
+essential.
+Plan the Project: Draft a roadmap for your project. Outline the necessary steps,
+technologies to use, and resources required. Planning helps in managing time effectively
+and maintaining focus.
+Develop the Solution: Begin developing your project according to the plan. Depending on
+the type of project, this might involve coding, designing, or creating a prototype.
+Remember to test frequently to catch any issues early.
+Document the Process: Keep track of your development process, challenges faced, and
+solutions you implemented. Good documentation is valuable for presenting your project
+and can impress judges by demonstrating a thorough approach.
+2. Where to Find and How to Participate
+Participating in project expos or open houses usually involves a few straightforward steps.
+Look out for announcements from your college, technical clubs, or online platforms like
+GitHub, Devpost, and Kaggle, which often host events for project showcases. Once an event
+catches your interest, register by submitting a brief proposal or abstract of your project. This
+submission should clearly explain the project’s purpose and potential impact, as a clear and
+engaging proposal helps to capture the organizers’ attention.
+Some events may have entry-level requirements, such as a specific area of study or a minimum
+completion level for the project. Always review the eligibility criteria carefully.
+3. Guidelines for Submission
+Most project expos and open houses provide specific guidelines on how to submit and present
+a project. Below are some common guidelines to consider:
+Documentation: Submit a report detailing your project’s background, objectives,
+methodology, results, and future scope. Keeping it simple and easy to understand, with
+clear headings and bullet points, is recommended.
+Presentation: Prepare a presentation that covers the key points of your project. Using
+visuals, diagrams, and short videos, if allowed, can make complex ideas easier to grasp.
+Prototype/Demo: Create a prototype or live demo if possible. Demos enhance
+understanding and make the project stand out.
+4. Preparing for the Presentation
+A strong presentation helps convey your ideas effectively and can make your project
+memorable. Here are some tips to prepare:
+Know Your Audience: Tailor your presentation to be accessible and engaging, especially if
+the audience might not have in-depth technical knowledge.
+Highlight the Problem-Solving Aspect: Clearly explain the problem your project addresses,
+making it easier for others to understand its significance.
+Practice for Questions: Anticipate potential questions from judges or the audience and
+practice responses to show a deep understanding of your work.
+Showcase the Impact: Emphasize how your project can make a difference, whether by
+saving time, improving efficiency, or solving a real-world issue.
+Refine Your Pitch: Practice explaining your project in 3-5 minutes, focusing on key points
+to stay calm and concise.
+5. Weightage and Evaluation
+Different events prioritize different aspects of a project. Common evaluation factors include:
+Innovation (30-40%): Creativity and originality are often rewarded highly, as expos
+prioritize unique solutions to existing problems.
+Technical Skills (20-30%): This evaluates the complexity and execution of your project.
+Demonstrating advanced techniques or technologies can earn higher points.
+Impact (20-30%): Projects with real-world applications or solutions to common
+challenges are rated highly.
+Presentation (10-20%): The ability to clearly and effectively communicate your project’s
+value is crucial.
+6. Advantages of Participating
+Participating in project expos and open houses provides various benefits:
+Networking: These events allow students to connect with industry professionals,
+professors, and peers. Building connections here can lead to mentorship, collaboration,
+and future opportunities.
+Internships and Job Offers: Companies often scout expos and open houses for talent. A
+well-executed project can make a strong impression, potentially leading to an internship
+or job offer.
+Funding Opportunities: If your project idea has potential, it may attract funding from
+organizations or venture capitalists interested in supporting further development.
+Skill Development: Preparing for an expo builds valuable project management,
+communication, and technical skills.
+Publishing project ideas and participating in expos or open houses can be highly rewarding. By
+understanding how to create, submit, and prepare for these events, one can confidently
+present their project. Not only does this process improve skills, but it also opens doors to
+valuable feedback, networking, funding, and career opportunities.
+Ms Bandi Venkata Yamini
+17071A0566
+SDE 2, Amazon
+Coding and Tips
+Competitive coding is a valuable skill, combining problem-solving abilities with potential
+career opportunities in the tech industry. For those serious about competitive programming,
+mastering data structures and algorithms (DSA) is crucial, as these form the foundation for
+tackling coding challenges. Key data structures like arrays, linked lists, trees, stacks, queues,
+and graphs are essential tools, as are algorithms for sorting, searching, dynamic programming,
+and greedy methods. Knowing each structure and algorithm’s strengths and weaknesses helps
+coders make strategic choices when solving problems. Platforms like LeetCode, HackerRank,
+and CodeSignal provide beginner-friendly environments to build and strengthen these skills.
+Consistent practice is one of the most effective ways to improve. Coding platforms such as
+CodeChef, AtCoder, and CodeForces offer coding contests that replicate real-time problem-
+solving scenarios and teach time management under pressure. By tackling one or two
+problems daily and reviewing their solutions, especially those that present challenges, coders
+reinforce their learning and develop resilience. This habit of revisiting and analyzing solutions
+strengthens problem-solving skills, turning mistakes into valuable learning experiences over
+time.
+Developing an understanding of problem-solving techniques like Divide and conquer, two-
+pointer, backtracking, and Dynamic programming is another key aspect of competitive coding.
+Knowing how and when to apply these strategies allows coders to approach complex
+problems with more confidence. Many coders start with brute-force solutions and then
+optimize them, which not only improves efficiency but also sharpens logical thinking.
+Efficiency is particularly important in competitive coding, as solutions often face time and
+memory constraints.
+Many coders have successfully followed this structured approach to coding, starting with little
+experience and dedicating time each day to platforms like LeetCode. Gradually progressing
+from basic to more advanced problems, they build a strong foundation in DSA concepts. By
+following a consistent practice schedule and participating in coding contests, they learn to
+handle challenges, analyze mistakes, and refine their approach. As they improve their skills
+and gain higher rankings, they often attract the attention of recruiters from top tech firms.
+Today, many of these coders work as software engineers, attributing their success to
+disciplined learning, continuous practice, and support from online coding communities.
+Engaging with online communities is another essential element for competitive coders.
+Platforms such as Stack Overflow, Codeforces, and Redditakmag offer valuable insights,
+support, and guidance from experienced programmers. These communities provide a space
+where beginners can learn from others, ask questions, and gain motivation. Watching tutorials
+or reading articles from expert programmers introduces new perspectives and problem-
+solving methods. This sense of community fosters a supportive environment that encourages
+growth and improvement.
+Ultimately, persistence and patience are critical for success in competitive coding. Progress
+requires consistent effort, a strong grasp of foundational knowledge, and a willingness to learn
+from each problem. Competitive coding is not only about solving problems but also about
+developing a disciplined, analytical approach that applies beyond contests and benefits all
+areas of programming. By mastering fundamentals, practicing consistently, optimizing
+solutions, and leveraging community resources, competitive coders can build skills that open
+doors to exciting career opportunities.
+P Harsha Vardhan
+16075A0509
+ASSOC Software Engineer
+JP Morgan Chase
+Importance of Certification Courses
+Certification courses are increasingly valuable in today’s professional landscape, offering a
+structured approach to learning specialized skills that are essential for personal and career
+growth. These courses are often created by industry experts and focus on practical, hands-on
+training tailored to real-world applications. Fields like data science, cloud computing, project
+management, and digital marketing require specific technical skills that are frequently
+updated due to the fast pace of technological advancements. Certification courses allow
+individuals to acquire these up-to-date skills and become job-ready in a relatively short time
+frame, providing them with a competitive edge in the job market.
+A key benefit of certifications is the credibility they offer. Certifications from well-recognized
+organizations, such as Microsoft, Google, AWS, or PMI (Project Management Institute), carry
+significant weight in the job market. For employers, certifications provide an assurance that
+candidates have met specific standards of knowledge and competence in their respective
+fields. For recent graduates, certifications bridge the gap between academic knowledge and
+industry requirements, making them more appealing to recruiters. They are also beneficial for
+professionals looking to change fields or advance in their careers, as certifications
+demonstrate commitment and expertise in new areas, strengthening their profiles and
+increasing their employability.
+Certifications also impact career growth and salary prospects. Many certifications, such as the
+PMP (Project Management Professional), AWS Certified Solutions Architect, or CompTIA
+certifications, are associated with significant salary increases and are often prerequisites for
+higher-level positions. These certifications validate expertise, often making certified
+professionals eligible for advanced roles that might not be accessible otherwise. By investing
+in certifications, individuals position themselves for more rapid career advancement and open
+up new opportunities for growth, making certifications a valuable tool for long-term success.
+Another crucial benefit of certifications is their role in helping professionals stay relevant.
+Industries such as technology, finance, and healthcare are rapidly evolving, with new tools,
+techniques, and best practices emerging frequently. Certifications in areas like data science,
+artificial intelligence, cybersecurity, and cloud computing are designed to keep professionals
+updated on the latest advancements. This ongoing learning process helps individuals remain
+competitive and adaptable in their fields, a vital asset in sectors where innovation is constant.
+Certifications enable professionals to stay current, setting them apart from peers who may
+rely solely on academic qualifications or outdated knowledge.
+In summary, certifications provide structured, focused training that equips individuals with
+practical skills relevant to today’s workforce. They build credibility, enhance employability,
+and often lead to career growth and salary advancements, especially in highly specialized
+fields. Certifications also support continuous learning, helping professionals keep pace with
+industry changes and maintain relevance. For anyone seeking to strengthen their skill set,
+achieve career progression, or make a smooth transition into a new field, certifications are a
+strategic investment that provides a competitive advantage in a constantly evolving job
+market.
+Tiruveedula Geethika
+17071A05B4
+MBA-General Management
+at IIM Mumbai
+Best Projects for the Academic Year 2023-2024 Batch: 2020-2024
+S.No. H.T. No. NAME OF STUDENT PROJECT TITLE GUIDE NAME
+1 20071A0505 Anuraag Chilakamarri AUTOMATIC RUNNING NOTES Mrs. A Madhavi
+20071A0527 Jupudi Chaithra GENERATION FROM AUDIO
+20071A0538 Madanaboina Srinidhi LECTURE USING NLP FOR
+20071A0553 Suraj Sriram COMPREHENSIVE LEARNING
+2 20071A0564 B. Neeha AUTOMATION AND Dr. V. Baby
+20071A05A0 P Sai Bharadwaj ARTIFICIAL INTELLIGENCE IN
+20071A05A2 P. Vivek BLOOD DONATION
+21075A0512 K. Vikas MANAGEMENT SYSTEM
+3 20071A0576 Sharanya Emmadisetty FLARE ALERT: WILDFIRE Dr. R. Vijaya Saraswathi
+20071A0585 M Sree Pranav Reddy AND URBAN FIRE DETECTION
+20071A05A4 Chandana Sankarapuram AND MITIGATION
+20071A05B1 Soumika Mallidi
+20071A05B2 Sreya Tirumalaraju
+4 20071A05C9 B.Srivalli VISUAL FALL DETECTION Dr. C. KiranMai
+20071A05D1 CH.Komali ANALYSIS THROUGH
+20071A05E2 G.Apurva COMPUTER VISION AND
+20071A05G2 B.Sneha DEEP LEARNING
+5 20071A05C6 B Likhita ADVANCED PULMONARY Mrs. L. Indira
+20071A05D6 D Monika EMPHYSEMA DIAGNOSIS
+20071A05G6 P Sai Preeti USING DEEP LEARNING
+20071A05H3 K Srilasya
+6 20071A05J7 Ch.Bhanu Teja 3D OBJECT CLASSIFICATION Dr. G. Ramesh Chandra
+20071A05K1 Chindam Poojitha ON POINT CLOUD DATA
+20071A05M6 Katakam Ashritha
+20071A05P9 Shaik Jnaved
+7 20071A3215 Hruthik Lokesh AR LEARN QUEST - P. Radhika
+20071A3226 P Roshini Kondisetty GAMIFICATION OF LEARNING
+20071A3241 Rushika Aravapalli USING AUGMENTED REALITY
+20071A3223 K Pallavi APPLICATION
+8 20071A3251 Rishi Kumar S KNOWLEDGE BASED K. Akhil
+20071A3253 Sarath T COGNITIVE PROTOTYPE:
+20071A3254 Reshmitha U VIDEO GAME FOR CHILDREN
+20071A3255 Tanmayi Ch WITH ABSENCE EPILEPSY
+AND TO ENHANCE THEIR
+ATTENTION
+AUTOMATIC RUNNING NOTES GENERATION FROM AUDIO LECTURE USING NLP FOR
+COMPREHENSIVE LEARNING
+Anuraag Chilakamarri Jupudi Chaithra Madanaboina Srinidhi Suraj Sriram
+(20071A0505) (20071A0527) (20071A0538) (20071A0553)
+Under the guidance of Mrs. A Madhavi, Assistant Professor
+INTRODUCTION: In today's fast-paced world, digital educational resources like audio lectures
+offer convenient learning options. However, taking notes while listening is challenging and often
+leads to missed information. The project "Automatic Running Notes Generation from Audio
+Lecture" addresses this by using advanced technology to automatically generate detailed notes
+from audio recordings, streamlining the note-taking process and improving information
+retention.
+PROBLEM DEFINITION: The project "Automatic Running Notes Generation from Audio Lecture"
+aims to address the challenge of capturing and retaining information from audio lectures.
+Manual note-taking is time-consuming and often incomplete. The project uses advanced
+technology to convert audio to text, summarize content, and offer translations, streamlining the
+process and enhancing learning efficiency.
+CONCLUSION: The project developed a system to automatically generate and categorize notes
+from audio recordings using advanced NLP techniques. It enhances learning with detailed
+explanations, supports content translation, and ensures high accuracy. This significantly
+advances educational technology, promoting a more accessible and inclusive learning
+environment.
+ACKNOWLEDGEMENT: It gives us immense pleasure to express our gratitude to VNR Vignana
+Jyothi Institute of Engineering and Technology for providing us the opportunity to work on this
+project. We are very much thankful to our Principal, Dr. Challa Dhanunjaya Naidu andour Head
+of Department, Dr. S. Nagini, forextending their cooperation in doing this project in stipulated
+time. We extend our heartfelt thanks to our guide, Mrs. A. Madhavi, Assistant Professor at
+department of CSE for her invaluable guidance and supportthroughout our work. We feel
+fortunate to have receivedher friendly and insightful advice during our project. We extend our
+heartfelt thanks to the project coordinators Dr. B. V. Kiranmayee and Dr. D. N. Vasundhara, for
+their enthusiastic guidance throughout the course of our project.
+AUTOMATION AND ARTIFICIAL INTELLIGENCE IN BLOOD DONATION MANAGEMENT
+SYSTEM
+B. Neeha P Sai Bharadwaj P. Vivek K. Vikas
+(20071A0564) (20071A05A0) (20071A05A2) (21075A0512)
+Under the Guidance of Dr. V. Baby, Associate Professor
+INTRODUCTION: ConnectLife is a visionary initiative designed to revolutionize the blood
+donation process by addressing the existing challenges prevalent in conventional systems. At its
+core, ConnectLife seeks to create an integrated platform that connects donors, recipients,
+National Service Scheme (NSS) organizations, volunteers, and blood banks, thereby streamlining
+the entire donation process. The project recognizes the importance of efficient coordination,
+heightened awareness, and improved communication in ensuring a steady and accessible supply
+of blood for those in need.
+PROBLEM DEFINITION: The current blood donation system is plagued by coordination gaps,
+communication inefficiencies, and limited awareness, resulting in challenges in matching blood
+supply with demand and addressing emergencies effectively. With disjointed processes and
+fragmented communication channels, the system struggles to engage donors and volunteers,
+leading to missed opportunities for increasing blood donation rates and community
+involvement. Moreover, there is a pervasive lack of awareness about blood donation procedures
+and eligibility criteria among the general population, further limiting donor participation and
+exacerbating the strain on blood banks.
+CONCLUSION: The ability to understand the knowledge organization and its representation
+became simpler after the literature survey. The demonstration of how different brain regions
+work together to generate a potential answer was discussed which identified how language,
+language comprehension, problem solving skills and creativity contribute to decision making
+and help solve problems.
+ACKNOWLEDGEMENT: We are grateful to our Associate Professor and HOD, Dr. S. Nagini, for
+providing us with necessary resources whenever required and for having faith in our abilities,
+allowing us to successfully conduct the survey.
+We would like to express our indebtedness to our guide, Dr. V. Baby, Associate Professor at the
+CSE Department, for providing us with vital assistance and guidance, helping us stay focused and
+providing us with a clear direction.
+FLARE ALERT: WILDFIRE AND URBAN FIRE DETECTION AND MITIGATION
+Sharanya M Sree Pranav Chandana Soumika Sreya
+Emmadisetty Reddy Sankarapuram Mallidi Tirumalaraju
+(20071A0576) (20071A0585) (20071A05A4) (20071A05B1) (20071A05B2)
+Under the Guidance of Dr. R. Vijaya Saraswathi, Assistant Professor
+INTRODUCTION:
+In the face of escalating challenges posed by wildfires and urban fires, the imperative to develop
+robust detection and mitigation strategies has become increasingly evident. The frequency and
+intensity of these incidents, worsened by climate change and urbanization, demand innovative
+solutions that span across rural and urban landscapes. The disastrous effects of wildfires, usually
+referred to as forest fires or bushfires, on ecosystems, communities, and economies have made
+them a major global issue.
+PROBLEM DEFINITION: This project delves into the realm of wildfire and urban fire detection
+and mitigation, aiming to address the complexities associated with these crises. As wildfires
+ravage natural landscapes and urban fires threaten densely populated areas, the need for a
+comprehensive approach to early detection and mitigation has never been more pressing. It is
+within this context that this proposed work aims to contribute to the development of an
+integrated system that combines technological advancements, community engagement, and
+adaptive strategies.
+CONCLUSION: The objective is to design a system that provides real time detection of fire
+incidents in both wildfire and urban fire. The model after training achieved an accuracy of 92.4%
+for satellite detection and reduced the loss percentage in CCTV. In terms of execution, the time
+taken to detect fire in both satellite and CCTV is in the proportion of milliseconds. The present
+work detects fire and produces audio alerts, pop-up messages on the administrator side and
+further triggers a mail and voice call to the users notifying them about the fire detection in their
+Locality.
+ACKNOWLEDGEMENT: We would like to extend our sincere gratitude to the administration of
+the VNR Vignana Jyothi Institute of Engineering and Technology, especially Dr. R. Vijaya
+Saraswathi, Assistant Professor in the CSE department, for all of her help and assistance during
+this project. We also thank Dr. S. Nagini, our Professor and Head of Department, for believing in
+our skills and for always giving us the resources we needed to complete the survey. We would
+like to sincerely thank our mentors, Dr. V. Baby, an Associate professor in the CSE Department
+and Dr. Anjusha Pimpalshende, Sr. Assistant professor in the CSE Department for their
+invaluable support and direction, which helped us remain focused and give us a clear path.
+VISUAL FALL DETECTION ANALYSIS THROUGH COMPUTER VISION AND DEEP LEARNING
+B.Srivalli CH.Komali G.Apurva B.Sneha
+(20071A05C9) (20071A05D1) (20071A05E2) (20071A05G2)
+Under the Guidance of Dr. C.Kiran Mai, Professor
+INTRODUCTION: Falls among the elderly and individuals with limited mobility, is a growing
+public health concern, given the increasing aging population and the desire for seniors to live
+independently in their own homes. In this project we came up with a technology ,using security
+cameras to record videos and create a video-based fall detection system. The system uses
+computer vision and deep learning algorithms to accurately recognize fall-related movements
+and distinguish them from regular activities.
+PROBLEM DEFINITION: It might be uncomfortable for users to wear specific devices such as
+wrist bands and it is possible that elderly people might forgot to wear the devices as their
+memory factor is usually weak So, the main intention of this project is to develop an innovative
+and reliable fall detection system utilizing advanced computer vision algorithms. The primary
+motto of the project is to deliver a fall detection system that ensures immediate action can be
+taken upon detecting a fall, thereby minimizing the impact on the individual. By sending an alert
+and facilitating rapid response, the system aims to mitigate the potential consequences of falls,
+preserving the well-being and health of the person involved.
+CONCLUSION: This project is is very useful for people who stay alone mainly elders to take
+immediate action upon falling which minimizes the impact. Through its integration of multiple-
+direction and multi-person tracking, the system enhances accuracy and provides valuable
+insights into the severity of fall incidents.
+ACKNOWLEDGEMENT: It gives us immense pleasure in expressing our gratitude to the college
+VNR Vignana Jyothi Institute of Engineering and Technology , for providing us an opportunity to
+work for our college .The college has been very co-operative and has been a platform for honing
+our technical skills which were essential for successful completion of the project.
+We convey our sincere gratitude to our project Guide, Dr. C. Kiran Mai ,VNRVJIET for all the
+support, guidance and cooperation provided, which contributed to the accomplishment of
+the project. We consider our self-fortunate for being guided by her. She has been very
+supportive, enthusiastic and extremely co-operative throughout the project.
+ADVANCED PULMONARY EMPHYSEMA DIAGNOSIS USING DEEPLEARNING
+B Likhita D Monika P Sai Preeti K Srilasya
+(20071A05C6) (20071A05D6) (20071A05G6) (20071A05H3)
+Under the Guidance of Mrs. L. Indira, Assistant Professor
+INTRODUCTION: Pulmonary emphysema, a hallmark of COPD, affects millions globally,
+demanding early detection and intervention. Automated Pulmonary Emphysema Identification
+(APED) utilizes advanced imaging like CT scans to segment affected lung regions, enabling
+precise diagnosis and tailored treatment plans, pivotal in managing breathlessness and disability
+associated with the condition.
+PROBLEM DEFINITION: The aim of the web interface for automated pulmonaryemphysema
+identification (APED) is to provide a user-friendly platform for healthcare professionals to
+upload medical imaging data, such as CT scans, and receive automatedsegmentation and
+analysisof emphysematous lung regions. This interface facilitates quick and efficient evaluation,
+aiding in prompt diagnosis and personalized treatmentplanning for patientswith COPD-related
+emphysema.
+CONCLUSION: In conclusion, the web interfacefor automated pulmonaryemphysema
+identification (APED) serves as a vital tool in improving the diagnosis and management of COPD-
+related emphysema. With an accuracy rate of 87.5%, it offers healthcare professionals a
+convenient platform to upload and analyze medical imaging data, facilitating streamlined
+diagnostics and personalized treatment planning. Additionally, the feature allowing users to
+search for the nearest doctors further enhances accessibility to care.
+ACKNOWLEDGEMENT: We convey our sincere gratitude to our respectable HOD, Dr S Nagini,
+VNRVJIET for all the support, guidance and cooperation provided ,which contributed to the
+accomplishment of the project.
+We extend our heartfelt thanks to our project guide, Mrs. L. Indira, our honorable Assistant
+Professor, CSE Department, VNR Vignana Jyothi Institute of Engineering and Technology, for her
+excellent supervision and guidance, for the time she gave us and her constant encouragement
+towards the successful completion of our project.
+3D OBJECT CLASSIFICATION ON POINT CLOUD DATA
+Ch.Bhanu Teja Chindam Poojitha Katakam Ashritha Shaik Jnaved
+(20071A05J7) (20071A05K1) (20071A05M6) (20071A05P9)
+Under the Guidance of Dr. G. Ramesh Chandra, Professor
+INTRODUCTION: The conventional reliance on image-based approaches for object classification
+encounters limitations in accurately identifying objects in complex environments due to the
+constraints of 2D imagery. Leveraging 3D point clouds from LIDAR technology offers a promising
+solution by providing detailed spatial representations of objects in three-dimensional space.
+However, challenges persist in effectively extracting meaningful features from such data and
+developing efficient classification models, especially with the integration of cutting-edge
+technologies like deep learning.
+PROBLEM DEFINITION: The conventional methods for object classification primarily rely on
+image-based approaches, which often encounter significant challenges in accurately identifying
+objects in complex and dynamic environments. These limitations stem from the inherent
+constraints of 2D imagery in capturing the intricate spatial characteristics and relationships of
+objects. As such, there arises a critical need to develop a more robust and reliable object
+detection system that transcends the shortcomings of traditional image-based methods.
+CONCLUSION: In conclusion, the project on 3D point cloud object classification represents a
+significant advancement in the field of computer vision and autonomous systems. By leveraging
+cutting-edge techniques in 3D data processing, machine learning, and deep learning, we have
+developed a robust system capable of accurately detecting and classifying objects within point
+clouds. Through meticulous preprocessing, feature extraction, and utilization of deep learning
+architectures, we have achieved remarkable results in object detection and classification, even in
+complex and dynamic environments.
+ACKNOWLEDGEMENT: We would like to express our profound gratitude to the management of
+VNR Vignana Jyothi Institute of Engineering and Technology for providing us with a remarkable
+platform to acquire advanced technical skills in the field of Computer Science, thus enabling us to
+achieve our most cherished goal.
+Our special thanks to Dr. G. Ramesh Chandra, Professor at department of CSE for his invaluable
+guidance and support throughout our work. We feel fortunate to have received his friendly and
+insightful advice during our project.
+AR LEARN QUEST - GAMIFICATION OF LEARNING USING AUGMENTED REALITY
+APPLICATION
+Hruthik Lokesh P Pallavi K Roshini K Rushika A
+(20071A3215) (20071A3223) (20071A3227) (20071A3241)
+Under the Guidance of Mrs. P Radhika, Assistant Professor
+INTRODUCTION: This proposal outlines a groundbreaking three-phase augmented reality (AR)
+learning experience designed to revolutionize education by seamlessly integrating immersive
+technology with engaging teaching methods, thorough research, and effective assessment
+strategies.
+PROBLEM DEFINITION: The aim of the project is to revolutionize education through seamless
+integration of augmented reality (AR) technology, enhancing learning experiences, improving
+interaction and communication skills, implementing gamified assessment, providing
+comprehensive analysis, and ultimately revolutionizing traditional teaching methods.
+CONCLUSION: In conclusion, this project aims to transform education through augmented
+reality (AR) technology, revolutionizing teaching methods and enhancing student engagement.
+With interactive instruction, immersive experiences, gamified assessment, and comprehensive
+analysis, it promises to create a dynamic educational environment for the digital age.
+ACKNOWLEDGEMENT: It gives us immense pleasure in expressing our gratitude to the college
+VNR Vignana Jyothi Institute of Engineering and Technology, for providing us an opportunity to
+work for our college. The college has been cooperative and has been a platform to showcase our
+technical skills which were essential for the successful completion of the project.
+We convey our sincere gratitude to our respectable HOD, Dr. S. Nagini, VNRVJIET for all the
+support, guidance and cooperation provided, which contributed to the accomplishment of the
+project.
+We extend our heartfelt thanks to our project guide, Mrs. P Radhika, our honorable Assistant
+Professor, CSE Department, VNR Vignana Jyothi Institute of Engineering and Technology, for her
+excellent supervision and guidance, for the time she gave us and her constant encouragement
+towards the successful completion of our project.
+KNOWLEDGE BASED COGNITIVE PROTOTYPE: VIDEO GAME FOR CHILDREN WITH
+ABSENCE EPILEPSY AND TO ENHANCE THEIR ATTENTION
+Srikoti Rishi Kumar Tenneti Sai Sarath Uppala Reshmitha T Tanmayi Challa
+(20071A3251) (20071A3253) (20071A3254) (20071A3255)
+Under the guidance of Mr.Karnam Akhil, Assistant Professor
+INTRODUCTION: In recent times, children are increasingly experiencing anxiety and depression,
+nervousness, emotional distress, and a susceptibility to conditions such as Absence Epilepsy,
+Juvenile Myoclonic Epilepsy (JME), and Migraine. Absence Epilepsy is one of the major
+challenging issues of current neurological research. Absence Epilepsy is a common form of
+childhood epilepsy that can have significant impact on child leading problems to memory loss,
+lack of cognitive ability, attention deficit hyperactivity disorder (ADHD)
+PROBLEM DEFINITION: The rising prevalence of anxiety, depression, and neurological
+disorders among children, including Absence Epilepsy, poses significant challenges to pediatric
+healthcare. Current research indicates a potential link between these conditions and suggests
+that certain video games could positively impact cognitive and motor functions in affected
+children
+CONCLUSION: . Our proposed research introduces a unique approach: designing a video game
+specifically for children with Absence Epilepsy to help improve their cognitive attention,
+memory, and overall wellbeing. We’ve implemented exploratory data analysis and association
+rule mining to uncover hidden relationships from the survey data collected. Additionally, the
+game prototype was built after consulting experts and neurospecialist doctors to ensure it meets
+the needs of its target audience
+ACKNOWLEDGEMENT: We convey our sincere gratitude to our respectable HOD, Dr. S. Nagini,
+VNRVJIET for all the support, guidance and cooperation provided, which contributed to the
+accomplishment of the project.
+We extend our heartfelt thanks to our project guide, Mr K Akhil , our honorable Assistant
+Professor, CSE Department, VNR Vignana Jyothi Institute of Engineering and Technology, for her
+excellent supervision and guidance, for the time she gave us and her constant encouragement
+towards the successful completion of our project.
+MANAGING COMMITTEE
+P.SAI SAKETH ABHINAV SUDHANV NEHA KAKARLA RESHMITHA UPPALA
+CHAIRPERSON GENERAL SECRETARY TREASURER PRESIDENT
+VISHNUKANTH VARMA E.VINAY VARDHAN ROHAN KURELLA NEEHA BATHULA
+DIRECTOR DESIGNING HEAD DESIGNING HEAD DESIGNING HEAD
+GUNNALLE APURVA BASUTHKAR LIKITHA MOOLA SAI SUDHA
+TECHNICAL HEAD TECHNICAL HEAD TECHNICAL HEAD
+A.RUTVIK REDDY SANDEEP KORANI SHAIK AFREEN SREEJA SRIRANGAM
+NON-TECHNICAL HEAD NON-TECHNICAL HEAD NON-TECHNICAL HEAD CREATIVE HEAD
+S.PRAVALIKA REDDY SHAIK SABEEHA KOUSER MADDULA KEERTHI MONIKA DESIREDDY
+CREATIVE HEAD CREATIVE HEAD EVENT ORGANIZER EVENT ORGANIZER
+PALLAVI NARRA RUSHIKA ARVAPALLI PALLA NAVYA SREE ADDANKI JYOTHIRMAI
+EVENT COVERAGE PUBLIC RELATIONS PUBLIC RELATIONS PUBLIC RELATIONS
+CO-ORDINATOR CO-ORDINATOR CO-ORDINATOR CO-ORDINATOR
+ACTION COMMITTEE
+KOLLERU GUNA RATHNA D. SAI ROHITH DEEPTHI VUNNAM SAI RAKSHITA NARSINGH
+VICE CHAIRPERSON JOINT SECRETARY JOINT TREASURER VICE PRESIDENT
+I N S KARTHIK A. V. KARTHIKEYA N.HIMA SAMEERA INDHUSREE RACHURI
+DEPUTY DIRECTOR DESIGNING HEAD DESIGNING HEAD DESIGNING HEAD
+CHINTALA VARUN TEJA N. KAVYA REDDY MOHAMMED FOUZIYA CHANDRA SHEKAR GOLLA
+DESIGNING HEAD DESIGNING HEAD DOCUMENTATION HEAD DOCUMENTATION HEAD
+OMKAARINI SAVARAPU JONNALAGADDA HARIPRIYA SWAPNIL PODISHETTI Y. V. BHARGAV
+DOCUMENTATION HEAD TECHNICAL HEAD TECHNICAL HEAD TECHNICAL HEAD
+SRINITHYA VALLEPALLI MANAS KUMAR. P DHEERAJ YERRAMASU HARSHITHA TEMBERVENI
+NON-TECHNICAL HEAD NON-TECHNICAL HEAD NON-TECHNICAL HEAD CREATIVE HEAD
+T. KRISHNA SOUMYA DIDDI SHRAVYA SATHWIK TAMMISHETTI K.PAVAN PRANEETHA
+CREATIVE HEAD CREATIVE HEAD EVENT ORGANIZER EVENT ORGANIZER
+CHAITANYA TARIGOPULA NEHA GURRAM G. JYOTHI SWAROOP
+EVENT COVERAGE PUBLIC RELATIONS PUBLIC RELATIONS
+CO-ORDINATOR CO-ORDINATOR CO-ORDINATOR

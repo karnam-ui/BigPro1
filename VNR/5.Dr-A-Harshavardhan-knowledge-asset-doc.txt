@@ -1,0 +1,391 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/cseAIMLIOT/Faculty/5.Dr-A-Harshavardhan-knowledge-asset-doc.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+Name : Dr. Harshavardhan Awari
+Designation : Sr. Assistant Professor
+Department : CSE
+Mail . ID : harshavardhan_a@vnrvjiet.in
+Experience (in years): Teaching: 18 Research: 10 Others (if any,
+specify): Industry: 0 Years
+1.Educational / Technical qualifications:
+S.No Level (UG / PG / Ph.D) Year of passing Specialization
+1. B. Tech 2004 CSE
+2. M.Tech. 2008 CSE
+3 Ph.D 2021 CSE
+2. Teaching and Learning:
+2.1. Teaching Interests: Design and Analysis of Algorithms, Java Programming, Software
+Engineering, Design Patterns, Linux Programming, Unix Network Programming, Mobile
+Computing, Operating Systems, Image Processing, Distributed Operating system.
+2.2. Novel Teaching & Learning Techniques adopted: Blooms Taxonomy, WIT & WIL, PPT’s,
+and online mode of Teaching
+2.3. Involvement in curriculum updating / Design:
+3. Co-curricular and Extra-Curricular Activities
+3.1. Interests and Hobbies:
+ Counseling students who are lagging in academics.
+ Motivate students who have less confidence on them to improve their confidence levels.
+ Interest to learn new technologies and activities
+ Motivate students to involve in all activities and encourage them to participate in paper
+presentation to improve their skills
+3.2. CCA/ECA Organized: NIL
+3.3. CCA/ECA participated: NIL
+3.4.Counseling and Mentoring Activity:
+3.5. Committees involved in:
+Department level: Monthly Report Maintenance
+Institute Level: Nil
+4. Conference / Workshop / Seminar / Guest Lectures:
+4.1 Conducted
+ A five day national workshop on “Machine Learning, Deep learning IoT Driven Smart
+Applications” organizing in association with NITW from 28.03.2022 to 01.04.2022.
+ Organized a guest lecture on Exciting Prospects of IoT world by Vemuri venkata ramana
+garu, founder and director I4 Virtual Grid on 25/03/2022 .
+ Organized a guest lecture on Finding Vulnerabilities in your devices security by Dr.
+M.Raja Sekar garu, HOD of Department CSE (CYS, AIDS & DS), VNRVJIET, Hyderabad
+on 05/07/2022
+ Organized a two day national level workshop on “National Network Security
+Championship”
+ Organized a two day national level workshop on “Research Issues Future Trends and
+Patentable Areas in Cloud Computing”
+ Organized a two day national level workshop on “Numerical Methods Using MATLAB “
+ Organized a two day national level workshop on “Block Chain Technologies “
+4.2. Attended
+Attended 50+ various workshops at institution and university level
+ Participated in the Five day Faculty development programme “Platforms & System
+Security in Cyberspace” from 30.01.2023 to 04.02.2023 organized by VNR
+Vignanjyothi Istitute of Engineering and Technology,
+ Participatd in the 30 days Faculty development programme “Image Processing
+using open CV” from 12.10.2022 to 11.11.2022 organized by PanTech Learning
+In association with APSSDC.
+ Participated in the Six day Faculty development programme “Communication
+Systems using Machine Learning” from 14.03.2022 to 19.03.2022 organized by
+Annamacharya Institute of Technology & Sciences.
+ Participated in the Five day national Faculty development programme “Artificial
+Intelligence” sponsored by ATAL and organized by Dept. of CSE, Amity
+University, from 11-01-2021 to 15-01.2021
+ Participated in the Five day national level Faculty development programme
+“Immersive Virtual Reality” sponsored by ATAL and organized by Dept. of CSE,
+S R Engineering College from 04-01-2021 to 08-01-2021.
+ Participated in the Five day national level Faculty development programme in “AI-
+Using python.” Brainovision Solutions India Pvt. Ltd. from 14-08-2020 to 19-08-
+2020.
+ Participated in the Five day national level Faculty development programme in
+“Design Thinking FDP.” Organized by S.R.K.R Engineering College,
+Bhimavaram, from 24-08-2020 to 28-08-2020.
+ Participated in the Six day national level Faculty development programme in
+“Software Project Management.” Sponsored by IEEE and Organized by
+CHITKARA University. from 11-05-2020 to 16-05-2020
+ Participated in the Two day national level Faculty development programme in
+“Online Tools & Software for Remote Teaching – Learning “ Sponsored by UGC-
+HRDC and Organized by , JNTUH, Hyderabad. from 24-04-2020 to 25-04-2020
+ Participated in the Six day national level Faculty development programme in
+“Advanced Research Methodology & Innovative Teaching Pedagogy “ Organized
+by Tulasiramji Gaikwad-Patil College of Engineering & Tech
+5. Academic Contribution and Research & Consultancy:
+5.1. Invited Lectures:
+1. Resource person for the “Industry Institute Integrated Technology Transfer_ (I3T2)
+(KGiSL Institute of Technology, Coimbatore) from 14-03-2022 to 19-03-2022.
+2. Resource person for 3rd International Conference On Recent Trends In Engineering
+Technology And Management" at Christ the King Engineering College (CKEC),
+Coimbatore, Tamil Nadu, India on 6th & 7th May 2023.(ICRETM-2023)
+5.2. Articles/Chapters published in Books: Nil
+5.3. Books published as a single author or as editor: NIL
+5.4. Projects Guided:
+a) UG: 19
+b) PG: 07
+5.5. Research Interests: Machine Learning, Image Processing
+5.6. Ph.D students:
+a) Enrolled: Nil
+b) Submitted: Nil
+c) Awarded: Nil
+5.7. Papers published in reviewed Journals:
+Total No. of Papers published:37
+S.No Title of the Paper Journal Name ISBN/ Impact National/
+Vol.No. PP ISSN No. Factor/ Internationa
+Citatio l
+n Index
+1. An automated Concurrent 1063- 1.038 International
+learning model for Engineering , 29, 4 293X
+sentiment analysis (December 2021),
+and data 386–395
+classification of
+Twitter data using
+balanced CA-
+SVM (SCI
+Indexed)
+2. LSGDM with Journal of Healthcare 2040-2295 2.682 International
+Biogeography- Engineering, vol. 2022,
+Based Article
+Optimization ID 2170839, 11 pages,
+(BBO) Model for 2022
+Healthcare
+Applications
+(SCI Indexed)
+3. Iot based disease Intelligent Automation 1079-8587 3.04 International
+prediction using & Soft Computing, vol.
+mapreduce and 34, no.2, pp. 1215–
+1230, 2022
+lsqn3 techniques(S
+CI Indexed)
+4. Chaotic Salp Computational 16875273 3.633 International
+Swarm Intelligence and
+Optimization- Neuroscience, vol. 202
+Based Energy- 2, Article ID 4343476
+Aware VMP ,9 pages , 2022
+Technique for
+Cloud Data
+Centers (SCI
+Indexed)
+5. Multilayer Int. J. Found. Comput. 0129-0541 1.3 International
+Stacked Sci. 33, 06n07
+Probabilistic (September 2022),
+Belief Network- 559–582
+Based Brain
+Tumor
+Segmentation and
+Classification
+(SCI Indexed)
+6. Three‐dimensional Expert 1468-0394 2.812 International
+dental image Systems (November
+segmentation and 2022)
+classification
+using deep
+learning with
+tunicate swarm
+algorithm (SCI
+Indexed)
+7. Deep learning J. 1017-9909 1.006 International
+modified neural Electron.Imag. 32,(Ma
+networks with y023) 062603-1 to
+chicken swarm 062603-19
+optimization-
+based lungs
+disease detection
+and severity
+classification(SCI
+Indexed)
+8. Brain Tumor Jour of Adv Research ISSN- - International
+Segmentation in Dynamical & 1943-
+Methods – A Control Systems 023X
+Survey (Scopus Volume 11 Issue 1
+Indexed)
+9. An Improved Journal of international ISSN- - International
+Brain Tumor Pharmaceutical 1674-0440
+Segmentation and Research
+Classification Volume 46 Issue 2
+Method using
+SVM with various
+Kernels(Scopus
+Indexed)
+10. Design Mathods International Journal of ISSN- - International
+for Detecting Engineering and 2249-8958
+Sensor Node Advanced Technology
+Failure and Node (IJEAT)
+Scheduling Volume 09 Issue 1
+Scheme for
+WSN(Scopus
+Indexed)
+11. Lifting wheelchair IOP Conf. Series: ISSN- - International
+for limbless Materials Science and 17578981
+people(Scopus Engineering
+Indexed) Volume 981 Issue 20
+12. Security and nternational Journal of ISSN- - International
+Safety in Amazon Innovative Technology 2278-3075
+EC2 Service – A and Exploring
+Research on EC2 Engineering (IJITEE)
+Service Volume 8 Issue 6S4
+AMIs(Scopus
+Indexed)
+13. Enhancements of International Journal of ISSN- - International
+Artificial Advanced Science and 2005 -
+Intelligence and Technology 4238
+Machine Volume 28 Issue 17
+Learning(Scopus
+Indexed)
+14. Variation Analysis International Journal of ISSN- - International
+of Artificial Advanced Science and 2005 -
+Intelligence, Technology 4238
+Machine Learning Volume 28 Issue 17
+and Advantages of
+Deep
+Architectures(Sco
+pus Indexed)
+15. A Smart Neural European Journal of ISSN- - International
+Schema based Molecular & Clinical 2515-8260
+Volitional Medicine
+Volume 7 Issue 2
+Control for
+Paralysed
+People(Scopus
+Indexed)
+16. Determining International Journal of ISSN- - International
+Interesting Rules Advanced Science and 3002-3011
+for Many-Valued Technology
+Concepts using Volume 29 Issue 10S
+Rule
+Mining –
+Information
+Gain(Scopus
+Indexed)
+17. A Survey on International Journal ISSN- - International
+Brain Tumor of 2319-8753
+Segmentation Innovative Research in
+Methods with the Science, Engineering
+Remedial and
+Approach(Scopus Technology
+Indexed) Volume 6 Issue 6
+18. Techniques Used Journal Of Mechanics ISSN- - International
+For Clustering Of Continua and 2454 -
+Data and Mathematical Sciences 7190
+Integrating Cluster Volume 14 Issue 6 0973-8975
+Analysis Within
+Mathematical
+Programming(Sco
+pus Indexed)
+(Scopus Indexed)
+19. Data exploration Journal Of Mechanics ISSN- - International
+as a process of Of Continua and 2454 -
+Knowledge Mathematical Sciences 7190
+finding and the Volume 15 Issue 6 0973-8975
+role of mining
+Data towards
+information
+security(Scopus
+Indexed)
+5.8. Papers presented at National / International Conferences:
+National/
+Names of the Conference/
+S.No Title of the Paper International Period
+Seminars
+Deep Learning Algorithm For IEEE Conference International 2023
+Brain Tumor Detection and
+Classification Using MRI International Conference on
+1.
+Images(Scopus Indexed) Applied Intelligence and
+Sustainable Computing
+(ICAISC-2023).
+Music Genre Categorization IEEE Conference International 2022
+using Machine learning
+Algorithms(Scopus Indexed) International Conference on
+2.
+Computational Intelligence
+and Computing Applications
+(ICCICA) Nagpur, India.
+COVID-19 and SARS Virus Springer conference International 2021
+Predictions from Chest X-ray
+3. Images Using a Deep Data Engineering and
+Learning Model(Scopus Intelligent Computing
+Indexed) ,Singapore,201.
+3D Surface Measurement Springer conference International 2016
+through Easy-snap Phase
+Shift Fringe International Conference on
+4.
+Projection(Scopus Indexed) Advanced Computing and
+Intelligent Engineering
+(ICACIE-2016)
+5. Huge information security National Conference on National 2017
+issues In view of quantum Current Research
+cryptography and protection Advancements in Computer
+with Confirmation Science(CRACS-17)
+6. An Improved Brain Tumor IEEE Conference International 2017
+Segmentation Method from International Conference On
+MRI Brain Images(Scopus Emerging Computation and
+Indexed) Information Technologies
+(ICECIT-2017)
+5.9. Sponsored research Projects: NIL
+S.No Title Agency Period Grant amount Ongoing /
+Completed
+5.10 Consultancy Projects:
+S.No Title Agency Period Sanctioned Ongoing /
+Amount Completed
+1.
+2.
+3.
+6. Awards / Honors received:
+ Received Best Faculty Award From (International Conference on Engineering and
+advancement in Technology(ICEAT) in association with Malla Reddy Institute of
+Engineering and Technology, Hyderabad on 8.07.2022
+ Editorial Member for the Blue Eyes Intelligence Engineering and Sciences Publication
+ Editorial Member for the Lattice Science Publication
+ Reviewer for the Imaging Science Journal
+ Reviewer for the ICCINS-2022
+ Reviewer for the 4th International Conference on Machine Learning and Intelligent
+Systems
+ Session Chair for the ICACECS2021 International Conference on Advances in
+Computer Engineering and Communication Systems(13.08.2021)
+ Reviewer for the ICDECT 2021, 5 th International Conference on Data Engineering
+and Communication Technology
+ Session Chair for 2nd International Conference On Engineering And Advancement In
+Technology 2021,16th & 17th July 2021.(ICEAT 2021)
+ Session Chair for 11th International Conference on Science and Innovative
+Engineering 2021 on 2nd May,2021
+ Session Chair for 9th International Conference On “Contemporary Engineering And
+Technology – 2021” (ICCET – 2021) April 10th- 11th, 2021
+ Resource person for the “Industry Institute Integrated Technology Transfer_ (I3T2)
+(KGiSL Institute of Technology, Coimbatore) from 14-03-2022 to 19-03-2022
+ Session chair for the 2nd International Conference on Recent Trends In Engineering
+Technology And Management" at on 6th & 7th May 2022. organized by Christ the
+King Engineering College (CKEC), Coimbatore, Tamil Nadu, INDIA
+ PC member of 10th International Conference on Frontiers of Intelligent Computing:
+Theory and Applications (FICTA 2022) on June 18 - 19, 2022 organized by National
+Institute of Technology Mizoram
+ Session chair for the 3rd International Conference on Engineering and Advancement
+in Technology 2022 organized by Malla Reddy Institute of Engineering and
+Technology ,Hyderabad on 8.07.2022
+ Associate Editor-In-Chief for the journal Indian Journal of Image Processing and
+Recognition (IJIPR) for the academic year 2022-2023.
+ Reviewer for Inderscience Publications Journal International Journel of Grid and
+Utility Computing.
+ Reviewer for International Journal of Recent technology and Engineering(IJRTE)
+Journal.
+ Reviewer for International Conference on Advanced Network Technologies and
+Intelligent Computing,22-24 DECEMBER, 2022, VARANASI, INDIA(Springer
+nature) (05.11.2022)
+ Reviewer for ITPro-2022-10-0085,IT Professional IEEE
+ Reviewer for the 2022 3rd International Symposium on Automation, Information and
+Computing (ISAIC 2022) is organized by Beijing Jiaotong University and will be held
+online during December 9-11, 2022. (11.11.2022)
+ Reviewer for the International Journal of Engineering and Advanced Technology
+(IJEAT) journal
+ Reviewer for Image Science Journal
+ Reviewer for Springer Nature Scientific Reports (SNAPP)
+ Reviewer for International Journal of Soft Computing and Engineering (IJSCE), Blue
+Eyes Intelligence Engineering and Sciences Publication (BEIESP)
+ Session chair for "3rd INTERNATIONAL CONFERENCE ON RECENT TRENDS
+IN ENGINEERING TECHNOLOGY AND MANAGEMENT" at Christ the King
+Engineering College (CKEC), Coimbatore, Tamil Nadu, India on 6th & 7th May 2023
+ Session chair for "11th INTERNATIONAL CONFERENCE ON CONTEMPORARY
+ENGINEERING AND TECHNOLOGY"(ICCET-2023) at Prince Shri
+Venkateshwara Padmavathy Engineering College, Chennai, Tamil Nadu, INDIA on
+1st & 2nd May 2023
+ Reviewer for for the Inderscince Publisher International Journal of Computational
+Systems Engineering
+ Reviewer for International Journal of Innovative Technology and Exploring
+Engineering (IJITEE), Blue Eyes Intelligence Engineering and Sciences Publication
+ Member Advisory Committee during 2023 IEEE International Conference on
+Contemporary Computing and Communications (InC4) Organised by the Department
+of Computer Science and Engineering, CHRIST (Deemed to be University), Kengeri
+Campus, Bangalore -560 074 during April 21-22, 2023
+ Reviewer for Internation Conference on Data Science and Network Engineering
+ICDSNE 2023 “Enhancing Road Safety: A system for detecting driver activity using
+Raspberry Pi and computer vision techniques with alcohol and noise sensors”
+organized by Dept. of Computer Science and Engineering, National Institute of
+Technology Agartala, Barjala, Jirania, Tripura, India from 02-03, June 2023
+ Reviewer for Inderscince Publisher for the International Journal of Electronic
+Marketing and Retailing
+ Reviewer for International Conference on Advances in Computer Engineering and
+Communication Systems (ICACECS-2023) Springer conference
+ Reviewer for 5th International Conference on Machine Learning and Intelligent
+Systems (MLIS 2023)
+ Best Elsdm (eLearning Solutions and Two Way HD delivery Mechanism for Teachers
+and Students) Coordinator of SR Engineering College for the academic year 2014-
+2015.
+ First Prize of Best Overall Conceptual Design in “IUCEE EPICS Design
+Thinking Course” from august 2017 to January 2018.
+ Certification of Appreciation from SWAYAM NPTEL for instrumental role as
+SPOC for the SWAYAM NPTEL Local chapter.
+ Session Chair for conference INTERNATIONAL CONFERENCE ON SCIENCE
+AND INNOVATIVE ENGINEERING 2020 (ICSIE) held at Chennai, India on 06th
+September 2020.
+7. Motto: Education is a commitment to excellence in Teaching and Learning.

@@ -1,0 +1,1367 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/syllabus-books/Mtech-R25/M.TECH-I-SEM-DS-R25.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. I YEAR COURSE STRUCTURE AND SYLLABUS
+(DATA SCIENCES)
+I SEMESTER R25
+Course
+Course Type Name of the Course L T P Credits
+Code
+Professional
+25PC1DC01 Machine Learning Models 3 0 0 3
+Core-I
+Professional Financial Analytics and Data
+25PC1DC02 3 0 0 3
+Core-II Science For BFSI
+Professional Mathematical and Statistical
+25PC1DC03 3 0 0 3
+Core-III Methods in Data Science
+25PE1DC01 Applied Statistical Learning
+25PE1CP01 Distributed Computing
+Professional
+25PE1CP03 Service Oriented Architecture 3 0 0 3
+Elective-I
+25PE1CP04 Artificial Intelligence
+Parallel and Scalable Computer
+25PE1CP05
+Architecture
+Ensemble Learning and Graph
+25PE1DC02
+Analytics
+25PE1CP06 Computer Vision
+Software Reliability and Quality
+Professional 25PE1CP07 3 0 0 3
+Management
+Elective-II
+25PE1CP08 Soft Computing
+25PE1CP09 Robotic Process Automation
+Professional Machine Learning Models
+25PC2DC01 0 0 2 1
+Core Lab-I Laboratory
+Professional Financial Analytics and Data
+25PC2DC02 0 0 2 1
+Core Lab-II Science for BFSI Laboratory
+Communication English for Academic and
+25SD5EN01 0 0 2 1
+Skills Research Writing
+Project 25PW4DC01 Technical Seminar 0 0 4 2
+Mandatory 25MN6HS01 Research Methodology and IPR 2 0 0 0
+Total 17 0 10 20
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. I YEAR COURSE STRUCTURE AND SYLLABUS
+(DATA SCIENCES)
+II SEMESTER R25
+Course
+Course Type Name of the Course L T P Credits
+Code
+Professional
+25PC1DC04 Advanced Big Data Analytics 3 0 0 3
+Core-IV
+Professional
+25PC1DC05 Deep Learning and Applications 3 0 0 3
+Core-V
+Professional Time Series Modeling and Feature
+25PC1DC06 3 0 0 3
+Core-VI Engineering
+25PE1DC03 Computational Learning Systems
+25PE1CP11 Internet of Things
+Professional
+25PE1CP12 Cyber Security 3 0 0 3
+Elective-III
+25PE1CP13 Agile Methodologies
+25PE1CP14 Bioinformatics
+25PE1DC04 Applied NLP for Data Science
+25PE1CP15 Cloud Computing
+Professional 25PE1CP16 Digital Forensics 3 0 0 3
+Elective-IV
+25PE1CP17 High Performance Computing
+25PE1CP18 Cognitive Science
+Professional Advanced Bigdata Analytics
+25PC2DC03 0 0 2 1
+Core Lab-III Laboratory
+Professional Deep Learning and Applications
+25PC2DC04 0 0 2 1
+Core Lab-IV Laboratory
+Industry
+25SD5DC01 Industry Engagement 0 0 2 1
+Engagement
+Project 25PW4DC02 Mini-Project 0 0 4 2
+Mandatory 25MN6HS02 Ancient Wisdom 2 0 0 0
+Total 17 0 10 20
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. II YEAR COURSE STRUCTURE AND SYLLABUS
+(DATA SCIENCES)
+III SEMESTER R25
+Course Course
+Name of the Course L T P Credits
+Type Code
+25PE1DC05 DevOps & MLOps
+25PE1CP10 Generative AI
+Professional Artificial Intelligence and
+25PE1DC06 3 0 0 3
+Elective-V Intelligent Systems
+25PE1DC07 Adversarial Machine Learning
+25PE1CP21 Quantum Computing
+25OE1CN01 Business Analytics
+25OE1AM01 Industrial Safety
+Open
+25OE1AM02 Operations Research 3 0 0 3
+Elective
+25OE1AM03 Entrepreneurship and Startups
+25OE1PS01 Waste to Energy
+Project 25PW4DC03 Dissertation Work Part – I 0 0 16 8
+Total 6 0 16 14
+IV SEMESTER R25
+Course Course
+Name of the Course L T P Credits
+Type Code
+Project 25PW4DC04 Dissertation Work Part – II 0 0 28 14
+Total 0 0 28 14
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC1DC01) MACHINE LEARNING MODELS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To understand classification models such as KNN and Decision trees and their
+limitations
+• To acquire proficiency in SVM, address challenges in classification scenarios,
+emphasizing imbalanced datasets, and prevention of overfitting
+• To acquire the fundamentals and applications of Regression models and
+difference between Classification and Regression models
+• To master Unsupervised models decision tree construction, evaluation and
+addressing advantages and limitations
+• To acquire knowledge on evaluate model performance using metrics like
+accuracy, precision, recall, and ROC curves and Reinforcement Learning models
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply KNN and DT principles to classify data, recognizing its strengths,
+weaknesses, and optimal scenarios
+CO-2: Demonstrate a deep understanding of SVM, implementing both hard and soft
+margin variations
+CO-3: Develop Regression models, understanding SVM and KNN as regression models
+CO-4: Implement unsupervised learning algorithms recognizing their advantages and
+disadvantages of each model.
+CO-5: Evaluate performance measures and diverse scenarios and understanding the
+concepts of reinforcement learning.
+UNIT-I:
+Introduction to ML: Introduction to machine learning, Different types of learning, its
+issues, pre-processing, inductive bias, ML types, training and testing. Classification: K-
+Nearest Neighbor (KNN), How classification works, distance measures, k-nearest
+neighbor’s algorithm, geometric intuition, failure cases of KNN, measuring
+effectiveness of KNN. Geometric intuition of decision tree, ID3 algorithm, Imbalanced
+vs. balanced data set, multi class classification.
+UNIT-II:
+Support Vector Machines (SVM), Geometric Intuition of SVM, Mathematical
+formulation of SVM, Loss function-based interpretation of SVM, dual form of SVM
+formulation, Domain Specific Kernels. train & test differences, impact of outliers a
+model, Encoding Schemes, handling missing values by imputation, bias and variance
+trade off, intuitive understanding of bias and variance.
+UNIT-III:
+Regression Simple and Multi Linear regression, Model Adequacy Checking, SVM
+Regression, code sample, hard margin SVM, soft margin SVM. KNN for regression,
+weighted KNN, Voronoi diagram, KD tree, code sample of decision boundary, code
+sample of cross validation. Need for cross validation, K-fold cross validation,
+determining over fitting and under fitting, classification vs. regression.
+UNIT-IV:
+Clustering: Definition, Clustering metrics, Partition based clustering: k-means, K-
+means++, K-medoids, failure cases and limitations, determining the right K, code
+samples. Hierarchical Clustering: Agglomerative and Divisive, CLARA and CLRANS,
+Time and Space Complexity, Limitations of Hierarchical Clustering, code samples.
+DBSCAN: MinPts & EPS density, core, boarder &noise points, Density edge & density
+connected points, DBSCAN Algorithm, Advantages& Limitations of DBSCAN, Time &
+Space Complexity, code Sample.
+UNIT-V:
+Performance Measurement of Models: Accuracy, confusion matrix, precision, recall,
+receiver operating characteristics curve (ROC), log-less, mean absolute deviation
+errors, R-Squared co-efficient of determination, distribution of errors.
+Reinforcement Learning: Introduction to Reinforcement Learning, The Learning Task,
+Q-Learning and Function Approximation, learning single-agent and multi-agent
+behavioral policies, Markov decision processes
+TEXT BOOKS:
+1. Introduction to Machine Learning Tom Michell
+2. Lecture notes on Machine Learning, Andrew Ng, Tengyu Ma
+3. Introduction to Machine Learning, Alex Smola and S. V. N. Vishwanathan
+REFERENCES:
+1. Machine Learning with Python: Unlocking AI Potential with Python and Machine
+Learning, Oliver Theobald, Packt
+2. Python with Machine Learning, A. Krishna Mohan, T. Murali Mohan & Karunakar
+3. Python Course Machine Learning with Python, Bernd Klein
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC1DC02) FINANCIAL ANALYTICS AND DATA SCIENCE FOR BFSI
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To explain about markets and several types of investors
+• To understand about several terminologies related investment
+• To analyze about candle stick and channels for several types of markets
+• To explain about several indicators related to markets
+• To explain Wyckoff methodologies for investment
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the fundamentals of markets and investors
+CO-2: Develop skills related to stock market terminologies
+CO-3: Design the strategies for technical analysis
+CO-4: Analyze indicators related to charts and patterns
+CO-5: Summarize about Wyckoff methodologies
+UNIT-I:
+BFSI Data Ecosystem: Banking, Financial Services, Insurance. Regulatory bodies: SEBI,
+RBI, IRDAI (Insurance Regulatory and Development Authority of India). Equity markets,
+debt markets, derivatives. Mutual funds, securities, bond markets. Indian Economy &
+Financial Architecture; Banking Products & Functions; Ethics in Banking; Introduction
+to Securities Markets; Insurance fundamentals and legal framework. Overview of
+financial markets: NSE, BSE, SEBI, RBI, Key indices: NIFTY 50, NIFTY BANK, BSE SENSEX,
+Nifty VIX.
+UNIT-II:
+Macroeconomic Impact on BFSI: Politics vs. Stock market, RBI repo rates, interest rates,
+inflation The Major USA Stock Market indices, USA Stocks Vs Indian Stocks, Summary of
+text books on The Intelligent Investor, Common stocks and uncommon profits, Learn
+to earn by Peter Lynch. Trade like Stock market wizard. How to check FII inflow is
+increasing or decreasing, politics Vs. Stock market, RBI repo rates Vs, Stock market,
+sectors and browse sectors in screener. in, John Bogle’s five simple rules of investing.
+Fundamental Analysis, Key ratios, Liquidity ratios of stocks,
+Case Study: Students are expected to analyze financial Ratios for Large Cap, Mid
+Cap. Small Cap companies.
+UNIT-III:
+Stock P/E, Industry P/E,P/E Ratio analysis, Price/Earning myth and reality, Revenue
+Growth, ROE, ROA, OPM, ROCE, Debt to equity, Price to book value, price to book
+value myth and reality, Face Value, EBITDA, EPS, Earning Yield, Book Value, PEG Ratio,
+CAGR, Dividend, Intrinsic value of a stock. Technical Analysis, Trend lines, pivot points,
+candle stick chart, types of candle stick: Hanging man, Hammer, Bearish Engulfing
+pattern, Bullish Engulfing pattern, Doji. Rising window
+Case Study: Technical Analysis of a BFSI Stock Using Candlestick Patterns
+UNIT-IV:
+Candle Stick Patterns: Ascending channel pattern, Descending channel pattern,
+Rectangular Channel pattern, Ascending Triangle pattern, Descending triangle
+pattern, symmetric triangle pattern, Flag pattern, pennat, head and should pattern.
+Cup and handle pattern.
+High Alpha Stock, Indicators: commonly used moving averages, Alligator Indicator,
+Fear and Greed indicator, Moving averages, Ichimoku indicator.
+Case Study: Identifying High-Alpha Stocks Using Technical Indicators
+UNIT-V:
+Fibonacci indicator, RSI indicator, stochastic indicator, MACD indicator, VMWA
+indicator, Summary of common stocks and uncommon profits. Legal Aspects of
+Banking; International Banking & Treasury; Mutual Funds; Financial Planning.
+Operations & Risk in Securities Spread Analysis, Single candle stick Wyckoff Trading
+Methodology, Breakdown of a single candle stick from Wyckoff Trading Methodology,
+Breakdown of Doji candle stick from Wyckoff trading methodology.
+Case Study: Analyzing BFSI Stock Using Wyckoff Trading Methodology
+TEXT BOOKS:
+1. Machine Learning in Finance, M. Dixon, I. Halperin and P. Bilokon, 1st Edition,
+Springer
+2. Advances in Financial Machine Learning, Marcos Lopez, 1st Edition, Wiley
+3. Machine Learning for Asset Managers, Marcos Lopez, 1st Edition, Cambridge
+University Press
+REFERENCES:
+1. Machine Learning for Algorithmic Trading, Stefan Jansen, 2nd Edition, Packt
+2. Modern Portfolio Theory, Elton & Gruber, 9th Edition, Wiley
+3. Investment Analysis and Portfolio Management, Frank K., 5th Edition, Dryden Reilly
+ONLINE RESOURCES:
+1. https://tradebrains.in/resources-stock-market-india/
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC1DC03) MATHEMATICAL AND STATISTICAL METHODS IN DATA SCIENCE
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To analyze the various probability distributions
+• To make statistical inferences about data
+• To provide advanced statistical background for analyzing data and drawing
+inferences from the analysis
+• To mathematically characterize optimal solutions for nonlinear optimization
+models
+• To analyze Principal Component Analysis
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand data Science and basics of various distributions
+CO-2: Calculate and interpret descriptive statistics appropriately
+CO-3: Understand and apply the basic mathematical and statistical concepts in data
+science
+CO-4: Optimize the available data using certain optimization techniques
+CO-5: Able to simplify the complexity in high-dimensional data while retaining trends
+and patterns
+UNIT-I:
+What is Data Science? Three pillars of data science, Types of Data, Cumulative
+Distribution Function, Normal Distribution, Standard Normal Distribution, Empirical Rule,
+and Related Problems, Assessing Normality, Binomial Distribution, Poisson Distribution,
+Uniform distribution.
+UNIT-II:
+Exponential distribution, lognormal distribution, Central limit theorem, K-S Test for
+similarity of two distributions, power law and pareto distribution, box-cox transform,
+Interpretation of Chebyshev’s inequality.
+UNIT-III:
+Descriptive statistics, Inference statistics, Measures of Central Tendency, kurtosis,
+skewness, Matrices, solving linear equations, fields, vector spaces, linear
+independence, basis and advantages of rank, null space, rank nullity theorem, linear
+transformation, norms, inner products, orthogonality, orthonormal basis.
+UNIT-IV:
+Fundamentals of optimization, components of optimization problems, types of
+optimization problems, univariate optimization and related numerical examples,
+multivariate optimization and related numerical examples.
+UNIT-V:
+Principal Component Analysis (PCA): Why learn PCA, Geometric intuition of PCA,
+alternative formulation of PCA distance minimization, Eigen values and Eigen vectors,
+visualizing MNIST dataset, Limitations of PCA, PCA code example, PCA for
+dimensionality reduction, what is t-SNE, neighborhood of a point embedding,
+Geometric intuition of t-SNE.
+TEXT BOOKS:
+1. Probability and Mathematical Statistics, Prasanna Sahoo, 2008
+2. Introduction to Information Retrieval, Christopher D. Manning, Prabhakar
+Raghavan and Hinrich Schütze, Cambridge University Press, 2008
+3. Linear Algebra and Optimization for Machine Learning, Charu C. Aggarwal,
+Springer
+REFERENCES:
+1. Computational and Inferential Thinking: The Foundations of Data Science, Adi
+Adhikari and John De Nero, 1st Edition, 2019
+2. Doing Data Science, Straight Talk from The Frontline, Cathy O’Neil and Rachel
+Schutt, O’Reilly, 2014
+3. Mathematical Foundations of Data Science Using R, Matthias Dehmer, Salissou
+Moutari, Frank Emmert-Streib, De Gruyter Oldenbourg, 2020
+4. Probability and Statistics for Data Science: Math + R + Data, Norman Matloff, CRC
+Data Science Series, 2019
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1DC01) APPLIED STATISTICAL LEARNING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To introduce the various mathematical concepts and models
+• To undertake a critical evaluation of a wide range of data
+• To develop designing skills for modeling non-deterministic problems
+• To demonstrate various machine learning algorithms used in data process
+• To understand bias and variance mechanisms for outlier analysis
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand basic mathematical concepts in data science like linear algebra,
+probability and optimization
+CO-2: Apply linear models for regression and linear models for classification
+CO-3: Employ hypothesis testing and confidence interval for several real time
+Problems
+CO-4: Conceptualize problems related to regression and hypothesis testing
+CO-5: Analyze bias–variance tradeoff methods to build robust classification models
+for better performance
+UNIT-I:
+Naive Bayes Classification: Conditional probability, example of condition probability,
+independent events, mutually exclusive events, bayes theorem and related problems,
+Naive Bayes algorithm and its mathematical interpretation, problem on Naive Bayes
+algorithm. Feature importance and interpretability. Imbalanced data, outliers in Naive
+Bayes, multiclass classification.
+UNIT-II:
+Model Building: Correlation, Pearson’s correlation, Kendall rank correlation, spearman
+rank correlation, Regression, and its basics. Types of regression, fitting a function-
+criterion for best fit, least squares, simple regression, model assessment and validation,
+regression analysis, regression process.
+UNIT-III:
+Regression: Empirical model, Geometrical interpretation of linear regression, residual
+plots, normal probability plot, multiple regression, maximum likelihood estimation,
+logistic regression, linear regression vs logistic regression.
+UNIT-IV:
+Hypothesis Testing: Estimator, Confidence Interval, Point Estimate, Interval Estimate,
+Unbiasedness, confidence level, Margin Error Null Hypothesis, Alternative Hypothesis,
+Examples of Hypothesis Testing, Types of errors in hypothesis testing, P value approach
+in hypothesis testing, Critical value approach in hypothesis testing, Hypothesis testing
+F-Test, Z-Test, T-Test.
+UNIT-V:
+Bias and Variance: Classification diagrams in various situations, Imbalanced vs
+balanced data set, under sampling, multi class classification, KNN given a distance
+measure, train & test differences, impact of outliers a model, one hot encoding,
+categorical and ordinal features, handling missing values by imputation, bias and
+variance trade off, intuitive understanding of bias and variance.
+TEXT BOOKS:
+1. Principal Component Analysis, I. T. Jolliffe, 2nd Edition, Springer
+2. Machine Learning, Tom M. Mitchell, McGraw-Hill
+3. The Elements of Statistical Learning, Trevor Hastie, Robert Tibshirani, Jerome
+Friedman, 2nd Edition, Springer
+REFERENCES:
+1. Core Python Programming, Wesley J. Chun, Prentice Hall, 2006
+2. Learning Python, Mark Lutz, 4th Edition, O’Reilly, 2009
+3. Data Mining Concepts and Techniques, Jiawei Han, Micheline Kamber, Jian Pei,
+3rd Edition
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1CP01) DISTRIBUTED COMPUTING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Basic knowledge on basic Networking concepts, Advanced
+Programming (Good knowledge in C and C++), Data Structures and Algorithms, Basic
+OS concepts (e.g., processes, threads, synchronization, file systems, scheduling etc.)
+COURSE OBJECTIVES:
+• To provide contemporary knowledge in distributed systems
+• To equip skills to analyze and design distributed applications
+• To provide master skills to measure the performance of distributed synchronization
+algorithms
+• To provide knowledge of current distributed computing paradigms and
+technologies, such as cloud computing, peer-to-peer computing, and distributed
+file systems
+• To explore methods for communication between processes and the challenges of
+synchronization, mutual exclusion, and deadlock in distributed environments
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Exhibit knowledge of the basic elements and concepts related to distributed
+system technologies
+CO-2: Illustrate the middleware technologies that support distributed applications
+such as RPC, RMI and Object based middleware
+CO-3: Analyze the various techniques used for clock synchronization and mutual
+exclusion
+CO-4: Establish the concepts of Resource and Process management and
+synchronization algorithms
+CO-5: Demonstrate the concepts of Consistency and apply the knowledge of
+Distributed File System to analyze various file systems like NFS, AFS and the experience
+in building large-scale distributed applications
+UNIT-I:
+Characterization of Distributed Systems: Issues, Goals, and Types of distributed systems,
+Distributed System Models, Hardware concepts, Software Concept.
+Middleware: Models of Middleware, Services offered by middleware, Client Server
+model.
+UNIT-II:
+Communication: Layered Protocols, Inter process communication (IPC): MPI, Remote
+Procedure Call (RPC), Remote Object Invocation, Remote Method Invocation (RMI),
+Message Oriented Communication, Stream Oriented Communication, Group
+Communication
+UNIT-III:
+Synchronization: Clock Synchronization, Logical Clocks, Election Algorithms, Mutual
+Exclusion, Distributed Mutual Exclusion-Classification of mutual Exclusion Algorithm,
+Requirements of Mutual Exclusion Algorithms, Performance measure.
+Non-Token Based Algorithms: Lamport Algorithm, Ricart–Agrawala‘s Algorithm,
+Maekawa‘s Algorithm, Token Based Algorithms: Suzuki-Kasami‘s Broadcast Algorithms,
+Singhal‘s Heuristic Algorithm, Raymond‘s Tree based Algorithm, Comparative
+Performance Analysis.
+UNIT-IV:
+Resource and Process Management: Desirable Features of global Scheduling
+algorithm, Task assignment approach, Load balancing approach, load sharing
+approach, Introduction to process management, process migration, Threads,
+Virtualization, Clients, Servers, Code Migration
+UNIT-V:
+Consistency Models and Distributed File System: Data centric and Client, Centric
+Consistency Models, Replica Management
+Distributed File Systems: Caching Schemes, File Introduction and features of DFS, File
+models, File Accessing models, File Replication, Case Study: Distributed File Systems
+(DFS), Network File System (NFS), Andrew File System (AFS)
+TEXT BOOKS:
+1. Distributed Systems: Principles and Paradigms, Andrew S. Tanenbaum and
+Maarten Van Steen, 2nd Edition, Pearson Education
+2. Distributed Systems: Concepts and Design, George Coulouris, Jean Dollimore, Tim
+Kindberg, 4th Edition, Pearson Education, 2005
+3. Distributed and Cloud Computing from Parallel Processing to Internet of Things, Kai
+Hwang, Geoffrey C. Fox, Jack J. Dongarra, 5th Edition, Pearson Education
+REFERENCES:
+1. Distributed Systems: Principles and Paradigms, A. S. Tanenbaum and M. V. Steen,
+Second Edition, Prentice Hall, 2006
+2. Distributed Computing Principles and Applications, M. L. Liu, Pearson Addison
+Wesley, 2004
+3. Cloud and Distributed Computing: Algorithms and Systems, Rajiv Misra, Yashwant
+Singh Patel, Wiley, 2020
+ONLINE RESOURCES:
+1. https://nptel.ac.in/courses/106106107
+2. https://onlinecourses.nptel.ac.in/noc21_cs87/preview
+3. https://www.youtube.com/watch?v=ajjOEltiZm4
+4. https://www.youtube.com/watch?v=IJWwfMyPu1c
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1CP03) SERVICE ORIENTED ARCHITECTURE
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Basic knowledge on Web Programing
+COURSE OBJECTIVES:
+• To define and design applications as combinations of services, and be able to
+discuss the emergent properties of those compositions
+• To understand service-oriented architecture and web services and their
+importance
+• To analyze security solutions in web services and to introduce security standards
+for web services
+• To interpret contemporary SOA features and analyze benefits
+• To understand web service specifications and assess support by platforms like J2EE
+and .NET
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Define distributed computing evolution and web service basics
+CO-2: Analyze web services framework and its importance
+CO-3: Understand SOA fundamentals and build Services with WS-* Specifications
+CO-4: Assess the service layer abstraction & analyze and design the building an SOA
+CO-5: Examine SOA support provided by J2EE and .NET platform
+UNIT-I:
+Evolution of Distributed Computing: Core distributed computing technologies
+client/server, CORBA, JAVA RMI, Microsoft DCOM, MOM, Challenges in Distributed
+Computing.
+Introduction to Web Services: The definition of web services, basic operational model
+of web services, Core Web Service Standards, benefits and challenges of using web
+services.
+UNIT-II:
+SOA and Web Services Fundamentals: Introducing SOA: Fundamental SOA, Common
+Characteristics of Contemporary SOA, Common tangible benefits of SOA, Common
+pitfalls of adopting SOA. The Evolution of SOA: An SOA timeline, the continuing
+evolution of SOA, The roots of SOA. Web Services and Primitive SOA: The Web Services
+framework, Services, Service Descriptions, and Messaging.
+UNIT-III:
+SOA and WS-* Extensions, Web Services and Contemporary SOA (Part-I): Message
+Exchange Patterns, Service Activity Coordination, Atomic transactions, Business
+Activities, Orchestration, and Choreography.
+Web Services and Contemporary SOA (Part-II): Addressing, Reliable Messaging,
+Correlation, Policies, Metadata Exchange, Security, Notification and Eventing.
+UNIT-IV:
+SOA and Services – Orientation: Principles of Service-Orientation, Service - Orientation
+and the Enterprise, Anatomy of SOA, Common Principles of Service – Orientation,
+Interrelation between Principles of Service-Orientation. Service Layers: Service-
+Orientation and contemporary SOA, Service Layer abstraction, Application Service
+Layer, Business Service Layer, Orchestration Service Layer, Agnostic Services, Service
+Layer Configuration Scenarios.
+UNIT-V:
+Building SOA (Planning and Analysis): SOA Delivery Strategies: SOA delivery lifecycle
+phases, the top-down strategy, the bottom up strategy, the agile strategy.
+Service-Oriented Analysis: Introduction to Service Oriented Analysis, Benefits of a Business-
+Centric SOA, Deriving Business Services. SOA Platforms: SOA platform basics, SOA support in J2EE
+and .NET, Integration considerations.
+TEXT BOOKS:
+1. Service-Oriented Architecture: Concepts, Technology and Design, Thomas Erl
+2. Understanding SOA with Web Services, Eric Newcomer & Greg Lomow
+3. Applied SOA: Service-Oriented Architecture and Design Strategies, Michael Rosen
+et al.
+REFERENCES:
+1. Developing Enterprise Web Services: An Architect’s Guide, Sandeep Chatterjee &
+James Webber
+2. SOA Using Java Web Services, Mark D. Hansen
+3. Programming WCF Services (for .NET SOA), Juval Lowy
+ONLINE RESOURCES:
+1. W3C Web Services Activity – https://www.w3.org/2002/ws/
+2. OASIS WS-* Specifications – https://www.oasis-open.org/standards/
+3. Oracle SOA Suite Documentation – https://docs.oracle.com/en/middleware/soa-
+suite/index.html
+4. MSDN WCF Services Guide – https://learn.microsoft.com/en-
+us/dotnet/framework/wcf/
+5. Jakarta EE / Java EE Web Services Guide – https://jakarta.ee/
+6. IBM Developer SOA Hub – https://developer.ibm.com/
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1CP04) ARTIFICIAL INTELLIGENCE
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Mathematics, Data Structures, Design Analysis of Algorithms
+COURSE OBJECTIVES:
+• To understand the basic concepts of artificial intelligence and agents
+• To explore various complex problem-solving approaches and strategies
+• To describe various knowledge representation techniques using AI
+• To understand learning approaches with applications
+• To understand Learning Probabilistic Models
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply basic concepts of Artificial Intelligence (AI) and use of agents into real
+world scenario
+CO-2: Solve the complex problems by using various search Techniques
+CO-3: Apply knowledge representation techniques for solving the real-world problems
+CO-4: Apply learning approaches to real life applications
+CO-5: Apply Probabilistic Models with learning
+UNIT-I:
+Foundations of AI: What is AI, History of AI, Strong and weak AI, The State of the Art?
+Intelligent Agents: Agents and Environments, Good Behavior: The Concept of
+Rationality, The Nature of Environments, And The Structure of Agents.
+UNIT-II:
+Solving Problems by Searching: Problem – Solving Agents, Example Problems,
+searching for Solutions, uniformed search Strategies, Informed (Heuristic) Search
+Strategies, and Heuristic Functions.
+UNIT-III:
+Knowledge Representation: Ontological Engineering, Categories and Objects,
+Events, Mental Events and Mental Objects, Reasoning Systems for Categories,
+Reasoning with Default Information, the Internet Shopping World.
+UNIT-IV:
+Learning from Examples: Forms of Learning, Supervised Learning, Learning Decision
+Trees, Evaluating and Choosing the Best Hypothesis, the Theory of Learning,
+Regression and Classification with Learner Models, Nonparametric Models, Support
+Vector Machines, Ensemble Learning, Practical Machine Learning
+UNIT-V:
+Learning Probabilistic Models: Statistical Learning, learning with complete data,
+learning with Hidden variables: The EM Algorithm. Key Application Areas: Expert
+system, decision support systems, Speech and vision, Natural language processing,
+Information Retrieval, Semantic Web.
+TEXT BOOKS:
+1. Artificial Intelligence - A Modern Approach, Stuart J. Russell & Peter Norvig, Pearson
+2. Artificial Intelligence, Elaine Rich, Kevin Knight & Shiva Shankar B. Nair, McGraw-Hill
+Education
+3. AI for Everyone: A Beginner's Handbook for Artificial Intelligence, Pearson 2004
+REFERENCES:
+1. Applied Ontology: An Introduction, Katherine Munn & Barry Smith (eds.)
+2. Knowledge Representation and Reasoning, Ronald Brachman & Hector Levesque
+3. Introduction to Artificial Intelligence and Expert Systems, Dan W. Patterson, Pearson
+Education
+ONLINE RESOURCES:
+1. https://www.elementsofai.com/
+2. https://grow.google/ai/
+3. https://skillsbuild.org/students/course-catalog/artificial-intelligence
+4. https://swayam.gov.in/
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1CP05) PARALLEL AND SCALABLE COMPUTER ARCHITECTURE
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Fundamentals Computer Organization (Mandatory),
+Operating Systems (strongly recommended), Digital Logic & C/C++ Programming
+(supporting knowledge)
+COURSE OBJECTIVES:
+• To impart the concepts and principles of parallel and advanced computer
+architectures
+• To develop the design techniques of Scalable and multi-threaded Architectures
+• To apply the concepts and techniques of parallel and advanced computer
+architectures to design modern computer systems
+• To understand concepts of parallel computer models
+• To explain about Scalable Architectures, Pipe-lining, Super-scalar processors
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Describe the Theory of Parallelism, Parallel computer models,
+Multiprocessors, Multi-computers, Multi-vector and SIMD Computers
+CO-2: Understand Principles of Scalable performance, Performance metrics and
+measures, Parallel Processing applications
+CO-3: Gain knowledge on Shared-Memory Organizations, Sequential and weak
+consistency models, Pipelining and super-scalar technique
+CO-4: Describe Parallel and Scalable Architectures, Multiprocessors and Multi-
+computers, Multiprocessor system interconnects
+CO-5: Gain knowledge on Vector Processing Principles, Multi-vector Multiprocessors,
+Compound Vector processing, SIMD computer Organizations, The connection
+machine CM-5
+UNIT-I:
+Theory of Parallelism: Parallel computer models, The State of Computing,
+Multiprocessors and Multi- computers, Multi-vector and SIMD Computers, PRAM and
+VLSI models, Architectural development tracks, Program and network properties,
+Conditions of parallelism, Program partitioning and Scheduling, Program flow
+Mechanisms, System interconnect Architectures.
+UNIT-II:
+Principles of Scalable performance: Performance metrics and measures, Parallel
+Processing applications, Speed up performance laws, Scalability Analysis and
+approaches, Hardware Technologies, Processes and Memory Hierarchy, Advanced
+Processor Technology, Super-scalar and Vector Processors
+UNIT-III:
+Shared-Memory Organizations: Sequential and weak consistency models, Pipelining
+and super-scalar techniques, Linear Pipeline Processors, Non-Linear Pipeline
+Processors, and Instruction Pipeline design, Arithmetic pipeline design, superscalar
+pipeline design.
+UNIT-IV:
+Parallel and Scalable Architectures: Multiprocessors and Multi-computers,
+Multiprocessor system interconnects, cache coherence and synchronization
+mechanism, Three Generations of Multi-computers, Message-passing Mechanisms,
+Multi-vector and SIMD computers.
+UNIT-V:
+Vector Processing Principles: Multi-vector Multiprocessors, Compound Vector
+processing, SIMD Computer Organizations, The connection machine CM-5.
+TEXT BOOKS:
+1. Advanced Computer Architecture, Kai Hwang, 2nd Edition, Tata McGraw-Hill
+2. Advanced Computer Architecture, H. Stone, Addison Wesley, 1989
+3. Computer Architecture, J. L. Hennessy and D. A. Patterson, 4th Edition, Elsevier
+REFERENCES:
+1. Advanced Computer Architectures, S. G. Shiva, Special Indian Edition, CRC,
+Taylor & Francis
+2. Introduction to High Performance Computing for Scientists and Engineers, G.
+Hager and G. Wellein, CRC Press, Taylor & Francis Group
+3. Advanced Computer Architecture, D. Sima, T. Fountain, P. Kacsuk, Pearson
+Education
+ONLINE RESOURCES:
+1. Advanced Computer Architecture - IIT Guwahati
+2. Advanced Computer Architecture - NPTEL/SWAYAM - IIT Delhi
+3. https://theswissbay.ch/pdf/Gentoomen%20Library/Computer%20Architecture/
+Advanced%20Computer%20Architecture%20and%20Parallel%20Processing.pdf
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1DC02) ENSEMBLE LEARNING AND GRAPH ANALYTICS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To explain terminology, technology and applications of predictive analysis
+• To interpret possible biases introduced when preparing data for a predictive
+model
+• To relate and fit a variety of models and select one appropriate to the
+circumstances and intended use
+• To design and develop basic database calculations and manipulations and
+prepare data for predictive modelling applications
+• To analyze Facebook friend recommendation using graph mining
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: To define and Implement ensemble methods for optimizing the space and time
+complexity of the loss functions
+CO-2: To analyze and interpret the feature engineering methods to obtain an optimal
+solutions of time series data
+CO-3: To evaluate different feature engineering techniques to create a predictive
+model
+CO-4: To plan and develop using various quantitative and classification predictive
+models based on case studies
+CO-5: To apply graph mining techniques and feature engineering to build and
+evaluate classification models for Facebook friend recommendation.
+UNIT-I:
+Ensemble Models-I: What are ensembles, Bootstrapped Aggregation (Bagging)
+Intuition, Random Forest and their construction, Bias-Variance tradeoff, Bagging Train
+and run time complexity, Bagging Code Sample.
+UNIT-II:
+Ensemble Models-II: Extremely randomized trees, Random Forest Cases, Boosting
+Intuition, Residuals, Loss Functions, Gradients, Gradient Boosting, regularization by
+Shrinkage, Train and Run time complexity, XG Boost Boosting and randomization.
+UNIT-III:
+Ensemble Models-III: AdaBoost geometric intuition, Stacking models, Cascading
+classifiers, Kaggle competitions vs real world.
+Geometric intuition of decision tree, Sample Decision tree, building a decision tree
+(Entropy), KL Divergence, building a decision tree (information gain), Building a
+decision tree (Gini Impurity), over fitting and under fitting, Code Sample.
+UNIT-IV:
+Problem definition, Overview of Graphs node vertex, edge link, directed-edge, path,
+Data format & Limitations, Mapping to a supervised classification problem, Business
+constraints & Metrics, EDA Basic Stats, EDA Follower and following stats.
+UNIT-V:
+Case Study: Facebook Friend Recommendation using Graph Mining: EDA Binary
+Classification Task, EDA Train and test split, Feature engineering on Graphs Jaccard &
+Cosine Similarities, PageRank, Shortest Path, Connected-components, Adar Index,
+Kartz Centrality, HITS Score, Weight features, Modeling.
+TEXT BOOKS:
+1. Ensemble Methods in Data Mining: Improving Accuracy Through Combining
+Predictions, Giovanni Seni and John Elder, Morgan, Claypool Publishers, 2010
+2. Ensemble Machine Learning: Methods and Applications, Cha Zhang and Yunqian
+Ma, Springer, 2012
+REFERENCES:
+1. Fundamentals of Machine Learning for Predictive Data Analytics, Algorithms,
+Worked Examples and Case Studies, John D. Kelleher, Brian Mac Namee, Aoife
+D'Arcy, 2nd Edition, MIT Press
+2. Data Mining and Predictive Analytics (Wiley Series on Methods and Applications in
+Data Mining), 2nd Edition, Daniel T. Larose, Wiley Press
+3. Predictive Analytics and Data Mining: Concepts and Practice with RapidMiner, 1st
+Edition, Vijay Kotu, Bala Deshpande, Morgan Kaufmann
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1CP06) COMPUTER VISION
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Basic to Intermediate Programming Skills in Python,
+Mathematics Fundamentals in Linear Algebra, Calculus, Probability & Statistics
+COURSE OBJECTIVES:
+• To introduce the fundamental concepts of image formation, representation, and
+processing
+• To provide a hands-on understanding of core image processing techniques for
+filtering, enhancement, and feature extraction
+• To explore classical computer vision techniques for image segmentation, feature
+matching, and basic object recognition
+• To offer a solid foundation in modern Convolutional Neural Networks (CNNs) for
+image classification
+• To familiarize with arrays, lists, and basic algorithm design
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Explain the image formation process and perform basic image operations and
+transformations
+CO-2: Apply image processing techniques for filtering, noise removal, and edge
+detection.
+CO-3: Implement algorithms for feature detection, description and matching
+CO-4: Design and train a basic Convolutional Neural Network (CNN) for an image
+classification task
+CO-5: Develop integrated solutions for practical computer vision problems using a
+combination of techniques
+UNIT-I:
+Introduction To Computer Vision: Overview of applications (e.g., facial recognition,
+autonomous vehicles, medical imaging), Digital Image Fundamentals: Pixels,
+coordinate systems, image representation (binary, grayscale, and color), color
+spaces (RGB, HSV)
+Basic Image Operations: Reading, writing, displaying images. Point operations
+(brightness, contrast adjustment), histogram equalization, Image Transformations:
+Geometric transformations - translation, rotation, and scaling, affine transformation.
+UNIT-II:
+Image filtering and Edge detection:
+Image Filtering: Smoothing: Mean filter, Gaussian filter for blurring and noise reduction.
+Sharpening: Unsharp masking.
+Edges and Gradients: Image derivatives, Sobel and Prewitt operators.
+Advanced Edge Detection: The Canny edge detector.
+Corner Detection: Introduction to the Harris corner detector.
+UNIT-III:
+Image Features:
+Local Features: Introduction to Key points, what are features and why are they
+important? Classical Descriptors: A conceptual overview of SIFT and ORB.
+Image Segmentation:
+Region-based: Thresholding (global, Otsu's method), region growing. Clustering-
+based: K-Means clustering for color-based segmentation. Edge-based: Watershed
+algorithm (conceptually).
+UNIT-IV:
+Introduction to Machine Learning for Vision: From Features to Recognition: What is
+classification? Introduction to Machine Learning: Supervised vs. unsupervised learning.
+Basic concepts of training and testing. Classical Approach: Image features (e.g.,
+histograms) + classic classifiers (e.g., k-Nearest Neighbors, SVM). Neural Networks
+Basics: Perceptron, Multi-Layer Perceptron (MLP) for structured data.
+UNIT-V:
+Deep Learning with Convolutional Neural Networks: Why CNNs? Limitations of MLPs for
+images. CNN Building Blocks: Convolution layers, pooling layers (Max, Average),
+activation functions (ReLU), fully connected layers. Training a CNN: Concept of loss
+function and optimization (gradient descent). The role of data augmentation. Using
+Pre-Trained Models: Introduction to Transfer Learning using models like VGG or ResNet.
+Applying CNNs to a real-world dataset (e.g., CIFAR-10, MNIST).
+TEXT BOOKS:
+1. Computer Vision: Algorithms and Applications, Szeliski R., 2nd Edition, Springer, 2022
+2. Computer Vision: Models, Learning, and Inference, Prince S. J. D., Cambridge
+University Press, 2012
+3. Image Processing and Computer Vision Master Class with Python: Learn advanced
+Image Processing Techniques, Computer Vision Fundamentals and Applications,
+Sandipan Dey, 2nd Edition, Pearson, 2022
+REFERENCES:
+1. Digital Image Processing, Gonzalez R. C. & Woods R. E., 4th Edition, Pearson, 2018
+2. Computer Vision: A Modern Approach, Forsyth D. A. & Ponce J., 2nd Edition,
+Pearson, 2011
+3. Deep Learning with Python, Chollet F., 2nd Edition, Manning Publications, 2021
+ONLINE RESOURCES:
+1. OpenCV Tutorials: Official OpenCV tutorials (docs.opencv.org)
+2. Coursera: Introduction to Computer Vision (Georgia Tech)
+3. Kaggle Learn: Micro-courses on Python, Pandas, and Computer Vision
+(kaggle.com/learn)
+4. Libraries:
+5. OpenCV: The fundamental library for computer vision (opencv.org)
+6. Scikit-image: Image processing library for Python (scikit-image.org)
+7. Scikit-learn: For machine learning models (scikit-learn.org)
+TensorFlow / Keras or PyTorch: For building and training neural networks
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1CP07) SOFTWARE RELIABILITY AND QUALITY MANAGEMENT
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Basic knowledge of Software Engineering, Probability and
+Statistics
+COURSE OBJECTIVES:
+• To discuss problems of reliability and quality specification and measurement
+• To introduce reliability and quality metrics, and their use in software specification
+and assessment
+• To study quality assurance techniques and standards used in the software industry
+• To show how reliability predictions may be made from statistical test results and
+quality management practices
+• To apply software reliability and quality management practices in real-world
+projects and research
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Explain the principles of software reliability and quality management
+CO-2: Apply statistical and quality assurance techniques in software development
+CO-3: Analyze software reliability growth models and quality metrics
+CO-4: Evaluate software processes using standards like ISO 9001 and CMMI
+CO-5: Design and implement strategies for achieving reliable and high-quality
+software
+UNIT-I:
+Introduction: The Need for Reliable Software, Software Reliability Engineering
+Concepts, Basic definitions, Software practitioners’ problems, software reliability
+engineering approach, software reliability engineering process, defining the product.
+Operational Profiles, learning operations and running concepts.
+UNIT-II:
+Software Reliability Concepts: Defining failure for the product, measures for systems,
+setting failure intensity objectives, strategies, failures, faults and errors, availability,
+predictin g failure intensity.
+UNIT-III:
+Software Reliability Modeling Survey: Exponential Failure Time Models, Weibull and
+Gamma Models, Bayesian Models, Model Relationships, Software Reliability Prediction
+in Early Phases.
+UNIT-IV:
+Software Metrics for Reliability and Quality Assessment: Static and dynamic program
+complexity, Reliability and quality metrics, ISO 9126 / SQuaRE quality model,
+Capability Maturity Model Integration (CMMI).
+UNIT-V:
+Software Quality Assurance and Management: Quality Assurance (QA) activities,
+Verification and Validation (V&V), Reviews, walkthroughs, inspections, Statistical
+Quality Control (SQC), Software Quality Standards (ISO 9001, IEEE standards),Best
+practices of Software Reliability Engineering (SRE).
+TEXT BOOKS:
+1. Handbook of Software Reliability Engineering, Michael R. Lyu, IEEE & McGraw- Hill
+2. Software Reliability Engineering, John D. Musa, 2nd Edition, Tata McGraw-Hill
+3. Software Quality Assurance: From Theory to Implementation, Daniel Galin, Pearson
+REFERENCES:
+1. Practical Reliability Engineering, Patric D. T. O’Connor, 4th Edition, John Wiley &
+Sons, 2003
+2. Fault Tolerance Principles and Practice, Anderson and P. A. Lee, PHI, 1981
+3. Software Quality Engineering: Testing, Quality Assurance, and Quantifiable
+Improvement, Jeff Tian, Wiley, 2005
+4. Reliability Engineering, E. Balagurusamy, Tata McGraw-Hill, 1994
+ONLINE RESOURCES:
+1. https://users.ece.cmu.edu/~koopman/des_s99/sw_reliability/
+2. https://nptel.ac.in/courses/106105150 (NPTEL - Software Engineering)
+3. https://www.researchgate.net (Research articles on Software Reliability
+Engineering and Quality Management)
+4. https://www.coursera.org/learn/software-processes (Coursera - Software
+Processes and Reliability)
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1CP08) SOFT COMPUTING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Basic knowledge on Mathematics, Machine Learning, Deep
+Learning
+COURSE OBJECTIVES:
+• To introduce soft computing concepts and techniques and foster their abilities in
+designing appropriate technique for a given scenario
+• To implement soft computing-based solutions for real-world problems
+• To give knowledge of non-traditional technologies and fundamentals of artificial
+neural networks, fuzzy sets, fuzzy logic, genetic algorithms
+• To provide hands-on experience on MATLAB to implement various strategies
+• To understand recent trends in various soft computing constituents
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Explain various soft computing techniques and their roles in building intelligent
+machines
+CO-2: Analyze the problems which can be solved using fuzzy logic, genetic algorithms
+and neural networks
+CO-3: Apply soft computing techniques to solve engineering problems
+CO-4: Implement various soft computing approaches for a given problem using MAT
+Lab or Python
+CO-5: Understand recent case studies or trends in various constituents of soft
+computing
+UNIT-I:
+Introduction to Soft Computing: Evolution of Computing: Soft Computing Constituents,
+From Conventional AI to Computational Intelligence: Machine Learning Basics.
+UNIT-II:
+Fuzzy Logic: Fuzzy Sets, Operations on Fuzzy Sets, Fuzzy Relations, Membership
+Functions: Fuzzy Rules and Fuzzy Reasoning, Fuzzy Inference Systems, Fuzzy Expert
+Systems, Fuzzy Decision Making.
+UNIT-III:
+Neural Networks: Machine Learning Using Neural Network, Adaptive Networks, Feed
+forward Networks, Supervised Learning Neural Networks.
+Radial Basis Function Networks: Reinforcement Learning, Unsupervised Learning
+Neural Networks, Adaptive Resonance architectures, Advances in Neural networks.
+UNIT-IV:
+Genetic Algorithms: Introduction to Genetic Algorithms (GA) - GA Operators,
+Applications of GA in Machine Learning: Machine Learning Approach to Knowledge
+Acquisition.
+UNIT-V:
+Matlab/Python Lib: Introduction to MATLAB /Python, Arrays and array operations,
+Functions and Files, Study of neural network toolbox and fuzzy logic toolbox, Simple
+implementation of Artificial Neural Network and Fuzzy Logic. Recent Trends in Fuzzy
+logic, neural networks and genetic algorithm, Implementation of recently proposed
+soft computing techniques.
+TEXT BOOKS:
+1. Neuro-Fuzzy and Soft Computing, J. S. R. Jang, C. T. Sun and E. Mizutani, PHI /
+Pearson Education, 2004
+2. Principles of Soft Computing, S. N. Sivanandam and S. N. Deepa, Wiley India, 2011
+3. Neural Networks, Fuzzy Logic and Genetic Algorithms, S. Rajasekaran and G. A. V.
+Pai, 1st Edition, PHI, 2003
+REFERENCES:
+1. Fuzzy Sets and Fuzzy Logic: Theory and Applications, George J. Klir and Bo Yuan,
+Prentice Hall, 1995
+2. An Introduction to Genetic Algorithm, Melanic Mitchell, MIT Press, 1996
+3. Fuzzy Logic with Engineering Applications, Timothy J. Ross, Wiley, 2010
+ONLINE RESOURCES:
+1. https://www.researchgate.net/publication/309452475_An_Overview_of_Soft_Co
+mputing
+2. https://www.edx.org/learn/software-coding
+3. https://www.tutorialspoint.com/computer_fundamentals/computer_fundamenta
+ls_tutorial.pdf
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1CP09) ROBOTIC PROCESS AUTOMATION
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Software Engineering, Programming Language Skills, Web
+Application Development
+COURSE OBJECTIVES:
+• To understand the fundamental concepts, structure, and classifications of robots,
+including laws, history, anatomy, and system architecture
+• To acquire knowledge of various end effectors, robot control methods, and
+feedback devices for effective robotic motion and task execution
+• To learn robot kinematics, transformations, and the application of sensors for
+perception and interaction with the environment
+• To develop skills in robot cell design, safety, mobile robotics, and practical
+applications across industries using software tools
+• To explore advanced micro and nano robotics systems, including their design,
+actuation, communication, and specialized applications
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Explain key RPA concepts and identify processes suitable for automation
+CO-2: Design and implement simple automation workflows using RPA tools
+CO-3: Apply exception handling, data manipulation, and workflow control
+techniques
+CO-4: Deploy, test, and monitor bots in enterprise environments
+CO-5: Evaluate the effectiveness and business impact of RPA solutions
+UNIT-I:
+Introduction - Robot anatomy - Definition, law of robotics, History and Terminology of
+Robotics Accuracy and repeatability of Robotics-Simple Problems Specifications of
+Robot-Speed of Robot Robot joints and Links-Robot classifications - Architecture of
+robotic systems.
+UNIT-II:
+End Effectors and Robot Controls - Mechanical Grippers-Slider crank mechanism,
+Screw type, Rotary actuators, cam type- Magnetic grippers- Vacuum Grippers-Air
+operated Grippers-Gripper force analysis- Gripper design- Simple problems- Robot
+controls- Point to point control, Continuous path control, Intelligent robot- Control
+system for robot joint- Control actions- Feedback devices- Encoder, Resolver, LVDT-
+Motion Interpolations-Adaptive control.
+UNIT-III:
+Robot Transformations and Sensors: Robot kinematics – Types - 2D, 3D Transformation
+Scaling, Rotation, Translation- Homogeneous coordinates, multiple Transformation-
+Simple problems. Sensors in robot – Touch sensors - Tactile sensor – Proximity and range
+sensors – Robotic vision Sensor-Force sensor - Light sensors, Pressure sensors.
+UNIT-IV:
+Robot Cell Design and Applications: Robot work cell design and Control-Sequence
+control, Operator interface, Safety monitoring devices in Robot-Mobile robot working
+principle, actuation using MATLAB, NXT Software Introductions-Robot applications,
+Material handling, Machine loading and unloading, assembly, Inspection, Welding,
+Spray painting and undersea robot.
+UNIT-V:
+Micro/Nano Robotics System: Micro/Nano robotics system Overview-Scaling Effect-
+Top down and bottom-up approach- Actuators of Micro/Nano robotics System-Nano
+robot communication Techniques- Fabrication of micro/Nano Grippers-Wall climbing
+micro robot working principles- Biomimetic robot- Swarm robot- Nano robot in
+targeted drug delivery system
+TEXT BOOKS:
+1. Robotics Technology and Flexible Automation, S. R. Deb, Tata McGraw-Hill, 2009
+2. Industrial Robotics, Technology programming and Applications, Mikell P. Groover
+& Nicholas G. Odrey, Mitchel Weiss, Roger N. Nagel, Ashish Dutta, McGraw-Hill,
+2012
+3. Robotics Engineering-An integrated approach, Richard D. Klafter, Thomas A.
+Chmielewski, Michael Negin, Prentice Hall, 1989
+REFERENCES:
+1. Kinematic Analysis of Robot Manipulators, Carl D. Crane and Joseph Duffy,
+Cambridge University press, 2008
+2. Robotics Control, Sensing, Vision and Intelligence, Fu K. S., Gonzalez R. C. & Lee C.
+S. G., McGraw-Hill, 1987
+3. Introduction to Robotics Mechanics and Control, Craig J. J. Addison- Wesley, 1999
+4. Robots and Manufacturing Automation, Ray Asfahl C., John Wiley & Sons Inc.
+ONLINE RESOURCES:
+1. https://academy.uipath.com/
+2. https://www.automationanywhere.com/resources/university
+3. https://learn.microsoft.com/en-us/training/paths/work-automation-flow/
+4. https://www.coursera.org/specializations/roboticprocessautomation
+5. https://nptel.ac.in/courses/106106232
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC2DC01) MACHINE LEARNING MODELS LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To introduce NumPy and pandas and importing files and performing data wrangling
+• To develop skills to both design and critique visualizations
+• To obtain a comprehensive knowledge of various tools and techniques for data
+science
+• To develop skills in classification, regression, and clustering techniques
+• To evaluate the performance of the models
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the basic concepts of NumPy and Pandas and using advanced
+manipulations, integrating random functions
+CO-2: implementation of pandas for comprehensive data preprocessing, handling
+missing values
+CO-3: Apply and interpret concepts of data science including visualization, statistical
+operations, and categorical handling
+CO-4: Explore and Develop expertise in classification, regression, and clustering
+techniques
+and implementing logistic regression models
+CO-5: Explore proficiency in analyzing each model performance
+LIST OF PROGRAMS / EXPERIMENTS / EXERCISES:
+WEEK 1:
+1. Create NumPy arrays from Python Data Structures, Intrinsic NumPy objects and
+Random Functions.
+2. Manipulation of NumPy arrays- Indexing, Slicing, Reshaping, Joining and Splitting.
+3. Computation on NumPy arrays using Universal Functions and Mathematical
+methods.
+4. Import a CSV file and perform various Statistical and Comparison operations on
+rows/columns.
+5. Import any CSV file to Pandas Data Frame and perform the following:
+(a) Handle missing data by detecting and dropping/ filling missing values.
+(b) Transform data using apply () and map() method.
+(c) Detect and filter outliers.
+WEEK 2, 3:
+1. Create Pandas Series and Data Frame from various inputs.
+2. Import any CSV file to Pandas Data Frame and perform the following:
+(a) Visualize the first and last 10 records.
+(b) Get the shape, index and column details.
+(c) Select/Delete the records (rows)/columns based on conditions.
+(d) Perform ranking and sorting operations.
+(e) Do required statistical operations on the given columns.
+(f) Find the count and uniqueness of the given categorical values.
+(g) Rename single/multiple columns.
+(h) Write a program to demonstrate the working of the decision tree based ID3
+algorithm. Use an appropriate data set for building the decision tree and apply this
+knowledge to classify a new sample
+WEEK 4:
+1. Visualize data using Line Plots, Bar Plots, Histograms, Density Plots and Scatter Plots.
+2. Download the House Pricing dataset from Kaggle and map the values to 23
+Aesthetics.
+3. Use different Color scales on the Rainfall Prediction dataset.
+4. Create different bar plots for variables in any dataset.
+5. Show an example of Skewed data and removal of skewedness.
+6. For a sales dataset do Time Series visualization.
+7. Build a Scatterplot and suggest dimension reduction.
+WEEK 5,6 & 7:
+1. Write a program to implement k-Nearest Neighbour algorithm to classify the iris
+data set. Print both correct and wrong predictions.
+2. Write a program to implement the Linear Regression for a sample training data set
+stored as a .CSV file. Compute Mean Square Error by considering few test data
+sets. Develop a model on residual analysis of simple linear regression.
+3. Residual plots of linear regression
+4. Normal probability plots.
+5. Empirical model of linear regression analysis.
+6. Perform Vectorized String operations on Pandas Series. 2. Implement regularized
+7. Linear regression.
+8. Develop a model on logistic regression on any data set for prediction.
+9. Write a program to implement the Logistic Regression for a sample training data
+set stored as a .CSV file. Compute the accuracy of the classifier.
+WEEK 8-13:
+1. Write a program to implement k-Nearest Neighbor algorithm to classify the iris data
+set. Print both correct and wrong predictions.
+2. Write a program to implement Support Vector Machine algorithm to classify the
+iris data set. Print both correct and wrong predictions.
+3. Write a program to demonstrate the working of the decision tree based ID3
+algorithm. Use an appropriate data set for building the decision tree and apply
+this knowledge to classify a new sample.
+4. Implement k-means on dataset
+5. Implement agnes and divisive models for clustering a dataset
+6. Implement PCA and t-SNE models on MNIST dataset
+TEXT BOOKS:
+1. Machine Learning with Python: Unlocking AI Potential with Python and Machine
+Learning, Oliver Theobald, Packt
+2. Python with Machine Learning, A. Krishna Mohan, T. Murali Mohan & Karunakar
+3. Python Course Machine Learning with Python, Bernd Klein
+REFERENCES:
+1. Introduction to Machine Learning, Tom Michell
+2. Lecture notes on Machine Learning, Andrew Ng, Tengyu Ma
+3. Introduction to Machine Learning, Alex Smola and S. V. N. Vishwanathan
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC2DC02) FINANCIAL ANALYTICS AND DATA SCIENCE FOR BFSI LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To explain about markets and several types of investors
+• To understand about several terminologies related investment
+• To analyze about candle stick and channels for several types of markets
+• To explain about several indicators related to markets
+• To explain Wyckoff methodologies for investment
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Analyze financial analysis using real time data and visualization tools
+CO-2: Develop expertise in financial screening and technical analysis using
+advanced tools for strategic stack investments
+CO-3: Empower with advanced financial analysis expertise for strategic investment
+decisions
+CO-4: Develop the technical analysis and data science skills for strategic investments
+CO-5: Applying technical analysis tools and indicators to make strategic investment
+choices
+LIST OF PROGRAMS / EXPERIMENTS / EXERCISES:
+1. Open BSE / NSE charts (BSE Sensex 50, BSE Bankex) — check daily / weekly price
+series, volume spikes, 50/200 DMA cross, and recent index contributors.
+BSE India
+On Screener. in: classify companies by Market Cap (Large / Mid / Small) and export
+sample universe for analysis. Use Screener to inspect FII holding and quarterly
+changes.
+Screener
+Check FII flows: (a) look at Change in FII holding column; (b) sort by quarter/year to
+see increasing/decreasing trend and identify names FIIs are buying. (Screener built-in
+screens help).
+Screener
+Global context: review major global indices on Investing. com for correlation (Dow,
+S&P, Nasdaq, DAX, FTSE).
+Investing. com
+Heatmap: inspect sector/stock heatmap on TradingView to spot sector breadth and
+top movers.
+2. Screener. in — fundamental data, financial statements, custom query builder for
+screening.
+Screener
+Moneycontrol. com — price charts, news, financials, technicals
+sgxnifty. com — Singapore Nifty, global Nifty derivatives
+Investorgain. com — stock analysis, tips, educational content
+MarketWatch. com — global markets news, indices, charts
+Tickertape. in — stock screening, visual tools, rankers
+TradingView. com — advanced charting, indicators, heat maps
+scanners. streak. com — strategy scanners / backtesting
+Trendlyne. com — financial analytics, screens, alerts
+ChartInk. com — technical screening, chart patterns
+3. Write a query on YOY Quarterly sales growth > 15 and YOY Quarterly profit growth
+> 20 and Net Profit latest quarter > 1
+Write a query on 100*((High price - Current price )/High price) < 10 AND 100*((High
+price - Current price )/High price) > 0 AND 100*(Current price / Low price -1) > 100
+AND Current price > 10 AND Volume > 100000
+Analyze sales and margin chart for 1 month, 6 months, 1 year, 3 years, 5 years, 10 years
+with price on NSE, 50 DMA, 200 DMA and volume in screener in for large cap, mid cap
+and small cap.
+Build sales and margin chart for sample data for sample data from screener.
+4. Browse sector and market cap in stock universe of tickertape. in
+Check profitability analysis for small cap, mid cap and large cap with respect to close
+price and PE ratio.
+Check price and volume analysis for small cap, mid cap and large cap with respect
+to close price and PE ratio.
+Check financial ratios, growth, valuation and ownership analysis for small cap, mid
+cap and large cap with respect to close price and PE ratio.
+Write a query on DMA 50 > DMA 200 AND DMA 50 previous day < DMA 200 previous
+day Analyze PE ratio chart for 1 month, 6 months, 1 year, 3 years, 5 years, 10 years with
+price on NSE, 50 DMA, 200 DMA and volume in screener in for large cap, mid cap and
+small cap.
+Build PE ratio chart for sample data for sample data from screener.
+5. Check technical indicators, income statement, balance sheet and cash flow
+statement analysis for small cap, mid cap and large cap with respect to close price
+and PE ratio.
+Write a query on DMA 50 > DMA 200 AND DMA 50 previous day < DMA 200 previous
+day Analyze EV/EBITDA chart for 1 month, 6 months, 1 year, 3 years, 5 years, 10 years
+with price on NSE, 50 DMA, 200 DMA and volume in screener in for large cap, mid cap
+and small cap.
+Build EV/EBITDA chart for sample data for sample data from screener.
+6. Identify candle stick chart in chartink. com for small cap, mid cap and large cap.
+Write a query on Stocks nearing 200 day high by 5% & showing consolidation for the
+past 30 days with volume above 50 day average.
+Analyze about documents of large cap, mid cap and small cap in screener. in and
+interpret with appropriate Data science techniques.
+7. Draw trend lines and identify pivot points of small cap, mid cap and large cap in
+chartink. com Write a query on Stocks closing crossing the cloud & span A greater
+than span B, indicating a positive trend in chartink. com
+Analyze Price to book chart for 1 month, 6 months, 1 year, 3 years, 5 years, 10 years
+with price on NSE, 50 DMA, 200 DMA and volume in screener in for large cap, mid cap
+and small cap.
+Analyze about peers and quarter of a large cap, mid cap and small cap and apply
+appropriate data science technique to analyze this data.
+8. Identify Hanging man, Hammer, Bearish Engulfing pattern, Bullish Engulfing pattern
+for different types of companies in chartink. com
+Write a query on Bullish reversal pattern in which a stock which had a long white body
+a 2 days ago, then opened lower with a Doji a day ago and finally closed above the
+previous day.
+Analyze Market cap/Sales chart for 1 month, 6 months, 1 year, 3 years, 5 years, 10
+years with price on NSE, 50 DMA, 200 DMA and volume in screener in for large cap,
+mid cap and small cap.
+9. Identify Doji. Rising window candle stick for different types of companies. Analyze
+aboutprofit, loss and balance sheet of a large cap, mid cap and small cap and apply
+appropriate data science technique to analyze this data.
+10. Identify Ascending channel pattern, Descending channel pattern,Rectangular
+Channel pattern, Ascending Triangle pattern in chartink. com
+11. Identify Descending triangle pattern, symmetric triangle pattern, Flag pattern,
+pennat, head and should pattern. Cup and handle pattern in Chartink. com
+12. Identify subsectors in tickertape. in with respect to market cap and close price
+commonly used moving averages, Alligator Indicator in chartink. com
+13. Fear and Greed indicator, Moving averages, Ichimoku indicator, Fibonacci
+indicator, RSI indicator, stochastic indicator, MACD indicator, VMWA indicator
+Wyckoff Trading Methodology.
+TEXT BOOKS:
+1. Machine Learning in Finance by M. Dixon, I Halperin, and P. Bilokon, 1st Edition,
+Springer
+2. Advances in Financial Machine Learning, Marcos Lopez, 1st Edition, Wiley,
+3. Machine Learning for Asset Managers, Marcos Lopez, 1st Edition, Cambridge
+University Press
+REFERENCES:
+1. Machine Learning for Algorithmic Trading, Stefan Jansen, 2nd Edition, Packt
+2. Elton & Gruber, Modern Portfolio Theory, 9th Edition, Wiley
+3. Investment Analysis and Portfolio Management, Frank K., 5th Edition, Dryden, Reilly
+ONLINE RESOURCES:
+1. https://tradebrains.in/resources-stock-market-india/
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25SD5EN01) ENGLISH FOR ACADEMIC AND RESEARCH WRITING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE PRE-REQUISITES: Undergraduate level English Proficiency
+COURSE OBJECTIVES:
+• To equip with an understanding of the mechanics and conventions of academic
+and research writing, including cohesion and coherence, to produce texts that
+demonstrate precision and clarity
+• To enable to present focused, logical arguments that support a thesis
+• To empower to find, analyze, evaluate, summarize, and synthesize appropriate
+source material for literature review
+• To enable to use appropriate language to analyze and interpret the data, and
+prepare an outline
+• To enable to become adept in the requirements and specifications of standard
+writing to produce academic and research papers
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply knowledge of academic language features and text structure, and
+ensure cohesion and coherence as connected to various text types
+CO-2: Demonstrate the use of writing process strategies through outlining, reviewing,
+composing, and revising
+CO-3: Evaluate sources and use summary, analysis, synthesis, and integration to
+construct a literature review on a topic chosen by the student
+CO-4: Prepare an outline for Research Articles and Thesis
+CO-5: Apply standard documentation style to produce academic and research
+papers that meet the demands of specific genres, purposes, and audiences
+UNIT-I:
+1. Features of Academic Writing: Word Order, Breaking up long Sentences,
+Structuring Paragraphs and sentences, Being concise and removing redundancy,
+Avoiding Ambiguity and Vagueness, Hedging
+2. Planning & Preparation of Research paper, Factors Influencing Effective Writing:
+Mechanics of Writing, Purpose of Writing, Understanding the Target Reader,
+Organization- Cohesion, and Coherence
+UNIT-II:
+1. Academic Writing Forms:
+a) Analyzing arguments; Building an argument
+b) Making a Counter Argument- Managing tone and tenor
+1. Types of Research: Primary and Secondary Research
+2. Review of Literature
+3. Research Design: Statement of the Problem, Writing A Title, Writing an Abstract,
+Keywords & Introduction, Writing Hypotheses, Developing Objectives, Research
+Tools, Writing Reports and Writing Proposal.
+UNIT-III:
+1. Criteria of Good Research- Avoiding Plagiarism
+2. Data Interpretation, Writing to the Point
+3. Preparing an outline for Research Articles & Research Reports
+UNIT-IV:
+1. Reference Skills:
+a) Paraphrasing (Change of parts of speech, word order, synonyms, using the passive
+form)
+b) Summarizing (Steps in summarizing)
+2. Inserting references
+UNIT-V:
+1. Assessment of Technical Reports
+2. Writing Research Article Reviews: Writing Article & Book Review
+TEXT BOOKS:
+1. A Course in Academic Writing, Gupta R., Orient BlackSwan, 2010
+2. Academic Writing: Exploring Processes and Strategies, Leki I., CUP, 1998
+3. Writing Up Research: Experimental Research Report Writing for Students of English,
+Weissberg R., & Buker S. Englewood Cliffs, Prentice Hall, 1990
+REFERENCES:
+1. English Academic Writing for Students and Researchers, Yakhontova T., 2003
+2. Inside Track: Successful Academic Writing Gillett, A., Hammond A., Martala M.
+Essex: Pearson Education 2009
+3. English for Academic Research: Writing Exercises, Wallwork, Springer, 2013
+4. The MLA Handbook for Writers of Research Papers, 7th Edition, Modern Language
+Association
+5. Academic Writing for Graduate Students: A Course for Non-Native Speakers of
+English, Swales J. M. & Feak C. B. AnnArbor: University of Michigan Press, 1994
+ONLINE RESOURCES:
+1. Using Sources Video Lecture
+2. https://www.coursera.org/lecture/advanced-writing/using-sources-video-lecture-
+i719P
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25MN6HS01) RESEARCH METHODOLOGY AND IPR
+TEACHINGSCHEME EVALUATION SCHEME
+L T/P C SE-I SE-II SEE TOTAL
+2 0 0 50 50 - 100
+COURSE OBJECTIVES:
+• To understand the research problem
+• To know the literature studies, plagiarism and ethics
+• To get the knowledge about technical writing
+• To analyze the nature of intellectual property rights and new developments
+• To know the patent rights
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand research problem formulation
+CO-2: Analyze research related information & Follow research ethics
+CO-3: Understand that today’s world is controlled by Computer, Information
+Technology, but tomorrow world will be ruled by ideas, concept, and creativity
+CO-4: Understanding that when IPR would take such important place in growth of
+individuals & nation, it is needless to emphasis the need of information about
+Intellectual Property Right to be promoted among students in general & engineering
+in particular
+CO-5: Understand that IPR protection provides an incentive to inventors for further
+research work and investment in R & D, which leads to creation of new and better
+products, and in turn brings about, economic growth and social benefits
+UNIT-I:
+Meaning of research problem, Sources of research problem, Criteria Characteristics
+of a good research problem, Errors in selecting a research problem, Scope and
+objectives of research problem.
+Approaches of investigation of solutions for research problem, data collection,
+analysis, interpretation, Necessary instrumentations
+UNIT-II:
+Effective literature studies approaches, analysis, Plagiarism, Research ethics
+UNIT-III:
+Effective technical writing, how to write report, Paper Developing a Research
+Proposal, Format of research proposal, a presentation and assessment by a review
+committee
+UNIT-IV:
+Nature of Intellectual Property: Patents, Designs, Trade and Copyright. Process of
+Patenting and Development: technological research, innovation, patenting,
+development. International Scenario: International cooperation on Intellectual
+Property. Procedure for grants of patents, Patenting under PCT.
+UNIT-V:
+Patent Rights: Scope of Patent Rights. Licensing and transfer of technology. Patent
+information and databases. Geographical Indications. New Developments in IPR:
+Administration of Patent System.
+New developments in IPR; IPR of Biological Systems, Computer Software etc.
+Traditional knowledge Case Studies, IPR and IITs
+TEXT BOOKS:
+1. Research Methodology: An Introduction for Science & Engineering Students, Stuart
+Melville and Wayne Goddard
+2. Research Methodology: An Introduction, Wayne Goddard and Stuart Melville
+3. Research Methodology: A Step-by-Step Guide for Beginners, Ranjit Kumar, 2nd
+Edition
+REFERENCES:
+1. Resisting Intellectual Property, Halbert, Taylor & Francis, 2007
+2. Industrial Design, Mayall, McGraw-Hill, 1992
+3. Product Design, Niebel, McGraw-Hill, 1974
+4. Intellectual Property in New Technological Age, Robert P. Merges, Peter S. Menell,
+Mark A. Lemley, 2016
+5. Intellectual Property Rights Under WTO, T. Ramappa, S. Chand, 2008

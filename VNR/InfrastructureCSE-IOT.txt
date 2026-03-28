@@ -1,0 +1,50 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/cseAIMLIOT/InfrastructureCSE-IOT.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for B.Tech. CE,EEE,ME,ECE,CSE,EIE,IT,AME, M.Tech. STRE, PE, AMS, SWE Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF (2022) 113th Rank in Engineering Category
+College with Potential for Excellence by UGC,JNTUH-Recognized Research Centres:CE,EEE,ME,ECE,CSE
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Department of CSE –AIML &IoT
+Details of Laboratories
+PROGRAMME: Computer Science and Engineering (IoT)
+S.No Room Name of the Lab No. of System Processor RAM HDD Name of the
+No Units Name(Make/Model) Software
+required Usage
+1 B004 Embedded GPU 36 HP PRO TOWER 280 I7 8GB 1TB Codeblocks,
+Laboratory G9 RCTO PC1 NVIDIA Jetson
+Nano
+Developer Kit-
+B01
+2 C004/1 Computer 36 HP PRO DESK G7 I7 8GB 1TB JDK,
+Networks MICROTOWER PC, Codeblocks,
+Laboratory DELL VOSTRO 3888 Star UML
+DESKTOP
+3 C004/2 Database 36 HP PRO DESK G7 I7 8GB 1TB My SQL,
+Management MICROTOWER PC, HTML, MS
+Systems DELL VOSTRO 3888 Office,
+Laboratory DESKTOP Python,
+LATEX,
+Codeblocks, R
+and Power BI
+4 C205 Python 36 Python
+Programming
+Laboratory
+5 P203 1.Embedded 36 LENOVO S510 T I5 8GB Keil IDE, ARM
+System Design DESKTOP Micro
+Laboratory Controller
+2.Introduction to Development
+IoT Lab Board
+6 P202 1.Sensors & 36 LENOVO S510 T I5 8GB Ardunio IDE
+Devices DESKTOP and Tinkercad
+Laboratory
+2.IoT Protocols
+Labopratory

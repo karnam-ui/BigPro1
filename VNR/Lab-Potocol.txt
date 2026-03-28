@@ -1,0 +1,1905 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/autodept/Lab-Potocol.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+WELCOME
+TO
+
+LAB PROTOCOL : CAD LABORATORY
+PURPOSE OF THE LABORATORY
+➢ This lab is to primarily facilitate students to
+evolve concepts and convert it into a
+complete product.
+➢ The process of design, analysis and simulation
+takes place in a digitally integrated
+environment.
+LAB PROTOCOL : CAD LABORATORY
+1. LEARNING OBJECTIVES
+➢ Understand the ways in which 2D, 3D, part
+drawings and assembly drawings are made
+using appropriate CAD packages.
+➢ Understand the determination of stresses
+and strains in systems like trusses and
+beams.
+LAB PROTOCOL : CAD LABORATORY
+LEARNING OUTCOMES
+➢ Students will be able to:
+• Produce part and assembly drawings
+using CAD packages.
+• Determine the stress, strain and elastic
+properties in components of the
+structures.
+LAB PROTOCOL : CAD LABORATORY
+WHAT WILL WE STUDY IN THIS LAB?
+➢ COMPUTER AIDED DESIGN
+➢ COMPUTER AIDED ENGINEERING
+LAB PROTOCOL : CAD LABORATORY
+2. BRINGING IN THE REAL WORLD
+SITUATION
+LAB PROTOCOL : CAD LABORATORY
+2. BRINGING IN THE REAL WORLD
+SITUATION
+LAB PROTOCOL : CAD LABORATORY
+2. BRINGING IN THE REAL WORLD
+SITUATION
+LAB PROTOCOL : CAD LABORATORY
+2. BRINGING IN THE REAL WORLD
+SITUATION
+LAB PROTOCOL : CAD LABORATORY
+2. BRINGING IN THE REAL WORLD
+SITUATION
+LAB PROTOCOL : CAD LABORATORY
+2. BRINGING IN THE REAL WORLD
+SITUATION
+LAB PROTOCOL : CAD LABORATORY
+2. BRINGING IN THE REAL WORLD
+SITUATION
+LAB PROTOCOL : CAD LABORATORY
+2. BRINGING IN THE REAL WORLD
+SITUATION
+LAB PROTOCOL : CAD LABORATORY
+2. BRINGING IN THE REAL WORLD
+SITUATION
+Simulation of Mechanical Showel Simulation of Su-33 Fighter
+LAB PROTOCOL : CAD LABORATORY
+3. FITTING INTO THE SPECTRUM
+➢ Increase the Productivity
+➢Better visualization
+➢Reduced time & effort
+➢ Improve the Quality
+➢Reduced design errors
+➢Greater accuracy
+LAB PROTOCOL : CAD LABORATORY
+3. FITTING INTO THE SPECTRUM
+➢Improve the Communications
+➢ Standardized drawings
+➢ Fewer drawing errors
+➢ Greater legibility
+➢ Better documentation
+➢ Create database for Manufacturing
+➢Database like
+➢Geometries and dimensions
+➢Material specifications
+➢Bill of materials
+LAB PROTOCOL : CAD LABORATORY
+4. KEYWORDS IDENTIFIED
+➢ DESIGN PROCESS
+➢ SYNTHESIS
+➢ ANALYSIS AND OPTIMIZATION
+➢ EVALUATION
+➢ PRESENTATION
+➢ MANUFACTURING
+LAB PROTOCOL : CAD LABORATORY
+5. LINKING KEYWORDS WITH CONCEPTS
+➢ COMPUTER AIDED DESIGN
+➢ GEOMETRIC MODELING
+➢ ENGINEERING ANALYSIS
+➢ DESIGN REVIEW AND EVALUATION
+➢ DRAFTING
+➢ COMPUTER AIDED MANUFACTURING
+LAB PROTOCOL : CAD LABORATORY
+6. GENERATION OF EXERCISES
+➢ 2D Drawing using Sketcher workbench
+➢ 3D Part Modeling using 3D features
+➢ Assembly Modeling
+➢ Drafting
+➢ Surface Modeling
+➢ Sheet Metal Working
+➢ Analysis
+LAB PROTOCOL : CAD LABORATORY
+7. FOCUSSING ON PROBLEM/EXERCISE
+➢ Design and analysis of a given
+mechanical component
+LAB PROTOCOL : CAD LABORATORY
+8. DESIGN OF EXERCISE TO SOLVE THE
+PROBLEM
+➢ To study the given drawing in
+detail
+➢ To prepare a 2D sketch using
+suitable commands by considering
+symmetricity of the part
+➢ To prepare a 3D model of the part
+using appropriate features like
+Extrude, Revolve, Hole etc.
+➢ To obtain a drafted view showing
+all the dimensions, sections, etc.
+➢ To analyze the part by applying the
+loads at appropriate places.
+LAB PROTOCOL : CAD LABORATORY
+9. VERIFICATION
+➢ To verify the sketches as per the
+given data.
+➢ To verify the loads, boundary
+conditions and other details as
+per the data.
+LAB PROTOCOL : CAD LABORATORY
+10. CONFIRMATION
+➢ To compare the drafted views and
+3D model with the given drawing.
+➢ To verify the results obtained by
+analyzing the component with
+the theoretical or historical
+results.
+LAB PROTOCOL : CAD LABORATORY
+11. CONCLUSIONS
+➢ 2D sketches of the given part are
+drawn
+➢ 3D model of the same is created.
+➢ Drafted views of the model are
+obtained.
+➢ Model is analyzed for the stresses
+induced.
+LAB PROTOCOL : CAD LABORATORY
+FACILITIES IN THE LAB
+LAB PROTOCOL : CAD LABORATORY
+LIST OF SOFTWARES
+➢ CAD:
+CREO PARMETRIC 2.0 50 Seat Network License
+AutoCAD 2015 - 250 Seat Network License
+LAB PROTOCOL : CAD LABORATORY
+LIST OF SOFTWARES
+➢ CAE:
+ANSYS – 5 Seat Network License
+LAB PROTOCOL : CAD LABORATORY
+LIST OF HARDWARE
+➢ COMPUTER SYSTEMS:
+HP Workstations – 75 Nos.
+IBM Server – 1 No.
+LAB PROTOCOL : CAD LABORATORY
+LIST OF HARDWARE
+➢ PERIPHERAL DEVICES:
+HP Multi Function Printer – 1 No.
+INFOCUS LCD PROJECTOR – 1 No.
+LAB PROTOCOL : CAD LABORATORY
+PLEASE NOTE…
+Y
+R
+ON TIME
+O
+T
+A
+R
+O
+WITH LABORATORY RECORD
+B
+A
+L
+O
+T WITH OBSERVATION NOTEBOOK
+N
+I
+Y
+R
+T
+WITH IDENTITY CARD
+N
+E
+VNR VIGNANA JYOTHI INSTITUTE OF
+ENGINEERING AND TECHNOLOGY
+AUTOMOBILE ENGINEERING
+LAB PROTOCOL
+18PC2AE02 - AUTOMOTIVE ENGINES LABORATORY
+Faculty
+Dr. Shaik Amjad
+Mr. GVL Prasad
+
+Course Objectives
+ To show valve and port timing diagrams
+ To test performance characteristics of IC engine and compressor
+ To estimate optimum cooling and heat balancing of an engine
+ To perform dismantling and assembling of an engine
+Course Outcomes
+After completion of the course the student is able to
+ Illustrate valve and port timing diagrams
+ Analyze performance characteristics of IC engine and compressor
+ Evaluate optimum cooling and heat balancing of an engine
+ Demonstrate dismantling and assembling of an engine
+
+Heat Engine Introduction
+o Transforms one form of energy into another
+o Heat engine converts chemical energy into
+thermal energy which is turned utilized to
+do mechanical work
+o Heat engine two types :
+ External combustion engine
+ Internal combustion engine
+o IC engine most widely used in automobiles
+Heat Engine Introduction
+o Transforms one form of energy into another
+o Heat engine converts chemical energy into
+thermal energy which is turned utilized to
+do mechanical work
+o Heat engine two types :
+ External combustion engine
+ Internal combustion engine
+o IC engine most widely used in automobiles
+Petrol Engine
+o Inventor of the four-stroke
+spark-ignition internal
+combustion engine
+o In 1876 Otto built an engine
+in which air-fuel mixture
+Nicolaus August Otto
+could be compressed and
+Born June 10, 1832
+ignited by a spark
+Died January 26, 1891
+Gas-Motor Engine
+Patent No. 4315
+Inducted 1885
+Diesel Engine
+o Inventor of the four-stroke
+Compression-ignition internal
+combustion engine
+Rudolf Diesel o In 1893 Diesel was issued a
+patent for a proposed engine, in
+(1858 - 1913)
+which air would be compressed so
+Oil Engine
+much that the temperature would
+far exceed the ignition
+German
+temperature of the fuel
+Patent No. 67207
+.
+Inducted 1919
+2-Stroke Engine
+Dugald Clerk
+Designed in 1878
+and patented it in
+England in 1881.
+Simplicity of Early Engines
+Bringing in The Real World
+Situation
+11
+12
+13
+14
+15
+16
+17
+18
+Thermodynamic fundamentals will be
+used to link the processes taking place
+in the engine for issues of:
+Power generation
+Fuel economy and Fuel Composition
+Effects on engine operation and
+Mechanical limitations of obtaining ideal
+performance
+Fitting into the spectrum
+• As we are aware that the rate of depletion of fossil fuels
+is alarming.
+• Burning of fossil fuels causes green house effect which
+is harmful to all living beings.
+• This issue is being addressed at various forums of
+environmentalists and summits.
+• Due to above reasons, it is desirable to have higher
+thermal efficiencies of all IC engines.
+21
+Keywords Identified
+• Valve Timing
+• Port timing
+• Testing
+• Thermal efficiency
+• Specific fuel consumption
+• Mechanical Efficiency
+• Brake power
+22
+Linking keywords with concepts
+• IC engine
+• 2-Stroke engine
+• 4-Stroke engine
+• S I engine
+• C I engine
+• Air Fuel Ratio
+• Valve timing diagram
+• Port timing diagram
+• Performance characteristics
+23
+Generation of Exercises
+•To find the valve and port timing
+•To find brake thermal efficiency, indicated
+thermal efficiency and friction power of the
+engines.
+•To find air fuel ratio, sfc and mep of the
+engines.
+•To find isothermal efficiency of compressor
+24
+Focusing on problem/Exercise
+•Whether it is power producing device or
+a power consuming device
+•Then decide measurements of which
+parameters will reflect the efficiency or
+performance of the engine
+25
+8.Design of Exercise to solve the
+problem
+•To draw the valve and port timing diagrams
+•To find the speed at which the SFC is minimum.
+•To find the variation of efficiency with respective to
+load at constant speed.
+•To find isothermal efficiency of compressor
+26
+Verification
+•To compare the results obtained with
+standard values from the
+literature/manual.
+27
+VNR Protocol-TE LAB/MED
+List of Experiments
+1. Valve timing diagram for 4-stroke Diesel engine
+2. Valve timing diagram for 4-stroke petrol engine
+3. Port timing diagram for 2-stroke petrol engine
+4. Performance test on 4-stroke single cylinder Diesel engine
+5. Performance test on 4-stroke single cylinder petrol engine
+6. Heat balance test on 4-stroke single cylinder Diesel engine
+7. Morse test on multi-cylinder petrol engine
+8. Optimum cooling temperature test on single cylinder Diesel engine
+9. Performance evaluation on computerized Diesel engine
+10. Performance test on reciprocating compressor test rig
+11. Dismantling, inspection and assembling of multi-cylinder petrol
+engine
+12. Dismantling inspection and assembling of multi-cylinder Diesel
+engine
+13. Testing of Diesel fuel injector
+
+Valve timing diagram for 4-Stroke Diesel engine
+• A valve timing diagram is a graphical representation of the opening
+and closing of the intake and exhaust valve of the engine, The opening
+and closing of the valves of the engine depend upon the movement of
+.
+piston from TDC to BDC
+Cut Model of Diesel engine
+Valve timing diagram for 4-Stroke petrol engine
+• A valve timing diagram is a graphical representation of the opening
+and closing of the intake and exhaust valve of the engine, The opening
+and closing of the valves of the engine depend upon the movement of
+.
+piston from TDC to BDC
+Cut Model of Petrol Engine
+Port timing diagram for 2-Stroke petrol engine
+• A port timing diagram is a graphical representation of the opening
+and closing of the intake, exhaust and transfer ports of the engine,
+The opening and closing of the ports of the engine depend upon the
+movement of piston from TDC to BDC
+• In two-stroke engine the cycle is completed in one revolution of the
+crankshaft.
+Cut Model of Petrol Engine
+Performance test on 4-stroke/2-stroke single
+cylinder petrol engine
+Single cylinder four stroke petrol
+engine test rig
+Heat balance test on 4-Stroke single cylinder Diesel
+engine
+Single cylinder four stroke diesel
+engine test rig
+Morse test on multi-cylinder petrol engine
+Multi-cylinder four stroke diesel
+engine test rig
+Optimum cooling temperature test on single
+cylinder Diesel engine
+Single cylinder four
+stroke diesel engine test
+rig
+Performance test on 4-stroke single cylinder
+computerised Diesel engine
+Compuratised single cylinder four
+stroke diesel engine test rig
+Permanence test on reciprocating compressor test rig
+• An air compressor is a device that converts power (using an electric
+motor, diesel or gasoline engine, etc.) into potential energy stored in
+pressurized air.
+This experimental set up
+demonstrates the students
+to evaluate
+a)Volumetric efficiency
+b) Isothermal efficiency
+Reciprocating compressor test rig
+Dismantling, inspection and assembling of
+multi-cylinder petrol engine
+Dismantling, inspection and assembling of
+multi-cylinder Diesel engine
+LABORATORY SAFETY RULES
+• Keep yourself and others safe.
+• Wear appropriate safety equipment.
+• No loose clothes and long hair around machines.
+• Clean up any spills immediately.
+• Wear shoes to protect the feet from falling weights.
+• Don’t play with machines/tools.
+ Maintain discipline and be regular to the laboratory
+ Carry the observation book and record to the laboratory
+ Follow proper dress code in the laboratory
+ Do not use any equipment unless you are trained
+ Wear safety glasses or face shields when working with hazardous
+materials and/or equipment
+ If you have long hair or loose clothes, make sure it is tied back or
+confined
+ Keep the work area clear of all materials except those needed for your
+work
+ Extra books, purses, etc. should be kept away from equipment
+ Students are responsible for the proper disposal of used material if
+any in appropriate containers
+ Wear shoes to protect your feet
+ Check all electrical connections and mounting bolts before each use
+ Check that all rotating parts are free to turn, and that there is no
+mechanical obstruction before operating
+ If an equipment fails while being used, report it immediately to your
+lab assistant or in-charge
+ Never try to fix the problem yourself because you could harm
+yourself and others
+ Exercise care when working with or near hydraulically- or
+pneumatically-driven equipment. Sudden or unexpected motion can
+inflict serious injury
+ If leaving a lab unattended, turn off all ignition sources
+ Clean up your work area before leaving
+ Wash hands before leaving the lab and before eating
+Common Sense
+Good common sense is needed for safety in a laboratory. It is
+expected that each student will work in a responsible manner and
+exercise good judgement and common sense. If at any time you are
+not sure how to handle a particular situation, ask your Lab in-charge
+or Instructor for advice. It is always better to ask questions than to
+risk harm to yourself or damage to the equipment. Do not touch
+anything with which you are not completely familiar.
+Automotive Electrical and
+Electronics Lab Protocol
+Objectives and outcomes
+Course Objectives
+ Study and demonstrate different electrical and electronic systems in a vehicle
+ Test and analyse automotive battery, starting, charging and ignition systems
+ Calibrate automotive sensors for measurement
+ Interface automotive sensors with ADC
+Course Outcomes
+After completion of the course the student is able to
+ CO-1: Demonstration different electrical and electronic systems in a vehicle
+ CO-2: Test automotive battery, starting, charging and ignition systems
+ CO-3: Calibrate and use automotive sensors for measurement
+ CO-4: Interface automotive sensors with ADC
+List of experiments
+1. Study and demonstration of automobile electrical wiring system
+2. Study and demonstration of electronic fuel injection system
+3. Battery charging and maintenance
+4. Starting motor and alternator testing
+5. Diagnosis of ignition system
+6. Temperature measurement and interfacing RTD with ADC
+7. Temperature measurement and interfacing thermistor with ADC
+8. Displacement measurement and interfacing LVDT with ADC
+9. Load measurement and interfacing load cell with ADC
+10. Pressure measurement and interfacing with ADC
+11. Testing and control of DC motor
+Study and demonstration of automobile electrical wiring
+system
+Study and demonstration of electronic fuel
+injection system
+Battery charging and maintenance
+ A battery charger is intended to be connected to a battery. To recharge a fuel
+vehicle's starter battery, where a modular charger is used and to recharge an
+electric vehicle (EV) battery pack
+ Automotive battery tester is used to check the battery of an automobile in live
+conditions. It can test cranking and cold cranking conditions while being
+connected to the vehicle. Total life of the batter, complete analysis and health of
+the battery.
+Starting motor and alternator testing
+ Auto electrical test bench is a table model and has been designed to cater to the
+needs of auto electrician, garages, service centres, transport corporation institution
+and other bulk users of auto electrical equipment for complete testing of
+alternator, regulator and their associated parts. It has also built-in dc power supply
+to check light run of starter motor and alternator
+Diagnosis of ignition system
+ Spark plug is a device to produce electric spark to ignite the compressed air-fuel
+mixture inside the cylinder. The spark plug is screwed in the top of the cylinder so
+that its electrodes projects in the combustion chamber.
+Temperature measurement and interfacing
+RTD with ADC
+Resistance thermometers, also called resistance
+temperature detectors (RTDs), are sensors used to
+measure temperature. The RTD wire is a pure material,
+typically platinum, nickel, or copper. The material has an
+accurate resistance/temperature relationship which is
+used to provide an indication of temperature.
+Temperature measurement and interfacing
+thermistor with ADC
+A thermistor is a resistance thermometer, or a
+resistor whose resistance is dependent on
+temperature. The term is a combination of “thermal”
+and “resistor”. It is made of metallic oxides, pressed
+into a bead, disk, or cylindrical shape and then
+encapsulated with an impermeable material such as
+epoxy or glass.
+Displacement measurement and interfacing
+LVDT with ADC
+LVDT is an acronym for Linear Variable
+Differential Transformer. It is a common
+type of electromechanical transducer
+that can convert the rectilinear motion
+of an object to which it is coupled
+mechanically into a corresponding
+electrical signal.
+Load measurement and interfacing load cell
+with ADC
+ A load cell is a force transducer. It
+converts a force such as tension,
+compression, pressure, or torque
+into an electrical signal that can
+be measured and standardized. As
+the force applied to the load
+cell increases, the electrical signal
+changes proportionally.
+Testing and control of DC motor
+
+
+Pressure measurement using pressure
+transducer
+VNR Vignana Jyothi Institute of Engineering &
+Technology
+Department of Automobile Engineering
+AUTOMOTIVE CHASSIS LABORATORY
+(19PC2AE01)
+By
+D.Suresh
+Assistant Professor
+Department of Automobile Engineering
+VNR VJIET
+suresh_d@vnrvjiet.in
+91+9676541968
+Course Objectives
+ To identify and study of automotive chassis systems
+ To distinguish functionality of various running and control systems
+ To understand the troubles and remedies chassis systems
+ACL Protocol Asst. Professor D.Suresh AE 07-10-2021
+Course Outcomes
+After completion of the course the student can
+ Demonstrate the principle and functionality of various automotive systems
+ Dismantle and assemble chassis systems
+ Inspect and identify the faults in chassis systems
+ACL Protocol Asst. Professor D.Suresh AE 07-10-2021
+LIST OF EXPERIMENTS
+1. Dismantling, inspection and assembling of clutch
+2. Dismantling, inspection and assembling of sliding mesh gear box
+3. Dismantling, inspection and assembling of constant mesh gear box
+4. Dismantling, inspection and assembling of synchromesh gear box
+5. Dismantling, inspection and assembling of automatic gear box
+6. Dismantling, inspection and assembling of transaxle
+7. Dismantling, inspection and assembling of transfer case
+8. Dismantling, inspection and assembling of differential unit
+9. Dismantling, inspection and assembling of brake system
+10.Dismantling, inspection and assembling of suspension system
+11.Dismantling, inspection and assembling of steering gear box
+12.Dismantling, inspection and assembling of front and rear axle
+ACL Protocol Asst. Professor D.Suresh AE 07-10-2021
+Laboratory Equipment
+HCV Clutch
+LMV Clutch
+ACL Protocol Asst. Professor D.Suresh AE 07-10-2021
+Laboratory Equipment
+Sliding Mesh Gear box
+Synchromesh Gear Box
+ACL Protocol Asst. Professor D.Suresh AE 07-10-2021
+Laboratory Equipment
+Automatic Gear box
+Transaxle
+ACL Protocol Asst. Professor D.Suresh AE 07-10-2021
+Course Objectives
+Hydraulic Braking System
+Front axle with Suspension
+ACL Protocol Asst. Professor D.Suresh AE 07-10-2021
+Skills Required…..
+ To identify suitable tool or instrument / equipment and their functions.
+ Ability to handle tools and instruments
+ Ability to measure different parameters and record observations.
+ To interpret test results or observations during the test
+ Able to make Conclusion from the Observation.
+ACL Protocol Asst. Professor D.Suresh AE 07-10-2021
+Laboratory Report
+ Three members in a group
+ Contribute / Perform proper role in the group to conduct experiment and to
+make observation
+ Analyze the results together
+ Each person of the group will write his/her own Discussion and Conclusion
+Asst. Professor D.Suresh AE 07-10-2021
+Laboratory Report
+Asst. Professor D.Suresh AE 07-10-2021
+MEASURING PARAMETERS
+ Thickness
+ Diameters
+ Gear ratio
+ Design Terminology
+ACL Protocol Asst. Professor D.Suresh AE 07-10-2021
+General laboratory safety
+ Maintain discipline and be regular to the laboratory
+ Carry the observation book and record to the laboratory
+ Follow proper dress code in the laboratory
+ If you have long hair or loose clothes, make sure it is tied back or confined
+ Keep the work area clear of all materials except those needed for your work
+ Extra books, purses, etc. should be kept away from equipment
+ACL Protocol Asst. Professor D.Suresh AE 07-10-2021
+Course Objectives
+ Check that all rotating parts are free to turn, and that there is no
+mechanical obstruction before operating
+ If an equipment fails while being used, report it immediately to your lab
+assistant or in-charge
+ Exercise care when working with or near hydraulically or pneumatically-
+driven equipment. Sudden or unexpected motion can inflict serious injury
+ If leaving a lab unattended, turn off all ignition sources
+ Clean up your work area before leaving
+ Wash hands before leaving the lab and before eating
+ACL Protocol Asst. Professor D.Suresh AE 07-10-2021
+LAB ASSESMENT
+Semester End Examination 60 M
+Continues Internal Assessment 40 M
+Day to Day
+evaluation (10 M)
+Record
+(10 M)
+Practical Exam
+Team Project
+(10 M)
+(10 M)
+ACL Protocol Asst. Professor D.Suresh AE 07-10-2021
+Team Projects (2015-2019 batch)
+ Single plate clutch-hydraulically operated
+ Multi plate clutch-mechanically operated
+ Mechanically working drum brakes
+ Hydraulic operated disc brake
+ Double wishbone suspension system
+ Telescopic shock absorber
+ To prepare Rear axle assembly of Go-kart
+ Motor driven constant mesh gear box
+ACL Protocol Asst. Professor D.Suresh AE 07-10-2021
+Team Projects (2016-2020 batch)
+1. Pneumatic Seater
+2. Power Windows
+3 . Modeling of Four Cylinder Crankshaft in CATIA V-5
+4. Push Rod Suspension Actuation System Mechanism
+5. CAD model of Brake Callipers
+6. Electrically Power Assisted Steering
+7. Analysis of Steering Knuckle
+8. Modeling and Analysis of Differential
+9. Effect of Variable Valve Lift on Performance of KTM 390
+ACL Protocol Asst. Professor D.Suresh AE 07-10-2021
+Team projects (2018-2022 batch)
+1. Prepare a model of chassis
+2. Prepare a LMV frame
+3. Make a CVT model for scooter
+4. Make an Ackerman’s steering mechanism
+5. Make a Davis steering mechanism
+6. Prepare a claw clutch model
+7. Prepare a rear suspension model
+8. Prepare brake shoe working model
+9. Prepare a disc brake model
+ACL Protocol Assist. Professor D.Suresh AE 07-10-2021
+ACL Protocol Asst. Professor D.Suresh AE 07-10-2021
+Automobile systems
+Power Running
+Comfort
+Train System
+System
+Suspension
+HVAC
+Power Drive
+Steering
+plant line Seating
+Braking
+Audio/Vide
+Engine Clutch
+o/
+Fuel System Gear box
+GPS
+Inlet System Transfer case
+Exhaust Propeller
+System shaft
+Cooling Differential
+system Wheels
+Lubricating
+system
+VNR LAB PROTOCOL
+METALLURGY AND MECHANICS OF
+SOLIDS LABORATORY
+AUTOMOBILE ENGINEERING DEPARTMENT
+Course Prerequisites: Metallurgy and Material Engineering
+and Mechanics of Solids
+Subject Code: 19PC2AE02
+Course Coordinators
+T. Raju
+Chandrashekhar B Banad
+VNR Protocol-METALLURGY LAB-AE
+Course Objectives
+• To study the microstructure of different materials
+• To understand the changes in microstructure after
+different heat treatments
+• To analyze the various tests to be conducted on
+engineering materials
+• To analyze the importance of tests in evaluating the
+corresponding mechanical properties
+Course Outcomes
+• Identify different materials with microstructure
+• Inspect the microstructure of a given material after
+heat treatments
+• Evaluate the result of test and comment on the
+mechanical properties of materials
+• Decide a material and an appropriate test suitable for
+given application
+Metallurgy
+• Art and science of extraction metals
+• Types
+• Physical metallurgy
+• Extraction metallurgy
+• Mechanical metallurgy
+PURPOSE OF THIS LABORATORY
+• To study the microstructures characteristics of various
+Engineering materials through metallographic.
+• To verify the principles of material science described in
+the lectures by means of experiments.
+• To Substantiate the knowledge gained from the lectures
+through Experiments.
+• To demonstrate the use of instrumentation such as
+Metallurgical Microscope, Grinding Machines, Polishing
+Machine and materials testing equipment's.
+LIST OF EXPERIMENTS
+1. Specimen Preparation for Metalallographic
+Examination
+2. Preparation and study of the micro structure of
+pure metals like-Iron, copper and aluminum
+3. Preparation and study of the micro structure of
+Mild steel, low carbon steels, high carbon
+steels
+4. Study the micro structure of cast irons i.e. grey
+cast iron, spheroidal graphite iron, malleable cast
+iron ,white cast iron
+5. Study the micro structure of Non Ferrous alloys-
+Brass, Bronze, Cast aluminum alloys
+6. Study the micro structure of heat treated steels-
+annealing, normalizing and hardening
+7. Hardenability of steels by Jomney end quench test
+LIST OF EQUIPMENTS IN THE LAB
+1. Specimen cut-off machine
+2. Bench grinder
+3. Belt grinder
+4. Emery papers
+5. Disc polishing machine
+6. Metallurgical microscopes
+7. Image analyzer
+8. Muffle furnace
+9. Jominy end quench test equipment
+10. Specimen hot drier
+Specimen cut-off machine
+Bench grinder
+Belt grinder
+Emery papers
+1/0,2/0,3/0.4/0
+Disc polishing machine
+Metallurgical
+microscopes
+Image analyzer
+Muffle furnace
+Jominy end quench test
+equipment
+Specimen hot drier
+Common Procedure
+Preparation and study of the micro
+structure of pure metals like-Iron,
+copper and aluminum
+Step 1: Sampling:
+Select the sample rod/bar/plate which should be
+tested
+Sample
+bar
+Step 2: Cutting the specimen from sample bar
+with cut-off machine
+Step3: Rough grinding with grinding machine
+Step 4: Intermediate polishing with Emery
+papers 1/0,2/0,3/0,4/0
+1/0 emery paper
+1/0 emery paper
+2/0 emery paper
+2/0 emery paper
+3/0 emery paper
+3/0 emery paper
+4/0 emery paper
+4/0 emery paper
+Step5: Fine polishing with Disc polishing
+machine
+Step 6: Cleaning
+Clean the specimen with distilled water, then
+cotton waste after disc polishing
+Step 7: Drying with Drier
+• SAMPLE SHOULD BE FREE FROM SCRATCHES
+AND ALSO FREE FROM DUST/DIRT
+Step8: Etching: Keep specimen in the etching
+reagent (Nitol sol.)
+(Mixture of 2%Nitric acid and 98%alcohol)
+• Clean the specimen with cotton waste after
+etching
+Step9: Drying with Drier
+Step 10
+Study/observe-microstructure of the
+specimen under the microscope
+Study/observe-the microstructure of the
+specimen under image analyzer
+SUBMIT THE REPORT
+• Magnification
+• Specimen name
+• Composition
+• Micro structural details
+• Heat treatment if any
+• Etchant
+• Etching time
+• Remarks
+Pure Aluminium
+Pure copper
+cast iron
+Thank you
+VNR VIGNANA JYOTHI INSTITUTE OF
+ENGINEERING AND TECHNOLOGY
+Mechanics of Solids Lab Protocol
+Department of Automobile engineering
+By
+T. Raju - Assistant Professor
+Aziz Athani - Assistant Professor
+Nagaraju A Shet - Assistant Professor
+M Siva Prasad - Instructor
+Venue: D-002
+CIVIL Engineering Department
+VNR Protocol-S.M. Lab-CED
+WHY AM I TEACHING
+AUTOMOBILE Engineering MECHANICAL Engineering
+MECHANICS OF SOLIDS
+CIVIL Engineering
+AERONAUTICAL Engineering
+LEARNING OVERVIEW
+• Study of the subject is useful to understand various forces
+like
+1) compression
+2) Tension
+3) Bending
+4)Torsion and
+5) Shear
+VNR Protocol-S.M. Lab-CED
+LEARNING OVERVIEW
+• It is essential for designing of various
+structural members and machine components
+subjected to various actions, so that
+members/components should be able to bear
+the maximum load without failure during the
+service period with knowledge of this subject.
+VNR Protocol-S.M. Lab-CED
+Laboratory Introduction
+• In Strength of Materials laboratory testing of materials
+under tension, compression, shear and bending will be
+done and failure patterns will be studied.
+• Mechanical properties like elasticity, plasticity, ductility,
+hardness, toughness and brittleness will be investigated
+and the strength of various materials with reference to
+above properties that influence the design, will be
+determined.
+VNR Protocol-S.M. Lab-CED
+Laboratory Introduction
+•
+• Concepts to be developed through this laboratory
+work:- Stress, strain, elasticity, plasticity,
+hardness, toughness, machinability, ductility,
+modulus of elasticity, modulus of rigidity, bulk
+modulus, strain energy, shear strength, flexural
+strength, torsional rigidity and stiffness.
+• Principles to be understood-
+1) Hooke's law
+2) Mohr circle
+VNR Protocol-S.M. Lab-CED
+Various tests for material properties
+• Tension test
+• Compression test
+• Shear test
+• Hardness test
+• Torsion test
+• Bending Test
+• Impact test
+• Mechanical advantage
+• Moment of Inertia
+VNR Protocol-S.M. Lab-CED
+Instrumentation
+• Various instruments for measuring linear dimensions
+with various degrees of accuracy- scale , vernier
+calipers.
+• Instrumentation for measuring displacements-dial
+gauges, electrical resistance strain gauges.
+• Various methods of measuring forces-proving rings,
+hydraulic pressure gauges, pendulum dynamometer.
+VNR Protocol-S.M. Lab-CED
+Intellectual skills
+• To identify different parts of Instrument/equipment and
+their actions.
+• To interpret failure patterns of different materials under
+different actions.
+• To compute the required properties by measuring the
+appropriate displacements/deformations.
+• To interpret test results or observations during the test,
+the properties of materials like yield stress, Ultimate
+strength, ductility, toughness etc. and decide the
+suitability of the material for a particular situation.
+VNR Protocol-S.M. Lab-CED
+Intellectual Skills
+• Ability to draw sketches of standard specimen,
+arrangement for test in respective machines.
+•
+Ability to measure different parameters and record
+observations.
+• Ability to handle Instruments and observe behavior of
+different materials during various stages of test.
+• Conclusion from the results.
+VNR Protocol-S.M. Lab-CED
+Objectives
+• To understand the stress – strain relation of the
+materials in elastic and plastic stages.
+• Different ways of mechanical testing will be
+highlighted.
+• The interpretation of sensible information from the
+test data such that mechanical assessments are used
+for selecting suitable material.
+• Finally , the cause of material failure will be
+investigated and suggest possible solutions for
+avoiding the failure .
+VNR Protocol-S.M. Lab-CED
+Failure in materials
+• Failure of Liberty Ships during services in World
+War II. Seven of the Liberty ships built during the
+world war II have failed completely breaking into
+two as a result of brittle fractures. Over 1000 of
+approximately 5000 merchant ships built during
+World War II had developed cracks of considerable
+size and became unserviceable
+.
+VNR Protocol-S.M. Lab-CED
+Failure in materials
+The aircraft was used for inter-island transportation for
+19years, failed due to multiple reasons
+VNR Protocol-S.M. Lab-CED
+VNR Protocol-S.M. Lab-CED
+Material property assessments
+• Hardness --- Micro/Macro hardness tests
+• Strength, Ductility --- Tension tests
+(elongation, area of reduction)
+• Torsional rigidity --- Torsion tests
+• Flexural rigidity --- Bending test
+• Toughness (resistance ---- Toughness tests
+Impact tests/ Fracture to failure)
+VNR Protocol-S.M. Lab-CED
+Hardness tests
+• Hardness is a property which is a measure of a
+resistance to permanent or plastic deformation.
+• Using different indenters, i.e., ball, diamond
+Parameters:
+Brinells hardness (BHN)
+Rockwell hardness
+Rockwell
+Brinell
+VNR Protocol-S.M. Lab-CED
+Tensile test
+• Provides basic design information on the strength of
+materials.
+• Provides acceptance test for the specification of the
+materials.
+Parameters:
+• Ultimate Tensile
+strength σ
+U
+• Yield stress σy
+• Young’s Modulus of
+elasticity E
+• Ductility indices:
+%Elongation
+% Area of reduction
+VNR Protocol-S.M. Lab-CED
+Compression Test
+• Compression tests on various brittle
+materials are conducted on specimens
+in the shape of cubes or cylinders.
+• Compression test on Concrete is an important test because the
+strength of concrete is considered only in compression.
+• In every important construction project , it should be ensured
+that the required strength has been obtained.
+• The friction between the test platen of the machine and top
+surface of the specimen will apply a lateral restraint on the lateral
+expansion of the specimen resulting due to Poisson’s effect.
+• True compressive strength is indicated only in a test on a cylinder
+with l/d ratio greater than 2 .
+• To avoid difficulty in capping concrete cubes are tested for the
+determination of compressive strength of concrete.
+VNR Protocol-S.M. Lab-CED
+Impact tests
+• Measure toughness of materials in terms of
+energy absorption.
+• Specimen is broken by the impact of a
+hammer and the energy absorbed during
+fracture is measured in Joules.
+• Easy and works on energy principle.
+• Not a standard material parameter, should
+be used in conjunction with other material
+Parameters:
+properties such as strength and fracture
+• Impact energy
+toughness for materials by Izod and Charpy
+methods
+• Toughness
+VNR Protocol-S.M. Lab-CED
+Torsion test
+• Applying twisting
+moment to the specimen
+and measure the torque
+and angle of Twist
+Parameters:
+Shear Modulus
+•
+• Polar M.I
+• Torque
+ Twist
+ Torsional rigidity
+VNR Protocol-S.M. Lab-CED
+Bending of a Cantilever Beam
+The deflection of the beam at a section depends on:
+• The magnitude and position of the load
+• The span of the beam.
+• Material stiffness. Material of higher stiffness produces
+less deflection.
+• The geometry of the cross section. Higher moment of
+inertia results in less curvature.
+• Hence on Flexural rigidity .
+VNR Protocol-S.M. Lab-CED
+Bending of a Cantilever Beam
+Experimental setup: F
+L
+Dial indicator
+s
+Weights
+d
+VNR Protocol-S.M. Lab-CED
+Bending of a simply supported beam
+VNR Protocol-S.M. Lab-CED
+Bending test on continuous beam
+VNR Protocol-S.M. Lab-CED
+Spring test
+• Applying Tensile/Compressive force to
+the specimen and measure the Deflection
+sustained by the Spring.
+Parameters:
+• Shear Modulus
+• Twisting moment
+• Deflection
+VNR Protocol-S.M. Lab-CED
+List of Experiments
+1.To conduct the Uniaxial Tension test and to
+determine the yield stress, Ultimate strength,
+Breaking stress, % elongation & Modulus of
+elasticity by Tension test on Mild Steel bar.
+2. To determine the crushing strength of cocrete and
+bricks
+3. To determine the Shear strength of M.S. in Double
+shear.
+4. a)To determine the Brinell Hardness numbers for
+M.S., Aluminium ,copper and Brass.
+VNR Protocol-S.M. Lab-CED
+List of Experiments
+4. b) To determine the Rockwell Hardness nos for M.S.,
+Aluminum , Brass.
+5. To determine the energy absorbed by the specimen of M.S., by
+Izod & Charpy Impact Test.
+6.To determine the Modulus of rigidity of M.S. by Torsion test.
+7. To determine the modulus of elasticity of the material of given
+beam by conducting bending test on cantilever beam.
+8. To determine the modulus of elasticity of the material of given
+beam by conducting bending test on Simply supported beam.
+VNR Protocol-S.M. Lab-CED
+List of Experiments
+9.To determine Moment of Inertia of a fly wheel
+10. To determine the Mechanical advantage of simple and
+compound screw jack
+11. Demonstration of use of electrical resistance strain
+gauges.
+12. To determine the Modulus of rigidity of a close coiled
+helical spring under Tension/Compression.
+VNR Protocol-S.M. Lab-CED
+LAB. REPORT
+• 5 persons per group
+• Analyze results together
+• Each person of the group will write his/her
+own Discussion and Conclusion.
+VNR Protocol-S.M. Lab-CED
+LABORATORY SAFETY RULES
+• Keep yourself and others safe.
+• Wear appropriate safety equipment.
+• No loose clothes and long hair around machines.
+• Clean up any spills immediately.
+• Wear shoes to protect the feet from falling weights.
+• Don’t play with machines/tools.
+V NR Protocol-S.M. Lab-CED
+VNR lab protocol
+Manufacturing Technology Lab
+Course Objectives
+• Understand casting techniques and sand
+properties
+• Understand different welding processes and
+their use
+• Understand different press working
+operations
+• To practice various machining operations
+Course Outcomes
+ Apply the knowledge involved in casting
+techniques
+ Decide the selection of various welding
+techniques applicable for different materials
+ Integrate the knowledge involved in press
+working operations
+ Perform various machining operations
+Experiments
+ Metal Casting
+ Welding
+ Mechanical Press Working
+ Processing of Plastics
+Metal Casting
+• Exercise 1: Pattern Design and making - for
+one casting drawing.
+• Exercise 2: Sand properties testing - for
+strengths, and permeability
+• Exercise 3: Moulding Melting and Casting
+Welding
+• Exercise1: Spot Welding
+• Exercise 2: TIG Welding
+• Exercise 3: MIG Welding
+• Exercise 4: Brazing
+Mechanical Press Working
+1. Blanking and Piercing operations
+2. Bending operation
+Processing of Plastics
+1. Injection Moulding
+2. Blow Moulding
+Experiments
+ Metal Casting
+ Welding
+ Mechanical Press Working
+ Processing of Plastics
+PURPOSE OF THIS LABORATORY
+To understand the various production processes
+which are commonly applied to Industrial
+Production in which raw materials are transformed
+to finished products on a large scale.
+Such finished products may be used for
+manufacturing , other more complex products such
+as Aircraft, Automobiles, House Hold Appliances,
+Power Plants etc.
+MANUFACTURING
+The processes and methods employed to transform tangible
+inputs such as raw materials, semi finished goods,
+subassemblies, ideas, information and knowledge into goods or
+services
+List Of Experiments
+I. METAL CASTING
+1. Pattern Design and Making- by Casting Drawing
+2. Sand Properties Testing- for testing strength and permeability
+3. Moulding , Melting & Casting
+II. WELDING
+1. ARC WELDING: LAP & BUTT JOINTS
+2. SPOT WELDING
+3. TIG WELDING
+4. MIG WELDING
+5. BRAZING
+III. MECHANICAL PRESS WORKING
+1. Bending Operation
+2. Blanking & Piercing
+IV PROCESSING OF PLASTICS
+1. INJECTION MOULDING
+2. BLOW MOULDING
+METAL CASTING
+PATTERN DESIGN AND MAKING by Wood Turning lathe
+METAL CASTING
+WHAT IS A PATTERN ?
+• CASTING: Casting is a manufacturing process by which a liquid material is
+usually poured into a mold, which contains a hollow cavity of the desired
+shape, and then allowed to solidify. This solidified part is known as casting
+which is ejected or broken out of the mold to complete the process.
+• PATTERN: A pattern is a replica of the desired casting which when packed
+in a suitable material, produces a cavity called the mold. This cavity when
+filled with the molten metal, produces the desired casting after
+solidification.
+• Commonly used patterns are
+1. Single Piece Pattern
+2. Split Pattern
+3. Pattern with core
+4. Loose Piece Pattern
+Pattern materials are wood, metals & alloys, plastics, waxes.
+HOW THE CASTING OF A COMPONENT IS DONE
+HOW THE MOLTEN METAL FLOWS
+APPLICATIONS OF METAL CASTINGS
+• Transport : Automobile, aerospace, railways and shipping
+• Heavy Equipment : Construction, farming and mining
+• Machine Tools : Machining, casting, plastics molding, forging, extrusion
+and forming
+• Plant Machinery : Chemical, petroleum, paper, sugar, textile, steel and
+thermal plants
+• Defence : Vehicles, artillery, munitions, storage and supporting equipment
+• Electrical Equipment Machines : Motors, generators, pumps and
+compressors
+• Hardware : Plumbing industry pipes, joints, valves and fittings
+• Household : Appliances, kitchen and gardening equipment, furniture and
+fittings
+• Art Objects : Sculptures, idols, furniture, lamp stands and decorative items
+SAND PROPERTIES TESTING- FOR CONDUCTING STRENGTH &
+PERMEABILITY
+by Universal Strength Machine & Sand rammer
+PERMEABILITY TESTING OF SAND
+• Permeability is the property by which we can
+know the ability of sand to transmit gas. The
+permeability is commonly tested to see if it is
+correct for the casting conditions
+Welding Processes
+ARC WELDING
+WORKING OF ARC WELDING
+ELECTRODE COATING
+CORE WIRE
+WELDING ATMOSPHERE
+ARC STREAM
+ARC POOL
+SOLIDIFIED SLAG
+PENETRATION DEPTH
+WELD
+BASE METAL
+Weld Fluxes
+• Typical fluxes
+– SiO , TiO , FeO, MgO, Al O
+2 2 2 3
+– Produces a gaseous shield to prevent
+contamination
+– Act as scavengers to reduce oxides
+– Add alloying elements to the weld
+– Influence shape of weld bead during solidification
+GAS WELDING
+GAS WELDING
+• Sound weld is obtained by selecting proper size of flame, filler material
+and method of moving torch
+• The temperature generated during the process is 33000c
+• When the metal is fused, oxygen from the atmosphere and the torch
+combines with molten metal and forms oxides, results defective weld
+• Fluxes are added to the welded metal to remove oxides
+• Common fluxes used are made of sodium, potassium. Lithium and borax.
+• Flux can be applied as paste, powder,liquid.solid coating or gas.
+Oxyacetylene Welding (gas welding)
+• Flame formed by burning a mix of acetylene (C H )
+2 2
+and oxygen
+TORCH TIP 2300 deg F
+Inner Cone: 5000-6300 deg F Combustion Envelope 3800 deg F
+• Fusion of metal is achieved by passing the inner
+cone of the flame over the metal
+• Oxyacetylene can also be used for cutting metals
+TIG –WELDING (tungsten inert gas)
+Tungsten Inert Gas (TIG)
+• Tungsten electrode acts as a cathode
+• A plasma is produced between the tungsten cathode and the base
+metal which heats the base metal to its melting point
+• Filler metal can be added to the weld pool
+TUNGSTEN
+ELECTRODE
+POWER (CATHODE)
+TUNGSTEN
+SOURCE
+ELECTRODE
++ + + +
+- - -
+SHIELDING GAS ARC COLUMN
+BASE METAL PUDDLE BASE METAL (ANODE)
+Techniques for Basic Weld Joints
+Manual Torch Movement
+*Figure copied from “TIG Handbook”
+Inert Gases
+• Argon, Helium, Nitrogen, and Carbon dioxide
+• Form a protective envelope around the weld
+area
+• Used in
+– MIG
+– TIG
+– Shield Metal Arc
+Welding Positions
+INCREASING DIFFICULTY
+FLAT
+HORIZONTAL
+OVERHEAD
+VERTICAL
+Joint Design
+BUTT JOINT
+FILLET JOINT
+STRAP JOINT
+CORNER JOINT
+LAP JOINT
+Brazing
+• Brazing
+Brazing is a metal-joining process whereby a filler metal is heated above
+melting point and distributed between two or more close-fitting parts
+by capillary action. The filler metal is brought slightly above its melting
+(liquidus) temperature while protected by a suitable atmosphere, usually
+a flux. It then flows over the base metal (known as wetting) and is then
+cooled to join the workpieces together
+SPOT WELDING
+SPOT WELDING
+• Spot welding (RSW) is a process in which contacting metal surfaces
+are joined by the heat obtained from resistance to electric current
+flow.
+• Work-pieces are held together under pressure exerted by
+electrodes. Typically the sheets are in the 0.5 to 3 mm (0.020 to
+0.12 in) thickness range. The process uses two shaped copper alloy
+electrodes to concentrate welding current into a small "spot" and to
+simultaneously clamp the sheets together.
+• Forcing a large current through the spot will melt the metal and
+form the weld. The attractive feature of spot welding is a lot of
+energy can be delivered to the spot in a very short time
+(approximately ten milliseconds). That permits the welding to occur
+without excessive heating to the rest of the sheet
+VNR Protocol- Production Technology Lab-
+MED
+Fly Press
+Fly Press
+BENDING OPERATION
+Hydraulic Press
+BENDING OPERATION
+• Bending is a manufacturing process that produces a
+V-shape, U-shape, or channel shape along a straight
+axis in ductile materials, most commonly sheet metal.
+Commonly used equipment include box and pan
+brakes, brake presses, and other specialized machine
+presses. Typical products that are made like this are
+boxes such as electrical enclosures and
+rectangular ductwork.
+BENDING OPERATION
+Typical bending operations and shapes
+(a)
+(b)
+PUNCHING OPERATION
+PUNCHING
+• Punching is a metal forming process that uses
+a punch press to force a tool, called a punch,
+through the workpiece to create a hole
+via shearing.
+• The punch often passes through the work into
+a die. A scrap slug from the hole is deposited
+into the die in the process.
+BLANKING AND PIERCING
+BLANKING
+• Blanking and piercing are shearing processes in which
+a punch and die are used to modify webs. The tooling and
+processes are the same between the two, only the
+terminology is different: in blanking the punched out piece is
+used and called a blank; in piercing the punched out piece is
+.
+scrap
+PLASTICS PROCESSING-INJECTION MOULDING
+Injection Moulding
+Plastics Processing: Injection Molding
+- Probably the most common, most important, most economical process
+Plastics Processing: Injection Molding
+Cycle of operation for injection molding
+Blow Moulding
+Blow Moulding
+List Of Experiments
+I. METAL CASTING :
+1. Pattern Design and Making- by Casting Drawing
+2. Sand Properties Testing- for testing strength and permeability
+3. Moulding , Melting & Casting
+II. WELDING:
+1. ARC WELDING: LAP & BUTT JOINTS
+2. SPOT WELDING
+3. TIG WELDING
+4. MIG WELDING
+5. BRAZING
+III. MECHANICAL PRESS WORKING
+1. Bending Operation
+2. Blanking & Piercing
+IV PROCESSING OF PLASTICS
+1. INJECTION MOULDING
+2. BLOW MOULDING
+
+VNR Vignana Jyothi Institute of Engineering
+and Technology, Hyderabad – 500 090
+Department of Automobile Engineering
+LAB PROTOCOL
+Vehicle Maintenance & Testing Laboratory
+IV B.Tech I Semester, Automobile Engineering
+Faculty
+Dr. Shaik Amjad Mr. Venkata Ramarao
+Professor Assistant Professor
+Course Objectives
+Hands on training in in automotive shops with safety
+procedures
+Vehicle inspection and identification of faults
+Diagnosis using suitable test equipments and use of
+service manuals
+Adjust / repair / replacement of parts
+Course Outcomes
+After completion of the course the student is able to
+Inspect vehicle and identify sub-systems
+Perform fault diagnosis of engine
+Perform fault diagnosis of vehicle
+Execute maintenance and repair/replacement
+operations
+Purpose of VMT Laboratory
+▪ All vehicles are subject to wear and tear and unless maintained at
+regular intervals.
+▪ This wear and tear will eventually result in unsafe vehicles and
+vehicle breakdowns.
+▪ Regular planned maintenance is a critical step in preventing this.
+▪ Effective vehicle maintenance practices result in a vehicle that is
+safe and fit for.
+List of experiments
+Vehicle inspection
+Engine compression test
+Engine manifold vacuum test
+Automotive battery test
+Multi car scanning
+Petrol vehicle exhaust analysis
+Diesel Smoke Measurement
+Wheel balancing of wheel and
+tyre assembly
+Wheel alignment test
+Headlight alignment test
+Ignition timing test
+Vehicle inspection
+Vehicle overall inspection is carried out to find the faults
+7
+Engine compression test
+Engine compression test is carried out to determine the condition of
+the engine valves and piston rings
+8
+Engine manifold vacuum test
+Monitoring the engine's deepest breaths can tell a lot about its health
+Engine manifold vacuum test is carried out to gain insight into the
+symptoms of vacuum leaks, incorrect timing, low compression,
+sticking valves and more.
+If the engine is operating under light or no load and low or closed throttle, there is
+high manifold vacuum.
+If the engine is operating under heavy load at wide throttle openings (such as
+accelerating from a stop or pulling the car up a hill) then engine speed is limited by
+the13l Doeacedmbaenr 2d02m1 inimal vacuum will be created. 9
+Automotive battery test
+Battery test can be performed in a vehicle to test the charge
+13 December 2021 10
+Multi car scanning
+Car scanning is carried out to find error memory, and to display
+actual values.
+13 December 2021 11
+Petrol vehicle exhaust analysis
+Exhaust analysis is carried out to measure and analyze the emissions
+of a petrol engine/vehicle.
+13 December 2021 12
+Diesel smoke measurement
+To measure the smoke emitting from a diesel engine/vehicle
+13 December 2021 13
+Wheel balancing of wheel and tyre assembly
+conduct the wheel balancing test on the given wheel and tyre
+assembly.
+13 December 2021 14
+Wheel alignment test
+Wheel alignment test is carried out to find the castor angle, total toe
+and camber for a given vehicle.
+13 December 2021 15
+Applications
+Car drifts to one side due to the
+misalignment of the wheel angle,
+to rectify this wheel alignment test
+should be performed
+Tire tread wear causes the
+distribution of weight around the tire
+to change. This leads to an imbalance
+that causes the vehicle to shake or
+vibrate. Wheel balancing test can be
+performed to balance the imbalance
+weight.
+13 December 2021 16
+Headlight alignment test
+Headlight alignment test is carried out to adjust
+the headlight
+13 December 2021 17
+Ignition timing test
+Ignition timing test is carried out to check the correct position of
+the ignition timing
+13 December 2021 18
+Cycle -I Cycle -II
+Vehicle Inspection Petrol Vehicle
+exhaust analysis
+Engine compression
+test Diesel Smoke
+Measurement
+Engine Manifold
+Vacuum test
+Wheel alignment
+test
+Automotive battery
+test
+Headlight
+alignment test
+Wheel balancing of
+wheel and tyre
+Ignition timing test
+assembly
+Multi car scanning
+13 December 2021 19
+LABORATORY SAFETY RULES
+• Keep yourself and others safe.
+• Wear appropriate safety equipment.
+• No loose clothes and long hair around machines.
+• Clean up any spills immediately.
+• Wear shoes to protect the feet from falling weights.
+• Don’t play with machines/tools.
+➢ Maintain discipline and be regular to the laboratory
+➢ Carry the observation book and record to the laboratory
+➢ Follow proper dress code in the laboratory
+➢ Do not use any equipment unless you are trained
+➢ Wear safety glasses or face shields when working with hazardous
+materials and/or equipment
+➢ If you have long hair or loose clothes, make sure it is tied back or
+confined
+➢ Keep the work area clear of all materials except those needed for your
+work
+➢ Extra books, purses, etc. should be kept away from equipment
+➢ Students are responsible for the proper disposal of used material if
+any in appropriate containers
+➢ Wear shoes to protect your feet
+➢ Check all electrical connections and mounting bolts before each use
+➢ Check that all rotating parts are free to turn, and that there is no
+mechanical obstruction before operating
+➢ If an equipment fails while being used, report it immediately to your
+lab assistant or in-charge
+➢ Never try to fix the problem yourself because you could harm
+yourself and others
+➢ Exercise care when working with or near hydraulically- or
+pneumatically-driven equipment. Sudden or unexpected motion can
+inflict serious injury
+➢ If leaving a lab unattended, turn off all ignition sources
+➢ Clean up your work area before leaving
+➢ Wash hands before leaving the lab and before eating
+Common Sense
+Good common sense is needed for safety in a laboratory. It is
+expected that each student will work in a responsible manner and
+exercise good judgement and common sense. If at any time you are
+not sure how to handle a particular situation, ask your Lab in-charge
+or Instructor for advice. It is always better to ask questions than to
+risk harm to yourself or damage to the equipment. Do not touch
+anything with which you are not completely familiar.
+13 December 2021 24
+VNR Vignana Jyothi Institute of Engineering &
+Technology
+Department of Automobile Engineering
+ELEMENTS OF AUTOMOBILE ENGINEERRING
+LABORATORY
+(22D5AE101)
+By
+D.Suresh
+Assistant Professor
+Department of Automobile Engineering
+VNR VJIET
+suresh_d@vnrvjiet.in
+91+9676541968
+Course Objectives
+ To measure geometric properties like length, diameter, and angle
+ To determine parameters like frequency, moment of Inertia and
+mechanical advantage
+ To practice tools used in garage and powertrain working
+ To understand automotive electrical symbols, colour codes and
+battery parameters
+EAE Lab Protocol Asst. Professor D.Suresh AE 06-09-2023
+Course Outcomes
+After completion of the course the student can
+ Measure geometric properties like length, diameter and angle
+ Evaluate the parameters like frequency, moment of Inertia and mechanical
+advantage
+ Choose various tools used in garage and know about powertrain
+ Identify the symbols, colour codes and measurement of battery parameters
+EAE Lab Protocol Asst. Professor D.Suresh AE 06-09-2023
+LIST OF EXPERIMENTS
+1. Measurement of length and diameter by vernier calipers and micrometer
+2. Measurement of angle by using Sine bar
+3. Determination of time-period and natural frequency of simple pendulum.
+4. Determination of time-period and natural frequency of compound pendulum.
+5. The experimental determination of the moment of inertia of flywheel
+6. Grouping of batteries for measurement of voltage and current using multimeter.
+7. The experimental determination of mechanical advantage of screw jack
+8. Identification and use of automotive garage tools
+9. Dismantling and assembling of petrol engine
+10. Dismantling and assembling of diesel engine
+11. Study and demonstration of transmission system and its components
+12. Study and demonstration of automotive wiring colour codes and electrical symbols
+EAE Lab Protocol Asst. Professor D.Suresh AE 06-09-2023
+Laboratory Equipment
+Vernier Calipers
+Micrometer
+EAE Lab Protocol Asst. Professor D.Suresh AE 06-09-2023
+Laboratory Equipment
+Sine bar
+Compound Pendulum
+EAE Lab Protocol Asst. Professor D.Suresh AE 06-09-2023
+Laboratory Equipment
+Flywheel
+Screw jack
+EAE Lab Protocol Asst. Professor D.Suresh AE 06-09-2023
+Course Objectives
+Petrol Engine
+Diesel Engine
+EAE Lab Protocol Asst. Professor D.Suresh AE 06-09-2023
+Skills Required…..
+ To identify suitable tool or instrument / equipment and their functions.
+ Ability to handle tools and instruments
+ Ability to measure different parameters and record observations.
+ Able to make Conclusion from the Observation.
+EAE Lab Protocol Asst. Professor D.Suresh AE 06-09-2023
+Laboratory Report
+ Three members in a group
+ Contribute / Perform proper role in the group to conduct experiment and to
+make observation
+ Analyze the results together
+ Each person of the group will write his/her own Discussion and Conclusion
+EAE Lab Protocol Asst. Professor D.Suresh AE 06-09-2023
+General laboratory safety
+ Maintain discipline and be regular to the laboratory
+ Carry the observation book and record to the laboratory
+ Follow proper dress code in the laboratory
+ If you have long hair or loose clothes, make sure it is tied back or confined
+ Keep the work area clear of all materials except those needed for your work
+ Extra books, purses, etc. should be kept away from equipment
+EAE Lab Protocol Asst. Professor D.Suresh AE 06-09-2023
+General laboratory safety
+ Check that all rotating parts are free to turn, and that there is no
+mechanical obstruction before operating
+ If an equipment fails while being used, report it immediately to your lab
+assistant or in-charge
+ Exercise care when working with or near hydraulically or pneumatically-
+driven equipment. Sudden or unexpected motion can inflict serious injury
+ If leaving a lab unattended, turn off all ignition sources
+ Clean up your work area before leaving
+ Wash hands before leaving the lab and before eating
+EAE Lab Protocol Asst. Professor D.Suresh AE 06-09-2023
+LAB ASSESMENT
+Continues Internal Assessment 50 M
+Viva Voice
+(10 M)
+Day to Day
+evaluation (10 M)
+Record
+(10 M)
+Practical Exam
+Course Project
+(10 M)
+(10 M)
+EAE Lab Protocol Asst. Professor D.Suresh AE 06-09-2023
+THANK YOU
+EAE Lab Protocol Asst. Professor D.Suresh AE 06-09-2023
+FLUID MECHANICS
+&
+HYDRAULIC MACHINERY
+VNR Protocol-FMHM LAB/MED
+VNR PROTOCOL FOR LABORATORIES
+FLUID MECHANICS
+&
+HYDRAULIC MACHINERY
+Prepared by
+R.Ramu
+VNR Protocol-FMHM LAB/MED
+LEARNING
+OBJECTIVES
+VNR Protocol-FMHM LAB/MED
+To introduce the student
+the fundamental theories
+and the
+industrial applications of
+fluid mechanics and
+hydraulic machines
+VNR Protocol-FMHM LAB/MED
+VNR Protocol-FMHM LAB/MED
+PURPOSE OF THIS LABORATORY
+To give practical understanding of the
+theoretical concepts taught in the class, by
+conducting the experiments as a part of B.Tech.
+Course as per the JNTU Curriculum for the
+following Engineering Branches
+Mechanical Engineering
+
+Automobile Engineering
+
+Civil Engineering
+
+Electrical & Electronics Engineering
+
+VNR Protocol-FMHM LAB/MED
+ The purpose of this laboratory is to reinforce
+and enhance your understanding of the
+fundamentals of Fluid mechanics and Hydraulic
+machines.
+ The experiments here are designed to
+demonstrate the applications of the basic fluid
+mechanics principles and to provide a more
+intuitive and physical understanding of the
+theory
+Verification of Bernoulli’s Principle
+1.
+Calibration of Venturi Meter
+2.
+Calibration of V-Notch
+3.
+Determination of Friction factor for a given Pipe Line
+4.
+Determination of loss of head in different fittings in a
+5.
+pipeline
+Impact of jets on Vanes
+6.
+VNR Protocol-FMHM LAB/MED
+7. Performance Test on Pelton Turbine
+8. Performance Test on Francis Turbine
+9. Performance Test on Kaplan Turbine
+10. Performance Test on Single Stage Centrifugal Pump
+11. Performance Test on Multi Stage Centrifugal Pump
+12. Performance Test on Reciprocating Pump
+VNR Protocol-FMHM LAB/MED
+Fluid Flow Experiments
+1.
+Hydro Power consuming Devices
+2.
+-Hydraulic Turbines
+Hydro Power Producing Devices
+3.
+-Hydraulic Pumps
+VNR Protocol-FMHM LAB/MED
+VNR Protocol-FMHM LAB/MED
+Bernoulli’s Principle
+VNR Protocol-FMHM LAB/MED
+A vacuum cleaner is a device that
+uses an air pump (a centrifugal fan in
+all but some of the very oldest
+models), to create a partial
+vacuum to suck up dust and dirt,
+usually from floors, and from other
+surfaces such as upholstery and
+draperies.
+Applications: homes as well as in
+industry.
+vacuum cleaner
+Pitot Tube
+VNR Protocol-FMHM LAB/MED
+Venturi-Meter
+Venturi Meter is a device which is
+used to measure the discharge in
+the pipe flow
+Applications:
+The Flow of Chemicals in Pipelines
+Flow in Carburetors
+Measurement Of Blood In Vessels
+Uses of venturi-Meter in industry
+VNR Protocol-FMHM LAB/MED
+Venturi-Meter
+VNR Protocol-FMHM LAB/MED
+Orifice-Meter
+VNR Protocol-FMHM LAB/MED
+An Orifice-Meter is essentially a thin circular plate with a sharp
+edged concentric circular hole in it. It can used to meter lube oil,
+cooling water systems, and compressed air flow.
+Orifice Meter is a device which is used to measure the discharge in the pipe flow
+VNR Protocol-FMHM LAB/MED
+V Notch
+The V-notch weir is a triangular
+channel section, used to measure
+small discharge values.
+VNR Protocol-FMHM LAB/MED
+Pipe Friction
+VNR Protocol-FMHM LAB/MED
+Pipe Fittings
+VNR Protocol-FMHM LAB/MED
+VNR Protocol-FMHM LAB/MED
+Impact of Jet
+ In each case it is assumed that there is no
+splashing or rebound of the water from the
+surface
+ Jet propulsion means propulsion or movement
+of the bodies such as ships, rockets, aircrafts ,
+Hydraulic Machines, etc with the help of jet.
+VNR Protocol-FMHM LAB/MED
+2nd Cycle
+Hydraulic Machines
+VNR Protocol-FMHM LAB/MED
+Hydraulic Electric
+power Plant
+VNR Protocol-FMHM LAB/MED
+Hydraulic Electric
+power Plant
+VNR Protocol-FMHM LAB/MED
+Pelton Turbine
+VNR Protocol-FMHM LAB/MED
+VNR Protocol-FMHM LAB/MED
+Francis Turbine
+VNR Protocol-FMHM LAB/MED
+VNR Protocol-FMHM LAB/MED
+
+
+VNR Protocol-FMHM LAB/MED
+VNR Protocol-FMHM LAB/MED
+VNR Protocol-FMHM LAB/MED
+VNR Protocol-FMHM LAB/MED
+VNR Protocol-FMHM LAB/MED
+VNR Protocol-FMHM LAB/MED
+VNR Protocol-FMHM LAB/MED
+VNR Protocol-FMHM LAB/MED
+Multi stage Centrifugal
+Pumps
+VNR Protocol-FMHM LAB/MED
+Reciprocating Pump
+VNR Protocol-FMHM LAB/MED
+VNR Protocol-FMHM LAB/MED
+Thank Q
+&
+????
+VNR Protocol-FMHM LAB/MED
+Automotive Simulation
+Lab Protocol
+Objectives and outcomes
+COURSE OBJECTIVES:
+• To introduce the basics of MATLAB & Simulink
+• To model and simulate vehicle subsystems
+• To model and simulate various powertrain systems
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the fundamentals of MATLAB & Simulink
+CO-2: Perform modelling and simulation of vehicle subsystems
+CO-3: Perform modelling and simulation of various powertrain systems
+LIST OF EXPERIMENTS
+1. Create variables and perform calculations using built-in functions
+2. Create vectors, matrices and perform calculations on arrays
+3. Data visualization using plot functions
+4. Visualization of signal values and data exchange between Simulink and MATLAB
+5. Modelling and simulation of cruise control model
+6. Modelling and simulation of a quarter car model
+7. Simulation of IC engine dynamometer model
+8. Modelling and simulation of IC engine powered vehicle
+9. Modelling and simulation of a DC motor
+10. Simulation of battery pack model
+11. Modelling and simulation of an electric vehicle
+12. Simulation of hybrid electric vehicle model
+What is MATLAB®?
+MATLAB® /Simulink® is a powerful software tool for:
+ Performing mathematical computations and signal
+processing
+ Analyzing and visualizing data (excellent graphics tools)
+ Modeling physical systems and phenomena
+ Testing engineering designs
+MATLAB Desktop
+You can select what is on your desktop by Clicking on Layout. Go
+down to Command History and select docked.
+Script Files
+Click on New Creates Blank
+Script Script File
+Save the file as CircleScript in your newly created folder
+.
+Note: Any line that starts with a % is a comment and
+turns green – it doesn’t execute.
+Simulink
+Examples
+Examples
+Simulink model
+Four speed transmission
+IC engine model
+Quarter car model
+Thank You

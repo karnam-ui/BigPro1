@@ -1,0 +1,230 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/mtechesp.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+AICTE Approved; UGC Autonomous; JNTUH Affiliated; UGC “College with Potential for Excellence”; NAAC “A++” Grade
+th
+ISO 9001:2015 Certified; QS I.GAUGE “Diamond” Rated; NIRF 2020: 127 Rank Engineering (151–200 Band Overall)
+NBA Accredited: CE, CSE, ECE, EEE, EIE, IT, ME; JNTUH-Recognised Research Centres: CE, CSE, ECE, EEE, ME
+DEPARTMENT OF ELECTRONIC AND COMMUNICATION ENGINEERING
+M. Tech (EMBEDDED SYSTEMS)
+About the Program:
+Master of Technology in Embedded Systemsis a two-year post-graduate program dedicated to
+enlightening students within-depth knowledge on Embedded systems, its control, real-time
+systems, model-based design and verification, PCB level integration, processor architecture and the
+applications of embedded systems in real-life. The program offer students with a strong base of
+Embedded Systems principles and applications in scientific and engineering domains.
+Brief view of the Program:
+✓ Program Name: M. Tech (Embedded Systems)
+✓ Duration: 2 Years (4Semesters)
+✓ Offered by the Department: Electronics & Communication Engineering
+✓ Program offered since:2006
+✓ Sanctioned Intake: 18
+Objectives of the Program:
+❖ Demonstrate outstanding analytical & technical skills to evaluate, analyze and solve real time
+problems in Embedded Systems.
+❖ Apply the acquired knowledge to solve engineering problems to suit multidisciplinary
+situations.
+❖ Undertake research and development projects in the field of Embedded Systems.
+❖ Continue the personal development through professional study and self-learning.
+❖ Demonstrate their professional, ethical and social responsibilities and contribute their part for
+addressing various global issues.
+Expected outcomes / deliverables of the Program:
+After the successful completion of the program, students of the program will exhibit the following
+attributes:
+❖ Apply the acquired knowledge from undergraduate engineering and other disciplines to
+identify, formulate and present solutions to technical problems related to various areas of
+Embedded Systems.
+❖ Learn advanced technologies and analyze complex problems in the fields of Embedded System
+design along with the fundamental concepts of engineering.
+❖ Addressing specific problems in the field of Embedded System in the form of mini projects,
+analysis, and interpretation of data and synthesis of information to provide valid conclusions by
+considering societal and environmental factors in the core areas of expertise.
+❖ Plan and conduct systematic study on a significant research topic effective to the societal,
+health, legal and environmental issues in the field of Embedded Systems.
+❖ Use the techniques, skills, modern Integrated Development Environment (IDE) tools, Operating
+systems, software and equipment necessary to evaluate and analyze the systems in Real time
+environments.
+❖ Ability to manage team effectively and become good leaders.
+❖ Understand the scenario of global business.
+❖ Demonstrate effective oral and written communication skills in accordance with technical
+standards.
+❖ Develop confidence and motivation for self-education and imbibe professional values for
+lifelong learning.
+❖ Understand and commit to professional ethics, social responsibilities and norms of engineering
+practice.
+❖ Become knowledgeable about contemporary developments by self-learning.
+Unique outcomes / deliverables of this Program include:
+➢ Identify, formulate and solve engineering problems in the broad areas like System Design using
+Embedded Platforms, Applications in Signal Processing, Machine Vision , Artificial Intelligence
+and Communication Networks.
+➢ Use different software tools in the domain of Embedded Systems, for developing applications
+based on ARM processor core SoC and DSP processor.
+➢ Integrate multiple sub-systems to optimize performance of Embedded Systems and excel in
+industry sectors related to Embedded Systems domain.
+Embedded System Design Program Highlights:
+o M. Tech Embedded Systems is a PG Program is approved by UGC, AICTE and JNTU Hyderabad
+o It is of four semesters that makes the student to explore contemporary technologies and
+makes the student industry ready with a focus towards research and promotes self-learning.
+o Dedicated faculty with rich experience to provide exploration of good opportunities.
+o This offers a set of core programs and elective programs, allowing students to specialize in
+Internet of Things, Machine Learning, Embedded System Design and Implementation
+methodologies.
+o This program makes use of Languages and Tools such as Embedded C, Python, Verilog HDL,
+C++, Data Structures, MATLAB, Keil u Vision 5, Code Composer Studio, GCC Compiler, Xilinx-
+ISE.
+o Improves the research methodology and self-learning using Technical seminars and project
+works.
+o The Dissertation (Major Project Work) in the third and final semester enables students to
+closely work with faculty with funded projects with good stipend / work with industry using
+internships that enables the student to see many opportunities after the graduation and they
+project their project work in renowned journals or conferences.
+o This program uses a Continuous Evaluation System, mentoring and monitoring by a
+dedicated program coordinator who will assist the students in the entire journey of 2 years
+of the program and motivates the students towards the dreams accomplishment.
+o Uses the latest teaching methodologies like WIT & WIL, Program Based Projects, Learning By
+Doing, Lab Protocol, Story Board that escalates the learning process of the students.
+o Visit to industry premises in regular time that stimulates the students to be ready for
+industry orientation / research promotion.
+o Facilitates the student world-class infrastructure like High-end computing facility (Dedicated
+servers, GPUs, LMS and High-end PCs)
+Program Curriculum:
+The program curriculum of Embedded Systems is designed that meets the aspirations of the
+industry with practical approach, research orientation and with great social impact. The curriculum
+includes programs related to Core contents of the Course, Professional electives and Open electives.
+In each elective the Course offers a collection of rich and contemporary programs that enables the
+student a good choice.
+Semester-1 R18
+Course Course Name of the Course L T P Credits
+Type Code
+Core-I 18PC1VS01 Simulation and Synthesis with PLDs 3 0 0 3
+18PC1ES01 Processors for Embedded System
+Core-II 3 0 0 3
+Design
+18PC1ES02 Programming Languages for
+Core-III 3 0 0 3
+Embedded Software
+18PE1ES01 Artificial Intelligence
+PE-I 18PE1ES02 Internet of Things 3 0 0 3
+18PE1ES03 Communication Buses and Interfaces
+18PE1ES04 Parallel Processing
+PE-II 18PE1ES05 Advanced Communication Networks 3 0 0 3
+18PE1VS03 Advanced Digital Signal Processing
+Lab-1 18PC2VS01 Simulation and Synthesis with PLDs
+0 0 3 1.5
+Laboratory
+Lab-2 18PC2ES01 Processors for Embedded System
+0 0 3 1.5
+Design Laboratory
+Project 18PW4ES01 Technical Seminar 0 0 4 2
+Audit 18AU5CS01 Research Methodology and IPR 2 0 0 0
+Total 17 0 10 20
+Semester-2 R18
+Course Course Name of the Course L T P Credits
+Type Code
+Core-IV 18PC1ES03 System Design with Embedded Linux 3 0 0 3
+Core-V 18PC1ES04 Wireless and Mobile Communications 3 0 0 3
+Core-VI 18PC1CP03 Machine Learning 3 0 0 3
+18PE1ES06 SOC and NOC Architecture
+PE-III 18PE1ES07 Network Security and Cryptography 3 0 0 3
+18PE1ES08 Advanced Computer Architecture
+18PE1VS08 Image and video processing
+PE-IV 18PE1ES09 Sensors and Actuators 3 0 0 3
+18PE1ES10 High Performance Networks
+Lab-3 18PC2ES02 System Design with Embedded Linux
+0 0 3 1.5
+Laboratory
+Lab-4 18PC2ES03 Machine Learning and Wireless
+0 0 3 1.5
+Communications Laboratory
+Project 18PW4ES02 Mini Project 0 0 4 2
+Audit 18AU5EN01 English for Academic and Research
+2 0 0 0
+Writing
+Total 17 0 10 20
+Semester-3 R18
+Course Course Name of the Course L T P Credits
+Type Code
+18OE1MT01 Selected Topics in Mathematics
+PE- V 18PE1ES11 Wireless Sensor Networks 3 0 0 3
+18PE1VS09 Memory Technologies
+18OE1CN01 Business Analytics
+18OE1AM01 Industrial Safety
+OE 18OE1AM02 Operations Research 3 0 0 3
+18OE1AM03 Composite Materials
+18OE1PS01 Waste to Energy
+Project 18PW4ES03 Project Phase- I 0 0 16 8
+Total 6 0 16 14
+Semester-4 R18
+Course Course Name of the Course L T P Credits
+Type Code
+Project 18PW4ES04 Project Phase - II 0 0 28 14
+0 0 28 14
+Total Credits: 68
+Eligibility Criteria:
+BE/ B. Tech / AMIE in ECE /EEE/EIE orEquivalent.
+Career and Opportunities in Embedded Systems:
+Embedded System is the future. An embedded system gives capability to a device to perform fully
+automatic and semi-automatic task. Every industry needs some artificial intelligence into it and artificial
+intelligence can be given by embedded systems. No electronic product is without embedded systems in
+the market.Embedded Systems is very much suitable for anyone who want to make their career in Core
+domains such as Electronics, Embedded Systems, Software Programming, Robotics, IoT, AI, VLSI,
+DSP.Plenty of career opportunities are available in embedded systems like Embedded Firmware
+Engineer, System Software Engineer, Application Software Engineer, Software & Hardware Test
+Engineer, etc.A skilled embedded system developer has very high demand in all over the world.
+Embedded Laboratory Studio and NetSim
+✓ Prototyping using ARM development
+boards and Keil u Vision 5
+✓ Xilinx ISE tool for implementing Design
+on FPGA based Embedded Systems.
+✓ Training Machine Learning Models/Deep
+Learning Models on high end Nvidia’s
+Interactive sessions with Industry expert
+Graphic Processing Unit (GPU)
+✓ Upgraded MATLAB tool for Algorithmic
+Computation and advanced applications
+✓ High end Systems in laboratory to cope-
+up with the complexity of the Embedded
+Design
+✓ Training Sessions are conducted every
+Infrastructure week by industry experts to bridge the
+Numerous labs and facilities are set up to cater gap between academia and industry
+academic and research needs of the course in the
+department like Keil u Vision 4, GCC Compiler, Thunder BoardRaspberry Pi
+TivaC Development Boards, ARM Cortex M3/M4
+Development Boards, PYNQ Boards, Raspberry
+Pi 3 Boards, Beagle Boards,Arduino Boards,
+Silicon Lab Thunder Board Kits, Xilinx tools for
+Embedded SystemProgramming, Prototyping,
+Linux Device Drivers Development, FPGA based
+Research Facilities in the Department
+Embedded Design....
+Department is facilitated with exclusive research
+✓ Edge Computing for Internet of Things
+labs such as Internet of Things (IoT) laboratory,
+(IoT) using ARM Development Boards
+Machine Vision Laboratory, Mobile Vision
+✓ Implementation of Signal Processing,
+Applications Laboratory and RFID and WSN
+Networking and Wireless Sensor
+Applications Laboratory
+Applications using Code Composer
+Training & Placement
+Placement Summary/ Year 2015–’17 2017–’19 2018–’20
+Eligible Students 14 13 11
+Placed Students 11 9 6
+(still in
+progress)
+Percentage Placed 78 70 55
+• 26 placed out of 38 eligible students from last three years. Still the placement process is in
+progress.
+• Students initially join as intern in AMD, TCS, Robert BOSCH, Tech Mahindra and Silicon Labs
+through internship with 100% employability. After internship period, they may convert to
+employee with high salary package.
+• 22 students acquired internship in Embedded Systems Domain from last three years.
+Our Prominent Recruiters
+MOU with Industries
+Students involved in Research projects sponsored by ITRA, DRDO, AICTE, UGC,etc..

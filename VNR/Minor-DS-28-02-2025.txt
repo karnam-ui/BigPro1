@@ -1,0 +1,409 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/syllabus-books/Minor-DS-28-02-2025.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY HYDERABAD
+B.TECH. MINOR IN DATA SCIENCE
+COURSE STRUCTURE AND SYLLABUS
+(Applicable for the batches admitted from the academic year 2022-2023)
+V SEMESTER R22
+Course
+Title of the Course L T P/D CH C
+Code
+22MC1DS301 Fundamentals of Data Science 3 0 0 3 3
+22MC2DS301 Python Programming Laboratory 0 0 3 3 1.5
+Total 3 0 3 6 4.5
+VI SEMESTER R22
+Course
+Title of the Course L T P/D CH C
+Code
+22MC1DS302 Data Science Models and Applications 3 1 0 4 4
+Total 3 1 0 4 4
+VII SEMESTER R22
+Course
+Title of the Course L T P/D CH C
+Code
+Data Wrangling and Visualization
+22MC1DS401 3 0 0 3 3
+Strategies
+Data Wrangling and Visualization
+22MC2DS401 0 0 3 3 1.5
+Strategies Laboratory
+Total 3 0 3 6 4.5
+VIII SEMESTER R22
+Course
+Title of the Course L T P/D CH C
+Code
+22MC1DS402 Time Series Analysis and Forecasting 3 0 0 3 3
+22MP1DS401 Mini – Project 0 0 4 4 2
+Total 3 0 4 7 5
+L – Lecture T – Tutorial P – Practical D – Drawing CH – Contact Hours/Week
+C – Credits SE – Sessional Examination CA – Class Assessment ELA – Experiential Learning Assessment
+SEE – Semester End Examination D-D – Day to Day Evaluation LR – Lab Record
+CP – Course Project PE – Practical Examination
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (DS) V Semester
+(22MC1DS301) FUNDAMENTALS TO DATA SCIENCE
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To learn concepts, techniques, and tools they need to deal with various facets of
+data science practice, including data collection and integration
+• To understand the basic types of data and basic statistics
+• To exploring data analysis, predictive modeling, descriptive modeling, data
+product creation, evaluation, and effective communication
+• To identify the importance of data reduction and data visualization techniques
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand basic terms, what Statistical Inference means, Identify probability
+distributions commonly used as foundations for statistical modeling and fit a model to
+data
+CO-2: Describe the data using various statistical measures
+CO-3: Utilize R elements for data handling
+CO-4: Perform data reduction and apply visualization techniques
+COURSE ARTICULATION MATRIX:
+(Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+UNIT-I:
+What is Data Science? Three pillars of data science, Types of Data, Cumulative
+Distribution Function, Normal Distribution, Standard Normal Distribution, Empirical Rule,
+and Related Problems, Assessing Normality, Binomial Distribution, Poisson Distribution,
+Uniform distribution, Exponential distribution, lognormal distribution
+UNIT-II:
+Central limit theorem, K-S Test for similarity of two distributions, power law and pareto
+distribution, box-cox transform, Interpretation of Chebyshev’s inequality, Descriptive
+statistics, Inference statistics, Measures of Central Tendency, kurtosis, skewness.
+UNIT-III:
+Classification: Conditional probability, example of condition probability, independent
+events, mutually exclusive events, Bayes theorem and related problems, Naive Bayes
+algorithm and its mathematical interpretation, problem on Naive Bayes algorithm.
+Feature importance and interpretability. Imbalanced data, outliers in Naive Bayes,
+multiclass classification.
+UNIT-IV:
+Regression, and its basics. Types of regression, regression process. Linear Regression:
+Empirical model, Geometrical interpretation of linear regression, derivation, Logistic
+Regression.
+UNIT-V:
+Why learn PCA, Geometric intuition of PCA, Eigen values and Eigen vectors, visualizing
+MNIST dataset, Limitations of PCA, PCA code example, PCA for dimensionality
+reduction.
+TEXT BOOKS:
+1. Doing Data Science, Straight Talk from The Frontline, Cathy O’Neil and Rachel
+Schutt, O’Reilly, 2014
+2. Data Mining: Concepts and Techniques, Jiawei Han, Micheline Kamber and Jian
+Pei, 3rd Edition, The Morgan Kaufmann Series in Data Management Systems
+3. Statistical programming in R, K. G. Srinivas, G. M. Siddesh, Oxford Publications
+REFERENCES:
+1. Introduction to Data Mining, Pang-Ning Tan, Vipin Kumar, Michael Steinbanch,
+Pearson Education
+2. A Handbook of Statistical Analysis Using R, Brain S. Everitt, 2nd Edition, 4 LLC, 2014
+3. Introductory statistics with R, Dalgaard Peter, Springer Science & Business Media,
+2008
+4. R Cookbook, Paul Teetor, O’Reilly, 2011
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (DS) V Semester
+(22MC2DS301) PYTHON PROGRAMMING LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 3 1.5 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To introduce visual perception and core skills for visual analysis
+• To develop skills to both design and critique visualizations
+• To obtain a comprehensive knowledge of various tools and techniques for data
+science
+• To analyses the various methods of data collection
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the basic concepts of NumPy and Pandas
+CO-2: Apply and interpret fundamental concepts of data science
+CO-3: Explore the basics of data visualization
+CO-4: Implementation of advanced data visualization
+COURSE ARTICULATION MATRIX:
+(Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+LIST OF EXPERIMENTS / PROGRAMS:
+WEEK 1,2:
+1. Create NumPy arrays from Python Data Structures, Intrinsic NumPy objects and
+Random Functions.
+2. Manipulation of NumPy arrays- Indexing, Slicing, Reshaping, Joining and Splitting.
+3. Computation on NumPy arrays using Universal Functions and Mathematical
+methods.
+4. Import a CSV file and perform various Statistical and Comparison operations on
+rows/columns.
+5. Load an image file and do crop and flip operation using NumPy Indexing.
+WEEK 3, 4, 5:
+1. Create Pandas Series and Data Frame from various inputs.
+2. Import any CSV file to Pandas Data Frame and perform the following:
+a) Visualize the first and last 10 records.
+b) Get the shape, index and column details.
+c) Select/Delete the records (rows)/columns based on conditions.
+d) Perform ranking and sorting operations.
+e) Do required statistical operations on the given columns.
+f) Find the count and uniqueness of the given categorical values.
+g) Rename single/multiple columns.
+WEEK 6, 7, 8:
+1. Develop a model on residual analysis of simple linear regression.
+2. Residual plots of linear regression
+3. Normal probability plots.
+4. Empirical model of linear regression analysis.
+WEEK 9, 10, 11:
+1. Import any CSV file to Pandas Data Frame and perform the following:
+a) Handle missing data by detecting and dropping/ filling missing values.
+b) Transform data using apply () and map() method.
+c) Detect and filter outliers.
+d) Perform Vectorized String operations on Pandas Series. 2. Implement regularized
+Linear regression.
+e) Develop a model on logistic regression on any data set for prediction.
+WEEK 12, 13 & 14:
+1. Visualize data using Line Plots, Bar Plots, Histograms, Density Plots and Scatter Plots.
+2. Download the House Pricing dataset from Kaggle and map the values to 23
+Aesthetics.
+3. Use different Color scales on the Rainfall Prediction dataset.
+4. Create different bar plots for variables in any dataset.
+5. Show an example of Skewed data and removal of skewedness.
+6. For a sales dataset do Time Series visualization.
+7. Build a Scatterplot and suggest dimension reduction.
+WEEK 15: LAB INTERNAL.
+TEXTBOOKS:
+1. Computational and Inferential Thinking: The Foundations of Data Science, Adi
+Adhikari and John De Nero, 1st Edition, 2019
+2. Doing Data Science, Straight Talk from The Frontline, Cathy O’Neil and Rachel
+Schutt, O’Reilly, 2014
+3. Fundamentals of Data Visualization: A Primer on Making Informative and
+Compelling Figures, Claus Wilke, 1st Edition, O’Reilly, 2019
+REFERENCES:
+1. Mining of Massive Datasets, v2.1, Jure Leskovek, Anand Rajaraman and Jeffrey
+Ullman, Cambridge University Press, 2014
+2. Practical Statistics for Data Scientists: 50 Essential Concepts, Bruce Peter, and
+Andrew Bruce, O'Reilly, 2017
+3. Data Analysis and Visualization Using Python: Analyze Data to Create Visualizations
+for BI Systems, Ossama Embarak, Press, 2018
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (DS) VI Semester
+(22MC1DS302) DATA SCIENCE MODELS AND APPLICATIONS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 1 4 30 5 5 60 100
+COURSE OBJECTIVE:
+• To provide deep knowledge of Data Science and how it can be applied in various
+fields to make the life easy
+• To obtain a comprehensive knowledge of various applications of Data Science
+• To understand the concept of PCA and its related applications
+• To analyze the use of data in various Data Science applications i.e., in education,
+social media, health care, bioinformatics
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Correlate the data science and solutions to modern problem
+CO-2: Decide when to use which type of technique in data science
+CO-3: Applying various Data Science techniques to education and social media
+CO-4: Analyse various applications of Data Science in health care and bio informatics
+COURSE ARTICULATION MATRIX:
+(Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+UNIT-I:
+Data Science Applications in various domains, Challenges and opportunities, tools for
+data scientists. Recommender systems – Introduction, methods, application,
+challenges.
+Principle Component Analysis: For dimensionality and its reduction, Data Visualization
+with MNIST Dataset, Geometric interpretation of Eigen values, column
+Standardization.
+UNIT-II:
+Time Series Data: Stock market index movement forecasting.
+Supply Chain Management: Real world case study in logistics.
+Support Vector Machines: Geometric interpretation, kernel trick, polynomial kernel,
+RBF kernel, Domain specific kernel. Decision tree, sample decision tree, building a
+decision tree with entropy, information gain, Gini-impurity.
+UNIT-III:
+Data Science in Education, social media.
+Text Vectorization: Text2vector, Bag of Words (BOW), Stemming, Unigram, Bigram,
+TFIDF, word2vector, Avgw2vector, TFIDF Weight edWord2Vector, Count Vectorizing,
+Ngrams, Implementation of TFIDF, Word2Vector.
+UNIT-IV:
+Data Science in Healthcare, Bioinformatics,
+Introduction to t-SNE, Geometrical interpretation of t-SNE, How to use t-SNE effectively
+t-SNE with MNIST dataset.
+UNIT-V:
+Logistic regression, K-nearest neighbour, Naive Bayes algorithm, imbalanced data vs
+balanced data set.
+Case studies in data optimization using Python
+TEXT BOOKS:
+1. Data Science and its Applications, Aakanksha Sharaff, G. K. Sinha, CRC Press, 2021
+2. Data Science: Theory, Analysis and Applications, Q. A. Menon, S. A. Khoja, CRC
+Press, 2020
+REFERENCES:
+1. Principal Component Analysis, I. T. Jolliffe, 2nd Edition, Springer
+2. Machine Learning, Tom M. Mitchell, McGraw-Hill
+3. The Elements of Statistical Learning, Trevor Hastie, Robert Tibshirani, Jerome
+Friedman, 2nd Edition, Springer
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (DS) VII Semester
+(22MC1DS401) DATA WRANGLING AND VISUALIZATION STRATEGIES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To learn data wrangling techniques
+• To introduce and understand the concept of visual perception
+• To acquire core skills for visual analysis
+• To apply the visualization techniques in real-life applications
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand data wrangling and cleaning using NumPy and pandas
+CO-2: Apply preprocessing techniques like formatting, outliers, and normalization
+CO-3: Create visual representations using various plotting techniques
+CO-4: Analyze and interpret multi-dimensional data using visualization techniques
+CO-5: Evaluate advanced visualization methods for effective decision-making
+COURSE ARTICULATION MATRIX:
+(Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12
+CO-1 3 2 2 3 3 2 2 - 2 2 2 3
+CO-2 3 2 3 2 3 3 2 - 2 2 2 3
+CO-3 3 2 2 3 3 3 1 - 3 2 2 2
+CO-4 3 2 2 3 2 2 1 -- 3 2 2 3
+CO-5 3 2 2 3 2 2 2 3 2 2 3
+UNIT-I:
+Introduction: Introductory focus on Python Data structure for NumPy & pandas,
+Auditing data to improve quality.
+Data Wrangling: Introduction, Need of data cleanup, data clean up basics.
+UNIT-II:
+Tasks of Data Wrangling: Data wrangling tools with – formatting, outliers, duplicates,
+Normalizing and standardizing data. Importance of analytics and visualization in the
+era of data abundance.
+UNIT-III:
+Introduction of Visual Perception: visual representation of data, Gestalt principles,
+information overloads. Creating visual representations, visualization reference model,
+visual mapping, visual analytics, Design of visualization applications.
+Basic Plotting: Line plot - Bar plot - Pie Chart - Scatter Plot - Histogram
+UNIT-IV:
+Classification of visualization systems, Interaction and visualization techniques
+misleading, Visualization of one, two and multi-dimensional data, text and text
+documents, Visualization of groups, trees, graphs, clusters, networks, software,
+Metaphorical visualization.
+UNIT-V:
+Visualization of volumetric data, vector fields, processes and simulations, Visualization
+of maps, geographic information, GIS systems, collaborative visualizations, evaluating
+visualizations
+TEXT BOOKS:
+1. Data Wrangling with Python: Tips and Tools to Make Your Life Easier, Jacqueline
+Kazil and Katharine Jarmul, O’Reilly
+2. Interactive Data Visualization: Foundations, Techniques, and Applications, Ward,
+Grinstein Keim, Natick A. K., Peters Ltd.
+REFERENCES:
+1. The Visual Display of Quantitative Information, E. Tufte, Graphics Press
+2. Data Wrangling with Python: Creating Actionable Data from Raw Sources, Dr.
+Tirthajyoti Sarkar, Shubhadeep Roy Chowdhury, Packet Publishing, 2019
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (DS) VII Semester
+(22MC2DS401) DATA WRANGLING AND VISUALIZATION STRATEGIES LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 3 1.5 10 10 10 10 60 100
+COURSE OBJECTIVES:
+• To learn data wrangling techniques
+• To introduce and understand the concept of visual perception
+• To acquire core skills for visual analysis
+• To apply the visualization techniques in real-life applications
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Perform experimentation on data wrangling
+CO-2: Explain principles of visual perception with datasets
+CO-3: Apply visualization techniques for various data analysis tasks
+CO-4: Evaluate visualization techniques
+CO-5: Apply the visualization in different real time applications.
+COURSE ARTICULATION MATRIX:
+(Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12
+CO-1 3 2 2 3 3 2 1 - 2 2 2 3
+CO-2 3 2 3 2 3 3 2 - 2 2 2 3
+CO-3 3 2 2 3 3 3 2 - 3 2 3 2
+CO-4 3 2 2 3 2 2 1 - 3 2 2 3
+CO-5 3 3 2 3 2 3 2 - 2 2 3 3
+LIST OF EXPERIMENTS:
+Implement the following experiments using Python
+1. Find missing values and perform data imputation
+2. Find outliers in a chosen dataset
+3. Methods to handle duplicate data
+4. Perform data normalization
+5. Explore 2-D charts such as Clustered bar charts, connected dot plots, pictograms,
+bubble charts, radar charts, polar charts, Range chart, Box-and- whisker plots,
+univariate scatter plots, histograms word cloud, pie chart, waffle chart, stacked
+bar chart, tree map.
+6. Multi-dimensional data visualization
+7. Graph data visualization
+TEXT BOOKS:
+1. Data Wrangling with Python: Tips and Tools to Make Your Life Easier, Jacqueline
+Kazil and Katharine Jarmul, O’Reilly
+2. Data Visualization A Handbook for Data Driven Design, Andy Kirk, Sage
+Publications, 2016
+3. Understanding Data with Graphs, Philipp K. Janert, Gnuplot in Action, Manning
+Publications, 2010
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. Minor (DS) VIII Semester
+(22MC1DS402) TIME SERIES ANALYSIS AND FORECASTING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To learn basic analysis of time series data and time series regression
+• To learn auto-regressive and model averaging models
+• To learn basic concepts of forecasts for a time series data
+• To learn how to perform the advanced computation like Multivariate Time Series
+Models and Forecasting
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply ideas to real time series data and interpret outcomes of analyses.
+CO-2: Learn how to construct a time-series plot &amp; identifying the underlying
+patterns in the data
+CO-3: Learn basic concepts featurization techniques in time series analysis
+CO-4: Learn how to develop forecasts for a time series that has a seasonal pattern
+CO-5: Demonstrate an advanced understanding of the underlying concepts in the
+time series and frequency domains for computation, visualization, and analysis of time
+series data
+COURSE ARTICULATION MATRIX:
+(Correlation of Course Outcomes with Program Outcomes and Program Specific Outcomes using
+mapping levels 1 = Slight, 2 = Moderate and 3 = Substantial)
+PROGRAM OUTCOMES (PO)
+CO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12
+CO-1 3 3 2 3 3 2 - - 2 2 2 3
+CO-2 3 2 3 2 3 3 - - 2 2 2 3
+CO-3 3 2 3 3 3 3 - - 3 2 3 2
+CO-4 3 2 2 3 2 2 - - 3 2 2 3
+CO-5 3 2 2 3 2 3 - - 2 2 3 2
+UNIT-I:
+Introduction of time series analysis, The Nature of Time Series Data, Internal structures
+of time series, Time Series Statistical Models, Moving Window for Time series data.
+UNIT-II:
+Fourier decomposition, deep learning features LSTM, Image Histogram, Deep learning
+feature CNN, Relational data, Graph data, Indicator Variable, Feature binning,
+interaction variable.
+UNIT-III:
+Mathematical transforms, Model specific featurizations, Feature orthogonality,
+Domain specific featurizations, Feature slicing.
+Kaggle Winner Solutions: Students are suggested to carry out with at least 3 Kaggle
+winner competition case study solutions and present the report for
+that. (https://www.kaggle.com/code/sudalairajkumar/winning-solutions-of- kaggle-
+competitions)
+UNIT-IV:
+Autocorrelation and Partial autocorrelation, General Approach to Time Series
+Modelling and Forecasting, Evaluating and Monitoring Forecasting Model
+Performance, Introduction Least Squares Estimation in Linear Regression Models,
+Statistical Inference in Linear Regression.
+UNIT-V:
+Model Adequacy Checking, Regression Models for General Time Series Data.
+Exponential Smoothing, First order and Second order, Multivariate Time Series Models
+and Forecasting, Multivariate Stationary Process, ARIMA model, Vector AR (VAR)
+Models.
+TEXT BOOKS:
+1. Introduction to Time Series Analysis and Forecasting, Douglas C. Montgomery,
+Cheryl L. Jen, 2nd Edition, Wiley Series in Probability and Statistics, 2015
+2. Master Time Series Data Processing, Visualization, and Modeling Using Python, Dr.
+Avishek Pal, Dr. P. K. S. Prakash, 2017
+REFERENCES:
+1. Introduction to Time Series Analysis, P. J. Brockwell and R. A. Davis
+2. Time Series Analysis and Its Applications, Robert H. Shumway and David S. Stoffer
+3. Introduction to Statistical Time Series, W. A. Fuller
+4. Time Series Analysis, Wilfredo Palma

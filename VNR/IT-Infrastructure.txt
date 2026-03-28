@@ -1,0 +1,76 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/IT_pdfs/IT-Infrastructure.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for B.Tech. CE,EEE,ME,ECE,CSE,EIE,IT,AME, M.Tech. STRE, PE, AMS, SWE Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF (2022) 113th Rank in Engineering Category
+College with Potential for Excellence by UGC,JNTUH-Recognized Research Centres:CE,EEE,ME,ECE,CSE
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O.), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+Department of Information Technology
+Details of Laboratories and Computing Facility
+No.
+S.No Room Name of the System Name Name of the
+of Processor RAM HDD
+No Lab (Make/Model) Software Usage
+Units
+Intel(R) Core(TM)
+HP Pro Tower 280 500 JDK(Java), Apache
+36 i7-12700 @ 2.10 8 GB
+G9 RCTO PC1 GB Tomcat, Turbo C++.
+GHz
+1 A-109 Web Technologies
+SERVER: DELL Intel Xenon E3- Oracle 11g, RED
+1 32 GB 4 TB
+Poweredge T350 2378G @ 2.8 GHz HAT LINUX.
+Intel(R) Core(TM) Hadoop, PIG, HIVE,
+2 A-110 Data Analytics 36 Lenovo S510 i3-7100 @ 3.70 8 GB 1 TB Open Office, Turbo
+GHz C++.
+Intel(R) Core(TM) Python, R Language &
+Data Visualization Lenovo V 520
+3 A-111 36 i3-7100 @ 3.90 8 GB 1 TB R Studio, Open Office,
+Laboratory Tower Gen7 B250
+GHz Turbo C++.
+MySql, IBM Rational
+Software Intel(R) Core(TM)
+OptiPlex Tower Software Architect
+4 A-112 Engineering 36 i7-13700 @ 2.10 16 GB 1 TB
+7010 Design, Turbo C++,
+GHz
+Laboratory Open Office.
+Java Intel(R) Core(TM) JDK(Java), Eclipse
+DELL VOSTRO
+5 A-113 Programming 36 i7-10700 @ 2.90 8 GB 1 TB IDE, Turbo C++,
+3888 DESKTOP
+Laboratory GHz Open Office.
+Intel(R) Core(TM) Anaconda
+Machine Learning OptiPlex Tower
+6 A-114 36 i7-13700 @ 2.10 16 GB 1 TB Framework, Turbo
+Laboratory 7010
+GHz C++.
+Computer
+Intel(R) Core(TM) Python, Mysql, Php,
+Networks and DELL VOSTRO
+7 P-219 20 i7-10700 @ 2.90 8 GB 1 TB Code blocks, Java,
+Information 3888 DESKTOP
+GHz NS2, Nmap tool.
+Security
+Exclusive Resources and Computing Facility for Research
+S.No No. of
+System Name (Make/Model) Processor RAM HDD
+Units
+LENOVO ST550 Intel Xeon Bronze 3206 R, 8+8
+1 128 GB 2 TB 1
+NVIDIA RTX A 2000 6GB GDDR5 Cores, 16+16 Threads, 1.90Ghz
+Assembled:
+NVIDIA GEFORCE RTX 2080 SUPER 8 GB Intel(R) Core (TM) i7-9700F @ 3
+2 32 GB 2 TB 2
+GDDR6 GHz
+HOD-IT
+Dr. N Mangathayaru

@@ -1,0 +1,2185 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/mtechsyl/A18EIE.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+A18
+M.Tech. (ELECTRONICS & INSTRUMENTATION)
+M.Tech. Amended R18 [A18] CBCS Curriculum
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for B.Tech. CE, EEE, ME, ECE, CSE, EIE, IT Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF 135th Rank in Engineering Category
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+VISION OF TH E INSTITUTE
+To be a World Class University providing value-
+based education, conducting interdisciplinary
+research in cutting edge technologies leading to
+sustainable development of the nation
+MISSION OF T HE INSTITUTE
+➢ To produce technically competent and socially
+responsible engineers, managers and
+entrepreneurs, who will be future ready.
+➢ To involve students and faculty in innovative
+research projects linked with industry, academic
+and research institutions in India and abroad.
+➢ To use modern pedagogy for improving the
+teaching-learning process.
+VNRVJIET M.TECH. E & I A18 CURRICULUM 2
+DEPARTMENT OF
+ELECTRONICS
+AND
+INSTRUMENTATION
+ENGINEERING
+VNRVJIET M.TECH. E & I A18 CURRICULUM 3
+VISION OF THE DEPARTMENT
+A resource center of academic excellence for
+imparting quality technical education, meeting the
+need of students at National and International
+levels and imbibing strong ethical values, to
+improve the standards of the society.
+MISSION OF TH E DEPARTMENT
+➢ To impart quality education in the domain of
+Electronics and Instrumentation Engineering by
+Implementing learning centric processes.
+➢ To provide specific best of breed laboratory
+practices to promote diverse collaborative
+research for meeting the changing societal
+needs.
+VNRVJIET M.TECH. E & I A18 CURRICULUM 4
+M.TECH.
+(ELECTRONICS AND INSTRUMENTATION)
+VNRVJIET M.TECH. E & I A18 CURRICULUM 5
+M.TECH. (EI)
+PROGRAM EDUCATIONAL OBJECTIVES
+PEO-I: To excel in professional career and/or higher education by
+acquiring knowledge in measurements, transduction, and instrumentation
+engineering principles.
+PEO-II: To enhance knowledge to design & develop advanced
+instrumentation and automation systems for remote monitoring and
+control applications.
+PEO-III: To analyze real life problems, design data acquisition systems
+with computing platforms appropriate to Electronics and Instrumentation
+that are economically feasible and acceptable.
+PEO-IV: To acquire soft skills through teamwork, presentations, seminar,
+and dissertation.
+PEO-V: To serve research and development organizations to solve the
+problems raised in the industries and society and involve in lifelong
+learning.
+VNRVJIET M.TECH. E & I A18 CURRICULUM 6
+M.TECH. (EI)
+PROGRAM OUTCOMES
+PO-1: To independently carry out research /investigation and
+development work to solve practical problems.
+PO-2: To write and present a substantial technical report/document.
+PO-3: To demonstrate a degree of mastery over the area as per the
+specialization of the program.
+PO-4: To identify suitable sensors and transducers for real time
+applications.
+PO-5: To acquire Knowledge of Instrumentation Engineering with ability
+to evaluate, analyze and synthesize problems related to process-oriented
+industries.
+PO-6: To use innovative technologies, skills and modern engineering
+tools to carry out projects related to real life applications like Robotics,
+Analytical and biomedical instruments.
+VNRVJIET M.TECH. E & I A18 CURRICULUM 7
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. I YEAR COURSE STRUCTURE AND SYLLABUS
+(ELECTRONICS AND INSTRUMENTATION)
+I SEMESTER A18
+Course Type Course Code Name of the Course L T P Credits
+Professional
+A18PC1LI01 Transducers and Applications 3 0 0 3
+Core-I
+Professional
+A18PC1LI02 Signal Conditioning Circuits 3 0 0 3
+Core-II
+Professional Process Instrumentation and
+A18PC1LI03 3 0 0 3
+Core-III Control
+Instrumental Methods of Chemical
+A18PE1LI01
+and Physical Analysis
+Professional Optical Electronics and Laser
+A18PE1LI02 3 0 0 3
+Elective-I Instrumentation
+Instrumentation Practices in
+A18PE1LI03
+Industries
+A18PE1LI04 Neural Networks and Fuzzy Systems
+Professional
+A18PE1LI05 Data Acquisition Systems 3 0 0 3
+Elective -II
+Pollution Control in Process
+A18PE1LI06
+Industries
+Professional
+A18PC2LI01 Instrumentation Laboratory 0 0 3 1.5
+Core Lab-I
+Professional
+A18PC2LI02 Process Control Laboratory 0 0 3 1.5
+Core Lab-II
+Project A18PW4LI01 Technical Seminar 0 0 4 2
+Audit A18AU5CS01 Research Methodology and IPR 2 0 0 0
+Total 17 0 10 20
+VNRVJIET M.TECH. E & I A18 CURRICULUM 8
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. I YEAR COURSE STRUCTURE AND SYLLABUS
+(ELECTRONICS AND INSTRUMENTATION)
+II SEMESTER A18
+Course Type Course Code Name of the Course L T P Credits
+Professional PLC, SCADA Programming and their
+A18PC1LI04 3 0 0 3
+Core-IV Applications
+Professional
+A18PC1LI05 Virtual Instrumentation 3 0 0 3
+Core-V
+Professional
+A18PC1LI06 Medical Electronics 3 0 0 3
+Core-VI
+A18PE1LI07 Micro Electro-Mechanical Systems
+Professional
+A18PE1LI08 Industrial and Power Electronics 3 0 0 3
+Elective-III
+Instrumentation in Pharmaceutical
+A18PE1LI09
+industries
+Instrumentation in Paper and Pulp
+A18PE1LI10
+Industries
+Professional Image Processing and Pattern
+A18PE1LI11 3 0 0 3
+Elective-IV Recognition
+A18PE1LI12 Adaptive Control Systems
+Professional Industrial Process Control Systems
+A18PC2LI03 0 0 3 1.5
+Core Lab-III Laboratory
+Professional
+A18PC2LI04 Virtual Instrumentation Laboratory 0 0 3 1.5
+Core Lab-IV
+Project A18PW4LI02 Mini-Project 0 0 4 2
+English for Academic and Research
+Audit A18AU 5EN01 2 0 0 0
+Writing
+Total 17 0 10 20
+VNRVJIET M.TECH. E & I A18 CURRICULUM 9
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. II YEAR COURSE STRUCTURE AND SYLLABUS
+(ELECTRONICS AND INSTRUMENTATION)
+III SEMESTER A18
+Course
+Course Type Name of the Course L T P Credits
+Code
+A18PE1LI13 Instrumentation in Power Plants
+Professional
+A18PE1LI14 IoT Technologies 3 0 0 3
+Elective-V
+Principles and Applications of Nano
+A18PE1LI15
+Sciences
+A18OE1CN01 Business Analytics
+A18OE1AM01 Industrial Safety
+Open 3 0 0 3
+A18OE1AM02 Operations Research
+Elective
+A18OE1AM03 Composite Materials
+A18OE1PS01 Waste to Energy
+Project A18PW4LI03 Project Part - I 0 0 16 8
+Total 6 0 16 14
+IV SEMESTER A18
+Course
+Course Type Name of the Course L T P Credits
+Code
+Project A18PW4LI04 Project Part - II 0 0 28 14
+Total 0 0 28 14
+VNRVJIET M.TECH. E & I A18 CURRICULUM 10
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (E & I) L T/P C
+3 0 3
+(A18PC1L01) TRANSDUCERS AND APPLICATIONS
+COURSE OBJECTIVES:
+• To understand Static and Dynamic Characteristics of Measuring Systems
+• To learn the concepts of various measuring devices to measure physical parameters like
+displacement, temperature, pressure, flow
+• To learn the concepts of transducers for measuring acceleration, velocity, force, torque
+etc.
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Identify suitable sensors and transducers for real time applications
+CO-2: Translate theoretical concepts into working models
+CO-3: Design the experimental applications to engineering modules and practices
+CO-4: Design engineering solution to the Industry/Society needs and develop products
+UNIT-I:
+Introduction to Measurement Systems: General concepts and terminology, measurement
+systems, sensor classification, static characteristics of measurement systems-accuracy,
+linearity, resolution, precision and sensitivity etc. estimation of errors. Dynamic characteristics
+of measurement systems. Zero-order first-order and second-order measurement systems and
+response.
+UNIT-II:
+Measuring Devices Displacement and Temperature: Displacement Resistive Potentiometer,
+Resistive strain gauges inductive displacement transducer, Capacitive Displacement
+Transducers, Piezo Electric Transducers, Ultrasonic Methods. Temperature Thermal expansion
+methods, Thermo electric, radiation methods-thermal and photon detectors based
+thermometers.
+UNIT-III:
+Measuring Devices Pressure and Flow: Pressure Methods of pressure measurement: Dead
+weight gauges and manometers, elastic transducers, high pressure measurement. Flow
+Anemometers, velocity sensors obstruction meters, averaging Pitot tubes, Rota meters,
+Electromagnetic, Vortex shedding, Ultrasonic Flow meters.
+UNIT-IV:
+Measuring Devices Velocity and Acceleration: Seismic displacement, velocity and
+acceleration pickups (Accelerometers). Gyroscopic angular displacement and velocity
+sensors. Force and Torque: Methods of force measurement and characteristics, Bonded
+strain gauge, Variable Reluctance, Piezo Electric Transducer, Torque measuring on rotating
+shafts.
+UNIT-V:
+Measuring Devices Humidity, Density and Radiation: Capacitive, Impedance and
+Piezoelectric Hygrometers Differential Pressure, U-tube and ultrasonic Densitometers, pH
+measurement- Ion Selective Type; Viscosity Measurement; Radiation Detectors - Radiation
+Thermometers and Optical Pyrometers.
+UNIT-VI:
+Digital Sensors: Position encodes, variable frequency sensors-quartz digital thermometer,
+SAW sensors, digital flow meters, sensors based on semiconductor junctions: thermometers
+VNRVJIET M.TECH. E & I A18 CURRICULUM 11
+based on semiconductor junctions, magneto diodes and magneto transistors, photodiodes
+and phototransistors, charge-coupled sensors.
+TEXT BOOKS:
+1. Measurement Systems, E. O. Doeblin, McGraw Hill
+2. Transducers and Instrumentation, D. V. S. Murthy, PHI
+3. Sensors & Transducers, D. Patranbis, Wheeler Publishing
+REFERENCES:
+1. Instrument Transducers, H. K. P. Neubert, Oxford University Press
+2. Process Measurement and Analysis, B. G. Liptak, 4th Edition, ISA Publication
+3. A Text Book of Mechanical Measurements and Instrumentation, A. K. Sawhney
+4. Mechanical Measurements, E. O. Doeblin, McGraw Hill
+5. Transducer Engineering, Ranganathan S., Allied Publishers
+VNRVJIET M.TECH. E & I A18 CURRICULUM 12
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (E & I) L T/P C
+3 0 3
+(A18PC1LI02) SIGNAL CONDITIONING CIRCUITS
+COURSE OBJECTIVES:
+• To understand the working principle and design of various analog signal conditioning
+circuits used in industrial applications
+• To impart knowledge on the design of signal conditioning circuits
+• To impart the knowledge of various measurement methods of physical parameters like
+velocity, acceleration, torque, pressure, flow, temperature etc. and their relevance to
+Industry
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understand principle of working of various signal conditioners used with Temperature,
+Displacement, optical and various miscellaneous other sensors
+CO-2: Design signal conditioning circuits for various transducers
+CO-3: Understand applications of various signal conditioners used in industry
+CO-4: Capable of selecting best suited signal conditioners for any given application
+UNIT-I:
+Signal Conditioning for Resistive Sensors: Measurement of Resistance, Voltage Dividers
+Wheatstone Bridge: Balance Measurements, Detection Measurements, Differential and
+Instrumentation Amplifiers, Interference.
+UNIT-II:
+Signal Conditioning for Self-Generating Sensors: Chopper and Low-Drift Amplifiers,
+Electrometer and Transimpedance Amplifiers, Charge Amplifiers, Noise in Amplifiers, Noise
+and Drift in Resistors.
+UNIT-III:
+Temperature Sensors Interfacing: Thermo Switches, Thermocouples Interfacing – Thermo
+switches, Ambient Referenced Thermocouples, Isolated Thermocouple Measurement,
+Thermocouple to Frequency, Thermocouple to 4to20 m A Temperature Transmitter, Isolated
+Multiplexing of Thermocouples
+RTD’s Interfacing: Single Op Amp Interface, using a Signal Conditioner, Bridge configuration
+using 3wire RTD, Linearizing RTD Circuits, Current Transmitters for RTD Outputs, RTD Based
+Precision controller
+UNIT-IV:
+Semiconductor Temperature Sensors Interfacing: Thermistor Interfacing - Simple Interface
+Circuits, High-resolution Differential Thermometer, Current Transmitters, Thermistor to
+Frequency Conversion T to F Conversion using Diodes, Absolute Temperature to current
+Conversion, Temperature Control Circuits, Multiplexed Applications, Isolation, 4to20 m A
+Current Transmission
+UNIT-V:
+Pressure and Force Transducers Interfacing: Pressure Transducer Interfacing - Strain Gauge
+Based Transducers, Potentiometer to Frequency Transducer, Interfacing High level
+Semiconductor Transducers, Isolated Pressure Transmitter, Pressure Control System
+Force Transducer Interfacing: Spring Driven Rheostat, Strain gauge & Signal Conditioner, High
+Resolution Load Cell Platform, Interface, Strain Gauge to Frequency Conversion, Isolators &
+Transmitters
+VNRVJIET M.TECH. E & I A18 CURRICULUM 13
+UNIT-VI:
+Flow Meters and Level Transducers Interfacing: Flow Meter Interfacing - Differential Pressure
+Flow meters, Frequency output Flowmeters, Anemometers, Hinged Vane, Flowmeter, Thermal
+Flow Meter, Transmission & Readout
+Level Transducers Interfacing: Float & Potentiometer, Optical Sensing & Thermal Sensing
+TEXT BOOKS:
+1. Sensors and Signal Conditioning, Raman Pallas Areny, John G. Webster, Second Edition,
+John Wiley and Sons
+2. Transducer Interfacing Handbook A Guide to Analog Signal Conditioning, Daniel H.
+Sheingold (Editor), Analog Devices Publications
+REFERENCES:
+1. Op Amp Applications Handbook, Walt Jung (Editor), Elsevier
+2. Introduction to Instrumentation and Measurement, Robert B. Northrop, Second Edition-
+Taylor & Francis Group
+VNRVJIET M.TECH. E & I A18 CURRICULUM 14
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (E & I) L T/P C
+3 0 3
+(A18PC1LI03) PROCESS INSTRUMENTATION AND CONTROL
+COURSE OBJECTIVES:
+• To understand the basic characteristics of first order and higher order processes
+• To acquire knowledge about the characteristics of various controller modes and
+methods of tuning of controller
+• To acquire knowledge on the construction, characteristics and application of control
+valves
+• To study the UNIT operations and a case study of distillation column control
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Determine the mathematical model for real-time first and higher order systems
+CO-2: Design various controller modes with appropriate tuning
+CO-3: Implement advanced control schemes for various processes
+CO-4: Ability to Analyze Multivariable Systems and Design Multi-variable and Multi-loop
+Control Schemes for various processes
+CO-5: Ability to Identify, formulate, and solve problems in the process control domain
+UNIT-I:
+Introduction: Need for process control, Design aspects of process control system, Process
+degree of freedom. Mathematical model of first order processes: level, pressure and thermal
+processes Second order process: Interacting and non-interacting processes, State space
+modelling– Discrete time systems, analog to digital and digital to analog conversion,
+sampling of continuous time signal, conversion of discrete time to continuous time signal with
+zero and first order holds, z-transform.
+UNIT-II:
+Basic Single Loop Control Actions: Characteristics and dynamics of Discrete Control Modes:
+ON-OFF, Multi Speed, Floating Controllers. Characteristics and dynamics of feedback control
+modes: Proportional, Integral and Derivative control modes P+I, P+D and P+I+D control
+modes
+UNIT-III:
+P-I-D Controller Tuning and Stability Analysis:
+Tuning of Controllers: Evaluation criteria IAE, ISE, ITAE and ¼ decay ratio Tunings Process
+reaction curve method Ziegler Nichols method Damped oscillation method, Digital PID
+Algorithm. Dahlin's algorithm, deadbeat controller.
+UNIT-IV:
+MIMO Systems-Multiloop Control: MIMO Systems: Multi loop Controllers: Feed-forward control
+ratio control- cascade control adaptive split-range control multivariable control Multi
+variable IMC- Model based Predictive Controller examples from distillation column and boiler
+systems.
+UNIT-V:
+Final Control Element: I/P converter pneumatic and electric actuators valve positioner
+control valves characteristics of control valves inherent and installed characteristics control
+valve sizing cavitation and flashing selection criteria.
+VNRVJIET M.TECH. E & I A18 CURRICULUM 15
+UNIT-VI:
+Industrial Applications: Dynamics of Four tank system, CSTR, pH neutralization process
+Distillation column and Modern control practices in: Power plants, pharmaceuticals and
+petrochemicals industries.
+TEXT BOOKS:
+1. Chemical Process Control, G. Stephanopoulos, Prentice Hall of India, New Delhi, 1990
+2. Process Control: Instrument Engineers' Handbook, Bela G. Liptak, Butterwoth Heinemann,
+2013
+3. Process Control Instrumentation Technology, Curtis Johnson, Prentice Hall India
+REFERENCES:
+1. Process Control: Modeling, Design, and Simulation, B. Wayne Bequette, Prentice Hall of
+India, 2004
+2. Process Control, Pollard A., Heinemann Educational Books, London, 1971
+3. Automatic Process Control, Eckman. D. P., Wiley Eastern Ltd., New Delhi, 1993
+4. Process Control, S. K. Singh, PHI Publications, New Delhi 2010
+VNRVJIET M.TECH. E & I A18 CURRICULUM 16
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (E & I) L T/P C
+3 0 3
+(A18PE1LI01) INSTRUMENTAL METHODS OF CHEMICAL AND PHYSICAL ANALYSIS
+COURSE OBJECTIVES:
+• To understand whole array of modern analytical instrumentation with the goal of
+providing them with the tools to further apply them in industry
+• To acquire “hands-on" approach with sample preparation, theory, application, method
+development, data analysis and interpretation being key elements
+• To qualitative and quantitative analysis of chemical compounds
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Appreciate basic analytical processes and sampling procedures
+CO-2: Appreciate the basic principles of spectroscopy
+CO-3: Perform simple analytical procedures on given samples using Ultraviolet or Infrared
+Spectrophotometers and Interpret data derived from the above
+CO-4: Observe basic lab safety rules while working in analytical chemistry laboratories
+UNIT-I:
+Electrochemical Instruments: Basic concepts of Analytical instrumentation, Electro chemical
+instruments- pH meters, Conductivity meters, Dissolved oxygen analyzers using Polarographic
+principle sodium analyzers- silica analyzers–Polarographic Instruments.
+UNIT-II:
+Absorption Spectrophotometers-I: UV, VIS spectrophotometers single beam and double
+beam instruments instrumentation associated with the above spectrophotometers sources
+and detectors, IR SPM– sources and detectors for IR spectrophotometers, FTIR, Raman
+Spectroscopy, Interpretation & Analysis.
+Emission Spectrophotometers-II: Flame emission and atomic absorption spectrophotometer
+Atomic emission spectrophotometer sources for Flame Photometers and online calorific
+value measurements.
+UNIT-III:
+Gas and Liquid Chromatographs: Basic principle of gas chromatography, liquid
+chromatography, HPLC different types of columns, detectors, recorders and associated
+equipment, Salient features of liquid chromatography, Detectors used, applications of high
+pressure liquid chromatography, Interpretation and Analysis.
+UNIT-IV:
+Principle of Nuclear Magnetic Resonance: Instrumentation associated with NMR
+spectrophotometer Introduction to mass spectrophotometers, Principle and brief discussion
+on Electron Spin Resonance (ESR).
+UNIT-V:
+Gas Analyzers-I: Flue gas analysis using thermal conductivity principle, Katharometer oxygen
+analyzers using paramagnetic principle, Zirconium oxide cells, Pollution Monitoring
+Instruments.
+Industrial analyzer circuits; CO monitors, Nox analyzer, Sox Analyzer - H2S analyzer system
+UNIT-VI:
+Nuclear Radiation Detectors: GM counter, Scintillation counter, Ionization chamber Solid
+state detector, Gamma Spectrometry, Industrial application of radiation measurement,
+VNRVJIET M.TECH. E & I A18 CURRICULUM 17
+Thermal Analyzers: Differential Scanning Calorimetry (DSC), Derivative Thermo Gravimetric
+Analyzers (DTGA)
+TEXT BOOKS:
+1. Handbook of Analytical Instruments, R. S. Khandpur, McGraw Hill, 2006
+2. Instrumental Methods of Analysis, Willard, Merrit, Dean, Settle, CBS, 2004
+3. Principles of Instrumental Analysis, Skoog D. M. and West D. M., Helt, Saunder Publication
+REFERENCES:
+1. Process Measurement and Analysis, B. G. Liptak, CRC Press
+2. Instrument Technology, E. B. Jones, Butterworth Scientific Publications
+VNRVJIET M.TECH. E & I A18 CURRICULUM 18
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (E & I) L T/P C
+3 0 3
+(A18PE1LI02) OPTICAL ELECTRONICS AND LASER INSTRUMENTATION
+COURSE OBJECTIVES:
+• To understand the principles of optics and Lasers
+• To apply the knowledge of Optics to fibers and understand the different industrial
+applications of Optical Fibers
+• To learn the various applications of Lasers in Instrumentation
+• To understand the Opto electronic components and their principles of operation along
+with their applications
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Apply fundamental knowledge of mathematics and Optics to design application
+specific optical fiber
+CO-2: Apply Lasers in Instrumentation for the measurement of Pressure, temperature, Level
+and find the solutions for the errors if any
+CO-3: Understand the advantages of using Lasers
+CO-4: Apply opto- electronic components and lasers in Medical instrumentation
+UNIT–I:
+Optical Fibers and their Properties: Introduction to Optical Fibers - principles of light
+propagation through a fiber Different types of fibers and their properties –Transmission
+characteristics of optical fiber –Absorption losses Scattering losses –Dispersion - source
+coupling, splicing and connectors, Fibre termination - advantages and disadvantages of
+optical fibers
+UNIT-II:
+Industrial Applications of Optical Fibers: Fiber optic sensors Fiber optic Instrumentation system
+- Interferometric method of measurement of length - Moiré fringes Measurement of pressure,
+temperature, current, voltage, liquid level and strain. Fiber optic gyroscope polarization
+maintaining fibers applications, Biomedical Applications Endoscopy.
+UNIT-III:
+Opto-Electronic Components: Optical Sources: LED, OLED, AMOLED, laser diodes - Optical
+Detectors: PIN, APD, phototransistors, photomultipliers, optoisolators, IOC elements,
+photoresistors, CCD –Electro-Optic, Magneto-Optic and Acoustic–Optic Modulators
+Application in Instrumentation.
+UNIT-IV:
+Laser Fundamentals: Fundamental of Lasers Properties of Laser - Three level and four level
+lasers Laser modes Resonator configuration Q-switching and Mode locking Cavity damping
+Types of lasers: Gas lasers, Solid lasers, Liquid lasers Semiconductor lasers. Laser Safety:
+Radiation hazards, maximum permissible exposure, classification, safety measures and
+Personal Protective Equipment (PPE)
+UNIT-V:
+Industrial Applications of Lasers: Laser for measurement of distance, length, velocity,
+acceleration, current, voltage and Atmospheric effect Material processing: Laser Heating,
+Welding, Melting, Cutting, Hole Drilling and Trimming of material Removal and vaporization.
+UNIT-VI:
+Medical Applications of Lasers and Hologram: Medical Applications Lasers - Laser and Tissue
+interaction, Laser instruments for surgery - CO2 laser as bloodless scalpel, Removal of tumors
+VNRVJIET M.TECH. E & I A18 CURRICULUM 19
+of vocal cords, Brain surgery, Plastic surgery, Gynecology, Oncology, Dermatology and
+Ophthalmology. Holography Basic principle; methods (reflection, transmission, and hybrid),
+Holographic Components, Holographic Interferometry and Applications, Holography for
+Non-destructive Testing
+TEXT BOOKS:
+1. Optical Fiber Communication Principles and Practice, J. M. Senior, Prentice Hall of India,
+1985
+2. Introduction to Opto Electronics, J. Wilson and J. F. B. Hawkes, Prentice Hall of India, 2001
+3. Lasers: Theory and Applications, Thyagarajan K. and Ghatak A. K., Plenum Press
+4. Optical Fiber Communication and Sensors, M. Arumugam, Anuradha Agencies, 2002
+REFERENCES:
+1. Understanding Fiber Optics, Jeff Hecht, 5th Edition, Prentice Hall
+2. Optical Fiber Communication, G. Keiser, McGraw Hill, 1995
+VNRVJIET M.TECH. E & I A18 CURRICULUM 20
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (E & I) L T/P C
+3 0 3
+(A18PE1LI03) INSTRUMENTATION PRACTICES IN INDUSTRIES
+COURSE OBJECTIVES:
+• To identify and quantitatively estimate different materials required for the manufacturing
+of Cement, Pulp, Paper, food, Power and pharmacy
+• To understand the principles of different manufacturing processes
+• To recognize these principles written in form of mathematical & chemical equations
+• To apply these equations to analyze problems by making good assumptions and learn
+systematic engineering method to solve practical industrial problems
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Apply fundamental knowledge of chemistry & instrumentation to modeling and
+analysis of different Industrial engineering
+CO-2: Understand disasters caused by an incorrect analysis/design in different Industrial
+engineering system
+CO-3: demonstrate technical knowledge and skills in the calibration and use of equipment
+used in different industrial process measurement and control
+CO-4: demonstrate a working knowledge of safety practices and skills in troubleshooting
+Problems used in the measurement and control in industrial processes
+UNIT-I:
+Cement Industries: Corrosion Analyzer Porositester Compressive strength measurement, Blast
+Furnace Temperature Measurement using Radiation Pyrometers.
+UNIT-II:
+Pulp and Paper Industries: Manufacture of Pulp: Raw materials, Pulping processes, Craft
+pulping, Soda pulping, Sulfite pulping, Semi chemical pulping, Mechanical and Thermo
+mechanical Pulping.
+Manufacture of paper: Wet Processing, Fourdrinier Machine, Coated Papers, Special Papers.
+Wet-end Instrumentation: Pressure; Temperature: Liquid Density and Specific Gravity, Level,
+Flow; Consistency: pH ;Oxidation Reduction Potential (ORP),Freeness.
+UNIT-III:
+Pulp and Paper Industries: Dry-end Instrumentation: Moisture: Conductivity, Resistance,
+Capacitance, Hygroscopic, Infrared Absorption type systems Basis Weight: Transmission type,
+On-Machine type, Off-Machine type and Backscatter type systems Caliper or Thickness:
+Contacting type- Electrical, Mechanical and Electro Mechanical, Non Contacting type.
+UNIT-IV:
+Petroleum Industries: UNIT Operations: Distillation, Drying Separation Measurements in
+refineries petrochemical industries– Differential pressure transmitter, Thermocouples Infrared
+Pyrometer, Mass flow meters, Potentiometric level Transmitter, Vacuum Measurement, Near
+Infrared Analyzer, Hydro Carbon Dew
+Point meter, IR Spectrometry, Mass Spectrometry, Flame Ionization Detectors,
+Chromatography.
+UNIT-V:
+Nuclear Power Plant: Introduction, The power plant scheme, Pressure, flow and level
+measurement, Vibration and expansion measurements, Analysis of impurities in cooling
+water, Flue Gas analysis, Ultrasonic Thermometry, Radiation Pyrometry, Emittance
+measurement.
+VNRVJIET M.TECH. E & I A18 CURRICULUM 21
+UNIT-VI:
+Food Processing and Allied Industries: Chromatography, Spectrometry Mass Spectrometer,
+Toxicity meter.
+TEXT BOOKS:
+1. Chemical Process Industries, Austin G. T. Shreeves, McGraw-Hill International
+2. Process Measurement and Analysis, Liptak B. G., Third Edition, Chilton Book Company,
+1996
+3. Pulp and Paper Industry Technology & Instrumentation, Sankaranarayana P. E., Kothari’s
+Deskbook
+4. Principles of Industrial Instrumentation, D. Patranabis, Mc Graw Hill
+REFERENCES:
+1. An Introduction to Paper Industry Instrumentation, John R. Lavigne, Miller Freeman
+Publications, 1985
+2. Measurement and Control in Papermaking, Robert J. McGill, Adam Hilger Limited, 1980
+3. Process / Industrial instruments and Controls Hand Book, Gregory K. McMillan, Doigas M.
+Considine
+4. Instrumentation in Process Industries, Liptak B.G., Chilton Book Company, 1994
+VNRVJIET M.TECH. E & I A18 CURRICULUM 22
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (E & I) L T/P C
+3 0 3
+(A18PE1LI04) NEURAL NETWORKS AND FUZZY SYSTEMS
+COURSE OBJECTIVES:
+• To cater the knowledge of Neural Networks and Fuzzy Logic Control and use these for
+controlling real time systems
+• To expose the students to the concepts of feed forward Neural Networks and about
+feedback Neural Networks
+• To teach about the concepts of Fuzziness involved in various systems and
+comprehensive knowledge of Fuzzy logic control and to design the Fuzzy control
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understand the concepts of feed forward neural networks
+CO-2: Acquire adequate knowledge about feedback neural networks
+CO-3: Acquire the concept of fuzziness involved in various systems
+CO-4: Acquire knowledge about fuzzy set theory
+UNIT-I:
+Introduction to Neural Networks: Introduction, Humans and Computers, Organization of the
+Brain, Biological Neuron, Biological and Artificial Neuron Models, Hodgkin-Huxley Neuron
+Model, Integrate and- Fire Neuron Model, Spiking Neuron Model, Characteristics of ANN,
+McCulloch-Pitts Model, Historical Developments, Potential Applications of ANN.
+UNIT-II:
+Essentials of Artificial Neural Networks: Artificial Neuron Model, Operations of Artificial Neuron,
+Types of Neuron Activation Function, ANN Architectures, Classification Taxonomy of ANN
+Connectivity, Neural Dynamics (Activation and Synaptic), Learning Strategy (Supervised,
+Unsupervised, Reinforcement), Learning Rules, Types of Application Feed Forward Neural
+Networks Introduction, Perceptron Models: Discrete, Continuous and Multi-Category,
+Training Algorithms: Discrete and Continuous Perceptron Networks, Perceptron Convergence
+theorem, Limitations of the Perceptron Model, Applications.
+UNIT-III:
+Multilayer Feed forward Neural Networks: Credit Assignment Problem, Generalized Delta
+Rule, Derivation of Backpropagation (BP) Training, Summary of Backpropagation Algorithm,
+Kolmogorov Theorem, Learning Difficulties and Improvements.
+UNIT-IV:
+Associative Memories: Paradigms of Associative Memory, Pattern Mathematics, Hebbian
+Learning, General Concepts of Associative Memory (Associative Matrix, Association Rules,
+Hamming Distance, The Linear Associator, Matrix Memories, Content Addressable Memory),
+Bidirectional Associative Memory (BAM) Architecture, BAM Training Algorithms: Storage and
+Recall Algorithm, BAM Energy Function, Proof of BAM Stability Theorem Architecture of
+Hopfield Network: Discrete and Continuous versions, Storage and Recall Algorithm, Stability
+Analysis, Capacity of the Hopfield Network.
+UNIT-V:
+Self-Organizing Maps (SOM) and Adaptive Resonance Theory (ART): Introduction,
+Competitive Learning, Vector Quantization, Self-Organized Learning Networks, Kohonen
+Networks, Training Algorithms, Linear Vector Quantization, Stability-Plasticity Dilemma, Feed
+forward competition, Feedback Competition, Instar, Outstar, ART1, ART2, Applications.
+Classical and Fuzzy Sets Introduction to classical sets - properties, Operations and relations;
+VNRVJIET M.TECH. E & I A18 CURRICULUM 23
+Fuzzy sets, Membership, Uncertainty, Operations, properties, fuzzy relations, cardinalities,
+membership functions.
+UNIT-VI:
+Fuzzy Logic System Components: Fuzzification, Membership value assignment, development
+of rule base and decision making system, Defuzzification to crisp sets, Defuzzification
+methods. Applications Neural network applications: Process identification, Function
+Approximation, control and Process Monitoring, fault diagnosis and load forecasting. Fuzzy
+logic applications: Fuzzy logic control and Fuzzy classification.
+TEXT BOOKS:
+1. Neural Networks, Fuzzy Logic, Genetic Algorithms: Synthesis and Applications,
+Rajasekharan and Rai, PHI
+2. Introduction to Artificial Neural Systems, Jacek M. Zuarda, Jaico Publishing House, 1997
+REFERENCES:
+1. Neural and Fuzzy Systems: Foundation, Architectures and Applications, N. Yadaiah and S.
+Bapi Raju, Pearson Education
+2. Neural Networks, James A. Freeman and Davis Skapura, Pearson, 2002
+3. Neural Networks, Simon Hykins, Pearson Education
+4. Neural Engineering, C. Eliasmith and CH. Anderson, PHI
+5. Neural Networks and Fuzzy Logic System, Bork Kosko, PHI
+VNRVJIET M.TECH. E & I A18 CURRICULUM 24
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (E & I) L T/P C
+3 0 3
+(A18PE1LI05) DATA ACQUISITION SYSTEMS
+COURSE OBJECTIVES:
+• To identify the selection of type of data acquisition system
+• To understand the principles of A/D, D/A Converters, Error Analysis, Display Systems
+• To recognize these principles written in form of mathematical equations
+• To apply these equations to analyze problems by making good assumptions and learn
+systematic engineering method to design a good Data acquisition system
+• To apply fundamental principles of A/D’s, D/A’s, Data Acquisition Hardware & Software
+requirements for the solution of practical high-performance Data Acquisition system etc.
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Apply fundamental knowledge of mathematics to modeling and analysis of A/D &
+D/A’s, error analysis on data acquisition systems
+CO-2: Conduct case studies indifferent data acquisition systems and interpreting data from
+model studies to prototype cases, as well as documenting them in engineering reports
+CO-3: Understand the errors/problems by an improper design analysis in data acquisition
+system
+CO-4: Interface the analog and digital acquisition systems with PC, Analyze and display the
+output
+UNIT-I:
+Data Loggers and Data Acquisition Systems: Data acquisition systems-configurations
+components, analog multiplexes and sample and hold circuits-specifications and design
+considerations. DACs: specifications characteristics, types of DACs (serial, parallel, direct
+and indirect). Hybrid and monolithic DACs. ADCs: specifications characteristics, types of
+ADCs (serial, parallel, direct and indirect). Hybrid and monolithic ADCs, sigma delta ADCs’,
+Hybrid DAS Schematic diagram configurations specifications
+UNIT-II:
+Error Budget of DACs and ADCs: Error sources, error reduction and noise reduction techniques
+in DAS. Error budget analysis of DAS. Case study of a DAC and an ADC. 31
+UNIT-III:
+Data Acquisition Hardware and Software: Specifications of Hardware-IO analog signal range,
+gain for analog input and resolution in ADC converter, resolute\ion in DAC and counter
+chips, sampling frequency and maximum update rates, triggering capacity. Digital lines and
+ports, data acquisition VIs.
+UNIT-IV:
+Distributed and Stand Alone Data Logger: Introduction, methods of operation-programming
+and logging data using Express cards, standard alone operation-direct and remote
+connection to the host PC, stand alone logger/controller hardware interfaceRS232C, RS485
+standard, communication bottlenecks and system performance, using Ethernet to connect
+data loggers
+UNIT-V:
+IEEE 488 Standard: Introduction, characteristics, physical connection configurations, device
+types, bus structure, GPIB hand shake, device communication, IEEE 488.2, standard
+commands for programmable instruments. Display systems- LCD Flat panel displays, Digital
+storage CROs, Plasma displays, Projection systems.
+VNRVJIET M.TECH. E & I A18 CURRICULUM 25
+UNIT-VI:
+Analyzers: Spectrum Analyzers guidelines, various triggering techniques, different types of
+spectrum analyzers, Recorders. Display devices and Display systems, Logic Analyzers State
+and time referenced data capture. Scalar and Vector Network analyzers.
+TEXT BOOKS:
+1. A Users Handbook of D/A & A/D Converters, E. R. Hnatek, Wiley, 1976
+2. Electronic Analog/Digital Converters, H. Schmid, Van Nostrand Reinhold, 1970
+3. Clayton: Data Converters, G. B. Clayton, John Wiley & Sons, 1982
+REFERENCES:
+1. Electronic Instrumentation, H. S. Kalsi, McGraw Hill Education, 2017
+2. Electronic Instrumentation & Measurements, David A. Bell, Oxford University Press India,
+2013
+3. Handbook of Biomedical Instrumentation, Khandapur R. S., Tata Mc. Graw Hill, 1996
+4. Electronic Measurements and Instrumentation, Oliver and Cage (ISE), McGraw Hill, 2017
+VNRVJIET M.TECH. E & I A18 CURRICULUM 26
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (E & I) L T/P C
+3 0 3
+(A18PE1LI06) POLLUTION CONTROL IN PROCESS INDUSTRIES
+COURSE OBJECTIVES:
+• To identify the different pollutants that cause serious problems in industries
+• To understand the causes of pollutions from various emission reactions
+• To recognize the origin of hazardous pollution gases in environment
+• Treatment methods of specific pollutant arising out of industrial process
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Plan strategies to control and reduce pollution
+CO-2: Select the most appropriate technique to control and treat industrial pollution
+CO-3: Apply environmental management systems (EMS) to an industrial activity
+CO-4: Design and develop anti-pollution monitoring systems
+UNIT-I:
+Industrial Pollution Emissions and Indian Standards: Introduction-Man and environment, types
+of pollution, pollution control aspects, Industrial emissions-Gases, and Industrial emissions
+Liquids-water quality management in India.
+UNIT-II:
+Analysis of Pollutants: Industrial waste water analysis, industrial gaseous effluent analysis,
+particle size distribution, water quality regulations and policy development, water quality
+standards.
+UNIT-III:
+Pollution Control for Specific Pollutants-I: Removals of BOD-biological oxidation-anaerobic
+treatment-Removal of Chromium-control methods, reduction precipitation, Ion exchange,
+reverse osmosis-lime coagulation and adsorption.
+UNIT-IV:
+Pollution Control for Specific Pollutants-II: Removal of mercury-measurement of mercury-
+mercury losses in chlor-alkali industries-removal of mercury from gaseous streams-removal of
+mercury from liquid streams. Removal of oxides of nitrogen-introduction-analysis of NOx
+control measures.
+UNIT-V:
+Pollution Control Aspects in Selected Process Industries: Pollution control in chemical
+industries-pollution control aspects of fertilizer industries-ammonia plant effluents, ammonium
+sulphate plant-phosphoric acid plant-complex fertilizer plant.
+UNIT-VI:
+Pollution Control in Petroleum Refineries and Petrochemical Units: Characteristics of liquid
+effluent-refinery liquid waste-treatment methods-treatment of liquid effluents from
+petrochemical industries-air pollution control-pollution control in pulp and paper industries.
+TEXT BOOKS:
+1. Pollution Control in Process Industries, S. P. Mahajan, Tata McGraw Hill Edition
+2. Water Quality Concepts, Sampling, and Analyses, Yuncong Li, Kati Migliaccio, 1st Edition,
+CRC Press, 2010
+VNRVJIET M.TECH. E & I A18 CURRICULUM 27
+REFERENCES:
+1. Industrial Pollution Prevention Handbook, Harry M. Freeman, McGraw Hill Education, 2017
+2. Industrial Pollution - A Reference to Small Scale Industries, N. Saradha, N. Dhulasi
+Birundha, 1st Edition, Serials Publications, 2008
+VNRVJIET M.TECH. E & I A18 CURRICULUM 28
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (E & I) L T/P C
+0 3 1.5
+(A18PC2LI01) INSTRUMENTATION LABORATORY
+COURSE OBJECTIVES:
+• To acquire hands on experience in active and passive sensors/transducers
+• To understand different signal conditioners
+• To design basic measuring devices like bridges
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Appreciate the use of sensors
+CO-2: Identify the sensors required for any specific application
+CO-3: Design simple measuring devices
+CO-4: Develop simple measuring systems employing appropriate sensors
+LIST OF EXPERIMENTS:
+(Minimum 12 experiments to be conducted)
+1. Measurement of Load using Strain Gauge bridge
+2. Measurement of Temperature using Thermistor, RTD and Thermocouple
+3. Measurement of Displacement using LVDT
+4. Pressure measurement through Bourdon Tube
+5. Measurement of Flow
+6. Measurement of RPM using opto-coupler and comparing it with stroboscope
+7. Measurement of precision, Angular Velocity and RPM of a rotating Disk
+8. Measurement of Velocity, Acceleration and Vibration using Piezo-electric transducer
+9. Measurement of Humidity
+10. Measurement of Density
+11. Measurement of Viscosity of Edible Oil using Redwood Viscometer
+12. Measurement of Viscosity of Crude Oil using Saybolt Viscometer
+13. Characteristics of pH sensors
+14. Radiation Measurement and optical Pyrometers
+15. Characteristics of Opto-Electronic Transducers (Photo Transistor, Photo Diode and LDR)
+VNRVJIET M.TECH. E & I A18 CURRICULUM 29
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (E & I) L T/P C
+0 3 1.5
+(A18PC2LI02) PROCESS CONTROL LABORATORY
+COURSE OBJECTIVES:
+• To identify and obtain process parameters of various processes in the prototype model
+• To understand the working of actuators, converters, controllers and control valves
+• To acquire the working knowledge of different controller types, modes of control
+actions, tuning of controllers and control schemes
+• To learn systematic engineering methodologies to solve practical process control
+problems
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Do mathematical modeling of different process to analyze its time response
+CO-2: Apply the control system knowledge to monitor and control industrial parameters like
+flow, level, pressure, temperature, pH problems
+CO-3: Identify optimal values for PID controller and realize Electronic, Pneumatic and
+Hydraulic Control actions for different applications
+CO-4: Learn to apply software tools typically used by process control professionals
+LIST OF EXPERIMENTS:
+(Minimum of 12 experiments should be conducted)
+1. Realization of PID control actions and time response analysis with electronic controllers for
+First and Second Order Systems Using Process Controller Simulator
+2. Effect of ON-OFF, P, PI, PD and PID controller on Liquid Level Process Dynamics.
+3. Temperature control process with PID Control Action
+4. Servo and Regulator operation for Set point tracking and Disturbance Rejection for DC
+Servo Motor
+5. Realization of control actions with Pneumatic and Hydraulic Actuation
+6. Optimum Controller settings with Process reaction curve tuning method
+7. Optimum Controller settings with continuous and damped oscillation tuning method
+8. Effect of ON-OFF, P, PI, PD and PID controller on Flow Process Dynamics
+9. Experimental analysis of Control valve characteristics (Different types)
+10. Realization of Feed forward control System for Flow-Level Process Station
+11. Multi loop control systems for Flow-Level Process Station using Ratio Control
+12. Multi loop control systems for Flow-Level Process Station using Cascade Control
+13. Mathematical Modeling and Time Response Analysis of Interacting and non-interacting
+system
+14. Split range control for liquid level process dynamics
+15. Neutralization of waste water using PID controller for pH Control System
+VNRVJIET M.TECH. E & I A18 CURRICULUM 30
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (E & I) L T/P C
+0 4 2
+(A18PW4LI01) TECHNICAL SEMINAR
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Identify a research topic related to advanced/state-of-the-art technologies
+CO-2: Collect the literature and comprehend/analyze critically the technological
+advancements
+CO-3: Engage in effective oral communication through presentation of seminar
+CO-4: Engage in effective written communication through report
+COURSE OUTLINE:
+• A student shall present a seminar on a technical topic during I semester of the M.Tech.
+programme.
+• A student, under the supervision of a faculty member, shall collect literature on a
+technical topic of his / her choice, critically review the literature and submit it to the
+Seminar Review Committee (SRC) in a prescribed report form.
+• The SRC shall consist of Head of the Department, faculty supervisor and a senior faculty
+member of the specialization / department.
+• Student shall make an oral presentation before the SRC after clearing the plagiarism
+check.
+• Prior to the submission of seminar report to the SRC, its soft copy shall be submitted to the
+PG Coordinator for PLAGIARISM check.
+• The report shall be accepted for submission to the SRC only upon meeting the prescribed
+similarity index.
+VNRVJIET M.TECH. E & I A18 CURRICULUM 31
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (E & I) L T/P C
+2 0 0
+(A18AU5CS01) RESEARCH METHODOLOGY AND IPR
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To introduce the characteristics of a good research problem
+• To choose appropriate approaches of investigation of solutions for research problem
+• To familiarize with basic Intellectual Property Rights
+• To understand different Patent Rights
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understand research problem formulation, analyze research related information and
+follow research ethics
+CO-2: Realize the importance of ideas, concept, and creativity in the present-day context
+CO-3: Recognize that when IPR would take such important place in growth of individuals
+and nation, it is needless to emphasize the need of information about IPR to be promoted
+among students in general and engineering in particular
+CO-4: Appreciate IPR protection which leads to creation of new and better products, and
+in turn brings about, economic growth and social benefits
+UNIT-I:
+Introduction: Meaning of research problem, Sources of research problem, Criteria
+Characteristics of a good research problem, Errors in selecting a research problem, Scope
+and objectives of research problem.
+Approaches of investigation of solutions for research problem, data collection, analysis,
+interpretation, necessary instrumentations.
+UNIT-II:
+Literature Survey: Effective literature studies approaches, analysis. Plagiarism, Research
+ethics.
+UNIT-III:
+Effective Technical Writing: How to write report, Paper. Developing a Research Proposal,
+Format of research proposal, a presentation and assessment by a review committee
+UNIT-IV:
+Nature of Intellectual Property: Patents, Designs, Trade and Copyright. Process of
+Patenting and Development: technological research, innovation, patenting, development.
+International Scenario: International cooperation on Intellectual Property. Procedure for
+grants of patents, Patenting under PCT.
+UNIT-V:
+Patent Rights: Scope of Patent Rights. Licensing and transfer of technology. Patent
+information and databases. Geographical Indications.
+UNIT-VI:
+New Developments in IPR: Administration of Patent System. New developments in IPR; IPR of
+Biological Systems, Computer Software etc. Traditional knowledge Case Studies, IPR.
+TEXT BOOKS:
+1. Research Methodology: An Introduction for Science & Engineering Students, Stuart
+Melville and Wayne Goddard
+VNRVJIET M.TECH. E & I A18 CURRICULUM 32
+2. Research Methodology: An Introduction, Wayne Goddard and Stuart Melville
+3. Resisting Intellectual Property, Halbert, Taylor & Francis Ltd ,2007
+REFERENCES:
+1. Research Methodology: A Step-by-Step Guide for Beginners, Ranjit Kumar, 2nd Edition
+2. Research Methodology: Methods and Techniques, C. R. Kothari and Gaurav Garg, New
+Age International Publishers
+3. Intellectual Property in New Technological Age, Robert P. Merges, Peter S. Menell, Mark
+A. Lemley, 2016
+4. Intellectual Property Rights Under WTO, T. Ramappa, S. Chand, 2008
+VNRVJIET M.TECH. E & I A18 CURRICULUM 33
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (E & I) L T/P C
+3 0 3
+(A18PC1LI04) PLC, SCADA PROGRAMMING AND THEIR APPLICATIONS
+COURSE OBJECTIVES:
+• To understand the concepts of PLC and SCADA and their application
+• To understand PLC programming and data acquisition from real world
+• To understand different types of protocols used in industries
+• To understand the importance of supervisory control in various levels of industrial
+automation
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Describe the main functional units of PLC and be able to explain how they interact,
+different bus types
+CO-2: Design logic using advanced functions of PLC
+CO-3: Create networking between PLC’s using standard protocols
+CO-4: Provide simple solution for industry problems with PLC and SCADA
+UNIT-I:
+Programmable Logic Controller (PLC) Basics: Definition, Overview of PLC systems,
+input/output modules, Power supplies and Isolators. Sourcing and Sinking.
+UNIT-II:
+Basic PLC Programming: Programming On-Off inputs/ outputs. Creating Ladder diagrams,
+Basic PLC functions, register basics, timer functions, counter functions. ladder logic
+programing of industrial applications.
+UNIT-III:
+PLC Intermediate and Advanced Functions: Arithmetic functions, Number comparison
+functions, Skip and MCR functions, data move systems. Utilizing digital bits, sequencer
+functions, Matrix functions. PLC Advanced functions: Analog PLC operation, PID Function,
+Networking of PLC,
+UNIT-IV:
+Application of PLC: Controlling of Robot using PLC, PID control of continuous processes,
+Continuous Bottle-filling system, Batch mixing system, 3-stage air conditioning system,
+Automatic frequency control of Induction heating
+UNIT-V:
+HART and Field Bus Introduction: Evolution of signal standard –HART Communication Protocol
+Communication Modes –HART commands HART Field Controller Field Bus Architecture Basic
+requirement of field bus standard field bus topology, CAN bus, MOD bus, MOD bus plus
+protocol.
+UNIT–VI:
+SCADA: Basic building blocks of computer control system SCADAMTU and RTU, Case studies
+on SCADA, SCADA, PLC and DCS Compared, HMI, Motor Drives.
+VNRVJIET M.TECH. E & I A18 CURRICULUM 34
+TEXT BOOKS:
+1. Programmable Logic Controllers Principles and Applications, John. W. Webb Ronald A
+Reis, Fourth Edition, Prentice Hall Inc., 1998
+2. PC Based Instrumentation and Control, Mike Tooley, Third Edition, Elsevier
+3. PC Interfacing and Data Acquisition Techniques for Measurement, Instrumentation and
+Control, Kevin James, Elsevier
+REFERENCES:
+1. Programmable Logic Controllers: Programming Methods and Applications, John R.
+Hackworth and Frederick D. Hackworth Jr., PHI, 2003
+2. Automating Manufacturing Systems with PLCs, Hugh Jack, Lulu.com, 2010
+VNRVJIET M.TECH. E & I A18 CURRICULUM 35
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (E & I) L T/P C
+3 0 3
+(A18PC1LI05) VIRTUAL INSTRUMENTATION
+COURSE OBJECTIVES:
+• To identify new concepts towards measurement and automation
+• To understand about how to control an external measuring device by interfacing a
+computer
+• To understand data acquisition and instrument control
+• To acquire knowledge on networking
+• To gain knowledge on developing different applications in Digital image processing,
+control system, signal processing, and in simulation
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Acquire knowledge on how virtual instrumentation can be applied for data acquisition
+and instrument control
+CO-2: Identify salient traits of a virtual instrument and incorporate these traits in their projects
+CO-3: Experiment, analyze and document in the laboratory prototype measurement
+CO-4: Acquire knowledge on developing different applications in Digital image processing
+control system, signal processing and in simulation systems using a computer, plug-in
+DAQ interfaces and bench level instruments
+UNIT-I:
+Virtual Instrumentation: Historical perspective, advantages, block diagram and architecture
+of a virtual instrument, data-flow techniques, graphical programming in data flow,
+comparison with conventional programming. Development of Virtual Instrument using GUI,
+Real-time systems, Embedded Controller, OPC, HMI / SCADA software, Active X
+programming.
+UNIT-II:
+VI Programming Techniques: VIs and sub-VIs, loops and charts, arrays, clusters and graphs,
+case and sequence structures, formula nodes, local and global variables, string and file I/O,
+Instrument Drivers, Publishing measurement data in the web.
+UNIT-III:
+VI Chassis Requirements: Common Instrument Interfaces: Current loop, RS 232C/ RS485, GPIB.
+VISA and IVI. Application of Virtual Instrumentation: Instrument Control, Signal Measurement
+and generation: Data Acquisition.
+UNIT-IV:
+Advanced LabVIEW Data Concepts: Advanced file I/O, Configuring INI files, Calling code
+from other languages, Fitting Square Pegs into round holes.
+UNIT-V:
+Connectivity in LabVIEW: Lab VIEW web server, E-mailing data from Lab VIEW, Remote
+Panels, Self describing data, shared variables, talking to other programs and objects, talking
+to other computers, database, report generation.
+VNRVJIET M.TECH. E & I A18 CURRICULUM 36
+UNIT-VI:
+Simulation of Systems: Simulation of systems using VI, Development of Control system,
+Industrial Communication, Image acquisition and processing, Motion control.
+TEXT BOOKS:
+1. LabVIEW Graphical Programming, Gary Johnson, 2nd Edition, McGraw-Hill, 1997
+2. LabVIEW for Everyone, Lisa K. wells & Jeffrey Travis, Prentice Hall, 1997
+REFERENCES:
+1. PC Interfacing and Data Acquisition: Techniques for Measurement, Instrumentation and
+Control, Kevin James, Newnes, 2000
+2. LabVIEW Advanced Programming Technique, Rick Bitter, 2nd Edition, CRC Press, 2005
+3. Virtual Instrumentation using LabVIEW, Jovitha Jerome, 1st Edition, PHI, 2001
+VNRVJIET M.TECH. E & I A18 CURRICULUM 37
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (E & I) L T/P C
+3 0 3
+(A18PC1LI06) MEDICAL ELECTRONICS
+COURSE OBJECTIVES:
+• To identify and obtain biological parameters and relationship between them
+• To understand the principles of amplification involved in acquiring a bio signal
+• To recognize these principles written inform of mathematical equations
+• To apply these equations to analyze problems by making good assumptions and learn
+systematic engineering method and design robust amplifiers
+• To apply fundamental principles of Medical Instrumentation for the solution of practical
+biological problems
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Apply fundamental knowledge of mathematics mixed with electronics and use it for
+designing bio amplifiers
+CO-2: Conduct experiments (in teams) in real time applications as well as documenting
+them in engineering reports
+CO-3: Understand or become aware of artifacts caused by an incorrect diagnosis of the
+symptoms through sample data
+UNIT-I:
+Introduction to Biomedical Instrumentation: Bio Potentials - Resting and Action potentials.
+Electrodes - Different types of electrodes for ECG, EEG, EMG; Equivalent circuits for
+electrodes; General and Smart Sensors used in Biomedical engineering; Selection Criteria for
+Transducers and Electrodes for Bio Medical applications; Design of low noise isolation
+preamplifiers, Differential Amplifiers including Op. Amps and Instrumentation Amplifiers;
+Chopper amplifiers; Electrical safety - Grounding and isolation.
+UNIT-II:
+Electro-Physiological Measurements: Electro Cardiography (ECG), Electro Encephalography
+(EEG), Electromyography (EMG); Vector Cardiograph, Echocardiography,
+Phonocardiography (PCG), Electroretinography (ERG), Electrooculography (EOG).
+UNIT-III:
+Cardiac Instrumentation: Blood pressure and Blood flow measurement, Specification of ECG
+machine, Einthoven triangle, Standard 12-lead configurations, Interpretation of ECG
+waveform with respect to electro mechanical activity of the heart.
+UNIT-IV:
+Assisting and Therapeutic Devices: Cardiac pacemakers, Defibrillators, Heat lung machine,
+Muscle stimulator–Limb Prosthetics, Diathermy. Introduction to artificial kidney, elements of
+audio and visual aids in Biomedicine, Blood flow meters, Ultra Sonography; Automated Drug
+injecting systems.
+VNRVJIET M.TECH. E & I A18 CURRICULUM 38
+UNIT-V:
+Modern Imaging Techniques: X-ray Machine, Computer tomography (CT), Magnetic
+resonance Imaging system, Ultrasonic Imaging system, Applications of Lasers in biomedicine.
+IR (Thermographic) Imaging and its diagnostic criteria.
+UNIT-VI:
+Audiometers: Basic audiometer, Pure tone audiometer, Speech audiometer, audiometer
+system Bekesy, Evoked response audiometry system.
+Measurement and Analysis Techniques- Blood Gas Analysers-Blood pH measurement, blood
+pCo2 measurement-Oximetry-Blood cell counters-Coulter counters, Automatic recognition
+and differential counting of cells.
+TEXT BOOKS:
+1. Hand book of Biomedical Instrumentation, Khanpur R. S., Tata McGraw Hill, 1996
+2. Biomedical Instrumentation and Measurements, Cromwell L., Prentice Hall of India, 1995
+3. Application & Design of Medical Instrumentation, John G. Webster, John Wiley & Son
+REFERENCES:
+1. Feyman Lectures on Physics Vol. 2, Richard P. Feyman, Robert B. Leighton and Matahew
+Sands, Narosa Publications
+2. Medical Imaging Systems, Albert Macovski, Prentice Hall
+3. Principle of Applied Bio-medical Instrumentation, Geddes and Baker, John Wiley and
+Sons, 1975
+4. Medical Instrumentation Applications and Design, Honghton, Miffince, Bosten
+VNRVJIET M.TECH. E & I A18 CURRICULUM 39
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (E & I) L T/P C
+3 0 3
+(A18PE1LI07) MICRO ELECTRO-MECHANICAL SYSTEMS
+VNRVJIET M.TECH. E & I A18 CURRICULUM 40
+COURSE OBJECTIVES:
+• To obtain knowledge about present MEMS device and their application
+• To understand the principle laws of physics and chemistry that apply in fabricating a
+MEMS device
+• To understand different fabrication techniques like micro-machining, etching
+• To apply these techniques and understand some practical models and their working
+• To study the electronic interface and software design tools for MEMS devices
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understand scaling issues of MEMS based on fundamental knowledge of physics
+CO-2: Apply various micro manufacturing techniques to fabricate MEMS devices
+CO-3: Apply techniques of additive manufacturing to MEMS
+CO-4: Use CAD tools for simulation and layout of MEMS devices
+UNIT-I:
+Fundamentals of MEMS, Overview of MEMS and Microsystems: Evolution of microfabrication;
+Applications of MEMS in optical devices (Micro-Opto-Electro-Mechanical Systems or
+MOEMS), healthcare and biomedicine (including Bio-MEMS and Bio-MOEMS), aerospace,
+telecommunications, consumer products, automotive, and industrial products; Working
+principles of microsystems: Microsensors acoustic wave, bio-, chemical, optical, pressure,
+thermal; Micro actuation thermal, shape-memory alloys, piezoelectric, electrostatic; MEMS
+devices Microgrippers; Micromotors; Microfluidics Micropumps, Microvalves; Micro
+accelerometers
+UNIT-II:
+Materials for MEMS and Microsystems: Substrates and Wafers; Silicon as a Substrate, Silicon
+Compounds, Silicon piezoresistors, Non-silicon based materials: Gallium Arsenide, Gallium
+Nitride, Quartz, Piezeoelectric Crystals, Polymers.
+UNIT-III:
+Basics of Micro-manufacturing: Photolithography; Cleanroom Environment; Deposition
+techniques: Ion implantation, Diffusion, Vapour Deposition (PVD, CVD, PECVD), Oxidation,
+Epitaxial growth; Etching techniques: Chemical (Wet) Etching, Plasma (Dry) Etching Design
+considerations; Process Design; Photomask layout using CAD; Mechanical design overview
+UNIT-IV:
+Fabrication of MEMS: Bulk micromachining, Surface micromachining, LIGA Process, Deep X-
+Ray Lithography (DXRL)
+UNIT-V:
+Characterization of MEMS: Characterization techniques: Principle of working and operation
+of: Scanning Electron Microscope (SEM), Transmission Electron Microscope (TEM), Atomic
+Force Microscope (AFM), X-Ray Diffraction (XRD), Optical microscope
+UNIT-VI:
+Simulation of MEMS: MEMS devices, electronic interfaces, design, simulation and layout of
+MEMS devices using CAD tools.
+TEXT BOOKS:
+1. MEMS and Microsystems Design and Manufacture, Tai-Ran Hsu, Tata McGraw Hill, 2002
+2. MEMS, N. Mahalik, McGraw-Hill Education, 2007
+REFERENCES:
+1. Fundamentals of Microfabrication: The Science of Miniaturization, Marc J. Madou, CRC
+Press, 2002
+2. Microsystem Design, Stephen D. Senturia, Springer, 2004
+VNRVJIET M.TECH. E & I A18 CURRICULUM 41
+3. Practical MEMS, Ville Kaajakari, Small Gear Publishing
+VNRVJIET M.TECH. E & I A18 CURRICULUM 42
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (E & I) L T/P C
+3 0 3
+(A18PE1LI08) INDUSTRIAL AND POWER ELECTRONICS
+COURSE OBJECTIVES:
+• To make students understand the application of Amplifiers in industries
+• To make students understand the need and working of SCR
+• To make students understand the need of different operation of SCR and their industrial
+applications
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Appreciate the need of DC amplifiers, RPS and SMPS
+CO-2: Appreciate the need for SCR at different firing angle
+CO-3: Appreciate the working and applications of industrial timers
+CO-4: Appreciate the working of electrodes and RF generators
+UNIT-I:
+DC Amplifiers: Need for DC amplifiers, DC amplifiers—Drift, Causes, Darlington Emitter
+Follower, Cascode amplifier, Stabilization, Differential amplifiers—Chopper stabilization,
+Operational Amplifiers, Ideal specifications of Operational Amplifiers, Instrumentation
+Amplifiers.
+UNIT-II:
+Regulated Power Supplies: Block diagram, Principle of voltage regulation, Series and Shunt
+type Linear Voltage Regulators, Protection Techniques— Short Circuit, Over voltage and
+Thermal Protection.
+UNIT-III:
+Switched Mode & IC Regulators: Switched Mode voltage regulator, Comparison of Linear
+and Switched Mode Voltage Regulators, Servo Voltage Stabilizer, monolithic voltage
+regulators Fixed and Adjustable IC Voltage regulators, 3-terminal Voltage regulators—Current
+boosting.
+UNIT-IV:
+SCR, Thyristor and its Applications: Principles of operation and characteristics of SCR,
+Triggering of Thyristors, Commutation Techniques of Thyristors—Classes A, B, C, D, E and F,
+Ratings of SCR. Static circuit breaker, Protection of SCR. Diac and Triac, TriacsTriggering
+modes, Firing Circuits, Commutation.
+UNIT-V:
+Inverters and Chopper Circuits Inverters: Inverters-Classification, Single Phase inverters,
+Converters single phase Half wave and Full wave. Chopper circuits Principle, methods and
+Configurations, Design of power supplies and regulators.
+UNIT-VI:
+Industrial Applications: Industrial timers -Classification, types, Electronic Timers Classification,
+RC and Digital timers, Time base Generators. Electric Welding Classification, types and
+methods of Resistance and ARC wielding, Electronic DC Motor Control. High Frequency
+heating principle, merits, applications, High frequency Source for Induction heating.
+Dielectric Heating principle, material properties, Electrodes and their Coupling to RF
+generator, Thermal losses and Applications. Ultrasonics Generation and Applications.
+VNRVJIET M.TECH. E & I A18 CURRICULUM 43
+TEXTBOOKS:
+1. Industrial and Power Electronics, G. K. Mithal and Maneesha Gupta, 19th Ed., Khanna
+Publishers, 2003
+2. Integrated Electronics, J. Millman and C. C. Halkias, McGraw Hill, 1972
+REFERENCES:
+1. Electronic Devices and Circuits, Theodore. H. Bogart, 6th Ed., Pearson Education, 2003
+2. Thyristors and Applications, M. Rammurthy, East-West Press, 1977
+3. Integrated Circuits and Semiconductor Devices, Deboo and Burroughs, ISE
+VNRVJIET M.TECH. E & I A18 CURRICULUM 44
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (E & I) L T/P C
+3 0 3
+(A18PE1LI09) INSTRUMENTATION IN PHARMACEUTICAL INDUSTRY
+COURSE OBJECTIVES:
+• To understand the working of pharmaceutical industry
+• To know the necessity of an instrumentation engineer in pharmaceutical industry
+• To understand different processes that are performed in pharmaceutical industry
+• To know different components and equipment required to implement these processes
+and their control in pharmaceutical industry
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Know the basic processes being performed in pharmaceutical industry
+CO-2: Different equipment used and how they are controlled in pharmaceutical industry
+CO-3: Appreciate evaporation, distillation and filtration process involved in pharma industries
+CO-4: Appreciate the necessity of homogenization of mixture and size reduction
+UNIT-I:
+Introduction: Pharma Industries Basic Processors and Instrumentation Techniques, Process
+Analysis Technology (PAT).
+Filtration: Classification of Filtration, Mechanism of Filtration, Filter media, Filter Aids, Pre-
+treatment of materials, small scale filtration methods, filtration equipment, filter presses, Leaf
+filters, stacked disc filters, meta filters, Rotary continuous filters, other methods, ceramic filters,
+seitz filters, sintered (fritted) Glass filters, Membrane filters, factors affecting the rate of
+filtration, industrial filters including filter press, rotary filter, edge filter, etc. Factors affecting
+filtration, mathematical problems on filtration, optimum-cleaning cycle in batch filters,
+Limitations of filter theory.
+Centrifugation: General principles, theoretical aspects, classification, Laboratory equipment,
+Large scale equipment, Semi continuous centrifuge, equipment with non-perforated basket,
+de laval clarifier, vertical solid bowl centrifuges, continuous centrifuges, Principles of
+centrifugation, industrial centrifugal filters, centrifugal filters, and centrifugal sedimeters
+UNIT-II:
+Crystallization: Introduction, Crystal forms and crystal Habit, classification of crystallizers, tank
+crystallizers, agitated batch crystallizers, Swenson Walker Crystallizer, others, Krystal
+Crystallizer, Vacuum Crystallizer without External Classifying seed Bed, theoretical aspects of
+Crystallization, Calculation of yields, theory of Crystallization. The miers super saturation
+theory, limitations of the miers theory, rate of crystal growth.
+Characteristics of crystals like; purity, size, shape, geometry, habit, forms, size and factors
+affecting it. Solubility curves and calculation of yields, Material and heat balances around
+Swenson Walker Crystallizer. Super saturation theory and its limitations, Nucleation
+mechanisms, crystal growth. Study of various types of crystallizers, tanks, agitated batch,
+single vacuum, circulating magma and crystal crystallizers. Caking of crystals and its
+prevention. Numerical problems on yields.
+UNIT-III:
+Evaporation and Distillation Heat Processes: Factors affecting evaporation, study of
+evaporating stills and evaporating pans, heat transferring evaporators, vapor compression
+evaporators and evaporation under reduced pressure. Distillation: Importance of distillation
+in Pharmacy, methods of distillation. Brief introduction to freeze drying, sublimation,
+desiccation and exsiccation, efflorescence and its importance.
+VNRVJIET M.TECH. E & I A18 CURRICULUM 45
+UNIT-IV:
+Humidity Control and Refrigeration: Basic concepts and definition, wet bulb temperature,
+adiabatic cooling lines, use of Humidity chart, determination of humidity, air conditioning,
+humidification and humidifying equipment, dehumidifiers. Introduction, refrigeration
+equipment, coefficient of performance and refrigerants, Brine systems, refrigeration load,
+absorption systems.
+UNIT-V:
+Size Reduction and Separation: Introduction, mechanism and principles of size reduction,
+classification of size reduction equipment, law of size reduction, large equipment, mills using
+impact force for size reduction, cage mills, pin mills, fluid energy or jet mills, attrition and
+grinding mills tumbling mills. Ball mills and tube mills, practical size classifiers used with grinding
+mills, wet classifiers, non-rotary ball and bead mills, dry vs wet grinding, end runner mill, edge
+runner mills, disc attrition mills, dispersion and colloid mills, roller mills, size reduction combined
+with other operations, factors influencing choice of size reduction machinery, changes
+resulting in the material due to size reduction.
+Size separation sieving, Screening equipment, sedimentation, screen analysis Definition,
+objectives of size reduction, factors affecting size reduction, laws governing energy and
+power requirements of a mill, types of mills including ball mill, hammer mill, fluid energy mill
+etc. Various methods and equipments employed for size separation, centrifugal elutriation,
+microscopic methods.
+UNIT-VI:
+Mixing and Homogenization: Introduction, equipment for mixing of miscible liquids, mixing of
+a soluble solid with a low viscon liquid etc., mixing solids with solids, equipment, consideration
+while choosing solids mixing equipment, mixing solids with liquids, mixing miscible liquids,
+mixing viscous masses, mixing of immiscible liquids, equipment for emulsification.
+Theory of mixing- solid solid, solid liquid and liquid liquid mixing equipment, double cone,
+twin-shell, silverson mixer, colloid mill, sigma blade mixer, planetary mixer, propeller mixer and
+turbine mixer. Semi solid mixing, Triple roller mill.
+TEXT BOOKS:
+1. Pharmaceutical Engineering, K. Samba Murthy, New Age Publishers
+2. Pharmaceutical Engineering, C.V.S. Subrahmanyam, V. Kusum Devi, Sarasija Suresh, J.
+Thimma Setty, Vallabh Prakashan, 2009
+3. Tutorial Pharmacy, S. J. Carter, Cooper and Gunn’s, 6th Ed., CBS Publisher
+REFERENCES:
+1. Perry’s Handbook of Chemical Engineering, Don W. Green, McGraw Hill Education, 2018
+2. Unit Operations of Chemical Engineering, McCabe & Smith, 7th Edition, McGraw Hill
+Education, 2017
+VNRVJIET M.TECH. E & I A18 CURRICULUM 46
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (E & I) L T/P C
+3 0 3
+(A18PE1LI10) INSTRUMENTATION IN PAPER AND PULP INDUSTRIES
+COURSE OBJECTIVES:
+• Identify the different paper making processes and the differences between them
+• Understand the principles of measurement of moisture, basic weight, caliper, brightness,
+Consistency, pH, ORP etc.
+• Recognize these principles written in form of mathematical equations
+• Apply these equations to analyze measurement of different parameters by making good
+assumptions and learn systematic engineering method to solve practical problems
+• Apply fundamental principles of paper measurements for the solution of practical
+analysis of moisture, basic weight, caliper, brightness, Consistency, pH, ORP etc.
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Apply fundamental knowledge of mathematics to modelling and analysis of moisture,
+basic weight, caliper, brightness, Consistency, pH, ORP in pulp and paper industries
+CO-2: Conduct company visits and field study in different industries and interpreting data
+from model studies to prototype cases, as well as documenting them in engineering reports
+CO-3: Understand measurement of different parameters caused by an incorrect analysis in
+engineering system
+CO-4: Understand the Paper Process methodology and instrumentation involved
+UNIT-I:
+An Overview of Paper Making Process: Paper making process, Raw materials, Pulp
+separation, screening, Bleaching, Cooking, Chemical reaction, chippers, types of digesters, H
+factor and Kappa factors, Stock preparation, Instrumentation needs, Energy conservation
+and paper quality control.
+UNIT-II:
+Paper Properties and its Measurement: Physical, electrical, optical and chemical properties
+of paper, Basic weight, thickness, density, porosity, smoothness, softness, hardness and
+compressibility, stress, strain relationship, Tensile strength, bursting strength, tearing resistance,
+folding endurance, stiffness and impact strength, Dielectric constant, dielectric strength,
+dielectric loss and Properties of electrical insulating paper, Brightness, colour, gloss and
+capacity, Starch constant acidity and pH Measurement techniques.
+UNIT-III:
+Consistency Measurement: Definition of consistency, Techniques for head box consistency
+measurement, Stock consistency measurement and control.
+UNIT-IV:
+Paper Making Machine: Functioning of Paper making machine, Quality parameters moisture,
+basic weight, caliper, brightness, colour, ash content, strength, gloss and tensile strength-
+parameters monitoring Instrumentation.
+VNRVJIET M.TECH. E & I A18 CURRICULUM 47
+UNIT-V:
+Wet End Instrumentation: Conventional measurements at wet end – pressure vacuum,
+temperature, liquid density, specific gravity level flow; consistency measurement, pH, ORP
+measurement freeness measurement
+Dry End Instrumentation, Conventional measurements-moisture, basis weight caliper, coat
+thickness, optical variables, measurement of length speed Digester, Rotary, Batch type
+UNIT-VI:
+Pumps and Control Valves: Flow box - wet end variables - evaporator feedback - feed
+forward control - lime mud density control, stock proportioning system, refiner control
+instrumentation, basic pulper instrumentation-headbox
+rush/drag control - instrumentation for size preparation, coating preparation, coating weight
+control
+batch digester- k/kappa number control - bleach plant chlorine stage control
+Control Aspects - Machine and cross direction control technique - consistency, moisture and
+basic weight control - dryer control – computer based control systems - mill wide control.
+TEXT BOOKS:
+1. Pulp and Paper Industries-Technology and Instrumentation, Sankaranarayanan P. E.,
+Kotharis Desk Book Series, 1995
+2. Handbook of Pulp and Paper Technology, Britt K. W., Van Nostrand Reinbold Company,
+1970
+3. Shreve’s Chemical Process Industries, Austin G. T., McGraw Hill International Student
+Edition, 1985
+REFERENCES:
+1. An Introduction to Paper Industry Instrumentation, John R. Lavigne, Miller Freeman
+Publications, 1985
+2. Measurement and Control in Paper Making, Robert J. McGill, Adam Hilger Limited, 1980
+3. Instrumentation Applications for the Pulp and Paper Industry, John R. Lavigne, Miller
+Freeman Publications, 1990
+4. Instrument Engineers Handbook, Volume 2, Process Control, Liptak B. G., Third Edition,
+CRC Press, 1995
+5. Pulp and Paper Chemistry and Chemical Technology, James P. Casey, John Wiley and
+Sons, 1981
+VNRVJIET M.TECH. E & I A18 CURRICULUM 48
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (E & I) L T/P C
+3 0 3
+(A18PE1LI11) IMAGE PROCESSING AND PATTERN RECOGNITION
+COURSE OBJECTIVES:
+• To analyze the images, operations on pixels and study the fundamental steps of image
+processing and understand the image transformations techniques
+• To apply the different image segmentation techniques such as region-based
+segmentation, point detection, line detection and edge detection
+• To perform the morphological operations such as Dilation, erosion, boundary, skeleton
+and image compression models
+• To study the image restorations and Pattern Recognition techniques
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Apply fundamental knowledge of image processing to understand real time analysis
+and different applications of image processing
+CO-2: Finally, this knowledge can be helpful for implementation of some real time projects
+and research on image processing applications
+CO-3: Analyze and compare various image compression techniques and their applications
+CO-4: Design and implement various algorithms for image restorations techniques and
+Pattern recognition techniques.
+UNIT-I:
+Introduction: Fundamentals steps of Image processing, Components of an Image processing
+system, Image sampling and quantization, relationship between the pixels. Gray level
+transformation, Smoothing and sharpening spatial filters, Smoothing and sharpening
+frequency domain filters, Homo morphic filtering.
+Image Transforms: 2-Dimensional Orthogonal and Unitary Transforms,1-Dimensional DFT-2-
+Dimensional DFT- Cosine Transform-The Sine Transform, The Hadamard Transform, The Haar
+Transform- The Slant Transform –The KL Transform-The Singular Value Decomposition Transform.
+UNIT-II:
+Image Enhancement: Basic Gray level Transformations-Image Negatives, Log
+transformations, Power-law Transformations, Piecewise-Linear Transformation Functions,
+Histogram Processing-Histogram equalization, Histogram matching, local Enhancement, Use
+of Histogram Statistics for Image Enhancement-Enhancement using Arithmetic/Logic
+Operations-Image Subtraction, Image Averaging.
+UNIT-III:
+Image Segmentation: Edge linking and boundary detection, Thresholding, Global and
+Adaptive, Region based segmentation, Segmentation by morphological watersheds, color
+segmentation.
+UNIT-IV:
+Morphological Operations: Dilation and erosion, Opening and closing, Hit or Miss transforms,
+Morphological algorithms, Extensions to gray scales images and its applications. Image
+compression: Compression models, Error free coding, lossy coding, compression standards,
+color image compression, Introduction to fractals.
+Image Representation and Description: Representation-Chain codes, Polygonal
+Approximations, Signatures, Boundary Segments, Skeletons, Boundary Descriptors, simple
+descriptors, shape numbers, Fourier Descriptors, statistical moments-Regional Descriptors-
+simple descriptors, topological descriptors, texture, moments of two dimensional functions.
+VNRVJIET M.TECH. E & I A18 CURRICULUM 49
+UNIT-V:
+Image Degradation/Restoration: Unconstrained and Constrained Restoration, Restoration in
+the presence of Noise Only-Spatial Filtering, Periodic Noise Reduction by Frequency Domain
+Filtering, Estimating the degradation Function-Estimation by Image Observation, Estimation
+by Experimentation, Estimation by Modelling-Inverse Filtering- Minimum Mean Square Error
+(Wiener) Filtering- Constrained Least Squares Filtering Geometric Mean Filter - Geometric
+Transformations-Spatial transformations, Gray-level Interpolation.
+UNIT-VI:
+Statistical and Non-Parametric Decision Making: Applications of Pattern Recognition Baye’s
+Theorem Multiple Features Conditionality Independent Features Decision Boundaries Unequal
+Costs of Error Estimation of Error Rates Kernel and Window Estimator Nearest Neighborhood
+Classification Techniques Adaptive Decision Boundaries Adaptive Discriminant Functions.
+Clustering: Introduction Hierarchical Clustering Partitional Clustering
+TEXT BOOKS:
+1. Digital Image Processing, Rafael C. Gonzalez and Richard E. Woods, 3rd Edition, Pearson,
+2008
+2. Digital Image Processing, S. Jayaraman, S. Esakkirajan, T. Veerakumar, TMH, 2010
+3. Pattern Recognition and Image Analysis, Earl Gose and Richard Johnsonbaugh, Steve
+Jost, PHI
+REFERENCES:
+1. Digital Image Processing, Gonzalez and Woods, 4th Edition, Pearson Education, 2017
+2. Video Processing and Communication, Yao Wang, Joern Ostermann and Ya Qin Zhang,
+Prentice Hall
+3. Digital Video Processing, M. Tekalp, 1st Edition, Prentice Hall, 1995
+4. Fundamentals of Digital Image Processing, Anil K. Jain, PHI
+VNRVJIET M.TECH. E & I A18 CURRICULUM 50
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (E & I) L T/P C
+3 0 3
+(A18PE1LI12) ADAPTIVE CONTROL SYSTEMS
+COURSE OBJECTIVES:
+• To inculcate conceptual understanding of adaptive control
+• To provide knowledge on various adaptive schemes, with a basic understanding on
+closed loop system stability and implementation issues
+• To develop ability to design suitable stable adaptive scheme to meet the performance
+objectives even in the presence of disturbances and changing operating conditions
+• To identify the need and apply appropriate adaptive control design technique to real
+time systems
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Formulate adaptive control design problem
+CO-2: Identify suitable adaptive controller for a given system with uncertain parameters
+CO-3: Apply adaptive design techniques to real time systems whose parameters change
+during operation
+CO-4: Implement adaptive control schemes to meet the performance objectives in
+challenging situations
+UNIT-I:
+Introduction: Adaptive Control, effects of process variation - Adaptive Schemes - Adaptive
+Control problem , Applications – Real Time Parameter Estimation: Introduction - Regression
+Models - Recursive Least Squares - Exponential Forgetting - Estimating Parameters in
+Dynamical Systems - Experimental Conditions – Loss of identifiability due to feedback.
+UNIT-II:
+Deterministic Self-Tuning Regulators: Introduction - Pole Placement Design, MDPP - Design of
+Indirect Self-tuning Regulators - Continuous Time Self-tuners - Direct Self-tuning Regulators -
+Properties of Direct Self-tuners - Disturbances with Known Characteristics, Case Study.
+UNIT-III:
+Model Reference Adaptive Systems: Introduction - MIT Rule - Significance of Adaptation Gain
+- Lyapunov Stability Theory - Design of MRAS Using Lyapunov Theory - Adaptation of a Feed
+forward Gain - Applications to Adaptive Control, Case Study.
+UNIT-IV:
+MARS Vs STR: Relations between MRAS and STR - Nonlinear Systems - Feedback Linearization -
+Adaptive Feedback Linearization - Back Stepping - Adaptive Back Stepping, Case Study.
+UNIT-V:
+Gain Scheduling: Introduction - Principle - Design of Gain Scheduling controllers - Nonlinear
+Transformations - Applications of Gain Scheduling, Case Study.
+UNIT-VI:
+Practical Issues and Implementation - Controller Implementation - Computational Delay -
+Sampling and Pre, and Post Filtering - Controller Windup - Estimator Implementation -
+Operational Issues.
+TEXT BOOKS:
+1. Adaptive Control, Karl Johan Astrom and Bjom Wittenmark, Addison Wesley, 2003
+2. Adaptive Control, Shankar Sastry, PHI (Eastern Economy Edition), 1989
+VNRVJIET M.TECH. E & I A18 CURRICULUM 51
+REFERENCES:
+1. Adaptive Control, Karl Johan Astrom, Pearson Education, 2001
+2. Robust Adaptive Control, Petros A. Loannou, Jing, Prentice Hall, 1995
+3. System Identification: Parameter and State Estimation, Eykhoff P., 1974
+4. System Identification Theory for the User, Ljung, Prentice Hall, 1987
+VNRVJIET M.TECH. E & I A18 CURRICULUM 52
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (E & I) L T/P C
+0 3 1.5
+(A18PC2LI03) INDUSTRIAL PROCESS CONTROL SYSTEMS LABORATORY
+COURSE OBJECTIVES:
+• To give a novice an understanding of PLC programming, ladder logic and the inner
+workings of a PLC modules
+• To learn the difference between digital and analogy signals and how to bring them into
+a PLC, process them, and send them back out
+• To understand the role of each components (RTU, HMI & Drives) of automation in
+industry.
+• To understand the importance of data acquisition and management
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Explore basic, standard control techniques for things like Human Oriented Automation
+(HOA) control, level control, pressure control, and PID control loops
+CO-2: Be introduced to HMI development and given a general understanding of how an
+HMI program works
+CO-3: Learn the applications of SCADA software, SCADA features, creating applications,
+creating database tags, developing graphic displays, trending, communication with
+PLC and other hardware
+CO-4: Design, Develop and Commissioning of PLC, RTU, Drives and SCADA programs for
+desired applications
+LIST OF EXPERIMENTS:
+1. Design and development of ladder logic programming for switching applications in PLC
+2. Implementing Timers and Counters for industrial applications using ladder logic
+programming
+3. Interfacing, signal processing & normalization of analog signals to PLC
+4. Interfacing, networking & monitoring of PLC’s using SCADA
+5. Control of level process station with PLC and data logging
+6. Control flow process station with PLC and data logging
+7. Control of pressure process station with PLC and data logging
+8. Implementing Distributed Control System (DCS) using PLC and RTU for remote monitoring
+and control
+9. Design and Development of SCADA system, with PLC Integration
+10. HMI development for industrial application
+11. Speed control of 3 phase induction motor using PLC through VFD
+12. SCADA, PLC technology integration for multi process station monitoring and control
+VNRVJIET M.TECH. E & I A18 CURRICULUM 53
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (E & I) L T/P C
+0 3 1.5
+(A18PC2LI04) VIRTUAL INSTRUMENTATION LABORATORY
+COURSE OBJECTIVES:
+• To learn concepts using data acquisition card
+• To understand the control of an external measuring device by Interfacing a computer
+• To familiarize image processing applications
+• To learn to develop the control system and signal simulation applications
+• To learn DSP Application
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Design and Implement Data acquisition and control sequences using the Lab VIEW
+software development tool
+CO-2: Perform experiments on electrical circuits to determine their frequency response and
+characteristics of components etc. (using NI Elvis)
+CO-3: Perform the image processing techniques on images using Vision Assistant module
+CO-4: Develop the control system and signal simulation applications using CDSM and DSP
+toolkit
+LIST OF EXPERIMENTS:
+1. Design of Decimal Counter Using Lab VIEW
+2. Design of A function generator using Lab VIEW
+3. Design of Filters Using NIELVIS
+4. Signal processing with speed 33 (speech recording and analysis)
+5. Image Processing techniques with Vision Assistant
+6. Image Processing application with vision assistant
+7. Image corrupted with salt and pepper noise, apply average local 3 X 3 filter, local
+average 5 X 5, local average 7 X 7 and median filter observe the response using Vision
+Assistant
+CONTROL DESIGN SIMULATION USING LABVIEW
+1. Building and Configuring Simulations (Control Design and Simulation Module)
+2. Modularizing the Simulation Diagram (Control Design and Simulation Module)
+3. Trimming and Linearizing Nonlinear Models
+4. Executing Simulations in Real Time
+5. Optimizing Design Parameters
+6. Simulation Model Converter
+NETWORKING USING LABVIEW
+1. Creating a TCP Client
+2. Creating a TCP Server
+3. Binding Front Panel Controls to Shared Variables
+4. Binding Front Panel Controls to Shared Variables in Other Projects
+5. Binding Shared Variables to an Existing Source
+6. Changing the Default Ports for TCP, Based NI, PSP
+7. Configuring Firewalls and Network Address Translating Routers for Shared Variables
+VNRVJIET M.TECH. E & I A18 CURRICULUM 54
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (E & I) L T/P C
+0 4 2
+(A18PW4LI02) MINI-PROJECT
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understand the formulated industry / technical / societal problems
+CO-2: Analyze and / or develop models for providing solution to industry / technical /
+societal problems
+CO-3: Interpret and arrive at conclusions from the project carried out
+CO-4: Demonstrate effective communication skills through oral presentation
+CO-5: Engage in effective written communication through project report
+COURSE OUTLINE:
+• A student shall undergo a mini-project during II semester of the M.Tech. programme.
+• A student, under the supervision of a faculty member, shall collect literature on an
+allotted project topic of his / her choice, critically review the literature, carry out the mini-
+project, submit it to the department in a prescribed report form.
+• Evaluation of the mini-project shall be done by a Project Review Committee (PRC)
+consisting of the Head of the Department, faculty supervisor and a senior faculty
+member of the specialization / department.
+• Prior to the submission of mini-project report to the PRC, its soft copy shall be submitted to
+the PG Coordinator for PLAGIARISM check.
+• The mini-project report shall be accepted for submission to the PRC only upon meeting
+the prescribed similarity index.
+VNRVJIET M.TECH. E & I A18 CURRICULUM 55
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (E & I) L T/P C
+2 0 0
+(A18AU5EN01) ENGLISH FOR ACADEMIC AND RESEARCH WRITING
+COURSE OBJECTIVES:
+• To understand the usage of appropriate vocabulary (Formal, Informal, Gender Insensitive
+etc.)
+• To understand the features and processes of academic writing
+• To identify the resources
+• To understand standard documentation styles
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Use appropriate vocabulary (Formal, Informal, Slang, Gender Insensitive etc.)
+CO-2: Employ processes of academic writing
+CO-3: Identify the resources
+CO-4: Understand standard documentation styles
+UNIT- I:
+Introduction to Research:
+i. Identifying the topic
+ii. Identifying Sources; Finding Sources
+iii. Defining the broad area; Defining the specific area; Difference between a broad
+area and specific area
+iv. Choosing a topic
+v. Mechanics of Writing – Language, Tone, Style, Ethics
+UNIT-II:
+Referencing & Library Skills:
+i. Literature Survey
+ii. Writing Objectives
+iii. Hypothesis
+iv. Methodology
+v. Prospects for Future Research
+UNIT-III:
+Academic Writing Skills:
+i. Paraphrasing
+ii. Summarizing
+iii. Quoting
+iv. Rewriting
+v. Expansion
+UNIT-IV:
+Kinds of Academic Writing:
+i. Essays
+ii. Reports
+iii. Reviews
+iv. SOPs
+v. Abstracts
+vi. Proposals
+VNRVJIET M.TECH. E & I A18 CURRICULUM 56
+UNIT-V:
+Research Process:
+i. Selection of Topic
+ii. Formulation of Hypothesis
+iii. Collection of Data
+iv. Analysis of Data
+v. Interpretation of Data
+vi. Presentation of Data
+UNIT-VI:
+i. Title
+ii. Abstract
+iii. Introduction
+iv. Literature Survey
+v. Methodology
+vi. Discussion
+vii. Findings/Results
+viii. Conclusion
+ix. Documenting Sources
+TEXT BOOKS:
+1. Writing for Science, Goldbort R., Yale University Press (available on Google Books), 2006
+2. Handbook of Writing for the Mathematical Sciences, Highman N., SIAM. Highman’s Book,
+1998
+REFERENCES:
+1. How to Write and Publish a Scientific Paper, Day R., Cambridge University Press, 2006
+2. English for Writing Research Papers, Adrian Wall Work, Springer New York Dordrecht
+Heidelberg London, 2011
+3. MLA Handbook for Research
+VNRVJIET M.TECH. E & I A18 CURRICULUM 57
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester (E & I) L T/P C
+3 0 3
+(A18PE1LI13) INSTRUMENTATION IN POWER PLANTS
+COURSE OBJECTIVES:
+• To understand the working model of power plant
+• To understand the necessity of a instrumentation engineer in a power plant
+• To understand different components and their control in power plants
+• To understand various analyzers used in power plant
+COURSE OUTCOME: After completion of the course, students should be able to
+CO-1: Appreciate the power generation technique used in different types of power plants
+CO-2: Appreciate different parameters and their control in the power plant
+CO-3: Understand and standby the saying “one watt saved = two watts generated”
+CO-4: Understand the concepts of nuclear power plants
+UNIT-I:
+An Overview of Power Generation: Introduction, various sources of Electrical Energy , Non-
+conventional Energy sources, Wind power, solar power, tidal power, geothermal power,
+magnetohydrodynamic (MHD) Power, Fuel Cells, Biomass Power, Conventional energy
+sources, hydropower, nuclear power, gas power, steam power (Thermal Power), comparison
+of various conventional power plants, Importance of instrumentation and control in power
+Generation – Classification of Instruments in a power plant, objectives of Instrumentation and
+control.
+Piping and Instrumentation diagram (P and I Diagram) – Examples of ISA Instrumentation
+diagram symbols, examples of SAMA instrumentation diagram symbols, examples of ISA and
+SAMA diagram, piping and instrumentation diagramming, Cogeneration of Power back
+pressure turbine, pass out turbine process heat unit, control rooms, thermal or boiler control
+room, electrical control room, plan of control rooms.
+UNIT-II:
+Instrumentation and Control in Water Circuit: Water circuit, boiler feed water circulation,
+natural circulation, forced circulation, combined circulation, Measurements in Water Circuit,
+Water Flow Measurement, Differential Pressure transmitter (DPT), steam flow measurement,
+water and steam pressure measurements, water and steam temperature measurements,
+drum water level measurement.
+Controls in water circuit, boiler drum level control, superheated steam temperature control,
+steam pressure control, impurities in water and steam, impurities in Raw Water, Effects of
+Impurities, Measurement of Impurities, feed water treatment.
+UNIT – III:
+Instrumentation and Control in Air-Fuel Circuit: Air-Fuel Circuit – Fuels, combustion air, flue
+gases, waste gases, Measurements in Air-Fuel Circuit – Measurement of flow/quantity,
+Measurement of Pressures, Measurement of Temperatures, Measurement of level.
+Controls in Air-Fuel Circuit – Combustion control, furnace Draft Control, Analytical
+Measurement – Oxygen Measurement in Flue Gas, Measurement of carbon dioxide in flue
+gas, combustibles analyser (CO+H2), Infrared flue gas analyser, smoke detector, dust
+monitor, closed circuit television, fuel analysers, chromatography, pollution monitoring
+instruments.
+VNRVJIET M.TECH. E & I A18 CURRICULUM 58
+UNIT-IV:
+Power Plan Management: Introduction – master control, combustion process – boiler
+efficiency- calculations, maintenance of measuring instruments – types of maintenance,
+maintenance cost, life cycle cost, intrinsic and electrical safety, interlocks for boiler
+operation, computer based control and data logging system, distributed control system.
+UNIT-V:
+Turbine Monitoring and Control: Introduction – Classification, instrumentation control points of
+View, Principal parts of steam turbines, Turbine Steam Inlet System – Inlet valve arrangements,
+inlet measurements, Governors, Turbine Measurements – Process Parameters, mechanical
+parameters, electrical parameters, Turbine control system – safety control systems, process
+control systems, Lubrication for turbo, alternator – Lubrication system, Controls in Lubrication
+system, Turbo, Alternator Cooling System – Lube Oil cooling system, Alternator/Generator
+cooling system.
+UNIT-VI:
+Nuclear Power Plant Instrumentation: Introduction – Instrumentation and Control for Nuclear
+Power Plant , Important Components of I&C System , Evolution of I&C in NPP – Reactor
+Control – Methods of Control, Control loops, Functions of control system, Pressurized water
+reactor (PWR) controls, boiler water reactor (BWR) controls, Liquid metal cooled reactor
+(LMCR) Control, role of reactor controls during start-up, normal operation and shut down.
+Digital Architectures in Nuclear Power Plants - System, level Instrumentation and control
+architecture, safety related systems, non, safety, related systems, man machine interface
+system (MMIS), Instrumentation and controls architecture platform.
+Radiation protection and monitoring – accident at three mile Island, USA, disaster at
+Chernobyl nuclear power plant, Ukraine, calamity at Fukushima, Daiichi nuclear power plant,
+Japan, Radiation Units, Biological Effects of Radiation, Radiation Monitoring, Nuclear Reactor
+Safety, Reactor protection system, Reactor Tripping, Engineered Safety Features,
+Surveillance, Diagnostics and Prognostics – Surveillance, Diagnosis, Prognosis.
+TEXT BOOKS:
+1. Modern Power Station Practice, Vol. 6, Instrumentation, Controls and Testing, Pergamon
+Press, Oxford, 1971
+2. Power Plant Technology, Wakil M. M., McGraw-Hill
+REFERENCES:
+1. Standard Boiler Operations-Questions and Answers, Elonka S. M. and Kohal A. L., Tata
+McGraw-Hill, New Delhi, 1994
+2. Power Plant Instrumentation, K. Krishna Swamy, New Age International
+VNRVJIET M.TECH. E & I A18 CURRICULUM 59
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester (E & I) L T/P C
+3 0 3
+(A18PE1LI14) IoT TECHNOLOGIES
+COURSE OBJECTIVES:
+• To understand the new paradigm of objects interacting with people, information systems
+and with other objects
+• To introduce various IoT protocols
+• To understand the issues in developing specific real time system on various IoT platforms
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Identify and describe different kinds of internet-connected products developed on IoT
+platforms
+CO-2: Appreciate the challenges involved in establishing user-interaction with connected-
+objects
+CO-3: Develop prototype IoT applications using Arduino
+UNIT-I:
+Introduction to Internet of Things (IoT): Physical Design, Logical Design, IoT Enabling
+Technologies, Domain Specific IoT- Home automation, Cities, Environment, Energy and
+Industry.
+UNIT-II:
+IoT Protocols-Functionality based IoT Protocol Organization: Connectivity (6LoWPAN, RPL),
+Identification (EPC, uCode, IPv6, URIs), Communication(WiFi, Bluetooth, LPWAN); Discovery
+(Physical Web, mDNS, DNS-SD); Data Protocols (MQTT, CoAP, AMQP, Websocket, Node);
+Device Management (TR-069, OMA-DM); Semantic (JSON-LD, Web Thing Model); Multi-layer
+Frameworks (Alljoyn, IoTivity, Weave, Homekit)
+UNIT-III:
+Communication Protocols: IEEE 182.15.4, Zigbee, 6LoWPAN, Wireless HART, Z-wave, ISA100,
+Bluetooth, NFC, RFID.
+UNIT-IV:
+Sensor Networks: Wireless Sensor Networks, Basic components of sensor nodes, sensor web,
+Node behavior in WSN, Detection and connectivity re-establishment. Application of Sensor
+networks in Mines, Healthcare and Agriculture.
+UNIT-V:
+Introduction to Arduino Programming: Features, Arduino IDE overview, Sketch, Data types,
+Function Libraries, Operators, Control statements, Loops, Arrays, Strings, Math Library,
+Random Numbers, Interrupts. Integration of sensors and actuators with Arduino, Examples.
+UNIT-VI:
+Software Defined Networks: Overview of current network, limitations. SDN architecture, Basic
+Concepts, Components/Attributes, Challenges present in SDN, Rule Placement with Open
+Flow. API’s in SDN, Integrating SDN with IoT.
+VNRVJIET M.TECH. E & I A18 CURRICULUM 60
+TEXT BOOKS:
+1. Internet of Things: Hands-on Approach, A. Bahaga, V. Madisetti, VPT Publisher, 2014
+2. Internet of Things, Enabling Technologies, Platforms and Use Cases, Pethu Raj, Anupama
+C. Raman, CRC Press, Taylor and Francis Group
+REFERENCES:
+1. Designing the Internet of Things, A. McEwen, H. Cassimally, Wiley, 2013
+2. The Internet of Things in the Cloud: A Middleware Perspective, Honbo Zhou, CRC Press,
+2012
+3. Architecting the Internet of Things, Dieter Uckelmann, Mark Harrison, Florian Michahelles
+(Eds.), Springer, 2011
+4. The Internet of Things–Key Applications and Protocols, Olivier Hersent, David Boswarthick,
+Omar Elloumi, Wiley, 2012
+5. The Internet of Things: Applications to the Smart Grid and Building Automation, Olivier
+Hersent, Omar Elloumi and David Boswarthick, Wiley, 2012
+VNRVJIET M.TECH. E & I A18 CURRICULUM 61
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester (E & I) L T/P C
+3 0 3
+(A18PE1LI15) PRINCIPLES AND APPLICATIONS OF NANO SCIENCES
+COURSE OBJECTIVES:
+• To introduce the multidisciplinary nature of nanotechnology and its applications
+• To outline various nanomaterials and methods to modify these materials for wide variety
+of applications
+• To introduce instrumentation for nanoscale measurements
+• To enumerate specific applications of nanotechnology to electronics and medicine
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Evaluate the design considerations for nanoscale materials, devices, and structures in
+a general variety of applications
+CO-2: Gain theoretical knowledge to synthesize, modify, and characterize, and use
+nanomaterials for typical applications
+CO-3: Appreciate the need for specialized metrology for nanoscale measurements and
+familiarize with various commonly used instruments for nanoscale measurements
+CO-4: Identify the applications of nanotechnology to electronics
+CO-5: Learn the advancements in the field of medicine due to the advent of
+nanotechnology
+UNIT-I:
+Introduction to Nanotechnology: Introduction & History: Overview of atomic physics;
+Chemistry of atoms and molecules; Overview of quantum mechanics; Feynman’s
+perspective of nanoscience; Social impact of nanotechnology; Motivation, Top-down vs.
+Bottom-up approaches
+Applications: Electronics, instrumentation, medicine, environmental sciences.
+Considerations: Size constraints on measurements; Optical, Electronic, and Magnetic
+Properties at Nanoscale.
+UNIT-II:
+Nanomaterials: Introduction to Nanomaterials: Metal Nanomaterials, Semiconductor
+nanomaterials, Quantum Dots, Quantum Wells, 2-terminal Quantum Wires, Buckyballs,
+Carbon Nanotubes, Nano Peapods, Nano Rods, Polymer-based Nanostructures, Gold
+Nanostructures: Nano-rods, Nano-cages, Nano-shells; Aerogels and porous materials for
+nanoscience applications, Nano-powders and Nanocrystalline Powders, Dendrimers.
+UNIT-III:
+Nanofabrication: Fabrication Techniques: Top-down approach Nanolithography, CVD and
+Metal-Oxide CVD (MOCVD); Bottom-up approach sol-gel process, chemical synthesis, wet
+deposition techniques, RF sputtering, Self-assembly and Layer-by-layer assembly (LbL).
+UNIT-IV:
+Nanoscale Measurements: Instrumentation: Principle of working, Operational aspects,
+Limitations, and Applications for: SEM, TEM, STM, SPM, AFM, Fluorescence microscopy; X-ray
+techniques: X-ray Diffraction (XRD), X-ray Absorption Spectroscopy, Small-angle X-ray
+scattering
+VNRVJIET M.TECH. E & I A18 CURRICULUM 62
+UNIT-V:
+Nanoelectronics Overview: Materials: Graphene, Boron Nitride Nano-mesh, III-V compounds:
+GaAs, GaN, AlGaN, InGaAs, High-K/Metal-Gate applications for non-Si nanoelectronics
+Devices: Silicon nanowires, Single- and Multi-Walled Carbon Nanotubes, III-V Quantum Wells,
+Ballistic deflection transistors (BDT)
+Applications: Printed electronics, Molecular electronics, Spintronics, Nano Optoelectronics:
+displays, Memory devices, Electronics modelled after living systems.
+UNIT-VI:
+Nanomedicine Overview: Nano printing of DNA, RNA, and proteins; Drug delivery and
+targeting tumors; Cytotoxicity of Nanoparticles; Nanotechnology in regenerative therapy;
+Nanotechnology in cancer treatment; NEMS sensors and biosensors; Lab on a Chip (LoC)
+TEXT BOOKS:
+1. Introduction to Nanotechnology, Poole C., Owens F., Wiley, 2007 (ISBN: 978,8126510993)
+2. Nano Science and Nanotechnology: Fundamentals to Frontiers, Ramachandra M. S.,
+Singh S., Wiley India Pvt. Ltd., 2013 (ISBN: 978,8126542017)
+3. Nano: The Essentials: Understanding Nanoscience and Nanotechnology, Pradeep T.,
+McGraw-Hill India, 2007 (ISBN: 978,0070617889)
+REFERENCES:
+1. Springer Handbook of Nanotechnology, Bhushan B. (Ed.), Springer, 2006 (ISBN:
+978,3540298557)
+2. Nanotechnology: Basic Calculations for Engineers and Scientists, Theodore L., Wiley India
+Pvt. Ltd., 2011 (ISBN: 978,8126529667)
+3. Nanotechnology: An Introduction to Synthesis, Properties and Applications of
+Nanomaterials, Varghese, T., Balakrishna K. M., Atlantic, 2012 (ISBN: 978,8126916382)
+VNRVJIET M.TECH. E & I A18 CURRICULUM 63
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester (E & I) L T/P C
+3 0 3
+(A18OE1CN01) BUSINESS ANALYTICS
+COURSE OBJECTIVES:
+• To understand the role of business analytics within an organization and to analyze data
+using statistical and data mining techniques and understand relationships between the
+underlying business processes of an organization
+• To gain an understanding of how managers use business analytics to formulate and solve
+business problems and to support managerial decision making and to become familiar
+with processes needed to develop, report, and analyze business data
+• To use decision-making tools/Operations research techniques and to manage business
+process using analytical and management tools
+• To analyze and solve problems from different industries such as manufacturing, service,
+retail, software, banking and finance, sports, pharmaceutical, aerospace etc.
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Apply knowledge of data analytics
+CO-2: Think critically in making decisions based on data and deep analytics
+CO-3: Use technical skills in predicative and prescriptive modeling to support business
+decision-making
+CO-4: Translate data into clear, actionable insights
+UNIT-I:
+Business Analytics: Overview of Business analytics, Scope of Business analytics, Business
+Analytics Process, Relationship of Business Analytics Process and organization, competitive
+advantages of Business Analytics.
+Statistical Tools: Statistical Notation, Descriptive Statistical methods, Review of probability
+distribution and data modelling, sampling and estimation methods overview.
+UNIT-II:
+Trendiness and Regression Analysis: Modelling Relationships and Trends in Data, simple
+Linear Regression. Important Resources, Business Analytics Personnel, Data and models for
+Business analytics, problem solving, Visualizing and Exploring Data Business Analytics
+Technology.
+UNIT-III:
+Organization Structures of Business analytics, Team management, Management Issues,
+Designing Information Policy, Outsourcing, Ensuring Data Quality, Measuring contribution of
+Business analytics, Managing Changes.
+Descriptive Analytics, predictive analytics, predicative Modelling, Predictive analytics
+analysis, Data Mining, Data Mining Methodologies, Prescriptive analytics and its step in the
+business analytics Process, Prescriptive Modelling, nonlinear Optimization.
+UNIT-IV:
+Forecasting Techniques: Qualitative and Judgmental Forecasting, Statistical Forecasting
+Models, Forecasting Models for Stationary Time Series, Forecasting Models for Time Series
+with a Linear Trend, Forecasting Time Series with Seasonality, Regression Forecasting with
+Casual Variables, Selecting Appropriate Forecasting Models.
+Monte Carlo Simulation and Risk Analysis: Monte Carle Simulation Using Analytic Solver
+Platform, New-Product Development Model, Newsvendor Model, Overbooking Model, Cash
+Budget Model.
+VNRVJIET M.TECH. E & I A18 CURRICULUM 64
+UNIT-V:
+Decision Analysis: Formulating Decision Problems, Decision Strategies without Outcome
+Probabilities, Decision Trees, The Value of Information, Utility and Decision Making.
+UNIT-VI:
+Recent trends in Embedded and collaborative business intelligence, Visual data recovery,
+Data Storytelling and Data journalism.
+TEXT BOOKS:
+1. Business Analytics-Principles, Concepts, and Applications, Marc J. Schniederjans, Dara G.
+Schniederjans, Christopher M. Starkey, Pearson FT Press
+2. Business Analytics, James Evans, Pearson Education
+3. Business Analytics, Purba Halady Rao, PHI, 2013
+REFERENCES:
+1. Business Analytics for Managers: Taking Business Intelligence Beyond Reporting, Gert H. N.
+Laursen, Jesper Thorlund, 2nd Edition, Wiley Publications
+2. Business Analytics: Data Analysis & Decision Making, S. Christian Albright, Wayne L.
+Winston 5th Edition, 2015
+3. Business Intelligence Guidebook: From Data Integration to Analytics, Rick Sherman
+Elsevier, 2014
+VNRVJIET M.TECH. E & I A18 CURRICULUM 65
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester (E & I) L T/P C
+3 0 3
+(A18OE1AM01) INDUSTRIAL SAFETY
+COURSE PRE-REQUISITES: Elements of Mechanical, Civil, Electrical and Industrial Engineering
+COURSE OBJECTIVES:
+• To achieve an understanding of principles, various functions and activities of safety
+management
+• To communicate effectively information on Health safety and environment facilitating
+collaboration with experts across various disciplines so as to create and execute safe
+methodology in complex engineering activities
+• To anticipate, recognize, and evaluate hazardous conditions and practices affecting
+people, property and the environment, develop and evaluate appropriate strategies
+designed to mitigate risk
+• To develop professional and ethical attitude with awareness of current legal issues by
+rendering expertise to wide range of industries
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Apply risk management principles to anticipate, identify, evaluate and control
+physical, chemical, biological and psychosocial hazards
+CO-2: Communicate effectively on health and safety matters among the employees and
+with society at large
+CO-3: Demonstrate the use of state-of-the-art occupational health and safety practices in
+controlling risks of complex engineering activities and understand their limitations
+CO-4: Interpret and apply legislative / Legal requirements, industry standards, and best
+practices in accident prevention programmes in a variety of workplaces
+UNIT-I:
+Safety Management: Evaluation of modern safety concepts – Safety management functions
+– safety organization, safety department – safety committee, safety audit - performance
+measurements and motivation – employee participation in safety and productivity.
+UNIT-II:
+Operational Safety: Hot metal Operation – Boiler, pressure vessels – heat treatment shop - gas
+furnace operation-electroplating-hot bending pipes – Safety in welding and cutting. Cold-
+metal Operation- Safety in Machine shop-Cold bending and chamfering of pipes – metal
+cutting – shot blasting, grinding, painting – power press and other machines
+UNIT-III:
+Safety Measures: Layout design and material handling - Use of electricity – Management of
+toxic gases and chemicals – Industrial fires and prevention – Road safety– Safety of sewage
+disposal and cleaning – Control of environmental pollution – Managing emergencies in
+industrial hazards.
+UNIT-IV:
+Accident Prevention: Human side of safety – personal protective equipment – Causes and
+cost of accidents. Accident prevention programmes - Specific hazard control strategies -
+HAZOP – Training and development of employees – First Aid – Firefighting devices – Accident
+reporting investigation.
+UNIT-V:
+Safety, Health, Welfare & Laws: Safety and health standards – Industrial hygiene –
+occupational diseases prevention - Welfare facilities – History of legislations related to safety–
+VNRVJIET M.TECH. E & I A18 CURRICULUM 66
+pressure vessel act- Indian boiler act- The environmental protection act – Electricity act -
+Explosive act.
+UNIT-VI:
+Safe Handling and Storage: Material Handling, Compressed Gas Cylinders, Corrosive
+Substances, Hydrocarbons, Waste Drums and Containers
+TEXT BOOKS:
+1. Safety Management, John V. Grimaldi and Rollin H. Simonds, All India Travellers
+Bookseller, New Delhi, 1989.
+2. Safety Management in Industry, Krishnan N. V., Jaico Publishing House, 1996.
+REFERENCES:
+1. Occupational Safety Manual, BHEL
+2. Industrial Safety and The Law, P. M. C. Nair Publisher’s, Trivandrum
+3. Managing Emergencies in Industries, Loss Prevention of India Ltd., Proceedings, 1999
+4. Safety Security and Risk Management, U. K. Singh & J. M. Dewan, A. P. H. Publishing
+Company, New Delhi, 1996
+5. Industrial Safety Management: Hazard Identification and Risk Control, L. M. Deshmukh,
+McGraw-Hill Education (India) Private Limited, 2005
+VNRVJIET M.TECH. E & I A18 CURRICULUM 67
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester (E & I) L T/P C
+3 0 3
+(A18OE1AM02) OPERATIONS RESEARCH
+COURSE PRE-REQUISITES: Mathematics, Industrial Engineering
+COURSE OBJECTIVES:
+• To analyze linear programming models in practical and their practical use
+• To apply the transportation, assignment and sequencing models and their solution
+methodology for solving problems
+• To apply the theory of games, replacement, inventory and queuing models and their
+solution methodology for solving problems
+• To evaluate the dynamic programming and simulation models
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Apply and solve the dynamic programming problems
+CO-2: Apply the concept of non-linear programming
+CO-3: Carry out sensitivity analysis
+CO-4: Model the real-world problem and simulate it
+UNIT-I:
+Introduction to Operations Research-Definitions of OR, Characteristics of OR, Scope of OR,
+Classification of Optimization Techniques, models in OR, General L.P Formulation, Graphical
+solution, Simplex Techniques.
+UNIT-II:
+Revised simplex method - duality theory - dual simplex method – sensitivity or post optimality
+analysis - parametric programming
+UNIT-III:
+Nonlinear programming problem - Kuhn-Tucker condition, min cost flow problem - max flow
+problem - CPM/PERT
+UNIT-IV:
+Scheduling and sequencing, Inventory models, deterministic inventory, models - Probabilistic
+inventory control models - Geometric Programming.
+UNIT-V:
+Waiting line Models, Single and Multi-channel Problems, Dynamic Programming, Game
+Theory, Simulation.
+UNIT-VI:
+Introduction to Genetic Algorithms, Operators, applications to engineering optimization,
+Problems.
+TEXT BOOKS:
+1. Operations Research, S. D. Sharma, Kedarnath Ramnath, Meerut, New Delhi
+2. Engineering Optimization, S. S. Rao, New Age International Publications, 2014
+3. Introduction to Genetic Algorithms, S. N. Sivanandam, Springer
+REFERENCES:
+1. Operations Research-An Introduction, H. A. Taha, PHI, 2008
+2. Principles of Operations Research, H. M. Wagner, PHI, Delhi, 1982
+3. Introduction to Optimization: Operations Research, J. C. Pant, Jain Brothers, Delhi, 2008
+VNRVJIET M.TECH. E & I A18 CURRICULUM 68
+4. Operations Research, Hitler Liebermann McGraw-Hill Pub., 2009
+5. Operations Research, Pannerselvam, Prentice Hall of India, 2010
+VNRVJIET M.TECH. E & I A18 CURRICULUM 69
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester (E & I) L T/P C
+3 0 3
+(A18OE1AM03) COMPOSITE MATERIALS
+COURSE PRE-REQUISITES: Maths, Physics, Chemistry, Engineering Mechanics, Mechanics of
+Solids
+COURSE OBJECTIVES:
+• To understand composite materials and their properties, relationship between them and
+manufacturing methods
+• To understand the principles of material science applied to composite materials
+• To study the equations to analyze problems by making good assumptions and learn
+systematic engineering methods to solve practical composite mechanics problems
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Apply fundamental knowledge of mathematics to modeling and analysis of
+composite materials
+CO-2: Understand the manufacturing methods of various composite materials
+CO-3: Analyze the failure modes of composites
+UNIT-I:
+Introduction: Definition – Classification and characteristics of Composite materials.
+Advantages and application of composites. Functional requirements of reinforcement and
+matrix. Effect of reinforcement (size, shape, distribution, volume fraction) on overall
+composite performance.
+UNIT-II:
+Reinforcements: Preparation-layup, curing, properties and applications of glass fibers, carbon
+fibers, Kevlar fibers and Boron fibers. Properties and applications of whiskers, particle
+reinforcements.
+Mechanical Behavior of Composites: Rule of mixtures, Inverse rule of mixtures. Isostrain and
+Isostress conditions.
+UNIT-III:
+Manufacturing of Metal Matrix Composites: Casting – Solid State diffusion technique,
+Cladding – Hot isostatic pressing. Properties and applications.
+Manufacturing of Ceramic Matrix Composites: Liquid Metal Infiltration – Liquid phase
+sintering. Manufacturing of Carbon – Carbon composites: Knitting, Braiding, Weaving.
+Properties and applications.
+UNIT-IV:
+Manufacturing of Polymer Matrix Composites: Preparation of Moulding compounds and
+prepregs – hand layup method – Autoclave method – Filament winding method –
+Compression moulding – Reaction injection moulding. Properties and applications,
+Introduction to Machining of Composites.
+UNIT-V:
+Elastic Behavior of Laminate: Basic assumptions, Strain-displacement relations, Stress-strain
+relation of layer within a laminate, Force and moment resultant, General load–deformation
+relations, Analysis of different types of laminates
+UNIT-VI:
+Strength: Laminar Failure Criteria-strength ratio, maximum stress criteria, maximum strain
+criteria, interacting failure criteria, hygrothermal failure. Laminate first ply failure-insight
+VNRVJIET M.TECH. E & I A18 CURRICULUM 70
+strength; Laminate strength-ply discount truncated maximum strain criterion; strength design
+using caplet plots; stress concentrations.
+TEXT BOOKS:
+1. Material Science and Technology, Vol. 13–Composites, R. W. Cahn – VCH, West Germany
+2. Analysis and Performance of Fiber Composites, Third Edition, B. D. Agarwal, Wiley
+Publishers
+REFERENCES:
+1. Mechanics of Composite Materials, Second Edition. Robert M. Jones, Scripta Book
+Company
+2. Materials Science and Engineering-An Introduction, W. D. Callister Jr., Adapted by R. Bala
+Subramaniam, John Wiley & Sons, NY, Indian Edition, 2007
+3. Composite Materials, K. K. Chawla
+4. Composite Materials Science and Applications, Deborah D. L. Chung
+5. Composite Materials Design and Applications, Danial Gay, Suong V. Hoa and Stephen
+W. Tasi
+VNRVJIET M.TECH. E & I A18 CURRICULUM 71
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester (E & I) L T/P C
+3 0 3
+(A18OE1PS01) WASTE TO ENERGY
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To create awareness in students of energy conservation
+• To identify the use of different types of Bio waste energy resources
+• To understand different types of bio waste energy conservations
+• To detect different waste conversion into different forms of energy
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO1: Find different types of energy from waste to produce electrical power
+CO2: Estimate the use of bio waste to produce electrical energy
+CO3: Understand different types of bio waste and its energy conversions
+CO4: Analyze the bio waste utilization to avoid the environmental pollution
+UNIT-I:
+Introduction to Energy from Waste: Classification of waste as fuel, Agro based, Forest residue,
+Industrial waste, MSW (Municipal solid waste) – Conversion devices – Incinerators, Gasifiers,
+Digestors
+UNIT-II:
+Biomass Pyrolysis: Pyrolysis – Types, slow fast – Manufacture of charcoal – Methods - Yields
+and application – Manufacture of pyrolytic oils and gases, yields and applications.
+UNIT-III:
+Biomass Gasification: Gasifiers – Fixed bed system – Downdraft and updraft gasifiers –
+Fluidized bed gasifiers – Design, construction and operation – Gasifier burner arrangement for
+thermal heating – Gasifier engine arrangement and electrical power – Equilibrium and
+kinetic consideration in gasifier operation.
+UNIT-IV:
+Biomass Combustion: Biomass stoves – Improved chullahs, types, some exotic designs, Fixed
+bed combustors, Types, inclined grate combustors, Fluidized bed combustors, Design,
+construction and operation - Operation of all the above biomass combustors.
+UNIT-V:
+Biogas: Properties of biogas (Calorific value and composition) - Biogas plant technology and
+status - Bio energy system - Design and constructional features - Biomass resources and their
+classification - Biomass conversion processes - Thermo chemical conversion - Direct
+combustion - biomass gasification - pyrolysis and liquefaction - biochemical conversion -
+anaerobic digestion.
+UNIT-VI:
+Types of biogas Plants – Applications - Alcohol production from biomass - Bio diesel
+production - Urban waste to energy conversion - Biomass energy programme in India.
+TEXT BOOKS:
+1. Biogas Technology-Transfer and Diffusion, M. M. EL-Halwagi, Elsevier Applied Science
+Publisher, New York, 1984
+2. Introduction to Biomass Energy Conversions, Sergio Capareda
+VNRVJIET M.TECH. E & I A18 CURRICULUM 72
+REFERENCES:
+1. Non-Conventional Energy, Desai Ashok V., Wiley Eastern Ltd., 1990
+2. Biogas Technology - A Practical Handbook, Khandelwal, K. C. and Mahdi, S. S., Vol. I & II,
+Tata McGraw-Hill Publishing Co. Ltd., 1983
+3. Food, Feed and Fuel from Biomass, Challal, D. S., IBH Publishing Co. Pvt. Ltd., 1991
+4. Biomass Conversion and Technology, C. Y. WereKo-Brobby and E. B. Hagan, John Wiley &
+Sons, 1996
+VNRVJIET M.TECH. E & I A18 CURRICULUM 73
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester (E & I) L T/P C
+0 16 8
+(A18PW4LI03) PROJECT PART-I
+M.Tech. IV Semester (E & I) L T/P C
+0 28 14
+(A18PW4LI04) PROJECT PART-II
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Identify and formulate the problem (Industry/technical/societal)
+CO-2: Analyze, design and develop a solution to industry/technical/societal problems
+CO-3: Implement and execute the solution
+CO-4: Demonstrate effective communication skills through oral presentation
+CO-5: Engage in effective written communication through project report
+COURSE OUTLINE:
+• M.Tech. project work shall be for a minimum duration of 40 weeks spread over two
+semesters i.e., Project Part-I in III semester and Project Part-II in IV semester.
+• A student shall be permitted to register for the major project after satisfying the
+attendance requirement in all the courses, i.e., theory and practical courses.
+• Project reviews namely Project Review I and Project Review II in III semester and Project
+Review III and Project Pre-submission Seminar in IV semester shall be conducted during
+the course of Project work.
+• A Project Review Committee (PRC) consisting of the Head of the Department as
+Chairperson and PG Coordinator, Project Supervisor and one senior faculty member of
+the Department offering the M. Tech. programme as members shall evaluate the
+progress of project work.
+• In Project Review I, a student, in consultation with his Project Supervisor, shall present the
+title, objective and plan of action of his/her project work to the PRC for approval within
+four weeks from the commencement of III semester.
+• A student can initiate the project work only after obtaining the approval of the PRC.
+• The work on the project shall be initiated at the beginning of the III semester.
+• Project Review II shall be conducted and evaluated at the end of the III semester.
+• Project Review III shall be conducted during IV semester to examine the overall progress
+of the project work.
+• A project pre-submission seminar shall be conducted to decide whether or not the
+project is eligible for final submission.
+• After approval from the PRC, a soft copy of the thesis shall be submitted for PLAGIARISM
+check to the Examination Branch.
+• At the end of IV semester upon fulfilling the above conditions, project viva-voce shall be
+conducted.
+• A student shall submit project progress in prescribed report format during each of the
+project reviews.

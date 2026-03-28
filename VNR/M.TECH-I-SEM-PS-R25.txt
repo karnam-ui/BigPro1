@@ -1,0 +1,1132 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/syllabus-books/Mtech-R25/M.TECH-I-SEM-PS-R25.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. I YEAR COURSE STRUCTURE AND SYLLABUS
+(POWER SYSTEMS)
+I SEMESTER R25
+Course
+Course Type Name of the Course L T P Credits
+Code
+Professional Advanced Power System
+25PC1PS01 3 0 0 3
+Core-I Analysis
+Professional
+25PC1PS02 Power System Dynamics 3 0 0 3
+Core-II
+Professional
+25PC1PL01 Power Electronic Converters 3 0 0 3
+Core-III
+Renewable Energy
+25PE1PS01
+Technologies
+Advanced Micro Controller
+25PE1PL01
+Based Systems
+Professional
+25PE1VS22 Principles of VLSI Design 3 0 0 3
+Elective-I
+25PE1PS02 Power System Restructuring
+Economic Operation of Power
+25PE1PS03
+Systems
+Electrical Power Distribution
+25PE1PS04
+System
+SCADA Systems and
+25PE1PS05
+Applications
+Reactive Power Compensation
+Professional 25PE1PS06 3 0 0 3
+and Management
+Elective-II
+25PE1PL05 Advanced Control Systems
+25PE1PL06 Machine Learning Applications
+Professional Python for Electrical Systems
+25PC2PL01 0 0 2 1
+Core Lab-I and Applications Laboratory
+Professional Power System Computation
+25PC2PS01 0 0 2 1
+Core Lab-II Laboratory-I
+Communication English for Academic and
+25SD5EN01 0 0 2 1
+Skills Research Writing
+Project 25PW4PS01 Technical Seminar 0 0 4 2
+Mandatory 25MN6HS01 Research Methodology and IPR 2 0 0 0
+Total 17 0 10 20
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. I YEAR COURSE STRUCTURE AND SYLLABUS
+(POWER SYSTEMS)
+II SEMESTER R25
+Course
+Course Type Name of the Course L T P Credits
+Code
+Professional Digital Protection of Power
+25PC1PS03 3 0 0 3
+Core-IV System
+Professional
+25PC1PS04 Artificial Intelligence Techniques 3 0 0 3
+Core-V
+Professional
+25PC1PS05 Flexible AC Transmission Systems 3 0 0 3
+Core-VI
+25PE1PS07 Voltage Stability
+25PE1PS08 Power System Reliability
+Professional
+25PE1PS09 Power Quality 3 0 0 3
+Elective-III
+25PE1PS10 Cyber Security of Smart Grids
+Digital Controllers in Power
+25PC1PL05
+Engineering
+Evolutionary Algorithm
+25PE1PS11 Applications in Power
+Engineering
+Real-Time Control of Power
+25PE1PS12
+Systems
+Professional 3 0 0 3
+25PC1PL06 Electric and Hybrid Vehicles
+Elective-IV
+Wide area Measurement
+25PE1PS13
+Techniques
+25PE1PS14 Power System Transients
+Professional Power System Practice
+25PC2PS02 0 0 2 1
+Core Lab-III Laboratory
+Professional Power System Computation
+25PC2PS03 0 0 2 1
+Core Lab-IV Laboratory-II
+Industry
+25SD5PS01 Industry Engagement 0 0 2 1
+Engagement
+Project 25PW4PS02 Mini-Project 0 0 4 2
+Mandatory 25MN6HS02 Ancient Wisdom 2 0 0 0
+Total 17 0 10 20
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. II YEAR COURSE STRUCTURE AND SYLLABUS
+(POWER SYSTEMS)
+III SEMESTER R25
+Course Course
+Name of the Course L T P Credits
+Type Code
+25PE1CP11 Internet of Things
+Energy Conservation and
+25PE1PS15
+Auditing
+Professional
+25PE1PL13 Energy Storage Technologies 3 0 0 3
+Elective-V
+25PE1PS16 Gas Insulated Substation
+25PE1PS17 EHV AC Transmission
+25OE1CN01 Business Analytics
+25OE1AM01 Industrial Safety
+Open
+25OE1AM02 Operations Research 3 0 0 3
+Elective
+25OE1AM03 Entrepreneurship and Startups
+25OE1PS01 Waste to Energy
+Project 25PW4PS03 Project Part - I 0 0 16 8
+Total 6 0 16 14
+IV SEMESTER R25
+Course Course
+Name of the Course L T P Credits
+Type Code
+Project 25PW4PS04 Project Part - II 0 0 28 14
+Total 0 0 28 14
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC1PS01) ADVANCED POWER SYSTEM ANALYSIS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Fundamentals in Power Systems
+COURSE OBJECTIVES:
+• To evaluate the network matrices and study various methods of load flows and
+their advantages and disadvantages
+• To analyze various types of faults in power system
+• To understand power system security concepts and study the methods to rank the
+contingencies
+• To understand need for power system state estimation and study various types of
+measurements used in state estimation
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Calculate impedance and admittance matrices of a given power system
+network
+CO-2: Evaluate state variables at various nodes in the power system network using
+different load flow techniques
+CO-3: Calculate fault currents for various types of faults in power system and rank
+various contingencies according to their severity
+CO-4: Estimate the bus voltage phasors at various nodes in the power system
+UNIT-I:
+Admittance Model and Network Calculations: Branch and Node Admittances,
+Determination of Ybus, Mutually Coupled Branches in Ybus, An Equivalent Admittance
+Network, Network Incidence Matrix and Ybus, Triangular Factorization method for
+Ybus.
+UNIT-II:
+Impedance Model and Network Calculations: Bus Impedance Matrix, Thevenin’s
+Theorem and Zbus, Zbus building algorithm-Modification of an existing Zbus,
+Calculation of Zbus elements from Ybus, Mutually Coupled Branches in Zbus.
+UNIT-III:
+Load Flows: Gauss Seidel method, N-R Method, Decoupled method, Fast decoupled
+method, comparison between power flow solutions, DC load flows.
+UNIT-IV:
+Fault Analysis: Fault calculations using Zbus, Fault calculations using Zbus equivalent
+circuits. Symmetrical components, Sequence circuits of various components in power
+system (transmission lines, transformers and synchronous machines), Various types of
+unsymmetrical fault calculations-Single line to ground fault, line to line fault and
+double line to ground fault.
+UNIT-V:
+Security Analysis: Factors affecting power system security,
+Contingency analysis: Detection of network problems, Overview of security analysis-
+Linear sensitivity factors – Power transfer Generator shift distribution factor and Line
+outage distribution factor, A.C power flow methods, Contingency selection using
+overload performance index and 1P1Q method.
+TEXT BOOKS:
+1. Power System Analysis, J. J. Grainger & W. D. Stevenson, McGraw-Hill, 2003
+2. Power Generation, Operation and Control, A. J. Wood, John Wiley, 1994
+REFERENCES:
+1. Power System Analysis, A. R. Bergen & Vijay Vital, Pearson, 2000
+2. Computer Aided Power System Analysis, G. L. Kusic, Prentice Hall India, 1986
+ONLINE RESOURCES:
+1. https://onlinecourses.nptel.ac.in/noc20_ee88/preview
+2. https://www.coursera.org/learn/industrial-power-system-analysis-and-stability
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC1PS02) POWER SYSTEM DYNAMICS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Electrical Power Systems, Electrical Machines, Power System
+Analysis
+COURSE OBJECTIVES:
+• To study of system dynamics and its physical interpretation
+• To develop mathematical models for synchronous machine
+• To develop the excitation, PSS and load models
+• To study small signal and transient power system stability
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the modelling of synchronous machine in detail
+CO-2: Development of transient models of synchronous machine for stability studies
+CO-3: Development of models for excitation systems and power system stabilizers
+(PSS)
+CO-4: Understand the power system small signal and transient stability problem
+UNIT- I:
+Power System Stability: Swing Equation, Power-Angle Curve, Small signal stability,
+Stability analysis of SMIB system, Classical Model of a Single Machine System, Block
+Diagram of One Machine infinite bus system, System Response to Small Disturbances,
+Synchronizing and damping torques. Transient Stability, Swing curves for large
+disturbances for different cases: first swing stability, equal area criterion.
+UNIT-II:
+Synchronous Machine Modelling: Mathematical description of a synchronous
+machine, stator and rotor circuits of synchronous machine. Necessary assumptions for
+modelling, basic equations of synchronous, self-inductance and mutual inductances,
+stator and rotor flux linkage equations, stator and rotor voltage equations.
+UNIT-III:
+Park’s Transformation and Equivalent Circuits: Park's Transformation, Flux Linkage
+Equations, Voltage Equations, Per Unit Conversion, Normalizing the Voltage and
+Torque Equations, Equivalent Circuit of a Synchronous Machine, DQ Equivalent
+Circuits:3-Ph SC on machine terminals– OCC, SCC and SCR. Simple sub transient,
+transient and steady state models.
+UNIT- IV:
+Modelling of Prime Movers and Excitation Systems: Modelling of turbines- hydraulic
+turbine-model of governors for hydraulic turbine-block diagram and steam turbine
+model. Modelling of Excitation Systems: Commonly used D.C and A.C excitation
+system block diagrams. IEEE type-I excitation system block diagram.
+UNIT-V:
+SSS of SMIB System: State space representation of classical generator model, effect
+of field flux linkage variation on system stability. Phillips Heffron model, block diagram
+representation with exciter and AVR. Power System Stabilizer: structure and tuning of
+Power System Stabilizer (PSS), block diagram with AVR and PSS.
+TEXT BOOKS:
+1. Power System Stability and Control, P. Kundur, McGraw-Hill, 1994
+2. Power System Dynamics Stability and Control, K. R. Padiyar, B. S. Publications, 2006
+REFERENCES:
+1. Power System Dynamics and Stability, J. Machowski, J. Bialek & J. R. W. Bumby,
+John Wiley & Sons, 1997
+2. Power System Stability Vol. I & III, E. W. Kimbark, John Wiley & Sons, 2002
+3. Advanced Power System Analysis and Dynamics, L. P. Singh, New Age
+International, 2006
+4. Power System Control and Stability, P. M. Anderson & A. A. Fouad, Galgotia, 1981
+ONLINE RESOURCES:
+1. https://onlinecourses.nptel.ac.in/noc21_ee16/preview
+2. http://kcl.digimat.in/nptel/courses/video/108105133/lec1.pdf
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC1PL01) POWER ELECTRONIC CONVERTERS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Power Electronics
+COURSE OBJECTIVES:
+• To Design/develop suitable power converter for efficient control or conversion of
+power in drive applications
+• To Design / develop suitable power converter for efficient transmission and
+utilization of power in power system applications
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the operating characteristics of various power electronic devices
+and the design aspects
+CO-2: Analyze operating principles of different converters and find their applications
+CO-3: Design the control range/ control methodologies for various power electronic
+converters
+UNIT-I:
+Overview of Switching Power Devices and Analysis of Switched Circuits: Static and
+dynamic characteristics of switching devices: Thyristor, BJT, MOSFET, IGBT, Wide band
+gap devices (GaN, SiC) comparison with si based devices - Design of gate driver for
+MOSFET, and RC, RCD snubber circuits
+UNIT-II:
+DC-to-DC Converters: Non-isolated DC-DC converters: buck, boost, buck-boost, CUK
+converters under continuous and discontinuous conduction operation, -Relationship
+between I/P and O/P voltages - design of filter inductor and capacitor- Isolated DC-
+DC converters: forward, fly-back, push-pull, half-bridge and full-bridge converters
+UNIT-III:
+Single Phase and Three Inverters: Single phase bridge inverters -performance
+parameters, three phase inverters - 180- and 120-degree Conduction modes, Voltage
+control and harmonic minimization in inverters- PWM techniques: single, multi pulse
+selective harmonic elimination, Sine PWM technique, space vector modulation-
+Current source inverter
+UNIT-IV:
+Front-End (AC-DC) Converters:
+Conventional methods of power factor improvements: Semi-converter, extinction
+angle control, symmetrical angle control – Active front-end converters - Single phase
+PFC topologies, Boost PFC, Interleaved PFC, PWM rectifiers –voltage and current
+controlled three-phase PWM rectifiers.
+UNIT-V:
+AC to AC Converters & Application of Power converters: AC to AC power conversion
+using 1Ph voltage regulators for RL load, 1Ph cyclo-converters, consideration of
+harmonics, introduction to Matrix converters -Principle of operation
+Case Study:
+Design of onboard charger for EV: Design of boost PFC and full bridge isolated dc to
+dc converter based OBC
+TEXT BOOKS:
+1. Power Electronics, M. H. Rashid, Prentice Hall of India 1994
+2. Power Electronics- converters, Application and design, Ned mohan, Undeland
+and Robbins, John’s Wiley and Sons. Inc, NewYork
+3. Power Electronics –Essentials and applications, L. Umanand, Wiley India Pvt. Ltd.
+REFERENCES:
+1. Fundamentals of Power Electronics, Erickson RW, Chapman and Hall
+2. High power converters and drives, Bin Wu, IEEE press, Wiley Enter science
+ONLINE RESOURCES:
+1. https://archive.nptel.ac.in/courses/117/108/117108124/
+2. https://onlinecourses.nptel.ac.in/noc20_ee28/preview
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1PS01) RENEWABLE ENERGY TECHNOLOGIES
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Power Systems, Switch gear Protection, Power Electronics
+COURSE OBJECTIVES:
+• To provide necessary knowledge about the modeling, design and analysis of
+various PV& WECS
+• To understand the power conditioning of PV & WECS system’s power output
+• To gain understanding of integrated operation of renewable energy systems and
+its LCC
+• To estimate sizing and feasibility analysis of energy storage system
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Model, analyze and design various PV & WECS
+CO-2: Design appropriate power conditioning system for PV &WEC system
+CO-3: Design efficient stand alone and grid connected PV and WEC systems
+CO-4: Design efficient storage systems for Renewable Energy systems
+UNIT-I:
+Photovoltaic Energy Conversion System: Basics- solar constant-extraterrestrial and
+terrestrial solar radiation, instruments for measuring solar radiation and sunshine, PV
+Cell-Crystalline Solar cells-Thin film solar cell, Module, Array, Equivalent Electrical
+circuit, I-V, P-V Curves, effect of temperature and irradiation and series/shunt
+resistances on the open circuit voltage and short circuit current, hot spot problem in
+a PV module.
+UNIT-II:
+Wind Energy Conversion System: Basic Principle of wind energy conversion -nature of
+wind -wind survey in India -Power in the wind -components of a wind energy -
+conversion system -Performance of induction generators for WECS, Site selection,
+classification of WECS.
+UNIT-III:
+Sizing of PV and Energy Storage Systems: Sizing PV without batteries and Sizing PV with
+batteries -Battery Parameters-C-rate, DOD, SOC Battery selection, PV system design-
+Load profile-Days of autonomy and recharge-Battery size-PV array size.
+UNIT-IV:
+Converter Control and its Algorithms: DC Power conditioning converters-Buck, Boost,
+Buck-Boost, AC power conditioners converters-Line commutated inverters - maximum
+power point tracking -Impedance control methods-P&O, INC, Hill Climbing methods
+UNIT-V:
+Grid Integration: Grid connection principle, Grid integration topologies, Direct
+Machine Coupling with the Grid, Full Power Electronics Coupling with the Grid, Partial
+Power Electronics Coupling to the Grid, Distributed Power Electronics Interface, d-q
+controlled grid connection for three-phase, Impact of Interface on the Power System.
+Case study of comparison between Off grid and grid connected systems.
+TEXT BOOKS:
+1. Non-conventional Energy Sources, Rai G. D., Khanna Publishers, 2002
+2. Wind and Solar Power Systems, Mukund R. Patel, CRC Press, 2004
+3. Energy Storage Technologies and Applications, Ahmed Faheem Zobaa, InTech
+Publishers, 2013
+REFERENCES:
+1. Solar Energy Utilization, Rai G. D., Khanna Publishers,1997
+2. Wind Energy Systems, Gray L. Johnson, Prentice Hall, 1985
+ONLINE RESOURCES:
+1. https://nptel.ac.in/courses/117108141
+2. https://onlinecourses.nptel.ac.in/noc25_ch40/preview
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1PL01) ADVANCED MICRO CONTROLLER BASED SYSTEMS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Power System Operation and Control, Power System Analysis
+COURSE OBJECTIVES:
+• To understand the architecture of advance microprocessor and microcontrollers
+• To understand the applications of these controllers
+• To get introduction to Embedded Systems
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the architecture of advanced microprocessors and
+microcontrollers
+CO-2: Learn how to program a processor and develop an advanced processor-
+based system
+CO-3: Understand the application of Microprocessor and microcontrollers as building
+unit for Embedded Systems
+UNIT-I:
+Basics of Micro Processors & Embedded Concepts: Microprocessor architecture, word
+Lengths, addressable memory, Microprocessor's speed architectural characteristics,
+registers, instruction, memory addressing architecture, ALU, GPR's Control logic &
+internal data bus.
+An Embedded system, processor in the system, other hardware units, software
+embedded into a system, exemplary embedded systems, embedded system – on –
+chip (SOC) and in VLSI circuit. Processor and memory organization – Structural units in
+a Processor, Processor selection for an embedded system, memory devices, memory
+selection for an embedded systems, memories and Input Output Devices.
+UNIT-II:
+ARM Architecture: Types of computer Architectures, ISA's and ARM History. Embedded
+System Software and Hardware, stack implementation in ARM, Endianness, condition
+codes. ARM Architecture Versions, Processor Naming, Processor core VS CPU core,
+ARM7TDMI Interface signals, Memory Interface,Bus Cycle types, Register set,
+Operational Modes. Instruction Format,ARM Core Data Flow Model,ARM 3 stage
+Pipeline, ARM family attribute comparison. ARM 5 stage Pipeline, Pipeline Hazards,
+Data forwarding - a hardware solution.
+UNIT-III:
+Overview of Cortex-M3:
+Cortex-M3 Basics: Instruction Set Development, Thumb-2, Registers, General Purpose
+Registers, Stack Pointer, Link Register, Program Counter, Special Registers, Operation
+Mode, Stack Memory Operations, Reset Sequence. Instruction Sets: Assembly Basics,
+Instruction List, Instruction Descriptions.
+UNIT-IV:
+Cortex-M3 Implementation Overview: Pipeline, Block Diagram, Bus Interfaces on
+Cortex-M3, I-Code Bus, D-Code Bus, System Bus, External PPB and DAP Bus. Exceptions:
+Exception Types, Priority, Vector Tables, Interrupt Inputs and Pending Behavior, Fault
+Exceptions, Supervisor Call and Pendable Service Call. NVIC: Nested Vectored
+Interrupt Controller Overview, Basic Interrupt Configuration, Software Interrupts and
+SYSTICK Timer. Interrupt Behavior: Interrupt/Exception Sequences, Exception Exits,
+Nested Interrupts, Tail-Chaining Interrupts, Late Arrivals and Interrupt Latency
+UNIT-V:
+Cortex-M3/M4 Programming & Microcontroller:
+Cortex-M3/M4 Programming: Cortex- M3/M4 Programming: Overview, Typical
+Development Flow, Using C, CMSIS (Cortex Microcontroller Software Interface
+Standard), Using Assembly. 9 5 /78 Exception Programming: Using Interrupts,
+Exception/Interrupt Handlers, Software Interrupts, Vector Table Relocation. Memory
+Protection Unit and other Cortex-M3 features: MPU Registers, Setting Up the MPU,
+Power Management, Multiprocessor Communication. STM32L15xxx ARM Cortex
+M3/M4 Microcontroller: Memory and Bus Architecture, Power Control, Reset and
+Clock Control. STM32L15xxx Peripherals: GPIOs, System Configuration Controller, NVIC,
+ADC, Comparators, GP Timers, USART.
+TEXT BOOKS:
+1. The Definitive Guide to the ARM Cortex-M3, Joseph Yiu, 2nd Edition, Elsevier, 2010
+2. Embedded/Real Time Systems Concepts, Design and Programming Black Book,
+Prasad,
+3. Andrew N Sloss, Dominic Symes, Chris Wright, ARM System Developer's Guide -
+Designing and Optimizing System Software, 2006, Elsevier
+REFERENCES:
+1. ARM Architecture Reference Manual, David Seal, 2001 Addison Wesley, Morgan
+Kaufmann
+2. ARM System-on-Chip Architecture, Steve Furber, 2nd Edition, Pearson Education
+3. Cortex-M series-ARM Reference Manual
+4. Cortex-M3 Technical Reference Manual (TRM)
+5. STM32L152xx ARM Cortex M3 Microcontroller Reference Manual
+ONLINE RESOURCES:
+1. https://nptel.ac.in/courses/108105102
+2. https://www.nptelprep.in/courses/108103007/materials
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1VS22) PRINCIPLES OF VLSI DESIGN
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Digital Electronics, Electronic Circuits
+COURSE OBJECTIVES:
+• To learn the fabrication process of Integrated Circuit and electrical properties of
+MOSFET
+• To study the concepts of stick diagrams and layouts with the knowledge of MOS
+layers through design rules
+• To learn the design of digital systems using sub system design approach
+• To understand the concepts of PLD’s, design capture tools and CMOS testing
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the concepts and characteristics of MOS devices
+CO-2: Model the system using Hardware Description languages
+CO-3: Design the CMOS logic circuits and memory units
+CO-4: Acquire knowledge on PLDS
+CO-5: Appraise the possibilities of ASIC design
+UNIT-I:
+MOS and Fabrication: VLSI technology- NMOS, CMOS and BICMOS circuit fabrication.
+Comparison of IC technologies. Operation characteristics, design equations, models
+and second order effects of MOS transistors, Fabrication of resistors and capacitors.
+Latch up, Driver circuits.
+UNIT-II:
+Hardware Description Languages: VHDL- Modeling styles Design of simple/ complex
+circuits using VHDL. Overview of Verilog HDL -Design of simple circuits using Verilog
+HDL.
+UNIT-III:
+CMOS Logic Circuits: Implementation of logic circuits using MOS and CMOS, Pass
+transistor and transmission gates, design of combinational and sequential circuits
+memory design.
+UNIT-IV:
+Programmable Devices: Simple and Complex Programmable logic devices (SPLD and
+CPLDs), Field Programmable Gate Arrays (FPGAs), Internal components of FPGA,
+Case study: A CPLD and a 10 million gates type of FPGA.
+UNIT-V:
+ASIC: Types of ASICs-Design flow-Programmable ASICs-Programmable ASIC logic cells
+and interconnect for Xilinx and Altera families
+TEXT BOOKS:
+1. CMOS VLSI Design: A Circuits and Systems Perspective, Neil Wesle, David Harris,
+Addison-Wesley, 4th Edition, 2010
+2. Application Specific Integrated Circuits, M. J. Smith, Addison Wesley, 1997
+REFERENCES:
+1. Introduction to VLSI Circuits and Systems, Uyemura,Wiley, 2002
+2. A Verilog HDL Primer, Star Galaxy, J. Bhaskar, 2nd Edition, 2000
+ONLINE RESOURCES:
+1. https://www.coursera.org/learn/fundamentals-of-digital-design-for-vlsi-chip-
+design
+2. https://onlinecourses.nptel.ac.in/noc23_ee137/preview
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1PS02) POWER SYSTEM RESTRUCTURING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Power System Operation and Control, Power System Analysis
+COURSE OBJECTIVES:
+• To introduce the restructuring of power industry and market models
+• To get knowledge on fundamental concepts of congestion management
+• To analyse the concepts of Transmission pricing and LMP
+• To illustrate about various power sectors in India and risk hedging functionalities
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Identify the economic aspects and need of regulation and deregulation
+CO-2: Describe the Technical issues and services provided in Deregulated Power
+Industry
+CO-3: Explain existing electricity markets like PJM and OPF models
+CO-4: Illustrate the ancillary services, Reform initiatives and open access issues
+UNIT-I:
+Fundamentals of Restructuring: Introduction, Motivation – Benefits - Reasons – Structure
+- Restructuring process - Different entities - Role of ISO – PJM ISO - Models of
+Competition: Monopoly, purchasing agency, wholesale competition, Retail
+Competition - contractual restructuring models: Poolco, Bilateral and Hybrid - Power
+Exchange, Comparison of various market models - Issues involved in deregulation
+UNIT-II:
+Transmission Congestion Management: Introduction: Definition of Congestion,
+reasons for transfer capability limitation, Effects of congestion management - features
+of congestion management – Classification of congestion management methods:
+Non – market methods – Market methods – OPF based Congestion management--
+Inter zonal and Intra zonal congestion management – Price area congestion
+management – Capacity alleviation method - Congestion Pricing methods.
+UNIT-III:
+Calculation of ATC and Structure of OASIS: Functions and Architecture –
+Implementation- Types of information available in OASIS and information
+requirements -Transfer Capability on OASIS - Definitions, Transfer Capability issues, ATC
+Calculation – TTC Calculation – TRM Calculation – CBM Calculation - methods of
+determination of ATC - ATC calculation considering the effect of contingency
+analysis.
+UNIT-IV:
+Ancillary Service Management: Introduction – Functions – Classification – Load
+generation balancing related services: Frequency regulation – Spinning reserve
+services – Voltage control and reactive power support devices - Sources of reactive
+power and their comparison - Issues – Black start capability service
+UNIT-V:
+Economics of Restructured Power System:
+Fundamentals of Economics: Modelling the Consumers, Modelling the producers,
+Market equilibrium – pareto efficiency. Demand response. Economic load dispatch-
+problem, conditions for optimum, recent developments.
+TEXT BOOKS:
+1. Restructured Electrical Power Systems: Operation, Mohammad Shahidehpour,
+Muwaffaq Alomoush, Marcel Dekker, 2001
+2. Power System Restructuring and Deregulation, Loi Lei Lai, Wiley India
+3. Fundamentals of Power System Economics, Daniel Kirschen and Goran Strbac,
+John Wiley & Sons, 2004
+REFERENCES:
+1. Operation of Restructured Power Systems, Kankar Bhattacharya, Jaap E. Daadler,
+Math H. J. Boolen, Kluwer Academic, 2001
+2. Making Competition Work in Electricity, Sally Hunt, John Willey and Sons, 2002
+3. Understanding Electric Utilities and De-Regulation, Lorrin Philipson and H. Lee Willis,
+CRC Press, 2006
+ONLINE RESOURCE:
+1. http://nptel.iitm.ac.in/courses/108101005.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1PS03) ECONOMIC OPERATION OF POWER SYSTEMS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Electrical Power Systems
+COURSE OBJECTIVES:
+• To formulate and derive the necessary conditions for economical load scheduling
+problem
+• To understand various methods to solve the unit commitment problem
+• To understand the constraints related to hydro-thermal scheduling problem
+• To understand the uncontrolled and controlled LFC system
+• To understand the basic difference between ELS and OPF problem, formulation of
+the OPF problem and solution techniques
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Solve the economic load scheduling with and without network losses both in
+classical method and iterative methods
+CO-2: Solve the unit commitment problem using priority-list method and forward-
+dynamic method. Solve hydro-thermal scheduling problem for short-term and long-
+term range.
+CO-3; Analyze the single area and two area systems for frequency deviation under
+sudden change in load.
+CO-4: Solve the OPF problem using AC and DC load flow methods.
+UNIT-I:
+Economic Load Scheduling: Characteristics of Steam Turbine, Variations in steam unit
+characteristics, Economic dispatch with piecewise linear cost functions, Lambda
+Iterative method, LP method, Economic dispatch under composite generation
+production cost function, Base point and Participation factors, Thermal system
+Dispatching with Network losses considered.
+UNIT-II:
+Unit Commitment: Definition, Constraints in Unit Commitment, Unit Commitment
+solution methods, Priority–List Methods, Dynamic Programming Solution.
+UNIT-III:
+Hydro Thermal Scheduling: Characteristics of Hydroelectric units, Introduction to
+Hydrothermal coordination, Long-Range and Short- Range Hydro-Scheduling,
+Hydroelectric plant models, Hydrothermal scheduling with storage limitations,
+Dynamic programming solution to hydrothermal scheduling.
+UNIT-IV:
+Load Frequency Control: Control of generation, Models of power system elements,
+Single area and two area block diagrams, Generation control with PID controllers,
+Implementation of Automatic Generation control (AGC) and its features.
+UNIT-V:
+Optimal Power Flow: Introduction to Optimal power flow problem, OPF calculations
+combining economic dispatch and power flow, OPF using DC power flow, Algorithms
+for solution of the ACOPF, Optimal Reactive Power Dispatch.
+TEXT BOOKS:
+1. JNTU HYDERABAD J.J. Grainger & W.D.Stevenson, Power system analysis, McGraw-
+Hill, 2003.
+2. Allen J. Wood,Bruce F.Wollenberg, Gerald B. Sheblé, Power Generation Operation
+and Control Wiley-Interscience, 2013.
+REFERENCES:
+1. Olle l. Elgerd, Electric Energy Systems Theory an Introduction, TMH, 2 nd Edition,
+1983
+ONLINE RESOURCES:
+1. https://onlinecourses.nptel.ac.in/noc23_ee128/preview
+2. https://home.iitk.ac.in/~saikatc/ee632_2010.pdf.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1PS04) ELECTRICAL POWER DISTRIBUTION SYSTEMS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Power Systems, Electrical Distribution Systems
+COURSE OBJECTIVES:
+• To learn about power distribution system
+• To analyze the protective devices and coordination
+• To know the functions and maintenance of Distribution Automation
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Acquire knowledge of power distribution system
+CO-2: Study of Distribution automation and its application in practice
+CO-3: Calculate voltage drop and loss
+CO-4: Optimization and maintenance of EPDS
+UNIT–I:
+Distribution Feeders and Substations: Introduction to distribution systems- Design
+considerations of distribution feeders: Radial and Loop types of primary feeders,
+voltage levels, feeder-loading. Design practices of the secondary distribution system.
+Location of substations: Rating of a distribution substation, service area with primary
+feeders. Benefits derived through optimal location of substations.
+UNIT–II:
+Distribution Automation: Distribution of Power, Power Loads, Short-term Load
+Forecasting, Long-term Load Forecasting. Definitions in Distribution Automation, Need
+for Distribution Automation, Objectives, functions and Benefits of Distribution
+Automation. Restoration / Reconfiguration of Distribution Network, Different Methods
+and Constraints, Power Factor Correction, Advantages of Distribution Management
+System (DMS).
+UNIT-III:
+Capacitive Compensation for Power Factor Control: Different types of power
+capacitors, shunt and series capacitors, effect of shunt capacitors (fixed and
+switched) power factor correction, capacitor location. Economic justification.
+Procedure to determine the best capacitor location. Voltage Control: Equipment for
+voltage control, effect of series capacitors, effect of AVB/AVR, line drop
+compensation.
+UNIT-IV:
+Protective Devices and Coordination: Objectives of distribution system protection,
+types of common faults and procedure for fault calculation. Protective Devices:
+Principle of operation of fuses, circuit reclosers, line sectionalizers and circuit breakers.
+Coordination of protective devices: General coordination procedure.
+UNIT–V:
+Maintenance of Distribution Systems: Maintenance of Automated Distribution Systems,
+Difficulties in Implementing Distribution Automation in actual practice, Urban/Rural
+Distribution, Need based Energy Management, AI techniques applied to Distribution
+Automation–Overview of General Techniques, GA and its implementation to
+Distribution Automation.
+TEXT BOOKS:
+1. Electric Power Distribution, A. S. Pabla, 4th Edition, Tata McGraw-Hill
+2. A Text Book of Electrical power Distribution Automation, M. K. Khedkar, G. M. Dhole,
+University Science Press
+3. Electrical Power Distribution Engineering, Turan Gonen, 3rd Edition, CRC Press
+REFERENCES:
+1. Electrical Distribution Engineering, Anthony J. Panseni, CRC Press
+2. Electric Power Distribution, Automation, James Momoh, Protection & Control, CRC
+Press
+ONLINE RESOURCES:
+1. https://nptel.ac.in/courses/108107112
+2. https://nptelprep.in/courses/117103149
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1PS05) SCADA SYSTEMS AND APPLICATIONS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Power Systems
+COURSE OBJECTIVES:
+• To understand what is meant by SCADA and its functions.
+• To know SCADA communication.
+• To get an insight into its application.
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Describe the basic tasks of Supervisory Control Systems (SCADA)
+CO-2: Acquire knowledge about SCADA architecture
+CO-3: Acquire knowledge about single unified standard architecture IEC 61850.
+CO-4: Learn about PLCs, intelligent electronic devices, HMI systems, SCADA server.
+UNIT–I:
+Introduction to SCADA: Data acquisition systems, Evolution of SCADA, Communication
+technologies. Monitoring and supervisory functions, SCADA applications in utility
+Automation, Industries SCADA.
+UNIT–II:
+Industries SCADA System Components: Industries SCADA system components,
+Schemes, Remote Terminal Unit (RTU), Intelligent Electronic Devices (IED),
+Programmable Logic Controller (PLC), Communication Network, SCADA Server,
+SCADA/HMI Systems.
+UNIT–III:
+SCADA Architecture: SCADA Architecture, Various SCADA architectures, Advantages
+and disadvantages of each System, Single unified standard architecture -IEC 61850.
+UNIT–IV:
+SCADA Communication: SCADA Communication, Various industrial communication
+technologies, Wired and wireless methods and fiber optics, Open standard
+communication protocols.
+UNIT–V:
+SCADA Applications: Utility applications, Transmission and Distribution sector
+operations, Monitoring, analysis and improvement. Oil, gas and water industries case
+studies: Implementation, Simulation exercises.
+TEXT BOOKS:
+1. Stuart A. Boyer, SCADA-Supervisory Control and Data Acquisition, Instrument
+Society of America Publications, USA, 2004
+2. Gordon Clarke, Deon Reynders, Practical Modern SCADA Protocols: DNP3, 60870.5
+and Related Systems, Newnes Publications, Oxford, UK, 2004
+REFERENCES:
+1. William T. Shaw, Cyber Security for SCADA systems, PennWell Books, 2006
+2. David Bailey, Edwin Wright, Practical SCADA for industry, Newnes, 2003
+3. Michael Wiebe, A guide to utility automation: AMR, SCADA, and IT systems for
+electric power, Penn Well, 1999
+ONLINE RESOURCES:
+1. nptel.ac.in/courses/108106022
+2. Energy Management Systems and SCADA NPTEL Course - Free Practice Questions
+& Materials | NPTELPrep
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1PS06) REACTIVE POWER COMPENSATION AND MANAGEMENT
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Digital Electronics, Electronic Circuits
+COURSE OBJECTIVES:
+• To identify the necessity of reactive power compensation
+• To describe load compensation
+• To select various types of reactive power compensation in transmission systems
+• To illustrate reactive power coordination system
+• Tocharacterizedistributionsideandutilitysidereactivepowermanagement
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Distinguish the importance of load compensation in symmetrical as well as
+unsymmetrical loads
+CO-2: Work out on various compensation methods in transmission lines
+CO-3: Construct models for reactive power coordination
+CO-4: Distinguish demand side reactive power management & user side reactive
+power management
+UNIT-I:
+Load Compensation: Objectives and specifications, Reactive power characteristics,
+Inductive and capacitive approximate biasing, Load compensator as a voltage
+regulator, Phase balancing and power factor correction of unsymmetrical loads,
+Examples.
+UNIT-II:
+Steady-State and Transient State Power Compensation: Steady–State Reactive Power
+Compensation in Transmission Systems: Uncompensated line, Types of compensation,
+Passive shunt and series and dynamic shunt compensation, Examples.
+Transient State Reactive Power Compensation in Transmission Systems: Characteristic
+time periods, Passives hunt compensation, Static compensation, Series capacitor
+compensation, Compensation using synchronous condenser, Examples.
+UNIT-III:
+Reactive Power Coordination: Objective, Mathematical modeling, Operation
+planning, Transmission benefits, Basic concepts of quality of power supply,
+Disturbances, Steady–state variations, Effect of under-voltages, Frequency,
+Harmonics, Radio frequency and electromagnetic interference.
+UNIT-IV:
+Demand Side Management: Load patterns, Basic methods load shaping, Power
+tariffs, KVAR based tariffs penalties for voltage flickers and Harmonic voltage levels.
+Distribution Side Reactive Power Management: System losses, Loss reduction methods,
+Examples, Reactive power planning, Objectives, Economics Planning capacitor
+placement, Retro fitting of capacitor banks.
+UNIT-V:
+User Side Reactive Power Management: KVAR requirements for domestic appliances,
+Purpose of using capacitors, Selection of capacitors, Deciding factors, Types of
+available capacitor, Characteristics and Limitations.
+Reactive Power Management in Electric Traction Systems and Arc Furnaces: Typical
+layout of traction systems, Reactive power control requirements, Distribution
+transformers, Electric arc furnaces, Basic operation, Furnaces transformer, Filter
+requirements, Remedial measures, Power factor fan arc furnace.
+TEXT BOOKS:
+1. Reactive power control in Electric Power Systems, T. J. E. Miller, John Wiley and
+Sons,1982
+2. Reactive power Management, D. M. Tagare, Tata McGraw-Hill, 2004
+REFERENCES:
+1. Reactive Power Compensation: A Practical Guide, Wolfgang Hofmann, Jurgen
+Schlabbach, Wolfgang Just, Wiley, 2012
+ONLINE RESOURCES:
+1. https://nptel.ac.in/courses/108102179
+2. NLDC - Reactive Power Management - Dec 2013 PDF | PDF | Ac Power | Electric
+Power Transmission
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1PL05) ADVANCED CONTROL SYSTEMS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE PRE-REQUISITES: Control Systems, Linear Algebra
+COURSE OBJECTIVES:
+• To cater the knowledge of basic and modern control system for the real time
+analysis and design of control systems
+• To provide adequate knowledge of state space representation and system
+analysis using state space
+• To equip student with the know-how of estimation and controller design
+techniques
+• To provide comprehensive knowledge of optimal control and modern control
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Analyse and design controllers for multivariable systems
+CO-2: Apply state space techniques for linear system analysis
+CO-3: Design estimators and controllers for systems using state space models
+UNIT-I:
+Multivariable Systems & State Space Representation: Introduction to multivariable
+systems, SISO, MIMO Systems. Process interactions and control loop interactions.
+Pairing of controlled and manipulated Variables. Relative gain array, structure
+selection. Decoupler. PID controller design for MIMO systems.
+State Space Representation of physical systems, Transfer function to state space
+representation, Phase variable form, Canonical Forms – Controllable Canonical Form,
+Observable Canonical Form, Jordan Canonical Form, State space to Transfer function
+State diagram Representation.
+UNIT-II:
+State Transition Matrix, Controllability and Observability: Stability analysis through state
+space Solution of State Equation, State Transition Matrix; Tests for controllability and
+observability for continuous time systems – Time varying case, time invariant case,
+Principle of Duality, Controllability and observability form and other canonical forms.
+UNIT-III:
+State Feedback Control: Need for state feedback. Design of state feedback control
+through pole placement. State regulator problem. Dynamic programming, Ricati
+equations and the discrete time linear quadratic regulator (LQR). Output regulator
+problem. State and output tracking problem.
+UNIT-IV:
+State Estimation: Separation principle. Design of full order observer and reduced order
+observer. Least squares estimation, weighted Least squares estimation, recursive least
+square estimation. Discrete time Kalman filter. Applications of Kalman filtering. Linear
+quadratic gaussian (LQG).
+UNIT-V:
+Model Predictive Control: Formulation of Minimum time, Minimum energy and
+minimum fuel optimal control problems. Prediction horizon, Model predictive control -
+formulation and implementation. Selection of Design and Tuning Parameters.
+Constrained model predictive control.
+TEXT BOOKS:
+1. Modern Control System Theory, M. Gopal, 2nd Edition, New Age International, 1996
+2. Advanced Control Systems, A. Nagoor Khani, 2nd Edition, RBA Publications, 2014
+3. Process Dynamics and Control, Dale E. Seborg, Thomas F. Edgar, D. A. Mellichamp,
+4. F. J. Doyle III, 4th Edition, John Wiley & Sons, 2016
+5. Optimal State Estimation: Kalman, H Infinity, and Nonlinear Approaches, Simon,
+Dan, John Wiley & Sons, 2006
+REFERENCES:
+1. Modern Control Engineering, K. Ogata, 3rd Edition, Prentice Hall of India, 1998
+2. Digital Control and State Variable Methods, M. Gopal, Tata McGraw-Hill, 1997
+ONLINE RESOURCES:
+1. https://in.mathworks.com/videos/series/understanding-model-predictive-
+control.html
+2. https://in.mathworks.com/videos/series/understanding-kalman-filters.html
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PE1PL06) MACHINE LEARNING APPLICATIONS
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C SE CA ELA SEE TOTAL
+3 0 3 30 5 5 60 100
+COURSE OBJECTIVES:
+• To learn basic concepts of machine learning techniques
+• To understand various learning methods
+• To apply machine learning for various problem solving applications
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand basic concepts of Machine Learning Techniques
+CO-2: Distinguish between supervised learning, unsupervised learning and reinforced
+learning
+CO-3: Develop the skills in using machine learning software for solving practical
+problems
+CO-4: Apply Machine Learning Algorithms for Electrical Engineering problems
+UNIT-I:
+Neural Networks: Introduction to Neural Networks, Models of Neuron Network,
+Architectures – Knowledge representation, Artificial Intelligence and Neural Networks
+– Learning Process, Error Correction Learning, Multi-layer perceptron using Back
+Propagation Algorithm (BPA)
+UNIT-II:
+Learning Theory: Introduction to Machine Learning: What is Learning – Learning
+Objectives – Data needed – Bayesian inference and Learning – Bayes theorem –
+inference – naïve Bayes
+– Regularization – Bias-Variance Decomposition and Trade-off – Concentration
+Inequalities – Generalization and Uniform Convergence – VC –dimension- Types of
+Learning- Supervised Learning – Unsupervised Learning and Reinforcement Learning.
+UNIT-III:
+Supervised Learning: Simple linear Regression – Multiple Linear Regression- Logistic
+Regression – Exponential Family and Generalized Linear Models- Generative Models:
+Gaussian Discriminate Analysis, Naïve Bayes – Kernal Method: Support Vector
+Machine (SVM) – Kernal function – Kernal SVM - Gaussian Process – Tree Ensembles:
+Decision Trees- Random Forests – Boosting and Gradient Boosting
+UNIT-IV:
+Unsupervised Learning (Clustering): K –means Clustering Algorithm – Gaussian Mixture
+Model (GMM) – Expectation Maximization (EM) – Variational Auto Encoder (VAE) –
+Factor Analysis – Principle Components Analysis (PCA) – Independent Component
+Analysis (ICA)
+UNIT-V:
+Reinforcement Learning & Applications of ML: Markov Decision Processes (MDP) –
+Bellman’s Equations- Value Iteration and Policy Iteration - Value Function
+Approximation – Q – Learning.
+Load Forecasting – Energy Market forecasting – Fault identification and localization –
+Renewable Uncertainty estimation
+TEXT BOOKS:
+1. Pattern Recognition and Machine Learning, Christopher Bishop, Springer, 2011
+2. Machine Learning, E. Alpaydin, MIT Press
+REFERENCE:
+1. Machine Learning, Tom M. Mitchell, McGraw-Hill International Edition, 1997
+ONLINE RESOURCES:
+1. Machine Learning Tutorial - GeeksforGeeks
+2. https://www.coursera.org/articles/machine-learning-applications
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC2PL01) PYTHON FOR ELECTRICAL SYSTEMS AND APPLICATIONS LABORATORY
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE PRE-REQUISITES: Problem Solving using C, Control systems, All core subjects
+COURSE OBJECTIVES:
+• To introduce core programming basics and program design with functions using
+Python programming language for electrical systems.
+• To study the use of procedural statements like assignments, conditional
+statements, loops and function calls for Electrical systems.
+• To describe the need for Object-oriented programming concepts in Python for
+Electrical and other related applications.
+• To apply python for Real Time Systems
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Determine the electrical/ electronic and magnetic network parameters and
+Analysis using Python
+CO-2: Illustrate decision making statements and functions for network and control
+solutions
+CO-3: Develop programs for power electronic applications
+CO-4: Evaluate the electrostatic field parameters using Python
+CO-5: Perform sensor-based control applications for real time systems
+LIST OF PROGRAMS / EXPERIMENTS / EXERCISES:
+1. Numbers in Python, Basic & Built-in Math functions, Number Formats, Strings,
+Quotes, print () Function, Assigning Values to Names & Changing Data Through
+Names, Copying Data.
+2. Dictionaries - Groupings of Data Indexed by Name, Special String Substitution Using
+Dictionaries, Arrays, treating a String Like a List, Special Types, Ranges of
+Sequences, Working with Sets, Arrays.
+3. Decision Making and Functions: Theory: If statement, if-elif-else, Repetition using
+while loop, for loop, break statement.
+4. Functions-Grouping Code under a Name, defining a Function, function in the
+function, Checking & Setting Your Parameters.
+5. Calling Functions from within Other Functions, Functions Inside of Functions, Layers
+of Functions – Dynamic Equation solutions.
+6. Calculation of ripple factor for a given rectifier: Half-wave/Full-wave/Bridge circuit
+using Python program.
+7. Modelling and Response of second and higher order electrical circuit using Python
+program (Time-response, Root locus, Bode plot).
+8. Generate Continuous and Discrete time signals for elementary functions.
+9. Calculation of the equivalent circuit parameters and efficiency of a Transformer
+at different loads using Python commands.
+10. Plotting and performing various operations on Discrete Time Signals in Python.
+11. Exploration of Advanced Python Libraries I : Introduction to Objects and Functions
+of a. Numpy - core library for scientific computing b. Pandas - fast, powerful,
+flexible and easy to use open-source data analysis and manipulation tool.
+TEXT BOOK:
+1. Let us C, Yeshvant Kanetkar, 16th Edition, BPB Publications, 2016
+REFERENCE:
+1. C Programming, Greg Perry and Dean Miller, 3rd Edition, Que Publishing, 2013
+ONLINE RESOURCES:
+1. Python for Electronic & Electrical Engineers
+2. Laboratory Python Programs Set 1 - Problem Solving and Python Programming
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25PC2PS01) POWER SYSTEM COMPUTATION LABORATORY-I
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE PRE-REQUISITES: Problem Solving using C, Control systems, All core subjects
+COURSE OBJECTIVES:
+• To develop computer programs for evaluation of Ybus and Zbus matrices in a
+power system
+• To develop computer programs to perform load flow studies of transmission and
+distribution systems
+• To model faults and contingencies
+• To plan the optimal scheduling of generators
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Determine Ybus and Zbus matrices in a power system
+CO-2: Evaluate node voltages in transmission and distribution systems
+CO-3: Analyze various types of faults and contingencies in a power system
+CO-4: Perform optimal scheduling of generators
+LIST OF PROGRAMS / EXPERIMENTS / EXERCISES:
+Any 12 experiments can be conducted
+1. Formation of network matrices.
+2. Load flow study of a power transmission network.
+3. Economic load dispatch of thermal units using Lambda Iterative method
+4. Load flow study of a radial distribution network.
+5. Short circuit study of a power system network.
+6. Load frequency control of single-area and two-area systems.
+7. Line/Transformer/Generator contingency analysis of a power transmission network.
+8. Distribution System Reliability Analysis.
+9. Unit Commitment Problem using Forward Dynamic Programming Method.
+10. Transient Stability Analysis for Single Machine connected to Infinite Bus
+11. DC – DC Converters
+12. Single-Phase and Three- Phase Inverter
+TEXT BOOK:
+1. Let us C, Yeshvant Kanetkar, 16th Edition, BPB Publications, 2016
+REFERENCE:
+1. C Programming, Greg Perry and Dean Miller, 3rd Edition, Que Publishing, 2013
+ONLINE RESOURCE:
+1. https://www.ee.iitb.ac.in/web/research/power-electronics-and-power-systems-
+ee3
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25SD5EN01) ENGLISH FOR ACADEMIC AND RESEARCH WRITING
+TEACHING SCHEME EVALUATION SCHEME
+L T/P C D-D PE LR CP SEE TOTAL
+0 2 1 10 10 10 10 60 100
+COURSE PRE-REQUISITES: Undergraduate level English Proficiency
+COURSE OBJECTIVES:
+• To equip with an understanding of the mechanics and conventions of academic
+and research writing, including cohesion and coherence, to produce texts that
+demonstrate precision and clarity
+• To enable to present focused, logical arguments that support a thesis
+• To empower to find, analyze, evaluate, summarize, and synthesize appropriate
+source material for literature review
+• To enable to use appropriate language to analyze and interpret the data, and
+prepare an outline
+• To enable to become adept in the requirements and specifications of standard
+writing to produce academic and research papers
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply knowledge of academic language features and text structure, and
+ensure cohesion and coherence as connected to various text types
+CO-2: Demonstrate the use of writing process strategies through outlining, reviewing,
+composing, and revising
+CO-3: Evaluate sources and use summary, analysis, synthesis, and integration to
+construct a literature review on a topic chosen by the student
+CO-4: Prepare an outline for Research Articles and Thesis
+CO-5: Apply standard documentation style to produce academic and research
+papers that meet the demands of specific genres, purposes, and audiences
+UNIT-I:
+1. Features of Academic Writing: Word Order, Breaking up long Sentences,
+Structuring Paragraphs and sentences, Being concise and removing redundancy,
+Avoiding Ambiguity and Vagueness, Hedging
+2. Planning & Preparation of Research paper, Factors Influencing Effective Writing:
+Mechanics of Writing, Purpose of Writing, Understanding the Target Reader,
+Organization- Cohesion, and Coherence
+UNIT-II:
+1. Academic Writing Forms:
+a) Analyzing arguments; Building an argument
+b) Making a Counter Argument- Managing tone and tenor
+1. Types of Research: Primary and Secondary Research
+2. Review of Literature
+3. Research Design: Statement of the Problem, Writing A Title, Writing an Abstract,
+Keywords & Introduction, Writing Hypotheses, Developing Objectives, Research
+Tools, Writing Reports and Writing Proposal.
+UNIT-III:
+1. Criteria of Good Research- Avoiding Plagiarism
+2. Data Interpretation, Writing to the Point
+3. Preparing an outline for Research Articles & Research Reports
+UNIT-IV:
+1. Reference Skills:
+a) Paraphrasing (Change of parts of speech, word order, synonyms, using the passive
+form)
+b) Summarizing (Steps in summarizing)
+2. Inserting references
+UNIT-V:
+1. Assessment of Technical Reports
+2. Writing Research Article Reviews: Writing Article & Book Review
+TEXT BOOKS:
+1. A Course in Academic Writing, Gupta R., Orient BlackSwan, 2010
+2. Academic Writing: Exploring Processes and Strategies, Leki I., CUP, 1998
+3. Writing Up Research: Experimental Research Report Writing for Students of English,
+Weissberg R., & Buker S. Englewood Cliffs, Prentice Hall, 1990
+REFERENCES:
+1. English Academic Writing for Students and Researchers, Yakhontova T., 2003
+2. Inside Track: Successful Academic Writing Gillett, A., Hammond A., Martala M.
+Essex: Pearson Education 2009
+3. English for Academic Research: Writing Exercises, Wallwork, Springer, 2013
+4. The MLA Handbook for Writers of Research Papers, 7th Edition, Modern Language
+Association
+5. Academic Writing for Graduate Students: A Course for Non-Native Speakers of
+English, Swales J. M. & Feak C. B. AnnArbor: University of Michigan Press, 1994
+ONLINE RESOURCES:
+1. Using Sources Video Lecture
+2. https://www.coursera.org/lecture/advanced-writing/using-sources-video-lecture-
+i719P
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester
+(25MN6HS01) RESEARCH METHODOLOGY AND IPR
+TEACHINGSCHEME EVALUATION SCHEME
+L T/P C SE-I SE-II SEE TOTAL
+2 0 0 50 50 - 100
+COURSE OBJECTIVES:
+• To understand the research problem
+• To know the literature studies, plagiarism and ethics
+• To get the knowledge about technical writing
+• To analyze the nature of intellectual property rights and new developments
+• To know the patent rights
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand research problem formulation
+CO-2: Analyze research related information & Follow research ethics
+CO-3: Understand that today’s world is controlled by Computer, Information
+Technology, but tomorrow world will be ruled by ideas, concept, and creativity
+CO-4: Understanding that when IPR would take such important place in growth of
+individuals & nation, it is needless to emphasis the need of information about
+Intellectual Property Right to be promoted among students in general & engineering
+in particular
+CO-5: Understand that IPR protection provides an incentive to inventors for further
+research work and investment in R & D, which leads to creation of new and better
+products, and in turn brings about, economic growth and social benefits
+UNIT-I:
+Meaning of research problem, Sources of research problem, Criteria Characteristics
+of a good research problem, Errors in selecting a research problem, Scope and
+objectives of research problem.
+Approaches of investigation of solutions for research problem, data collection,
+analysis, interpretation, Necessary instrumentations
+UNIT-II:
+Effective literature studies approaches, analysis, Plagiarism, Research ethics
+UNIT-III:
+Effective technical writing, how to write report, Paper Developing a Research
+Proposal, Format of research proposal, a presentation and assessment by a review
+committee
+UNIT-IV:
+Nature of Intellectual Property: Patents, Designs, Trade and Copyright. Process of
+Patenting and Development: technological research, innovation, patenting,
+development. International Scenario: International cooperation on Intellectual
+Property. Procedure for grants of patents, Patenting under PCT.
+UNIT-V:
+Patent Rights: Scope of Patent Rights. Licensing and transfer of technology. Patent
+information and databases. Geographical Indications. New Developments in IPR:
+Administration of Patent System.
+New developments in IPR; IPR of Biological Systems, Computer Software etc.
+Traditional knowledge Case Studies, IPR and IITs
+TEXT BOOKS:
+1. Research Methodology: An Introduction for Science & Engineering Students, Stuart
+Melville and Wayne Goddard
+2. Research Methodology: An Introduction, Wayne Goddard and Stuart Melville
+3. Research Methodology: A Step-by-Step Guide for Beginners, Ranjit Kumar, 2nd
+Edition
+REFERENCES:
+1. Resisting Intellectual Property, Halbert, Taylor & Francis, 2007
+2. Industrial Design, Mayall, McGraw-Hill, 1992
+3. Product Design, Niebel, McGraw-Hill, 1974
+4. Intellectual Property in New Technological Age, Robert P. Merges, Peter S. Menell,
+Mark A. Lemley, 2016
+5. Intellectual Property Rights Under WTO, T. Ramappa, S. Chand, 2008

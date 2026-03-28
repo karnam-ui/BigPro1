@@ -1,0 +1,1017 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/A19/EEE2.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY HYDERABAD
+B.TECH. II YEAR
+(ELECTRICAL AND ELECTRONICS ENGINEERING)
+III SEMESTER A19
+Contact
+Course Code Title of the Course L T P/D Hours/ Credits
+Week
+A19BS1MT09 Complex Analysis and Transforms 3 0 0 3 3
+A19PC1EE01 Electromagnetic Fields 3 1 0 4 4
+A19PC1EE02 Electrical Machines – I 3 0 0 3 3
+A19PC1EC02 Electronic Devices and Circuits 3 0 0 3 3
+A19PC1EC03 Digital System Design 3 0 0 3 3
+A19PC2EE01 Electrical Machines-I Laboratory 0 0 3 3 1.5
+A19PC2EC01 Electronic Devices and Circuits Laboratory 0 0 3 3 1.5
+A19PC2EC15 Digital Logic Design Laboratory 0 0 2 2 1
+Total 15 1 8 24 20
+IV SEMESTER R19
+Contact
+Course Code Title of the Course L T P/D Hours/ Credits
+Week
+A19PC1EE03 Electrical Machines – II 3 0 0 3 3
+A19PC1EE04 Power Systems-I 3 1 0 4 4
+A19PC1EC06 Analog Circuits 3 0 0 3 3
+A19PC1ME18 Fluid Mechanics and Hydraulic Machines 3 0 0 3 3
+A19HS1MG02 Engineering Economics and Accountancy 3 0 0 3 3
+A19PC2EE02 Electrical Machines-II Laboratory 0 0 3 3 1.5
+19PC2EC05 Analog Circuits Laboratory 0 0 3 3 1.5
+A19PC2IT02 Python Programming Laboratory 0 0 2 2 1
+Total 15 1 8 24 20
+A19MN6HS03 Gender Sensitization 0 0 2 2 0
+L – Lecture T – Tutorial P – Practical D – Drawing
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. III Semester L T/P/D C
+3 0 3
+(A19BS1MT09) COMPLEX ANALYSIS AND TRANSFORMS
+COURSE PRE-REQUISITES: Differentiation, Integration
+COURSE OBJECTIVES:
+• To know analytic functions and their properties
+• To know concept of complex integration
+• To know the notion of conformal mapping
+• To know the properties of Fourier transforms
+• To know classifications and method of solving Partial Differential Equations
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply Cauchy-Riemann equations to study analyticity of functions
+CO-2: Evaluate contour integrals using Cauchy's integral theorems
+CO-3: Analyze the image of the given curve under the given transformation
+CO-4: Expand the function as Fourier series
+CO-5: Model the problem into PDE and solve it
+UNIT – I:
+Functions of a Complex Variable: Functions of a complex variable, Continuity,
+Differentiability, Analyticity, Cauchy-Riemann equations in Cartesian and polar
+coordinates, Harmonic and conjugate harmonic functions, Milne – Thompson
+method.
+UNIT – II:
+Complex Integration, Complex Power Series and Residues: Line integral, evaluation
+long a path and by indefinite integration. Cauchy’s integral theorem, Cauchy’s
+integral formula, generalized integral formula. Expansion of Taylor’s series and Laurent
+series (without proofs). Singular point, isolated singular point, pole of order m, essential
+singularity. Residues – Evaluation of residue by formulae, Residue theorem, Evaluation
+of real integrals.
+UNIT – III:
+Conformal Mapping: Transformation of e z , lnz, z2, Sin z, cos z, z + a/z. Basic
+transformations: Translation, rotation, inversion. Bilinear transformation - fixed point,
+cross ratio, properties, invariance of circles, determination of bilinear transformation
+mapping three given points to three assigned points.
+UNIT – IV:
+Fourier Series: Fourier Series of periodic functions, Euler‘s formulae, Fourier series of
+even and odd functions, having arbitrary periods, half range Fourier series.
+UNIT – V:
+Fourier Transforms: Fourier integral representation of a function, Fourier sine and cosine
+integral, Complex Fourier transform, Sine and Cosine transforms and their properties,
+Finite Fourier Transform.
+UNIT – VI:
+Partial Differential Equations: Partial Differential Equations of second order:
+Classifications- parabolic, elliptic and hyperbolic, solving partial differential equations
+using Method of separation of variables. Problems of vibrating string- wave equation.
+TEXT BOOKS:
+1. Complex Variables and Applications, J. W. Brown and R. V. Churchill, 7th Edition,
+McGraw-Hill, 2004
+2. Higher Engineering Mathematics, B. S. Grewal, 36th Edition, Khanna Publishers, 2010
+3. Higher Engineering Mathematics, B. V. Ramana, 11th Reprint, Tata McGraw-Hill,
+2010
+REFERENCES:
+1. Advanced Engineering Mathematics, Peter O’Neil, 5th Edition, Cengage Learning,
+2000
+2. Erwin Kreyszig, Advanced Engineering Mathematics, 9th Edition, John Wiley & Sons,
+2006
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. III Semester L T/P/D C
+3 1 4
+(A19PC1EE01) ELECTROMAGNETIC FIELDS
+COURSE OBJECTIVES:
+• To introduce concepts of electrostatic field
+• To introduce concepts of magnetic field
+• To understand the concepts of time varying fields
+• To appreciate the modifications in Maxwell equation
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Analyze electric fields due to simple charge configurations
+CO-2: Obtain magnetic fields and forces due to different configurations
+CO-3: Analyze Maxwell’s equation in different forms and media
+CO-4: Understand the evolve of Faraday’s Laws of electromagnetic induction
+UNIT – I:
+Static Electric Field: Electrostatic Fields-Coulomb’s law, Electric Field Intensity (EFI)-EFI
+due to a Line charge, Surface charge; Work done in moving a point charge in an
+electrostatic field, Absolute Electric potential and Potential difference, Properties of
+potential function, Potential gradient, Gauss law and its applications for different
+configurations, Maxwell’s first equation, Div D= ρV, Laplace’s and Poisson’s equations,
+Solution of Laplace’s equation in one variable,
+UNIT – II:
+Conductors, Dipole, Dielectrics and Capacitance: Electric dipole-EFI, Potential and
+Torque on an electric dipole; Conductors- Properties when placed in electric field,
+Current and current densities, Ohms Law in Point form, Continuity equation of current;
+Dielectric-Polarization, Permittivity of dielectric materials, Boundary conditions of
+perfect dielectric materials, conductor- dielectric; Capacitance of a parallel plate,
+spherical and co-axial capacitors with composite dielectrics, Electrostatic Energy
+stored and Energy density in static electric field
+UNIT – III:
+Static Magnetic Fields: Static magnetic fields-Biot- Savart’s Law and its alternate forms,
+Magnetic Field Intensity due to straight current carrying filament, MFI due to circular,
+square and solenoid current carrying wire using Biot Savart’s law, Relation between
+magnetic flux, magnetic flux density and MFI, Maxwell’s second equation div B=0,
+Ampere’s Circuital law and its application for MFI due to long current carrying
+filament& infinite sheet of current, Maxwell’s third equation Curl H=JC
+UNIT – IV:
+Magnetic Forces and Magnetic Dipole: Magnetic force-Moving charges in a
+magnetic field, Lorentz force equation, Force on a differential current element,
+straight long current carrying conductor in a magnetic field, Force between two
+straight long and parallel current carrying conductors, Magnetic dipole and dipole
+moment, Torque on a current loop placed in magnetic field
+UNIT – V:
+Magnetic Materials and Inductance: Nature of Magnetic materials, Magnetization
+and permeability, Magnetic boundary conditions, Magnetic Circuits, Energy stored
+and Energy density, Inductances due to solenoids, toroids and cables, Scalar
+Magnetic Potential and limitations, Vector Magnetic potentials and properties, Vector
+magnetic potential due to simple configurations, vector Poison’s equations
+UNIT – VI:
+Time Varying Fields and Maxwell’s Equation: Faraday’s law for Electromagnetic
+induction, Its integral and point forms-Maxwell’s fourth equation curl E=-δB/δt,
+Statically induced EMF and Dynamically induced EMF-simple problems, Displacement
+current and Displacement current density, Modification of Maxwell’s equations for
+time varying fields from Gauss Law, Ampere’s law, Faraday’s law in integral and
+differential forms, Poynting Theorem and Poynting vector
+TEXT BOOKS:
+1. Engineering Electromagnetics, William H. Hayt & John A. Buck, 7th Edition, McGraw-
+Hill Companies, 2006
+2. Elements of Electromagnetics, M. N. O. Sadiku, Oxford University Publication, 2014
+REFERENCES:
+1. Electromagnetics, S. Kamakshaiah, Right Publishers, 2007
+2. Electromagnetism - Problems with Solution, Pramanik, Prentice Hall India, 2012
+3. The Electromagnetic Field in its Engineering Aspects, G. W. Carter, Longmans, 1954
+4. Electricity and Magnetism, W. J. Duffin, McGraw Hill Publication, 1980
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. III Semester L T/P/D C
+3 0 3
+(A19PC1EE02) ELECTRICAL MACHINES-I
+COURSE OBJECTIVES:
+• To understand the electro-mechanical energy conversion process and operation
+of DC machines and transformers
+• To know the different testing methods for dc machines and transformers
+• To know the behavior of DC machines and transformers
+• To learn about different method to control the speed of DC motor and voltage of
+transformers
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Identify the different parts and their role in electro-mechanical energy
+conversion operation of DC machines and transformers
+CO-2: Select DC machines and Transformers for appropriate application
+CO-3: Start and control the DC motor speed and transformer output voltage
+CO-4: Carry out different assessment tests to predetermine the efficiency of DC
+machines and transformers
+UNIT – I:
+Electromagnetism and Electromechanical Energy Conversion: Review of Ampere and
+Biot Savart Laws, Magnetic field patterns of bar magnet and a current carrying coil,
+influence of highly permeable materials on the magnetic flux lines, Linear and Non-
+linear Magnetization characteristics. Energy stored in the magnetic field, Derivation of
+Electro-magnetic force in Singly excited electromagnetic systems, Examples,
+Derivation of Electromagnetic Torque and Reluctance (saliency or eccentricity)
+Torque in Multi Excited Systems, examples
+UNIT – II:
+DC Generators-I: principle-Simple Loop generator, commutator action, construction,
+EMF equation, Armature windings- lap and wave windings, Types of field excitations –
+separately excited, shunt, series and Compound generators, Open circuit
+characteristic of separately excited DC generator, voltage build-up in a shunt
+generator- critical field resistance and critical speed
+UNIT – III:
+DC Generators-II: Armature reaction- armature MMF wave-MMF wave by Field
+winding- air gap flux density distribution with armature reaction, compensating
+windings, Commutation- linear and delayed commutation-Methods of improving
+commutation, voltage and current characteristics of separately excited, shunt and
+series and Compound generators
+UNIT – IV:
+DC Motors: Principle, back EMF, Types of DC motors, Mechanical Power developed,
+Derivation of Torque equation, Operating characteristics of dc motors. Starting &
+Speed control of DC shunt motors, Losses and efficiency, condition for maximum
+efficiency, Swin-burne’s test- Brake Test- Back-to back test- Field’s Test
+UNIT – V:
+Transformers-I: Principle and construction of single-phase transformers, EMF equation,
+ideal transformer, transformer on No-load, Magnetizing current, effect of nonlinear B-
+H curve of magnetic core material, harmonics in magnetization current, Transformer
+on Load, phasor diagrams, voltage regulation, losses and efficiency, Open circuit and
+short circuit tests, back-to-back test, All-Day efficiency
+UNIT – VI:
+Transformers-II: Parallel operation of single phase transformers, Three-phase
+transformers, Construction- different configurations, Open Delta connection, Scott
+connection, On Load and Off Load Tap-changers, Three-winding transformers,
+Autotransformers, Cooling of transformers.
+TEXT BOOKS:
+1. Electric Machines, J. Nagrath and D. P. Kothari, McGraw-Hill Education, 2010
+2. Electrical Machinery, P. S. Bimbhra, Khanna Publishers, 2011
+REFERENCES:
+1. Electric Machinery, E. Fitzgerald and C. Kingsley, New York, McGraw-Hill Education,
+2013
+2. Performance and Design of AC Machines, M. G. Say, CBS Publishers, 2002
+3. Performance and Design of DC Machines, E. Clayton and N. N. Hancock, CBS
+Publishers, 2004
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. III Semester L T/P/D C
+3 0 3
+(A19PC1EC02) ELECTRONIC DEVICES AND CIRCUITS
+(Common to ECE, EIE & EEE)
+COURSE PRE-REQUISITES: Engineering Physics (19BS1PH02)
+COURSE OBJECTIVES:
+• To understand the construction, principle of operation and characteristics of
+various semiconductor devices
+• To study the applications of various semiconductor devices
+• To have the familiarity with small signal model of semiconductor devices
+• To understand the concepts of feedback in amplifiers and Oscillators
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Explain the principle of operation and substantiate the applications of various
+Semiconductor devices
+CO-2: Appreciate the need for biasing and stabilization
+CO-3: Design the application specific circuits using basic active and passive
+components
+CO-4: Explain the necessity of feedback in amplifiers and Oscillators
+UNIT – I:
+PN-Junction Diode and Applications: Review of p-n Junction as a Diode, Diode
+Equation, Volt-Ampere Characteristics, Temperature dependence of V-I
+characteristics, Ideal and Practical Diode Equivalent Circuits, Transition and Diffusion
+Capacitances, Breakdown Mechanisms in Semi-Conductor Diodes, Zener Diode and
+its Characteristics.
+Half wave Rectifier, Full wave rectifier, Bridge Rectifier, Harmonic components in a
+Rectifier Circuit, Capacitor filters, π- section filters, Zener diode as Voltage Regulator.
+UNIT – II:
+Bipolar Junction Transistor, Biasing and Stabilization: Bipolar Junction Transistor (BJT),
+Transistor Current Components, Transistor Construction, BJT Operation, Common Base,
+Common Emitter and Common Collector Configurations, Limits of operation, BJT as
+an Amplifier, BJT Specifications. DC and AC Load lines, Quiescent operating point,
+Need for Biasing, Analysis of Fixed Bias, Collector Feedback Bias, Emitter Feedback
+Bias, Collector-Emitter Feedback Bias, Voltage Divider Bias, Bias Stability, Stabilization
+Factors, Stabilization against variations in VBE, β and ICO, Thermal Runaway, Thermal
+Stability and Compensation Techniques
+UNIT – III:
+Field Effect Transistor, Biasing: Construction and operation of Junction Field Effect
+Transistor (JFET), Volt-Ampere characteristics- Drain and Transfer Characteristics, FET as
+Voltage Variable Resistor, FET Biasing, Construction and operation of MOSFET, MOSFET
+characteristics in Enhancement and Depletion modes.
+UNIT – IV:
+Small Signal Low Frequency Amplifiers:
+BJT Amplifiers: Small signal low frequency transistor amplifier circuits: h-parameter
+representation and analysis of single stage CE, CC, CB amplifiers - Computation of
+Voltage gain, Current gain, Input impedance and Output impedance, Comparison
+of CB, CE, CC amplifiers.
+JFET Amplifiers: JFET Small Signal Model, FET Common Source Amplifier, Common Drain
+Amplifier.
+UNIT – V:
+Feedback Amplifiers and Oscillators: Concept of feedback, Types of feedback,
+general characteristics of negative feedback amplifiers, voltage series, voltage shunt,
+current series and current shunt feedback configurations and their analysis(BJT
+version), Illustrative problems.
+Classification of oscillators, Conditions for oscillations, RC phase shift oscillator,
+Generalized analysis of LC oscillators – Hartley and Colpitts oscillators, piezoelectric
+crystal oscillator, Stability of oscillators.
+UNIT – VI:
+Special Purpose Semiconductor Devices: Tunnel Diode, Varactor Diode, Photo Diode,
+Photo Transistor, UJT, LED, SCR
+TEXT BOOKS:
+1. Electronic Devices and Circuits, J. Millman, C. Halkias, and Satyabrata Jit, 4th
+Edition, Tata McGraw Hill, 2015
+2. Electronic Devices and Circuits, R. L. Boylestad and Louis Nashelsky, 11th Edition,
+Pearson/Prentice Hall, 2016
+REFERENCES:
+1. Integrated Electronics, J. Millman, C. Halkias, and Chetan D. Parikh, 2nd Edition,
+Tata McGraw Hill, 2010
+2. Electronic Devices and Circuits, T. F. Bogart Jr., J. S. Beasley and G. Rico, 6th Edition,
+Pearson Education, 2004
+3. Microelectronic Circuits, Adel S. Sedra and Kenneth C. Smith, 7th Edition, Oxford,
+2014
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. III Semester L T/P/D C
+3 0 3
+(A19PC1EC03) DIGITAL SYSTEM DESIGN
+(Common to EEE, ECE & EIE)
+COURSE PRE-REQUISITE: Linear Algebra and Advanced Calculus (19BS1MT04)
+COURSE OBJECTIVES:
+• To understand and analyze the logic families
+• To understand the different ways of number representation and simplification of
+Boolean functions with reference to digital circuit design
+• To understand the design principles of combinational and sequential circuits
+• To understand the role of state machine in digital system designs
+• To introduce the principles involved in implementing a digital system using PLDs
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Identify suitable logic family for the implementation of digital ICs
+CO-2: Apply the fundamental concepts of digital logic in the design of digital system
+CO-3: Analyze and design combinational and sequential logic building blocks of a
+digital system
+CO-4: Apply state machines in the design of digital systems
+CO-5: Implement digital systems using various programmable logic devices
+UNTI – I:
+Digital Logic Families: TTL NAND gate, Specifications, Noise margin, Propagation
+delay, fan-in, fan-out, Tristate TTL, ECL, CMOS families and their interfacing
+Number Systems and Codes: Number Systems, Representation of unsigned and
+Signed Numbers – Binary Arithmetic, Binary Codes, Code Conversions
+UNIT – II:
+Switching Functions and Logic Simplification: Boolean Algebra postulates and
+theorems, Algebraic Simplification, Digital logic gates, Multilevel NAND/NOR
+realizations, Boolean function representations: Canonical and Standard forms,
+Karnaugh map up to 5 variables, Don‘t care combinations.
+UNIT – III:
+Combinational Circuits: Half Adder, Full Adder, Ripple Carry Adder, Half Subtractor,
+Full Subtractor, Binary Adder/Subtractor, BCD adder, 4-bit Magnitude Comparator,
+Encoder, Priority Encoder, Decoder, Multiplexer, De- Multiplexer, Barrel shifter.
+UNIT – IV:
+Sequential Circuits: Classification of sequential circuits, Latches and Flip Flops, SR, JK,D,
+T and Master-Slave JK Flip Flops, Flip-Flop Conversions, Ripple and Synchronous
+Counters, Shift Registers, Sequence generator and sequence detector, Introduction
+to Finite State Machines(Mealy and Moore).
+UNIT – V:
+Algorithmic State Machine Charts: Introduction to ASM charts, system Design using
+data path and control subsystems, ASM charts for Binary Multiplier and Dice Game
+Controller.
+UNIT – VI:
+Programmable Logic Devices: Logic implementation using Programmable Logic
+Devices (PLDs): Read Only Memory (ROM), Programmable Logic Array (PLA),
+Programmable Array Logic (PAL).
+Basic architectures of CPLD and FPGA, FPGA Programming Technologies: SRAM,
+Antifuse, EPROM
+TEXT BOOKS:
+1. Digital Design, Morris Mano, 3rd Edition, PHI, 2006
+2. Modern digital Electronics, R. P. Jain, 4th Edition, Tata McGraw Hill, 2009
+3. Digital Fundamentals, Floyd and Jain, 8th Edition, Pearson Education, 2009
+REFERENCES:
+1. Digital Systems, Ronald J Tocci, Neal S. Widmer, Gregory L Moss, 10th Edition,
+Pearson Education, 2009
+2. Digital Principles and Applications, Donald P. Leach, Albert Paul Malvino and
+Goutam Saha, 8th Edition, McGraw Hill, 2014
+3. Fundamentals of Logic Design, Charles H. Roth Larry L. Kinney, 7th Edition,
+Cengage, 2015
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. III Semester L T/P/D C
+0 3 1.5
+(A19PC2EE01) ELECTRICAL MACHINES-I LABORATORY
+COURSE OBJECTIVES:
+• To expose the students to the operation of DC machines
+• To perform different tests on transformers and DC machines
+• To know different methods of controlling the speed of DC motors
+• To examine the self-excitation phenomenon in DC generators
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Start and control the different DC machines
+CO-2: Assess the performance of DC machines and transformers using different testing
+methods
+CO-3: Identify different conditions to be satisfied for self-excitation of DC generators
+CO-4: Separate iron losses of DC machine into different components
+LIST OF EXPERIMENTS:
+1. Magnetization characteristics of DC shunt generator
+2. Swinburne‘s Test on DC Shunt Machine
+3. Speed control of DC Shunt Motor
+4. Separation of losses of a DC Shunt Machine
+5. Load Test on DC Shunt Generator
+6. Load Test on DC Series Generator
+7. Hopkinson‘s Test on a Pair of Identical DC Shunt Machines
+8. Field‘s Test on a pair of Identical DC Series Machines
+9. Open circuit and short circuit tests on single phase Transformer
+10. Load Characteristics‘ of DC Compound Generator
+11. Brake Test on DC Compound Motor
+12. Determination of Voltage Regulation of Single Phase Transformer by direct method
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. III Semester L T/P/D C
+0 3 1.5
+(A19PC2EC01) ELECTRONIC DEVICES AND CIRCUITS LABORATORY
+(Common to ECE & EEE)
+COURSE PRE-REQUISITES: Engineering Physics
+COURSE OBJECTIVES:
+• To identify various active and passive components.
+• To understand the functionality of various measuring instruments
+• To know the characteristics of various active devices
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the specifications of various devices and measuring equipment
+CO-2: Analyze the characteristics of various semiconductor devices
+CO-3: Appreciate the effect of feedback on the systems’ performance
+Part A: (Only for viva-voce Examination)
+ELECTRONIC WORKSHOP PRACTICE (in 2 lab sessions):
+1. Identification, Specification, testing of R,L,C components (color
+codes),Potentiometer (SPDT, DPDT and DIP), Coils, Gang Condensers, Relays,
+Bread Board, PCB.
+2. Identification, Specification, testing of Active devices: Diodes, BJT, Low power JFET,
+MOSFET, Power Transistors, LED, LCD, SCR, and UJT.
+3. Study and operation of:
+a) Multimeters (Analog and Digital)
+b) Function Generator
+c) Regulated Power Supplies
+d) CRO
+Part B:
+1. V-I characteristics of PN junction diode under forward and reverse bias.
+2. V-I characteristics of Zener diode and voltage regulator using Zener Diode.
+3. Full wave Rectifier without filter and with π filter: Computation of Ripple factor and
+Regulation efficiency
+4. Input and Output characteristics of CE transistor configuration: computation of
+h-parameters.
+5. Input and Output characteristics of CB transistor configuration: computation of
+h-parameters.
+6. Characteristics of FET under CS configuration.
+7. Frequency response of CE Amplifier.
+8. Frequency response of CS Amplifier.
+9. Frequency response of Voltage series feedback amplifier.
+10. RC phase shift Oscillator using transistors.
+11. Colpitt’s Oscillator using transistors.
+12. Characteristics of UJT
+Experiments over and above curriculum:
+1. UJT Relaxation Oscillator.
+2. Transistor as a switch.
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. III Semester L T/P/D C
+0 2 1
+(A19PC2EC15) DIGITAL LOGIC DESIGN LABORATORY
+COURSE OBJECTIVES:
+• To learn VERILOG hardware description language
+• To understand the design of combinational and Sequential Circuits through
+different specifications
+• To design digital circuits using CAD tools
+• To understand & implement the finite state machine
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Develop VERILOG HRL code to design a combinational system
+CO-2: Develop VERILOG HDL Code to design a digital system
+CO-3: Understand the design flow of CAD tools for digital system design
+CO-4: Analyze the importance of Finite State machine
+LIST OF EXPERIMENTS:
+Design and simulate the following circuits
+1. Logic Gates-(Universal gates and Ex-OR gate)
+2. Full Adder and Full Subtractor
+3. Code converter (Binary to Gray)
+4. Multiplexer (4x1 MUX) and De-Multiplexer(1x4 D-MUX)
+5. Encoder and Decoder
+6. Parity Generator
+7. 4-bit comparator
+8. Flip-flops (JK & D) using truth table and state diagram
+9. Up & down counter
+10. Decade counter
+11. Shift registers (Universal)
+12. Mealy state Machine
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. IV Semester L T/P/D C
+3 0 3
+(A19PC1EE03) ELECTRICAL MACHINES-II
+COURSE OBJECTIVES:
+• To understand the armature windings and the flux patterns in AC machines
+• To know the construction and operation of induction and synchronous machines
+• To know the different testing methods for induction and synchronous machines
+• To know the behavior of induction and synchronous machines
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: To identify different parts of ac machines and develop AC windings to establish
+the rotating magnetic fields
+CO-2: To understand the operation of AC machines and assess the performance for
+appropriate application
+CO-3: To start and control the AC machines in view of speed, voltage, active and
+reactive powers
+CO-4: To carry out different assessment tests to predetermine the efficiency of AC
+machines
+UNIT – I:
+Fundamentals of AC Machine Windings: A.C armature windings - differences between
+ac and dc armature windings-active - Pitch Factor-Winding Distribution factor-
+winding factor; Air-gap MMF distribution with direct current through concentrated,
+uniformly and Sinusoidally distributed windings- 3D visualization of the above winding
+types; Production of Pulsating fields- Production of Rotating magnetic Field in Two
+phase and three phase systems.
+UNIT – II:
+Three Phase Induction Machines-I: Principle, Construction, Types, slip, rotor frequency,
+Torque equation, Torque-Slip Characteristics with different rotor resistances, Starting
+and Maximum Torques, Equivalent circuit, Phasor Diagram, Losses and Efficiency,
+Effect of variation of stator voltage, frequency on torque speed characteristics
+UNIT – III:
+Three Phase Induction Machines-II: Circle Diagram, Methods of starting, Braking,
+Speed control for induction motors, Cogging and Crawling, Induction Generator
+operation- Self-excitation, Doubly-Fed Induction Machines (Elementary treatment).
+UNIT – IV:
+Single-Phase Induction Motors: Constructional features, double field revolving Theory,
+Split-phase starting methods- Resistance and capacitor split phase motors, shaded
+pole motors, applications, single phase induction motor equivalent circuit-
+determination of machine parameters.
+UNIT – V:
+Synchronous Machines-I: Constructional features, types- cylindrical rotor synchronous
+machine - generated EMF, armature reaction, phasor diagram, synchronous
+impedance, voltage regulation, methods to find voltage regulation, Analysis of Salient
+pole machine - two reaction theory, phasor diagram, Slip Test, synchronization, power
+delivered, power angle characteristics, Effect of change of excitation and fuel input,
+UNIT – VI:
+Synchronous Machines-II: Short circuit analysis, Synchronous motor, principle, Starting
+of Synchronous Motors, Phasor diagram, V-curves, Synchronous Condenser, Hunting.
+TEXT BOOKS:
+1. Electric Machines, J. Nagrath and D. P. Kothari, McGraw-Hill Education, 2010
+2. Electrical Machinery, P. S. Bimbhra, Khanna Publishers, 2011
+REFERENCES:
+1. Performance and Design of AC machines, M. G. Say, CBS Publishers, 2002
+2. Electric Machinery, E. Fitzgerald and C. Kingsley, McGraw-Hill Education, 2013
+3. Alternating current machines, S. Langsdorf, McGraw-Hill Education, 1984
+4. Principles of Electric Machines and Power Electronics, P. C. Sen, John Wiley & Sons,
+2007
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. IV Semester L T/P/D C
+3 1 4
+(A19PC1EE04) POWER SYSTEMS-I
+COURSE OBJECTIVES:
+• To explain the various generation sources such as hydro, thermal, nuclear and gas
+power plants
+• To describe Transmission line parameters and derive its expressions for various
+configurations and analyze different types of transmission lines
+• To describe Travelling wave theory and derive expressions for reflection and
+refraction coefficients with various terminations of the lines
+• To describe DC and AC distribution systems and its voltage drop calculations
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand the functioning of different power plants
+CO-2: Evaluate the performance of Transmission lines and cables
+CO-3: Analyze the travelling wave phenomena including corona
+CO-4: Assess the performance of DC and AC distribution systems
+UNIT – I:
+Generation of Electrical Energy
+Conventional Power Plants: Operation of Hydel, Thermal, Nuclear and Gas Power
+plant with layout- Description of components-Choice of site- advantages and
+Disadvantages.
+UNIT – II:
+Transmission Line Parameters: Types of conductors - Calculation of resistance for solid
+conductors – Calculation of inductance for single phase lines, three phase single
+circuit and double circuit lines, Transposed lines, concept of GMR and GMD, Skin and
+Proximity effects. Calculation of capacitance for single phase lines, three phase single
+circuit and double circuit lines, Transposed lines, Numerical Problems.
+UNIT – III:
+Performance of Transmission Lines: Classification of Transmission Lines, Performance of
+Short, Medium lines –Nominal-T, Nominal- π Networks and A, B, C, D Constants -
+Numerical Problems. Long Transmission Line-Rigorous Solution, evaluation of A,B,C,D
+Constants, Representation of Long Lines - Equivalent-T and Equivalent- π network
+models- Numerical problems - Ferranti effect.
+UNIT – IV:
+Power System Transients and Corona: Transients - Travelling wave theory - Attenuation,
+Distortion, Reflection and Refraction Coefficients - Termination of lines with different
+types of conditions - Open Circuited Line, Short Circuited Line, T-Junction, Lumped
+Reactive Junctions. Bewley‘s Lattice Diagrams-Numerical Problems
+Corona - Description of the phenomenon, factors affecting corona, critical voltages
+and power loss, Radio Interference - Problems.
+UNIT – V:
+Mechanical Design of Overhead Transmission Lines: Sag and Tension Calculations with
+equal and unequal heights of towers, Effect of wind and Ice loading; Types of
+Insulators, String efficiency and Methods of improvement - Capacitance grading and
+Static Shielding - Numerical Problems.
+UNIT – VI:
+Distribution Systems:
+Substations: Air Insulated and Gas Insulated Substations – Layouts - components –
+Description – comparison - Classification of Distribution Systems - Comparison of DC Vs
+AC Distribution Systems - Requirements and Design features of Distribution Systems-
+Voltage Drop Calculations in D.C Distribution system -Radial system - fed at one end -
+fed at both the ends with equal and unequal Voltages, Ring Main Distribution system.
+Voltage Drop Calculations in A.C. Distribution system, Numerical problems.
+TEXT BOOKS:
+1. Electrical Power Systems, C. L. Wadhawa, New Age International (P) Limited,
+Publishers, 1997
+2. Power System Analysis, John J. Grainger, William D. Stevenson, 4th Edition, TMC
+3. Modern Power System Analysis, I. J. Nagrath and D. P. Kothari, 2nd Edition Tata
+McGraw-Hill Publishing Company
+REFERENCES:
+1. A Text Book on Power System Engineering, M. L. Soni, P. V. Gupta, U. S. Bhatnagar
+and A. Chakraborti, Dhanpat Rai and Co. Pvt. Ltd, 1999
+2. Power System Analysis, Hadi Saadat, TMH Edition
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. IV Semester L T/P/D C
+3 0 3
+(A19PC1EC06) ANALOG CIRCUITS
+(Common to ECE & EEE)
+COURSE PRE-REQUISITES: Electronic Devices and Circuits (19PC1EC02)
+COURSE OBJECTIVES:
+• To understand the principle of Multi stage Amplification
+• To understand the principle of large signal amplification
+• To learn about process of wave shaping circuit
+• To study the applications of Operational Amplifier
+• To study the IC versions of various waveform generators
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Analyze and Compute the parameters of single and multistage Amplifiers
+CO-2: Design various large signal and tuned amplifiers
+CO-3: Design the wave shaping circuit for a specified output
+CO-4: Understand the characteristics of an Operational Amplifier
+CO-5: Design various applications using linear integrated circuits
+UNIT – I:
+Frequency Response of BJT Amplifiers: Analysis at low and high frequencies, Effect of
+coupling and bypass capacitors, Miller‘s Theorem.
+Transistor at High Frequency: Hybrid-π Common Emitter transistor model, CE short
+circuit gain, CE current gain with resistive load, Single stage CE transistor amplifier
+response at high frequencies.
+UNIT – II:
+Multistage Amplifiers: Introduction, Methods of inter-stage coupling, Frequency
+response and Analysis of multistage amplifiers, n-stage cascaded amplifier, CE-CC
+Amplifier, Darlington Pair.
+MOS Amplifiers: MOS Small signal Model, Common source amplifier with Resistive load,
+Diode connected load, and current source load, Source follower, Cascode
+Amplifiers.
+UNIT – III:
+Large Signal Amplifiers: Class-A Power Amplifier- Series fed and Transformer coupled,
+Conversion Efficiency, Class B Power Amplifier- Push Pull and Complimentary
+Symmetry configurations, Conversion Efficiency, Cross Over Distortion, Principle of
+operation of Class AB and Class C Amplifiers.
+Tuned Amplifiers: Classification, Single Tuned Amplifiers – Q-factor, frequency
+response of tuned amplifiers, Concept of stagger tuning and synchronous tuning.
+UNIT – IV:
+Linear Wave Shaping: High pass, Low pass RC circuits and their response for sinusoidal,
+step, pulse, square inputs. RC network as a differentiator and integrator, Attenuators.
+Non-Linear Wave Shaping: Diode clippers, clipping at two independent levels,
+Transfer characteristics of clippers, Clamping operation, clamping circuits, Clamping
+circuit theorem.
+UNIT – V:
+Linear Integrated Circuits: Classification, basic information of Op-amp, ideal and
+practical Op-amp, internal circuits, Op-amp DC and AC characteristics, modes of
+operation-inverting, non-inverting, and differential.
+OP-AMP Applications: Basic applications of Op-amp, Instrumentation amplifier, ac
+amplifier, V to I and I to V converters, Sample and Hold circuits, Differentiators,
+Integrators, Comparators.
+UNIT – VI:
+Data Converters and Waveform Generators: D-A and A- D Converters: weighted
+resistor DAC, R-2R ladder DAC, Different types of ADCs- Successive approximation
+ADC and Dual slope ADC, Parallel comparator.
+555 Timer and PLL: Introduction to 555 timer, functional diagram, Mono-stable, Astable
+and Schmitt Trigger operations, PLL – operation and application.
+TEXT BOOKS:
+1. Integrated Electronics, J. Millman, C. Halkias and Chetan D. Parikh, 2nd Edition, Tata
+McGraw Hill, 2017
+2. Pulse, Digital and Switching Waveforms, J. Millman, H. Taub and Suryaprakash Rao
+M., 3rd Edition, McGraw-Hill, 2017
+3. Op-Amps and Linear Integrated Circuits, Ramakanth A. Gayakwad, 4th
+Edition, PHI, 2015
+REFERENCES:
+1. Electronic Circuit Analysis, S. Salivahanan, N. Suresh Kumar, 4th Edition, Tata
+McGraw-Hill Education, 2017
+2. Pulse and Digital Circuits, K. Venkata Rao, K. Rama Sudha, G. Manmadha Rao, 1st
+Edition, Pearson Education India, 2010
+3. Linear Integrated Circuits –D. Roy Choudhary, Shail B. Jain, 5th Edition, New Age
+International, 2018
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. IV Semester L T/P/D C
+3 0 3
+(A19PC1ME18) FLUID MECHANICS AND HYDRAULIC MACHINES
+COURSE PRE-REQUISITES: Mathematics, Physics and Engineering Mechanics
+COURSE OBJECTIVES:
+• To understand the properties of fluids, principles of buoyancy, flow, force and
+head calculations
+• To understand the hydro dynamic force and impact of jet
+• To principles of operation of different types of hydraulic turbines
+• To principles of operation of different types of hydraulic pumps
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Apply the knowledge of fluids and properties to solve flow, force and velocity
+problems
+CO-2: Apply the knowledge to find the head loss due to friction inpipe and other losses
+CO-3: Apply the knowledge of fluid flow and dynamics in solving problems in hydraulic
+machines
+CO-4: Perform model analysis of hydraulic machinery and select appropriate
+machines for hydro power plant
+UNIT – I:
+Fluid Statics: Properties of fluid – specific gravity, viscosity, surface tension, vapor
+pressure and their influence on fluid motion, Pressure at a point, measurement of
+pressure.
+Fluid Kinematics: Classification of flows, acceleration equations, Streamline, path line
+and streak lines and stream tube, continuity equation, Stream function, velocity
+potential function.
+UNIT – II:
+Fluid Dynamics: Surface and body forces – Euler’s and Bernoulli’s equation,
+Venturimeter, Orifice meter, Pitot tube, Reynolds experiment –Darcy Weisbach
+equation – Minor losses in pipes – pipes in series and pipes in parallel. Momentum
+equation.
+UNIT – III:
+Basics of Turbo Machinery: Hydrodynamic force of jets on flat, inclined and curved
+vanes - jet striking centrally and at tip, flow over radial vanes.
+UNIT – IV:
+Elements of Hydroelectric Power Station: Types of power plants, storage requirements,
+estimation of power from a given catchment area, head and efficiency.
+UNIT – V:
+Hydraulic Turbines: Classification of turbines, design of Pelton wheel, Francis turbine
+and Kaplan turbine – working proportion, work done, efficiency, draft tube-theory,
+functions and efficiency. Geometric similarity, Unit and specific quantities,
+characteristic curves, governing of turbines, selection of type of turbine, cavitation,
+surge tank and water hammer.
+UNIT – VI:
+Hydraulic Pumps: Classification, centrifugal pumps types, working, work done,
+manometric head, losses and efficiency, specific speed pumps in series and parallel
+– performance characteristic curves, NPSH. Reciprocating Pump –types, Working,
+Discharge, slip, indicator diagrams.
+TEXT BOOKS:
+1. Hydraulics And Fluid Mechanics Including Hydraulics Machines, P. N. Modi, S. M.
+Seth, Standard Book House, 2009
+REFERENCES:
+1. Fluid Mechanics & Hydraulic Machines by R. K. Rajput, S. Chand & Co. Ltd, 3rd Rev,
+Edition, 2006
+2. Fluid Mechanics - Fundamentals & Applications, Yunus A. Çengel, John M.
+Cimbala, McGraw-Hill Higher Education, 2006
+3. Fluid Mechanics and Hydraulic Machines, R. K. Bansal, Lakshmi Publications, 2005
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. IV Semester L T/P/D C
+3 0 3
+(A19HS1MG02) ENGINEERING ECONOMICS AND ACCOUNTANCY
+(Common to EEE, EIE, CSE and IT)
+COURSE OBJECTIVES:
+• To explain the basic nature of pure economics and to analyse certain concepts
+of both Micro & Macro Economics and to know the role of managerial economics
+in solving problems of business enterprises
+• To understand different forms of organizing private-sector and public-sector
+business enterprises and problems which have been encountered by public
+enterprises in India
+• To describe each stage of product life cycle with the help of different costs and
+their role in maintaining optimum cost of production and overall profitability by
+considering different market competitions
+• To analyse the process involved in preparation of project proposals, to estimate
+capital required to commerce and carryon business projects, to know the various
+sources of mobilizing required amount of capital and to evaluate investment
+opportunities
+• To apply the basic accounting concepts & conventions and to analyse financial
+position of business enterprise
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Perform decision making function effectively in an uncertain framework by
+applying the concepts of economics, manage demand efficiently and plan future
+course of action
+CO-2: Select suitable form of business organization which meets the requirements of
+business
+CO-3: Fix the right price which can best meet the pre-determined objectives of the
+business under different market conditions
+CO-4: Identify the best source of mobilising capital, select most profitable investment
+opportunity, carry out & evaluate benefit/cost, life cycle and Break-even analysis on
+one or more economic alternatives
+CO-5: Analyze overall position of the business enterprise, therefore, take appropriate
+measures to improve the situation.
+UNIT – I:
+Introduction to Economics & Managerial Economics: Introduction to Economics:
+Definition, nature, scope and types of Economics. Concepts of Macro-Economics:
+Gross Domestic Product (GDP), Gross National Product (GNP), National Income (NI) &
+Rate of Inflation.
+Managerial Economics: Definition, nature, scope & significance.
+Elements of Managerial Economics: Demand Analysis, Law of Demand, Elasticity of
+Demand and Demand Forecasting.
+UNIT – II:
+Forms of organizing Private and Public-Sector Business Enterprises:
+Private Sector Business Enterprises:
+(i) Sole Proprietorship - Definition, features, merits, limitations & suitability.
+(ii) Partnership - Definition, Partnership Act, features, types, merits, limitations, suitability.
+(iii) Joint-Stock Company - Definition, Companies Act, features, types, merits,
+limitations, suitability.
+Public Sector Business Enterprises: Definition, features, objectives, merits, problems.
+UNIT – III:
+Market Structures, Product Life-Cycle (PLC), Pricing and Financial Accounting: Market
+Structures: Definition & common features of market and classifications of markets.
+Evaluation of market structures-Perfect Competition, Monopoly, Monopolistic
+Competition and Oligopoly.
+Product Life-Cycle and Pricing: Definition, various stages of PLC, and Life-Cycle Costs;
+objectives and methods of pricing.
+Introduction to Financial Accounting: Definition, basic principles and double-entry
+book- keeping, practice of accounting process-Journal, ledger, trial balance and
+final accounts (simple problems)
+UNIT – IV:
+Financial Analysis through Ratios: Meaning, computation of ratios
+(i) Liquidity Ratios: Current Ratio and Quick Ratio,
+(ii) Solvency Ratios: Interest Coverage Ratio and Debt- Equity Ratio,
+(iii) Activity Ratios: Stock/Inventory Turnover Ratio and Debt Turnover Ratio,
+(iv) Profitability Ratios: Gross Profit Ratio, Net Profit Ratio & Earning Per Share(EPS) Ratio.
+UNIT – V:
+Management Accounting: Definition & nature of Management Accounting.
+Capital: Types of capital, factors influencing capital requirements, sources of
+mobilising Fixed and Working Capital.
+UNIT – VI:
+Cost Accounting: Cost Accounting: Definition, Types of costs – Opportunity cost,
+Explicit/Out-of-Pocket cost, Implicit/Imputed cost, Fixed cost, Variable cost, Semi-
+Variable cost, Differential cost, Sunk cost, Total cost, Average cost & Marginal cost.
+Break- Even/Cost-Volume-Profit (CVP) Analysis (Simple Problems).
+TEXT BOOKS:
+1. Managerial Economics and Financial Analysis, Aryasri, 2009; Tata McGraw-Hill
+2. Managerial Economics, Varshney & Maheswari, 2009; Sultan Chand
+3. Principles of Marketing: A South Asian Perspective, Kotler Philip, Gary Armstrong,
+Prafulla Y. Agnihotri and Eshan ul Haque, 2010, 13th Edition, Pearson Education/
+Prentice Hall of India
+REFERENCES:
+1. Indian Economy, Misra S. K. and Puri, Himalaya Publishers
+2. Textbook of Business Economics, Pareek Saroj, Sunrise Publishers
+3. Financial Accounting for Management: An Analytical Perspective, Ambrish Gupta,
+Pearson Education
+4. Managerial Economics, H. Craig Peterson & W. Cris Lewis; Prentice Hall of India
+5. Guide to Proposal Writing, Jane C. Geever & Patricia McNeill, Foundation Centre
+Website:
+https://www.amazon.com/exec/obidos/tg/detail/-
+/0879547030/ref=ase_learnerassoci-20/102-4728473-7056968?v=glance&s=books
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. IV Semester L T/P/D C
+0 3 1.5
+(A19PC2EE02) ELECTRICAL MACHINES-II LABORATORY
+COURSE OBJECTIVES:
+• To understand the operation of synchronous machines
+• To know different methods of finding voltage regulation of synchronous generators
+• To understand different testing methods to assess electrical machines
+• To learn how to convert phase between 3 to 2 and vice-versa
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Assess the performance of different machines using different testing methods
+CO-2: Convert the phase from 3 phase to 2 phase and vice-versa
+CO-3: Compensate the changes in terminal voltages of synchronous generator after
+estimating the change by different methods
+CO-4: Start different machines and Control the active and reactive power flows in
+synchronous machines
+LIST OF EXPERIMENTS:
+1. Sumpner‘s test on two identical single-phase transformers
+2. Scott-connected Transformer
+3. Seperation of Iron losses of a single phase transformer
+4. No-Load and blocked rotor tests on three-phase squirrel-cage Induction Motor.
+Analysis through equivalent circuit diagram.
+5. No-Load and blocked rotor tests on three-phase squirrel-cage Induction Motor.
+Analysis through Circle diagram
+6. Brake test on three phase slip ring induction motor
+7. Speed Control of three phase slip ring Induction Motor
+8. Regulation of three-phase Alternator by synchronous impedance method.
+9. Regulation of three-phase Alternator by ZPF Method
+10. Slip test on three-phase salient pole Alternator
+11. V and inverted V curves of a three-phase synchronous motor
+12. Equivalent circuit and Brake test on Single-phase Induction Motor
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. IV Semester L T/P/D C
+0 3 1.5
+(A19PC2EC05) ANALOG CIRCUITS LABORATORY
+COURSE PRE-REQUISITES: Electronic Devices and Circuits
+COURSE OBJECTIVES:
+• To explain the operation, design and Analysis of multistage amplifiers using BJT
+• To understand the operation of power amplifiers and their efficiency
+• To understand the operation of wave shaping circuits
+• To understand the operation of IC 741 and its applications
+• To understand the working principle of 555 timer
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Design and analyze multi-stage amplifier circuits
+CO-2: Design Linear and Non-linear waveshaping circuits
+CO-3: Analyze and design application specific circuits using Op.Amp IC 741
+CO-4: Design applications using IC 555 Timer
+PART – A:
+Design and simulation of the following circuits using simulation software and
+implementation through hardware.
+1. Common Emitter Amplifier
+2. MOSFET- CS amplifier
+3. Two stage RC coupled BJT Amplifier
+4. Darlington amplifier.
+5. Class B Complementary Symmetry Amplifier.
+PART – B: Implement the following
+1. Linear Waves shaping - RC high pass and low Pass circuits
+2. Non-linear wave shaping–Clippers
+3. Non-linear wave shaping–Clampers
+4. Adder, Subtractor, Comparator, Integrator and Differentiator using IC 741 OP-
+AMP.
+5. Square Wave Generator and Triangular Wave Generator using OP- AMP.
+6. R-2R ladder D-A Converter
+7. Monostable and Astable Multivibrator.using 555 timer
+8. Schmitt Trigger circuits using IC 741 & IC 555.
+Experiments over and above the curriculum:
+1. Sweep generator
+2. Active first order LPF, HPF using OP-AMP
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. IV Semester L T/P/D C
+0 2 1
+(A19PC2IT02) PYTHON PROGRAMMING LABORATORY
+COURSE OBJECTIVES:
+• To install and run the Python interpreter
+• To learn control structures
+• To understand Lists, Dictionaries in python
+• To handle Strings and Files in Python
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Develop the application specific codes using python
+CO-2: Understand Strings, Lists, Tuples and Dictionaries in Python
+CO-3: Verify programs using modular approach, file I/O, Python standard library
+CO-4: Implement Digital Systems using Python
+EXERCISE 1: Basics
+Running instructions in Interactive interpreter and a Python Script
+Write a program to purposefully raise Indentation Error and correct it
+EXERCISE 2: Operations
+Write a program to compute GCD of two numbers by taking input from the user
+Write a program add.py that takes 2 numbers as command line arguments and prints
+its sum.
+EXERCISE 3: Control Flow
+Write a Program for checking whether the given number is even number or not.
+Write a program using for loop that loops over a sequence.
+Python Program to Print the Fibonacci sequence using while loop
+Python program to print all prime numbers in a given interval (use break)
+EXERCISE 4: Lists
+Find mean, median, mode for the given set of numbers in a list.
+Write a program to convert a list and tuple into arrays.
+Write a program to find common values between two arrays.
+EXERCISE 5: Dictionary
+Write a program to count the numbers of characters in the string and store them in a
+dictionary data structure
+Write a program combine_lists into a dictionary.
+EXERCISE 6: Strings
+Write a program to check whether a string starts with specified characters.
+Write a program to check whether a string is palindrome or not
+EXERCISE 7: Strings Continued
+Python program to split and join a string
+Python Program to Sort Words in Alphabetic Order
+EXERCISE 8: Files
+Write a program to print each line of a file in reverse order.
+Write a program to compute the number of characters, words and lines in a file.
+Write a program to count frequency of characters in a given file.
+EXERCISE 9: Functions
+Simple Calculator program by making use of functions
+Find the factorial of a number using recursion
+Write a function dups to find all duplicates in the list.
+Write a function unique to find all the unique elements of a list.
+EXERCISE 10: Functions - Problem Solving
+Write a function cumulative_ product to compute cumulative product of a list of
+numbers.
+Write a function reverse to print the given list in the reverse order.
+Write function to compute GCD, LCM of two numbers
+EXERCISE 11: Multi-D Lists
+Write a program that defines a matrix and prints
+Write a program to perform addition of two square matrices
+Write a program to perform multiplication of two square matrices
+EXERCISE 12: Modules
+a) Install NumPypackage with pip and explore it.
+EXERCISE 13:
+Write a program to implement Digital Logic Gates – AND, OR, NOT, EX-OR
+Write a program to implement Half Adder, Full Adder, and Parallel Adder
+TEXT BOOKS:
+1. Python Programming: A Modern Approach, Vamsi Kurama, Pearson
+2. Learning Python, Mark Lutz, Orielly
+REFERENCES:
+1. Think Python, Allen Downey, Green Tea Press
+2. Core Python Programming, W. Chun, Pearson
+3. Introduction to Python, Kenneth A. Lambert, Cengage
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+B.Tech. IV Semester L T/P/D C
+0 2 0
+(A19MN6HS03) GENDER SENSITIZATION
+COURSE DESCRIPTION:
+This course offers an introduction to Gender Studies, an interdisciplinary field that asks
+critical questions about the meanings of sex and gender in society. The primary goal
+of this course is to familiarize students with key issues, questions and debates in Gender
+Studies, both historical and contemporary. It draws on multiple disciplines – such as
+literature, history, economics, psychology, sociology, philosophy, political science,
+anthropology and media studies – to examine cultural assumptions about sex,
+gender, and sexuality. This course integrates analysis of current events through student
+presentations, aiming to increase awareness of contemporary and historical
+experiences of women, and of the multiple ways that sex and gender interact with
+race, class, caste, nationality and other social identities. This course also seeks to build
+an understanding and initiate and strengthen programmes combating gender-based
+violence and discrimination. The course also features a number of exercises and
+reflective activities designed to examine the concepts of gender, gender-based
+violence, sexuality, and rights. It will further explore the impact of gender-based
+violence on education, health and development
+ACTIVITIES:
+Classes will consist of a combination of activities: dialogue-based lectures, discussions,
+collaborative learning activities, group work and in-class assignments
+COURSE OBJECTIVES:
+• To sensitize students on issues of gender in contemporary India
+• To provide a critical perspective on the socialization of men and women
+• To expose the students to debates on the politics and economics of work
+• To enable students to reflect critically on gender violence
+• To expose students to more egalitarian interactions between men and women
+COURSE OUTCOMES: After completion of the course, the student should be able to
+CO-1: Understand important issues related to gender in contemporary India
+CO-2: Attain a finer grasp of how gender discrimination works in our society and how
+to counter it
+CO-3: Acquire insight into the gendered division of labour and its relation to politics
+and economics
+CO-4: Respond to put an end to gender violence
+CO-5: Equipped to work with the other gender treating them as equals
+MODULE 1: Introduction to Gender
+Definition of Gender
+Basic Gender Concepts and Terminology
+Exploring Attitudes towards Gender
+Social Construction of Gender
+MODULE 2: Gender Roles and Relations
+Types of Gender Roles
+Gender Roles and Relationships Matrix
+Gender-based Division and Valuation of Labour
+MODULE 3: Gender Development Issues
+Identifying Gender Issues
+Gender Sensitive Language
+Gender, Governance and Sustainable Development
+Gender and Human Rights
+Gender and Mainstreaming
+MODULE 4: Gender-based Violence
+The concept of violence
+Types of Gender-based violence
+The relationship between gender, development and violence
+Gender-based violence from a human rights perspective
+MODULE 5: Gender and Culture
+Gender and Film
+Gender and Electronic Media
+Gender and Advertisement
+Gender and Popular Literature
+MODULE 6: Gender and Studies
+Knowledge: Through the Lens of Gender Point of View, Gender and the Structure of
+Knowledge
+Whose History: Questions for Historians and Others, Reclaiming a Past, Writing Other
+Histories
+TEXT BOOK:
+1. “Towards a World of Equals: A Bilingual Textbook on Gender”, A. Suneetha, Uma
+Bhrugubanda, Duggirala Vasanta, Rama Melkote, Vasudha Nagaraj, Asma
+Rasheed, Gogu Shyamala, Deepa Sreenivas and Susie Tharu, Telugu Akademi,
+Telangana Government, 2015
+REFERENCES:
+1. “More than One Million Women are Missing” by Sen, Amartya, New York Review of
+Books 37.20 (20 December 1990), Print ‘We Were Making History’ Life Stories of
+Women in the Telangana People’s Struggle, New Delhi: Kali for Women, 1989
+2. “By the Numbers: Where Indian Women Work” Women’s Studies Journal (14
+November 2012), Tripti Lahiri, Available online at: http: // blogs.wsj.com/ India real
+time/2012/11/14/by-the-numbers-where-India-women-work/&gt
+3. “I Fought For My Life ...and Won “ by Abdulali Sohaila, Available online at:
+http://www.thealternative.in/lifestyle/i-fought-for-my-lifeand-won-sohaila-abdulal
+4. The Violence of Development: The Politics of Identity, Gender and Social
+Inequalities in India, K. Kapadia, London: Zed Books, 2002
+5. Just Development: Beyond Adjustment with a Human Face, T. Banuri and M.
+Mahmood, Karachi: Oxford University Press, 1997

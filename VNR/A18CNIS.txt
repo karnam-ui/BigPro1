@@ -1,0 +1,2294 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/mtechsyl/A18CNIS.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+A18
+M.Tech. (COMPUTER NETWORKS & INFORMATION SECURITY)
+M.Tech. Amended R18 [A18] CBCS Curriculum
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous, ISO 9001:2015 & QS I-Gauge Diamond Rated Institute, Accredited by NAAC with ‘A++’ Grade
+NBA Accreditation for B.Tech. CE, EEE, ME, ECE, CSE, EIE, IT Programmes
+Approved by AICTE, New Delhi, Affiliated to JNTUH, NIRF 135th Rank in Engineering Category
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+VISION OF THE INSTITUTE
+To be a World Class University providing value-
+based education, conducting interdisciplinary
+research in cutting edge technologies leading to
+sustainable development of the nation
+MISSION OF T HE INSTITUTE
+➢ To produce technically competent and socially
+responsible engineers, managers and
+entrepreneurs, who will be future ready.
+➢ To involve students and faculty in innovative
+research projects linked with industry, academic
+and research institutions in India and abroad.
+➢ To use modern pedagogy for improving the
+teaching-learning process.
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 2
+DEPARTMENT OF
+INFORMATION
+TECHNOLOGY
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 3
+VISION OF THE DEPARTMENT
+To impart quality technical education that fosters
+critical thinking, dynamism and innovation to
+transform students into globally competitive IT
+professionals.
+MISSION OF TH E DEPARTMENT
+➢ To provide quality education through innovative
+teaching and learning process that yields
+advancements in state-of-the-art information
+technology.
+➢ To provide a learning environment that
+promotes quality research.
+➢ To inculcate the spirit of ethical values
+contributing to the welfare of the society.
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 4
+M.TECH.
+(COMPUTER NETWORKS &
+INFORMATION SECURITY)
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 5
+M.TECH. (CNIS)
+PROGRAM EDUCATIONAL OBJECTIVES
+PEO-I: Apply the necessary mathematical tools and fundamental &
+advanced knowledge of computer Science & engineering and computer
+networks
+PEO-II: Develop computer network & security systems understanding
+the importance of Social, Business, Technical, Environmental, and human
+context in which the systems would work
+PEO-III: Articulate fundamental concepts, design underpinnings of
+network & security systems, and research findings to train professionals
+or to educate post engineering students
+PEO-IV: Contribute effectively as a team member/leader, using common
+tools and environment, in computer networks & security projects,
+research, or education
+PEO-V: Pursue life-long learning and research in computer networks
+and contribute to the growth of that Field and society at large
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 6
+M.TECH. (CNIS)
+PROGRAM OUTCOMES
+PO-1: Scholarship of knowledge: Apply knowledge of mathematics,
+science, engineering fundamentals and an engineering specialization to
+the conceptualization of Network & security models.
+PO-2: Critical thinking: Identify, formulate, research literature and solve
+complex Network & security problems reaching substantiated conclusions
+using first principles of mathematics and engineering sciences.
+PO-3: Problem solving: Design solutions for complex real time problems
+and design systems, components or processes that meet specified needs
+with appropriate consideration for Network & security
+PO-4: Research skill: Conduct investigations of complex Network &
+security problems including design of experiments, analysis and
+interpretation of data, and synthesis of information to provide valid
+conclusions.
+PO-5: Modern tool usage: Create, select and apply appropriate
+techniques, resources, and modern engineering tools, including
+prediction and modeling, to complex engineering activities, with an
+understanding of the limitations.
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 7
+PO-6: Collaborative and multidisciplinary work: Function effectively as an
+individual, and as a member or leader in diverse teams and in
+multidisciplinary settings.
+PO-7: Communication: Communicate effectively on complex
+engineering activities with the engineering community and with society at
+large, able to comprehend and write effective reports and design
+documentation, make effective presentations, and give and receive clear
+instructions.
+PO-8: Independent and reflective learning: Demonstrate a knowledge
+and understanding of management and business practices, such as risk
+and change management, and understand their limitations.
+PO-9: Ethical practices and social responsibility: Understand and commit
+to professional ethics and responsibilities and norms of engineering
+practice. Understand the impact of engineering solutions in a societal
+context and demonstrate knowledge of and need for sustainable
+development.
+PO-10: Project management: Ability to undertake problem identification,
+formulation and providing optimum solution
+PO-11: Lifelong learning: Recognize the need for, and have the ability to
+engage in independent and life-long learning.
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 8
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. I YEAR COURSE STRUCTURE AND SYLLABUS
+(COMPUTER NETWORKS & INFORMATION SECURITY)
+I SEMESTER A18
+Course Type Course Code Name of the Course L T P Credits
+Professional
+A18PC1CN01 Principles of Information Security 3 0 0 3
+Core-I
+Professional
+A18PC1CN02 Advanced Computer Networks 3 0 0 3
+Core-II
+Professional
+A18PC1CN03 Data Structures and Algorithms 3 0 0 3
+Core-III
+Computer Forensics and Cyber
+A18PE1CN01
+Security
+Professional
+A18PE1CN02 Machine Learning and Security 3 0 0 3
+Elective-I
+A18PE1CN03 Cloud Based Computing
+A18PE1CN04 Distributed Systems
+Professional
+A18PE1CN05 Designing the Internet of Things 3 0 0 3
+Elective -II
+A18PE1CN06 Security in E-Commerce
+Professional Information Security and Networks
+A18PC2CN01 0 0 3 1.5
+Core Lab-I Laboratory
+Professional Data Structures and Algorithms
+A18PC2CN02 0 0 3 1.5
+Core Lab-II Laboratory
+Project A18PW4CN01 Technical Seminar 0 0 4 2
+Audit A18AU5CS01 Research Methodology and IPR 2 0 0 0
+Total 17 0 10 20
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 9
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. I YEAR COURSE STRUCTURE AND SYLLABUS
+(COMPUTER NETWORKS & INFORMATION SECURITY)
+II SEMESTER A18
+Course Type Course Code Name of the Course L T P Credits
+Professional Wireless Networks and Mobile
+A18PC1CN04 3 0 0 3
+Core-IV Computing
+Professional
+A18PC1CP05 Soft Computing 3 0 0 3
+Core-V
+Professional
+A18PC1CN05 Web Scripting Languages 3 0 0 3
+Core-VI
+Fundamentals of Wireless Sensor
+A18PE1CN07
+Networks
+Professional
+A18PE1CN08 Intrusion Detection 3 0 0 3
+Elective-III
+A18PE1CN09 Network Programming
+A18PE1CN10 Ethical Hacking
+Professional
+A18PE1CN11 Security Assessment and Risk Analysis 3 0 0 3
+Elective -IV
+Information Security Management
+A18PE1CN12
+and Standards
+Professional Wireless Networks Simulation and
+A18PC2CN03 0 0 3 1.5
+Core Lab-III Soft Computing Laboratory
+Professional Web Scripting Languages
+A18PC2CN04 0 0 3 1.5
+Core Lab-IV Laboratory
+Project A18PW4CN02 Mini-Project 0 0 4 2
+English for Academic and Research
+Audit A18AU5EN01 2 0 0 0
+Writing
+Total 17 0 10 20
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 10
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY, HYDERABAD
+M.TECH. II YEAR COURSE STRUCTURE AND SYLLABUS
+(COMPUTER NETWORKS & INFORMATION SECURITY)
+III SEMESTER A18
+Course
+Course Code Name of the Course L T P Credits
+Type
+A18PE1SE10 Software Defined Networks
+Professional
+A18PE1CN13 Network Management Systems 3 0 0 3
+Elective-V
+A18PE1CN14 Storage Area Networks
+A18OE1CN01 Business Analytics
+A18OE1AM01 Industrial Safety
+Open
+A18OE1AM02 Operations Research 3 0 0 3
+Elective
+A18OE1AM03 Composite Materials
+A18OE1PS01 Waste to Energy
+Project A18PW4CN03 Project Part - I 0 0 16 8
+Total 6 0 16 14
+IV SEMESTER A18
+Course
+Course Code Name of the Course L T P Credits
+Type
+Project A18PW4CN04 Project Part - II 0 0 28 14
+Total 0 0 28 14
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 11
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (CNIS) L T/P C
+3 0 3
+(A18PC1CN01) PRINCIPLES OF INFORMATION SECURITY
+COURSE OBJECTIVES:
+• To understand the computer security concepts
+• To differentiate symmetric / asymmetric cryptographic techniques
+• To analyse various security mechanisms using cryptographic primitives
+• To discriminate of security mechanism at various levels of computer networking and to
+be familiar with security defensive devices e.g., firewalls, intrusion detection etc.
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Remembering the overview of security principles
+CO-2: Understanding of network security related issues and mitigating mechanisms
+CO-3: Analyzing different malwares and security tools
+CO-4: Evaluating networking and security skills to industrial need
+UNIT-I:
+Information Security: Introduction, History of Information security, What is Security, Security
+Goals, Security Attacks (Interruption, Interception, Modification and Fabrication), Security
+Services (Confidentiality, Authentication, Integrity, Non-repudiation, access Control and
+Availability) and Mechanisms, CNSS Security Model, Components of Information System,
+Balancing Information Security and Access, Approaches to Information Security
+Implementation, The Security Systems Development Life Cycle.
+UNIT-II:
+Cryptography: Concepts and Techniques, symmetric and asymmetric key cryptography,
+steganography. Symmetric key Ciphers: DES structure, DES Analysis, Security of DES,
+variants of DES, Block cipher modes of operation , AES structure, Analysis of AES , Key
+distribution
+UNIT-III:
+Asymmetric key Ciphers: Principles of public key cryptosystems, RSA algorithm, Analysis of
+RSA, Diffie-Hellman Key exchange
+UNIT-IV:
+Message Authentication and Hash Functions: Authentication requirements and functions,
+MAC and Hash Functions, MAC Algorithms: Secure Hash Algorithm, HMAC, Digital signatures,
+X.509, Kerberos
+UNIT-V:
+Security at layers (Network, Transport, Application):IPsec, Secure Socket Layer(SSL),
+Transport Layer Security(TLS), Secure Electronic Transaction(SET), Pretty Good Privacy(PGP),
+S/MIME
+UNIT-VI:
+Intruders, Virus and Firewalls: Intruders, Intrusion detection, password management, Virus and
+related threats, Countermeasures, Firewall design principles, Types of firewalls
+TEXT BOOKS:
+1. Principles of Information Security, Michael E. Whitman, Herbert J. Mattord, 4th
+Edition, Cengage Learning
+2. Cryptography and Network Security, William Stallings, 4th Edition, Pearson Education
+3. Cryptography and Network Security, Forouzan Mukhopadhyay, 2nd Edition, McGraw Hill
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 12
+REFERENCES:
+1. Cryptography and Network Security, C. K. Shyamala, N. Harini, T. R. Padmanabhan, 1st
+Edition, Wiley India
+2. Network Security and Cryptography, Bernard Menezes, Cengage Learning
+3. Cryptography and Network Security, Atul Kahate, 2nd Edition McGraw Hill
+4. Principles of Computer Security, W. M. Arthur Conklin, Greg White, TMH
+5. Handbook of Security of Networks, Yang Xiao, Frank H Li, Hui Chen, World Scientific, 2011
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 13
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (CNIS) L T/P C
+3 0 3
+(A18PC1CN02) ADVANCED COMPUTER NETWORKS
+COURSE OBJECTIVES:
+• To analyze computer network architectures, protocols and interfaces
+• To categorize and understand the OSI reference model and the Internet architecture
+network applications
+• To relate the course and expose students to the concepts of traditional as well as modern
+day computer networks
+• To estimate the key concepts and practices employed in modern computer networking
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Remembering networking issues and differentiating TCP/IP and 7-Layer OSI models
+CO-2: Analyzing different routing protocols for various applications
+CO-3: Evaluating various switching protocols
+CO-4: Applying Optical Networks and Wavelength routing
+UNIT-I:
+Computer Networks and the Internet: History of Computer Networking and the Internet,
+Networking Devices, The Network edge, The Network core, Access Networks and Physical
+media, ISPs and Internet Backbones.
+Networking Models: 5-layer TCP/IP Model, 7-Layer OSI Model, Internet Protocols and
+Addressing,
+UNIT-II:
+Routing and its Concepts: Structure of a Router, Basic Router Configuration, Building a
+Routing Table, Static Routing, Dynamic Routing – Distance Vector Routing Protocol (RIPv1,
+RIPv2, EIGRP),Link State Routing Protocols (OSPF).
+UNIT-III:
+LAN Switching:
+Switching and its Concepts: Structure of a Switch, Basic Switch Configuration, Virtual LANs,
+(VLANs), VLAN Trunking Protocol (VTP), Inter-VLAN Routing. Spanning Tree Protocol (STP).
+UNIT-IV:
+Wide Area Networks (WANs): Introduction to WANs, Point-to-Point Protocol (PPP) concepts,
+Frame Relay concepts, Dynamic Host Configuration Protocol (DHCP), Network Address
+Translation (NAT), IPv6.
+UNIT-V:
+Optical Networks: WDM, Wavelength routing, LightPaths/Lighttrails, Wavelength conversion
+and rerouting, Network Survivability and Provisioning, IP over DWDM, Next generation Optical
+Networks: Optical Circuit Switching, Optical Burst Switching, Optical Packet Switching
+UNIT-VI:
+Voice over IP (VOIP): VOIP protocols: overview of H323 and SIP(session initiation protocol).
+Overview of VOIP call flows, IVR calls
+TEXT BOOKS:
+1. TCP/IP Protocol Suite, Behrouz A. Forouzan, 4th Edition, Tata McGraw Hill, 2010
+2. Routing Protocols & Concepts, Rick Graziani, Pearson Education
+3. LAN Switching & Wireless, Wayne Lewis, Pearson Education
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 14
+REFERENCES:
+1. Computer Networking: A Top-Down Approach Featuring the Internet, James F. Kurose,
+Keith W. Ross, Fifth Edition, Pearson Education, 2012
+2. Network Fundamentals, Mark Dye, Pearson Education
+3. Accessing the WAN, Bob Vachon, Pearson Education
+4. Emerging Optical Network Technologies, Krishna M. Sivalingham, Suresh Subramaniam
+Springer, 2004
+5. Computer Networks: A Systems approach, Larry L. Peterson & Bruce S. Davie, Fifth Edition,
+Elsevier, 2012
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 15
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (CNIS) L T/P C
+3 0 3
+(A18PC1CN03) DATA STRUCTURES AND ALGORITHMS
+COURSE OBJECTIVES:
+• To analyze algorithms and know abstract data types
+• To experiment and Discriminate stack, queue and their applications
+• To illustrate, Evaluate Searching and sorting techniques in real-world scenarios
+• To summarize the knowledge of graphs and trees and their applications
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understanding complexity of an algorithm
+CO-2: Remembering fundamental knowledge of Data Structures in Real time scenarios
+CO-3: Applying the techniques in Software Development Life cycle
+CO-4: Analyzing various algorithms on graph /tree data structures, including finding the
+minimum spanning tree and shortest path, Encoding and Decoding
+UNIT-I:
+Algorithms, Performance analysis- time complexity and space complexity, Asymptotic
+Notation- Big Oh, Omega and Theta notations, Complexity Analysis Examples.
+UNIT-II:
+Data structures-Linear and non linear data structures, ADT concept, Linear List ADT, Array
+representation, Linked representation, singly linked lists –insertion, deletion, search
+operations, doubly linked lists-insertion, deletion operations, circular lists.
+UNIT-III:
+Stack and Queue ADTs, array and linked list representations, infix to postfix conversion using
+stack, implementation of recursion, Circular queue-insertion and deletion, Dequeue ADT,
+array and linked list representations, Priority queue ADT, implementation using Heaps,
+Insertion into a MaxHeap, DeletionfromaMax Heap
+UNIT-IV:
+Searching–Linear and binary search methods, Hashing-Hash functions, Collision Resolution
+methods-Open Addressing, Chaining, Hash table. Sorting –Bubble sort, Insertion sort, Quick
+sort, Merge sort, Heap sort, comparison of sorting methods.
+UNIT-V:
+Trees- Ordinary and Binary trees terminology, Properties of Binary trees, Binary tree ADT ,
+representations, recursive and non-recursive traversals, Threaded binary trees. Binary search
+tree ADT ,insertion, deletion and searching operations, Balanced search trees.
+UNIT-VI:
+Graphs- Graphs terminology, Graph ADT, representations, graph traversals/search methods-
+dfs and bfs, Java code for graph traversals, Applications of Graphs
+TEXT BOOKS:
+1. Data Structures, Algorithms and Applications in Java, S. Sahni, Universities Press
+2. Data Structures and Algorithms in Java, Adam Drozdek, 3rd Edition, Cengage Learning
+3. Data Structures and Algorithm Analysis in Java, M. A. Weiss, 2nd Edition, Addison-Wesley
+(Pearson Education)
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 16
+REFERENCES:
+1. Data Structures and Algorithms in Java, Michael T. Goodrich, 4th Edition, John Willey &
+Sons
+2. Data Structures using C, Reema Thareja, Second Edition, Oxford University Press
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 17
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (CNIS) L T/P C
+3 0 3
+(A18PE1CN01) COMPUTER FORENSICS AND CYBER SECURITY
+COURSE OBJECTIVES:
+• To Understand the Fundamentals of Computer Forensics
+• To examine various forensic tools to process the crime and incident scenes
+• To learn how to collect and preserve digital evidence that resides on computer storage
+devices
+• To analyze how cyber-crimes take place and how these can be handled by LAW
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Applying appropriate skills and knowledge in solving computer forensics problems
+CO-2: Analyzing various Computer forensic tools and their importance
+CO-3: Understanding and applying new methods for collecting and preserving evidences
+CO-4: Evaluating the knowledge gained to investigate cybercrimes
+UNIT-I:
+Computer Forensics Fundamentals: What is Computer Forensics? Use of Computer Forensics
+in Law Enforcement, Computer Forensics in Law Enforcement, Computer Forensics Assistance
+to Human Resources/Employment Proceedings, Computer Forensics Services, Benefits of
+professional Forensics Methodology, Steps taken by computer Forensics Specialists.
+Types of Computer Forensics Technology: Types of Military Computer Forensics Technology,
+Types of Law Enforcement – Computer Forensic Technology – Types of Business Computer
+Forensics Technology.
+UNIT-II:
+Processing Crime and Incident Scenes: Identifying digital evidence, collecting evidence in
+private-sector incident scenes, processing law enforcement crime scenes, preparing for a
+search, securing a computer incident or crime scene, seizing digital evidence at the scene,
+storing digital evidence, obtaining a digital hash, reviewing a case.
+Current Computer Forensic Tools: evaluating computer forensic tool needs, computer
+forensics software tools, computer forensics hardware tools, validating and testing forensics
+software.
+UNIT-III:
+Evidence Collection and Data Seizure: Why Collection Evidence? Collection Options –
+Obstacles – Types of Evidence – The Rules of Evidence- Volatile Evidence- General
+Procedure – Collection and Archiving – Methods of Collection – Artifacts – Collection Steps –
+Controlling Contamination: The chain of Custody.
+Duplication and Preservation of Digital Evidence: Preserving the Digital Crime Scene –
+Computer Evidence Processing Steps – Legal Aspects of Collecting Preserving Computer
+Forensics Evidence.
+Computer Image Verification and Authentication: Special Needs of Evidential Authentication
+– Practical Consideration – Practical Implementation.
+UNIT-IV:
+Introduction to Cyber Crime: Cybercrime Definition and Origins of the World, Cybercrime and
+Information Security, Who are Cybercriminals? Classifications of Cybercrimes, Cybercrime
+and the Indian ITA 2000, Global perspective on Cybercrimes.
+Cyber Offenses: How Criminals Plan Them: Introduction, How Criminals Plan the Attacks,
+Social Engineering, Cyber stalking, Cybercafé and Cybercrimes, Botnets, Attack Vector,
+Cloud Computing.
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 18
+UNIT-V:
+Cyber Crime: Mobile and Wireless Devices: Introduction, Proliferation of Mobile and wireless
+Devices, Trends in Mobility, Credit Card Frauds in Mobile and Wireless Computing Era,
+Security Challenges posed by Mobile Devices, Authentication Service Security, Attacks on
+Mobile/Cell Phones, Mobile Devices: Security Implications for Organization, Organizational
+Measures for handling Mobile Devises—Related Security Issues, Organizational Security
+Policies and Measures in Mobile Computing Era, Laptops.
+UNIT-VI:
+Introduction to Cyber Crime Investigation: Firewalls and Packet Filters, password Cracking,
+Key loggers and Spyware, Virus and Warms, Trojan and backdoors, Steganography, DOS and
+DDOS attack, SQL injection, Buffer Overflow, Attack on wireless Networks.
+TEXT BOOKS:
+1. Computer Forensics, Computer Crime Investigation, John R. Vacca, Firewall Media, New
+Delhi
+2. Computer Forensics and Investigations, Nelson, Phillips Enfinger Steuart, CENGAGE
+Learning
+3. Cyber Security Understanding Cyber Crimes, Computer Forensics and Legal Perspectives,
+Nina Godbole and Sunit Belpure, Wiley
+REFERENCES:
+1. Forensic Compiling, A Tractitioneris Guide, Tony Sammes and Brain Jenkinson, Springer
+International Edition
+2. Computer Evidence Collection & Presentation, Christopher L. T. Brown, Firewall Media
+3. Software Forensics Collecting Evidence from the Scene of a Digital Crime, Robert M.
+Slade, TMH, 2005
+4. Computer Security: Principles and Practice, William Stallings and Lawrie Brown, Prentice
+Hall, 2008
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 19
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (CNIS) L T/P C
+3 0 3
+(A18PE1CN02) MACHINE LEARNING AND SECURITY
+COURSE OBJECTIVES:
+• To introduce basic concepts and techniques of mathematics for machine learning
+• To discuss fundamentals of machine learning to build machine learning algorithms
+• To give students knowledge about supervised & unsupervised learning for machine
+learning algorithms
+• To understand the major topics in machine learning applied to security applications
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Identifying and describe mathematical techniques and their roles in building machine
+learning methods
+CO-2: Understanding the basic concepts and principles of machine learning
+CO-3: Applying supervised and unsupervised learning methods to data analysis problems
+and solve various applications
+CO-4: Evaluating and comparing solutions by various machine learning approaches for
+security
+UNIT-I:
+Introduction to Linear Algebra in Machine Learning: Scalars, Vectors, and Linear Functions,
+Linear Functions, Matrices, Matrix Transformations, Norms, Eigen decomposition, Singular
+Value Decomposition (SVD), Principal Component Analysis (PCA).
+UNIT-II:
+Introduction to Machine Learning: Machine learning, Train and Test Data, Cross-Validation,
+Underfitting and Overfitting, Gradient Descent, Building a Machine Learning Algorithm.
+UNIT-III:
+Supervised Learning: Basic methods, Distance-based methods, Nearest-Neighbours, Decision
+Trees, Naive Bayes, and Support Vector Machines.
+Linear models: Linear Regression, Logistic Regression, Generalized Linear Models
+UNIT-IV:
+Unsupervised Learning: Clustering: K-means/Kernel K-means, Dimensionality Reduction: PCA
+and kernel PCA, Matrix Factorization and Matrix Completion.
+UNIT-V:
+Machine Learning and Security: Introduction, Anomaly detection, When to Use Anomaly
+Detection Versus Supervised Learning, Anomaly Detection with Data and Algorithms.
+UNIT-VI:
+Malware Analysis: Understanding Malware, Defining Malware, Classification Malware: Behind
+the Scenes, Feature Generation, Data Collection Generating Features, Feature Selection,
+From Features to Classification, How to Get Malware Samples and Labels
+TEXT BOOKS:
+1. Machine Learning with R, Ghatak Abhijit, 2017 ISBN 978-981-10-6808-9
+2. Machine Learning: A Probabilistic Perspective, Kevin Murphy, MIT Press, 2012
+3. Machine Learning & Security, Clarence Chio & David Freeman, 2018
+REFERENCES:
+1. Machine Learning, Tom M. Mitchell, MGH, ISBN: 0070428077
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 20
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (CNIS) L T/P C
+3 0 3
+(A18PE1CN03) CLOUD BASED COMPUTING
+COURSE OBJECTIVES:
+• To apply trust-based security model to real-world security problems
+• To know an overview of the concepts, processes, and best practices needed to
+successfully secure information within Cloud infrastructures
+• To learn the basic Cloud types and delivery models
+• To understand the risk and compliance responsibilities and challenges for each Cloud
+type and service delivery model
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understanding security aspects of each cloud model
+CO-2: Analyzing a risk-management strategy for moving to the Cloud
+CO-3: Creating a public cloud instance using a public cloud service provider
+CO-4: Applying trust-based security model to different layer
+UNIT-I
+Introduction to Cloud Computing: Online Social Networks and Applications, Cloud
+introduction and overview, Different clouds, Risks, Novel applications of cloud computing.
+UNIT-II:
+Cloud Computing Architecture: Requirements, Introduction Cloud computing architecture,
+On Demand Computing Virtualization at the infrastructure level, Security in Cloud computing
+environments, CPU Virtualization, A discussion on Hypervisors Storage Virtualization Cloud
+Computing Defined, The SPI Framework for Cloud Computing, The Traditional Software
+Model, The Cloud Services Delivery Model
+Cloud Deployment Models: Key Drivers to Adopting the Cloud, The Impact of Cloud
+Computing on Users, Governance in the Cloud, Barriers to Cloud Computing Adoption in the
+Enterprise
+UNIT-III:
+Security Issues in Cloud Computing: Infrastructure Security, Infrastructure Security: The
+Network Level, The Host Level, The Application Level, Data Security and Storage, Aspects of
+Data Security, Data Security Mitigation Provider Data and Its Security
+Identity and Access Management: Trust Boundaries and IAM, IAM Challenges, Relevant IAM
+Standards and Protocols for Cloud Services, IAM Practices in the Cloud, Cloud Authorization
+Management.
+UNIT –IV:
+Security Management in the Cloud: Security Management Standards, Security Management
+in the Cloud, Availability Management: SaaS, PaaS, IaaS.
+Privacy Issues: Privacy Issues, Data Life Cycle, Key Privacy Concerns in the Cloud, Protecting
+Privacy, Changes to Privacy Risk Management and Compliance in Relation to Cloud
+Computing, Legal and Regulatory Implications, U.S. Laws and Regulations, International Laws
+and Regulations.
+UNIT-V:
+Audit and Compliance: Internal Policy Compliance, Governance, Risk, and Compliance
+(GRC), Regulatory/External Compliance, Cloud Security Alliance, Auditing the Cloud for
+Compliance, Security-as-a-Cloud.
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 21
+UNIT-VI:
+Advanced Topics: Recent developments in hybrid cloud and cloud security.
+TEXT BOOKS:
+1. Cloud Computing Explained: Implementation Handbook for Enterprises, John Rhoton,
+2009
+2. Cloud Security and Privacy: An Enterprise Perspective on Risks and Compliance (Theory in
+Practice), Tim Mather, O’Reilly, 2009 ISBN-10: 0596802765
+REFERENCES:
+1. Cloud Computing: Principles and Paradigms by Rajkumar Buyya, James Broberg and
+Andrzej M. Goscinski, Wiley, 2011
+2. Distributed and Cloud Computing, Kai Hwang, Geoffery C. Fox, Jack J. Dongarra,
+Elsevier, 2012
+3. Cloud Computing: A Practical Approach, Anthony T. Velte, Toby J. Velte, Robert
+Elsenpeter, Tata McGraw Hill, 2011
+4. Enterprise Cloud Computing, Gautam Shroff, Cambridge University Press, 2010
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 22
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (CNIS) L T/P C
+3 0 3
+(A18PE1CN04) DISTRIBUTED SYSTEMS
+COURSE OBJECTIVES:
+• To summarize the fundamental architectures and distributed system models
+• To discriminate conventional OS with distributed OS features
+• To understand synchronization problems and Clock mechanisms
+• To analyse various security issues in distributed environment cryptographic algorithms and
+fault tolerant mechanisms
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Analyzing the problem with clock mechanisms in distributed environment
+CO-2: Understanding the concept of distributed transactions, distributed operating system
+CO-3: Remembering the concept of Fault Tolerant Mechanisms
+CO-4: Applying various security algorithms
+UNIT-I:
+Characterization of Distributed Systems: Introduction, Examples of Distributed systems,
+Resource sharing and web, challenges, System models- Introduction, Architectural and
+Fundamental models, Networking and Internetworking.
+UNIT-II:
+Inter-Process Communication: Distributed objects and Remote Invocation-Introduction,
+Communication between distributed objects, RPC, Events and notifications, architecture,
+case study- SUN network file systems. Name Services Introduction; Name Services and the
+Domain Name System, Case study of the Global Name Service, Case study of the X.500
+Directory Service.
+UNIT-III:
+Peer to Peer Systems: Introduction, Napster and its legacy, Peer to Peer middleware, Routing
+overlays, Overlay case studies-Pastry, Tapestry, Application case studies-Squirrel, Ocean
+Store. Time and Global States-Introduction, Clocks, events and Process states, Synchronizing
+physical clocks, logical time and logical clocks, global states, distributed debugging.
+Coordination and Agreement – Introduction, Distributed mutual exclusion, Elections, Multicast
+communication, consensus and related problems.
+UNIT–IV:
+Transactions and Concurrency Control: Introduction, Transactions, Nested Transactions,
+Locks, Optimistic concurrency control, Timestamp ordering, Comparison of methods for
+concurrency controls. Distributed Transactions – Introduction, Flat and Nested Distributed
+Transactions.
+UNIT-V:
+Atomic Commit Protocols: Concurrency control in distributed transactions, Distributed
+deadlocks, Transaction recovery, Replication-Introduction, System model and group
+communication, Fault tolerant services, Transactions with replicated data. Security –
+Introduction, Overview of Security techniques, Cryptographic algorithms.
+UNIT-VI:
+Digital signatures, Case studies-Kerberos, TLS, 802.11 WiFi. Distributed shared memory, Design
+and Implementation issues, Sequential consistency and Ivy case study, Release consistency
+and Munin case study, Other consistency models, CORBA case study-Introduction, CORBA
+RMI, CORBA Services.
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 23
+TEXT BOOKS:
+1. Distributed Systems Concepts and Design, G. Coulouris, J. Dollimore and T. Kindberg,
+Fourth Edition, Pearson Education
+2. Distributed Systems, S. Ghosh, Chapman & Hall/CRC, Taylor & Francis, 2010
+REFERENCES:
+1. Distributed Computing, S. Mahajan and S. Shah, Oxford University Press
+2. Distributed Operating Systems Concepts and Design, Pradeep K. Sinha, PHI
+3. Advanced Concepts in Operating Systems, M. Singhal, N. G. Shivarathri, and Tata
+McGraw Hill
+4. Distributed Systems – Principles and Paradigms, A. S. Tanenbaum and M. V. Steen,
+Pearson Education
+5. Distributed Computing, Principles, Algorithms and Systems, Ajay D. Kshemakalyani &
+Mukesh Singhal, Cambridge, 2010
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 24
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (CNIS) L T/P C
+3 0 3
+(A18PE1CN05) DESIGNING THE INTERNET OF THINGS
+COURSE OBJECTIVES:
+• To describe the current vision of the Internet of Things and its impact on the world
+• To identify and analyze the revolution of Internet in Mobile Devices, Cloud & Sensor
+Networks
+• To experiment building blocks of Internet of Things and characteristics
+• To implement and Summarize basic IoT applications in real time scenario
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understanding the physical and logical design of the Internet of Things
+CO-2: Analyzing various applications of Internet of Things in various domain, IoT & M2M
+CO-3: Evaluating System Management with NETCONF-YANG and Design
+CO-4: Creating Logical Design of IoT Systems using Python
+UNIT-I:
+Introduction & Concepts: Introduction to Internet of Things, Physical Design of IOT, Logical
+Design of IOT, IOT Enabling Technologies, IoT Levels.
+UNIT–II:
+Domain Specific IOTs: Home Automation, Cities, Environment, Energy, Retail, Logistics,
+Agriculture, Industry, Health & Life Style.
+IOT and M2M: Introduction, M2M, Difference between IOT and M2M, SDN and NFV for IOT
+UNIT–III:
+System Management with NETCONF-YANG: Software defined Networking, Network Function
+Virtualization, Need for IOT Systems Management, Simple Network Management Protocol,
+Limitations of SNMP, Network Operator Requirements, NETCONF, YANG, IOT Systems
+management with NETCONF-YANG.
+Developing Internet of Things: Introduction, IOT Design Methodology
+UNIT -IV:
+Logical Design using Python: Installing Python, Python Data Types & Data Structures, Control
+Flow, Functions, Modules, Packages, File Handling, Date/ Time Operations, Classes, Python
+Packages of interest for IOT.
+UNIT -V:
+IOT Physical Devices & Endpoints: What is an IOT Device, Exemplary Device-Raspberry Pi,
+about Board, Linux on Raspberry Pi, Raspberry Pi Interfaces, Programming Raspberry Pi with
+Python & other IOT Devices.
+UNIT-VI:
+IOT Physical Servers & Cloud Offerings: Introduction to Cloud Storage Models and
+Communication APIs, WAMP Autobahn for IoT, Xively Cloud for IoT, Python Web Application
+Framework – Django, Amazon Web Services for IoT.
+TEXT BOOKS:
+1. Internet of Things: A Hands-On Approach, Vijay Madisetti, Arshdeep Bahga, 2014,
+ISBN:978 0996025515
+2. Designing the Internet of Things, Adrian McEwen, Hakim Cassimally, Wiley, 2014
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 25
+REFERENCES:
+1. The Internet of Things, Samuel Greengard, MIT Press, Cambridge, 2015
+2. Internet of Things: Principles and Paradigms, Rajkumar Buyya, Amir Vahid Dastjerdi,
+Morgan Kaufman, 2016
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 26
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (CNIS) L T/P C
+3 0 3
+(A18PE1CN06) SECURITY IN E – COMMERCE
+COURSE OBJECTIVES:
+• To prepare student to understand current threats facing organizations that conduct
+business online
+• To apply cryptography and related security techniques to e-commerce including secure
+electronic transactions
+• To understand electronic payment systems, intellectual property protection
+• To know and understand security development cycle and security services
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understanding the various forms of electronic commerce and explain the range of
+threats to e-commerce security
+CO-2: Remembering the different areas susceptible to malicious activity
+CO-3: Analyzing different cryptographic techniques and their technical characteristics with
+respect to E-commerce
+CO-4: Evaluating how cryptography can be, and is, used to achieve security
+UNIT-I:
+Introduction to E-Commerce – Network and E-Commerce – Types of E-Commerce – E-
+Commerce Business Models: B2C, B2B, C2C, P2P and M-commerce business models – E-
+Commerce Payment systems: Types of payment system – Credit card E-Commerce
+transactions – B2C E-Commerce Digital payment systems – B2B payment system.
+UNIT-II:
+Security and Encryption: E-Commerce Security Environment – Security threats in E-Commerce
+environment – Policies, Procedures and Laws.
+UNIT-III:
+Inter-organizational trust in E-Commerce: Need – Trading partner trust – Perceived benefits
+and risks of Ecommerce – Technology trust mechanism in E-Commerce – Perspectives of
+organizational, economic and political theories of inter-organizational trust – Conceptual
+model of inter-organizational trust in Ecommerce participation.
+UNIT-IV:
+Introduction to trusted computing platform: Overview – Usage Scenarios – Key components
+of trusted Platform – Trust mechanisms in a trusted platform. Trusted platforms for
+organizations and individuals –Trust models and the E-Commerce domain.
+UNIT–V:
+E-Commerce Security: SET for E-Commerce Transactions, Business requirements for SET, SET
+System Participants, Dual Signature and Signature, Authentication and Message Integrity,
+Payment Processing.
+UNIT-VI:
+Secure Internet Programming, Security development life cycle, Internet Security Standards
+and Internet Security Products, Trusted Internet Security services.
+TEXT BOOKS:
+1. E-Commerce Business Technology Society, Kenneth C. Laudon and Carol Guercio Trave,
+Pearson Education, 2005
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 27
+2. Inter-Organizational Trust for Business-to-Business E- Commerce, Pauline Ratnasingam, IRM
+Press, 2005
+3. Trusted Computing Platforms: TCPA Technology in Context, Siani Pearson, et al, Prentice
+Hall PTR, 2002
+REFERENCES:
+1. Frontiers Electronic Commerce, Ravi Kalakota and Andrew Whinston, 2nd Edition,
+Addison-Wesley, 1999
+2. E Commerce, P. T. Joseph, 2nd Edition, Prentice Hall, 2008
+3. E-Commerce Security and Privacy, Anup Gosh, 2001
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 28
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (CNIS) L T/P C
+0 3 1.5
+(A18PC2CN01) INFORMATION SECURITY AND NETWORKS LABORATORY
+A) INFORMATION SECURITY LABORATORY
+COURSE OBJECTIVES:
+• To classify symmetric encryption algorithms and analyze security aspects of symmetric
+and asymmetric algorithms
+• To design and implement various digital signature algorithms
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Examine and implement symmetric and asymmetric algorithms
+CO-2: Implement key generation and digital signature mechanisms
+WEEK 1:
+1. Write a C program that contains a string (char pointer) with a value ‘Hello world’. The
+program should XOR each character in this string with 0 and displays the result.
+2. Write a C program that contains a string (char pointer) with a value ‘Hello world’. The
+program should AND, OR and XOR each character in this string with 127 and display the
+result.
+WEEK 2:
+1. Write a Java program to perform encryption and decryption using the following
+algorithms
+a) Ceaser cipher
+b) Vigenere cipher
+c) Hill Cipher
+WEEK 3:
+1) Write a JAVA program to implement the DES algorithm.
+2) Implement DES-2 and DES-3 using Java cryptography package.
+WEEK 4:
+1) Write a Java program that contains functions, which accept a key and input text to
+DES encrypted/decrypted. This program should use the key to encrypt/decrypt the input by
+using the triple Des algorithm. Make use of Java Cryptography package
+WEEK 5:
+Write a C/JAVA program to implement Diffie-Hellman algorithm for secure key exchange.
+WEEK 6:
+1) Write a Java program to implement RSA algorithm.
+2) Consider the end user as one of the parties (Alice) and the JavaScript application as
+the other party (Bob). Calculate the message digest of a text using the SHA-1 algorithm and
+MD5 algorithm in JAVA.
+WEEK 7:
+1) Write a Java program to encrypt user’s passwords before they are stored in a
+database table, and to retrieve them whenever they are to be brought back for verification.
+2) Write a program in java, which performs a digital signature on a given text using
+Diffie-Hellmann algorithm.
+WEEK 8: Lab Internal
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 29
+TEXT BOOKS:
+1. Build Your Own Security Lab, Michael Gregg, Wiley India
+2. Cryptography and Network Security, Atul Kahate, TMH
+REFERENCES:
+1. Cyber Security Operations Handbook, J. W. Rittiaghouse and William M. Hancok, Elsevier
+B) NETWORKS LABORATORY
+COURSE OBJECTIVES:
+• To describe about bit stuffing, character stuffing and CRC methods and to understand
+various routing algorithms and wireless LAN concepts
+• To understand various algorithms to identify shortest path and various Network layer
+protocols
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-3: Summarize data link layer framing methods, CRC, Dijkstra‘s algorithm and routing
+algorithms
+CO-4: Demonstrate and simulate Ethernet, token ring, TCP and to configure VLAN and STP
+protocol
+WEEK 9:
+1. Implement the data link layer framing methods such as character stuffing and bit stuffing
+2. Implement on a data set of characters the three CRC polynomials – CRC 12, CRC 16 and
+CRC CCIP
+WEEK 10:
+1. Implement Dijkstra‘s algorithm to compute the Shortest path through a graph.
+2. Take an example subnet graph with weights indicating delay between nodes. Now
+obtain Routing table at each node using distance vector routing algorithm.
+WEEK 11:
+1. Demonstrate the operation of Ethernet.
+2. Demonstrate the implementation of a token ring network
+WEEK 12:
+1. Demonstrate the congestion control algorithms implemented by the Transmission Control
+Protocol (TCP).
+2. Demonstrate the configuring a wireless LAN
+WEEK 13:
+1. Configure a DHCP Server to serve contiguous IP addresses to a pool of four IP devices
+with a default gateway and a default DNS address. Integrate the DHCP server with a
+BOOTP demon to automatically serve Windows and Linux OS Binaries based on client
+MAC address.
+WEEK 14:
+1. Configure DNS: Make a caching DNS client, and a DNS Proxy; implement reverse DNS
+and forward DNS, using TCP dump/Wireshark characterize traffic when the DNS server is
+up and when it is down.
+WEEK 15:
+1. Configuring VLAN protocol and analyzing results by sing VTP protocol.
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 30
+WEEK 16:
+1. Configuring STP protocol and observing results for loop free topology.
+TEXT BOOKS:
+1. Routing Protocols & Concepts, Rick Graziani, Pearson Education
+2. LAN Switching & Wireless, Wayne Lewis, Pearson Education
+3. Accessing the WAN, Bob Vachon, Pearson Education
+REFERENCES:
+1. Computer Networking: A Top-Down Approach Featuring the Internet, James F. Kurose,
+Keith W. Ross, Fifth Edition, Pearson Education, 2012
+2. Computer Networks: A Systems approach, Larry L. Peterson & Bruce S. Davie, Fifth Edition,
+Elsevier, 2012
+3. An Introduction to Network Programming with Java, Jan Graba, Springer, 2010
+4. TCP/IP Protocol Suite, Behrouz A. Forouzan, Tata McGraw Hill 4th Edition, 2010
+5. Network Fundamentals, Mark Dye, Pearson Education
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 31
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (CNIS) L T/P C
+0 3 1.5
+(A18PC2CN02) DATA STRUCTURES AND ALGORITHMS LABORATORY
+COURSE OBJECTIVES:
+• To understand abstract data types and differentiate linear and non-linear data structure
+• To advance understanding of stack, queue and their applications
+• To understand searching and sorting techniques in real-world scenarios
+• To advance knowledge of graphs and tress and their applications
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understanding and applying the Techniques in Software Development Life cycle
+CO-2: Apply fundamental knowledge of Data Structures in Real time applications
+CO-3: Develop a project based on Algorithms and Data Structures
+CO-4: Analyze and implement graphs and trees for real time applications
+LIST OF EXPERIMENTS:
+1) Write a program to implement single linked list
+2) Write a program to implement double linked list
+3) Write a program to implement circular single linked list
+4) Write a programs to implement the following using an array. a) Stack ADT b) Queue
+ADT
+5) Write a program that reads an infix expression and converts the expression to postfix
+form
+6) Write a program to implement circular queue ADT using an array
+7) Write programs to implement the following using a singly linked list. a) Stack ADT b)
+Queue ADT
+8) Write programs to implement the deque (double ended queue)
+9) Write programs that use both recursive and non-recursive functions for implementing
+the following searching methods: a) Linear search b) Binary search
+10) Write programs for implementing the following sorting methods:
+a) Bubble sort b) Merge sort c) Insertion sort d) Heap sort e) Quick sort
+11) Write a Java program to perform the following operations:
+12) Construct a binary search tree of elements
+13) Search for a key element in the above binary search tree. c)Delete an element from
+the above binary search tree
+14) Write Java programs that use recursive and non-recursive functions to traverse the
+given binary tree in a) Preorder b) Inorder c) Postorder
+15) Write Java programs for the implementation of bfs and dfs for a given graph
+16) Write Java programs to implementation of adjacency matrix
+REFERENCES:
+1. Data Structures and Algorithms in Java, A. Drozdek, 3rd Edition, Cengage Learning
+2. Data Structures with Java, J. R. Hubbard, 2nd Edition, Schaum‘s Outlines, TMH
+3. Data Structures and Algorithms in Java, R. Lafore, 2nd Edition, Pearson Education
+4. Data Structures using Java, D. S. Malik and P. S. Nair, Cengage Learning
+5. Data structures, Algorithms and Applications in Java, S. Sahani, 2nd Edition, Universities
+Press
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 32
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (CNIS) L T/P C
+0 4 2
+(A18PW4CN01) TECHNICAL SEMINAR
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Identify a research topic related to advanced/state-of-the-art technologies
+CO-2: Collect the literature and comprehend/analyze critically the technological
+advancements
+CO-3: Engage in effective oral communication through presentation of seminar
+CO-4: Engage in effective written communication through report
+COURSE OUTLINE:
+• A student shall present a seminar on a technical topic during I semester of the M.Tech.
+programme.
+• A student, under the supervision of a faculty member, shall collect literature on a
+technical topic of his / her choice, critically review the literature and submit it to the
+Seminar Review Committee (SRC) in a prescribed report form.
+• The SRC shall consist of Head of the Department, faculty supervisor and a senior faculty
+member of the specialization / department.
+• Student shall make an oral presentation before the SRC after clearing the plagiarism
+check.
+• Prior to the submission of seminar report to the SRC, its soft copy shall be submitted to the
+PG Coordinator for PLAGIARISM check.
+• The report shall be accepted for submission to the SRC only upon meeting the prescribed
+similarity index.
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 33
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. I Semester (CNIS) L T/P C
+2 0 0
+(A18AU5CS01) RESEARCH METHODOLOGY AND IPR
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To introduce the characteristics of a good research problem
+• To choose appropriate approaches of investigation of solutions for research problem
+• To familiarize with basic Intellectual Property Rights
+• To understand different Patent Rights
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understand research problem formulation, analyze research related information and
+follow research ethics
+CO-2: Realize the importance of ideas, concept, and creativity in the present-day context
+CO-3: Recognize that when IPR would take such important place in growth of individuals
+and nation, it is needless to emphasize the need of information about IPR to be promoted
+among students in general and engineering in particular
+CO-4: Appreciate IPR protection which leads to creation of new and better products, and in
+turn brings about, economic growth and social benefits
+UNIT-I:
+Introduction: Meaning of research problem, Sources of research problem, Criteria
+Characteristics of a good research problem, Errors in selecting a research problem, Scope
+and objectives of research problem.
+Approaches of investigation of solutions for research problem, data collection, analysis,
+interpretation, necessary instrumentations.
+UNIT-II:
+Literature Survey: Effective literature studies approaches, analysis. Plagiarism, Research
+ethics.
+UNIT-III:
+Effective Technical Writing: How to write report, Paper. Developing a Research Proposal,
+Format of research proposal, a presentation and assessment by a review committee
+UNIT-IV:
+Nature of Intellectual Property: Patents, Designs, Trade and Copyright. Process of
+Patenting and Development: technological research, innovation, patenting, development.
+International Scenario: International cooperation on Intellectual Property. Procedure for
+grants of patents, Patenting under PCT.
+UNIT-V:
+Patent Rights: Scope of Patent Rights. Licensing and transfer of technology. Patent
+information and databases. Geographical Indications.
+UNIT-VI:
+New Developments in IPR: Administration of Patent System. New developments in IPR; IPR of
+Biological Systems, Computer Software etc. Traditional knowledge Case Studies, IPR.
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 34
+TEXT BOOKS:
+1. Research Methodology: An Introduction for Science & Engineering Students, Stuart
+Melville and Wayne Goddard
+2. Research Methodology: An Introduction, Wayne Goddard and Stuart Melville
+3. Resisting Intellectual Property, Halbert, Taylor & Francis Ltd ,2007
+REFERENCES:
+1. Research Methodology: A Step-by-Step Guide for Beginners, Ranjit Kumar, 2nd Edition
+2. Research Methodology: Methods and Techniques, C. R. Kothari and Gaurav Garg, New
+Age International Publishers
+3. Intellectual Property in New Technological Age, Robert P. Merges, Peter S. Menell, Mark
+A. Lemley, 2016
+4. Intellectual Property Rights Under WTO, T. Ramappa, S. Chand, 2008
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 35
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (CNIS) L T/P C
+3 0 3
+(A18PC1CN04) WIRELESS NETWORKS AND MOBILE COMPUTING
+COURSE OBJECTIVES:
+• To comprehend the differences between mobile and wireless
+• To understand GSM Architecture, Goals of mobile IP and Ad-Hoc networks
+• To give students knowledge of Broadcast Systems
+• To analyze WAP, Bluetooth and Secure Environment
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understanding and remembering various Application areas of mobile and wireless
+devices
+CO-2: Analyzing GSM Transmission Technologies and drawbacks of traditional TCP
+CO-3: Applying architecture of DAB and DVB
+CO-4: Evaluating various Mark-up Languages and their advantages/disadvantages and
+describe Smart client security
+UNIT-I:
+Introduction to Mobile and Wireless Landscape: The GSM Network Services - The architecture
+of the network - Communication management - The GPRS Network - Services - Network
+architecture - Radio interface - The UMTS Network - services - architecture of the network -
+HSPA evolutions - The NGN - Network architecture - The EPS Network - Network architecture.
+UNIT-II:
+Global System for Mobile Communications (GSM): GSM History - GSM RF Channels - GSM
+Protocol Stack - GPRS Standards - CS and PS Domains - GPRS Architecture - GPRS Network
+Architecture - GPRS Protocols - CDMA Evolution - 3GPP2 Network Architecture - Mobile IP -
+UMTS Spectrum - UMTS Radio Access Network - UMTS Protocol Stacks - UMTS Multiple Access
+Network Architecture.
+UNIT-III:
+Mobile Network Layer: Basic Mobile IP, Mobile IP Type-MIPV4 and MIPv6, Mobile IP: Concept,
+Four basic entities for MIPv4, Mobile IPv4 Operations, Registration, Tunneling, MIPv4 Reverse
+Tunneling, MIPv4 Triangular Routing, Problems and Limitations of MIP, MIPv4 Route
+Optimization.
+UNIT-IV:
+Broadcast Systems: Overview, Cyclical repetition of data, Digital audio data broadcasting:
+Multimedia object transfer protocol, Digital video broadcasting: DVB broadcasting, DVB for
+high-speed internet access, Convergence of broadcasting and mobile communications.
+UNIT-V:
+Protocols and Tools: Wireless Application Protocol-WAP. (Introduction, protocol architecture,
+and treatment of protocols of all layers), Bluetooth (User scenarios, physical layer, MAC layer,
+networking, security, link management) and J2ME.
+UNIT-VI:
+Mobile and Wireless Security: Creating a Secure Environment, Security Threats, Security
+Technologies, Other Security Measures, WAP Security, Smart Client Security.
+TEXT BOOKS:
+1. Mobile Communications, Jochen Schiller, Second Edition, Pearson Education, 2008
+2. Mobile and Wireless Design Essentials, Martyn Mallick, Wiley, 2008
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 36
+3. Mobile Computing, Asoke K. Talukder, et al., Tata McGraw Hill, 2008
+REFERENCES:
+1. Mobile Computing, Raj Kamal, Oxford University Press
+2. Wireless Communications & Networks, William Stallings, Second Edition, Pearson, 2007
+3. Fundamentals of Mobile and Pervasive Computing, Frank Adelstein et al., TMH, 2005
+4. Wireless Networks First-Step, Jim Geier, Pearson, 2005
+5. 2.5G Mobile Networks: GPRS and EDGE, Sumit Kasera et al., TMH, 2008
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 37
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (CNIS) L T/P C
+3 0 3
+(A18PC1CP05) SOFT COMPUTING
+COURSE OBJECTIVES:
+• To introduce soft computing concepts and techniques and foster their abilities in
+designing appropriate technique for a given scenario
+• To implement soft computing-based solutions for real-world problems
+• To give students knowledge of non-traditional technologies and fundamentals of artificial
+neural networks, fuzzy sets, fuzzy logic, genetic algorithms
+• To provide students an hand-on experience on MATLAB to implement various strategies
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Identify and describe soft computing techniques and their roles in building intelligent
+machines
+CO-2: Analyze fuzzy logic and reasoning to handle uncertainty and solve various engineering
+problems
+CO-3: Apply neural networks and genetic algorithms to combinatorial optimization
+problems
+CO-4: Evaluate and compare solutions by various soft computing approaches for a given
+problem
+UNIT-I:
+Introduction to Soft Computing: Evolution of Computing: Soft Computing Constituents, From
+Conventional AI to Computational Intelligence: Machine Learning Basics.
+UNIT-II:
+Fuzzy Logic: Fuzzy Sets, Operations on Fuzzy Sets, Fuzzy Relations, Membership Functions:
+Fuzzy Rules and Fuzzy Reasoning, Fuzzy Inference Systems, Fuzzy Expert Systems, Fuzzy
+Decision Making.
+UNIT-III:
+Neural Networks: Machine Learning Using Neural Network, Adaptive Networks, Feed forward
+Networks, Supervised Learning Neural Networks, Radial Basis Function Networks:
+Reinforcement Learning, Unsupervised Learning Neural Networks, Adaptive Resonance
+architectures, Advances in Neural networks.
+UNIT-IV:
+Genetic Algorithms: Introduction to Genetic Algorithms (GA), Applications of GA in Machine
+Learning: Machine Learning Approach to Knowledge Acquisition.
+UNIT-V:
+Matlab/Python Lib: Introduction to Matlab/Python, Arrays and array operations, Functions
+and Files, Study of neural network toolbox and fuzzy logic toolbox, Simple implementation of
+Artificial Neural Network and Fuzzy Logic.
+UNIT-VI:
+Recent Trends in deep learning, various classifiers, neural networks and genetic algorithm.
+Implementation of recently proposed soft computing techniques.
+TEXT BOOKS:
+1. Neuro-Fuzzy and Soft Computing, S. R. Jang, C. T. Sun and E. Mizutani, PHI / Pearson
+Education, 2004
+2. Principles of Soft Computing, S. N. Sivanandam and S. N. Deepa, Wiley, 2011
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 38
+REFERENCES:
+1. Fuzzy Sets and Fuzzy Logic: Theory and Applications, George J. Klir and Bo Yuan, Prentice
+Hall, 1995
+2. An Introduction to Genetic Algorithm, Melanic Mitchell, MIT Press, 1996
+3. Fuzzy Logic with Engineering Applications, Timothy J. Ross, Wiley, 2010
+4. Neural Networks, Fuzzy Logic and Genetic Algorithms, S. Rajasekaran and G. A. V. Pai, 1st
+Ed., PHI, 2003
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 39
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (CNIS) L T/P C
+3 0 3
+(A18PC1CN05) WEB SCRIPTING LANGUAGES
+COURSE OBJECTIVES:
+• To introduce PHP language for server side scripting
+• To introduce XML and processing of XML Data with Java
+• To introduce Server side programming with Java Servlets and JSP
+• To introduce Client side scripting with Java script and AJAX
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: To gain knowledge of client side scripting, validation of forms and AJAX programming
+CO-2: To understanding of server side scripting with PHP language
+CO-3: To understand what is XML and how to parse and use XML Data with Java
+UNIT-I:
+Perl: Introduction to Perl and Scripting: Scripts and Programs, Origin of Scripting, Scripting
+Today, Characteristics of Scripting Languages, Uses for Scripting Languages, Web Scripting,
+and the universe of Scripting Languages. PERL- Names and Values, Variables, Scalar
+Expressions, Control Structures, arrays, list, hashes, strings, pattern and regular expressions,
+subroutines.
+UNIT-II
+Java Script: Introduction to Java Script, Data Types, Operators, Statements, functions,
+Objects, Events, Forms, Programming examples.
+UNIT-III:
+PHP: Introduction to PHP: Declaring variables, data types, arrays, strings, operators,
+expressions, control structures, functions, Reading data from web form controls like text
+boxes, radio buttons, lists etc., Handling File Uploads.
+UNIT-IV:
+Adv. PHP: Connecting to database (MySQL as reference), executing simple queries, handling
+results, Handling sessions and cookies
+File Handling in PHP: File operations like opening, closing, reading, writing, appending,
+deleting etc. on text and binary files, listing directories.
+UNIT-V:
+Ajax: Introduction to AJAX, Ajax Frameworks, HTML in AJAX, XML and Ajax, Ajax Applications,
+OO JavaScript and Refactoring Ajax, JavaScript Object Notation (JSON), XSLT
+Transformations with JavaScript, Drag and Drop, More Ajax Applications.
+UNIT-VI:
+Python: Introduction, Variables, Numbers, Strings, Operators, Lists, Tuples, Sets, Dictionaries,
+Statements, Functions, Arrays, Class & Objects, Programming examples.
+TEXT BOOKS:
+1. The World of Scripting Languages, David Barron
+2. The Complete Reference PHP, Steven Holzner, Tata McGraw-Hill
+3. Ajax In Action, Darren James, Dave Crane, and Eric Pascarello
+REFERENCES:
+1. Web Technologies, Uttam K. Roy, Oxford University Press
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 40
+2. Programming Ruby, The Pragmatic Programmers' Guide 1.9, Dave Thomas, Pragmatic
+Bookshelf, ISBN 0974514055
+3. Learning Perl, Randal L. Schwartz, O’Reilly
+4. Learning PHP and MySQL, Jon A. Phillips and Michele E. Davis, O’Reilly
+5. Learning Ruby, Michael James Fitzgerald, O’Reilly
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 41
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (CNIS) L T/P C
+3 0 3
+(A18PE1CN07) FUNDAMENTALS OF WIRELESS SENSOR NETWORKS
+COURSE OBJECTIVES:
+• To classify mobile ad hoc networks, design and implementation issues, and available
+solutions
+• To demonstrate routing mechanisms and the three classes of approaches: proactive, on-
+demand, and hybrid
+• To distinguish clustering mechanisms and the different schemes that have been
+employed, e.g., hierarchical, flat, and leaderless
+• To summarize on sensor networks and their characteristics
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Remembering the concept of ad-hoc and sensor networks, their applications and
+typical node and network architectures
+CO-2: Analyzing protocol design issues (especially energy-efficiency)
+CO-3: Evaluating protocol designs for wireless sensor networks
+CO-4: Creating protocol designs in terms of their energy-efficiency
+UNIT-I:
+Introduction: Fundamentals of Wireless Communication Technology. The Electromagnetic
+Spectrum. Radio Propagation Mechanisms. Characteristics of the Wireless Channel.
+Modulation Techniques. Multiple Access Techniques. Voice Coding. Error Control. Computer
+Networks. Computer Network Software. Computer Network Architecture. IEEE 802 Networking
+Standards.
+UNIT-II:
+Wireless Internet, Adhoc Wireless Networks, MAC Protocols in Adhoc Wireless Networks
+Quality of Service: Real-time traffic support – Issues and challenges in providing QoS –
+Classification of QoS Solutions – MAC layer classifications – QoS Aware Routing Protocols –
+Ticket based and Predictive location based Qos Routing Protocols
+UNIT-III:
+Energy Management Adhoc Networks: Need for Energy Management – Classification of
+Energy Management Schemes – Battery Management and Transmission Power
+Management Schemes – Network Layer and Data Link Layer Solutions – System power
+Management schemes.
+UNIT-IV:
+Mesh Networks: Necessity for Mesh Networks – MAC enhancements – IEEE 802.11s
+Architecture – Opportunistic Routing – Self Configuration and Auto Configuration - Capacity
+Models – Fairness – Heterogeneous Mesh Networks – Vehicular Mesh Networks.
+UNIT-V:
+Sensor Networks: Introduction – Sensor Network architecture – Data Dissemination – Data
+Gathering – MAC Protocols for sensor Networks – Location discovery.
+UNIT-VI:
+Quality of Sensor Networks – Evolving Standards – Other Issues – Recent trends in
+Infrastructure less Networks
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 42
+TEXT BOOKS:
+1. Ad hoc Wireless Networks – Architectures and Protocols, C. Siva Ram Murthy and B. S.
+Manoj, Pearson Education, 2004
+2. Ad Hoc And Sensor Networks - Theory and Applications, Dharma Prakash Agrawal, Carlos
+De Morais Cordeiro, Cambridge University Press, 2010
+3. Mobile Ad Hoc Networks: Current Status and Future Trends, Jonathan Loo (Editor), Jaime
+Lloret Mauri (Editor), Jesús Hamilton Ortiz (Editor), CRC Press, 2011
+REFERENCES:
+1. Ad Hoc and Sensor Networks, Cordeiro, World Scientific Publishing Company, 2013
+2. Wireless Ad hoc and Sensor Networks: Protocols, Performance, and Control,
+Jagannathan Sarangapani, Taylor & Francis/BSP Books, 2007
+3. Wireless Ad Hoc and Sensor Networks, Houda Labiod, ISTE, 2007
+4. Security and Privacy in Ad-Hoc and Sensor Networks, Refik Molva (Editor), Gene Tsudik
+(Editor), Dirk Westhoff (Editor), Springer, 2008
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 43
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (CNIS) L T/P C
+3 0 3
+(A18PE1CN08) INTRUSION DETECTION
+COURSE OBJECTIVES:
+• To compare alternative tools and approaches for Intrusion detection through
+quantitative analysis to determine the best tool or approach to reduce risk from intrusion
+• To identify and describe the parts of all intrusion detection systems and characterize new
+and emerging IDS technologies according to the basic capabilities all intrusion detection
+systems share
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Apply knowledge of the fundamentals and history of Intrusion Detection in order to
+avoid common pitfalls in the creation and evaluation of new Intrusion detection
+systems
+CO-2: Evaluate the security an enterprise and appropriately apply Intrusion Detection tools
+and techniques in order to improve their security posture
+CO-3: Analyze zero- day detection-Insider Threat issues
+UNIT-I:
+Introduction: The state of threats against computers, and networked systems-Challenges in
+computer security Solutions - Vulnerability assessment, firewalls, VPN’s - Intrusion Detection
+and Intrusion Prevention- Network and Host-based IDS, A General IDS model and taxonomy,
+what are signature based and anomaly-based IDS.
+UNIT-II:
+Strategies of the Attacker: Malicious Code Analysis, Classification of Infection Strategies, Basic
+Self Protection Strategies; Strategies of Computer worms, Exploits, Vulnerabilities and Buffer
+overflow attacks.
+UNIT-III:
+Classes of Network Attacks: Probes, Privilege Escalation Attacks, Denial of Service (DoS) and
+Distributed Denial of Service (DDoS) Attacks, Worms Attacks, Routing Attacks
+UNIT-IV:
+Detection Approaches: Misuse Detection - Pattern Matching, Rule based Techniques, State
+based Techniques, Techniques based on Data Mining; Anomaly Detection- Advanced
+Statistical Models, Rule based techniques, Biological Models, Learning Models; Specification
+based Detection; Hybrid Detection.
+UNIT-V:
+Theoretical Foundations of Detection: Taxonomy of Anomaly Detection Systems, Fuzzy Logic,
+Bayes Theory, Artificial Neural Networks, Support Vector Machines (SVM), Evolutionary
+Computation, Association Rules, Clustering; Evaluation Criteria- Accuracy, Performance,
+Completeness, Timely Response
+UNIT-VI:
+Crimeware: Understanding New Attacks and Defences: Overview of Crimeware, Bot
+Networks, Rootkits, Cybercrime and Politics, Online Advertising Fraud, The Future of
+Crimeware
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 44
+TEXT BOOKS:
+1. The Art of Computer Virus Research and Defense, Peter Szor, Symantec Press ISBN 0-321-
+30545-3
+2. Network Intrusion Detection and Prevention – Concepts and Techniques, Ali A. Ghorbani,
+Wei Lu Mahbod Tavallaee, Springer, 2010
+3. Crimeware, Understanding New Attacks and Defenses, Markus Jakobsson and Zulfikar
+Ramzan, Symantec Press, ISBN: 978-0-321-50195-0 2008
+REFERENCES:
+1. Anomaly Detection Principles and Algorithms, Kishan G. Mehrotra, Chilukuri K. Mohan,
+Hua Ming Huang, Springer, 2017
+2. Intrusion Prevention System-A Complete Guide, Gerardus Blokdyk, 5STARCooks, 2019
+3. Implementing Intrusion Detection Systems, Crothers Tim, John Wiley & Sons Inc, 2002
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 45
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (CNIS) L T/P C
+3 0 3
+(A18PE1CN09) NETWORK PROGRAMMING
+COURSE OBJECTIVES:
+• To analyze the working principle of networks, and topologies by implementing
+commands, shell scripts and files
+• To evaluate different IPC mechanisms
+• To understand Message queues, semaphores and shared memory
+• To acquire knowledge on sockets
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understanding the network hardware, network topologies, and protocols
+CO-2: Remembering the importance of IPC and signals
+CO-3: Creating applications on shared memory, message queues
+CO-4: Applying and analyzing the knowledge in developing client server application to
+support communication interfaces
+UNIT-I:
+Linux Utilities: File handling utilities, Security by file permissions, Process utilities, Disk utilities,
+Networking utilities, Filters, Text processing utilities and Backup utilities. Bourne again shell
+(bash) - Introduction, pipes and redirection, here documents, running a shell script, the shell
+as a programming language, shell Meta characters, file name substitution, shell variables,
+command Substitution, shell commands, the environment, quoting, test command, control
+structures, arithmetic in shell, shell script examples.
+UNIT-II:
+Files: File Concept, File types File System Structure, Inodes, File Attributes, file I/O in C using
+system calls, kernel support for files, file status information-stat family, file and record locking-
+lockf and fcntl functions, file permissions- chmod, fchmod, file ownership-chown, lchown,
+fchown, links-soft links and hard links – symlink, link, unlink.
+UNIT-III:
+File and Directory Management: Directory contents, Scanning Directories- Directory file APIs.
+Process- Process concept, Kernel support for process, process attributes, process control –
+process creation, replacing a process image, waiting for a process, process termination,
+zombie process, orphan process.
+UNIT-IV:
+Signals: Introduction to signals, Signal generation and handling, Kernel support for signals,
+Signal function, unreliable signals, reliable signals, kill, raise , alarm, pause, abort, sleep
+functions.
+Interprocess Communication: Introduction to IPC mechanisms, Pipes- creation, IPC between
+related processes using unnamed pipes, FIFOs-creation, IPC between unrelated processes
+using FIFOs(Named pipes), differences between unnamed and named pipes, popen and
+pclose library functions, Introduction to message queues, Semaphores and shared memory.
+UNIT-V:
+Message Queues: Kernel support for messages, UNIX system V APIs for messages, client/server
+example. Semaphores-Kernel support for semaphores, UNIX system V APIs for semaphores.
+Shared Memory- Kernel support for shared memory, Unix system V APIs for shared memory,
+client/server example.
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 46
+UNIT-VI:
+Network IPC: Introduction to Unix Sockets, IPC over a network, Client-Server model, Address
+formats(Unix domain and Internet domain), Socket system calls for Connection Oriented -
+Communication, Socket system calls for Connectionless - Communication,
+Example-
+Client/Server Programs- Single Server-Client connection, multiple simultaneous clients, Socket
+options - setsockopt, getsockopt, fcntl.
+TEXT BOOKS:
+1. Unix System Programming using C++, T. Chan, PHI
+2. Unix Concepts and Applications, Sumitabha Das, 4th Edition, TMH
+3. Unix Network Programming, W. R. Stevens, PHI
+REFERENCES:
+1. Linux System Programming, Robert Love, O’Reilly, SPD
+2. Advanced Programming in the Unix environment, W. R. Stevens, 2nd Edition, Pearson
+Education
+3. Unix for Programmers and Users, Graham Glass, King Ables, 3rd Edition, Pearson
+Education
+4. Unix Network Programming- The Sockets Networking API, Vol.-I, W. R. Stevens, Bill Fenner,
+A. M. Rudoff, Pearson Education
+5. Unix Shell Programming, S. G. Kochan and P. Wood, 3rd Edition, Pearson Education
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 47
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (CNIS) L T/P C
+3 0 3
+(A18PE1CN10) ETHICAL HACKING
+COURSE OBJECTIVES:
+• To ability to quantitatively assess and measure threats to information assets
+• To evaluate where information networks are most vulnerable
+• To apply security plans designed for protecting data assets against attacks
+• To perform penetration tests into secure networks for evaluation purposes
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understanding and experience in Ethical Hacking
+CO-2: Creating techniques to minimize risks of attacks
+CO-3: Analyzing different techniques and methods applied by hackers
+CO-4: Applying SQL injection and penetration test methods
+UNIT-I:
+Introduction to Ethical Hacking, Ethics, and Legality: Ethical Hacking Terminology, Different
+Types of Hacking Technologies, Different Phases Involved in Ethical Hacking and Stages of
+Ethical Hacking: Passive and Active Reconnaissance, Scanning, Gaining Access, Maintaining
+Access, Covering Tracks, Hacktivism, Types of Hacker Classes, Skills Required to Become an
+Ethical Hacker, Vulnerability Research, Ways to Conduct Ethical Hacking, Creating a Security
+Evaluation Plan, Types of Ethical Hacks.
+Foot printing and Social Engineering: Foot printing, Information Gathering Methodology, DNS
+Enumeration Who is and ARIN Lookups, Trace route, Social Engineering, Common Types Of
+Attacks, Insider Attacks, Identity Theft, Phishing Attacks, Online Scams, URL Obfuscation,
+Social-Engineering Countermeasures
+UNIT-II:
+System Hacking: Understanding Password-Cracking Techniques, Password-Cracking
+Countermeasures, 48 Understanding Different Types of Passwords Passive Online Attacks,
+Active Online Attacks, Offline Attacks Non-electronic Attacks, Understanding Key loggers
+and Other Spyware Technologies Understand Escalating Privileges, Executing Applications,
+Buffer Overflows, Understanding Rootkits Planting, Understanding How to Hide Files, NTFS File
+Streaming NTFS Stream Countermeasures, Understanding Steganography Technologies,
+Understanding How to Cover Your Tracks and Erase Evidence, Disabling Auditing, Clearing
+the Event Log.
+UNIT-III:
+Trojans, Backdoors, Viruses, and Worms: Trojans and Backdoors, Overt and Covert Channels,
+Types of Trojans, Reverse Connecting Trojans, Netcat Trojan, Indications of a Trojan Attack,
+Trojan Construction Kit and Trojan Makers, Countermeasure Techniques in Preventing Trojans,
+Difference between a Virus and a Worm, Types of Viruses, Understand Antivirus Evasion
+Techniques, Understand Virus Detection Methods
+Session Hijacking: Denial of Service, Session Hijacking, Spoofing vs. Hijacking, Types of Session
+Hijacking, Sequence Prediction, Steps in Performing Session Hijacking, Prevention of Session
+Hijacking
+UNIT-IV:
+Hacking Web Servers, Web Application Vulnerabilities, and Web-Based Password Cracking
+Techniques: Hacking Web Servers, Types of Web Server Vulnerabilities, Attacks against Web
+Servers, Web Server Hardening Methods Web Application Vulnerabilities, Objectives of Web
+Application Hacking, Anatomy of an Attack, Web Application Threats, Google Hacking, Web
+Application Countermeasures. Web-Based Password Cracking Techniques, Authentication
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 48
+Types, Password Cracker, Password Attacks: Classification Password- Cracking
+Countermeasures
+UNIT-V:
+SQL Injection and Buffer Overflows: SQL Injection, Steps to Conduct SQL Injection, SQL Server
+Vulnerabilities, SQL Injection Countermeasures Buffer Overflows, Types of Buffer Overflows
+and Methods of Detection, Stack-Based Buffer Overflows, Buffer Overflow Mutation
+Techniques
+UNIT-VI:
+Linux Hacking Linux Basics, Compile a Linux Kernel, GCC Compilation Commands, Install Linux
+Kernel Modules, Linux Hardening Methods
+Penetration Testing Methodologies
+Security Assessments, Penetration Testing Methodologies, Penetration Testing Steps, Pen-
+Test Legal Framework, Automated Penetration Testing Tools, Pen-Test Deliverables.
+TEXT BOOKS:
+1. CEH official Certified Ethical Hacking Review Guide, Wiley India
+2. Certified Ethical Hacker, Michael Gregg, Pearson Education
+3. Certified Ethical Hacker, Matt Walker, TMH
+REFERENCES:
+1. Hacking: The Art of Exploitation, Jon Erickson, 2nd Edition
+2. Hacking: Computer Hacking, Security Testing, Penetration Testing, and Basic Security,
+Gary Hall and Erin Watson, 2016
+3. The Hardware Hacker: Adventures in Making and Breaking Hardware, Andrew Bunnie
+Huang, 1st Edition
+4. Ethical Hacking and Network Defense, Michael T. Simpson, Cenage Learning
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 49
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (CNIS) L T/P C
+3 0 3
+(A18PE1CN11) SECURITY ASSESSMENT AND RISK ANALYSIS
+COURSE OBJECTIVES:
+• To describe the concepts of risk management
+• To define and differentiate various Contingency Planning components
+• To integrate the IRP, DRP, and BCP plans into a coherent strategy to support sustained
+organizational operations.
+• To define and be able to discuss incident response options and design an Incident
+Response Plan for sustained organizational operations.
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Capable of recommending contingency strategies including data backup and
+recovery and alternate site selection for business resumption planning
+CO-2: Skilled to be able to describe the escalation process from incident to disaster in case
+of security disaster
+CO-3: Capable of designing a disaster recovery plan for sustained organizational operations.
+CO-4: Capable of designing a business continuity plan for sustained organizational
+operations
+UNIT-I:
+Security Basics: Information Security (INFOSEC) Overview: critical information characteristics –
+availability information states – processing security countermeasures education, training and
+awareness, critical information characteristics – confidentiality critical information
+characteristics – integrity, information states – storage, information states – transmission,
+security, countermeasures policy, procedures and practices, threats, vulnerabilities.
+UNIT-II:
+Threats to and Vulnerabilities of Systems: Definition of terms (e.g., threats, vulnerabilities, risk),
+major categories of threats (e.g., fraud, Hostile Intelligence, Service (HOIS), malicious logic,
+hackers, environmental and technological hazards, disgruntled employees, careless
+employees, HUMINT, and monitoring), threat impact areas, Countermeasures: assessments
+(e.g., surveys, inspections), Concepts of Risk Management: consequences (e.g., corrective
+action, risk assessment), cost/benefit analysis of controls, implementation of cost effective
+controls, monitoring the efficiency and effectiveness of controls (e.g., unauthorized or
+inadvertent disclosure of information), threat and vulnerability assessment.
+UNIT-III:
+Security Planning: Directives and procedures for policy mechanism, Risk Management:
+acceptance of risk (accreditation), corrective actions information identification, risk analysis
+and/or vulnerability assessment components, risk analysis results evaluation, roles and
+responsibilities of all the players in the risk, analysis process, Contingency Planning/Disaster
+Recovery: agency response procedures and continuity of operations, contingency plan
+components, determination of backup requirements, development of plans for recovery
+actions after a disruptive event, development of procedures for off site processing,
+emergency destruction procedures, guidelines for determining critical and essential
+workload, team member responsibilities in responding to an emergency situation.
+UNIT-IV:
+Policies and Procedures, Physical Security Measures: Alarms, building, construction, cabling,
+communications centre, environmental controls (humidity and air conditioning), filtered
+power, physical access control systems (key cards, locks and alarms),Personnel Security
+Practices and Procedures: access authorization/verification
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 50
+(need to know), contractors, employee clearances, position sensitivity, security training
+and awareness, systems maintenance personnel, Administrative Security Procedural Controls:
+attribution, copyright protection and licensing Auditing and Monitoring: conducting security
+reviews, effectiveness of security programs, investigation of security breaches, privacy review
+of accountability controls, review of audit trails and logs.
+UNIT-V:
+Operations Security (OPSEC): OPSEC surveys/OPSEC planning INFOSEC: computer security –
+audit, cryptography encryption (e.g., point to point network, link), cryptography key
+management (to include electronic key), cryptography strength (e.g., complexity, secrecy,
+characteristics of the key),
+UNIT-VI:
+3 case studies of threat and vulnerability assessment
+TEXT BOOKS:
+1. Principles of Incident Response and Disaster Recovery, Whitman & Mattord, Course
+Technology ISBN: 141883663X
+REFERENCES:
+1. Security and Risk Mitigation Standard Requirements Paperback, Gerardus Blokdyk, 2018
+2. The Security Risk Assessment Handbook
+3. Security Analysis and Portfolio Management, S. Kevin
+4. http://www.cnss.gov/Assets/pdf/nstissi_4011.pdf
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 51
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (CNIS) L T/P C
+3 0 3
+(A18PE1CN12) INFORMATION SECURITY MANAGEMENT AND STANDARDS
+COURSE OBJECTIVES:
+• To understand management aspects of information security
+• To analyze security risks and associated assessment models like COBIT
+• To distinguish proactive security mechanisms, like firewalls, IDS/IPS etc. and application
+audit methodology
+• To identify various security standardizations and legal issues involving information security
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understand the security of information systems management
+CO-2: Differentiate organizational network security related issues and mitigating mechanisms
+CO-3: Manage in providing secure project and implementing it
+CO-4: Interpret networking and security skills to industrial need
+UNIT-I:
+Information Systems in Organizations: Information Systems, Importance of Information
+systems, Functions of Information systems, Examples of Information Systems, Changing nature
+of Information Systems, Building Blocks of Information Security, CIA model.
+UNIT-II:
+Information Security Management in Organizations: Information Security Planning and
+Governance, Governance and framework, Security Policy, Standards, Guidelines and
+Procedures, Types of Security Policies-EISP, ISSP, SysSP, Criteria for selection of a policy,
+Information Security Management System (ISMS), Organizational responsibility for
+Information Security Management, Information Security Awareness Scenario in Indian
+Organizations
+UNIT-III:
+Risk Management: Overview of Risk Management, Risk Identification mechanisms, Asset
+Identification, Data Classification and management, Information Asset valuation, Information
+Prioritization, Vulnerability Identification, Risk Assessment models, Risk Control techniques,
+selecting a Risk Control strategy, Introduction to Quantitative and Qualitative Approaches,
+OCTAVE and COBIT frameworks.
+UNIT-IV:
+Security Technology: Physical Security for Information systems, Biometric controls for security,
+Biometric based security issues and challenges.
+Finding Networking vulnerabilities, Firewalls – Processing modes, Categorization,
+Architectures, Selecting the right firewall, managing the Firewalls. Protecting Remote
+Connections – Virtual Private Networks for security.
+UNIT-V:
+Security Audit: Introduction to security audits, need for security audits, organizational roles,
+Auditor’s roles, Types of security audits, Audit approaches Technology based audits,
+Penetration testing, Business Continuity and Disaster Recovery Planning.
+UNIT-VI:
+Security Management Standards: Overview of ISO 17799/ISO 27001 Standards, System
+Security Engineering Capability Maturity Model (SSE-CMM). Legal, Ethical, and professional
+Issues in Information Security.
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 52
+TEXT BOOKS:
+1. Information Systems Security, Nina Godbole, Wiley India, 2009
+2. Principles and Practices of Information Security. Michael E. Whitman, Herbert J. Mattord,
+Cengage Learning
+3. Microsoft Security Risk Management Guide
+REFERENCES:
+1. http://www.gta.ufrj.br/ensino/cpe728/03_ins_info_security_iso_17799_1101.pdf
+2. Firewalls and Network Security, Michael E. Whitman et al., Cengage Learning, 2008
+3. Information Security Management Handbook, Harold F. Tipton, CRC Press, 2012
+4. Information Security Policies and Procedures, Thomas R. Peltier, 2nd Edition, Auerbach,
+2004
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 53
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (CNIS) L T/P C
+0 3 1.5
+(A18PC2CN03) WIRELESS NETWORKS SIMULATION AND SOFT COMPUTING LABORATORY
+A) WIRELESS NETWORKS SIMULATION LABORATORY
+COURSE OBJECTIVES:
+• To understand fundamentals of wireless networks
+• To experiment and design various wireless scenarios for network research and Analyze
+different routing algorithms for MANETs
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Apply different scenarios for wired and wireless networks on simulator
+CO-2: Evaluate TCP, UDP connection between nodes in a network and routing in MANETs
+WEEK 1, 2:
+Write a script to create fixed wireless nodes with color and initial position
+Write a script to create wireless nodes and change the color of nodes randomly
+Write a script to create wireless nodes with mobility.
+Write a script to TCP communication between wireless nodes
+Write a script for dynamic 2‐node wireless scenario with TCP connection.
+Check the Packets are exchanged between the nodes as they come within hearing range
+and drop when they are moving away.
+WEEK 3:
+Write a script to connection over a 3 node network over an area of size (500m*400m) The
+nodes (n0, n1, n2) position respectively At initially (5, 5) (490, 285) (150, 240) At time 10sec
+node1 start moving towards point (250, 250) at speed of 3m/s At time 15sec node0 start
+moving towards point (480, 300) at speed of 5m/s At time 20sec node1 start moving towards
+point (480, 3000) at speed of 5m/s Node2 is constant Take total simulation time 150sec, at
+time 10s a TCP connection initiated between node0 and node1 a) Use DSDV and IEEE802.11
+MAC b) Use AODV and IEEE802.11 MAC
+WEEK 4:
+A simple topology to illustrate the hidden node problem using the IEEE802.11a setting (Take 4
+nodes as n0 to n1: CBR traffic at rate 700kb, n2 to n3: CBR traffic at rate3Mb, n1 is in the
+carrier sense range of n2, but n0 is not).
+WEEK 5:
+Write a script to create wireless nodes with change destination and color of nodes randomly
+at particular time interval. For a wireless consisting of three mobile nodes (n0‐n2), write a
+script and make an ad‐ hoc simulation to output in trace file. Use the routing protocol as Ad‐
+hoc on demand vector (AODV).
+WEEK 6:
+For a wireless network consisting of three mobile nodes (n0‐n2), write a script and make an
+ad‐hoc simulation to analyze the output in the trace file. Use the routing protocol as a
+destination sequence distance vector (DSDV).
+WEEK 7:
+For a wireless network consisting of three mobile nodes (n0‐n2), write a script and make an
+ad‐hoc simulation to analyze the output in the trace file. Use the routing protocol as dynamic
+source routing (DSR).
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 54
+WEEK 8:
+Write a script for multi hop TCP communication in Wireless network with the use of MANET
+routing protocol AODV.
+WEEK 9:
+Write a script for multi hop TCP communication in Wireless network with the use of MANET
+routing protocol DSDV.
+WEEK 10:
+Write a script for multi hop TCP communication in Wireless network with the use of MANET
+routing protocol DSR.
+TEXT BOOKS:
+1. Mobile Communication, Jochen Schiller, Second Edition, Pearson Education, 2008
+2. Mobile and Wireless Design Essentials, Martyn Mallick, Wiley, 2008
+3. Mobile Computing, Asoke K. Talukder, et al., Tata McGraw Hill, 2008
+REFERENCES:
+1. Mobile Computing, Raj Kamal, Oxford University Press
+2. Wireless Communications & Networks, William Stallings, Second Edition, Pearson, 2007
+3. Fundamentals of Mobile and Pervasive Computing, Frank Adelstein et al., TMH, 2005
+4. Wireless Networks First-Step, Jim Geier, Pearson, 2005
+5. 2.5G Mobile Networks: GPRS and EDGE, Sumit Kasera et al., TMH, 2008
+B) SOFT COMPUTING LABORATORY
+COURSE OBJECTIVES:
+• To introduce soft computing concepts and techniques and foster their abilities in
+designing for real-world problems
+• To give students knowledge of non-traditional technologies and fundamentals of artificial
+neural networks, fuzzy sets, fuzzy logic, genetic algorithms and to provide students hand-
+on experience on MATLAB to implement various strategies
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-3: Apply fuzzy logic and reasoning to handle uncertainty and solve various engineering
+problems
+CO-4: Apply genetic algorithms to combinatorial optimization problems and to Evaluate and
+compare solutions by various soft computing approaches for a given problem
+WEEK 11:
+1. To perform Union, Intersection and Complement operations.
+2. To implement De-Morgan’s Law.
+3. To plot various membership functions.
+WEEK 12:
+1. To implement FIS Editor. Use Fuzzy toolbox to model tip value that is given after a dinner
+based on quality and service.
+2. To implement FIS Editor
+WEEK 13:
+1. Perceptron net for an AND function with bipolar inputs and targets.
+2. To calculate the weights for given patterns using hetero associative neural net.
+WEEK 14:
+1. To store vector in an auto-associative net. Find weight matrix & test the net with input
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 55
+TEXT BOOKS:
+1. Neuro Fuzzy and Soft Computing, Jyh Shing Roger Jang, Chuen Tsai Sun, Eiji Mizutani,
+Prentice Hall of India, 2003
+2. Principles of Soft Computing, S. N. Deepa and S. N. Sivanandam, 2nd Edition
+3. Fuzzy Sets and Fuzzy Logic: Theory and Applications, George J. Klir and Bo Yuan, Prentice
+Hall, 1995
+REFERENCES:
+1. Soft Computing Techniques, N. P. Padhy, S. P. Simon Oxford
+2. Neural Networks, Fuzzy Logic and Genetic Algorithms, S. Rajasekaram & G. A.
+Vijyalakshmi Pai, PHI
+3. Advances in Soft Computing: Engineering Design and Manufacturing, 2003 Edition,
+Springer
+4. MATLAB Toolkit Manual
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 56
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (CNIS) L T/P C
+0 3 1.5
+(A18PC2CN04) WEB SCRIPTING LANGUAGES LABORATORY
+COURSE OBJECTIVES:
+• To understand the importance of the web as a medium of communication
+• To understand the principles of creating an effective web page, including an in-depth
+consideration of information architecture
+• To understand PHP language for server side scripting
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Gain knowledge of client side scripting, validation of forms and AJAX programming
+CO-2: Have understanding of server side scripting with PHP language
+CO-3: Have understanding of what is XML and how to parse and use XML Data with Java
+WEEK NO.
+1. a) Write a Perl program to display various Server Information like Server Name, Server
+Software, Server protocol, CGI Revision etc.
+b) Write a Perl program to accept UNIX command from a HTML form and to display
+the output of the command executed.
+Write a Perl program to accept the User Name and display a greeting message
+randomly chosen from a list of 4 greeting messages.
+2. Write a Perl program to keep track of the number of visitors visiting the web page and
+to display this count of visitors, with proper headings.
+3. Write a Perl program to display a digital clock which displays the current time of the
+server.
+4. a) Write your first name repeated five times using a while loop.
+b) Write your last name in increasing heading size starting with h1 till h6. Use a for loop
+this time.
+5. a) Write a function that sums the values of three numbers.
+b) Write PHP code to change the background color of the page and display a
+welcome message including the given name submitted in the html form.
+6. Write a PHP script that will connect to your MySQL database and query your birthday
+table, selecting all the rows and columns. Display the results as an HTML table in a
+web page.
+a) Modify the query to select only the thename column, for all rows in your birthday
+table.
+b) Modify the query to select all the columns in your birthday table for those rows with
+a birth month in March.
+c) Modify the query to select only the thename column in your birthday table for
+those rows with a birth month in March.
+7. Lab Internal Examination –I
+8. Simple AJAX programs
+9. a) Example to demonstrate how a web page can fetch information from an XML file
+with AJAX
+b) Display XML data in HTML Table
+10. Example to demonstrate how a web page can communicate with a web server
+while
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 57
+a user types characters in an input field.
+11. a) Write a python program for greatest of 3 numbers.
+b) Write a python program for sum of squares of 1st n natural numbers.
+12. a) Write a python program to print pyramid of numbers.
+b) Write a python program to reserve a given number.
+13. a) Write a python program for dictionary with keys having multiple in pairs.
+b) Write a python program for Linear Search.
+14. a) Write a python program for to find largest element in the given array.
+b) Write a python program for string concatenation, string split.
+15. a) Write a python program for bubble sort.
+b) Write a python program to convert time from 12hrs to 24hrs format.
+16. Lab Internal Examination -II
+TEXT BOOKS:
+1. Web Technologies, Uttam K. Roy, Oxford University Press
+2. The Complete Reference PHP, Steven Holzner, Tata McGraw-Hill
+3. Java Script The Complete Reference, Thomas Powel, McGraw-Hill Education
+REFERENCES:
+1. Learning Perl, Randal L. Schwartz, O’Reilly
+2. PHP & MySQL: The Missing Manual, Brett McLaughlin, 2nd Edition
+3. Learning PHP and MySQL, Jon A. Phillips and Michele E. Davis, O’Reilly
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 58
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (CNIS) L T/P C
+0 4 2
+(A18PW4CN02) MINI-PROJECT
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understand the formulated industry / technical / societal problems
+CO-2: Analyze and / or develop models for providing solution to industry / technical /
+societal problems
+CO-3: Interpret and arrive at conclusions from the project carried out
+CO-4: Demonstrate effective communication skills through oral presentation
+CO-5: Engage in effective written communication through project report
+COURSE OUTLINE:
+• A student shall undergo a mini-project during II semester of the M.Tech. programme.
+• A student, under the supervision of a faculty member, shall collect literature on an
+allotted project topic of his / her choice, critically review the literature, carry out the mini-
+project, submit it to the department in a prescribed report form.
+• Evaluation of the mini-project shall be done by a Project Review Committee (PRC)
+consisting of the Head of the Department, faculty supervisor and a senior faculty
+member of the specialization / department.
+• Prior to the submission of mini-project report to the PRC, its soft copy shall be submitted to
+the PG Coordinator for PLAGIARISM check.
+• The mini-project report shall be accepted for submission to the PRC only upon meeting
+the prescribed similarity index.
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 59
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. II Semester (CNIS) L T/P C
+2 0 0
+(A18AU5EN01) ENGLISH FOR ACADEMIC AND RESEARCH WRITING
+COURSE OBJECTIVES:
+• To understand the usage of appropriate vocabulary (Formal, Informal, Gender Insensitive
+etc.)
+• To understand the features and processes of academic writing
+• To identify the resources
+• To understand standard documentation styles
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Use appropriate vocabulary (Formal, Informal, Slang, Gender Insensitive etc.)
+CO-2: Employ processes of academic writing
+CO-3: Identify the resources
+CO-4: Understand standard documentation styles
+UNIT- I:
+Introduction to Research:
+i. Identifying the topic
+ii. Identifying Sources; Finding Sources
+iii. Defining the broad area; Defining the specific area; Difference between a broad
+area and specific area
+iv. Choosing a topic
+v. Mechanics of Writing – Language, Tone, Style, Ethics
+UNIT-II:
+Referencing & Library Skills:
+i. Literature Survey
+ii. Writing Objectives
+iii. Hypothesis
+iv. Methodology
+v. Prospects for Future Research
+UNIT-III:
+Academic Writing Skills:
+i. Paraphrasing
+ii. Summarizing
+iii. Quoting
+iv. Rewriting
+v. Expansion
+UNIT-IV:
+Kinds of Academic Writing:
+i. Essays
+ii. Reports
+iii. Reviews
+iv. SOPs
+v. Abstracts
+vi. Proposals
+UNIT-V:
+Research Process:
+i. Selection of Topic
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 60
+ii. Formulation of Hypothesis
+iii. Collection of Data
+iv. Analysis of Data
+v. Interpretation of Data
+vi. Presentation of Data
+UNIT-VI:
+i. Title
+ii. Abstract
+iii. Introduction
+iv. Literature Survey
+v. Methodology
+vi. Discussion
+vii. Findings/Results
+viii. Conclusion
+ix. Documenting Sources
+TEXT BOOKS:
+1. Writing for Science, Goldbort R., Yale University Press (available on Google Books), 2006
+2. Handbook of Writing for the Mathematical Sciences, Highman N., SIAM. Highman’s Book,
+1998
+REFERENCES:
+1. How to Write and Publish a Scientific Paper, Day R., Cambridge University Press, 2006
+2. English for Writing Research Papers, Adrian Wall Work, Springer New York Dordrecht
+Heidelberg London, 2011
+3. MLA Handbook for Research
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 61
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester (CNIS) L T/P C
+3 0 3
+(A18PE1SE10) SOFTWARE DEFINED NETWORKS
+COURSE OBJECTIVES:
+• To provide a comprehensive introduction to Software Defined Networking (SDN)
+• To explain the importance of network virtualization over legacy network
+• To identify the impact of SDN on traffic management and the potential on service
+growth, and discuss few potential issues
+• To provide an overview on OpenFlow protocol, and their packet format
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understand the concepts of Software Defined Networking (SDN) and its network
+services and challenges
+CO-2: Understand the business case and technology motivations for considering SDN
+solutions
+CO-3: Learn how to identify the impact of SDN on traffic management and the potential for
+network service growth
+CO-4: Learn the concepts of visualization, particularly the impact of visualization on servers
+and networks, service providers, legacy networks, and network vendors
+UNIT-I:
+Introduction to Software Defined Networking: Virtualization, Virtual Memory, Virtual Memory
+Operation, Virtual and Physical Memory Mapping, Server Virtualization, Network Function
+virtualization, Software Defined Networking, Network Limitations.
+UNIT-II:
+SDN Implementation: Introduction, SDN Implementation, SDN Design, Separation of the
+Control and Data Planes, Edge-Oriented Networking, SDN Operation, Service Providers and
+SDN, Benefits of SDN.
+UNIT-III:
+Openflow: Introduction, Overview of the OpenFlow Switch Specification, OpenFlow Ports,
+OpenFlow Packet-Processing Pipeline, OpenFlow Channel, Message Handling, OpenFlow
+Channel Connections, Controller Modes, Auxiliary Connection Use for Performance and
+Reliability, Flow Table Synchronization, Bundle Messages, OpenFlow Configuration-and-
+Management Protocol, Remote Configuration and The OpenFlow Conformance Testing
+Program
+UNIT-IV:
+SDN Controllers: Network Programmability, The Management Interface, The Application-
+Network Divide Modern Programmatic Interfaces, Virtualization and Data Plane I/O, Services
+Engineered Path, Service Locations and Chaining.
+UNIT-V:
+SDN and Enterprise Networks: SDN and Optical Transport Networks, Increasing WAN Utilization
+with SDN, SDN Scalability Issues, Controller Designs for Scalability, Potential SDN Scalability
+Issues such as controller placement issue.
+UNIT-VI:
+SDN Management: Load Adaptation, Google and SDN, Google’s G-Scale Network, Google’s
+G-Scale Network Hardware, Google SDN Deployment, Implementation Challenges
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 62
+TEXT BOOKS:
+1. Software Defined Networking: Design and Deployment, Patricia A. Morreale and James
+M. Anderson, 1st Edition, CRC Press
+2. SDN: Software Defined Networks, Thomas D. Nadeau and Ken Gray, Orielly Media
+REFERENCES:
+1. Software Defined Networking with OpenFlow, Siamak Azodolmolky, Wiley
+2. Software Defined Networks: A Comprehensive Approach, Paul Goransson, Chuck Black,
+Morgan Kaufmann
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 63
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester (CNIS) L T/P C
+3 0 3
+(A18PE1CN13) NETWORK MANAGEMENT SYSTEMS
+COURSE OBJECTIVES:
+• To develop skills like plan, install, configure, administer and manage a network
+• To demonstrate network management architectures and protocols
+• To illustrate students on how to install, maintain and manage Local Area Networks and
+internetworks
+• To describe the automation of network management operations and making use of
+readily available network management systems
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understanding communication protocols and standards
+CO-2: Remembering the use of SNMP protocols and services
+CO-3: Evaluating various Network management tools
+CO-4: Analyzing various services on Windows server platform troubleshoot network
+UNIT-I:
+Data Communications and Network Management Overview: Analogy of Telephone Network
+Management, Communications protocols and Standards, Case Histories of Networking and
+Management, Challenges of Information Technology Managers, Network Management:
+Goals, Organization, and Functions, Network and System Management, Network
+Management System Platform, Current Status and future of Network Management.
+UNIT-II:
+SNMPv1 Network Management: Organization and Information and Information Models.
+Managed Network: Case Histories and Examples, The history of SNMP management, The
+SNMP Model, The Organization Model, System Overview, The Information Model.
+UNIT-III:
+SNMPv2 Management: Major Changes in SNMPv2, SNMPv2 System Architecture, SNMPv2
+Structure of Management Information, SNMP Script Language for creating MIB.
+The SNMPv2 Management Information Base, SNMPv2 Protocol, Compatibility with SNMPv1.
+UNIT-IV:
+SNMP Management: RMON: Remote Monitoring, RMON SMI and MIB, RMON1, RMON2, ATM
+Remote Monitoring, Case Study of Internet Traffic Using RMON
+UNIT-V:
+Network Management Tools and Systems: Network Management Tools, Network Statistics
+Measurement Systems, History of Enterprise Management, Network Management systems,
+Commercial Network management Systems, System Management, Enterprise Management
+Solutions.
+UNIT-VI:
+Web-Based Management: NMS with Web Interface and Web-Based Management, Web
+Interface to SNMP Management, Embedded Web-Based Management, Desktop
+management Interface, Web Based Enterprise Management, WBEM: Windows Management
+Instrumentation, Java management Extensions, Management of a Storage Area Network:
+Future Directions.
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 64
+TEXT BOOK:
+1. Network Management, Principles and Practice, Mani Subrahmanian, Pearson
+Education
+REFERENCES:
+1. Network Management, Morris, Pearson Education
+2. Principles of Network System Administration, Mark Burges, Wiley Dreamtech
+3. Distributed Network Management, Paul, John Wiley
+4. Suitable RFC Documents
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 65
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester (CNIS) L T/P C
+3 0 3
+(A18PE1CN14) STORAGE AREA NETWORKS
+COURSE OBJECTIVES:
+• To expose the students to storage technology and disk drive components and to explore
+the various RAID concepts
+• To understand the concepts of attached storage techniques and SAN evolution
+• To enable the students to understand the disk drive and network attached storage
+techniques
+• To understand the CAS architecture and storage visualization principles
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Understanding Information availability and Business continuity and to describe the
+backup/recovery topologies
+CO-2: Remembering local replication and remote replication technologies and their
+operation
+CO-3: Analyzing processes and technologies for identifying, analyzing, and mitigating
+security risks in storage infrastructure
+CO-4: Demonstrate effective oral and writing communication skills necessary to be effective
+and to compete at global business environment
+UNIT-I:
+Introduction to storage technology information storage, evolution of storage technology and
+architecture, data center infrastructure, key challenges in Managing information, information
+lifecycle. Storage system Environments: components of storage system environment, Disk
+Drive components, Disk Drive Performance, fundamental laws governing disk performance,
+logical components of the host, application requirements and disk performance.
+UNIT-II:
+Data Protection: RAID: Implementation of RAID, RAID array components, RAID levels, RAID
+comparison, RAID Impact on disk performance, host spares. Intelligent Storage System:
+Components of an Intelligent Storage System, Intelligent Storage array, concepts in Practice:
+EMC CLARIION and Symmetric.
+UNIT-III:
+Direct – Attached Storage and Introduction to SCSI: Types of DAS, DAS benefits and
+limitations, disk drive interfaces, introduction to parallel SCSI, SCSI command model. Storage
+Area Networks: fibre channel, The SAN and Its evolution, components of SAN, FC
+connectivity, Fibre channel ports, fibre channel architecture, zoning, fiber channel login
+types, concepts in practice: EMC Connectrix.
+UNIT-IV:
+Network Attached Storage: general purpose servers vs NAS Devices, benefits of NAS, NAS file
+I/O, components of NAS, NAS Implementations, NAS file sharing protocols, NAS I/O
+operations, factors effecting NAS Performance and availability, concepts in practice
+UNIT-V:
+EMC Celerra.IP SAN: iscsi, fcip. Content – addressed storage: Fixed content and Archives,
+types of archives, features and benefits of CAS, CAS Architecture object storage and
+retrieval in CAS, CAS Examples, concepts in practice: EMC Centera. Storage Virtualization:
+Formas of Virtualization, SNIA Storage virtualization taxonomy, storage virtvalization
+configurations, storage virtualization challenges, types of storage virtualization, concepts in
+practice: EMC Invista, Rainifinity.
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 66
+UNIT-VI:
+Introduction to Business Continuity: Information availability, BC terminology, BC planning life
+cycle, Failure analysis, business impact analysis, BC technology solutions, concepts in
+practice: EMC Power path. Backup and recovery: backup purpose, backup considerations,
+backup granularity, recovery considerations, backup methods, backup process, backup
+and restore operations, backup topologies, backup in NAS environments, backup
+technologies, concepts in practice: EMC Networker, EMC Disk Library(EDL).
+TEXT BOOKS:
+1. EMC Corporation: Information Storage and Management, G. Somasundaram, A.
+Shrivastava, 1st Edition, Wiley, 2009
+2. Robert Spalding, Storage Networks: The Complete Reference, 1st Edition, TMH, 2003
+REFERENCES:
+1. Building Storage Networks, Marc Farley, 2nd Edition, Tata McGraw-Hill, Osborne, 2001
+2. Storage Area Network Fundamentals, Meeta Gupta, 2nd Edition, Pearson Education
+Limited, 2002
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 67
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester (CNIS) L T/P C
+3 0 3
+(A18OE1CN01) BUSINESS ANALYTICS
+COURSE OBJECTIVES:
+• To understand the role of business analytics within an organization and to analyze data
+using statistical and data mining techniques and understand relationships between the
+underlying business processes of an organization
+• To gain an understanding of how managers use business analytics to formulate and solve
+business problems and to support managerial decision making and to become familiar
+with processes needed to develop, report, and analyze business data
+• To use decision-making tools/Operations research techniques and to manage business
+process using analytical and management tools
+• To analyze and solve problems from different industries such as manufacturing, service,
+retail, software, banking and finance, sports, pharmaceutical, aerospace etc.
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Apply knowledge of data analytics
+CO-2: Think critically in making decisions based on data and deep analytics
+CO-3: Use technical skills in predicative and prescriptive modeling to support business
+decision-making
+CO-4: Translate data into clear, actionable insights
+UNIT-I:
+Business Analytics: Overview of Business analytics, Scope of Business analytics, Business
+Analytics Process, Relationship of Business Analytics Process and organization, competitive
+advantages of Business Analytics.
+Statistical Tools: Statistical Notation, Descriptive Statistical methods, Review of probability
+distribution and data modelling, sampling and estimation methods overview.
+UNIT-II:
+Trendiness and Regression Analysis: Modelling Relationships and Trends in Data, simple
+Linear Regression. Important Resources, Business Analytics Personnel, Data and models for
+Business analytics, problem solving, Visualizing and Exploring Data Business Analytics
+Technology.
+UNIT-III:
+Organization Structures of Business analytics, Team management, Management Issues,
+Designing Information Policy, Outsourcing, Ensuring Data Quality, Measuring contribution of
+Business analytics, Managing Changes.
+Descriptive Analytics, predictive analytics, predicative Modelling, Predictive analytics
+analysis, Data Mining, Data Mining Methodologies, Prescriptive analytics and its step in the
+business analytics Process, Prescriptive Modelling, nonlinear Optimization.
+UNIT-IV:
+Forecasting Techniques: Qualitative and Judgmental Forecasting, Statistical Forecasting
+Models, Forecasting Models for Stationary Time Series, Forecasting Models for Time Series
+with a Linear Trend, Forecasting Time Series with Seasonality, Regression Forecasting with
+Casual Variables, Selecting Appropriate Forecasting Models.
+Monte Carlo Simulation and Risk Analysis: Monte Carle Simulation Using Analytic Solver
+Platform, New-Product Development Model, Newsvendor Model, Overbooking Model, Cash
+Budget Model.
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 68
+UNIT-V:
+Decision Analysis: Formulating Decision Problems, Decision Strategies without Outcome
+Probabilities, Decision Trees, The Value of Information, Utility and Decision Making.
+UNIT-VI:
+Recent trends in Embedded and collaborative business intelligence, Visual data recovery,
+Data Storytelling and Data journalism.
+TEXT BOOKS:
+1. Business Analytics-Principles, Concepts, and Applications, Marc J. Schniederjans, Dara G.
+Schniederjans, Christopher M. Starkey, Pearson FT Press
+2. Business Analytics, James Evans, Pearson Education
+3. Business Analytics, Purba Halady Rao, PHI, 2013
+REFERENCES:
+1. Business Analytics for Managers: Taking Business Intelligence Beyond Reporting, Gert H. N.
+Laursen, Jesper Thorlund, 2nd Edition, Wiley Publications
+2. Business Analytics: Data Analysis & Decision Making, S. Christian Albright, Wayne L.
+Winston 5th Edition, 2015
+3. Business Intelligence Guidebook: From Data Integration to Analytics, Rick Sherman
+Elsevier, 2014
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 69
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester (CNIS) L T/P C
+3 0 3
+(A18OE1AM01) INDUSTRIAL SAFETY
+COURSE PRE-REQUISITES: Elements of Mechanical, Civil, Electrical and Industrial Engineering
+COURSE OBJECTIVES:
+• To achieve an understanding of principles, various functions and activities of safety
+management
+• To communicate effectively information on Health safety and environment facilitating
+collaboration with experts across various disciplines so as to create and execute safe
+methodology in complex engineering activities
+• To anticipate, recognize, and evaluate hazardous conditions and practices affecting
+people, property and the environment, develop and evaluate appropriate strategies
+designed to mitigate risk
+• To develop professional and ethical attitude with awareness of current legal issues by
+rendering expertise to wide range of industries
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Apply risk management principles to anticipate, identify, evaluate and control
+physical, chemical, biological and psychosocial hazards
+CO-2: Communicate effectively on health and safety matters among the employees and
+with society at large
+CO-3: Demonstrate the use of state-of-the-art occupational health and safety practices in
+controlling risks of complex engineering activities and understand their limitations
+CO-4: Interpret and apply legislative / legal requirements, industry standards, and best
+practices in accident prevention programmes in a variety of workplaces
+UNIT-I:
+Safety Management: Evaluation of modern safety concepts – Safety management functions
+– safety organization, safety department – safety committee, safety audit - performance
+measurements and motivation – employee participation in safety and productivity.
+UNIT-II:
+Operational Safety: Hot metal Operation – Boiler, pressure vessels – heat treatment shop - gas
+furnace operation-electroplating-hot bending pipes – Safety in welding and cutting. Cold-
+metal Operation- Safety in Machine shop-Cold bending and chamfering of pipes – metal
+cutting – shot blasting, grinding, painting – power press and other machines
+UNIT-III:
+Safety Measures: Layout design and material handling - Use of electricity – Management of
+toxic gases and chemicals – Industrial fires and prevention – Road safety– Safety of sewage
+disposal and cleaning – Control of environmental pollution – Managing emergencies in
+industrial hazards.
+UNIT-IV:
+Accident Prevention: Human side of safety – personal protective equipment – Causes and
+cost of accidents. Accident prevention programmes - Specific hazard control strategies -
+HAZOP – Training and development of employees – First Aid – Firefighting devices – Accident
+reporting investigation.
+UNIT-V:
+Safety, Health, Welfare & Laws: Safety and health standards – Industrial hygiene –
+occupational diseases prevention - Welfare facilities – History of legislations related to safety–
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 70
+pressure vessel act- Indian boiler act- The environmental protection act – Electricity act -
+Explosive act.
+UNIT-VI:
+Safe Handling and Storage: Material Handling, Compressed Gas Cylinders, Corrosive
+Substances, Hydrocarbons, Waste Drums and Containers
+TEXT BOOKS:
+1. Safety Management, John V. Grimaldi and Rollin H. Simonds, All India Travellers
+Bookseller, New Delhi, 1989
+2. Safety Management in Industry, Krishnan N. V., Jaico Publishing House, 1996
+REFERENCES:
+1. Occupational Safety Manual, BHEL
+2. Industrial Safety and The Law, P. M. C. Nair Publishers
+3. Managing Emergencies in Industries, Loss Prevention of India Ltd., Proceedings, 1999
+4. Safety Security and Risk Management, U. K. Singh & J. M. Dewan, A. P. H. Publishing
+Company, 1996
+5. Industrial Safety Management: Hazard Identification and Risk Control, L. M. Deshmukh,
+McGraw-Hill Education, 2005
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 71
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester (CNIS) L T/P C
+3 0 3
+(A18OE1AM02) OPERATIONS RESEARCH
+COURSE PRE-REQUISITES: Mathematics, Industrial Engineering
+COURSE OBJECTIVES:
+• To analyze linear programming models in practical and their practical use
+• To apply the transportation, assignment and sequencing models and their solution
+methodology for solving problems
+• To apply the theory of games, replacement, inventory and queuing models and their
+solution methodology for solving problems
+• To evaluate the dynamic programming and simulation models
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Apply and solve the dynamic programming problems
+CO-2: Apply the concept of non-linear programming
+CO-3: Carry out sensitivity analysis
+CO-4: Model the real world problem and simulate it
+UNIT-I:
+Introduction to Operations Research - Definitions of OR, Characteristics of OR, Scope of OR,
+Classification of Optimization Techniques, models in OR, General L.P Formulation, Graphical
+solution, Simplex Techniques.
+UNIT-II:
+Revised simplex method - duality theory - dual simplex method – sensitivity or post optimality
+analysis - parametric programming
+UNIT-III:
+Nonlinear programming problem - Kuhn-Tucker condition, min cost flow problem - max flow
+problem - CPM/PERT
+UNIT-IV:
+Scheduling and sequencing, Inventory models, deterministic inventory, models - Probabilistic
+inventory control models - Geometric Programming.
+UNIT-V:
+Waiting line Models, Single and Multi-channel Problems, Dynamic Programming, Game
+Theory, Simulation .
+UNIT-VI:
+Introduction to Genetic Algorithms, Operators, applications to engineering optimization,
+Problems.
+TEXT BOOKS:
+1. Operations Research, S. D. Sharma, Kedarnath, 2012
+2. Engineering Optimization, S. S. Rao, New Age International Publications, 2014
+3. Introduction to Genetic Algorithms, S. N. Sivanandam, Springer
+REFERENCES:
+1. Operations Research-An Introduction, H. A. Taha, PHI, 2008
+2. Principles of Operations Research, H. M. Wagner, PHI, Delhi, 1982
+3. Introduction to Optimization: Operations Research, J. C. Pant, Jain Brothers, 2008
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 72
+4. Operations Research, Hitler Liebermann, McGraw-Hill Pub., 2009
+5. Operations Research, Pannerselvam, Prentice Hall of India, 2010
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 73
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester (CNIS) L T/P C
+3 0 3
+(A18OE1AM03) COMPOSITE MATERIALS
+COURSE PRE-REQUISITES: Maths, Physics, Chemistry, Engineering Mechanics, Mechanics of
+Solids
+COURSE OBJECTIVES:
+• To understand composite materials and their properties, relationship between them and
+manufacturing methods
+• To understand the principles of material science applied to composite materials
+• To study the equations to analyze problems by making good assumptions and learn
+systematic engineering methods to solve practical composite mechanics problems
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Apply fundamental knowledge of mathematics to modeling and analysis of
+composite materials
+CO-2: Understand the manufacturing methods of various composite materials
+CO-3: Analyze the failure modes of composites
+UNIT-I:
+Introduction: Definition – Classification and characteristics of Composite materials.
+Advantages and application of composites. Functional requirements of reinforcement and
+matrix. Effect of reinforcement (size, shape, distribution, volume fraction) on overall
+composite performance.
+UNIT-II:
+Reinforcements: Preparation-layup, curing, properties and applications of glass fibers, carbon
+fibers, Kevlar fibers and Boron fibers. Properties and applications of whiskers, particle
+reinforcements.
+Mechanical Behavior of Composites: Rule of mixtures, Inverse rule of mixtures. Isostrain and
+Isostress conditions.
+UNIT-III:
+Manufacturing of Metal Matrix Composites: Casting – Solid State diffusion technique,
+Cladding – Hot isostatic pressing. Properties and applications.
+Manufacturing of Ceramic Matrix Composites: Liquid Metal Infiltration – Liquid phase
+sintering. Manufacturing of Carbon – Carbon composites: Knitting, Braiding, Weaving.
+Properties and applications.
+UNIT-IV:
+Manufacturing of Polymer Matrix Composites: Preparation of Moulding compounds and
+prepregs – hand layup method – Autoclave method – Filament winding method –
+Compression moulding – Reaction injection moulding. Properties and applications,
+Introduction to Machining of Composites.
+UNIT-V:
+Elastic Behavior of Laminate: Basic assumptions, Strain-displacement relations, Stress-strain
+relation of layer within a laminate, Force and moment resultant, General load–deformation
+relations, Analysis of different types of laminates
+UNIT-VI:
+Strength: Laminar Failure Criteria-strength ratio, maximum stress criteria, maximum strain
+criteria, interacting failure criteria, hygrothermal failure. Laminate first ply failure-insight
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 74
+strength; Laminate strength-ply discount truncated maximum strain criterion; strength design
+using caplet plots; stress concentrations.
+TEXT BOOKS:
+1. Material Science and Technology, Vol. 13–Composites, R. W. Cahn, VCH, West Germany
+2. Analysis and Performance of Fiber Composites, B. D. Agarwal, Third Edition, Wiley
+REFERENCES:
+1. Mechanics of Composite Materials, Robert M. Jones, Second Edition, Scripta Book
+Company
+2. Materials Science and Engineering-An Introduction, W. D. Callister Jr., Adapted by R.
+Balasubramaniam, John Wiley & Sons, Indian Edition, 2007
+3. Composite Materials: Science and Engineering, K. K. Chawla, Springer, 2012
+4. Composite Materials Science and Applications (Engineering Materials and Processes),
+Deborah D. L. Chung, 2nd Edition, Springer, 2010
+5. Composite Materials Design and Applications, Danial Gay, Suong V. Hoa and Stephen
+W. Tasi
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 75
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester (CNIS) L T/P C
+3 0 3
+(A18OE1PS01) WASTE TO ENERGY
+COURSE PRE-REQUISITES: None
+COURSE OBJECTIVES:
+• To create awareness in students of energy conservation
+• To identify the use of different types of Bio waste energy resources
+• To understand different types of bio waste energy conservations
+• To detect different waste conversion into different forms of energy
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO1: Find different types of energy from waste to produce electrical power
+CO2: Estimate the use of bio waste to produce electrical energy
+CO3: Understanding different types of bio waste and its energy conversions
+CO4: Analyze the bio waste utilization and to avoid the environmental pollution
+UNIT-I:
+Introduction to Energy from Waste: Classification of waste as fuel, Agro based, Forest residue,
+Industrial waste, MSW (Municipal solid waste) – Conversion devices – Incinerators, Gasifiers,
+Digestors
+UNIT-II:
+Biomass Pyrolysis: Pyrolysis – Types, slow fast – Manufacture of charcoal – Methods - Yields
+and application – Manufacture of pyrolytic oils and gases, yields and applications.
+UNIT-III:
+Biomass Gasification: Gasifiers – Fixed bed system – Downdraft and updraft gasifiers –
+Fluidized bed gasifiers – Design, construction and operation – Gasifier burner arrangement for
+thermal heating – Gasifier engine arrangement and electrical power – Equilibrium and
+kinetic consideration in gasifier operation.
+UNIT-IV:
+Biomass Combustion: Biomass stoves – Improved chullahs, types, some exotic designs, Fixed
+bed combustors, Types, inclined grate combustors, Fluidized bed combustors, Design,
+construction and operation - Operation of all the above biomass combustors.
+UNIT-V:
+Biogas: Properties of biogas (Calorific value and composition) - Biogas plant technology and
+status - Bio energy system - Design and constructional features - Biomass resources and their
+classification - Biomass conversion processes - Thermo chemical conversion - Direct
+combustion - biomass gasification - pyrolysis and liquefaction - biochemical conversion -
+anaerobic digestion.
+UNIT-VI:
+Types of Biogas Plants – Applications - Alcohol production from biomass - Bio diesel
+production - Urban waste to energy conversion - Biomass energy programme in India.
+TEXT BOOKS:
+1. Biogas Technology-Transfer and Diffusion, M. M. EL-Halwagi, Elsevier Applied Science
+Publisher, 1984
+2. Introduction to Biomass Energy Conversions, Sergio Capareda, CRC Press, 2013
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 76
+REFERENCES:
+1. Non-Conventional Energy, Desai Ashok V., Wiley Eastern Ltd., 1990
+2. Biogas Technology - A Practical Handbook, Khandelwal K. C. and Mahdi S. S., Vol. I & II,
+Tata McGraw-Hill Publishing Co. Ltd., 1983
+3. Food, Feed and Fuel from Biomass, Challal D. S., IBH Publishing Co. Pvt. Ltd., 1991
+4. Biomass Conversion and Technology, C. Y. WereKo-Brobby and E. B. Hagan, John Wiley &
+Sons, 1996
+VNRVJIET M.TECH. CNIS A18 CURRICULUM 77
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY
+M.Tech. III Semester (CNIS) L T/P C
+0 16 8
+(A18PW4CN03) PROJECT PART-I
+M.Tech. IV Semester (CNIS) L T/P C
+0 28 14
+(A18PW4CN04) PROJECT PART-II
+COURSE OUTCOMES: After completion of the course, students should be able to
+CO-1: Identify and formulate the problem (Industry/technical/societal)
+CO-2: Analyze, design and develop a solution to industry/technical/societal problems
+CO-3: Implement and execute the solution
+CO-4: Demonstrate effective communication skills through oral presentation
+CO-5: Engage in effective written communication through project report
+COURSE OUTLINE:
+• M.Tech. project work shall be for a minimum duration of 40 weeks spread over two
+semesters i.e., Project Part-I in III semester and Project Part-II in IV semester.
+• A student shall be permitted to register for the major project after satisfying the
+attendance requirement in all the courses, i.e., theory and practical courses.
+• Project reviews namely Project Review I and Project Review II in III semester and Project
+Review III and Project Pre-submission Seminar in IV semester shall be conducted during
+the course of Project work.
+• A Project Review Committee (PRC) consisting of the Head of the Department as
+Chairperson and PG Coordinator, Project Supervisor and one senior faculty member of
+the Department offering the M. Tech. programme as members shall evaluate the
+progress of project work.
+• In Project Review I, a student, in consultation with his Project Supervisor, shall present the
+title, objective and plan of action of his/her project work to the PRC for approval within
+four weeks from the commencement of III semester.
+• A student can initiate the project work only after obtaining the approval of the PRC.
+• The work on the project shall be initiated at the beginning of the III semester.
+• Project Review II shall be conducted and evaluated at the end of the III semester.
+• Project Review III shall be conducted during IV semester to examine the overall progress
+of the project work.
+• A project pre-submission seminar shall be conducted to decide whether or not the
+project is eligible for final submission.
+• After approval from the PRC, a soft copy of the thesis shall be submitted for PLAGIARISM
+check to the Examination Branch.
+• At the end of IV semester upon fulfilling the above conditions, project viva-voce shall be
+conducted.
+• A student shall submit project progress in prescribed report format during each of the
+project reviews.

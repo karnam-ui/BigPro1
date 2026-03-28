@@ -1,0 +1,752 @@
+SOURCE PDF: https://vnrvjiet.ac.in/assets/pdfs/conv2018.pdf
+
+================================================================================
+PDF CONTENT:
+================================================================================
+
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI
+INSTITUTE OF ENGINEERING AND TECHNOLOGY
+An Autonomous Institute, NAAC Accredited with ‘A’ Grade
+NBA Accredited for CE, EEE, ME, ECE, CSE, EIE, IT B.Tech Courses
+Approved by AICTE, New Delhi, Affiliated to JNTUH
+Recognized as “College with Potential for Excellence” by UGC
+Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Hyderabad – 500 090, TS, India.
+Estd.1995 Telephone No: 040-2304 2758/59/60, Fax: 040-23042761
+E-mail: postbox@vnrvjiet.ac.in, Website: www.vnrvjiet.ac.in
+CONVERGENCE 2K18
+Report
+ABOUT:
+The national level Technical Symposium under the banner “CONVERGENCE” has been instrumental
+in shifting the paradigm of usual coursework. Since its inception in 1999, it has evolved as an ultimate
+platform for the techno-maniacs. This is the 19th year of the legacy of convergence. The 2018 edition
+has taken up an untraded path on its way to be stupendous, throwing light on new ideas. It brings in a
+series of events and activities spread over 3 days involving the students of myriad disciplines and
+hence broadening the horizons. Events, Workshops, Presentations, Seminars, and guest lectures were
+organized under each theme.
+COMMITTEE:
+A committee was constituted for undertaking all required work regarding organizing the technical fest
+on 18th December 2017. The core team (final years) consisted of 52 students. There were 143
+Organizers (3rd years) and 121 volunteers (2nd years). The student chapters involved in preparing for
+CONVERGENCE-2K18 were ISTE, IEEE, ISOI, CSI, SAE, VGLUG, VSI and IETE.
+CONVERGENCE 2K18 COORDINATORS:
+Dr. S Nagini, Assoc. Prof., CSE
+Mr. N SandeepChaitanya, Asst. Prof., CSE
+Mr. M Ravikanth, Asst. Prof., CSE
+Mr. D S G Krishna, Asst. Prof., EEE
+Mr. G A V S Sandeep, Asst. Prof., CE
+Mr. P Kishore, Asst. Prof., ECE
+Ms. K Renuka, Asst. Prof., IT
+Mr. K NagendraBabu, Asst. Prof., ME
+Mr. M Hari Krishna, Asst. Prof., ME
+PUBLIC RELATIONS:
+As a part of Public Relations, the PR team held a hand-printing event was conducted to promote
+CONVERGENCE-2K18 within the campus. The internal PR was conducted on 11th January 2018.
+Theexternal PR work was initiated on 23rd January 2018 which went on for 3 days. The colleges
+visited during this period were Sridevi engineering college, GNITS, JBIT, VJIT,Mallareddy colleges,
+MuffakhamJah, St. Martin’s, Narsimhareddy, HITAM, MLR, Gitam, CMR, IARE, BVRIT, MGIT,
+CVR, TKR, MVSR, SriIndu, Spoorthi, SreeDattha, Shreyas, Guru Nanak, BIET, CBIT, JNTUH,
+GRIET, Rishi, BVRIT-women’s. A Pre-event was conducted on 29thJanuary 2018 to give the fresher’s
+an idea of how the fest goes.
+INAGURATION:
+The inaugural event took place on 5th of February 2018. Various dignitaries attended the event and
+gave their precious words regarding the fest. The following is the list of dignitaries that attended the
+event.
+1. Dr. C.D. Naidu -Principal, VNRVJIET.
+2. Dr. A.S. Rao - Dean-Innovation, Incubation, Entrepreneurship &
+Globalization.
+3. Dr. S. Nagini - Co-ordinator,CONVERGENCE 2K18,Associate
+Professor, Departmentof CSE.
+4. Dr. D.N. Rao -Chairman Nominated by Society, VJ
+5. Dr. S. VenkateswaraRao -Chief Guest, Director , ASIC Design,AMD India Ltd
+6. DeepaanwithaChattopadhyay-Chief Guest,Managing director & CEO of IKP
+Knowledge Park (erstwhile ICICI Knowledge Park).
+Dignitaries for the Inaugural Session
+BUSINESS CONCLAVE:
+A Business conclave was conducted after the inaugural ceremony, where various eminent
+people gave their valuable words. The following is the list of all the dignitaries that attended the event.
+1. Mr,Pallela Ramjee:
+• With background skills of toxicology & biomedical nanotechnology (postdoc from
+South Korea), biochemistry & biophysics (PhD from CSIR-IICT, Hyderabad), IPR
+(NALSAR university, Hyderabad), project management activities at ICGEB, New
+Delhi (MBA from Pondicherry University).
+• I am currently placed as Chief Manager, Grants Management Division at IKP
+Knowledge Park, Hyderabad and work towards Biotechnology Ignition Grant (BIG) of
+Biotechnology Industry Research Assistance Council (BIRAC), a Govt. of India
+enterprise.
+• My job profile at IKP involves managing various national and international grants that
+support biotechnology R&D startups as well as academicians and individuals, set
+promotional priorities, develop a flawless work schedule, constantly monitor progress
+towards goals, and track details/data/information/activities.
+• In addition, partly involved in the incubation process of IKP by channelizing potential
+innovators to incubate at IKP.
+2. Mr.S. Venkateswara Rao:
+• S. VenkateswaraRao garu completed his bachelor’s in chemistry and then completed
+his engineering in Electronics and Communication Engineering from
+AcharyaNagarjuna University.
+• He completed his master’s in study digital systems from Osmania University.
+• He worked for Nvidia Graphics Pvt Ltd from 2007 to 2010 in the designation of a
+Senior Engineering Manager.
+• There he has successfully executed Tegra-1 post silicon validation in Santa Clara and
+established different labs in Nvidia Hyderabad development center.
+• Later he contributed his services to Radeon Technology Group, Multimedia Ips from
+2010.
+• Now he serves as the Director, ASIC Design Engineering, Advanced Micro Devices
+India Pvt. Ltd.
+• We are proud to mention here that he is a member, board of studies of many institutes
+including our institute VNR VignanaJyothi institute of Engineering and Technology,
+bridging the gap between Industry and academia.
+• He has 30 years of experience altogether, 20 years of VLSI Industry experience and 10
+years of teaching experience in diverse roles and responsibilities.
+3. Mr.Jignesh:
+• Mastering the art of creating immersive assessments through contextual simulations &
+non-contextual games in VR.
+• Being one of the pioneers in Indian VR scene, Jignesh has been advising innovation
+teams of MNCs and Govt. organisations, to find immediate ways for technology
+adoption.
+• He has also taken a long journey of creating awareness and evangelising the
+technology by building a VR/AR community through BonfireVR.
+• His passion to foster innovation & entrepreneurship made him bring up a science &
+activity center at his alma mater GITAM University, which has brought more than
+15,000 students to collaborate & develop through diverse projects driving social impact
+in 10+ verticals.
+• He has been one of the top contributors for the projects like Solar Car &Hydel Powered
+Water Pump for agriculture apart from the Robot that was presented at National
+Lunabotics competition at NASA.
+• His background in core mechanical engineering got him hands on experience in R&D
+through his work on coatings using nano materials for a project from VRDE (Vehicle
+Research & Development Establishment), a unit of DRDO.
+4. Mr.Diwakar:
+• Diwakar currently heads Christensen Investor Relations (India) Private Limited, a
+global capital markets advisory firm specialising in investor relations. The Indian
+operations of Christensen is 8 years and counting.
+• Diwakar has advised many marquees listed companies on achieving fair market
+valuation in the stock markets.
+• His earlier assignment was at Satyam Computer Services Limited where he handled the
+Investor Relations function actively interacting with fund managers and analysts etc.
+• Diwakar has also about 10 years of experience in Corporate Finance Advisory/Project
+Finance in firms such as NM Rothschild, Tionale Enterprises and ABB India where he
+has been part of teams that has executed projects in the power, roads and port sector in
+India.
+Mr.Jignesh and Mr.Diwakar Addressing the gathering in the event of “Business Conclave”
+EVENTS:
+CONVERGENCE-2K18 hosted a total of 39 events under 6 themes namely Energy,Lifestyle,
+Machines,Structures, Virtual World and Robotics. The following are the specifics:
+ENERGY
+SNO. EVENT NAME Participants From Participants From No. of
+VNRVJIET Other institutes Participants
+1. Speed Bolt 105 5 110
+2. Singling Hub 139 0 139
+3. Clash of Brains 120 0 120
+4. Tech Hunt 106 0 106
+5. Circuitrix 104 4 108
+6. Circuit Cracking 105 5 110
+7. Can You Finish It 100 16 116
+8. Mindsweeper 118 4 122
+9. Find the Clue 88 2 90
+10. Electromania 99 2 101
+11. Electric 36 1 37
+Transmigration
+LIFESTYLE
+SNO. EVENT NAME TOTAL COUNT INTERNAL EXTERNAL
+1. Be An Entrepreneur 121 116 5
+2. Convergence hunt 150 150 0
+3. Where's the flag 145 143 2
+4. Techiladder 142 139 3
+5. Cele fiesta 120 116 4
+MACHINES
+SNO. EVENT NAME TOTAL COUNT INTERNAL EXTERNAL
+1. Automania 121 118 3
+2. Mechanomania 101 100 1
+3. CADwiz 107 106 1
+STRUCTURES
+SNO. EVENT NAME TOTAL COUNT INTERNAL EXTERNAL
+1. Mini builders 112 109 3
+2. Drag me down 141 141 0
+VIRTUAL WORLD
+SNO. EVENT NAME TOTAL COUNT INTERNAL EXTERNAL
+1. TechWiz 144 138 6
+2. KaunBanega C ka Sherlock Holmes 161 153 8
+3. Tic Tac Tech 138 133 5
+4. Tech Scintilla 145 36 9
+5. Stacks & Queues 125 120 5
+6. Tech Pendium 126 119 7
+7. Tech Shot gun 123 111 12
+8. Code Mania 122 110 12
+9. DB Challengers 87 87 0
+10. Technovation 80 72 8
+11. Crazathon 165 157 8
+12. Codekraft 107 103 4
+13. Battle of technocrats 123 119 4
+14. Teckraze 116 114 2
+ROBOTICS:
+WINNER NAME COLLEGE
+ROBO SOCCER
+Team- 1 Sanjay Bhargav SMEC
+Vivek MREC
+Team- 2 Sravani VNRVJIET
+Kranthi VVIT
+Team-3 P.ParvathishwarRao MRIET
+S.Sandeep GRIET
+ALL TERRAIN
+Team- 1 Sanjay Bhargav SMEC
+Team- 2 Sravani VNRVJIET
+Kranthi VVIT
+Team -3 Visla Krishna SPHN
+M.Sravyarao SPHN
+ROBO RALLY
+Team-1 Sravani VNRVJIET
+Kranthi VVIT
+Team-2 Sanjay Bhargav SMEC
+Team-3 Visla Krishna SPHN
+M.Sravyarao SPHN
+Drones participating in the Event of “Drone War”
+HACKATHON:
+This hackathon is conducted by the TuringHut, the coding club of VNRVJIET to encouragethe
+programmers and drive the spirit of Competitiveprogramming among other Computer enthusiasts.
+Criteria of Evaluation: Score of individuals in thecontest. The hackerrank’s intelligent system
+evaluates theparticipants and projects their score on to the leaderboard.
+Rewards: Membership into TuringHut club
+Scheduled dates:5th ,6th February,2018.
+Registrations: 81
+Sign-Up count: 65
+Participation Count: 43
+Platform: hackerrank.com (Junior Level)
+TECHNICAL PRESENTATIONS:
+Under Technical presentations there were 4 domains and over 155 papers were shortlisted. The
+domains were grouped according to branches as follows:
+Domain A-ME, ME, CE
+Domain B-IT, CSE
+Domain C-EEE, ECE, EIE
+Domain D-H&S, other domains
+The presentations were conducted in 8 sessions over a span of 2 days (5th and 6th February 2018). On a
+total, 103 papers were presented by the time the event was concluded.
+Domain No. of
+participants
+A 16
+B 30
+C 44
+D 13
+Total 103
+No. of Papers Received 153
+Internal(VNR VJIET) Papers 50
+External Papers 53
+Total 103
+The judgment panel consisted of 20 faculty members from various departments and divided among the
+4 domains as follows:
+Domain A:
+S.NO. NAME DEPARTMENT
+1 Sri.T.Raju AME
+2 SrI. B.PavanBharadwaja AME
+3 Sri. P.V.S.G.Raghunath CE
+4 Sri. R.Durga Prasad CE
+5 Drk.Ajay Kumar ME
+Domain B:
+S.NO. NAME DEPARTMENT
+1 DrRajasekhar CSE
+2 Dr Deepak Sukheja CSE
+3 DrY.Sagar CSE
+4 DrCh.Suresh CSE
+5 DrD.SrinivasaRao IT
+6 Mr Rajesh Kumar IT
+Domain C:
+S.NO. NAME DEPARTMENT
+1 Dr. McRaju ECE
+2 Dr. Subhodh ECE
+3 Dr. Ranjan ECE
+4 DrT.Nireekshana EEE
+5 DrP.Naresh EEE
+6 MrM.ShivaTeja EEE
+Domain D:
+S.NO. NAME DEPARTMENT
+Smt.
+1 N.ArunaKumari H&S
+Dr. K.
+2 VidhyaSagar EIE
+DrN.Kiran
+3 Kumar ME
+Three papers from each domain were selected as winners. The 1st place winner was awarded a cash
+prize of Rs.1200 along with a merit certificate. The runners-up were awarded cash prize of Rs.800 and
+merit certificate. The 3rd place winners were presented with merit certificates.
+WORKSHOPS:
+There were 9 workshops conducted as a part of convergence. These workshops were focused on the
+latest and upcoming technologies and aimed to give students knowledge on such essential topics. The
+following were the workshops conducted
+Accelerobotix:
+Accelero ARDUINO Botics – new approach to the Human Machines Interface (software +hardware
+with acceleration sensor).
+Student Co-ordinator: Mallikarjun (9492303083)
+Internal registrations: 36
+External registrations: 32
+Amount generated: Rs. 40,800/-
+Resource person name: NabeelQreshi works in Robokart
+Amount spent:
+- Rs. 40,120 (Speaker Money)
+- Rs. 455(cab)
+- Rs. 950(food)
+- Rs. 483(cab)
+Ansys Simulation:
+Introduction to Engineering Simulation,Cae,Fea,Finite volume methods.
+Student Coordinator:Divya(9542459787)
+Internal registrations: 71
+External registrations: 0
+Amount generated:Rs. 46,150/-
+Resource person name:RavinderRaoJalagam works in Mechengg
+Amount spent:Rs. 29,500 (Speaker money)
+BrainWave controlled Robotics:
+Hands-on Workshop about integrating BrainWave Technology and Robotics, also focus on
+conceptualization and designing of complex systems in Robokart Company.
+Student Coordinator:ApporvaReddy (99633327784)
+Internal registrations: 31
+External registrations: 8
+Amount generated:Rs. 27,300/-
+Resource person name:NimeshPullarikal works in Robokart
+Amount spent:
+- Rs. 25,350(Speaker money)
+- Rs. 424(cab)
+- Rs. 300(food)
+- Rs. 428(cab)
+- Rs. 200(posters)
+Building Information Modelling:
+2D to Integrated 3D Digital Interface – Content Integration,Conflict Management.
+Student Coordinator:Munawar (9010294966)
+Internal registrations: 56
+External registrations: 0
+Amount generated:Rs 28,000/-
+Resource person name:MohdLateef works in Androbim
+Amount spent:-Rs. 26,600(Speaker money)
+Cognitive Science and Virtual Reality:
+Mobile Application to predict the emotions of a caller in a video call analysing the Facial expressions
+and speech of the caller using Microsoft Azure Cognitive Science.
+Student Coordinator:Srikanth(7659947633)
+Internal registrations: 34
+External registrations: 1
+Amount generated:Rs 17,500/-
+Resource person name:G.Surendhra works in TCS
+B.Nagashilpa works in CDK Global
+Amount spent:-Rs. 20,000(Speaker Money (10,000 per head))
+Dynamic Analysis using ADAMS CAR Workshop:
+Multibody Dynamics software used to study dynamics of system (Automotive,Robotics,Aerospace).
+Student Coordinator:Vineeth(8179649740)
+Internal registrations: 2
+External registrations: 0
+Amount generated:Rs 800/-
+Resource person name:Prashanth works in VNR VJIET
+Amount spent: 0
+Internet of Things:
+Smart Sensors,Communication Technologies and Internet Protocol.
+-smart city,smarthouse,hospital,cars.
+Student Coordinator:Rajesh(9700566702)
+Internal registrations: 34
+External registrations: 1
+Amount generated:Rs 23,800/-
+Resource person
+name:Dr.V.Padmaja,N.Dhanalaxmi,L.VRajaniKumari,D.RameshReddy,K.Jyosna,S.V.NarayanaRao,J.
+V.ABala Krishna from VNR VJIET
+Amount spent:-Rs. 12,939(Cables and other expenses)
+Machine Learning:
+Extension to Analytics,Training Machine, Artificial Intelligence.
+Student Coordinator:Hanisha,Anjani
+Internal registrations: 38
+External registrations: 0
+Amount generated:Rs 22,800/-
+Resource person name: Nikhil Raj,Swapnil,Ravindra from Capgemini
+Amount spent:Rs. 20,000(Speaker Money)
+Nano Satellite:
+Low mass,Size- (Scientific data & Radio delay)
+Student Coordinator:Roshan (9666925067)
+Internal registrations: 67
+External registrations: 1
+Amount generated:Rs 47,600/-
+Resource person name:Harsha works in Astrosat India
+Amount spent:-Rs. 21,000
+SAARADHI EVENTS:
+As a part of Saaradhi team NSS, TEDx VNRVJIET, VNRSF, VJSV(TLC) came the together to set up
+various stalls for raising awareness about the various programs being undertaken by various societies
+of VNR VJIET.
+NSS
+Here are the events on the three days of SAARADHI theme in CONVERGENCE, 2018 where TEAM
+NSS brings out a platform for engineers to be a part of it. We have four events along with stalls.
+EVENTS:
+1) SOCH: Let’s engineer the tomorrow at “SOCH”. Valuable ideas i.e., technical solutions in the form
+of presentations, models, projects that are related to social issues can be presented. The first best idea
+would be given a prize of Rs.1500, second best Rs.1000 and third best idea of Rs.500.
+First prize: SaiCharan, Prem India
+Second prize: K. Mounika, M. Raviteja
+Third prize: T. Harshitha
+2) WILL YOU BE MY TEACHER: In learning you will teach, and in teaching you will learn.
+“Inspiring the young aspiring minds which are blossoming and are ready to dream, setting their life
+goals. A hope is all that could be offered by us. "
+Mr. MilindChandwani, founder of Camp Diaries came to our college along with his school kids to
+conducted activities like arts and crafts, Rubik’s Cube, Dance, Beat boxing.
+As a token of appreciation, we appreciated him a Memento and the school kids with the Saaradhi
+badges.
+3) I AM NOT A HERO: “STRIVE NOT TO BE A SUCCESS, BUT RATHER TO BE OF VALUE”.
+It is a Forum with those inspiring individuals who took up the rugged path to make this society a
+better place for living. Let those heroes who say, "I am not a Hero" start their journey into light from
+here. The speakers for the event are Mr. VivekPiddempally, Mr. A. JagannadhaRao, Mrs.
+MadhulikaChoudhary. We had an open forum with them where the audience had a discussion with the
+speakers and clarify their thoughts. We honored the dignitaries with the saplings and Mementos.
+Participants in the Event “Iam not a Hero”
+4)RAITHANNA AVISHKARANA: With the sole aim of providing horizontal dissemination of the
+rural creativity from village to village and farmer to farmer Pallesrujana is one such platform who is
+working constantly on this. It also provides a platform for the grassroots innovators to display their
+creativity and traditional knowledge.
+We arranged two stalls to set up all the equipment andhonored the coordinator and the farmer with the
+cash prize of Rs.1000 each.
+STALLS:
+1)PARICHITHAM: This stall includes the prototypes from the case-studies, inspired from the videos
+i.e., from Ted Videos. It also included the information and the usage of different kinds of government
+applications which are not known to us.
+2)AAVISHKAAR: It is about the recent inventions, that would help in solving the problems like
+Delhi pollution etc. The models which we exhibited includes Smart water cannon, Smog air tower,
+Edible Cutlery etc.
+3)SANKALP SE SIDDHI: Sankalp Se Siddhi is an initiation by our Indian government for the New
+India. We have portrayed four themes in it. They are Clean India, Terrorism, Corruption, Poverty.
+4)NSS GALLERY: We have a VISION and a MISSION for every event which we do. This gallery
+helps the audience in knowing the vision and mission of the events which we do and throwing a light
+on the solutions for the problems which we are trying to solve.
+Stalls during “Convergence”
+VJSV(TLC):
+The VJSV(TLC) has set up a stall under Saaradhi. The stall was named as UNIKI (‘ఉనికి’) which
+aimed to emphasize the importance of Telugu and Telugu speaking people to the current day
+generation. They gathered people and explored Telugu in a playful manner in the form of riddled quiz
+and over 90 people visited the event.
+The charts were on display till 6th February 2018.
+VNRSF:
+VNRSF the student force of VNRVJIET took an active part in conducting various events like
+social assembly, jagruthi, Praja, Mulam and WOW (Wealth Out of Waste).
+1)JAGRUTHI:
+Jagruthi, the name depicting - “enlightenment” is an awareness stall. The stall dealtwith how a
+nation can develop by developing the individual in various aspects which comesunder a broader
+umbrella called Human Development Index (HDI)”. HDI is the measurementof development of people
+in the country considering the factors such as Life expectancy,Education and Opportunities and the
+GDP and National per capita income. So, here comes therole of an individual in developing himself,
+community or the people around him and his state and country individually and collectively.
+In the stall the students, faculty and visitors come to know and understand how theycan contribute in
+raising the factors for HDI. Factors such as Life expectancy can be increasedthrough good health and
+protecting and conserving the environment. Good education can bereceived through the addition of
+morals to the intellectuality and abolishing the inequalitiesamong the people based on color, creed,
+region, religion and gender. National income canbe achieved through various roles we take as a
+responsible citizen and being a good taxpayer.This stall helped the visitors understand how they can
+contribute for the development of thecountry and in ranking good in HDI through the examples of
+Scandinavian countries whichstands top in Education, Health, Peace, Happiness indices.
+Organizers:
+Ch. Murali Krishna
+V. Amulya
+2)PRAJA:
+“Knowledge is of no value unless you put it in to practice”
+Believing these lines VNRSF organized PRAJA (PRA-prashnalu JA- jawabulu), a quiz on social
+aspects, creating a platform for the students to assess their social awareness and knowledge over the
+current affairs on 7th February
+Round 1:
+Students were tested on the topics like economics, arts, sports, agriculture, cinema and logical and
+reasoning in this round. Nearly 50 members participated in this round
+Round 2:
+In this section 6 teams got short listed and were not only tested on the knowledge but also their
+attentiveness to the questions and made it productive
+In this event along with the participants audience also shared the platform to share the knowledge
+through fun learning.
+Organizers:
+1) R. Vasavya
+2) A. Venkatesh
+3)MULAM:
+MULAM- giving the meaning for back to roots is an organic stall. We dispose all kinds of waste and it
+goes to the dump yard, where soil gets infertile and releases harmful gases. To utilize this waste
+effectively, this stall gives cognizance on how to prepare organic manure by ourselves to save our
+environment with biodegradable waste in our homes and surroundings. A member from SwachaGraha
+organization came here and showed practically how to prepare organic manure. This stall continued
+for 2 days and there was a huge response from the audience and faculty.
+Organizers:
+Srinidhi
+Navitha
+4)SOCIAL ASSEMBLY:
+Social Assembly is a discussion platform where one can raise their voice against social issues and at
+the same time have a chance to share the perspectives. We conducted Social Assembly on 4 topics.
+Topics discussed:
+1) Are jobs the end goals of B-Tech.?
+2) Should Aadhaar be made mandatory for all subsidies and services?
+3) Is VNRVJIET ready to welcome LGBTQ+?
+4) Is “FACEBOOK” a money-making platform or a Human networking platform?
+On these topics the discussion went on with the active participation of the students and faculty.
+More than 50 students and faculty members were involved in every discussion. Among all the
+involved members the most active participants are identified and recognized with certificates and
+prizes.
+Organizers:
+B. Pravalika
+A. Chandana
+Dr DN Rao participating the Event of Social Assembly
+5)WOW:
+WOW is a platform giving awareness on how waste can be converted into beautiful items and creates
+wealth out of it.
+Not only showcasing the items made of the waste which are made by the team but also explaining the
+importance of the waste management, the WOW stall got a huge round of applause from the faculty
+and the students. On the last day of the convergence, the items were put on auction and the money will
+be converted as the fund to the orphanages.
+TEDxVNRVJIET:
+The following is the detailed report of the stall held by TEDxVNRVJIET during Convergence.
+• The objective of the stall was to make more people aware about TED, TEDx and
+TEDxVNRVJIET.
+• The stall was held during the first two days of Convergence i.e. 5th and 6th of February.
+• The stall consisted of small interactive activities to engage people.
+• one such activity was the Photo-Booth, where everyone who posted their photos on any social
+media with the handle #tedxvnrvjiet were awarded with a TEDxVNRVJIET badge.
+• Other activities include Color-Psychology and "What am I grateful at this moment?".
+• In a total the approximate footfall at the stall was about 300-400 and a total of 120 badges were
+given out.
+EVENTS PRIZE LIST:
+ENERGY THEME:
+WINNER NAME COLLEGE
+Speed bolt
+Team- 1 K. Harisha VNRVJIET
+A. Praveena VNR VJIET
+Team- 2 Nikhil.M VNR VJIET
+Jashwitha.N VNR VJIET
+Singling hub
+Team-1 M.Jyothi Swaroopa VNR VJIET
+Team-2 M.Yaswitha VNR VJIET
+Circuitrix
+Team-1 V. Amulya VNRVJIET
+Team-2 M. Vignatha VNR VJIET
+Mindsweeper
+Team-1 B.Roshini VNRVJIET
+Team- 2 T.Spurthy VNRVJIET
+Find the clue
+Team- 1 Sai Charan.M VNRVJIET
+Team -2 Lalith.B VNRVJIET
+Electromania
+Team -1 D Ajay VNRVJIET
+Bhargav VNRVJIET
+Team -2 Sandeep V VNRVJIET
+M.R. Visodhan VNRVJIET
+Can you finish
+it
+Team -1 Harshitha VNRVJIET
+ShaikRoohina VNRVJIET
+Team -2 Pradeep Kumar D VNRVJIET
+PraneethMargam VNRVJIET
+Clash of brains
+Team-1 M.Manjush Reddy VNRVJIET
+Team- 2 H.Sai Prasad VNRVJIET
+Tech Hunt
+Team-1 A.Vaishnavi VNRVJIET
+Sahithi VNRVJIET
+Team -2 M vamshi VNRVJIET
+S.abhinav VNRVJIET
+Circuit
+Cracking
+Team-1 Venugopal VNRVJIET
+B.Sushmitha VNRVJIET
+Team-2 Akash VNRVJIET
+Santhosh VNRVJIET
+LIFESTYLE:
+WINNER NAME COLLEGE
+Be an
+Entrepreneur
+Team-1 B LalithBharadwaj VNRVJIET
+Rama Krishna Pardhu VNRVJIET
+Team-1 BinduPallavi VNRVJIET
+S.Shravani VNRVJIET
+Convergence
+Hunt
+Team-1 G Prathima VNRVJIET
+Team-2 K Sowmya VNRVJIET
+Where's The
+Flag
+Team-1 RidhaFarzeen VNRVJIET
+Kalyanisangam VNRVJIET
+Team-2 Y.Vaishnavi VNRVJIET
+V.supraja VNRVJIET
+Techiladder
+Team-1 SaadiaHussan VNRVJIET
+Rahul VNRVJIET
+Team-2 N.PranayPriyan VNRVJIET
+Cele Fiesta
+Team-1 G.Poojitha VNRVJIET
+Team-2 J.Sai Chandra Reddy VNRVJIET
+MACHINES:
+WINNER NAME COLLEGE
+Automania
+Team-1 K.Nihar VNRVJIET
+Team-2 M.Vaisrav VNRVJIET
+Mechanomania
+N.Vinay VNRVJIET
+Team-1 Ch.Sreemukhi VNRVJIET
+B.Srilekha VNRVJIET
+Team-2 SnehaRajbhaumaska VNRVJIET
+CADwiz
+Team-1 T.Rahul VNRVJIET
+Team-2 koushik VNRVJIET
+STRUCTURES:
+WINNER NAME COLLEGE
+MiniBuilders
+Team- 1 M.Vikas Kumar VNRVJIET
+P.Koushik VNRVJIET
+Team- 2 D.Kumar VNRVJIET
+Y.Meghana VNRVJIET
+B.SaiTharun VNRVJIET
+Drag Me Down
+Team- 1 Sai Praveen VNRVJIET
+Naveen Varma VNRVJIET
+Team- 2 K.Murali VNRVJIET
+K.Harshavardhan VNRVJIET
+VIRTUAL WORLD:
+WINNER NAME COLLEGE
+Techwiz
+Team-1 RangaSai Praveen VNRVJIET
+Team-2 N.Hemanth VNRVJIET
+K.TarunTeja VNRVJIET
+Tic tac tech
+D.lakshminarshim
+Team-1 a VNRVJIET
+Team-2 k.sravanikumari VNRVJIET
+Tech scintilla
+Team-1 M.Saieeshwar VNRVJIET
+Team-2 P.Rahul Reddy VNRVJIET
+Tech shotgun
+Team-1 K.Bhavya MRECW
+K.Pooja MRECW
+Team-2 S.Ruchira Devi VNRVJIET
+SaiVaishnavi VNRVJIET
+Code mania
+Team-1 P.Koushik VNRVJIET
+Team-2 K.Tejasree MRECW
+DB challengers
+mane
+Team-1 satyamohanth
+Team-2 B.V.Yamini VNRVJIET
+Technovation
+Team-1 K.Harisha VNRVJIET
+A.Praveena VNRVJIET
+Team-2 Jeshmitha VNRVJIET
+Sravani VNRVJIET
+Crazathon
+Team-1 K pooja MRECW
+Team-2 M SaiEshswar VNRVJIET
+Tech Pendium
+MadhurendraTrip
+Team-1 athy VNRVJIET
+DeekshithBommi
+di VNRVJIET
+Team-2 K.Ramprasad VNRVJIET
+B .Srikanth VNRVJIET
+Battle of technocrafts
+Team-1 M.Manjush VNRVJIET
+M. Nithin VNRVJIET
+Team-2 Sreedhuti.P.S.S VNRVJIET
+Ritheesh VNRVJIET
+Stacks and Queues
+Team-1 G Vidya VNRVJIET
+Team-2 V Supraja VNRVJIET
+Teckraze
+Team-1 D.Udaykumar VNRVJIET
+Team-2 E.priyanka VNRVJIET
+Kaunbanega C ka
+Sherlock Holmes
+Team-1 G. Utham VNRVJIET
+Team-2 G. Kovid VNRVJIET
+Codekraft
+Team-1 P.Supraja VNRVJIET
+P.Hrithik VNRVJIET
+Team-2 Sreenehar VNRVJIET
+Rakshith Raj VNRVJIET
+TECHNICAL PRESENTATIONS PRIZE LIST:
+The following were the winners of the technical presentations:
+Day Domain Name 1 Name 2 College Paper name Prize
+5th
+A S.Jashwanth Reddy CVSR 3d printing Buildings 1st
+Feb
+5th
+B Syed Uzair MJCET IoT 1st
+Feb
+design and
+5th implementation
+C C Subhadra K. HemaLatha VNRVJIET 1st
+Feb of multi featured
+wheelchair
+5th Design and analysis of
+D V Raju YashwanthRao B MLRIT 1st
+Feb Micro uav
+6th
+B R.Akhila K.SaiChandana VNRVJIET pill camera 1st
+Feb
+6th
+B G.Sai Mani Raj TKR project soli 1st
+Feb
+6th Ch. Mohith GIOE SEC
+C D. ManojKhanna venous clot 1st
+Feb Krishna COLLEGE
+6th
+C D. Spandana Reddy D. Sravani VNRVJIET project Loon 1st
+Feb
+5thFeb A Rajeev Chavali M.Varun Reddy MLRIT voice controlled car 2nd
+5th Brain controlled car
+B T. Prathyusha M. Reshma GNITS 2nd
+Feb for
+disabled using
+Artificial
+Intelligence
+5th
+C Shravani S K BinduPallavi VNRVJIET light emitting polymer 2nd
+Feb
+effect on business if
+5th machines have
+D KvssRavindranath Karthik.A CBIT 2nd
+Feb common
+intelligence
+6th
+B V SaiSrinivas VNRVJIET spark streaming 2nd
+Feb
+6th
+B K. Kavya K. Rishi Varma ALGO-C 2nd
+Feb
+6th
+C K. Harika D. Keerthi VNRVJIET smart helmet 2nd
+Feb
+raspberry pi based
+6th interactive
+C L. Pavan Kumar MREC 2nd
+Feb home automation
+through email
+5th Vijay Rashmi
+A GanjiPrashanth JNTUCEH VCR Engine 3rd
+Feb Chand
+5th
+B S.Jashwanth Reddy CVSR brain finger printing 3rd
+Feb
+5th
+C AakashBoenal Md.ImtiazAhamed VNRVJIET quantum computing 3rd
+Feb
+5th
+D A KanchanaValli SreejaBattagiri VNR VJIET future of fiducials 3rd
+Feb
+performance
+5th
+D J Sirisha G Vaishnavi MLRIT parameters of 3rd
+Feb
+air foil
+6th
+B P. Preethi Reddy S.Sowkya VNRVJIET sixth sense technology 3rd
+Feb
+6th
+B AlasatiDassani P.Shriya VNRVJIET blue eye technology 3rd
+Feb
+6th Man-less tollgate
+C G. Niranjan L. Kanchitha MLRIT 3rd
+Feb system
+6th 360 tyre energy
+C P.Prathyusha VNRVJIET 3rd
+Feb efficient one
+VALEDICTORY:
+• 4.00 pm Welcoming the Audience.
+• 4.05pm Inviting the guests and dignitaries onto the dais.
+• 4.15 pm Invocation.
+• 4.20 pm Address by Dr. Y. Padma Sai, Dean, Student Progression.
+• 4.25 pm Address by Dr. C. D. Naidu, Principal, VNRVJIET
+• 4. 35 pm Address by Chief Guest Sri KittuVisapragadda, Lyricist and Cine writer.
+• 4.45 pm Address by Ms. AmulyaRacharla, Marketing Manager – Vodafone
+• 4.50 pm Prize Distribution,
+• 5.20 pm Felicitation of the Chief Guest
+• 5.25 pm Vote of thanks.
+Dr.S.Nagini
+Co-Ordinator
+CONVERGENCE-2K18
